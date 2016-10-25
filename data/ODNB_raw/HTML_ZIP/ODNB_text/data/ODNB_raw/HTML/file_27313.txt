@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27313;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27313-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27313-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27313#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Thomson,  James Bruce</span>  (1810&#150;1873), <span class="occ">medical criminologist</span>, was born in January 1810 at Fenwick in Ayrshire, the son of James Thomson and Helen Bruce. The parents appear to have died while their children were young. Left in destitute circumstances, James was raised and educated by a family friend. He studied at Glasgow University, and began medical practice in Tillicoultry, near Stirling, some years before taking his diploma as a licentiate of the Royal College of Surgeons of Edinburgh in 1845. He married Agnes Laing about 1845, but the marriage was not a success and resulted in a separation.<br>
+<br>In the woollen mills around Tillicoultry, Thomson acted as a factory surgeon, and in his first publication he extolled the healthiness of mill labour, especially for children. This gained him the attention of Sir John Kincaid, inspector of factories and prisons for Scotland, who subsequently drew the attention of the general board of prisons to Thomson's abilities. Consequently, he was appointed first resident surgeon to Perth general prison in 1858.<br>
+<br>Thus placed in medical charge of a large number of prisoners, Thomson was able to lend statistical weight to the developing medical literature on crime and criminality. Immediately prior to his appointment he had written on the hereditary predisposition to dipsomania, regarding severe cases of it as a form of moral insanity. Thomson's writings on criminals similarly emphasized hereditary factors and alleged a close connection between insanity and crime, or between &#145;madness and badness&#146;. In his two most widely regarded papers, &#145;The hereditary nature of crime&#146; and &#145;The psychology of the criminal&#146;, both published in the <span class="italic">Journal of Mental Science</span> in 1870, he maintained that 12 per cent of prisoners were mentally weak, and that one in forty-seven was insane. Thomson's inclination to interpret crime in biological and psychological terms led him to search for physiognomical and other physical stigmata of criminality. From prison statistics, he established that tuberculosis was the most common ailment of criminals, and that diseases of the nervous system were next in frequency. Although in 1865, when he and Sir Robert Christison prepared a special report on the prison dietaries of Scotland, Thomson was hopeful that criminals might be reformed by improvements in their diet and environment, by 1870 he had become convinced that they were incorrigible.<br>
+<br>Thomson's work was contemporaneous with that of the medical statistician William Guy and the prison medical officers George Wilson and David Nicolson. In general, these men's writings amplified the progressive degeneration theory of the French criminal anthropologists B. A. Morel and P. Despine, and anticipated the work of the Italian C. Lombroso (1835&#150;1909). Thomson regarded his work as more empirically based and practically orientated than that of the European theorists, and, indeed, it was these features which rendered it attractive both to penal reformers in Britain (especially those interested in refining the classification and segregation of criminals), and to professionalizing practitioners in the treatment of mental disorders. Chief among the latter was Henry Maudsley who celebrated Thomson's writings for the support they gave to his belief that mental illness was largely inherited and that a tendency to insanity could not be controlled by the will of the individual. Maudsley's appreciation mainly accounts for the attention Thomson's work has continued to receive from historians.<br>
+<br>Thomson maintained medical interests beyond those relating to criminality. In the <span class="italic">Edinburgh Medical Journal</span> and the <span class="italic">Journal of Mental Science</span>, where most of his publications appeared between 1858 and 1870, he also wrote on the diseases of coalminers, epilepsy, the external use of medicines, poisoning, and the dietary of Scottish agricultural labourers. He was also the originator, in 1861, of the Perthshire Medical Association and was an active member of other local and regional professional bodies. In 1872 his health broke down. He suffered from gangrene of the leg for many months, and died at High Fenwick, Ayrshire, on 19 January 1873.<br>
+<br>Roger Cooter </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27313&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <em>Perth Advertiser</em> (23 Jan 1873) &middot; C. H. S. Jayewardene, &#145;The English precursors of Lombroso&#146;, <em>British Journal of Criminology</em>, 4 (1963&#150;4), 164&#150;70 &middot; J. Saunders, &#145;Quarantining the weak-minded: psychiatric definitions of degeneracy and the late-Victorian asylum&#146;, <i>The anatomy of madness</i><i>: essays in the history of psychiatry</i>, ed. W. F. Bynum, R. Porter, and M. Shepherd, 3 (1988), 273&#150;96 &middot; J. B. Thomson, &#145;The influence of the woollen manufactures on health&#146;, <em>London Medical Gazette</em>, new ser., 2 (1839&#150;40), 462 &middot; J. B. Thomson, &#145;Hereditary predisposition to dipsomania&#146;, <em>Edinburgh Medical Journal</em>, 3 (1857&#150;8), 890&#150;92 &middot; J. B. Thomson, &#145;Statistics of prisoners: their death-rate and their diseases [6 pts]&#146;, <em>Edinburgh Medical Journal</em>, 6 (1860&#150;61), 135&#150;44, 336&#150;44, 972&#150;81; 7 (1861&#150;2), 136&#150;44, 524&#150;31, 1109&#150;20 &middot; J. B. Thomson and [R. Christison], &#145;Notes on the prison dietaries in Scotland [pt 1]&#146;, <em>Edinburgh Medical Journal</em>, 11 (1865&#150;6), 987&#150;97 &middot; <em>London and Provincial Medical Directory</em> (1858) &middot; d. cert.<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Roger Cooter, &#145;<span class="roman"><span class="headword">Thomson,  James Bruce</span>  (1810&#150;1873)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/27313, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Bruce Thomson (1810&#150;1873): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27313 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

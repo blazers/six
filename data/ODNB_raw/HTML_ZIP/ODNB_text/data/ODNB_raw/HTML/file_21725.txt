@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21725;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21725-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21725-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21725#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pearson,  William</span>  (1767&#150;1847), <span class="occ">astronomer</span>, was born at Whitbeck in Cumberland on 23 April 1767, the second son of William Pearson (<i>bap</i>. 1733, <i>d</i>. 1795), a yeoman, and his wife, Hannah Ponsonby (<i>bap</i>. 1739). Educated from 1785 at the grammar school of Hawkshead, near Windermere, in Lancashire, he became a teacher there before leaving to reside at Lincoln, where he taught at the free grammar school and became curate of St Martin's in 1794. His first scientific interest there was mechanical, for he constructed a curious astronomical clock and an orrery, described in 1797 a new electrical machine, and in 1798 devised a satellitian, for showing the phenomena of Jupiter's satellites. A copy of this last device is in the Museum of the History of Science at Oxford. In 1800 Pearson moved to London to become a partner in Elm House School, Parsons Green, Fulham; two papers on the minor planet Ceres were dated from there in 1802.<br>
+<br>Pearson was one of the original proprietors of the Royal Institution, and in 1803 completed a planetarium for illustrating Dr Thomas Young's lectures. He designed and built, or had built, other planetary machines notable for their accuracy and also for being designed for use in large lecture halls. All his machines were described by him in his articles &#145;Orrery&#146; and &#145;Planetarium&#146; for Rees's <span class="italic">Cyclopaedia</span>. His final machine, an orrery built in 1813, survives, as original or as a copy, in the Science Museum, London. On 10 January 1810 he was presented to the rectory of Perivale, Middlesex, and, by Lord Chancellor Eldon on 15 March 1817, to that of South Kilworth, Leicestershire. In 1811 he became owner of a large and very successful private school at Temple Grove, East Sheen, Surrey, where, having established an observatory, he measured the diameters of the sun and moon during the partial solar eclipse of 7 September 1820 with one of Dollond's divided object-glass micrometers. These skills and researches gained him the award of an honorary LLD from the University of Glasgow in 1815 and election to fellowship of the Royal Society in 1819.<br>
+<br>The foundation of the Astronomical Society of London was significantly due to Pearson's initiative. In 1812, and again in 1816, he made suggestions which were discussed at a meeting held at the Freemasons' Tavern on 12 January 1820. Pearson helped to draw up the rules, and acted as treasurer during the first ten years of the society's existence. On selling his school and quitting East Sheen in 1821 he moved to South Kilworth, where he lived for the rest of his life. There he erected his second observatory, first in a wing added to the rectory, later as a separate building. Among the fine instruments collected there were a 3 foot altazimuth, originally constructed by Troughton for the St Petersburg Academy of Sciences, an achromatic refracting telescope by Tulley, a transit by Simms, and a clock by Hardy. A piece of flint-glass by Guinand, nearly 7 inches across, purchased by him in 1823 for &pound;250, was worked by Tulley into the largest object-glass then in England.<br>
+<br>Pearson's first notable observations at South Kilworth were of the occultations of the Pleiades in July and October 1821. The two quarto volumes of his <span class="italic">Introduction to Practical Astronomy</span> were published in 1824 and 1829. The first was composed mainly of tables for facilitating the processes of reduction of astronomical observations, while the second gave elaborate descriptions of various astronomical instruments, accompanied by engravings of them and instructions for their use. For this publication, styled by Sir John Herschel &#145;one of the most important and extensive works on that subject which has ever issued from the press&#146;  (Herschel, 216), he received, on 13 February 1829, the gold medal of the Astronomical Society. To that body he bequeathed the stock and plates of the work. The second volume of <span class="italic">Practical Astronomy</span> drew heavily on some of the sixty-three articles which Pearson had previously contributed to Rees's <span class="italic">Cyclopaedia</span>. His articles on horology in that work were reprinted in 1970.<br>
+<br>In 1831 Pearson was appointed to the new board of visitors to the Royal Greenwich Observatory, on which he served until his death. In 1830, assisted by a village mathematician named Ambrose Clarke, he began the reobservation and computation of 520 stars tabulated for occultations in his <span class="italic">Practical Astronomy</span>. The resulting catalogue was presented to the Royal Astronomical Society on 11 June 1841. On 29 October 1835 he observed Halley's comet, and in 1839 he deduced from his own determinations a value for the obliquity of the ecliptic. Some improvements effected by him in Rochon's doubly refracting micrometer were claimed by Arago, but the accusation of plagiarism was satisfactorily refuted.<br>
+<br>On 22 February 1796, at Retford, Nottinghamshire, Pearson had married Frances Low (<i>b</i>. 1770), the second daughter of Robert Low of Lincoln, an ironmonger, with whom he had his only child, Frances, in 1797. They are depicted with Pearson and one of his planetary machines in an oil portrait by Thomas Phillips (<i>c</i>.1810). Following his wife's death in October 1831, about 1833, in Yorkshire, Pearson married Eliza Sarah, who appears to have been a widow many years his junior; she died in 1869.<br>
+<br>Pearson died at South Kilworth on 6 September 1847 and was buried in the churchyard there on 13 September. A tablet inscribed to his memory in the church testifies to his example as a clergyman, a magistrate, and a benefactor. Pearson had become a wealthy man. He owned land in Leicestershire, Oxfordshire, Northamptonshire, Warwickshire, and Westmorland. He left his land to his nephew William Pearson, the eldest surviving son of his elder brother John, and &pound;12,000 in cash went to other relatives.<br>
+<br>A. M. Clerke<span class="italic">, rev. </span> David Philip Miller </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. J. Gurman and S. R. Harratt, &#145;Revd Dr William Pearson (1767&#150;1847): a founder of the Royal Astronomical Society&#146;, <em>Quarterly Journal of the Royal Astronomical Society</em>, 35 (1994), 271&#150;92 &middot; H. C. King, &#145;Some outstanding planetary machines of nineteenth-century Britain&#146;, <i>Geared to the stars</i><i>: the evolution of planetariums, orreries, and astronomical clocks</i> (1978), 322&#150;40 &middot; R. Sheepshanks, <em>Memoirs of the Royal Astronomical Society</em>, 17 (1847&#150;8), 128&#150;33 &middot; <i>History of the Royal Astronomical Society</i>, [1]: <i>1820&#150;1920</i>, ed. J. L. E. Dreyer and H. H. Turner (1923) &middot; J. F. W. Herschel, &#145;An address &hellip; on February 13 1829, on presenting the honorary medals to the Rev. William Pearson, Professor Bessel, and Professor Schumacher&#146;, <em>Memoirs of the Astronomical Society of London</em>, 4 (1830), 215&#150;24 &middot; W. Pearson, &#145;The description of a new portable electrical machine&#146;, <em>Nicholson's Journal</em>, 1 (1797), 506&#150;11 &middot; W. Pearson, &#145;A model proposed for the construction of a satellitian&#146;, <em>Nicholson's Journal</em>, 2 (1799), 122&#150;32 &middot; W. Pearson, &#145;Concerning the new planet Ceres&#146;, <em>Nicholson's Journal</em>, new ser., 1 (1802), 284&#150;7 &middot; W. Pearson, &#145;On the new planet Ceres&#146;, <em>Nicholson's Journal</em>, new ser., 2 (1802), 48&#150;55 &middot; W. Pearson, &#145;A report on the properties and powers of a new three-feet altitude and azimuth instrument&#146;, <em>Memoirs of the Astronomical Society of London</em>, 2 (1826), 261&#150;76 &middot; W. Pearson, &#145;Observations of the occultations of the Pleiades by the moon&#146;, <em>Memoirs of the Astronomical Society of London</em>, 2 (1826), 289&#150;90 &middot; H. C. Plummer, &#145;William Pearson, 1767&#150;1847&#146;, <em>Occasional Notes of the Royal Astronomical Society</em>, 6 (1939), 75&#150;7 &middot; parish registers (baptism), Whitbeck, Cumbd<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21725&amp;istheme=&amp;target=CUL')">CUL</a>, Airy MSS, Royal Greenwich Observatory MSS, RGO6
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21725&amp;istheme=&amp;target=RAS')">RAS</a>, RAS letters<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> T. Phillips, group portrait, oils, 1800? (with wife and daughter), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21725&amp;istheme=&amp;target=RAS')">RAS</a> &middot; portrait, repro. in Dreyer and Turner, eds., <i>History of the Royal Astronomical Society</i>, frontispiece<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> approx. &pound;2000 p.a. from land; also &pound;12,000 cash legacies: Gurman and Harratt, &#145;Revd Dr William Pearson&#146;; will, TNA: PRO, PROB 11/2066<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. M. Clerke, &#145;<span class="roman"><span class="headword">Pearson,  William</span>  (1767&#150;1847)</span>&#146;, rev. David Philip Miller, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/21725, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Pearson (1767&#150;1847): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21725 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/21725/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

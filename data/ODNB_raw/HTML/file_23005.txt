@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23005;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23005-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23005-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23005#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Rae, Sir  William</span>, third baronet  (1769&#150;1842), <span class="occ">judge</span>, was born in Edinburgh on 14 April 1769, the younger son of <script>writeSeealsoLink('../view/article/23001/', "Sir David Rae, first baronet (1729&#150;1804)")</script>, judge, and his wife, Margaret, daughter of John Stuart of Blairhall, Perthshire. He was educated at Edinburgh high school (1779&#150;82), at Glasgow University (<i>c</i>.1788), and then at Edinburgh University. On 9 September 1793 he married Mary (<i>d</i>. 1839), daughter of Lieutenant-Colonel Charles Stuart. They had no children.<br>
+<br>Rae appears to have spent a convivial youth, and he retained convivial habits. At the age of nineteen he joined Walter Scott in founding &#145;The Club&#146;. The two became lifelong friends. Scott referred to &#145;dear loved Rae&#146; in the introduction to the fourth canto of <span class="italic">Marmion</span>, and later said that he was &#145;sensible, cool-headed, and firm, always thinking of his duty, and never of himself&#146;  (Lockhart, 1.207&#150;8 n., 6.140). Rae followed his father's profession and became an advocate in 1791, but fifteen years later he was still described as &#145;not in great practice, of useful rather than shining abilities&#146;  (HoP, <span class="italic">Commons</span>, 5.2). He had, as a freeholder in Lanarkshire, whiggish connections with the duke of Hamilton and Lord Rosslyn. Through their influence he was appointed sheriff of Orkney in 1801. His politics remained, however, tory enough to win him promotion as sheriff of Edinburgh in 1809. On 22 May 1815 he succeeded his brother as third baronet.<br>
+<br>Rae's tranquil career changed course abruptly in June 1819 when he was appointed lord advocate in place of the bungling Alexander Maconochie. The government needed a steadier hand to deal with the social upheavals after the end of the French wars. Lord Melville, the Scottish manager, described Rae as &#145;a most judicious adviser&#146;  (Fry, 339), and Lord President Hope found him a man &#145;of conciliatory manner and frank and open temper&#146;  (ibid.). Maconochie had tried harsh repression; Rae's line, while still firm, was markedly more moderate. He virtually ceased taking action against trades unions, because their illegality was by no means certain under Scots law, and because &#145;in none of the cases of simple combination which came before me was I satisfied that the masters were entirely without blame&#146;  (Fry, 336).<br>
+<br>In April 1820 the &#145;radical war&#146; broke out&#151;an armed rebellion, if on a modest scale, by groups of industrial workers in the west of Scotland. Rae thought the authorities there indolent and panicky at once, and correctly predicted that the business would end in nothing. He went to Glasgow himself and remained unimpressed: &#145;Although we have had abundance of false alarms, all has continued quiet in Scotland&#146;  (Fry, 340). The radicals were cowed, he added, to such an extent that it might be difficult to bring them to justice. Rae disdained resort to the use of spies, turncoats, agents provocateurs, and other methods normal in Scottish forensic investigation. As he set about restoring order, he showed for the most part a good sense of public relations, tempered justice with mercy, and struck shrewd plea-bargains with prisoners and their counsel. Nevertheless, he led personally for the crown in the trials of Andrew Hardie and other radicals during the summer of 1820, on indictments of high treason; three of them were hanged.<br>
+<br>On taking office, Rae had been elected MP for the Anstruther burghs. Much of his parliamentary career would be taken up with repelling reformers' attacks on the existing system of government of Scotland. In February 1822 he opposed Lord Archibald Hamilton's motion for a committee of the whole house on the notoriously corrupt councils of the royal burghs. Since they also elected MPs, Rae objected that any change in their constitutions would amount to &#145;a parliamentary reform of the burghs of Scotland&#146;  (<span class="italic">Hansard 2</span>). A few days afterwards, however, he introduced a bill to remedy at least the financial abuses in them. It became law but remained a dead letter. Later in the year he was embarrassed by the affair of the <span class="italic">Glasgow Sentinel</span>, a tory paper which the government subsidized. Libels published in it had led to a duel in which Alexander Boswell, son of the biographer, was shot dead. Rae prosecuted his killer, James Stuart, for murder. He was then himself heavily criticized for his part in supporting the newspaper. A motion in the House of Commons calling for an inquiry was defeated by an unusually small margin.<br>
+<br>In other respects, Rae proved himself more liberal. He successfully resisted pressure for a tightening of the already parsimonious Scots poor law. He undertook a major series of legal reforms. The lord advocate nominated to the Scottish bench, and Rae made sure that some leading whig advocates were given the preferment that once would have been refused them. He ended the long-standing grievance that judges could themselves appoint juries in criminal cases, and replaced this practice with a ballot. He set up in 1824&#150;5 a royal commission to look at the general structure of the judiciary, with special reference to procedure and appeals, both of which were too cumbrous and slow. As a result he was able to plan a thorough reorganization of the higher Scottish courts, which gave them more or less their modern shape. He carried this into law by an act of 1830. He also initiated a review of the state of Scottish prisons (1825). He set up a second royal commission on the universities in 1826 and served on it himself. This brought to light a number of weaknesses in a system of which Scotland was immensely proud, though no legislative remedy was to follow for many years.<br>
+<br>In the general election of 1826, Rae lost his seat. The problems in his constituency appeared to be of no wider significance, but they gave startling evidence of decay in Melville's electoral machine. Rae was returned as MP for Harwich in 1827, soon after the political crisis at Westminster following the retirement of Lord Liverpool. Melville refused to serve under his successor, George Canning, but Rae, along with other officers of government in Scotland, agreed to stay on. This was a decisive break in the system of management under which the country had been ruled for fifty years and more.<br>
+<br>Rae kept his post through further changes of ministry. One diversion from the rampant factionalism at Westminster was his leading the prosecution in December 1828 of William Burke, the &#145;resurrectionist&#146;, who was convicted and hanged. Higher political events caught up with Rae in 1830. Melville, by then back in office, refused to recommend him to the lucrative post of chief baron of exchequer, which he might reasonably have expected after eleven years in harness. His colleague John Hope, the solicitor-general, wrote: &#145;The treatment of the Advocate is scandalous. I think it the very harshest and most unfeeling thing any Government ever did &hellip; The cry against Lord Melville is louder and more general than any ever raised in my time as to any public or personal matter&#146;  (Fry, 377; Omond, 349).<br>
+<br>Rae was made a privy councillor on 19 July 1830. He found another Scottish seat, in Bute, at the general election of that year, and resigned on the fall of the tory ministry in November. In the parliament of 1831&#150;2 he represented Portarlington. He came back for Bute at a by-election in 1833, and sat for the county until his death. He was lord advocate again in Sir Robert Peel's government of 1834&#150;5, and once more from 1841. Rae remained active until the end of his life, especially in some causes close to his heart: official aid for building new churches in Scotland, reform of the prisons, and erection of the Scott monument in Edinburgh. Often unfairly lampooned by the whig press as a dim and incompetent reactionary, his career rather showed his impartiality, quiet good sense, and capacity for sensible reform. He died a widower at his home, St Catherine's, near Edinburgh, on 19 October 1842, and was buried nearby at Inveresk.<br>
+<br>Michael Fry </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Fry, <i>The Dundas despotism</i> (1992) &middot; G. W. T. Omond, <i>The lord advocates of Scotland from the close of the fifteenth century to the passing of the Reform Bill</i>, 2 vols. (1883) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=Hansard%202')"><i>Hansard 2</i></a> (1822), 6.542&#150;5 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=HoP%2C%20Commons')">HoP, <i>Commons</i></a> &middot; J. G. Lockhart, <i>Memoirs of the life of Sir Walter Scott</i> [2nd edn], 10 vols. (1839) &middot; H. Cockburn, <i>Letters chiefly connected with the affairs of Scotland</i> (1888) &middot; <i>Memorials of his time, by Henry Cockburn</i>, another edn, ed. H. A. Cockburn (1910) &middot; NL Scot., SC 70/1/63/445 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=BL')">BL</a>, corresp. with Sir Robert Peel, Add. MS 40339
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, Home Office (Scotland) MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, lord advocate's MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, corresp. with Lord Melville
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, corresp. with Lord Melville
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, corresp. with Sir Walter Scott
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23005&amp;istheme=&amp;target=NRA%2C%20priv.%20coll.')">NRA, priv. coll.</a>, corresp. with James Skene<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1431 7<i>s</i>. 2<i>d</i>.: inventory, 1843, NL Scot., SC 70/1/62/445<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael Fry, &#145;<span class="roman"><span class="headword">Rae, Sir  William</span>, third baronet  (1769&#150;1842)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/23005, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  William Rae (1769&#150;1842): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23005 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

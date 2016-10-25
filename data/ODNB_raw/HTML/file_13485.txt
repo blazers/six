@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13485;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13485-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13485-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13485#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Holcot,  Robert</span>  (<em>c.</em>1290&#150;1349), <span class="occ">Dominican friar and theologian</span>, was born about 1290, on the evidence of his later career. His surname, and his later association with the Dominican priory at Northampton, suggest he was born in or near the village of Holcot in Northamptonshire. He probably joined the Dominicans in Northampton, before moving to Oxford, where he remained from <i>c</i>.1326 to <i>c</i>.1334, attending the Dominican school there. In March 1332 he was granted licence to hear confession in the diocese of Lincoln, which included Oxford. He held the Dominican chair of theology in Oxford for a year, ending probably in early 1334&#151;his final sermon for this period refers to the riots between northern and southern students, but not to the subsequent migration to Stamford in spring 1334. Holcot looked back on his regency as arduous, describing problems that included strong competition for the post and difficulties with his lecture room; for some unknown reason he had to lecture in hired rooms, rather than at Blackfriars.<br>
+<br>From Oxford, Holcot was sent to Cambridge and held a second regency <i>c</i>.1334&#150;<i>c</i>.1336. During this time he wrote his famous and popular <span class="italic">Commentary on Wisdom</span>, which represents a two-year lecture course. At some period after this Holcot was one of the scholars who worked as assistants to the book-collecting bishop of Durham, Richard Bury. Holcot may have had some involvement in the production of the <span class="italic">Philobiblon</span>, a book written in Bury's name. This stage in his life was probably over before the next definite date for Holcot, who during 1342 was granted licence to hear confessions in the diocese of Salisbury. Licences also show that from 10 February 1343 until 21 October 1348, he was at Northampton. He died at Northampton in 1349, reputedly of plague, and was buried there, at the church of Northampton Blackfriars. A will made as late as 1536 left vestments and plate to the church and asked that the deceased, Mary Middleton, should be buried next to Holcot.<br>
+<br>Robert Holcot was a prolific scholar who produced a large number and range of works, mainly but not exclusively theological. Many of these were very popular and survive not only in manuscript, but also in printed editions. Holcot is interesting in a number of ways beyond his undoubted role as a theologian. He was a humanist and a moralist, with a lively sense of humour described as the strongest of any medieval moralist by Beryl Smalley, who considered him the most celebrated and the most diversely gifted of all the friars of her famous &#145;classicizing group&#146;&#151;those English friars dedicated to integrating classical tales and knowledge into their religious works, in order to increase the interest and appeal for the reader or listener. The notable success of works of this type indicates the shrewdness of their authors. However, their decision to use this method was no cynical marketing ploy, but rather a reflection of these writers' own personal fascination with, and delight in, such classical culture as they were able to obtain access to. Holcot's enjoyment of, and enthusiasm for, such classical material shows clearly in his writings. In his case, classical lore and theological learning were allied to vivid descriptions of the political and social issues of his day: the student riots of the 1330s, the deposition of Edward II, the Scottish wars, and many other topical subjects are referred to in his theological works.<br>
+<br>The diversity of Holcot's interests is further shown by the fact that he also played a part in the history of science, and in the development of English calculation, through his <span class="italic">Tractatus de stellis</span>, a text on astronomy, geography, and astrology which is in effect a commentary on Aristotle's <span class="italic">De coelo</span>.<br>
+<br>Holcot was an important figure in the development of English scholasticism which followed upon the work of William Ockham. Ockham and Thomas Aquinas were his two chief mentors, although he was capable of disagreeing with both, as he did, for instance, on the nature of the Trinity. In the earlier part of the twentieth century Holcot was thought to be an intellectual sceptic, but later close study of his works by Fritz Hoffman and others has suggested that the reverse is true.<br>
+<br>In his <span class="italic">Commentary on the Sentences</span>, Holcot famously disagreed with Ockham on the nature of logic, concluding that there must be two systems of logic: Aristotelian logic, appropriate to the natural order; and a logic of faith, differing in its rules from Aristotle and more appropriate to the supernatural order. Later in his career he changed his views, and his <i>quodlibeta</i> show a return to the belief that Aristotelian logic was universally applicable. Holcot's theological views attracted attention both during his lifetime and long afterwards. He was one of the Pelagians attacked in Thomas Bradwardine's defence of predestination; throughout his career Holcot argued that each individual had the free will to make confession of his or her sins, and subsequently receive God's grace. His views on predestination were studied by a number of medieval scholars, and were still discussed in works as late as those of the Reformation theologian Johann Eck.<br>
+<br>Holcot's works typically show a great range and number of quotations in illustration of his themes. The sources he used were astonishingly numerous and varied, ranging from the common <i>exempla</i> collections of the period to the rarer of Seneca's letters and the <span class="italic">Noctes Atticae</span> of Aulus Gellius, said to be a scarce book in England. This is particularly true in his <span class="italic">Commentary on Wisdom</span>. The earliest surviving manuscript, Oxford, Balliol College, MS 27, dates to the middle of the fourteenth century or earlier, and if not an actual autograph copy is close to it. Many editions were later printed, at least five before the end of the fifteenth century.<br>
+<br>Holcot's <span class="italic">Commentary on Wisdom</span> was one of the most popular commentaries of the late middle ages. It made his name famous throughout medieval Europe, and surviving catalogues show that every well-stocked library came to have a copy. It is a vast work, and although it follows most of the conventions of its genre, in many ways it resembles one of the pastoral handbooks popularized in the late thirteenth century. It could certainly have functioned as such: indeed it seems probable that this quality was one of the main reasons why it was such an outstanding and lasting success. Alongside its many chapters on youth, education, and the family, lie lengthy discussions of married life, society, and its structure, theories on the republic, the duties of kings and judges, and many other topics. A late fourteenth-century <i>explicit</i> attributes its success to the fact that it addresses and informs rulers. This would have appealed in an age of growing interest in political science, and was certainly a factor in the success of the <span class="italic">Communiloquium</span> of John of Wales. The contents of this earlier pastoral handbook have much in common with Holcot's the <span class="roman">Wisdom of Solomon</span> commentary: Holcot owed John of Wales a substantial debt, which he himself only partly acknowledged.<br>
+<br>While the <span class="italic">Commentary on Wisdom</span> was probably Holcot's most famous work, he wrote many others. At least ten survive today, and careful study has established the order in which some of them were written. This makes it possible to trace the development of Holcot's views on theology, politics, and logic, to an extent that was not previously possible.<br>
+<br>One of his earliest works must have been his <span class="italic">Quaestiones super libros sententiarum</span>, completed before 1332, when Holcot took up his Oxford regency. More than thirty complete manuscripts survive, and several partial manuscripts. The text was studied by many medieval scholars, and was printed three times (Lyons 1497, 1505, 1518). The Parisian master Jacques Almain wrote a treatise upon it.<br>
+<br>Another early work was the <span class="italic">Commentary on the Twelve Lesser Prophets</span>. Only four manuscripts of this survive, and it is in a very rough and unfinished form. It tells stories about Oxford that suggest it was written there, and it refers to Holcot's own <span class="italic">Quaestiones super libros sententiarum</span>. It probably dates to Holcot's Oxford regency in 1333&#150;4, immediately before the <span class="roman">Wisdom of Solomon</span> commentary of 1334&#150;6. The latter was followed not long afterwards by the <span class="italic">Moralitates</span>, which survives in many manuscripts, and also three printed editions (Venice 1505, Paris 1510, Basel 1586). The <span class="italic">Moralitates</span> must have been completed before 1342, as it was a major source for the famous <span class="italic">Gesta Romanorum</span>, a collection of classical tales whose earliest manuscript dates to this year.<br>
+<br>Holcot's <span class="italic">Commentary on Ecclesiasticus</span>, although incomplete, was also popular and was printed at least six times (including Venice 1509). It appears to have formed part of a lecture course, and its nature, and the sources used, which include Pierre Auriol's <span class="italic">Compendium litteralis</span> and works by Nicholas de Lyre, indicate that it belongs to the last few years of his life, the late 1340s, when he was teaching at Blackfriars in Northampton. This supports the medieval tradition that Holcot was still working on it when he fell victim to plague in 1349.<br>
+<br>Holcot's other published works were long believed to include a commentary on <span class="roman">Proverbs</span> (Paris 1510), now attributed to the Dominican Thomas Ringstead, and possibly one on the <span class="roman">Song of Songs</span> (Venice 1509). He also left a number of works which were never published and survive in only a very few manuscripts. These include his <span class="italic">Sermons</span>, a lifetime's collection surviving only in Cambridge, Peterhouse, MS 210, and his <span class="italic">Quodlibeta</span>, found in a few manuscripts including BL, Royal MS 10 C.vi, fols. 141&#150;174. The sermon collection covers a wide range of subjects, and contains sermons from many stages of his career. It is therefore an important source for those wishing to trace the development of Holcot's views. The <span class="italic">quodlibeta</span> are an essential source for their author's late conversion to the general applicability of Aristotelian logic.<br>
+<br>Other lesser works by Holcot include a fragmentary commentary on <span class="roman">Ecclesiastes</span>  (BL, Royal MS 2 D.iv, fols. 90&#150;159); the <span class="italic">Principium</span> for an unfinished lecture series on <span class="roman">St Matthew</span> (probably dating from February 1334&#151;see BL, Royal MS 10 C.vi, fol. 136<i>v</i>b), and a preaching aid, the <span class="italic">Convertimini</span>, dated by Smalley to the period 1337&#150;41.<br>
+<br>Jenny Swanson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Smalley, &#145;Robert Holcot O.P.&#146;, <em>Archivum Fratrum Praedicatorum</em>, 26 (1956), 5&#150;97 &middot; B. Smalley, <i>English friars and antiquity in the early fourteenth century</i> (1960) &middot; A. B. Emden, &#145;Dominican confessors and preachers licensed by medieval English bishops&#146;, <em>Archivum Fratrum Praedicatorum</em>, 32 (1962), 180&#150;210 &middot; F. Stegm&uuml;ller, ed., <i>Repertorium biblicum medii aevi</i>, 3&#150;6 (Madrid, 1951&#150;8), nos. 7411&#150;25 &middot; F. Hoffman, <i>Die theologische Methode des Oxforder Dominikanerlehrers Robert Holcot</i> (1971) &middot; <i>Exploring the boundaries of reason</i><i>: three questions on the nature of God by Robert Holcot</i>, ed. H. G. Gelber, Pontifical Institute of Mediaeval Studies: Texts and Studies, 62 (1983) &middot; R. E. Gillespie, &#145;Robert Holcot's <i>Quodlibeta</i>&#146;, <em>Traditio</em>, 27 (1971) &middot; J. C. Wey, &#145;The <i>Sermo finalis</i> of Robert Holcot&#146;, <em>Mediaeval Studies</em>, 11 (1949), 219&#150;24 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13485&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13485&amp;istheme=&amp;target=Balliol%20Oxf.')">Balliol Oxf.</a>, MS 27
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13485&amp;istheme=&amp;target=BL')">BL</a>, Royal MS 2 D.iv, fols. 90&#150;159
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13485&amp;istheme=&amp;target=BL')">BL</a>, Royal MS 10 C.vi, fols. 141&#150;174
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13485&amp;istheme=&amp;target=BL')">BL</a>, Royal MS 10 C.vi, fol. 136<i>v</i>b
+   &middot;
+ Peterhouse, Cambridge, MS 210<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jenny Swanson, &#145;<span class="roman"><span class="headword">Holcot,  Robert</span>  (<em>c.</em>1290&#150;1349)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2006 [http://www.oxforddnb.com/view/article/13485, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Holcot (<em>c.</em>1290&#150;1349): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13485 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/13485/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

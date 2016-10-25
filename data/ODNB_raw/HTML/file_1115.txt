@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1115;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1115-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1115-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1115#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Baker,  George</span>  (1540&#150;1612), <span class="occ">surgeon</span>, was the second son of Christopher Baker of Tenterden, Kent. His grandfather was John Baker of Tenterden and his great-grandfather Simon Baker of Faversham, Kent. He had an elder brother, Peter, who was admiral of the Blue squadron and died a prisoner of war in Spain, and a younger brother William. Baker married twice: first to Anne, daughter of William Swayne of Hacking, Middlesex, with whom he had four children, Alexander, Frances, Dowglas, and Ann; second to Anne, daughter or possibly widow of Paul French, a prebend of Windsor, with whom he had three children, George, Grace, and Elizabeth. His first-born son, Alexander, was a justice of the peace, master of the Barber&#150;Surgeons' Company (1622), and surgeon to James I. He died in 1635 and was buried in Westminster Abbey.<br>
+<br>Baker was admitted to the Company of the Barber&#150;Surgeons in the 1560s about the time he took up his career as professional surgeon in London. He had a considerable practice in his &#145;house in Bartholmewe lane beside the Royall exchange&#146;  (Baker, <span class="italic">The Newe Iewell of Health</span>, Address to the reader). On 10 May 1573 the College of Arms granted confirmation of his right to bear arms and crest, this right including his father and posterity. A new grant was made on 1 April 1579 &#145;with slight alterations to Crest&#146;  (Foster and Rylands). In the college record the new grant is dated May 1579. Before 1574 he entered the service of the young Edward de Vere, earl of Oxford, of whose bounty he &#145;had experience since it pleased your honor to entertain me &hellip; for my profession in the art of Chirurgiry since the which time I haue accounted bothe my self and all my labours whatsoeuer, to be due vnto your honor&#146;  (Baker, <span class="italic">Composition</span>, Dedication).<br>
+<br>Baker reaped the rewards of his professional virtues in the 1590s. Robert Balthorp, master of the company (1565 and 1573), died on 9 December 1591 bequeathing to Baker, &#145;her maiesties Chirurgion&#146;, his &#145;Syringe of silver gilted and three pypes of silver gilted&#146;  (Young, 530). On 4 February 1592 he was appointed sergeant&#150;surgeon to the queen and on the following day was &#145;liberate on the grant for payment of &pound;40 a year&#146;  (private information). In August 1597 he was elected master of the company; on 20 July 1607 he was appointed one of the examiners of surgeons, and on 4 March 1610 he secured a grant, with survivorship, to himself and his eldest son, Alexander, of the office of the king's surgeon on surrender of a former patent. Baker was also a man of property. On 20 April 1597 he and his colleague William Goodrouse were granted a forty-year lease in reversion, without proviso for tenants, of Nunnington Mansion House and divers lands, tenements, and woods in Northfleet, Gravesend, and Milton. They received &pound;63 13<i>s</i>. 6&frac12;<i>d</i>. in respect of their service as the queen's surgeons.<br>
+<br>Baker was quick-tempered and violent. Thus he fell out with his colleague William Clowes, who had been admitted to the Barber&#150;Surgeons' Company on 8 November 1569, and challenged him to a duel. It is on record in the minutes of the court of assistants that on 25 March 1577 there was at &#145;this Corte &hellip; a greate contention and stryffe spoken of and ended betwene George Baker and William Clowes for that they bothe contrary to order and to the good and holesome rules of this howse misused eche other and fought in the Felds together&#146;. The master, wardens, and assistants intervened and, wishing that the two hotspurs &#145;might be and continewe loving brothers&#146;, they &#145;pardoned this greate offence in hope of amendment&#146;  (Young, 428). The two did comply with the company's wish, making up for their gross misdemeanour by each editing a work of the other in 1579.<br>
+<br>Baker considered himself a Galenist who thought it opportune to warn against the harm done by empirics and Paracelsians, but he none the less kept an open mind about chemical medicine. His first publication, entitled <span class="italic">The Composition or Making of the Moste Excellent and Pretious Oil called Oleum magistrale</span> (1574) and dedicated to the earl of Oxford, was a translation made through a French intermediary from Aparicio de Zubia's pamphlet on the <i>oleum magistrale</i>. However, the formula of the medicinal oil as revealed by the convert Morisco empiric at his death in 1566 covers only folios 1 to 6. The publication contains <span class="italic">Also the Third Book of Galen</span> (fols. 7&#150;11), which Baker translated from the French epitome of Martin Gr&eacute;goire (1574), &#145;wherein&#146;, as he put it in the address to the reader signed &#145;From my house in London the XV. of Marche 1574&#146;, Galen &#145;bothe learned &amp; abundantly &hellip; teacheth the curing of these wounds&#146;.<br>
+<br>Baker recommended distilled medicaments as exceeding all others in virtue in <span class="italic">The Newe Iewell of Health</span>, which he dedicated from his house in Bartholomew Lane to Anne Cecil, countess of Oxford, in February 1576. This was a revamped translation of Conrad Gesner's <span class="italic">Thesaurus Euonymi Philiatri de remediis secretis</span> (1552). Baker drew on Peter Morwyng's version of Gesner's popular handbook <span class="italic">The Treasure of Euonymus</span> (1559, 1565) and probably on Thomas Hill's translation of the augmented edition (1569). In 1599 Baker's text was reprinted by Peter Short under the new significant title <span class="italic">The Practise of the New and Old Phisicke</span>. Baker renewed his advocacy of chemical cures in his treatise on <span class="italic">The Nature and Property of Quicksilver</span>, which William Clowes edited in his treatise on syphilis (1579). Baker responded to his colleague's favour, editing, in his turn, Clowes's <span class="italic">Antidotary of Select Medicines</span>, which marked Clowes's own shift towards chemical therapy, in his (Baker's) miscellany <span class="italic">Guydos Questions, Newly Corrected</span> (1579). It also contained Galen's third and fourth book. With the exception of the <span class="italic">Antidotary</span>, this was another of those compilations of traditional works taken from the medieval surgeon Guy de Chauliac and from Galen.<br>
+<br>In his last publication Baker again revamped a translation which B. Traheron, in 1543, had made from the medieval surgeon Giovanni de Vigo and brought it out as <span class="italic">The Whole Worke of the Famous Chirurgion Maister Iohn Vigo: Newly Corrected</span> (1586). But remaining faithful to his policy of selecting authors who advocated the use of chemical therapy, he added Thomas Gale's volume on surgery which had already appeared in 1563. Gale, who served under Philip II at the siege of St Quentin, is likely to have met there the Morisco practitioner Aparicio de Zubia. In editing the works of Galen and Guy de Chauliac, Baker gave ample evidence that he did not envisage a break with traditional medicine. Yet despite his commitment to the past his new orientation towards chemical medicine seems to have incurred the disapproval of the College of Physicians. He was denounced, together with his colleague John Banister, as a surgeon guilty of illegal medicine. The annals of the College of Physicians for 5 July 1588 record that Baker had been summoned to appear in the college that day but had refused &#145;because he was in the Queen's house and did not have sufficient leisure to enable him to come easily&#146;. And, even if he had, he would still refuse to obey, saying that &#145;he marvailed muche how the President dirst be so saucie as to send for him to the College&#146;.<br>
+<br>As newly elected master of the Barber&#150;Surgeons' Company (1597) Baker wrote an eloquent and learned preface to John Gerard's <span class="italic">The Herball, or, Generall Historie of Plantes</span> (1597), calling himself &#145;one of hir Maiesties chiefe Chirurgions in ordinarie&#146;. Gerard, who was appointed junior warden of the Barber&#150;Surgeons' Company in 1597, advocated in his pioneer work the use of the medicinal properties of English herbs for chemical medicine.<br>
+<br>On his death Baker left behind an unpublished translation, <span class="italic">The Apologie and Treatise, Containing the Voyages Made into Divers Places</span>, which he had rendered from the text of the French surgeon Ambroise Par&eacute;. The botanist Thomas Johnson published Baker's translation as book 29 in <span class="italic">The Workes of the Famous Chirurgion Ambroise Parey</span> (1634), 1133&#150;73. In his address to the reader Johnson states that &#145;George Baker, a Surgeon of this City, since that time, as I heare, [is] dead beyond the Seas&#146;. Baker made his will on 25 August 1607; it was proved in London on 1 December 1612.<br>
+<br>Gustav Ungerer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Young, <i>The annals of the Barber&#150;Surgeons of London</i><i>: compiled from their records and other sources</i> (1890) &middot; C. Webster, &#145;Alchemical and Paracelsian medicine&#146;, <i>Health, medicine and mortality in the sixteenth century</i>, ed. C. Webster (1979), 301&#150;31 &middot; G. Ungerer, &#145;George Baker: translator of Aparicio de Zubia's pamphlet on the &#147;oleum magistrale&#148;&#146;, <em>Medical History</em>, 30 (1986), 203&#150;11 &middot; H. J. Webb, &#145;English military surgery during the age of Elizabeth&#146;, <em>Bulletin of the History of Medicine</em>, 15 (1944), 261&#150;75 &middot; &#145;Confirmation of arms and crest to George Baker of London&#146;, <em>The Genealogist</em>, new ser., 6 (1889&#150;90), 242 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1115&amp;istheme=&amp;target=STC%2C%201475%3F1640')"><i>STC, 1475&#150;1640</i></a> &middot; J. Foster and W. H. Rylands, eds., <i>Grantees of arms named in docquets and patents to the end of the seventeenth century</i>, Harleian Society, 66 (1915) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1115&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1595&#150;7</i>; <i>1603&#150;10</i> &middot; G. Baker, <i>The newe iewell of health, wherein is contayned the most excellent secretes of phisicke and philosophie</i> (1576) &middot; G. Baker, <i>The composition or making of the moste excellent and pretious oil called oleum magistrale</i> (1574) &middot; private information (2004) [Jessie Dobson, archivist of the Worshipful Company of Barbers]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1115&amp;istheme=&amp;target=Coll.%20Arms')">Coll. Arms</a>, record R 21.84<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> several woodcuts (with medical scenes), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1115&amp;istheme=&amp;target=NPG')">NPG</a> &middot; woodcut, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1115&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in G. Baker, <i>The practise of the new and old phisicke</i>, 4 vols. (1599)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Gustav Ungerer, &#145;<span class="roman"><span class="headword">Baker,  George</span>  (1540&#150;1612)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1115, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Baker (1540&#150;1612): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1115 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

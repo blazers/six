@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 60155;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/60/60155-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/60/60155-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=60155#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hayes,  Walter</span>  (<em>b. </em><em>c.</em>1618, <em>d.</em> before 1696?), <span class="occ">maker of mathematical instruments</span>, was the son of Peter Hayes, a merchant from Chichester. He was apprenticed to John Allen in the Grocers' Company on 22 February 1632, taking his freedom on 14 June 1642. His first workshop was in Birchin Lane, off Cornhill, in the City of London. By 1652 he had established a reputation for a high standard of work, and advertisements for his instruments began to appear in books on mathematics, astronomy, navigation, and surveying. These show that by 1653 at the latest he was resident &#145;at the Cross-daggers in Moor-fields near Bethelem-gate&#146;, also sometimes referred to as &#145;next dore to the Popes head Taverne&#146;  (Taylor). He remained at this address until the end of his working life.<br>
+<br>Hayes had strong links with several mathematical writers of the time, including George Atwell, William Leybourn, John Eyre, Seth Partridge, Vincent Wing, and Matthew Norwood. He had particularly close relations with Leybourn, for whose books he not only supplied the instruments discussed in the text but also engraved the plates for the illustrations. According to the advertisements placed in these books he offered a &#145;full range of mathematical instruments&#146; in brass, silver, and wood, as well as globes.<br>
+<br>Hayes was responsible for the training of a large number of apprentices. Between 1648 and 1684 he took fourteen, as well as one probably turned over to him from a former apprentice. His final apprentice was Edmund Culpeper, who was to be highly regarded both for his mathematical instruments and for his microscopes.<br>
+<br>Hayes was a member of the Grocers' Company and became prominent in that guild, but he was most active in the Clockmakers' Company. He joined it as a brother on 24 February 1668, along with eighteen other instrument makers. Two years later he was appointed as an assistant of the company. He refused the post of renter warden on 14 January 1678 but he was elected upper warden on 29 September 1679 and was chosen as master of the company in 1680, being sworn in on 15 October of that year. Having entered the livery of the Grocers' Company in 1668 Hayes was appointed steward two years later and rose to the ranks of assistant and warden in 1681 and 1686 respectively. His last appearance in either company's records came on 21 September 1687, when he was present at the court of assistants of the Grocers' Company. He was probably dead by 1696 since a widow named Jane Hayes (almost certainly his wife) was supplying mathematical instruments to Christ's Hospital in 1696 and 1697.<br>
+<br>Hayes was arguably the most important instrument maker of his day. He was highly respected for the quality of his work, and recommended by many of the contemporary mathematical writers. Like his forerunner Elias Allen he left an important legacy in the shape of his apprentices, several of whom were known for the excellence of their own work and who carried the tradition of precision instrument making into the eighteenth century.<br>
+<br>H. K. Higton </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. G. R. Taylor, <i>The mathematical practitioners of Tudor and Stuart England</i> (1954) &middot; J. Brown, <i>Mathematical instrument makers in the Grocers' Company, 1688&#150;1800</i> (1979) &middot; G. Clifton, <i>Directory of British scientific instrument makers, 1550&#150;1851</i>, ed. G. L'E. Turner (1995) &middot; H. K. Higton, &#145;Elias Allen and the role of instruments in shaping the mathematical culture of seventeenth-century England&#146;, PhD diss., U. Cam., 1996 &middot; D. J. Bryden, &#145;Evidence from advertising for mathematical instrument making in London, 1556&#150;1714&#146;, <em>Annals of Science</em>, 49 (1992), 301&#150;36<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">H. K. Higton, &#145;<span class="roman"><span class="headword">Hayes,  Walter</span>  (<em>b. </em><em>c.</em>1618, <em>d.</em> before 1696?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/60155, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Walter Hayes (<em>b. </em><em>c.</em>1618, <em>d.</em> before 1696?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/60155 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

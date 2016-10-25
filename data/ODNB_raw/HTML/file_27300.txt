@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27300;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27300-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27300-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27300#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Thomson,  George</span>  (1619&#150;1677), <span class="occ">physician</span>, of whose early life little is known, received some medical education as a young man from an apothecary (possibly Job Weale), who instructed him in both Galenic and chemical medicine. The death of his father prevented Thomson from enrolling at Oxford or Cambridge universities. He travelled to France and returned in 1644 to Weymouth. He joined the royalist army, served under Prince Maurice, and took part in the royalist victories in Cornwall. In October 1644 Thomson was taken prisoner at Newbury in Berkshire and was kept in the Fleet prison for several months. He continued his medical studies and on 19 June 1647 obtained an MA from Edinburgh. He then applied to the College of Physicians, London, for a licence to practise in London. He was first examined on 3 December 1647, and later on 7 January 1648, by a committee consisting of the president and censors. Although the committee acknowledged his medical skill, Thomson was not awarded the licence, as he was not able to pay the fee required by the college. Thomson, apparently on the suggestion of one senior member of the committee (possibly Baldwin Hamey), decided to go to Leiden. He matriculated at Leiden in June 1648 and on 14 July 1648 submitted his dissertation, entitled &#145;De apoplexia&#146;. It was dedicated to his uncle Colonel Thomas Serle, mayor of Bandon Bridge, Ireland, to the Revd Walter Collins, the Revd Thomas Hazelwood, and the Revd John Cacket, ministers in Kent, to the Revd Robert French, to Baldwin Hamey, and to Job Weale, of Kingston.<br>
+<br>After taking his medical qualification Thomson practised at Rochford, Essex, where in 1651 he performed an experimental splenectomy. The excision of the spleen was performed on a dog, which survived for two years and three months. Thomson's experiment attracted the attention of William Harvey, Charles Scarburgh, Robert Boyle, and Henry Pierpont, marquess of Dorchester. It appears that Thomson, who brought the dog to London, did not get the recognition he expected for being the first to perform a splenectomy. He subsequently accused an anonymous Galenist (later identified as Charles Scarburgh) of plagiarism. Thomson defended his claim to be the first to perform a splenectomy in two of his works: <span class="italic">Misochymias</span> (1671) and <span class="italic">Splenotomia</span>, which was published posthumously by his disciple Richard Hope as part of <span class="italic">Tria peireteria anekousta, sive, Experimenta admiranda</span> (1680).<br>
+<br>It is apparent that already in the 1650s Thomson had regular recourse to chemically prepared medicines. These remedies he used both in the cure of the dog he had operated on in 1651, and in his successful treatment of Ann Taylor, of Romford, Essex, who was afflicted by stones. Thomson's adherence to J.-B. van Helmont's medicine dated back to the mid-1650s and was reinforced by George Starkey, who became his friend and mentor.<br>
+<br>In 1659 Thomson settled in London, where he prepared chemical remedies and practised medicine&#151;though without a licence. During the plague of 1665 Thomson, along with other Helmontians, stayed in London, where he studied the disease minutely, cured several people who had been infected, sold his medicaments, and dissected the body of a plague victim. He wrote two works on the plague: <span class="italic">Loimologia: a Consolatory Advice, and some Brief Observations Concerning the Present Pest</span> (1665), which contains a letter from Starkey, and <span class="italic">Loimotomia</span> (1666), dedicated to William Craven; the latter contains a narrative of Starkey's death from the plague. In the confrontation that took place in 1665 between the Helmontian iatrochemists and the members of the College of Physicians, Thomson's attacks on the college were particularly virulent. He severely criticized the members of the college for leaving the city during the plague epidemic. In the same year he was among the Helmontians who projected a college of chemical physicians to challenge the college's monopoly [<i>see </i><script>writeSeealsoLink('../view/theme/107538', "Society of Chemical Physicians")</script>]. In <span class="italic">Galeno-Pale, or, A Chymical Trial to the Galenists</span> (1665), dedicated to Gilbert Sheldon, archbishop of Canterbury, Thomson supported the Helmontian view that the physician is made by God. Though he recognized the importance of anatomy and extolled Harvey's discovery of circulation, he claimed they were of little or no help in medical therapy, which needed to act on the spiritual, invisible principles ruling the human body. Like other Helmontians, Thomson rejected bloodletting and the use of purgatives, ruled out humoral medicine, and maintained that the main functions of the human body were directed by a spiritual entity, that is, the Helmontian <i>archeus</i>, or vital spirit. Thomson also embraced the Helmontian theory of water and seminal principles as the beginnings of all natural bodies. In <span class="italic">Aimatiasis, or, The True Way of Preserving Bloud</span> (1670) and in <span class="italic">Orthometodos iatrochymike, or, The Direct Method of Curing Chymically</span> (1675) he criticized Thomas Willis's version of the Paracelsian theory of chemical principles (spirit, water, earth, sulphur, and salt) by claiming that they were not the ultimate constituents of bodies, but the product of fire. He supported Tachenius's theory of acid and alkali and engaged in the preparation of van Helmont's universal solvent, the alkahest, which, he maintained, was made of pure mercury and which could be prepared by liberating mercury from its sulphur.<br>
+<br>Thomson was attacked by William Johnson, chemist to the College of Physicians, in his <span class="italic">Agurto-Matrix, or, Some Brief Animadversiones upon Two Late Treatises</span> (1665); by John Heydon in his <span class="italic">Psonthonphankia, or, A Quintuple Rosicrucian Scourge</span> (1665); and in <span class="italic">The Lord Bacons Relation of the Sweating-Sickness</span> (1671) by Henry Stubbe, with whom he engaged in a pamphlet war. While Johnson linked Thomson to empirics, such as Thomas O'Dowde and Lionel Lockyer&#151;an association which Thomson firmly rejected&#151;Stubbe attacked Thomson and the Royal Society.<br>
+<br>From 1659 to his death Thomson lived in London: at Duke's Place, Aldgate, until 1671 and from 1672 at Soper Lane, near Cheapside, in Well Court, where he had a laboratory. He died in London (having never married) on 11 March 1677 and was buried at St Mary-le-Bow. Richard Hope, whom he had taught chemical medicine, received some of Thomson's manuscripts from the executor of his will and published them in 1680.<br>
+<br>Antonio Clericuzio </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. Webster, &#145;The Helmontian George Thomson and William Harvey: the revival and application of splenectomy to physiological research&#146;, <em>Medical History</em>, 15 (1971), 154&#150;67 &middot; P. M. Rattansi, &#145;The Helmontian&#150;Galenist controversy in Restoration England&#146;, <em>Ambix</em>, 12 (1964), 1&#150;23 &middot; R. W. Innes-Smith, <i>English-speaking students of medicine at the University of Leyden</i> (1932) &middot; J. Ferguson, ed., <i>Bibliotheca chemica</i>, 2 vols. (1906)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> engraving, 1666, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27300&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; W. Sherwin, engraving, 1670, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27300&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Antonio Clericuzio, &#145;<span class="roman"><span class="headword">Thomson,  George</span>  (1619&#150;1677)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2015 [http://www.oxforddnb.com/view/article/27300, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Thomson (1619&#150;1677): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27300 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/27300/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1053;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1053-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1053-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1053#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bailey,  John</span>  (<em>bap. </em>1751, <em>d.</em> 1819), <span class="occ">mathematician and land surveyor</span>, was born at Blades Field, near Bowes, Yorkshire, and baptized there on 11 July 1751, the son of William Bailey. At an early age he showed strong artistic tendencies, and while employed as tutor to the children of his uncle, George Dixon of Cockfield, he devoted his spare time to engraving various pieces, which he afterwards published. Both in his artistic and mathematical studies he received valuable assistance from his uncle who was also versed in mineralogy, chemistry, hydraulics, pneumatics, and surveying. After completing the education of his uncle's children Bailey became mathematical teacher at Witton-le-Wear, and began work as a land surveyor, making surveys in Derbyshire, Leicestershire, Northumberland, Nottinghamshire, and Wiltshire. Shortly after his marriage, to the daughter of Nicholas Greenwell of Witton, he was appointed land agent to Lord Tankerville at Chillingham, a situation he retained until his death.<br>
+<br>Bailey engraved several of the plates for the works of William Hutchinson, the topographer of Cumberland, Durham, and Northumberland. He also devoted much of his attention to the natural sciences, and his scientific acquirements were turned to practical use in promoting improvements in rural economy. In 1795 he published <span class="italic">Essay on the Construction of the Plough</span>, in which he employed mathematical calculations to demonstrate the advantages of the alterations he proposed. He was also the joint author of the reports on the counties of Cumberland and Northumberland, drawn up for the board of agriculture, and sole author for that on co. Durham. He died at Chillingham on 4 June 1819.<br>
+<br>T. F. Henderson<span class="italic">, rev. </span> H. K. Higton </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>F. W. Steer and others, <i>Dictionary of land surveyors and local cartographers of Great Britain and Ireland, 1550&#150;1850</i>, ed. P. Eden, [4 vols.] (1975&#150;9) &middot; M. A. Richardson, ed., <i>The local historian's table book &hellip; historical division</i>, 5 vols. (1841&#150;6), vol. 3, p. 197 &middot; private information (2016) [C. Webb]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">T. F. Henderson, &#145;<span class="roman"><span class="headword">Bailey,  John</span>  (<em>bap. </em>1751, <em>d.</em> 1819)</span>&#146;, rev. H. K. Higton, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, April 2016 [http://www.oxforddnb.com/view/article/1053, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Bailey (<em>bap. </em>1751, <em>d.</em> 1819): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1053 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1053/2016-04"> [Previous version of this biography available here: April 2016]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

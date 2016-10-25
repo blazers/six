@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 35730;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/35/35730-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/35/35730-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=35730#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Reynolds,  Osborne</span>  (1842&#150;1912), <span class="occ">engineer and physicist</span>, was born on 23 August 1842 at Belfast, the son of the Revd Osborne Reynolds and Jane Hickman. The elder Reynolds was a wrangler in 1837, and subsequently a fellow of Queens' College, Cambridge, principal of a school in Belfast, headmaster of Dedham grammar school, Essex, and, like his own father and grandfather, rector of Debach-with-Boulge, Suffolk. The younger Reynolds was schooled at Dedham and because he had a keen interest in mechanics at the age of nineteen entered the workshop of a mechanical engineer, Edward Hayes of Stony Stratford, in order to learn the practical side of the subject. He proceeded to Queens' College, Cambridge, graduated in 1867 as seventh wrangler, and was elected a fellow of the college in the same year. After a short period in the civil engineering office of Lawson and Mansergh of London he was the following year appointed, despite his youth and inexperience, to the newly instituted professorship of engineering in the Owens College, Manchester, a post he held until his retirement, through ill health, in 1905.<br>
+<br>After an uncertain start the course of engineering study introduced by Reynolds succeeded in establishing the discipline at Owens, and the more capable among his students later came to occupy posts of distinction. The core of the curriculum was applied mechanics, and his goal was the application of scientific principles to engineering requirements. Reynolds was also instrumental in the foundation of the Whitworth Engineering Laboratory in 1887, in which teaching, research, and testing took place. During the long tenure of his professorship Reynolds investigated and contributed to a wide range of physics and engineering problems. From 1869 to 1873, he focused on questions of electricity and magnetism and their relation to solar and cometary phenomena. Thereafter his investigations dealt almost entirely with mechanical questions, or with physical phenomena so far as they appeared to admit of a mechanical explanation. They were highly original both in conception and in execution.<br>
+<br>Reynolds's acute physical insight enabled him to explain phenomena which other minds had regarded as obscure or even paradoxical. Examples of his important work include the study of lubrication, which has led to important practical inventions, especially of bearings capable of carrying high loads at high speeds; the experimental investigation of the laws of the flow of water in pipes, in which he showed that there is a &#145;critical velocity&#146; (depending on the diameter of the pipe, the kinematic viscosity of the fluid and a quantity now known as the Reynolds number), at which the flow changes its character between streamline and turbulent; the investigation of &#145;dilatancy&#146;, as he called it, a peculiar property of granular media; the development of turbines and pumps; and studies of group-velocity of water waves where he was the first to show that group-velocity also provides the rate of transmission of energy. His most extensive piece of experimental work was a novel determination of the mechanical equivalent of heat; he directly measured the amount of heat required to raise a pound of water from the freezing to the boiling point, the result being thus independent of the thermometric properties of any particular substance, such as mercury or glass. This was an exceptionally deft determination of a physical constant.<br>
+<br>Reynolds's scientific papers were published in a collected form, <span class="italic">Papers on Mechanical and Physical Subjects</span>, in three volumes (1900&#150;03). Of their originality and value there is no question, but it cannot be said that they are always easy to follow. Though Reynolds's approach was always to look for a simple explanation, rather than for one which depended on the concurrence of a number of independent causes, his involved style of exposition had a tendency to perplex all but determined students, with the result that much of his work, especially his theoretical work, was long in gaining general acceptance. The worth of his contributions was, however, early recognized. He was elected a fellow of the Royal Society in 1877, and was awarded its gold medal in 1888. He was an active and dedicated member of the Manchester Literary and Philosophical Society which he served as secretary for many years and as its president in 1888&#150;9. In 1903 he was its Dalton medallist. In 1884 he received an honorary doctorate from the University of Glasgow.<br>
+<br>Reynolds's character was, like his writings, strongly individual. Somewhat reserved in personal matters, and occasionally combative and tenacious in matters of university politics, he was kindly and generous in all ordinary relations of life. He had a keen sense of humour and delighted in starting paradoxes. His first wife was Charlotte Chadwick, whom he married in 1868 and who died the following year; they had one son, who died in childhood. In 1881 he married Annie Charlotte, daughter of the Revd Henry Wilkinson, rector of Otley, Suffolk; they had three sons and a daughter. After his retirement in 1905 Reynolds lived at St Decuman's, Watchet, Somerset, where he died on 21 February 1912. He was survived by his wife.<br>
+<br>Horace Lamb<span class="italic">, rev. </span> Robert H. Kargon </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. Lamb, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35730&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 88A (1912&#150;13), xv-xxi &middot; private information (1927) &middot; personal knowledge (1927) &middot; D. M. McDowell and J. D. Jackson, eds., <i>Osborne Reynolds and engineering science today</i> (1970) &middot; R. H. Kargon, <i>Science in Victorian Manchester</i> (1977), 180&#150;92 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35730&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1912)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35730&amp;istheme=&amp;target=RS')">RS</a>&nbsp;|&nbsp; Air Force Research Laboratories, Cambridge, Massachusetts, Strutt MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35730&amp;istheme=&amp;target=CUL')">CUL</a>, letter to Sir George Stokes<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, 1903, repro. in McDowell and Jackson, eds., <i>Osborne Reynolds</i>, facing p. 5 &middot; J. Collier, oils, 1904, University of Manchester<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;14,283 13<i>s</i>. 2<i>d</i>.: resworn probate, 10 April 1912, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Horace Lamb, &#145;<span class="roman"><span class="headword">Reynolds,  Osborne</span>  (1842&#150;1912)</span>&#146;, rev. Robert H. Kargon, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/35730, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Osborne Reynolds (1842&#150;1912): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/35730 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

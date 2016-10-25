@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50363;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50363-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50363-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50363#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Maw,  William Henry</span>  (1838&#150;1924), <span class="occ">engineer and technical journalist</span>, was born on 6 December 1838 in Scarborough, the only child of William Mintoft Maw, a merchant clipper captain, and his wife, Minna Josephine Teresa, <i>n&eacute;e</i> Maxey. Maw's childhood was dogged by poor health, but he attended Sykes's School in Scarborough for several years. He was particularly interested in scientific facts, experiments, model making, and astronomy. His father died in 1853 and William and his mother moved to London where she died the following year.<br>
+<br>In March 1855 Maw was apprenticed to John Gooch, engineer to the Eastern Counties Railway, at Stratford in east London. Starting in the smith's shop of the carriage and wagon department he then transferred to the locomotive and engineering department. He also took drawing classes at the London Mechanics' Institution and assisted in the department's drawing office, where his impressive talent earned him, in December 1859, the post of chief draughtsman. In effect, though, he was personal assistant to the company's engineer-in-chief, Robert Sinclair, and responsible for designing rolling stock and for much standardizing work. He continued his studies through the Department of Science and Art in South Kensington, and made contact with such important figures as Henry Bessemer and Zerah Colburn.<br>
+<br>In 1859 Maw and other young engineers founded the Civil and Mechanical Engineers' Society; he was president from 1863 to 1866. Colburn sought Maw as co-editor of his new journal, <span class="italic">Engineering</span>. He took the job in January 1866 but with Colburn's suicide in April 1870, he and James Dredge were left as co-editors and, with Alexander Hollingsworth, as co-directors. Maw's capacity for work was enormous: he set up a practice as consulting engineer with his co-directors as partners; he often acted as an expert witness and as an arbitrator, thanks to his diverse knowledge and experience. <span class="italic">Engineering</span> owed its literary excellence and technical accuracy to Maw's untiring efforts as editor and author; its range and depth of coverage quickly cemented its reputation. He soon became one of the most significant figures in nineteenth-century technical journalism and maintained personal friendships with many engineering contemporaries.<br>
+<br>Maw married Emily Chappell (<i>d</i>. 11 Sept 1924) in August 1867. Of eleven children, two died in infancy, and eight survived him. The family home from 1881 was at 18 Addison Road, Kensington, where he was a fine host, often indulging in dances, billiard parties, and lantern shows. Devoted to his gardens, he was especially keen on glass-house cultivation. His country residence at Outwood in Surrey was bought in 1894 and he spent long weekends there. Maw designed observatories for his astronomical work at his houses in Kensington in 1887 and in Outwood in 1896. His lengthy study of double stars was important; his observations were published in five volumes of the Royal Astronomical Society's <span class="italic">Memoirs</span>. With astronomy, as with engineering, he built up a large, worldwide correspondence. He helped found the British Astronomical Association in 1890 and was president from 1899 to 1901 and treasurer for twenty-three years. He was elected a fellow of the Royal Astronomical Society in 1888 and was president from 1905 to 1907, serving on its council for thirty-one years.<br>
+<br>Maw was president of the Institution of Mechanical Engineers from 1901 to 1902 and a council member for thirty-four years; he was president of the Institution of Civil Engineers from 1922&#150;3 and a council member for thirteen years. The awards he received were numerous and he was connected with many other learned institutions and societies. During the First World War he served on many technical committees appointed by the government, particularly those connected with the Ministry of Munitions. He died at his home, 18 Addison Road, Kensington, on 19 March 1924, and was buried at Kensington Hanwell cemetery, Ealing, three days later.<br>
+<br>Robert Sharp </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. E. Simnett, &#145;William Henry Maw: a life&#146;, 1926, Sci. Mus., MS 521/1 &middot; <em>Engineering</em> (21 March 1924), 371&#150;4 &middot; <em>The Engineer</em> (21 March 1924), 313 &middot; <em>Institution of Mechanical Engineers: Proceedings</em> (1924), 533&#150;5 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50363&amp;istheme=&amp;target=PICE')"><i>PICE</i></a>, 218 (1923&#150;4), 505&#150;7 &middot; A. S. D. M. and E. W. M., &#145;William Henry Maw: an appreciation&#146;, <em>Journal of the British Astronomical Association</em>, 34 (1923&#150;4), 199&#150;202 &middot; E. B. K. [E. B. Knobel], <em>Monthly Notices of the Royal Astronomical Society</em>, 85 (1924&#150;5), 311&#150;14 &middot; <em>The Times</em> (24 May 1924), 20<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> G. H. Neale, portrait, <i>c.</i>1915, Institution of Mechanical Engineers, London &middot; G. H. Neale, portrait, <i>c.</i>1922, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50363&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> unsettled property of the gross value of &pound;149,880, with net personalty &pound;141,058: <i>The Times</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Robert Sharp, &#145;<span class="roman"><span class="headword">Maw,  William Henry</span>  (1838&#150;1924)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50363, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Henry Maw (1838&#150;1924): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50363 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

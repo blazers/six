@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56934;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56934-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56934-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56934#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Lloyd,  Thomas</span>  (1803&#150;1875), <span class="occ">naval architect and engineer</span>, was born at Portsea, Hampshire, on 29 October 1803 and educated at Portsmouth grammar school. He became an apprentice shipwright at Portsmouth and in 1819 passed the entry examination for the School of Naval Architecture, where his father was an instructor. After graduation in 1826 he worked at Portsmouth for four years, rated as a shipwright though he seems to have been employed on design work, before going to sea as trials officer for six months in the corvette <i>Columbine</i>. On completion of the trials he was appointed to the surveyor's office in Somerset House but was sent on a course to study steam machinery.<br>
+<br>In 1831 Lloyd took charge of Marc Brunel's block making machinery at Portsmouth before moving to the Woolwich steam factory as inspector of steam machinery in 1833. He remained at Woolwich until 1847, with a brief seagoing appointment in 1837, rising through various posts and becoming chief engineer of the factory in 1842. The growing importance of machinery was marked by an increase in the salary of this post to &pound;650 and the provision of a house. This period spanned the navy's industrial revolution, seeing the introduction of steam fighting ships, iron hulls, and the screw propeller. The steam factory was set up to maintain the engines of the rapidly increasing number of steamships in the navy but it soon became much more. The training of apprentices produced many good engineers, some of whom set up their own engine factories on the Thames. The Woolwich steam factory was also the navy's engineering development centre.<br>
+<br>In 1840 Lloyd, together with a Captain Chappell, was in charge of the trials of Petit Smith's original screw steamer, <i>Archimedes</i>. As a result of Lloyd and Chappell's enthusiastic report the Admiralty decided to build a prototype screw warship&#151;completed in 1844 as the <i>Rattler</i>. Lloyd was fully involved in the design and was instrumental in getting the stern lines lengthened to improve the flow into the propeller. This caused a short dispute with I. K. Brunel, who had a similar idea and accused Lloyd of plagiarism, but they soon became friends, and Lloyd assisted in the trials of Brunel's <i>Great Britain</i>. Lloyd also arranged for a thrust meter to be inserted into the propeller shaft of the <i>Rattler</i> so that performance could be quantified. The trials of the <i>Rattler</i> were most successful, and well before they were complete the Admiralty ordered many large screw steamers and was planning the first screw battleships.<br>
+<br>Lloyd retained his interest in the effect of flow into the propeller and in 1846 he carried out trials on the tender <i>Dwarf</i> in which wooden packing was added to the fine stern, reducing the original speed of 9 knots to 3 knots with a bluff stern. As chief engineer at Woolwich, Lloyd was also chief adviser to the Admiralty on engineering matters. In 1847 he became the first chief engineer of the Royal Navy, with an office in Somerset House and a staff of four. In 1850 the comptroller of steam machinery retired; the post was abolished and Lloyd was appointed chief engineer and inspector of steam machinery.<br>
+<br>The first steam battleships had gone to sea in 1846, but they were crude conversions. Even so, the report of their performance in the manoeuvres of 1850 said that it was unlikely that the navy would ever again fight under sail. In 1851 the surveyor with Lloyd and Isaac Watts, the chief constructor, visited France and their report added urgency to the building of the first British steam battleship, the <i>Agamemnon</i>. There were many problems to be solved, particularly in finding a stern gland which would remain watertight under the rubbing and vibration of the propelled shaft.<br>
+<br>During the Crimean War, Lloyd was shown, on a visit to Paris, the drawings of the French armoured screw-propelled batteries for attacking forts. At that time the proposed protection consisted of boxes of cannon balls, but at Lloyd's suggestion this was changed to 100 mm rolled iron plates.<br>
+<br>In the reorganization of 1859 Lloyd moved to Whitehall at a salary of &pound;900 and worked with Watts on the <i>Warrior</i>. Seemingly these two great engineers had mutual respect but their relationship was not warm.<br>
+<br>Lloyd was always interested in new developments and was involved in early trials of the compound engine, but the technology of the day was inadequate. In 1866 he tried, again unsuccessfully, the use of oil fuel. He was involved in the design of the machinery to lay the first trans-Atlantic cable in 1858. It is a great tribute to Dr Inman, the principal of the School of Naval Architecture, that so many of his graduates achieved fame in areas far removed from the wooden sailing ships on which their education was focused.<br>
+<br>Lloyd served on many important committees, notably that of 1871 which reviewed ship design after the loss of the <i>Captain</i>, and was frequently consulted by commercial engine builders. Lloyd became a member of the Institution of Civil Engineers in 1841. He was a founder in 1851 of the Royal Navy Engineers' Club in Portsmouth, which for fifty years was a centre for technical discussion. He was one of the original vice-presidents of the Institution of Naval Architects in 1860. Though he joined in debates he published no paper of his own outside the Admiralty. Within it his importance was recognized by that great surveyor Spencer Robinson, who wrote on Lloyd's retirement that there was no public servant who had so largely contributed to the advance of practical science, pointing out that the Royal Navy's lead in screw propulsion was largely due to Lloyd.<br>
+<br>Lloyd was made a CB in 1868, and retired the following year. He never married and died at his home at 84 Finchley Road, Hampstead, London, on 23 March 1875.<br>
+<br>David K. Brown </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. F. Smith, &#145;Thomas Lloyd&#146;, <em>Journal of Naval Engineering</em>, 1 (1947), 1 &middot; D. K. Brown, &#145;Thomas Lloyd CB&#146;, <em>Warship</em>, 20 (Oct 1981) &middot; D. K. Brown, <i>Before the ironclad</i> (1990) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56934&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;12,000: administration, 20 April 1875, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David K. Brown, &#145;<span class="roman"><span class="headword">Lloyd,  Thomas</span>  (1803&#150;1875)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/56934, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Lloyd (1803&#150;1875): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56934 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9000;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9000-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9000-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9000#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Everard,  Robert</span>  (<em>fl. </em>1647&#150;1664), <span class="occ">religious controversialist</span>, whose parentage and date of birth are unknown, probably had humble origins as he later described himself as a &#145;poor man&#146;  (Clarke, <span class="italic">Puritanism and Liberty</span>, 42). He served in parliament's New Model Army, in Cromwell's regiment; he was a trooper in Cromwell's cavalry regiment by autumn 1647. At the end of April 1647 the soldiery of the New Model Army began to elect two agitators from each regiment to express their grievances with parliament. About late September it seems that disillusionment with the army grandees led to new agents being selected by five regiments, although these did not replace the old agitators. Everard was one of these new agents. In this capacity he was a signatory to (but may not have been involved in the composition of), among other documents, <span class="italic">The Case of the Armie Truly Stated, to-Gether with the Mischiefes</span> (18 October), and <span class="italic">An Agreement of the People for a Firm and Present Peace</span> (3 November). On 27 October he presented <span class="italic">An Agreement of the People</span> at the army headquarters in Putney. This led to the celebrated Putney debates of 28 October to 1 November 1647 at which officers, soldiers, and civilians debated how best to negotiate a settlement for the nation. On the first day of these debates the army secretary, William Clarke (then unaware of Everard's name) recorded his speeches under the name &#145;Buff-Coat&#146;. Everard spoke with commitment at Putney, on the side of the Levellers and those influenced by them. He clearly wished to guide the debates towards agreement, but his main concern was that such an agreement should be speedily reached. He showed that he had little time for the prevarications of senior officers, on the second day he warned them: &#145;yett this message God hath sent mee to you, that there is great expectation of suddaine destruction; and I would bee loath to fill uppe that with words&#146;  (<span class="italic">Clarke Papers</span>, 1.286).<br>
+<br>In 1649 there were a series of Leveller mutinies caused by opposition to the Irish campaign, and the perceived failure of the army grandees to fulfil the obligations set down in their early engagements. Everard was involved in these mutinies. In May 1649 one pamphlet records a Captain Everard with a &#145;considerable party&#146; fighting with some of the lord-general's forces  (<span class="italic">The Declaration</span>, 3). Twenty prisoners were taken by Everard's troop, and almost the same number were killed. He is said to have been riding westward to meet other mutineers, and the pamphlet later locates him (this time identified as Mr Everard) and his party near Oxford. His army career may have ended after the mutinies, although one source suggests that it ended after the battle of Worcester in September 1651  (Everard, <span class="italic">Antidote</span>, 1&#150;2).<br>
+<br>Everard tried a number of the different varieties of Christianity which abounded during his early life before settling upon the General Baptist faith. He fully enunciated his General Baptist beliefs in his first pamphlet, <span class="italic">The Creation and Fall of Adam</span> (1649; 2nd edn, 1652). In this pamphlet he used both argument from observation and scripture to demolish the idea of original sin. It seems that on first publication this pamphlet had some impact on the wider General Baptist movement. <span class="italic">The Faith and Practice of Thirty Congregations</span> (1651), which was largely signed by Leicestershire and Lincolnshire Baptists, was printed as an appendix to the second edition of this work, although the exact relationship of Everard to these congregations remains unclear. Whatever his influence over these congregations was, it seems to have declined significantly before the end of the interregnum. He was to return to the question of the status of nature, which he had first written about in <span class="italic">The Creation and Fall of Adam</span>, in <span class="italic">Nature's Vindication</span> (1652). Here he attempted to disprove the view that nature itself was fundamentally evil, by scriptural means. <span class="italic">The Creation and Fall of Adam</span> elicited a hostile response from the presbyterian minister Nathaniel Stephens in <span class="italic">Vindiciae fundamenti, or, A Threefold Defence</span> (1658).<br>
+<br>In 1650 Everard continued to expound General Baptist beliefs in <span class="italic">Baby-Baptisme Routed</span>. This pamphlet is no longer extant, but it attracted a similarly unfavourable response from Nathaniel Stephens, <span class="italic">A Precept for the Baptisme of Infants</span> (1651), which prints extracts from the lost Everard pamphlet. Stephens also makes it clear that this pamphlet debate grew from a series of disputes concerning paedobaptism in Earl Shilton, Leicester.<br>
+<br>By March 1652 Everard had been in Newcastle, seemingly on a proselytizing mission. According to his own account he resided there for about four months, preaching three or four times a week. He may have been encouraged from within the army garrison, particularly by Lieutenant-Colonel John Mason. His behaviour in Newcastle, however, brought the opprobrium of the resident ministers. In a letter to Cromwell, and &#145;Articles exhibited against Captain Robert Everard&#146;, they outlined some of their criticisms of him. These range from claims that he untruly said that he could discourse in Hebrew and Greek, to allegations that he drunkenly interrupted one of the presbyterian Cuthbert Sydenham's services. They then wrote of the unorthodox theological positions which they believed that he held&#151;highlighting his stances on election and original sin. He responded to these criticisms in <span class="italic">An Antidote for the Newcastle Priests</span> (1652), refuting many of the criticisms and clarifying his views. He also used the pamphlet to attack the ministers themselves. Their views on paedobaptism and their collection of tithes attracted most censure, Everard even claimed: &#145;I believe, so long as a hireling Minister remains in this Nation, it will not be absolutely free from tyranny and slavery&#146;  (Everard, <span class="italic">Antidote</span>, 12).<br>
+<br>Everard's final Baptist pamphlet, <span class="italic">Robert Everard's Three Questions</span> (1655), concerns whether or not there was any scriptural warrant for the practice of laying on of hands. It records a debate which he entered into with Benjamin Morley. Everard's pamphlet is printed with another pamphlet that enters into this debate, Thomas Morris's <span class="italic">A Messenger Sent</span> (1655), itself a response to Morley's <span class="italic">A Vindication of &hellip; the Laying on of Hands</span> (1653).<br>
+<br>Very little is known of Everard's life in the following nine years. He re-emerges in print in 1664 to detail his recent conversion to Roman Catholicism. At one point after the Restoration he met a lay Catholic gentleman who questioned the basis of his faith and convinced him, with the help of some Roman Catholic tracts, to convert. This conversion appears to have been emphatic and complete. He renounced not only his religious beliefs, but also asked Charles II for forgiveness for the part he played in the New Model Army. The pamphlet which he published, <span class="italic">An Epistle to the Several Congregations</span> (1664; rev. 2nd edn, 1664), elicited responses from a number of different perspectives. The General Baptist Jeremiah Ives responded in <span class="italic">Rome is No Rule</span> (1664); the Quaker Francis Howgill in <span class="italic">The True Rule, Judge and Guide</span> (1665); the presbyterian biblical commentator Matthew Poole replied in the appendix of <span class="italic">The Nullity of the Romish Faith</span> (1666); Joseph Harrison in <span class="italic">The Popish Proselyte</span> (1684). All of these responses are hostile, and they are perhaps testament to the fear within nonconformist groups after the Restoration that they might become associated with Roman Catholicism.<br>
+<br>George Southcombe </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Everard, <i>An antidote for the Newcastle priests</i> (1652) &middot; R. Everard, <i>An epistle to the several congregations</i>, rev. 2nd edn (1664) &middot; W. Poole, &#145;Frail originals: theories of the fall in the age of Milton&#146;, DPhil diss., U. Oxf., 2000 &middot; <i>The Clarke papers</i>, ed. C. H. Firth, 1, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9000&amp;istheme=&amp;target=CS')">CS</a>, new ser., 49 (1891) &middot; N. Stephens, <i>A precept for the baptisme of infants</i> (1651) &middot; <i>The declaration of the Levellers concerning Prince Charles</i> (1649) &middot; A. Woolrych, <i>Soldiers and statesmen</i><i>: the general council of the army and its debates, 1647&#150;1648</i> (1987) &middot; I. Gentles, <i>The New Model Army in England, Ireland, and Scotland, 1645&#150;1653</i> (1992) &middot; R. Howell, <i>Newcastle upon Tyne and the puritan revolution</i><i>: a study of the civil war in north England</i> (1967) &middot; T. K. Gulley, &#145;The General Baptists in early Stuart and revolutionary England&#146;, PhD diss., University of Wisconsin, Madison, 1994 &middot; N. Smith, <i>Perfection proclaimed</i><i>: language and literature in English radical religion, 1640&#150;1660</i> (1989) &middot; W. Clarke, <i>Puritanism and liberty</i>, ed. A. S. P. Woodhouse, 3rd edn (1986) &middot; private information (2004) [P. Baker] &middot; <i>The Levellers (falsly so called) vindicated</i> (1649)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9000&amp;istheme=&amp;target=Hunt.%20L.')">Hunt. L.</a>, letters<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">George Southcombe, &#145;<span class="roman"><span class="headword">Everard,  Robert</span>  (<em>fl. </em>1647&#150;1664)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/9000, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Everard (1647&#150;1664): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9000 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

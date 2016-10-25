@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2901;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2901-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2901-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2901#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Boott,  Francis</span>  (1792&#150;1863), <span class="occ">physician and botanist</span>, was born on 26 September 1792 in Boston, Massachusetts, the third son of Kirk Boott (1755&#150;1817), merchant, and his wife, Mary, <i>n&eacute;e</i> Love. Kirk Boott was English and had emigrated with his Scottish wife from Derby to Boston in 1783. Boott attended Harvard College (1806&#150;10), where he was contemporary with Jacob Bigelow and Edward Everett. For several years he journeyed between England and America pursuing his interests in art, literature, and botany, and in 1816 was persuaded to look after the family's business affairs in England. Unfortunately, having fraudulent advisers, Boott lost &pound;200,000 of assets. Although the business eventually recovered, Boott was criticized by other family members and decided to settle in Britain.<br>
+<br>In 1820 Boott married Mary Hardcastle of Derby and they had a son and three daughters. To support his growing family Boott studied medicine with Dr John Armstrong, physician and teacher at the Webb Street School, Southwark, London. Boott graduated MD from Edinburgh (1824) and studied medicine and botany in Paris before returning to London and becoming a licentiate of the Royal College of Physicians in 1825. He rejoined the Webb Street School and after Armstrong's death in 1829 he wrote Armstrong's memoir to which he appended <span class="italic">An enquiry into the facts connected with those forms of fever attributed to malaria or marsh effluvium</span> (2 vols., 1833&#150;4) and so became known as an authority on fevers. His practice of using fresh air as a treatment drew strong criticism as nineteenth-century medical practice favoured restricting the patient to a hot and close room. In 1832 an inheritance provided Boott with enough financial security to retire from practice. He was elected to the council of University College in 1833 and in 1836 joined the senate, remaining a member until his death.<br>
+<br>Boott is remembered primarily as a botanist and his major contribution was to the knowledge and organization of botany in Britain. His principal study was of sedges, the genus <i>Carex</i>, a large and complex family of plants. Over a period of thirty years Boott studied about 600 varieties of sedges which were distributed worldwide and he published his results in <span class="italic">Illustrations of the Genus Carex</span> (4 vols., 1858&#150;67; 2nd edn, 1968). These were entirely self-financed publications and were acclaimed by contemporaries as outstanding advances in botanical knowledge. Boott's association with the Linnean Society began when Bigelow arranged for an introduction to Sir James Smith, physician and one of the founders of the society and its first president in 1788. Boott was elected fellow of the society in 1819 and became its secretary (1832&#150;9), treasurer (1856&#150;61) and vice-president (1861&#150;3). Throughout his long association with the society he was an active and influential member instigating many reforms.<br>
+<br>Boott retained strong links with his native country and was a member of many literary and scientific societies in London and Massachusetts. It is no surprise therefore that in 1846, after the first experiments with the inhalation of ether had taken place in Boston, both Bigelow (then professor of the medical school at Harvard) and Everett (then president of Harvard) wrote to Boott of these developments. Boott lost no time in informing the London medical world. He sent Bigelow's letter to <span class="italic">The Lancet</span> and also to Robert Liston, professor of clinical surgery at University College Hospital. On 19 December 1846 Boott witnessed the first use of ether in Britain in his own home in Gower Street. It was administered by James Robinson, a dentist, for a tooth extraction, and two days later Liston used ether at University College. The early introduction of ether to London owes much to Boott's enthusiasm and interest in scientific advances.<br>
+<br>Boott had an abiding interest in literature and art and gathered a substantial library and a notable collection of paintings. Henry Crabb Robinson, writer, was the closest of his literary friends and Boott was also an admirer of the poet Henry Kirke White, although he never met him. In 1819 Boott paid for a memorial to be placed above White's grave in All Saints' Church, Cambridge. The church was later demolished and the memorial moved to the chapel of St John's College, Cambridge.<br>
+<br>Boott was tall and thin and became well known in the 1830s for abandoning the traditional medical outfit of black coat, white neckcloth, knee breeches, and black silk stockings for the then fashionable outfit of a blue coat with brass buttons and yellow waistcoat. However, &#145;by outliving the fashion, as he had forestalled it, he came to be as well known in 1860 as he had been in 1830&#146;  (<span class="italic">Medical Times and Gazette</span>, 16 Jan 1864).<br>
+<br>Boott never enjoyed robust health. In 1839 he suffered two attacks of pneumonia, mainly in his left lung, and afterwards suffered recurrent chest trouble. In June 1863 his right lung was struck by pneumonia from which he never fully recovered. Boott's final months were spent working on the last volume of <span class="italic">Illustrations</span> at his home, 24 Gower Street, London, until his death there on 25 December 1863.<br>
+<br>G. C. Boase<span class="italic">, rev. </span> Stephanie J. Snow </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. H. Ellis, &#145;The introduction of ether anaesthesia to Great Britain&#146;, <em>Anaesthesia</em>, 32 (1977), 197&#150;208 &middot; <em>Proceedings of the Linnean Society of London</em>, 8 (1864), 23&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (1864), 102 &middot; <em>The Lancet</em> (23 Jan 1864), 113 &middot; <em>Medical Times and Gazette</em> (16 Jan 1864), 77 &middot; F. Boott, &#145;Surgical operations performed during insensibility&#146;, <em>The Lancet</em>, 1 (1864), 5 &middot; P. Paxon, &#145;Boott, Kirk&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=ANB')"><i>ANB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1864)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Carnegie Mellon University, Pittsburgh, Hunt Institute for Botanical Documentation, journals
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=RBG%20Kew')">RBG Kew</a>, corresp., journals, papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=UCL')">UCL</a>, corresp.&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=DWL')">DWL</a>, letters to Henry Crabb Robinson
+   &middot;
+ Harvard U., Arnold Arboretum, letters to Asa Gray
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=Linn.%20Soc.')">Linn. Soc.</a>, corresp. with Sir James E. Smith
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=Linn.%20Soc.')">Linn. Soc.</a>, Pleasance, Lady Smith MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> black and bronze bust on unglazed porcelain, 1830&#150;39, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=RBG%20Kew')">RBG Kew</a> &middot; E. U. Eddis, oils, 1840, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=RCP%20Lond.')">RCP Lond.</a> &middot; Gambardella, oils, 1840&#150;49, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=Linn.%20Soc.')">Linn. Soc.</a> &middot; photograph, 1840&#150;49, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2901&amp;istheme=&amp;target=RBG%20Kew')">RBG Kew</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;4000: probate, 11 Jan 1864, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. C. Boase, &#145;<span class="roman"><span class="headword">Boott,  Francis</span>  (1792&#150;1863)</span>&#146;, rev. Stephanie J. Snow, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Sept 2010 [http://www.oxforddnb.com/view/article/2901, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Francis Boott (1792&#150;1863): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2901 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/2901/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

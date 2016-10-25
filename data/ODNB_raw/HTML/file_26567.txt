@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 26567;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/26/26567-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/26/26567-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=26567#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Stone,  Edmund</span>  (1695?&#150;1768), <span class="occ">mathematician</span>, was the son of a gardener of John Campbell, second duke of Argyll at Inveraray, but his parents' names are unknown. He was self-taught in mathematics, and his scientific contributions were mainly confined to translating and editing. A letter published in the <span class="italic">M&eacute;moires de Tr&eacute;voux</span> for 1736, on which all Stone's biographies are based, describes in a colourful way the stereotype encounter between the patron, Campbell, and his mathematically minded young employee. It tells how the duke found Stone reading a copy of Newton's <span class="italic">Principia</span> and discovered that the young gardener had taught himself Latin and French in order to have access to mathematical works. It seems that the duke allowed Stone to pursue his studies and sponsored his scientific activity. Stone's knowledge of French enabled him to translate several French books, and later one of his treatises was translated into French. He thus followed the Scottish predilection for contact between French and British science.<br>
+<br>Stone's translations from French include a treatise on mathematical instruments by Nicolas Bion, one on perspective by 'sGravesande, one on the theory and working of ships by Henri Pitot, and the two great treatises by L'Hospital, one on conic sections, the other his <span class="italic">Analyse des infiniment petits</span> (Paris, 1696) which was the standard textbook on Leibniz's differential calculus. Stone's translation of the latter appeared in 1730 as the first volume of <span class="italic">The Method of Fluxions both Direct and Inverse</span>. It is a methodical treatise which includes only a few problems but considers them at a fairly advanced level. Stone's translation rendered this influential text available to the English-speaking world, and is interesting since, in converting the mathematical terms and symbols from the language of Leibniz's calculus into that of Newton's fluxional method, he also provided a manual of translation between the two systems.<br>
+<br>Since L'Hospital had confined his treatise to the differential calculus, in the second volume Stone provided a treatment of the integral calculus (in Newtonian terms &#145;the inverse method of fluxions&#146;). While not a masterpiece, it included some tables of integrals (&#145;forms of fluents&#146;) taken from Cotes's <span class="italic">Harmonia mensurarum</span> (1722). It was superseded by more up-to-date treatises published in the 1730s and 1740s. In 1735 Stone's second volume was translated into French, indicating a growing interest in Newtonian science, and notably in Newton's fluxions, in France during the 1730s.<br>
+<br>Stone's editorial works included a revised translation in 1726 from David Gregory's original, <span class="italic">Elements of Physical and Geometrical Astronomy</span> (1702), and a translation from Latin of Isaac Barrow's <span class="italic">Lectiones geometricae</span> (1674) of 1735. His <span class="italic">New Mathematical Dictionary</span> (1726) was a shorter and less expensive alternative to John Harris's <span class="italic">Lexicon technicum</span> (1704&#150;10) and updated a similar work by Joseph Raphson published in 1702. Stone's only original contribution was a paper on cubic curves which was published in the <span class="italic">Philosophical Transactions</span> of 1740. In this paper he claimed to have discovered two cubic curves not considered by Newton and Stirling, but these two curves had already been published by Nicole and Nicolaus Bernoulli. In 1725 Stone was elected a fellow of the Royal Society, but he resigned in 1743, the year in which the duke of Argyll died. It seems that the death of his patron put an end to his scientific career. He spent his last days in poverty, and died in March 1768.<br>
+<br>Niccol&ograve; Guicciardini </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. V. Wallis and P. J. Wallis, eds., <i>Biobibliography of British mathematics and its applications</i>, 2 (1986) &middot; N. Guicciardini, <i>The development of Newtonian calculus in Britain, 1700&#150;1800</i> (1989)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Niccol&ograve; Guicciardini, &#145;<span class="roman"><span class="headword">Stone,  Edmund</span>  (1695?&#150;1768)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/26567, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edmund Stone (1695?&#150;1768): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/26567 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

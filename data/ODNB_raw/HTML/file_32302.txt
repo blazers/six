@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32302;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32302-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32302-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32302#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Carpenter, Sir  (Henry Cort) Harold</span>  (1875&#150;1940), <span class="occ">metallurgist</span>, was born at Clifton, Bristol, on 6 February 1875, the second son of William Lant Carpenter, engineer, of Bristol, and his wife, Annie Grace Viret. He was a grandson of the naturalist <script>writeSeealsoLink('../view/article/4742/', "William Benjamin Carpenter")</script> and a great-great-grandson of Henry Cort, the inventor of the puddling process for iron. Owing to his father's early death, his ideas were much influenced by his uncle, the Unitarian minister <script>writeSeealsoLink('../view/article/32303/', "(Joseph) Estlin Carpenter (1844&#150;1927)")</script>. He was educated at St Paul's School, then at Eastbourne College for a year, and in 1893 entered Merton College, Oxford, as a postmaster. Having obtained a first-class degree in natural science in 1896, he studied organic chemistry at Leipzig and took his PhD at the end of two years. He then worked with W. H. Perkin at Owens College, Manchester, until 1901, when he was appointed to take charge of the new departments of chemistry and metallurgy at the National Physical Laboratory. His interest soon shifted from organic chemistry to metallurgy, and from 1905 he confined his work to that subject, his first original contribution, with B. F. E. Keeling, being a study of the alloys of iron and carbon, involving accurate measurements in the range of high temperatures. This difficult investigation, establishing the main features of the system, was followed by studies of the structure of other alloys, especially the complex alloys of copper with aluminium. In 1905 Carpenter married Ethel Mary, daughter of George Henry Lomas, of Brooklands, Cheshire; there were no children of the marriage.<br>
+<br>The following year Carpenter accepted the new chair of metallurgy in the University of Manchester, where he built up a school of research, investigating tool steels and various complex alloys containing copper and aluminium. He left Manchester in December 1913 for the chair of metallurgy at the Royal School of Mines, South Kensington, but before taking up the duties he made a six months' tour of Canada and the United States of America in order to study metallurgical operations on a large scale. At the Royal School of Mines, however, he devoted himself mainly to the metallographic side of the subject. In a series of papers, mostly in collaboration with Constance Fligg Elam (later Mrs Tipper), he followed the process of recrystallization of metals which had been deformed, in the course of which means were devised for growing crystals of metals, especially aluminium, large enough to allow a study of their mechanical properties. This research laid the foundation of later work on single crystals. In collaboration with John Monteath Robertson he wrote numerous papers and a two-volume work, <span class="italic">Metals</span> (1939).<br>
+<br>Carpenter was successively president of the three principal British metallurgical institutes&#151;of Mining and Metallurgy (1934), of Metals (1918&#150;20), and of Iron and Steel (1935&#150;7). He had been instrumental in founding the Institute of Metals, and as chairman of a Treasury committee was responsible in 1929 for a report which resulted in improving the status of professional people in government service. He was elected FRS in 1918 and knighted in 1929. He received the honorary degree of DMet from the University of Sheffield and that of DSc from the University of Wales. He also received numerous gold medals, including the Japanese Honda medal (1940).<br>
+<br>In the First World War Carpenter served on the Admiralty board of invention and research. On the outbreak of war in 1939 the metallurgical department of the Royal School of Mines was transferred to Swansea, and it was while on a country walk in Clyne valley wood, near Swansea, that he succumbed to heart failure, on 13 September 1940.<br>
+<br>C. H. Desch<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (16 Sept 1940) &middot; C. A. Edwards, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32302&amp;istheme=&amp;target=Obits.%20FRS')"><i>Obits. FRS</i></a>, 3 (1939&#150;41), 611&#150;25 &middot; <em>Journal of the Iron and Steel Institute</em>, 142 (1940) &middot; <em>Metallurgia</em> (Oct 1940) &middot; personal knowledge (1949) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32302&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; M. E. Day, ed., <i>The engineers&#146; who&#146;s who</i> (1939) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32302&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1941)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, two photographs, 1936, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32302&amp;istheme=&amp;target=NPG')">NPG</a> &middot; portrait, repro. in Edwards, <i>Obits. FRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;28,050 6<i>s</i>. 11<i>d</i>.: resworn probate, 4 April 1941, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. H. Desch, &#145;<span class="roman"><span class="headword">Carpenter, Sir  (Henry Cort) Harold</span>  (1875&#150;1940)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/32302, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  (Henry Cort) Harold Carpenter (1875&#150;1940): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32302 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

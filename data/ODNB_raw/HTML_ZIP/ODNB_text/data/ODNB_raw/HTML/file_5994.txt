@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5994;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5994-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5994-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5994#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Colson,  John</span>  (1680&#150;1759), <span class="occ">mathematician and translator</span>, was born in Lichfield, the eldest of six children of Francis Coleson (or Colson), vicar-choral of Lichfield Cathedral, and his wife, Elizabeth. He was the nephew and godson of John Strype, the ecclesiastical historian. He attended Lichfield grammar school and on 26 May 1699 matriculated at Christ Church, Oxford, but left without taking a degree. His first publication, &#145;The universal resolution of cubic and biquadratic equations&#146;  (<span class="italic">PTRS</span>, 5, 1670), describes a method using geometric constructions of circles and parabolas to solve third and fourth degree polynomial equations. This monograph was appended to Newton's <span class="italic">Arithmeticae universalis</span> (1732). In 1709 Colson was appointed master of the new mathematical school founded by Joseph Williamson at Rochester in Kent, and he was elected fellow of the Royal Society on 11 June 1713. On 10 September 1724 he was appointed vicar of the parish church at Chalk near Gravesend.<br>
+<br>In 1726 Colson published his &#145;Account of negativo-affirmative arithmetic&#146;  (<span class="italic">PTRS</span>, vol. 34), describing an innovative method for representing integers using positive and negative digits and how to add, subtract, multiply, and divide using his two-way numerical notation. He collaborated with the Revd Samuel D'Oyly, vicar of St Nicholas's in Rochester, in producing the <span class="italic">Chronological Dictionary of Rev. Father Dom Augustin Calmet</span> (3 vols., 1732), a translation from the original French. The work reveals Colson's interest in arithmetic, calculations, tables, and measurement. In 1736 he published &#145;The construction and use of spherical maps&#146;  (<span class="italic">PTRS</span>, vol. 39). The treatise dealt with a mapping problem and recommended the use of cylinders to project from spheres onto planar maps. His interest in geography led to the invention of the &#145;British hemisphere&#146;, a map of the habitable world confined to a hemisphere with London located at the top.<br>
+<br>Most of his life Colson was employed as a translator by booksellers. <span class="italic">The Method of Fluxions and Infinite Series</span> (1736), the first complete English translation of Newton's 1671 untitled manuscript on fluxions, helped build Colson's reputation as a scholar. In order to temper the conciseness of Newton's style and make Newton's works more accessible to both mathematician and non-mathematician alike he added extensive explanatory notes.<br>
+<br>On 23 April 1728 Colson was elected a member of Emmanuel College, Cambridge, and granted a master's degree by George II. In 1737 Gilbert Walmsley, registrar of the ecclesiastical court at Lichfield, wrote to Colson recommending Samuel Johnson and David Garrick to his care and encouragement, and subsequently Garrick studied for a few months at Rochester. Two years later Colson resigned his headmastership at the Rochester school. As a teacher and administrator his record was not impressive: he was characterized as too concerned with his own &#145;speculations to have much interest in the efforts of young pupils to master the first principles of mathematics&#146;  (Flower, 31).<br>
+<br>After leaving the Rochester school Colson was admitted to Sidney Sussex College, Cambridge, where on 11 March 1739 he was appointed the college's first Taylor lecturer. Two months later, on the death of Nicholas Saunderson, he was elected fifth Lucasian professor in preference to the mathematician Abraham De Moivre. Colson used his influence and skills to help publish Saunderson's <span class="italic">Elements of Algebra</span> the following year, and appended an explanation of Saunderson's palpable arithmetic, a device with which Saunderson, who was blind, used to perform intricate arithmetic calculations. He also assisted in the publication of Saunderson's <span class="italic">Method of Fluxions</span> (1751) and an abridged edition of his <span class="italic">Elements of Algebra</span> (1756).<br>
+<br>As Lucasian professor, Colson was a member of the board of longitude when it recommended financial assistance to John Harrison to complete a third chronometer. William Cole, the antiquary, wrote that Colson &#145;was a plain, honest man, of great industry and assiduity, but the University was much disappointed in its expectations of a professor that was to give credit to it by his lectures&#146;  (Cole MSS, BL, Add. MS 5866, 3).<br>
+<br>In 1744 Colson published <span class="italic">Elements of Natural Philosophy</span>, translated from the Latin work of Pieter Musschenbroek, and in 1752, <span class="italic">Lectures in Experimental Philosophy</span>, from Jean Antoine Nollet's original. He then became captivated by Maria Agnesi's <span class="italic">Instituzioni analitiche ad uso della gioventu italiana</span> (1748). He learned Italian in order to translate the work, prepared it for press, drew up a proposal to finance the project by subscription, and wrote an introduction and an outline entitled &#145;A plan of the lady's system of analytics&#146;, but the work was not published during his lifetime. A mistranslation by Colson of &#145;versed sine&#146; gave rise to a curve bearing the name &#145;witch of Agnesi&#146;. In 1801, at his own expense, Francis Maseres, with the editorial assistance of John Hellins, published Colson's translation. Colson died in Cambridge on 16 December 1759 and at the time of his death held the position of rector of Lockington in Yorkshire.<br>
+<br>James J. Tattersall </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5994&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; D. E. L. Flower, <i>A short history of Sir John Williamson's mathematical school, Rochester, 1701&#150;1951</i> (1951) &middot; H. C. Kennedy, &#145;The witch of Agnesi&#151;exorcised&#146;, <em>Mathematics Teacher</em>, 62 (1969), 480&#150;82 &middot; G. Borlase, ed., <i>Cantabrigienses graduati &hellip; usque ad annum 1787</i> (1787) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5994&amp;istheme=&amp;target=BL')">BL</a>, Cole MSS, Add. MS 5866, 3 &middot; Emmanuel College, Cambridge, admission records, col. 3.2 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5994&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; E. Hasted, <i>The history and topographical survey of the county of Kent</i>, 1 (1778), 521 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5994&amp;istheme=&amp;target=Nichols%2C%20Lit.%20anecdotes')">Nichols, <i>Lit. anecdotes</i></a>, 8.467n. &middot; Sidney Sussex College, Cambridge, register, 2.147 &middot; N. Tildesley, <i>Lichfield Cathedral register</i> (1974), 146&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5994&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; E. Waring, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5994&amp;istheme=&amp;target=BL')">BL</a>, Newcastle, Hardwick and Cole MSS, Add. MS 3290, fol. 109 &middot; E. Hillman, &#145;John Colson&#146;, <em>Colson News</em>, 2 (1985), 75&#150;8<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Wollaston, oils, 1741, Old Schools, Cambridge &middot; oils, 1741; formerly at Sidney Sussex College, Cambridge, 1951<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James J. Tattersall, &#145;<span class="roman"><span class="headword">Colson,  John</span>  (1680&#150;1759)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/5994, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Colson (1680&#150;1759): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5994 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

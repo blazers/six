@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 946;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/946-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/946-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=946#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ayres,  Philip</span>  (1638&#150;1712), <span class="occ">poet and translator</span>, was born at Cottingham, Northamptonshire, and educated at Westminster School under Richard Busby. He is said to have been a member of St John's College, Oxford, but there is no record of his having matriculated at that university. By January 1666 he was attached to Sir Richard Fanshawe's embassy to Spain and Portugal in the capacity of steward: he is listed by Lady Fanshawe in her <span class="italic">Memoirs</span> among those who accompanied Fanshawe on his journey from Madrid to Lisbon, but not among those who returned with her from Madrid after her husband's death in June 1666. His copy of Fanshawe's translation of Mendoza's <span class="italic">Querer por solo querer</span> (1670), now in the National Library of Scotland, bears the Spanish inscription &#145;Philip Ayres majordomo to his Excellency Sir Richard Fanshawe&#146;.<br>
+<br>Ayres began to learn Spanish on his travels and published, in 1670, <span class="italic">The Fortunate Fool</span>, a translation of <span class="italic">El necio bien afortunado</span> by A. G. de Salas Barbadillo, stating in the &#145;Epistle Dedicatory&#146; that it was done &#145;<i>&agrave; la vol&eacute;e</i> only for my Divertisment, at spare hours, and my practice in the <i>Spanish</i> tongue&#146;. Ayres may have travelled to the Netherlands in the early 1670s. In the epistle to <span class="italic">The Hungarian Rebellion</span>, which he published in 1672, he claimed to be translating from a German text &#145;lately met with in <i>Holland</i>&#146;. At some point in the 1670s Ayres obtained a post as tutor in the Drake family of Amersham. He was &#145;Dry Nurse&#146;, that is, tutor, to two Montagu Garrard Drakes, father and son, and he lived in the Drake household until his death in 1712.<br>
+<br>Ayres's first publication was <span class="italic">A Short Account of the Life and Death of Pope Alexander the VII</span>, published in 1667, a translation of a text by Stefano Cavalli, published at Rome earlier in the same year. The preface to this pamphlet makes Ayres's own Anglican convictions clear, and singles Alexander VII out as an exceptional pontiff, free of what Ayres regards as Roman corruption. Nevertheless, Ayres hoped to see an end to the schism within western Christianity, a view not uncommon in the 1630s but comparatively rare later in the century. He returned to the subject ten years later, in his <span class="italic">Reuniting of Christianity, or, The manner how to rejoin all Christians under one sole confession of faith. Written in French by a learned protestant divine and now Englished</span> (1677). Despite the scepticism and hostility expressed in &#145;The translators animadversions on the foregoing discourses&#146;, Ayres translated, in 1680, a classic text of early modern hermeticism: Nicolas Pierre de Montfaucon de Villars's <span class="italic">Le comte de Gablis</span>. This is the text from which Pope drew his ironic supernatural &#145;machinery&#146; in <span class="italic">The Rape of the Lock</span>.<br>
+<br>The two literary works for which Ayres is chiefly remembered are the <span class="italic">Emblemata amatoria</span> (1683) and <span class="italic">Lyrick Poems</span> (1687). The former was the last of the English emblem books to achieve a popular success. Three-quarters of the copper plates are derived from the <span class="italic">Amorum emblemata</span> (Antwerp, 1608) of Otho Vaenius (Otto van Veen), and (in these cases) the Latin and Italian verses are from the same source. Almost all the remaining plates are from the <span class="italic">Thronus cupidinis</span> (Amsterdam, 1618). It is to be assumed that all the English verses and some of those in French, Latin, and Italian are Ayres's own compositions. Like Ayres's <span class="italic">Lyrick Poems</span>, this work looks to the modes and achievements of the first half of the seventeenth century. Despite this, the book was clearly popular: there were five English editions over the following thirty years.<br>
+<br>The <span class="italic">Lyrick Poems</span> (1687) includes translations from the ancient Greek lyric poets, Petrarch, Tasso, Cam&otilde;es, Guarini, de la Vega, Quevedo, Gongora, and Marino, and most of the verses presented as original compositions are also translations. The collection also contains a Spanish poem by Ayres in which he styles himself &#145;Don Felipe Ayres&#146;. The &#145;Preface&#146; confirms the impression that Ayres was trying to fashion himself as a baroque poet on the continental model, referring to Fanshawe and Milton (poets closely involved with Spanish and Italian literature) as his models in English, as well as Spenser and Sidney. The volume also contains poems of friendship to John Dryden and Nahum Tate, as well as a surprisingly extravagant panegyric of James II.<br>
+<br>Three further works require brief mention. An original conduct-book, homiletic in tone, <span class="italic">Vox clamantis, or, An essay for the honour, happiness and prosperity of the English gentry, and the whole nation</span> (1684), prescribes rules of &eacute;lite behaviour in a context of divine-right royalism and high-church Anglicanism. In 1684 Ayres published <span class="italic">The voyages and adventures of Capt. Barth. Sharp and others &hellip; journal of the same also Capt. Van Horn with his buccanieres surprizing of la Vera Cruz</span> (1684), a documentary work which anticipates Defoe's narratives of piracy. In 1689 he published an illustrated work, <span class="italic">Mythologica ethica, or, Three Centuries of Aesopian Fables</span>, a compendium drawn from various ancient and Renaissance sources owing at least its title to Freitag's <span class="italic">Mythologica ethica</span> (Antwerp, 1579). In its preface he is at pains to put forward a case for his dignity and status as a compiler, editor, and annotator.<br>
+<br>In 1696 Ayres published <span class="italic">The Revengeful Mistress</span>, a set of interlocking prose narratives or &#145;novels&#146;, which set out to warn gentlemen travellers (and their guardians) of the dangers to be met with on the continent, the &#145;ill women&#146; of Italy, and especially of Spain. He published no more, and died at Amersham on 1 December 1712. He was buried in St Mary's churchyard, Amersham, where a monumental inscription was erected to him.<br>
+<br>Peter Davidson and Ian William M<sup>c</sup>Lellan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. Thomas, &#145;The <i>Emblemata amatoria</i> of Philip Ayres&#146;, <em>The Library</em>, 3rd ser., 1 (1910), 90&#150;95 &middot; B. Westerweel, &#145;Philip Ayres and the love emblem tradition&#146;, <i>Anglo-Dutch relations in the field of the emblem</i>, ed. B. Westerweel (1997) &middot; <i>The memoirs of Anne, Lady Halkett and Ann, Lady Fanshawe</i>, ed. J. Loftis (1979) &middot; notice of Philip Ayres, Bodl. Oxf., MS Rawl. D. 1160, fol. 1 &middot; autographs, Bodl. Oxf., MS Rawl. D. 1386, fols. 18&#150;20 &middot; gifts of books by Philip Ayres, Bodl. Oxf., MS Rawl. D. 878, fols. 4, 6, 17<i>v</i>, 25<i>v</i>, 26<i>v</i>, 29 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=946&amp;istheme=&amp;target=Old%20Westminsters')"><i>Old Westminsters</i></a>, vol. 1<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Peter Davidson, Ian William McLellan, &#145;<span class="roman"><span class="headword">Ayres,  Philip</span>  (1638&#150;1712)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/946, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Philip Ayres (1638&#150;1712): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/946 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21802;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21802-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21802-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21802#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pell,  John</span>  (1611&#150;1685), <span class="occ">mathematician</span>, was born on 1 March 1611 at Southwick, Sussex, the second of two sons of John Pell (<i>d</i>. 1616), of Southwick, and his wife, Mary, <i>n&eacute;e</i> Holland (<i>d</i>. 1617), of Halden, Kent. Pell's father, reported by Aubrey to have been &#145;a kind of Non-conformist&#146;  (<span class="italic">Brief Lives</span>, 121) came of ancient Lincolnshire stock. Pell, to whom his father had left an excellent library, was educated at the newly founded free school at Steyning, Sussex, where he progressed rapidly. At the age of thirteen in 1624 he was sent to Trinity College, Cambridge. Though eminently skilled in Latin, Greek, and Hebrew, he never offered himself as candidate at the election of scholars or fellows at his college. He graduated BA in 1628 and MA in 1630, and in 1631 was incorporated in the University of Oxford. A few years later he was familiar with Arabic, Italian, Spanish, French, and Low and High &#145;Dutch&#146; (German). He was celebrated for his immense knowledge and his unceasing industry. At the age of seventeen he corresponded with Henry Briggs about logarithms, but details of his study of mathematics (as well as of theology) do not seem to be known. From 1630 to 1638 he was assistant master at Collyer's School in Horsham and teacher at Samuel Hartlib's short-lived Chichester Academy in Sussex.<br>
+<br>Pell was a striking figure, remarkably handsome, with strong, excellent posture, dark hair and eyes, and a good voice. His temperament was sanguine and melancholic. On 3 July 1632 he married Ithumaria Reginolles, the second daughter of Henry Reginolles (<i>d</i>. 1661) of London. They had four sons and four daughters. Pell's wife died on 11 September 1661, and he remarried before 1669.<h2>
+<a name="Teachingmathematics"></a>Teaching mathematics</h2>In 1638 the group surrounding John Comenius, of which Pell was a leading member (in particular he had become a close friend of Theodore Haak), arranged his move to London, where apparently he taught mathematics. In worldly affairs he was very inexperienced; throughout his life he had need of friends to push him forward and recommend him to men of influence, but as a mathematician he soon won such a reputation, that&#151;supported by a recommendation from Sir William Boswell, the English resident with the states general&#151;in December 1643 he was chosen as successor to Martin Hortensius, the professor of mathematics at the <i>Gymnasium Illustre</i> in Amsterdam.<br>
+<br>In June 1646 Pell was invited by the prince of Orange to become professor of philosophy and mathematics at Breda in the newly founded college (academy) with an annual salary of 1000 guilders. His duties were, however, restricted to those of a professor of mathematics. When the First English&#150;Dutch War seemed imminent in 1652 Pell returned to London. From Cromwell's government he received an annual salary of &pound;200 as &#145;Professor of Mathematics&#146;, but there is no evidence of any teaching. In 1654, on Haak's recommendation, Cromwell dispatched him to Switzerland on a diplomatic mission at an increased salary of &pound;600, the object being to detach the protestant cantons from France, and to draw them into a continental protestant league headed by England. Interminable negotiations ensued. He returned to England only a few weeks before the Protector's death, and did not have the opportunity of an audience. During all the years of Pell's absence, Haak had taken care of his financial and family affairs.<br>
+<br>After the Restoration, Pell accepted holy orders, being ordained deacon, and priest in 1661 when he was instituted to the rectory of Fobbing in Essex. In addition, in 1663 he was presented with the vicarage of Laindon and Basildon in Essex by Dr Gilbert Sheldon, bishop of London; he held both preferments until his death. Having been nominated domestic chaplain to Sheldon on his elevation to the see of Canterbury, Pell took the degree of DD in 1663, yet Anthony Wood noted in his diary:<blockquote>he was a shiftless man as to worldly affairs, and his tenants and relations dealt so unkindly to him, that they cozened him of the profits of his parsonage, and kept him so indigent, that he wanted necessaries, even ink and paper, to his dying day. (Wood, <span class="italic">Ath. Oxon.</span>, 1, cols. 461&#150;4)</blockquote>In fact he became so insolvent that twice he was thrown into the king's bench prison.<br>
+<br>Pell was among the first elected fellows of the Royal Society, on 20 May 1663; on the same day, he was dispensed of the weekly payments [<i>see </i><script>writeSeealsoLink('../view/theme/59221', "Founder members of the Royal Society")</script>]. When the society formed several committees in 1664, Pell became a member of those in charge of mechanical and optical inventions as well as that responsible for reporting and conducting experiments on natural phenomena; later he was added to the committee on agriculture. In 1675 he was elected to the council, in the following year as one of its vice-presidents. In 1681 he reported at a meeting that he had translated most of Lazarus Ercker's famous book on minerals, <span class="italic">Beschreibung allerf&uuml;rnemsten mineralischen Ertzt</span> (1574), into English.<h2>
+<a name="Publications"></a>Publications</h2>Pell's first mathematical publication was <span class="italic">An Idea of Mathematics</span>. To simplify the study of mathematics, Pell suggested in a few pages that all theorems and methods be collected in a kind of encyclopaedia of mathematics; it should make the study of all mathematical books published so far superfluous. This visionary plan (published in Latin of which a copy has recently been discovered in Hamburg, and English in 1638) was republished in English as an appendix to Durie's <span class="italic">Reformed Librarie-Keeper</span> (1650). In 1679 Hooke included the Latin version, together with comments from Mersenne and Descartes, in his <span class="italic">Philosophical Collections</span> (no. 5, 127).<br>
+<br>Pell's fame was enhanced by his second mathematical publication, a refutation of Longomontanus's quadrature of the circle, initially published as a single sheet in 1644, reprinted in <span class="italic">A Refutation of Longomontanus's Pretended Quadrature of the Circle</span> (1646; Latin edn, 1647). In 1672 he published in London <span class="italic">Tabula numerorum quadratorum decies millium, or, A Table of Ten Thousand Square Numbers</span>. A table of antilogarithms (100,000 entries to eleven decimals)&#151;the first of its kind&#151;was computed by him and Walter Warner between 1630 and 1640 but has been lost or destroyed.<br>
+<br>Pell was engaged for decades in preparing for the press editions or concise versions of several classical mathematical texts, though none appeared. He is reported to have &#145;done the second book of Euclid in one side of a large sheet of paper most clearly and ingeniously&#146;  (<span class="italic">Brief Lives</span>, 126), and Archimedes' <span class="italic">Sand-Reckoner</span> in a similar way. He also worked on Euclid, Book Ten of the <span class="italic">Elements</span>, and on Apollonius, Pappus, and Diophantus, without producing a result.<br>
+<br>While in Z&uuml;rich, Pell had privately instructed Johann Heinrich Rahn or Rhonius (1622&#150;1676) in mathematics. Much of this instruction appeared in Rahn's <span class="italic">Teutsche Algebra, oder, Algebraische Rechenkunst</span> (1659). For an English translation prepared by Thomas Brancker or Branker (1633&#150;1676), Pell's alterations and additions doubled the number of pages. It appeared as <span class="italic">An Introduction to Algebra, Translated out of the High-Dutch &hellip; much Altered and Augmented by D. P.</span> (1668); &#145;D. P.&#146;, or &#145;D. I. P.&#146; in the preface, stood for Doctor (Iohn) Pell, as was generally known at the time of publication, indicating Pell's strong involvement. The book (in both the German and the English versions) contains some innovations in symbolism, and, as a novel feature, the addition of two parallel columns alongside the computations that amount to a programmed instruction for the single steps to be carried out&#151;a novelty which Rahn expressly attributed to a high and very learned person who did not want his name to be made known. In spite of earlier doubts, this must be a reference to Pell's authorship; hence at least he deserves to be remembered in the history of programming.<br>
+<br>It is often stated that the expression &#145;Pell's (or Pellian) equation&#146;, created by Leonhard Euler for an indeterminate equation of the second degree, is due to a confusion of Pell with Lord Brouncker. A special case of this type of equation appears in the Rahn&#150;Pell <span class="italic">Algebra</span> but Pell contributed nothing to the methods of solution.<h2>
+<a name="Closingyears"></a>Closing years</h2>For some time Pell had boarded at John Collins's house, but in the summer of 1665 the plague forced him to leave London. For a number of years he lived at Brereton Hall in Cheshire as the guest of William Brereton, third Baron Brereton of Leighlin, who had been his pupil in the Netherlands. In 1671 Pell's children were living in the same neighbourhood. From Aubrey's remark, &#145;Never was there greater love between master and scholar then between Dr. Pell and this scholar of his, whose death March 17, 1679/80 hath deprived this worthy doctor of an ingeniose companion and a useful friend&#146;, it may be inferred that Pell stayed with Brereton until 1680. Shortly afterwards, according to Aubrey, Pell lived &#145;in an obscure lodging, three stories high, in Jermyn Street, next to the sign of the Ship, wanting not only bookes but his proper MSS&#146;  (<span class="italic">Brief Lives</span>, 232).<br>
+<br>After Pell's imprisonment, Dr Daniel Whistler provided the now totally impoverished mathematician an asylum in the College of Physicians in March 1682. Ill health, however, forced him to move to the house of one of his grandchildren in St Margaret's churchyard, Westminster, in June 1683. From there he was transferred to the lodging in Dyot Street, Westminster, of a Mr Cothorne, who was reader in the church of St Giles-in-the-Fields. Pell died in Dyot Street on 12 December 1685 and was buried in the rector's vault under that church.<br>
+<br>Pell's reputation as a mathematician was mostly based on his impressive knowledge of mathematical literature and on his promise and did not outlast his lifetime. In his own peculiar way he was devoted to algebra (the solution of equations, in his days a much discussed subject), and the study of Diophantus, but he did not influence the future development of mathematics.<br>
+<br>Christoph J. Scriba </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. Birch, <i>The history of the Royal Society of London</i>, 4 vols. (1756&#150;7), vol. 4, pp. 444&#150;7 &middot; S. P. Rigaud and S. J. Rigaud, eds., <i>Correspondence of scientific men of the seventeenth century</i>, 2 vols. (1841); repr. (1965) &middot; J. O. Halliwell, ed., <i>A collection of letters illustrative of the progress of science in England from the reign of Queen Elizabeth to that of Charles the second</i> (1841) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a> &middot; <i>Brief lives, chiefly of contemporaries, set down by John Aubrey, between the years 1669 and 1696</i>, ed. A. Clark, 1 (1898), 121&#150;31 &middot; P. J. Wallis, &#145;Pell, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; C. de Waard, &#145;Pell, John&#146;, <i>Nieuw Nederlandsch biografisch woordenboek</i>, ed. P. C. Molhuysen and P. J. Blok, 3 (Leiden, 1914), cols. 961&#150;5 &middot; P. R. Barnett, <i>Theodore Haak, FRS, 1605&#150;1690</i><i>: the first German translator of &#145;Paradise lost&#146;</i> (1962) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; R. S. Westfall, <i>Catalogue of the scientific community of the 16th and 17th centuries</i> [web site: es.rice.edu/ES/humsoc/Galileo/Catalog/catalog.html] &middot; J. A. van Maanen, &#145;The refutation of Longomontanus' quadrature by John Pell&#146;, <em>Annals of Science</em>, 43 (1986), 315&#150;52 &middot; C. J. Scriba, &#145;John Pell's English edition of J. H. Rahn's <i>Teutsche Algebra</i>&#146;, <i>For Dirk Struik</i><i>: scientific, historical, and political essays in honor of Dirk J. Struik</i>, ed. R. S. Cohen, J. J. Stachel, and M. W. Wartofsky (1974), 261&#150;74 &middot; J. Bernhardt, &#145;Une lettre-programme pour &#145;l'avancement des math&eacute;matiques&#146; au XVIIe si&egrave;cle: l'<i>Id&eacute;e g&eacute;n&eacute;rale des math&eacute;matiques</i> de John Pell&#146;, <em>Revue d'Histoire des Sciences</em>, 24 (1971), 309&#150;16 &middot; F. Cajori, &#145;Rahn's algebraic symbols&#146;, <em>American Mathematical Monthly</em>, 31 (1924), 65&#150;71 &middot; G. Wertheim, &#145;Die Algebra des Johann Heinrich Rahn, 1659, und die englische &Uuml;bersetzung derselben&#146;, <em>Bibliotheca Mathematica</em>, 3rd ser., 3 (1902), 113&#150;26 &middot; N. Malcolm, &#145;The publications of John Pell F.R.S. (1611&#150;1685): some new light and some old confusions&#146;, <em>Notes and Records of the Royal Society of London</em>, 54 (2000), 275&#150;92 &middot; J. A. Stedall, &#145;Moving the Alps: uncovering the mathematics of John Pell&#146;, <i>A discourse concerning algebra</i><i>: English algebra to 1685</i> [forthcoming]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=BL')">BL</a>, corresp. and papers, Add. MSS 4278&#150;4474
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=BL')">BL</a>, diplomatic corresp. and papers, Lansdowne MSS 754&#150;755
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=BL')">BL</a>, mathematical papers and notes, Add. MSS 4410&#150;4431
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=BL')">BL</a>, proof sheets of the English edition of Rahn's <i>Teutsche algebra</i> and related papers, Add. MS 4398
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=BL')">BL</a>, Sloane MS 4365
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, letters to John Aubrey
+   &middot;
+ priv. coll. (NRA)
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21802&amp;istheme=&amp;target=RS')">RS</a>, John Collins MSS
+   &middot;
+ Worcester College, Oxford, cypher book<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Christoph J. Scriba, &#145;<span class="roman"><span class="headword">Pell,  John</span>  (1611&#150;1685)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2007 [http://www.oxforddnb.com/view/article/21802, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Pell (1611&#150;1685): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21802 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/21802/2006-05"> [Previous version of this biography available here: May 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

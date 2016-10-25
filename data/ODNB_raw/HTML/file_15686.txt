@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15686;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15686-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15686-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15686#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kirwan,  Richard</span>  (1733&#150;1812), <span class="occ">chemist and mineralogist</span>, was born at Cloghballymore House, near Kinvara, co. Galway, Ireland, the second son of Martin Kirwan (<i>d</i>. 1741) of Cregg Castle, near Corrundulla, and his wife, Mary, daughter of Patrick French. After the death of his father he was placed in the care of his maternal grandparents at Cloghballymore House. He was educated by the family chaplain until sent (together with his brothers Andrew and Hyacinth) to Erasmus Smith School in Galway.<br>
+<br>Though Kirwan's father had been brought up a Roman Catholic, he had conformed to the tenets of the established church in order to avoid the restrictions of the penal laws. However, he wanted his second son, who would not inherit the family estates, to become a Catholic priest. Accordingly Kirwan was sent to Poitiers, where Jesuits had established a college for Irish clerical students, and subsequently to the novitiate at St Omer. Preparations for a priesthood were, however, abandoned after the death, as a result of a duel in Dublin about 1755, of his elder brother, Patrick.<br>
+<br>In February 1757 Kirwan married Anne Blake (<i>d</i>. 1765), the daughter of Sir Thomas and Lady Blake of Menlough Castle, on the southern shores of Lough Corrib. They had two daughters. The couple lived at Menlough, where Kirwan equipped a chemical laboratory, in which he apparently spent most of his time, earning his mother-in-law's disapproval. A surviving letter sent to him by his mother in 1750 shows that at Poitiers too he had initially neglected his legitimate studies in order to read books on chemistry.<br>
+<br>When his wife died in 1765, Kirwan was in London studying law. In 1764 he had renounced Catholicism as a prerequisite of being called to the Irish bar in 1766. He practised in Dublin for two years and developed an intense dislike of the profession. After a further period in London, he returned to Ireland, about 1772, and went to live about 10 miles north-east of Galway at Cregg Castle, which had been built by his great-great-grandfather. He made some alterations and built a laboratory in the grounds.<br>
+<br>Kirwan returned to London in 1777. Early in 1780, the year of his election to the Royal Society, he began to reside at 11 Newman Street, off Oxford Street, which became a rendezvous for scientists and members of society. Initially he was greatly influenced by Joseph Priestley, who persuaded him to become a Unitarian. He began to correspond with scientists in Europe, notably Torbern Bergman and Guyton de Morveau. Letters between Kirwan and Guyton in the period 1782&#150;1802 chart the course of their close friendship and gradual divergence of their views on the phlogiston theory and Lavoisier's new theory of combustion.<br>
+<br>Kirwan is known to historians for his ambiguous involvement in the chemical revolution. His <span class="italic">Essay on Phlogiston and the Constitution of Acids</span>, in which he sought to reconcile the established phlogistic chemistry with Lavoisier's new theory, was published in 1787, the year he left London. Priestley had recently discovered that &#145;inflammable air&#146; (hydrogen) could, like charcoal, revive a metal from its calx, and (like Priestley himself) Kirwan believed that the revival of a metal from its calx took place through the addition of phlogiston. He therefore used Priestley's discovery to suggest that inflammable air was simply phlogiston in its gaseous state. However, he had to contend with Lavoisier's apparently contradictory finding that the process of reviving a calx resulted in a loss of weight, whereas the addition of phlogiston should have increased it; while calcination, believed to involve loss of phlogiston, resulted in an increase in weight. He therefore partially accepted Lavoisier's suggestion that the weight changes should be attributed to the addition of oxygen in calcination and its removal when the process was reversed, but he sought to make this consistent with the theory of phlogiston by postulating that in calcination the oxygen united with the metal's phlogiston to form &#145;fixed air&#146; (carbon dioxide).<br>
+<br>Kirwan's ideas on phlogiston were initially published as the second part of a paper which was mainly devoted to the experiments on chemical affinity for which he won the Royal Society's Copley medal in 1782. This experimental programme was continued in his later years, after he returned to Ireland. Meanwhile his <span class="italic">Essay on Phlogiston</span> was rapidly translated into French by Lavoisier's wife, Marie-Anne, and brought out in 1788 with critical notes by six French savants, including her husband. Kirwan's subsequent abandonment of the phlogistic cause may have been brought about by this publication. Alternatively it is possible that he was converted by his fellow countryman William Higgins's <span class="italic">A Comparative View of the Phlogistic and Antiphlogistic Theories</span> (1789), which was sharply critical of his attempt to reconcile the two systems. Be that as it may, his only known comment when he relinquished the phlogiston theory in 1791 was that it was impossible to prove that fixed air was ever formed from the combination of phlogiston and oxygen.<br>
+<br>Kirwan's <span class="italic">An Estimate of the Temperature at Different Latitudes</span>, an early work on comparative climatology, was also published in 1787. Much of his work published in the <span class="italic">Transactions</span> of the Royal Irish Academy, of which he was the second president in 1799, was on meteorology. It included synopses of the weather in Dublin from 1788 to 1808, which he compiled from daily records using instruments set up behind his house at 6 Cavendish Row, Dublin. His most important paper, &#145;On the variations of the atmosphere&#146; (<span class="italic">Transactions of the Royal Irish Academy</span>, 8, 1802, 269&#150;507), showed an early understanding of air masses.<br>
+<br>Kirwan's most important work however was his <span class="italic">Elements of Mineralogy</span>, published in 1784 and revised in 1794&#150;6. The revised edition was aided by his negotiated purchase, for the Royal Dublin Society, of the Leskean collections (about 7000 specimens assembled by N. G. Leske, professor of natural history at Leipzig). His <span class="italic">Essay on the Analysis of Mineral Waters</span> (1799) is a good account of the qualitative and quantitative methods of analysis then available. He also wrote informatively on subjects related to Ireland's economy, notably on coal and coalmining. His writings on geology included <span class="italic">Geological Essays</span> (1799) and various papers, and are largely a defence of the Mosaic account of the creation against James Hutton's theory of the earth, which Kirwan believed was atheistic and therefore subversive. Towards the end of his life Kirwan turned to philosophical writing, publishing a lengthy critique of Hume's philosophy in <span class="italic">Transactions of the Royal Irish Academy</span> (vol. 8, 1801); a two-volume <span class="italic">Logick</span> (1807), concerned particularly with practical applications in metaphysics and religion and with probability theory; and <span class="italic">Metaphysical Essays</span> (1811), a staunch defence of Berkeley's immaterialism.<br>
+<br>In his later life Kirwan developed a morbid fear of catching a cold, and Lady Morgan (formerly the author Sydney Owenson) described how, one fine spring evening, she was received by Kirwan clad in a cloak, shawl, and slouch hat, sitting on a sofa completely surrounded by a large screen, while a huge fire blazed on the hearth. He died at his home on 1 June 1812, and was buried a week later in the yard of the old St George's Church in Dublin. His library was bequeathed to the Royal Irish Academy. An earlier collection of his books came to be housed in the Athenaeum Library in Salem, Massachusetts, after the ship carrying it from Galway to London was captured by a privateer, and eventually sold at Salem.<br>
+<br>E. L. Scott </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Donovan, &#145;Biographical account of the late Richard Kirwan&#146;, <em>Proceedings of the Royal Irish Academy</em>, 4 (1847&#150;50), 81&#150;118 [list of papers] &middot; P. J. McLaughlin, &#145;Richard Kirwan, 1733&#150;1812&#146;, <em>Studies</em>, 28 (1939), 461&#150;74, 593&#150;605 &middot; P. J. McLaughlin, &#145;Richard Kirwan, 1733&#150;1812&#146;, <em>Studies</em>, 29 (1940), 71&#150;83, 281&#150;300 &middot; F. E. Dixon, &#145;Richard Kirwan, the Dublin philosopher&#146;, <em>Dublin Historical Record</em>, 24/3 (1970&#150;71), 53&#150;64 &middot; E. Grison, M. Goupil, and P. Bret, eds., <i>A scientific correspondence during the chemical revolution</i> (1994) &middot; Lady Morgan, <i>Book of the boudoir</i>, 1 (1829) &middot; J. O'Reardon, &#145;The life and work of Richard Kirwan&#146;, <em>National Magazine</em> [Dublin], 1 (1830), 330&#150;42, 469&#150;75 &middot; J. R. O'Flanagan, &#145;Richard Kirwan&#146;, <em>Dublin Saturday Magazine</em>, 2 (1865), 242&#150;4, 254&#150;6, 266&#150;9 &middot; W. H. Brock, <i>The Fontana history of chemistry</i> (1992) &middot; C. Mollan, W. Davis, and B. Finucane, eds., <i>Some people and places in Irish science and technology</i> (1985)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15686&amp;istheme=&amp;target=Royal%20Irish%20Acad.')">Royal Irish Acad.</a>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Broca, engraving, repro. in <em>Dublin Magazine, or Monthly Memorialist</em>, 1 (1812), 64 &middot; H. D. Hamilton, oils, Royal Dublin Society &middot; drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15686&amp;istheme=&amp;target=NL%20Ire.')">NL Ire.</a> &middot; oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15686&amp;istheme=&amp;target=Royal%20Irish%20Acad.')">Royal Irish Acad.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">E. L. Scott, &#145;<span class="roman"><span class="headword">Kirwan,  Richard</span>  (1733&#150;1812)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/15686, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Richard Kirwan (1733&#150;1812): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15686 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1280;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1280-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1280-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1280#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:259px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=01280&amp;orientation=l')"><img border="0" alt="  John Banister (1532/3&#150;1599?), by English School, 16th cent." onmouseover="status='  John Banister (1532/3&#150;1599?), by English School, 16th cent.'" src="/images/article-imgs/1/01280_1_200px.jpg"></a><span class="imagecaption"><b>  John Banister (1532/3&#150;1599?)</b>, by English School, 16th cent.</span>
+</div>
+<div class="para">
+<span class="headword">Banister <span class="st"> [<em>formerly </em>Banester]</span>,  John</span>  (1532/3&#150;1599?), <span class="occ">surgeon</span>, was the son of John Banister, apparently &#145;a minor official in the royal household&#146;  (Bindoff, 647), and his wife, Margaret, daughter of Richard Lowth, of Sawtry, Huntingdon. He had a brother, Gabriel, and a sister, Elizabeth. Little else is known about his origins. He attended Edward VI during his last illness in 1553, and corresponded at least between 26 May and 21 July with the imperial ambassador, Jehan Scheyfve, detailing the king's decline and the duke of Northumberland's preparations for the succession. After service at sea he went as surgeon with the earl of Warwick's army sent to relieve Le Havre in 1563. When Warwick was struck by a poisoned bullet on 29 July, Banester successfully treated him. It was probably during this campaign that he began a long friendship with William Clowes the elder. Some time after his return he studied medicine at Oxford and received a licence to practise on 30 June 1573. Meanwhile, on 12 February 1572, he had been admitted to the Barber&#150;Surgeons' Company, enabling him to practise in London. On moving to London he changed his name from Banester to Banister. His description in the company's court minutes (B/1/1) as &#145;of Nottingham&#146; confirms that he had not served a surgeon's apprenticeship in London.<br>
+<br>A painting in Glasgow University Library  (MS Hunter 364) shows Banister delivering a visceral lecture at the Barber&#150;Surgeons' Hall, Monkwell Street, London. Four such lectures were given each year and all freemen and guests were invited to attend. Dated 1581, and giving Banister's age as forty-eight, the picture represents the method of teaching anatomy in the late sixteenth century. Before an audience of young surgeons he points to a skeleton beside which there is an opened medical text, while in front of him there is a body in the process of dissection. In 1582&#150;3 Banister served as surgeon on the <i>Leicester</i>, one of four ships which took part in an expedition to China and the East Indies financed by a group of wealthy citizens with the support of the earl of Leicester. However, the voyage was unsuccessful. Banister lost forty-five of his patients and the ships got no further than the Atlantic so he learned nothing of tropical diseases. Two years later he went with the earl of Leicester's expedition to the Netherlands.<br>
+<br>In 1593 Banister was licensed to practise medicine and surgery by the College of Physicians of London, in obedience to a letter from Queen Elizabeth. The letter referred to Banister's honesty and skill and noted that he had &#145;always jointlie used the art of Physick with Chirurgerie&#146;. Being licensed to practise medicine as well as surgery was unusual at a time when the surgeon, who had learned his craft through apprenticeship, was considered subordinate to the university educated physician. The college had once censured him for illicit practice. It has been suggested that the queen's letter reflects attempts to further the union of medicine and surgery in late Tudor times, and also the College of Physicians' opposition to the idea. Banister's daughter Cicely married the surgeon John Read, who also opposed the separation of medicine from surgery.<br>
+<br>Banister was a prolific writer. He wrote the epilogue to William Clowes's book on syphilis, <span class="italic">A Short and Profitable Treatise</span>, first published in 1579. His own works were <span class="italic">A needefull, new, &amp; necessarie treatise of chyrurgerie, briefly comprehending the generall and particular curation of ulcers</span> (1575), which was dedicated to Thomas Stanhope, high sheriff of Nottingham, and was based largely on ancient and modern authors but including some of his own treatments; <span class="italic">The Historie of Man, Sucked from the Sappe of the most Approved Anathomistes</span> (1578), which includes a passing reference to his treatment of young children in Nottingham suffering from pleurisy; <span class="italic">Compendius Chirurgery, Gathered and Translated Especially out of Wecker</span> (1585), which includes many annotations to correct the errors of Johann Jacob Wecker and to supply new information; and <span class="italic">An Antidotarie Chyrurgicall</span> (1589). His collected works were published in 1633. Banister's books contain little original thinking and were less highly regarded than those of William Clowes, whose practical outlook he lacked. Compiled from the standard authorities their purpose was to bring to the fraternity of surgeons what Banister considered to be the theory and practice of the day. He was one of a group of medical practitioners who not only &#145;advocated chemical therapy but also projected themselves as allies of the Paracelsians&#146;  (Webster, 327). Banister's wife was named Joan; they had a daughter, Catherine, who married the physician Stephen Bradwell. In later years Banister lived in Silver Street, London, and was buried at St Olave, Silver Street, where a monument erected to his memory was destroyed, together with the church, in the great fire. He is possibly the &#145;Mr John Banister&#146; who was buried there on 16 January 1599.<br>
+<br>Andrew Griffin </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Young, <i>The annals of the Barber&#150;Surgeons of London</i><i>: compiled from their records and other sources</i> (1890) &middot; records of the Barber&#150;Surgeons' Company, Barber&#150;Surgeons' Hall, London &middot; J. J. Keevil and others, <i>Medicine and the navy, 1200&#150;1900</i>, 1: <i>1200&#150;1649</i> (1957) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1280&amp;istheme=&amp;target=Munk%2C%20Roll')">Munk, <i>Roll</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1280&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; &#145;John Banester, 1533&#150;1610&#146;, <em>British Journal of Surgery</em>, 5 (1917), 8&#150;16 &middot; D. Power, &#145;Notes on early portraits of John Banister, of William Harvey, and the Barber&#150;Surgeons' visceral lecture in 1581&#146;, <em>Proceedings of the Royal Society of Medicine</em>, 6 (1912&#150;13), 18&#150;36 [section of the history of medicine] &middot; M. Pelling and C. Webster, &#145;Medical practitioners&#146;, <i>Health, medicine and mortality in the sixteenth century</i>, ed. C. Webster (1979), 165&#150;235 &middot; C. Webster, &#145;Alchemical and Paracelsian medicine&#146;, <i>Health, medicine and mortality in the sixteenth century</i>, ed. C. Webster (1979), 301&#150;31 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1280&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; The anatomical tables of John Banester, U. Glas., MS Hunter 364 &middot; S. T. Bindoff, &#145;A kingdom at stake, 1553&#146;, <em><i>History Today</i></em>, 3 (1953), 642&#150;8 &middot; private information (2004) [M. Cooke, A. H. Nelson]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>National State Archives, Brussels, correspondence with Jehan Scheyfve<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait (delivering the visceral lecture at Barber&#150;Surgeons' Hall, London, 1581), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1280&amp;istheme=&amp;target=U.%20Glas.')">U. Glas.</a>, MS Hunter 364 &middot; English School, oil on brown paper, 16th cent. (<i>Ms Hunter 364 Top v14 fol.59 Frontispiece, John Bannister Lecture with Dissection</i>), Bridgeman Art Library, London [<i>see illus.</i>]<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Andrew Griffin, &#145;<span class="roman"><span class="headword">Banister ,  John</span>  (1532/3&#150;1599?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2015 [http://www.oxforddnb.com/view/article/1280, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Banister (1532/3&#150;1599?): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1280 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1280/2008-10"> [Previous version of this biography available here: October 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

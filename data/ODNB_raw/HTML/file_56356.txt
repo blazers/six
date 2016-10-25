@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56356;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56356-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56356-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56356#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Miller,  James Arthur</span>  (1855&#150;1939), <span class="occ">rugby administrator and schoolmaster</span>, was born in Leeds on 19 January 1855, the son of Joseph Miller, an engineer, and his wife, Elizabeth. He first played rugby in the 1870s as a pupil at Leeds middle class school, an Anglican establishment which specialized in science and technology. He later returned as the school's science master, a role in which he enjoyed great popularity with the boys. He played rugby for Yorkshire as a forward five times between 1879 and 1881, but it was as an administrator of the game that he made his mark.<br>
+<br>An official with Leeds St John's Club, which later became Leeds Rugby League Club, Miller was elected secretary of the Yorkshire Rugby Union (YRU) in 1889, and sought to steer a middle course between the amateurism of the Rugby Football Union (RFU) and calls for outright professionalism. In 1891, recognizing that pure amateurism was unworkable in the predominantly working-class environment of northern rugby, he proposed relaxing the RFU's amateur regulations to allow players to be paid for time lost at work through playing rugby, or &#145;broken time&#146;. In the same year he also argued for a reduction in the number of players in a rugby team from fifteen to thirteen, in order to make the game more attractive and to help it counter the growing popularity of soccer. Ignored by the rugby union authorities at the time, the thirteen-a-side proposal was adopted in 1906 by the Northern Union as a basic rule of rugby league.<br>
+<br>The debate on payments for play came to a head at the September 1893 RFU general meeting. Miller proposed the motion &#145;that players be allowed compensation for bona-fide loss of time&#146;, arguing that working-class players were constantly called upon to lose their wages in order to play the game at the highest levels yet were refused recompense for the loss of time involved. But his motion was lost by 282 votes to 136, and the RFU consequently amended its constitution to allow membership only to those clubs &#145;entirely composed of amateurs&#146;. The die was cast for the great rugby split of 1895.<br>
+<br>During his presidency of the YRU (1892&#150;5), Miller's loyalty to the RFU led him to oppose the 1895 formation of the Northern Union. He subsequently became one of the most unyielding defenders of pristine amateurism, steadfastly opposing any attempts to compromise with the new union. Despite having a leg amputated and almost losing his life following an explosion at Roundhay Park in Leeds in 1910, he continued to serve on the YRU committee for another thirty years, and was appointed treasurer in 1922. Ironically, his life ended in disgrace over money, after he was sentenced to six months' imprisonment in 1927 for using his position to embezzle over &pound;1000 from the YRU. He died, almost completely unnoticed and unmourned, at St James's Hospital, Leeds, on 10 March 1939, and was buried at Lawnswood cemetery in north Leeds three days later.<br>
+<br>Tony Collins </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Yorkshire Evening Post</em> (11 March 1939) &middot; &#145;Sad case of rugby official&#146;, <em>Yorkshire Evening Post</em> (4 Oct 1927) &middot; &#145;Memories of Leeds middle class school&#146;, <em>Yorkshire Weekly Press</em> (26 Sept 1908) &middot; &#145;Former pupils of Leeds middle class school&#146;, <em>Yorkshire Weekly Press</em> (9 Dec 1922) &middot; &#145;Yorkshire Rugby Union AGM&#146;, <em>Yorkshire Post</em> (15 June 1897) &middot; &#145;Roundhay Park explosion&#146;, <em>Yorkshire Post</em> (28 June 1910) &middot; &#145;The Yorkshire rugby Union football committee drawn and no-quartered&#146;, <em>The Yorkshireman</em> (March 1892)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;27 15<i>s</i>. 9<i>d</i>.: probate, 24 July 1939, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Tony Collins, &#145;<span class="roman"><span class="headword">Miller,  James Arthur</span>  (1855&#150;1939)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/56356, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Arthur Miller (1855&#150;1939): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56356 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

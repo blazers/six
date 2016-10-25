@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27704;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27704-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27704-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27704#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Trench,  (Richard) William Steuart</span>  (1808&#150;1872), <span class="occ">land agent and writer</span>, was born on 16 November 1808 at Bellegrove, near Portarlington, Queen's county, Ireland, the fourth son of Thomas Trench (1761&#150;1834), dean of Kildare (brother of Frederic Trench, first Lord Ashtown, and brother-in-law of Melesina Trench), and his wife, Mary, eldest daughter of Walter Weldon of Rahinderry, MP for Athy in 1745. Trench was educated at the Royal School, Armagh, and was admitted to Trinity College, Dublin in 1826, though he does not appear to have taken a degree. In April 1832 he married Elizabeth Susannah (<i>d</i>. 1887), daughter of J. Sealy Townsend, master of chancery in Ireland. They had two sons and one daughter.<br>
+<br>Trench spent some years preparing to become a land agent, and in 1841 he was awarded the gold medal of the Royal Agricultural Society for his essay, &#145;Reclamation&#146;. After holding some subordinate positions he was appointed agent to the Shirley estate in co. Monaghan in April 1843. He resigned this post in April 1845. In December 1849 Trench was appointed agent to the extensive estates of the marquess of Lansdowne in co. Kerry, and, in addition to these, he took charge of the property of the marquess of Bath in Monaghan in 1851, and that of Lord Digby in the King's county in 1856. He held these appointments until his death.<br>
+<br>Trench's experience of the land management in Ireland ranged from the period immediately before the famine of the 1840s until Gladstone's first <span class="roman">Land Act</span> (1870). In 1868 he published <span class="italic">Realities of Irish Life</span>, a book which was an immediate success and which passed through five editions in a year. The <span class="italic">Edinburgh Review</span> praised its forcible and impressive description of the Irish peasantry, and likened its popular force, humour, and pathos to that in the early works of Charles Dickens. In 1871 Trench published <span class="italic">Ierne: a Tale</span>, in which he treated the same topics in fictional form, describing the faith of the Irish peasantry in their indefeasible ownership of the land, but the book did not achieve the success of its predecessor. Trench also wrote a sketch of the history of Ireland from the earliest times to the <span class="roman">Act of Settlement</span> in 1870, but the work was suppressed after a large portion had been printed. His final publications were a series of tales, entitled &#145;Sketches of life and character in Ireland&#146;, which appeared in <span class="italic">Evening Hours</span>, a monthly periodical, in 1871 and 1872.<br>
+<br>Trench died at Carrickmacross, co. Monaghan, Ireland, the seat of the marquess of Bath, on 4 August 1872.<br>
+<br>C. L. Falkiner<span class="italic">, rev. </span> Anne Pimlott Baker </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27704&amp;istheme=&amp;target=Burke%2C%20Peerage')">Burke, <i>Peerage</i></a> (1970) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27704&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27704&amp;istheme=&amp;target=Burtchaell%20%26%20Sadleir%2C%20Alum.%20Dubl.')">Burtchaell &amp; Sadleir, <i>Alum. Dubl.</i></a>, 2nd edn &middot; P. Bew, <i>Land and the national question in Ireland, 1858&#150;82</i> (1978) &middot; B. L. Solow, <i>The land question and the Irish economy, 1870&#150;1903</i> (1971) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27704&amp;istheme=&amp;target=CGPLA%20Ire.')"><i>CGPLA Ire.</i></a> (1872)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;14,000: probate, 30 Aug 1872, <i>CGPLA Ire.</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. L. Falkiner, &#145;<span class="roman"><span class="headword">Trench,  (Richard) William Steuart</span>  (1808&#150;1872)</span>&#146;, rev. Anne Pimlott Baker, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/27704, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  (Richard) William Steuart Trench (1808&#150;1872): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27704 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

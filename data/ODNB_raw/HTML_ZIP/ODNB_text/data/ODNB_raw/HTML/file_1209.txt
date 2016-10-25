@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1209;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1209-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1209-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1209#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">John</span> <span class="st"> [John  de Balliol]</span>  (<em>c.</em>1248<span class="mult">x</span>50&#150;1314), <span class="occ">king of Scots</span>, was the fourth and youngest son of <script>writeSeealsoLink('../view/article/1208/', "John de Balliol (d. 1268)")</script>, lord of Barnard Castle, and his wife, <script>writeSeealsoLink('../view/article/49378/', "Dervorguilla de Balliol, lady of Galloway (d. 1290)")</script>. His successful claim to the Scottish throne in 1291&#150;2 was based on the fact that his mother was the second daughter of Margaret, eldest daughter of David, earl of Huntingdon (<i>d</i>. 1219), the younger brother of William (the Lion), king of Scots (<i>d</i>. 1214) [<i>see also </i><script>writeSeealsoLink('../view/theme/93692', "Competitors for the throne of Scotland")</script>].<h2>
+<a name="Earlylifeandcareer"></a>Early life and career</h2>Information on John's early life and career is slight. Born between about 1248 and 1250, possibly in Picardy, he succeeded to the Balliol family estates in 1278, following the deaths of his father, in 1268, and of his three elder brothers, Hugh (1271), Alan (date not known), and Alexander (1278). It was a much reduced patrimony, centred mainly upon Barnard Castle, in co. Durham, to which he succeeded. Other Balliol estates had been extensively used as dowers for his mother and two high-ranking sisters-in-law, Agnes de Valence and Ali&eacute;nor de Genoure, widows respectively of Hugh and Alexander; his mother also retained possession of her own inheritance.<br>
+<br>Upon his succession to the Balliol estates, homage was demanded of John by both King Edward I and Robert Stichill, bishop of Durham. Despite official acknowledgement of John's rights as heir, almost a year elapsed between Alexander's death and John's succession. During that period, Balliol lands in Northumberland were taken into royal custody, and a contemporary chronicler, Thomas Wykes, recorded that John himself was also in royal custody at about this time. According to Wykes, Balliol needed Edward's consent for his proposed marriage to Isabel, second daughter of <script>writeSeealsoLink('../view/article/28734/', "John de Warenne, earl of Surrey (d. 1304)")</script>; he describes John as a youth, <i>adolescens</i>, and Isabel, a young girl, <i>adolescentula</i>. In fact, at the date of their marriage, which probably took place in February 1281, John was about thirty years of age and Isabel was at least in her mid-twenties. Clearly, Edward could not have been exercising rights of wardship in a minority but the true reasons for his heavy-handed intervention are not clear.<br>
+<br>Like two of his elder brothers, John de Balliol did not marry until he had attained headship of the family. But unlike his brothers, he had not already been pursuing a career in English royal service&#151;military, crusading, or diplomatic. As the youngest son of an especially devout mother, he may well have been destined for a monastic career. According to an account by the Durham chronicler Robert Greystones, in September 1290 there was a dispute between Ranulf de Neville, lord of Raby, and the prior of Durham concerning custom and protocol to be observed within Durham Cathedral priory at the feast of St Cuthbert. Balliol was evidently present at this dispute, since he rebutted Neville's claims for precedence and privileges, declaring that he had for a long time attended the schools of Durham but had not heard of the privileges which the lord of Raby claimed. This may well have been the novices' school, which, as described in the later rites of Durham, provided education for intending monks, though it is also possible that he was taught in the Durham almonry school. The benefits of an education were certainly manifest in Balliol's case; a record of 1294, for example, testifies to his ability to read out a written petition in public (<i>ore proprio publice fecit</i>), a level of literacy that may have been fairly widespread but is actually attestable among relatively few contemporary members of the secular nobility.<br>
+<br>John's wife and two sisters-in-law were of English comital families or closely associated with the English royal court, and one of his four sisters married into the celebrated de Burgh family. Another sister, Ada, married into the Anglo-Scottish baronage, her husband, William de Lindsay, being heir to the lordships of Kendal and Lamberton (Berwickshire). The only member of his generation to effect a significant Scottish connection was his sister Eleanor, who married <script>writeSeealsoLink('../view/article/6045/', "John Comyn (d. c.1302)")</script>, lord of Badenoch, justiciar of Galloway, and one of the guardians of Scotland between 1286 and 1292.<br>
+<br>In fact, before the sudden death of Alexander III, king of Scots, in March 1286, Scotland played little part in Balliol's business affairs. However, he does appear to have begun negotiations with King Alexander concerning the release from imprisonment in Barnard Castle of his mother's half-brother, Thomas of Galloway. Upon Alexander's death, the issue was dropped and it was not until after John's abdication in 1296 that old Thomas was finally released from over sixty years' imprisonment. In contrast, John appears to have been much more active in the management of family interests in northern France. For parts of 1283, 1284, and 1289&#151;and possibly also 1282 and 1285&#151;he was evidently resident on his Picard estates.<h2>
+<a name="SuccessiontotheScottishthrone12861292"></a>Succession to the Scottish throne, 1286&#150;1292</h2>Within a month of Alexander III's death, according to Walter Bower, &#145;bitter pleading&#146; between Robert (V) de Brus (<i>d</i>. 1295) and John de Balliol is alleged to have broken out in a <i>colloquium</i> or parliament. John otherwise remained comparatively uninvolved in Scottish affairs during this phase of the guardianship, but in the uncertain atmosphere surrounding the Scottish royal succession the lineage of John's mother is likely to have become a matter of common knowledge.<br>
+<br>Upon the death of the aged Dervorguilla in January 1290, Balliol gained a rich inheritance in both England and Scotland. By early March he had been granted seisin of her considerable English lands; details of his succession to her equally extensive Scottish lands and his assumption of the title of lord of Galloway are not recorded, but three years later Edward I &#145;pardoned&#146; him &pound;3000 of the &pound;3289 14<i>s</i>. 1&frac12;<i>d</i>. allegedly due as relief payment. John was now wealthy, and thus, like his father before him, an object of intense royal cupidity. It is no coincidence that in May 1291, on the eve of the Great Cause, Edward I issued writs of distraint against John's goods and chattels for alleged debts of over &pound;1235. A small amount was levied and then the matter was suspended, only to be raised again, with an equally nice sense of timing, two years later.<br>
+<br>Politically, too, 1290 marked a watershed in Balliol's career. In September, the death of Alexander's recognized heir, his granddaughter, Margaret, the young &#145;Maid of Norway&#146;, made Balliol a leading claimant for the vacant Scottish throne, and drew him more actively into the process of faction forming. The possibility that he might seek an audience with the king of England was referred to in a letter to Edward I from Bishop William Fraser of St Andrews, but the so-called &#145;appeal of the seven earls&#146;, which is ascribable to late 1290 or early 1291, warned against any action on John's part which might lead &#145;to the prejudice and injury of the right and liberty of the seven earls of Scotland&#146;  (Stones, <span class="italic">Anglo-Scottish Relations</span>, 45). In a document issued in November 1290 in favour of Antony (I) Bek, bishop of Durham, Balliol even went so far as to style himself &#145;heir of the kingdom of Scotland&#146;  (Fraser, 22&#150;3), a presumption that was probably as much a reflection of the ambition of the beneficiary, as of his own.<br>
+<br>By common consent a court was set up by King Edward I of England to determine the Scottish succession, the proceedings of which later became known as the &#145;Great Cause&#146;. After an adjournment, on 2 June Edward first demanded acceptance of his lordship. Having evidently mistaken the day, Balliol arrived on the following day, and a notary was careful to record John's personal acknowledgement of Edward's lordship and jurisdiction. In early June also auditors were appointed to hear the adjudication. It was politically significant that John Comyn of Badenoch and John de Balliol together agreed to supply forty (out of 104) nominees, their list of lay sponsors bearing a distinctively Comyn &#145;party&#146; appearance. Comyn's own petition also specifically sought to avoid prejudicing Balliol's claim, which was presented to the court on 3 August 1291.<br>
+<br>The records of the closing stages of the proceedings in October&#150;November 1292 reflected the opposed legal viewpoints of seniority (Balliol) as against nearness of degree (Brus) in the transmission of the Scottish kingdom. The fact that Balliol's maternal grandmother was an eldest daughter was adjudged to give him a stronger right to the kingship over his mother's cousin, Robert (V) de Brus, son of their grandmother Margaret's second sister, Isabel. The court's award of the sasine of the kingdom in favour of Balliol was confirmed by Edward I, who finally awarded that kingdom to him on 17 November 1292. During these final sessions John de Balliol reached agreement&#151;possibly involving money payments&#151;with at least three of his fellow claimants, William de Ros (<i>d</i>. 1317), William de Vescy (<i>d</i>. 1297), and Florence (V), count of Holland (<i>d</i>. 1296).<h2>
+<a name="KingofScots12921296"></a>King of Scots, 1292&#150;1296</h2>On 30 November 1292, when he was about forty-two or forty-four years of age, John was enthroned as king of Scots in an inauguration ceremony at Scone. His first written act as king was sealed with his personal seal, on the grounds that he had not as yet had one made bearing his regal style, an omission that was made good shortly afterwards. Throughout his reign, in fact, private family issues merged with public matters of state. The parliament of August 1293, for example, acknowledged his rights of inheritance to his uncle's lands in Berwickshire. But, although as king of Scots he had authority over episcopal appointments, and as lord of Galloway he had special authority over the see of Whithorn, in 1294 he was forced to accept a Brus nominee, Master Thomas of Dalton, as bishop of Galloway, an indication of lingering hostility and defiance from the Brus camp.<br>
+<br>During his reign, Balliol family links with Picardy emerged particularly clearly. In 1293, for example, he issued a letter of protection in favour of the merchants of Amiens coming to or staying in Scotland, almost certainly promoting their lucrative trade in woad-dye. In Scotland they obviously took advantage of the exalted position of someone they could regard as a compatriot. As recently as June 1289, John had been in Amiens itself, confirming a sale of tithes by Gauthier de Grandsart to the college of Amiens. Also, by the terms of the Franco-Scottish treaty of 1295&#150;6, part of the money for the dower of the infant Isabeau de Valois, to be married to John's elder son, Edward, was to be raised from Balliol's own private estates in Picardy.<br>
+<br>John's royal councillors and officials included many trusted associates of the Balliols. Drawn mainly from the Comyn group that had formed the joint body of auditors, his councillors included two former guardians, Bishop Fraser and John Comyn of Badenoch, who, like Gilbert and Ingram de Umfraville, was related to Balliol by marriage. Royal officials included kinsmen such as <script>writeSeealsoLink('../view/article/1203/', "Alexander de Balliol")</script> of Cavers (<i>d</i>. 1310), chamberlain or associate chamberlain since 1287, and his cousin, Hugh de Eure, or Iver, executor of his father's will, who served as royal envoy. Master Thomas of Hunsingore, a Yorkshireman with Balliol connections, became chancellor in 1294, and other minor royal officials who had been associated with the Balliol family included Walter of Cambo, sheriff of Northumberland, and William of Silksworth, the king's sergeant. Similar associations are observable at a more modest level in persons such as Walter of Darlington, a clerk whom Balliol presented to the church of Parton. Antony Bek, bishop of Durham, and John de Lisle, a tenant of the Balliols at East Newton in Northumberland, also took advantage of John's exalted position to press claims in Scotland.<br>
+<br>Administratively, John's reign was distinguished. It is likely, for example, that the authoritative treatise on the government of the kingdom, known as <span class="italic">The King's Household</span>, was prepared for his benefit and guidance about 1292. His reign also saw a significant assertion of royal authority through parliament, no less than four sessions of which were held between February 1293 and May 1294. In one unprecedented session, &#145;everyone with a complaint [was summoned before king and council] &hellip; to show the injuries and trespass done to them by whatsoever ill-doers&#146;  (Duncan, 43). Equally constructive was the ordinance of early 1293 creating three sheriffdoms in the west highlands: Skye under William, earl of Ross (<i>d</i>. 1323), Lorn under Alexander MacDougall, lord of Argyll (<i>d</i>. 1310), and Kintyre under James Stewart (<i>d</i>. 1309). MacDougall, a loyal supporter of King John and the Comyns&#151;like Balliol, he was a brother-in-law of John Comyn of Badenoch&#151;appears to have been granted wider powers over all three sheriffdoms. King John had clearly grasped the crucial importance of establishing royal authority in the west, and conducting government through royal agents at strategic regional centres, presaging later Stewart policy.<br>
+<br>Politically, however, John's reign was dominated by a series of appeals from Scottish courts to those of Edward I of England. The eleven known cases involved nine separate appellants, of whom three were English subjects and three were clearly political malcontents. Of the remaining appeals, that of Master Roger Bartholomew of Berwick was used by Edward I as a test case inherited from the period of the guardianship, while Macduff of Fife, who claimed he had not been allowed to succeed to lands in northern Fife and had been imprisoned by Balliol, was a man with questionable grievances.<br>
+<br>Initially defying Edward, King John in the autumn of 1293 eventually appeared before the English parliament, protesting against the alleged right to hear appeals. Under threat, he withdrew his protest and renewed his submission and homage to the English king. The episode revealed Balliol's personal weakness when confronted, not for the first time in his career, with Edward I's uncompromising attitude. In the words of Professor Barrow, Balliol found himself:<blockquote>ground between the upper and nether millstones of an overlord who demanded humble obedience and a community of the realm whose leaders insisted that he stand up manfully for their independence. A contemporary English writer [the Rishanger chronicler], conflating Saint Luke and Isaiah, compared him to a lamb among the wolves, who dared not open his mouth. (Barrow, 86&#150;7)</blockquote>A further step towards the break with England&#151;and the end of John's reign&#151;was taken when the king of Scots and twenty-six of his magnates tacitly defied Edward I's summons, issued in June 1294, to undertake personal military overseas service against the king of France. Indeed, by May 1295, Philippe IV, king of France (<i>r</i>. 1285&#150;1314), was able to view the Scots &#145;not as enemies but rather as our friends&#146;  (Stevenson, vol. 2, no. 335), and at a parliament in Stirling in early July four Scots commissioners were appointed to negotiate a French treaty. Drawn up in October and ratified by the Scottish king and parliament on 23 February 1296, this treaty set out the terms of a military alliance between the two kingdoms; it also made provision for the marriage of John's elder son, Edward, &#145;future king of Scotland&#146;, to King Philippe's niece. So, although the council of twelve guardians elected at the Stirling parliament may have taken the direction of Scottish government out of John's hands, either because of his unfitness or untrustworthiness, they remained firmly committed to the maintenance of the Balliol dynasty.<h2>
+<a name="Abdicationimprisonmentandexile12961314"></a>Abdication, imprisonment, and exile, 1296&#150;1314</h2>War with England, which had long been threatening, finally broke out when the Scots, fortified by their military alliance with France, refused Edward's demand that certain Scottish towns and castles be granted as sureties for the answering of appeals. The war itself began on the eastern border at the end of March 1296, and the first and last decisive battle of this campaign, at Dunbar on 27 April, resulted in a clear victory for the English under King John's father-in-law, John de Warenne, earl of Surrey. Balliol himself retreated northwards through Angus, and in late June sent envoys to Edward, then at Perth, seeking peace.<br>
+<br>At first Edward, probably having newly discovered the terms of the Franco-Scottish treaty, was prepared to offer Balliol favourable terms of surrender, including possibly the offer of an English earldom, in return for a voluntary submission. But in the event Edward's plenipotentiary, Antony Bek, bishop of Durham, required John to surrender the kingdom, formally break the seal, and submit himself unconditionally to the king of England's will. The formal surrender proceedings are recorded in three documents: at Kincardine on 2 July Balliol confessed his rebellion; at Stracathro on 7 July he renounced the French treaty; and at Brechin Castle on 10 July he resigned his kingdom and royal dignity. Chronicle accounts also record that John was taken to Montrose Castle where he appears to have been publicly cashiered, possibly even paraded as a penitent, the removal of the royal blazon from his surcoat or tabard giving rise to his undying nickname of Toom Tabard, meaning &#145;empty surcoat&#146;.<br>
+<br>Escorted by the sons of Edmund, earl of Lancaster (<i>d</i>. 1296), John de Balliol was taken from Montrose to Canterbury. From early August he was detained at the Tower of London, Hertford, and elsewhere, remaining at Hertford, where he was allowed hunting privileges, until August 1297. Thereafter, until July 1299 he was kept at the Tower of London, although on one occasion at least, on 1 April 1298, he was in the lodging of the bishop of Durham &#145;outside London&#146; where, in the presence of the bishop, he denounced his former subjects, alleging that they had tried to poison him; whether that denunciation of the Scots was authentic and unforced remains unclear.<br>
+<br>In accordance with the terms of an Anglo-French truce concluded in June 1299, Edward accepted French and papal demands for John's transfer into papal custody. Transported from Dover, Balliol found himself at Wissant-sur-Mer on 18 July where, in the presence of the papal legate, the bishop of Vicenza, and the envoys of the king of France, he swore to keep residence where the bishop or other papal mandatory consigned him. Four days later he was handed over to the representatives of the bishop of Cambrai and was later transferred to the abbot of Cluny's castle of Gevrey-Chambertin. News that the officers of the king of France had removed Balliol from the place assigned by the pope and had established him at &#145;his castle of Bailleul in Picardy&#146; reached English officials in early October 1301. The letter containing this news also referred to a rumour that Philippe IV might be preparing to send John de Balliol back to Scotland &#145;with great strength&#146;  (Stones, &#145;Submission&#146;, 132&#150;4).<br>
+<br>Ever since his enforced abdication in 1296, Scots leaders had continued to treat John as their lawful king. With his transfer to papal custody and a strong affirmation of French and papal support, a realistic prospect of his restoration, or the succession of his elder son, Edward, began to grow, and diplomatic efforts to restore him to his throne were intensified. Indeed, Scottish royal acts began to be issued again in his name, not just on his behalf, and in 1301 he may have had a direct hand in the appointment of John Soulis (<i>d</i>. 1318) as sole guardian. By early 1302 even Edward I was contemplating the possibility that Balliol might return, though he was not prepared to accept him as king.<br>
+<br>All expectations of French support for such a scheme, however, were dashed by the devastating defeat of the French army by the Flemings at Courtrai in Flanders in July 1302. An Anglo-French truce was followed in May 1303 by a peace treaty which, despite strenuous efforts by Scottish ambassadors, excluded Scottish interests. Balliol himself may well have compromised the effective representation of Scottish interests in this crucial treaty. In a letter from Bailleul in November 1302, he had authorized Philippe IV to undertake and conclude negotiations on his behalf against the king of England. He probably had little choice, either as king of Scots or lord of Bailleul. The 1303 treaty permitted Edward to concentrate his efforts against Scotland, where by 1304 he appeared to have secured almost total military and political domination. Although John de Balliol's claim to the Scottish throne was never relinquished in his lifetime, any realistic prospect of his restoration&#151;and hence his political significance&#151;was greatly reduced after 1304.<br>
+<br>The county of Ponthieu, where John's ancestral home and his continental exile now lay, had been inherited by Edward I's wife, Eleanor, in 1279, at about the time that Balliol himself inherited his family estates there. Subject to French overlordship, Ponthieu had been confiscated on the outbreak of Anglo-French hostilities in 1294, but had been restored to Edward by the terms of the same 1299 truce that had involved Balliol's transfer into papal custody. Once again, Balliol was in no position to escape the controlling hand of the English king; as he later acknowledged to Edward II in his last recorded act (dated March 1314), &#145;we hold our land of Helicourt and its appurtenances in Vimeu in fee of our excellent prince, Edward by the grace of God, king of England and count of Ponthieu&#146;  (Belleval, 102&#150;4).<br>
+<br>To the end, John retained the style of &#145;king of Scots&#146;, although to Robert I he was merely John de Balliol. His death occurred shortly before 4 January 1315, when Louis X of France (<i>r</i>. 1314&#150;16) was notified of the fact and was asked to accept the fealty of Edward, John's elder son, for the Balliol estates in Picardy. John lived long enough to have learned of the outcome of the battle of Bannockburn in June 1314, and possibly even of the Cambuskenneth parliament in the following November. Of his two sons, <script>writeSeealsoLink('../view/article/1206/', "Edward Balliol")</script> survived until early 1364, while Henry was killed at Annan in 1332; both died childless.<h2>
+<a name="Assessment"></a>Assessment</h2>Issues and events surrounding John's short reign as king of Scots were catalysts of the first importance in converting Anglo-Scottish relations to a centuries-long course of conflict and in the firm re-establishment of Scotland as an independent kingdom. However, outside the relative limelight of his short reign, John de Balliol himself has remained among the least known kings in Britain of the high and later middle ages. Historical judgements on him have focused mainly on his handling of the appeals to Edward I and on the circumstances of his abdication. When John Stewart, earl of Carrick, succeeded to the Scottish throne in 1390, he had himself crowned as Robert III, largely in order to avoid association with the failure and shame brought upon his baptismal name by the reign of the Scottish King John. Posterity's general conclusion, which cannot easily be gainsaid, is that John's personal qualities were insufficient to cope with a difficult political situation and with an exceptionally difficult English king; there was little in the discredited figure of Toom Tabard to overcome the taint of Englishness and to endear him to later generations of Scots.<br>
+<br>G. P. Stell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>A history of Northumberland</i>, Northumberland County History Committee, 15 vols. (1893&#150;1940), vol. 6, pp. 16&#150;73, esp. 52&#150;68 &middot; G. P. Stell, &#145;The Balliol family and the Great Cause of 1291&#150;2&#146;, <i>Essays on the nobility of medieval Scotland</i>, ed. K. J. Stringer (1985), 150&#150;65 &middot; G. W. S. Barrow, <i>Robert Bruce and the community of the realm of Scotland</i>, 2nd edn (1976) &middot; E. L. G. Stones and G. G. Simpson, eds., <i>Edward I and the throne of Scotland, 1290&#150;1296</i>, 2 vols (1978) &middot; R. de Belleval, <i>Jean de Bailleul, roi d'&Eacute;cosse et sire de Bailleul-en-Vimeu</i> (1866) &middot; G. G. Simpson, <i>Handlist of the acts of Alexander III, the Guardians, and John, 1249&#150;1296</i> (1960) &middot; J. Stevenson, ed., <i>Documents illustrative of the history of Scotland</i>, 2 vols. (1870) &middot; M. Bateson, ed., &#145;The Scottish king's household and other fragments from a fourteenth-century manuscript&#146;, <i>Miscellany &hellip; II</i>, Scottish History Society, 44 (1904), 3&#150;43 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1209&amp;istheme=&amp;target=CDS')"><i>CDS</i></a>, vol. 2 &middot; P. Chaplais, ed., <i>Treaty rolls preserved in the Public Record Office</i>, 1 (1955) &middot; <i>&#145;Registrum palatinum Dunelmense&#146;</i><i>: the register of Richard de Kellawe, lord palatine and bishop of Durham</i>, ed. T. D. Hardy, 4 vols., Rolls Series, 62 (1873&#150;8) &middot; <i>Records of Antony Bek &hellip; 1283&#150;1311</i>, ed. C. M. Fraser, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1209&amp;istheme=&amp;target=SurtS')">SurtS</a>, 162 (1953) &middot; E. L. G. Stones, &#145;The submission of Robert Bruce to Edward I, <i>c.</i>1301&#150;2&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1209&amp;istheme=&amp;target=SHR')"><i>SHR</i></a>, 34 (1955), 122&#150;34 &middot; E. L. G. Stones, ed. and trans., <i>Anglo-Scottish relations, 1174&#150;1328</i><i>: some selected documents</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1209&amp;istheme=&amp;target=OMT')">OMT</a> (1965) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1209&amp;istheme=&amp;target=Ann.%20mon.')"><i>Ann. mon.</i></a>, vol. 4 &middot; <i>Historiae Dunelmensis scriptores tres</i><i>: Gaufridus de Coldingham, Robertus de Graystanes, et Willielmus de Chambre</i>, ed. J. Raine, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1209&amp;istheme=&amp;target=SurtS')">SurtS</a>, 9 (1839) &middot; N. Orme, <i>English schools in the middle ages</i> (1973) &middot; S. I. Boardman, <i>The early Stewart kings</i><i>: Robert II and Robert III, 1371&#150;1406</i> (1996) &middot; W. Bower, <i>Scotichronicon</i>, ed. D. E. R. Watt and others, new edn, 9 vols. (1987&#150;98), vol. 6 &middot; A. A. M. Duncan, &#145;The early parliaments of Scotland&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1209&amp;istheme=&amp;target=SHR')"><i>SHR</i></a>, 45 (1966), 36&#150;58<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> seal, repro. in H. Laing, <i>Descriptive catalogue of impressions from ancient Scottish seals</i>, Bannatyne Club, 91 (1850), 6 (nos. 19&#150;20)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> English holdings forfeited in 1306: Hardy, ed., <i>Registrum</i>, vol. 2, pp. 795&#150;802 &middot; forfeitures in 1296: <i>CDS</i>, vol. 2, p. 736<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. P. Stell, &#145;<span class="roman"><span class="headword">John</span> [John  de Balliol]  (<em>c.</em>1248<span class="mult">x</span>50&#150;1314)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2005 [http://www.oxforddnb.com/view/article/1209, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ John [John  de Balliol] (<em>c.</em>1248<span class="mult">x</span>50&#150;1314): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1209 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1209/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

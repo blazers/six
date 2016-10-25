@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25556;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25556-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25556-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25556#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Symeon of Durham</span>  (<em>fl. </em><em>c.</em>1090&#150;<em>c.</em>1128), <span class="occ">Benedictine monk and historian</span>, owes his reputation principally to a history of the church of Durham, written at some point between 1104 and 1109 on the orders of his superiors. Compiled from a variety of sources, Symeon's history deals with the fortunes of the bishopric from its foundation by St &Aacute;ed&aacute;n on Lindisfarne in 635 to the death of Bishop William of St Calais in 1096. It describes Bishop Eardulf's flight from Lindisfarne in 875 with the body of St Cuthbert, his settlement at Chester-le-Street, and the subsequent move of the see to Durham in 995. Approval is given to the events of 1083, when St Calais expelled a body of secular clerks from Durham in favour of twenty-three monks led by Aldwin of Winchcombe, who had settled in Jarrow ten years earlier under the patronage of St Calais's predecessor Bishop Walcher (<i>d</i>. 1080).<br>
+<br>The earliest copies of the work, Durham University Library, MS Cosin V.ii.6, which has additions and alterations probably by the author, and the closely related BL, Cotton MS Faustina A.v, entitle it <span class="italic">Libellus de exordio atque procursu istius hoc est Dunhelmensis ecclesie</span> (&#145;Tract on the origin and progress of the church of Durham&#146;). The bald title <span class="italic">Historia Dunelmensis ecclesiae</span>, favoured by nineteenth-century editors, derives from Twysden's edition of 1652. Although no attribution of authorship is provided in the early manuscripts, rubrics in a late twelfth-century copy, CUL, MS Ff.1.27, credit the work to Symeon. Similar rubrics in a problematic, related manuscript of about the same date, Cambridge, Corpus Christi College, MS 139, attribute to Symeon a miscellaneous compilation of overlapping English historical material stretching between 616 and 1129.<br>
+<br>The compilation has become known as the <span class="italic">Historia regum</span> from nineteenth-century editions, though the title has no manuscript authority. It comprises several distinct elements: 1 Kentish legends relating to the seventh and eighth centuries, particularly to the martyrs &AElig;thelberht and &AElig;thelred; 2 accounts of kings of Northumbria from the mid-sixth century to 737; 3 material derived mainly from Bede, particularly from the <span class="italic">Historia abbatum</span>; 4 annals from 732 to 802, taken from a lost Northumbrian source; 5 annals from 849 to 887, based mainly on Asser; 6 annals from 888 to 957; 7 extracts from William of Malmesbury's <span class="italic">Gesta regum</span>; 8 annals from 848 to 1118, based mainly on the chronicle of John of Worcester; 9 annals from 1119 to 1129.<br>
+<br>Symeon's precise role in this compilation remains uncertain, especially as it is likely that texts 1&#150;5 above were written by Byrhtferth of Ramsey in the late tenth or early eleventh century. Although internal inconsistencies make it improbable that the same author was responsible both for the <span class="italic">Libellus</span> on the church of Durham and for the <span class="italic">Historia regum</span>, it is possible that the latter represents an attempt by Symeon to gather together material for a more ambitious historical work which was not completed.<br>
+<br>A brief account of archbishops of York from the seventh to the tenth centuries, concluding with a bare list of names after Oswald (972&#150;92), can be assigned to Symeon with confidence, since he describes himself in the text as &#145;I Symeon, a poor servant of the servants of St Cuthbert&#146;  (Symeon of Durham, <span class="italic">Opera</span>, 1.226). Precisely when he wrote the piece is a matter of surmise, since he did so at the request of Dean Hugh of York, a name that occurs at intervals over a lengthy period from 1093 to 1135. Symeon also composed a letter to Holdebert&#151;presumably Hildebert, successively bishop of Le Mans and archbishop of Tours (<i>d</i>. 1133)&#151;extant in a mid-twelfth-century manuscript from Gloucester (Bodl. Oxf., MS Laud misc. 123) concerning uncertainties that Hildebert experienced on reading from Origen's homilies. John Bale's sixteenth-century index of British writers attributed to Symeon the composition of letters to Elmer, perhaps the prior of Christ Church, Canterbury, who died in 1137. The letters do not survive. Bale's additional attribution to Symeon of an account of a siege of Durham in 969 has no authority.<br>
+<br>The sources provide a few glimpses of Symeon's life. Rud suggested in 1732 that Symeon was one of the twenty-three monks who came to Durham from Jarrow in 1083, but this is uncertain. Since his name occurs in thirty-eighth place in his own list of the monks of the house in Cosin V.ii.6, folio 7<i>v</i>, it may be deduced that he entered some time in the 1090s. His scribal work dates from this period until <i>c</i>.1128. It is known that he was present at the translation of St Cuthbert's incorrupt body to the new cathedral in 1104, thanks to the later twelfth-century writer Reginald of Durham, who provided a colourful account of Symeon's involvement in the occasion, albeit an imaginative one, as Reginald himself was not present. Holding a candle in his hand, and allowing his tears to flow freely, Symeon pressed kisses on the feet of the saint. Symeon subsequently became precentor at Durham, and his renown locally may be judged from the dedication to him of an account of a vision experienced by Orm, a fourteen-year-old youth, written shortly after 1126 by Sigar, the parish priest of Newbald in the East Riding of Yorkshire. By this date Symeon was probably at an advanced age. His death was commemorated by the Durham community on 14 October.<br>
+<br>Bernard Meehan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Twysden, ed., <i>Histori&aelig; Anglican&aelig; scriptores X</i> (1652) &middot; T. Rud, <i>Disquisitio de vero auctore hujus &#145;Historiae Dunelmensis ecclesiae&#146;, Symeonis monachi Dunhelmensis libellus</i>, ed. T. Bedford (1732) &middot; Symeon of Durham, <i>Symeonis Dunelmensis opera et collectanea</i>, ed. J. H. Hinde, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=SurtS')">SurtS</a>, 51 (1868) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=Symeon%20of%20Durham%2C%20Opera')">Symeon of Durham, <i>Opera</i></a> &middot; <i>Reginaldi monachi Dunelmensis libellus de admirandis beati Cuthberti virtutibus</i>, ed. [J. Raine], <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=SurtS')">SurtS</a>, 1 (1835), 84 &middot; H. Farmer, ed., &#145;The vision of Orm&#146;, <em>Analecta Bollandiana</em>, 75 (1957), 72&#150;82 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=Bale%2C%20Index')">Bale, <i>Index</i></a>, 408&#150;9 &middot; [J. Stevenson], ed., <i>Liber vitae ecclesiae Dunelmensis</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=SurtS')">SurtS</a>, 13 (1841), 146 &middot; B. Meehan, &#145;A reconsideration of the historical works associated with Symeon of Durham: manuscripts, texts and influences&#146;, PhD diss., U. Edin., 1979 &middot; M. Gullick, &#145;The scribes of the Durham cantor's book (Durham, Dean and Chapter Library, MS B.IV.24) and the Durham martyrology scribe&#146;, <i>Anglo-Norman Durham</i>, ed. D. Rollason, M. Harvey, and M. Prestwich (1994), 93&#150;109 &middot; D. Baker, &#145;Scissors and paste: Corpus Christi, Cambridge, MS 139 again&#146;, <i>The materials, sources, and methods of ecclesiastical history</i>, ed. D. Baker, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=SCH')">SCH</a>, 11 (1975), 83&#150;123 &middot; P. H. Blair, &#145;Some observations on the <i>Historia regum</i> attributed to Symeon of Durham&#146;, <i>Celt and Saxon</i><i>: studies in the early British border</i>, ed. N. K. Chadwick (1963), 63&#150;118 &middot; D. W. Rollason, ed., <i>Symeon of Durham</i>: <i>historian of Durham and the north</i> [Durham 1995] (1998) &middot; M. Lapidge, &#145;Byrhtferth of Ramsey and the early sections of the <i>Historia regum</i> attributed to Symeon of Durham&#146;, <em>Anglo-Saxon England</em>, 10 (1982), 97&#150;122 &middot; R. Sharpe, &#145;Symeon, Hildebert, and the errors of Origen&#146;, <i>Symeon of Durham</i>: <i>historian of Durham and the north</i> [Durham 1995], ed. D. W. Rollason (1998), 282&#150;300 &middot; H. S. Offler, <i>Medieval historians of Durham</i> (1958) &middot; A. Gransden, <i>Historical writing in England</i>, 1 (1974), 114&#150;21, 148&#150;51<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=BL')">BL</a>, Cotton MS Faustina A.v
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, Laud misc. MS 123
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=CCC%20Cam.')">CCC Cam.</a>, MS 139
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=CUL')">CUL</a>, MS Ff.1.27
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25556&amp;istheme=&amp;target=U.%20Durham%20L.')">U. Durham L.</a>, MS Cosin V.ii.6<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bernard Meehan, &#145;<span class="roman"><span class="headword">Symeon of Durham</span>  (<em>fl. </em><em>c.</em>1090&#150;<em>c.</em>1128)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/25556, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Symeon of Durham (<em>c.</em>1090&#150;<em>c.</em>1128): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25556 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

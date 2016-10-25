@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22741;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22741-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22741-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22741#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Price,  Bartholomew</span>  (1818&#150;1898), <span class="occ">college head</span>, was born on 14 May 1818 at Coln St Dennis in Gloucestershire, the second son of William Price (<i>d</i>. 13 April 1860), rector of Coln St Dennis and of Farnborough in Berkshire. He was educated privately and at Northleach School, before matriculating as a scholar from Pembroke College, Oxford, in 1837. He graduated BA in 1840, obtaining a first class in mathematics, and MA in 1843. In 1842 he gained the senior university mathematical scholarship, and two years later was elected a fellow of Pembroke, taking holy orders. In 1845 he became tutor and mathematical lecturer, and in 1847&#150;8 and 1853&#150;5 was a public examiner. He continued to take a large number of private pupils, including C. L. Dodgson, who became a lifelong friend. In 1858 he was a university proctor.<br>
+<br>In 1848 Price published his first mathematical work, <span class="italic">A Treatise on the Differential Calculus</span>, and he then began to prepare his great undertaking, the <span class="italic">Treatise on Infinitesimal Calculus</span>, which included differential and integral calculus, calculus of variations, applications to algebra and geometry, and analytical mechanics. It was completed in four volumes, the first appearing in 1852 and the last in 1860. A second edition was commenced in 1857, before the completion of the first, and was completed in 1889. Price was elected a fellow of the Royal Society on 3 June 1852 and of the Royal Astronomical Society on 13 June 1856. On 20 August 1857 he married Amy Eliza, eldest daughter of William Cole of Highfield, Exeter. They had several sons and five daughters, the latter befriended by Dodgson.<br>
+<br>In 1853 Price was chosen Sedleian professor of natural philosophy at Oxford, a chair which he retained until June 1898. Soon after his appointment he became involved in a controversy over the mathematics examinations at Oxford, complaining that the examiners were placing too much emphasis on pure mathematics as opposed to the &#145;mixed&#146; mathematics, comprising elements of physics, which Price taught. In 1855 he became a member of the hebdomadal council, and in 1868 he was made an honorary fellow of Queen's College and secretary to the delegates of the university press. At that time he was doing a very large part of the mathematical teaching in the university, but his success in his new position was so great that he became gradually absorbed in its duties. He showed great financial ability in directing the affairs of the press, having assumed overall responsibility for its management in 1873, and increased its business and income enormously before resigning the secretaryship in 1884. He resumed the responsibilities for six months during 1897, his eightieth year.<br>
+<br>As time went on the affairs of the university passed more and more into his hands, and &#145;Bat&#146; Price became a member of nearly every board of council of importance connected with it. His omniscience in university business was hinted at in Lewis Carroll's lines:<blockquote>
+<div>Twinkle, twinkle little bat,<br>
+</div>
+<div>How I wonder what you're at.<br>
+</div>
+</blockquote>He gave evidence to all the official inquiries touching on Oxford, including the 1867 select committee on university extension, the Devonshire commission on scientific instruction (1870), and the Selborne commission (1877). He was a member of the Cleveland commission, appointed in 1872 to investigate the wealth of the university and colleges. When the university observatory was founded in 1874 he was put on the board of visitors, and in 1878 he was one of a committee of three appointed to consider its outstanding requirements. He was also one of the six representatives of the Royal Society on the board of visitors to the Royal Observatory at Greenwich.<br>
+<br>A financial scandal involving his brother, the bursar of Pembroke College, prevented Price from succeeding Francis Jeune as master of Pembroke in 1864. He was eventually elected in 1892, though only by the appointment of the visitor of the college, Lord Salisbury, the votes of the fellows being equally divided. With the mastership went a canonry of Gloucester. Price took the degrees of BD and DD in 1892. He died in Pembroke College on 29 December 1898 and was buried on 3 January 1899 in Holywell cemetery. His wife survived him.<br>
+<br>E. I. Carlyle<span class="italic">, rev. </span> M. C. Curthoys </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (30 Dec 1898) &middot; <em>Oxford Magazine</em> (25 Jan 1899) &middot; <em>Monthly Notices of the Royal Astronomical Society</em>, 59 (1898&#150;9), 228&#150;9 &middot; <em>Yearbook of the Royal Society</em> (1900), 185&#150;9 &middot; P. Sutcliffe, <i>The Oxford University Press</i><i>: an informal history</i> (1978) &middot; <i>The diaries of Lewis Carroll</i>, ed. R. L. Green, 2 vols. (1953) &middot; J. Foster, <i>Oxford men and their colleges</i> (1893) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22741&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1899)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Pembroke College, Oxford, corresp. and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22741&amp;istheme=&amp;target=BL')">BL</a>, letters to W. E. Gladstone, Add. MSS 44432&#150;44522, <i>passim</i>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22741&amp;istheme=&amp;target=CUL')">CUL</a>, Sir George Stokes MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22741&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, letters to Alexander Campbell Fraser
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22741&amp;istheme=&amp;target=Oxf.%20U.%20Mus.%20NH')">Oxf. U. Mus. NH</a>, letters to Sir E. B. Poulton<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> M. C. W. Flower, oils, Pembroke College, Oxford &middot; W. Forshaw, photograph, repro. in Foster, <i>Oxford men</i>, facing pp. 551&#150;2<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;98,981 18<i>s</i>. 7<i>d</i>.: resworn probate, Aug 1899, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">E. I. Carlyle, &#145;<span class="roman"><span class="headword">Price,  Bartholomew</span>  (1818&#150;1898)</span>&#146;, rev. M. C. Curthoys, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/22741, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Bartholomew Price (1818&#150;1898): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22741 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

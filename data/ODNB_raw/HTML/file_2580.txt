@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2580;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2580-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2580-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2580#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Blake,  John Bradby</span>  (1745&#150;1773), <span class="occ">naturalist</span>, was born on 4 November 1745 in Great Marlborough Street, Westminster, the son of John Blake (<i>d</i>. 1790) and his wife, Mary. John Blake was a former East India Company captain and, from the 1760s, the promoter and manager of an extensive organization set up to transport fresh fish overland to a new market in Westminster. Blake sailed to China in 1766 as a supercargo for the East India Company, the practice then being for a supercargo to accompany his ship out and back&#151;a three-year journey. In 1770 the company's directors resolved that in future the supercargoes should reside permanently in Canton (Guangzhou). This allowed Blake to devote his spare time to natural science.<br>
+<br>Blake's plan was to obtain seeds of those plants which served the Chinese for food, medicine, manufactures, or other economic uses, and to send back to Europe both seeds and living plants. His hopes that these plants might be propagated in Britain and Ireland, or in the colonies, met with success. Rice from Cochin-China was grown in Jamaica and South Carolina; the tallow-tree (so called from the fatty covering of its seeds) prospered in Jamaica and other parts of North America; and many of the seeds he sent back throve in various botanical gardens near London. Under his direction, a set of drawings of plants was prepared by a Chinese artist, which later found its way into the library of Sir Joseph Banks. Blake also sent back samples of fossils and ores.<br>
+<br>In February 1774 Blake was proposed for membership of the Royal Society, but this proposal was withdrawn when it was learned that he had fallen ill and died in Canton on 16 November 1773. He was unmarried, but had amassed sufficient money to leave &pound;1000 to each of his three sisters.<br>
+<br>Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>BL OIOC, B/82, 144; B/88, 329&#150;31; B/89, 519; B/90, 393 &middot; H. B. Morse, <i>The chronicles of the East India Company trading to China, 1635&#150;1834</i>, 1 (1926) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2580&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 60 (1790), 276 &middot; will of John Blake, PROB 11/1001, sig. 359; PROB 11/1011, sig. 334 &middot; W. M. Stern, &#145;Fish supplies for London in the 1760s: an experiment in overland transport&#146;, <em>Journal of the Royal Society of Arts</em>, 118 (1969&#150;70), 360&#150;64, 430&#150;35 &middot; E. Bretschneider, <i>History of European botanical discoveries in China</i>, 1 (1898), 52<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Smith, Wedgwood medallion, City Museum and Art Gallery, Stoke<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> over &pound;3000: will, TNA: PRO, PROB 11/1001, sig. 259; 11/1011, sig. 334<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Anita McConnell, &#145;<span class="roman"><span class="headword">Blake,  John Bradby</span>  (1745&#150;1773)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/2580, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Bradby Blake (1745&#150;1773): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2580 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/2580/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

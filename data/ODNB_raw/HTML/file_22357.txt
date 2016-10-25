@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22357;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22357-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22357-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22357#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Plat <span class="st"> [Platt]</span>, Sir  Hugh</span>  (<em>bap. </em>1552, <em>d.</em> 1608), <span class="occ">writer on agriculture and inventor</span>, was baptized on 3 May 1552 at St James Garlickhythe, London, third son of the three sons and a daughter of Richard Plat (<i>d</i>. 1600), to whom a grant of arms had been made, and his wife, Alice, daughter of John Birtles of Birtles, Cheshire. Richard Plat was a brewer in London and owned property in St Pancras, a substantial part of which he bequeathed for the foundation and endowment of a free school and almshouses at Aldenham, Hertfordshire, his family seat. Hugh Plat matriculated as a pensioner of St John's College, Cambridge, on 12 November 1568 and on graduating BA in the academic year 1571&#150;2 was admitted to Lincoln's Inn, where he later became steward and master of the revels.<br>
+<br>Amply provided for by his father, Plat's youthful pursuit of literature led him to publish light moralistic and poetical works: the first, <span class="italic">The Floures of Philosophie</span> (1572), dedicated to Anne Dudley, countess of Warwick, comprised sentences from Seneca and miscellaneous poems; the second, <span class="italic">Manuale sententias aliquot divinas et morales complectens</span> (1584 and 1594), extracts from Petrarch. Soon, however, he developed an interest in natural science in its broadest sense, embracing mechanical inventions, physic and alchemy, chemistry and metallurgy, cultivation in garden, orchard, and field, and domestic economy.<br>
+<br>Plat lived from 1594 at Bishop's Hall, Bethnal Green, east of London, subsequently moving to the neighbouring Kirby Castle. In London he had rooms at Lincoln's Inn and kept a garden in St Martin's Lane. He was also a frequent visitor to Sir Thomas Heneage's estate at Copt Hall, Essex, and had an estate near St Albans, so that his horticultural experiments were made on a variety of soils and aspects. Most of his later life was devoted to agriculture, and his investigations into the effects of various manures, especially salt and marl, yielded valuable results. Plat corresponded with all lovers of agriculture and gardening throughout England, naming his informants when repeating their hints and findings. He read widely, again duly attributing his gleanings from other men's literature, one of his favourite sources being the Neapolitan Giovan-Battista Della Porta, especially the <span class="italic">Magiae naturalis</span> of 1558. His mechanical inventions were first exhibited in 1592 to some privy councillors and the chief citizens of London, and set out on a broadsheet the following year as <span class="italic">A Brief Apologie of Certen New Inventions Completed by H. Plat</span>.<br>
+<br>Thereafter Plat published a dozen titles, some of the text being repetitive or nearly so, which went through several editions with material subtracted or added. Written in English, his advice was aimed at the intelligent layman and woman, freely disclosed for the common good. His most significant book, though not the most popular, was <span class="italic">The jewell house of arte and nature, conteining divers rare and profitable inventions, together with sundry new experiments in the art of husbandry, distillation, and moulding, faithfully and familiarly set downe, according to the authors owne experience</span> (1594). The first part lists 103 experiments, ranging from the practical to the fantastic. These include recipes for preserving fruit, flowers, meat, and water, and for a tooth-cleaner; a cheap way to erect a small bridge without the need to place supports in the water; a chafing dish to keep food warm without coals; how to keep garments free from moths; how to dispose of wasps and rats; a cement for mending glasses; and how to know what cards your opponent is holding. The second part deals with soils and manures, the third with distillations, the fourth with moulding and casting metals, and the fifth, entitled &#145;An offer of certain new inventions which the author proposes to disclose upon reasonable considerations&#146;, covers a diversity of topics such as the brewing of beer without hops, the preservation of food in hot weather and at sea, mnemonics, and fishing. In consideration of his services as an inventor, Plat was knighted by James I at Greenwich on 22 May 1605.<br>
+<br>Plat's <span class="italic">Delights for Ladies</span> (1602) enjoyed the longest run&#151;its last reprint was in 1948. It is a guide to the housewifely arts of preserving fruits, distilling, and the blending of perfumes, hair dyes, and other aids to beauty, many of these useful recipes having been given in his earlier works. His chief work on gardening, <span class="italic">Floraes Paradise Beautified</span> (1608), with recipes and conceits for gardens and orchards, covers every necessary activity, from the preparation of the soil, through all the techniques of cultivation, month by month. In addition, Plat included &#145;A remedy in violent feavers and intermittent agues&#146;, and an appendix of &#145;new, rare and profitable inventions&#146; in which he describes again the manufacture of his fuel brickettes, and goes on to detail his experiments in making wine from grapes grown at Bethnal Green. He relates that this wine had been commended two years previously by the French ambassador, and promises a future volume on wine making, to be called &#145;Secreta dei pampinei&#146;, which, however, did not materialize.<br>
+<br>Plat was twice married, first, on 10 February 1574, to Margaret Younge, with whom he had at least three sons who survived him. His second wife was Judith, daughter of William Albany, merchant tailor of London; two sons and three daughters of that union survived him, as did Judith, who was buried in Highgate Chapel on 28 January 1636. Plat died in late October or early November 1608. At probate his affairs were somewhat involved, with property at St James Garlickhythe, St Pancras, and St Albans, and on 12 February 1610 his widow entered a suit concerning the administration of his estate. All Plat's surviving children married, apart from his son Robert, who was wedded to gaming. William, the fourth son of his second marriage, married Marie, daughter of Sir John Hungerford, and was buried in Highgate Chapel on 11 November 1637. He left land to St John's College, Cambridge, where he had been educated as a fellow-commoner, for the maintenance of as many fellows at &pound;30 a year, and scholars at &pound;10, as the rents allowed. In 1858 the estate was merged in the general property of the college, and the three Platt fellowships, which then represented the endowment, became ordinary foundation fellowships.<br>
+<br>W. Harte, in his <span class="italic">Essays on Husbandry</span> (1764), categorized Plat as the most ingenious husbandman of his age. He was effectively a virtuoso&#151;before that term came into use&#151;a man of leisure able to pursue his artistic and antiquarian interests, besides those of a more practical nature. His <span class="italic">Floraes Paradise</span> was reissued in 1653 as <span class="italic">The Garden of Eden, or, An Accurate Description of all Flowers and Fruits now Growing in England</span>, with some omissions and rearrangements, by Charles Bellingham, who claimed relationship with Plat. Further editions followed, to 1685. <span class="italic">The Jewell House</span> was likewise reissued with alterations; the revised edition of 1653 was prepared by Arnold de Boate.<br>
+<br>Sidney Lee<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. F. Mullett, &#145;Hugh Plat, Elizabethan virtuoso&#146;, <em>University of Missouri Studies</em>, 21 (1946), 98&#150;118 &middot; H. Platt, &#145;A discoverie of certain English wants, which are royally supplyed in this treatise, by H. Platt of Lincolne's Inne, Esquire&#146;, <i>The Harleian miscellany</i>, ed. W. Oldys and T. Park, 9 (1812); repr. (1965) &middot; J. Ferguson, ed., <i>Bibliotheca chemica</i>, 2 vols. (1906); facs. edn (1954), 206&#150;7 &middot; W. P. Baildon, ed., <i>The records of the Honorable Society of Lincoln's Inn</i><i>: admissions</i>, 1 (1896), 79 &middot; R. Clutterbuck, ed., <i>The history and antiquities of the county of Hertford</i>, 1 (1815), 86 &middot; J. L. Chester and G. J. Armytage, eds., <i>Allegations for marriage licences issued from the faculty office of the archbishop of Canterbury at London, 1543 to 1869</i>, Harleian Society, 24 (1886) &middot; G. W. Johnson, <i>A history of English gardening</i> (1829), 69&#150;70 &middot; S. Felton, <i>On the portraits of English authors on gardening</i>, 2nd edn (1830), 13&#150;16 &middot; private information (2004)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22357&amp;istheme=&amp;target=BL')">BL</a>, Sloane MSS, letters and papers<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Sidney Lee, &#145;<span class="roman"><span class="headword">Plat , Sir  Hugh</span>  (<em>bap. </em>1552, <em>d.</em> 1608)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/22357, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Hugh Plat (<em>bap. </em>1552, <em>d.</em> 1608): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22357 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

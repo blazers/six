@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51797;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51797-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51797-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51797#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Greenwood,  Major</span>  (1880&#150;1949), <span class="occ">epidemiologist and medical statistician</span>, was born in Shoreditch, east London, on 9 August 1880, the eldest son and only surviving child of Major Greenwood (1854&#150;1917), general practitioner, and his wife, Annie (1858&#150;1904), daughter of P. C. Burchell MB. Greenwood's two younger siblings both died of tuberculosis in infancy; his mother died of the same disease shortly after he had qualified in medicine. During Greenwood's childhood and youth, his father and grandfather, both of whom also bore the first name of Major, together ran the family general practice in Hackney. Greenwood himself was expected to qualify in medicine and eventually take over the practice; but at Merchant Taylors' School, which he attended from 1889 to 1896, he developed a strong interest in history and Latin, which never left him. His father, however, insisted on a medical education, and young Greenwood bowed to parental pressure.<br>
+<br>With an entrance scholarship to the London Hospital, Greenwood went on to qualify in 1904. He then struck out on his own, greatly influenced by two of the country's outstanding scientists at the turn of the century: Leonard Hill, in whose physiology department at the London Hospital medical college Greenwood became a demonstrator; and Karl Pearson, whose courses in the rapidly developing science of mathematical statistics he followed at University College, London. In Hill's laboratories Greenwood was schooled in the realities of a scientific approach to medical research, becoming at the same time an early medical convert to Pearson's biometry. Throughout his career, he unified and extended the intellectual legacy of his two mentors; he developed medical statistics and helped to make its methods acceptable to an initially reluctant medical profession, and he added good clinical judgement to the rigorous mathematics which characterized Pearson's work. In 1908 Greenwood married Rosa (1880&#150;1945), daughter of Andreas Baur, in her home town of Baden, Germany. There were two sons of the marriage, one of whom became a professional statistician.<br>
+<br>In 1909 Greenwood brought his biometrical convictions to bear on the existing debate, between bacteriologists and clinicians, which surrounded Almroth Wright's research on the so-called &#145;opsonic index&#146;. His criticism of Wright's data was based on a technical distinction between &#145;functional&#146; errors of technique and &#145;mathematical&#146; inferential errors. His arguments drew the attention of C. J. Martin, director of the Lister Institute, who then created for Greenwood a new post, the first of its kind in Britain, as resident statistician at the institute. Here Greenwood conducted statistical investigations into tuberculosis, infant mortality, and hospital fatality rates. At the same time he was involved in interpreting data from the institute's ongoing major epidemiological study of bubonic plague in India. From this start Greenwood never looked back; he had found his professional feet.<br>
+<br>During the First World War Greenwood served in the sanitary service of the Royal Army Medical Corps. In 1916 he was seconded to the health and welfare section of the Ministry of Munitions, for statistical work. When the new Ministry of Health was created in 1919, Greenwood moved there from the Lister Institute, becoming the ministry's first senior statistical officer, working closely with George Newman, its chief medical officer. Based at the Medical Research Council's National Institute for Medical Research in Hampstead, rather than in Whitehall, he was once again alongside his old &#145;chief&#146;, Leonard Hill, by then head of the MRC's division of applied physiology.<br>
+<br>Greenwood's statistical ideas had now evolved from the early insistence on the adaptation of Karl Pearson's rigorous mathematics and &#145;measurement as an end in itself&#146; to a more humanely biological approach, reflecting the clinical influence of his medical training. During and after his term at the Lister Institute, it was the humanizing aspect of his pioneering work on large-scale trials, designed to evaluate prophylactic and therapeutic measures, which gradually began to break down the medical profession's resistance to statistical analysis. By then Greenwood's mind was increasingly focused on the application of statistics to experimental epidemiology, and in the early 1920s he became associated with W. W. C. Topley. Topley needed the co-operation of a statistician in the studies he had initiated in &#145;experimental epidemiology&#146;, using controlled populations of laboratory mice. For both men these studies centred on attempts to simplify experimental conditions by limiting the number of variable factors to manageable proportions and by magnifying the timescale of observations by using short-lived animals.<br>
+<br>Greenwood's studies were carried out under the auspices of the MRC and continued, with various co-workers, until the mid-1930s. By then Topley and Greenwood had been colleagues, since 1927, as professors of bacteriology and of epidemiology and vital statistics respectively, at the London School of Hygiene and Tropical Medicine (created as successor to the London School of Tropical Medicine). There Greenwood built up a new department, where teaching was an important duty for himself and his staff, most of whom followed him from the MRC and continued in dual positions within the school and the MRC. In 1935 Greenwood's lectures were published in book form as <span class="italic">Epidemics and Crowd Diseases</span>. His books and papers published in his lifetime on statistical, biometric, epidemiological, and historical subjects, numbered well over a hundred.<br>
+<br>Greenwood had a complex personality; he could appear remote, even cynical and censorious on occasion, but he never wavered in his intellectual integrity nor in his total loyalty to those admitted to his limited circle of friends. Millais Culpin, a former colleague of Greenwood, considered that some<blockquote>thought that he selected statistics as his life's work because this branch of medicine was most remote from the emotional. Perhaps they were right; he was a sensitive soul and often found refuge in doing sums, though the human meaning might still intrude. (<span class="italic">BMJ</span>, 15 Oct 1949, 878)</blockquote>Greenwood became a member of the Royal College of Physicians in 1919 and a fellow in 1924; in 1928 he was elected to fellowship of the Royal Society. He was a founder member, in 1930, of the Socialist Medical Association. He was also active in the Voluntary Euthanasia Society; a few weeks before his death he was chosen to put its case in a broadcast debate arranged by the BBC. He retired in 1945 and died in London, suddenly, during a meeting on cancer research, on 5 October 1949.<br>
+<br>Lise Wilkinson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>L. Hogben, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=Obits.%20FRS')"><i>Obits. FRS</i></a>, 7 (1950&#150;51), 139&#150;54 &middot; autobiographical fragment (1880&#150;1926), American Philosophical Society, Philadelphia, Pearl MSS, 1&#150;8 &middot; A. Bradford Hill, &#145;Introduction&#146;, in M. Greenwood, <i>The medical dictator</i> (1986) &middot; <em>The Lancet</em> (15 Oct 1949), 721 &middot; <em>The Lancet</em> (2 June 1917), 853 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (15 Oct 1949), 877&#150;9 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (5 Nov 1949), 1055 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (26 May 1917), 703 &middot; J. R. Matthews, &#145;The British biometric school and bacteriology: the creation of Major Greenwood as a medical statistician&#146;, <i>Quantification and the quest for medical certainty</i> (1995) &middot; M. Greenwood, <i>Epidemics and crowd diseases</i> (1935) &middot; M. Greenwood, <i>Some British pioneers of social medicine</i> (1948) [dedication] &middot; M. Greenwood, <i>Medical statistics from Graunt to Farr</i> (1948) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=WWW')"><i>WWW</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=Kings%20AC%20Cam.')">King's AC Cam.</a>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=UCL')">UCL</a>, notes and MSS&nbsp;|&nbsp; American Philosophical Society, Philadelphia, Pearl MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. relating to Society for the Protection of Science and Learning
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp. with A. V. Hill
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=UCL')">UCL</a>, letters to Karl Pearson<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51797&amp;istheme=&amp;target=RS')">RS</a> &middot; photograph, London School of Hygiene and Tropical Medicine<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;18,104 9<i>s</i>.: probate, 3 Dec 1949, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Lise Wilkinson, &#145;<span class="roman"><span class="headword">Greenwood,  Major</span>  (1880&#150;1949)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51797, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Major Greenwood (1880&#150;1949): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51797 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

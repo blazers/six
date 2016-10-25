@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22213;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22213-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22213-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22213#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pickering,  William</span>  (1796&#150;1854), <span class="occ">publisher and bookseller</span>, was born on 2 April 1796; his parentage and place of birth are obscure. In 1810 he was apprenticed to John and Arthur Arch, Quaker booksellers and publishers of 61 Cornhill, London. He left in 1818 and after a short spell with Longmans he joined John Cuthill of 4 Middle Row, Holborn. In July 1819 he married Mary Ann Gubbins (1796&#150;1849) with whom he had three daughters and one son. In June 1820 he set up his own bookshop at 31 Lincoln's Inn Fields, specializing in the antiquarian trade. The capital was provided by John Joseph Thornthwaite, an older fellow apprentice, and Pickering subsequently relied on him for credit. He started publishing immediately, and his first major project was to begin issuing the miniature <span class="roman">Diamond Classics</span>, reprints of Latin, Italian, English, and Greek literature, mostly printed by Charles Corrall, who had the diamond type available. Many were dedicated to Earl Spencer. With these little volumes he made his first experiments with cloth binding.<br>
+<br>In 1823 Pickering moved to 57 Chancery Lane, London, and his next venture was the series <span class="roman">Oxford English Classics</span>, which included works by Edward Gibbon, Samuel Johnson, and James Boswell, published jointly with Talboys and Wheeler of Oxford. There followed attractive new editions of Spenser, Milton, Bacon, and Shakespeare with a wreath device on the title-pages. In this early period he was aiming at a select market, but in 1828 he entered the field of popular literary annuals with <span class="italic">The Bijou</span>. In the same year he met Charles Whittingham the younger of Took's Court, Chancery Lane, who was to become his chief printer, and at about the same time he adopted the famous dolphin and anchor device, emulating the sixteenth-century printing house of Aldus Manutius, adding the motto &#145;Aldi Discip. Anglus&#146;. This appeared in the editions of the dramatists George Peele, John Webster, and Robert Greene, and in 1830 he began publishing the <span class="roman">Aldine Edition of the British Poets</span>, securing the services of the reputable scholars Alexander Dyce, Nicholas Harris Nicolas, and John Mitford as editors. The last-named also edited the new series of the <span class="italic">Gentleman's Magazine</span>, which Pickering took over jointly with J. B. Nichols in 1834.<br>
+<br>Pickering was a supporter of the Church of England and published several editions of seventeenth-century divines such as George Herbert, as well as launching the <span class="italic">Church of England Quarterly Review</span> in 1837. His most memorable productions in this field were the historical and Victorian books of Common Prayer of 1844, set in gothic type and said to represent Whittingham's finest printing. The Victorian prayer book was exhibited at the Great Exhibition in 1851.<br>
+<br>Pickering's publishing was not confined to older works, but included contemporary authors such as Jeremy Bentham, Robert Malthus, Samuel Taylor Coleridge, Coventry Patmore, Edward Fitzgerald, and Arthur Helps. In 1842 he had moved to 177 Piccadilly, and many of his books were now characterized by the increased use of wood-engraved ornaments, initials, and architectural frames for title-pages, adapted from Renaissance printers' models, and a more varied range of devices including the punning &#145;pike and ring&#146;. Of exceptional artistic quality were the historical art works of Henry Shaw, with fine plates, often hand-coloured.<br>
+<br>As a bookseller Pickering was a major supplier to the British Museum and the Bodleian, having connections with Antonio Panizzi, the chief librarian of the British Museum, and with Philip Bliss, the Oxford University registrar. He became the museum's auction agent in 1849. His large stock also acted as a publisher's archive for both text and design. The year 1845, however, saw the beginning of a financial crisis, due partly to the high cost of some publications, and heavy purchasing. Thornthwaite claimed he was owed &pound;19,000, but Pickering denied owing such a sum and, instead of having a sale to pay part of the debt, he allowed the matter to go to court, a decision which resulted in bankruptcy on 9 May 1853. After his death, however, the sales of his stock enabled all his debts to be paid in full.<br>
+<br>In appearance, Pickering was said to have been short and stocky and fond of maroon waistcoats. He was kindly and helpful and when the American bookseller James Brown visited London in 1845, he recorded: &#145;Went with Mr Pickering to Hampstead &hellip; had a delightful ramble with a most intelligent and kind-hearted man &hellip; returned to his house and supped with him, talking over literary anecdotes&#146;  (Hillard, 19&#150;20). A keen angler and a collector of angling books, Pickering published in 1836 a fine edition of Izaak Walton and Charles Cotton, commissioning the artist Thomas Stothard to visit Dovedale to produce sketches. He died on 27 April 1854 at his home at 5 Wellington Place, Turnham Green, Middlesex, from illness brought on by financial anxiety, and was buried on 3 May at Kensal Green cemetery. His achievements are now well acknowledged: the introduction of cloth binding, leading to the wider availability of books at lower prices; the publication of reputable editions of both standard and neglected works; and a close attention to book design which had a lasting influence.<br>
+<br>Pickering's son, <a name="cosubject_22203"></a><span class="headword">Basil Montagu Pickering</span>  (1835&#150;1878), <span class="occ">publisher and bookseller</span>, was born on 16 June 1835, entered the book trade as an assistant to James Toovey, and set up in business in 1858 at 196 Piccadilly, London. He specialized in rare books, first editions of nineteenth-century poets and copies of his father's publications, and published editions of Blake, Swinburne, J. H. Frere, works by Cardinal Newman, and a variorum edition of Coleridge. In 1864 he married Elizabeth, <i>n&eacute;e</i> Hubbard. He died on 8 February 1878 at 196 Piccadilly, his wife and children having predeceased him in 1876.<br>
+<br>Bernard Warrington </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. L. Keynes, <i>William Pickering, publisher</i><i>: a memoir and a check-list of his publications</i>, rev. edn (1969) &middot; J. M. McDonnell, &#145;William Pickering, 1796&#150;1854, antiquarian bookseller, publisher and book designer&#146;, PhD diss., Polytechnic of North London, 1983 &middot; R. McLean, <i>Victorian book design and colour printing</i>, rev. edn (1972) &middot; B. Warrington, &#145;William Pickering, his authors and interests: a publisher and the literary scene in the early nineteenth century&#146;, <em>Bulletin of the John Rylands University Library</em>, 69 (1987), 572&#150;628 &middot; B. Warrington, &#145;William Pickering, bookseller and book collector&#146;, <em>Bulletin of the John Rylands University Library</em>, 71 (1989), 121&#150;38 &middot; B. Warrington, &#145;The bankruptcy of William Pickering in 1853: the hazards of publishing and bookselling in the first half of the nineteenth century&#146;, <em>Publishing History</em>, 27 (1990), 5&#150;25 &middot; B. Warrington, &#145;William Pickering and the development of publishers' binding in the early nineteenth century&#146;, <em>Publishing History</em>, 33 (1993), 59&#150;76 &middot; <em>Willis's Current Notes</em>, 41 (1854), 43 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22213&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 42 (1854), 88 &middot; G. S. Hillard, <i>Memoir of James Brown</i> (1856) &middot; baptism register, St Andrew, Holborn &middot; private information (2016) [C. Webb]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22213&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, affidavit, C31.703, 142&#150;225&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22213&amp;istheme=&amp;target=BL')">BL</a>, letters to Philip Bliss, Add. MSS 54572&#150;54579
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22213&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, letters to Sir Thomas Phillipps
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22213&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, letters to Sir Walter Scott
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22213&amp;istheme=&amp;target=Warks.%20CRO')">Warks. CRO</a>, letters to George Lucy<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, repro. in A. Warren, <i>The Charles Whittinghams, printers</i> (1896) &middot; portrait (with Charles Whittingham the younger), repro. in Keynes, <i>William Pickering</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> bankrupt; debts of &pound;17,605: <i>The Times</i> (6 July, 21 July 1853); BL Add. MS 41928, fols. 177&#150;8; MS 41942, fol. 55 &middot; under &pound;3000&#151;Basil Montagu Pickering: will, 1878<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bernard Warrington, &#145;<span class="roman"><span class="headword">Pickering,  William</span>  (1796&#150;1854)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, April 2016 [http://www.oxforddnb.com/view/article/22213, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Pickering (1796&#150;1854): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22213 
+                <br />
+
+                
+
+ Basil Montagu Pickering (1835&#150;1878): doi:10.1093/ref:odnb/22203<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22213/2016-04"> [Previous version of this biography available here: April 2016]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

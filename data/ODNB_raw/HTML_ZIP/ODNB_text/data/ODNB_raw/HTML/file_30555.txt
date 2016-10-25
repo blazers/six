@@ -1,0 +1,385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30555;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30555-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30555-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30555#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=30555&amp;orientation=p')"><img border="0" alt="  George William Balfour (1823&#150;1903), by Reginald Henry Campbell" onmouseover="status='  George William Balfour (1823&#150;1903), by Reginald Henry Campbell'" src="/images/article-imgs/30/30555_1_200px.jpg"></a><span class="imagecaption"><b>  George William Balfour (1823&#150;1903)</b>, by Reginald Henry Campbell</span>
+</div>
+<div class="para">
+<span class="headword">Balfour,  George William</span>  (1823&#150;1903), <span class="occ">physician and cardiologist</span>, was born at the manse, Sorn, Ayrshire, on 2 June 1823, the eighth of the thirteen children of Lewis Balfour DD and Henrietta Scott Balfour, third daughter of George Smith DD, the minister of Galston who was satirized by Robert Burns in &#145;The Holy Fair&#146;. Balfour had an academic pedigree: his father was the grandson of James Balfour (1705&#150;1795), professor of moral philosophy and of public law at Edinburgh, and his mother was the granddaughter of Robert Whytt (1714&#150;1766), physiologist, and professor of medicine at Edinburgh from 1747 to 1766.<br>
+<br>After being educated at the local school in his father's Colinton parish on the outskirts of Edinburgh, Balfour decided to emigrate to Australia, and to that end he obtained a diploma in veterinary surgery in 1841. However, after completing his studies he abandoned his emigration plans and decided to join the medical profession. He continued his education in Edinburgh where he was a student of anatomy under Robert Knox of Burke and Hare fame. By using his veterinary studies to gain exemptions he graduated MD at St Andrews in 1845&#151;when he also became a licentiate of the Royal College of Surgeons of Edinburgh. In 1846, after acting as resident medical officer in Edinburgh's maternity hospital, Balfour went to Vienna where he studied the clinical methods of J. Skoda, the pathological researches of C. L. Sigmund, and the homoeopathic treatment of W. Fleischmann. On his return from Austria he started a successful career as a medical author by enterprisingly publishing papers summarizing his Viennese teachers' current work.<br>
+<br>Balfour began his medical work by establishing himself as a general practitioner in the countryside around Edinburgh; he spent a year in Corstorphine before moving to Cramond, where he practised until his return to the capital in 1857. The good reputation he gained in Cramond allowed him to earn a living in Edinburgh's competitive medical market place, and his efforts to build a practice were further helped in 1861 when he became a fellow of the Royal College of Physicians of Edinburgh. In 1866 he was appointed physician to the city's Royal Hospital for Sick Children and he also became a physician at the Royal Public Dispensary. He was elected a physician to the Royal Infirmary in 1867 and was made consulting physician there in 1882 on the expiry of his term of office. Balfour won some recognition at the infirmary as a clinical teacher, though contemporaries were more apt to praise his bedside teaching than his formal lecture-theatre presentations. Nevertheless, Sophia Jex-Blake and other women medical students did praise his teaching; Balfour was an early supporter of women's medical education and at the infirmary he conducted three special ward rounds for women students each week. He continued to support Jex-Blake throughout her career and he was on the executive committee of the School of Medicine for Women.<br>
+<br>During his professional advancement Balfour did not neglect his writing career. A paper on haematophobia published in 1858 questioned the routine use of bloodletting. In 1865 he published <span class="italic">An Introduction to the Study of Medicine</span>. In 1868, following a suggestion of his father-in-law, James Craig of Ratho, he wrote two able papers on the treatment of aneurysm by iodide of potassium, and from then on he specialized in cardiology. Balfour's book <span class="italic">Lectures on Diseases of the Heart and Aorta</span> (1876) greatly enhanced his reputation (it includes Balfour's test to ascertain whether the heart is still active in cases of apparent death); the work also features in J. M. Norman's <span class="italic">Morton's Medical Bibliography</span> (1991). Another book by Balfour, <span class="italic">The Senile Heart</span> (1894), was of equal quality and established him as Scotland's premier cardiologist. Indeed with Sir William Tennant Gairdner in Glasgow and Charles Hilton Fagge in London, Balfour made the most important contributions of his generation to the clinical study of disorders of the circulation.<br>
+<br>Balfour, who was interested in bibliography, was librarian to the Royal College of Physicians of Edinburgh from 1873 to 1882 and from 1887 to 1899. He was president of the college from 1882 to 1884 and was a member of the university court of St Andrews for many years. He received the honorary degree of LLD at Edinburgh in 1884, and at St Andrews in 1896. He was appointed physician-in-ordinary to Queen Victoria in 1900 and honorary physician to Edward VII in 1901.<br>
+<br>Balfour was married three times: to Agnes (<i>d</i>. 1851), daughter of George Thomson, in 1848, with whom he had one son, Lewis; to Margaret Bethune (<i>d</i>. 1879), eldest daughter of James Craig, of Ratho, in 1854, with whom he had eight sons and three daughters; and in 1881 to Henrietta, daughter of John Usher, who survived him. His eldest brother, John Balfour (<i>d</i>. 1887), was a surgeon to the East India Company and served throughout the Second Anglo-Burmese War and during the Indian mutiny before returning to Britain, where he practised at Leven, Fife. Another brother, Mackintosh, spent his life in India, where he was manager of the Agra Bank. Robert Louis Stevenson (1850&#150;1894) was the son of Balfour's sister, Margaret Isabella. Balfour took a close interest in his nephew's health, and Stevenson called him &#145;that wise youth my uncle&#146;  (<span class="italic">Letters</span>, 140); Balfour was the first to learn (by cable) of Stevenson's death in Samoa. He later wrote a short introduction to Margaret Stevenson's <span class="italic">From Saranac to Marquesas and Beyond</span> (1903). It is suggested that although Balfour could appear to be somewhat forbidding, he charmed his friends with his quaint humour and culture. In 1899 Balfour retired from Edinburgh to Colinton, the home of his youth, where he died at his home, Westfield, after a long illness, on 9 August 1903. He was buried in Ratho churchyard.<br>
+<br>G. A. Gibson<span class="italic">, rev. </span> Iain Milne </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Lancet</em> (22 Aug 1903), 570 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30555&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (22 Aug 1903), 439&#150;40 &middot; <em>Edinburgh Medical Journal</em>, new ser., 14 (1903), 286&#150;8; 296&#150;7 &middot; W. S. Craig, <i>History of the Royal College of Physicians of Edinburgh</i> (1976), 649 &middot; <em>Scottish Medical and Surgical Journal</em>, 13 (1903), 237&#150;43 &middot; R. Thin, <i>Royal College of Physicians portraits</i> (1927) &middot; B. Balfour-Melville, <i>The Balfours of Pilrig</i> (1907) &middot; G. W. Balfour, <i>Letter of application for the chair of practice of physic in the University of Edinburgh</i> (1876) [incl. testimonials] &middot; <i>The letters of Robert Louis Stevenson</i>, ed. B. A. Booth and E. Mehew, 1 (1994) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30555&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1903) &middot; J. M. Norman, <i>Morton's medical bibliography</i>, 5th edn (1991)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Royal College of Physicians of Edinburgh<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Bowie, oils, 1904 (after photograph), Royal College of Physicians of Edinburgh &middot; R. H. Campbell, portrait, Royal College of Physicians of Edinburgh [<i>see illus.</i>] &middot; photograph, repro. in <em>Scottish Medical and Surgical Journal</em>, 238<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;5306 8<i>s</i>. 9<i>d</i>.: confirmation, 7 Nov 1903, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. A. Gibson, &#145;<span class="roman"><span class="headword">Balfour,  George William</span>  (1823&#150;1903)</span>&#146;, rev. Iain Milne, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/30555, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George William Balfour (1823&#150;1903): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30555 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

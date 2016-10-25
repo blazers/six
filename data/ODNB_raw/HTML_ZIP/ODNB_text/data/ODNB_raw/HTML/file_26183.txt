@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 26183;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/26/26183-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/26/26183-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=26183#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Sprott,  Thomas</span>  (<em>fl. </em>1272), <span class="occ">Benedictine monk and chronicler</span>, wrote a history of St Augustine's Abbey, Canterbury&#151;his own house&#151;and its abbots. This is generally taken to be the text that survives in two thirteenth-century manuscripts: LPL, MS 419, folios 111&#150;60, which comes down to 1221 and perhaps represents the earlier state of its composition; and BL, Cotton MS Tiberius A.ix, folios 107&#150;80, which, with a change of hand at 1221, comes down to <i>c</i>.1265, and has further additions to about the mid-fourteenth century (ending confusedly and imperfectly, as a result of damage in the Cotton Library fire of 1731). There are also later transcripts: BL, Cotton MS Vitellius D.xi, folios 39&#150;69<i>v</i> (abridged from Tiberius A.ix; damaged in the fire of 1731); Cotton MS Vitellius E.xiv, folios 237&#150;252<i>v</i> (an epitome made by the Elizabethan scholar John Joscelyn, perhaps from the Lambeth Palace manuscript); BL, Add. MS 46918 (copied from Vitellius D.xi or its exemplar); and BL, Harley MS 692, folios 75&#150;193<i>v</i> (a fair copy of Vitellius E.xiv, made by or for Joscelyn's contemporary the antiquary Arthur Agarde). It has not been printed.<br>
+<br>Sprott's chronicle is mentioned twice by the late fourteenth-century St Augustine's chronicler, William Thorne, who in the preface to his own chronicle refers to Sprott's work as ending in 1272; confusingly, just after the end of the portion of his chronicle that relates an event of 1228, Thorne states that he has ceased thereafter to use Sprott's work, and in modern times this has often been thought to mean that Sprott's work came down to no later than 1228.<br>
+<br>The chronicle is initially cast in the form of abbatial biographies, with a few entire texts inserted into the narrative; the number of texts (such as royal grants and papal letters) gradually increases, and the history of the house as a whole becomes the author's main focus. For the twelfth and early thirteenth centuries Sprott is both more detailed and, almost certainly, more accurate than William Thorne, who appears to have derived so much from Sprott's work. For instance, where Sprott recounts the dedication of the abbey's chapel on its manor of Kennington, Kent, on 16 April 1258&#151;the first of the abbey's chapels to have two side-altars&#151;Thorne simply states that the chapel was dedicated in 1258; and while Sprott refers to the abbey's old refectory as being pulled down in 1262, Thorne places this event in 1260 along with the arrival in England of the papal legate Otto (which actually took place in 1237).<br>
+<br>The fifteenth-century catalogue of the library of St Augustine's Abbey includes both of the thirteenth-century manuscripts of the chronicle, and also eight more of Sprott's books: works of canon law, natural science, philosophy, and theology, some of which he may have compiled as well as owned. Overall, their titles are suggestive of his having lived into the second half of the thirteenth century. John Bale credits Sprott with the authorship of <span class="italic">Cantuariorum historiarum</span>.<br>
+<br>Confusingly and mistakenly, the authorship of two much later chronicles has been attributed to Sprott: a late fourteenth-century summarized history of the world with some material relating to St Augustine's Abbey (now CUL, Add. MS 3578), edited by Thomas Hearne as <span class="italic">Thomae Sprotti Chronica</span> (Oxford, 1719); and a fifteenth-century abridgement of the <span class="italic">Flores historiarum</span>, in the Joseph Mayer Collection, Liverpool Museum (no. 12012), printed in translation by William Bell as <span class="italic">Thomas Sprott's Chronicle of Profane and Sacred History</span> (Liverpool, 1851).<br>
+<br>Nigel Ramsay </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. C. Russell, &#145;Dictionary of writers of thirteenth century England&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26183&amp;istheme=&amp;target=BIHR')"><i>BIHR</i></a>, special suppl., 3 (1936) [whole issue], esp. 170 &middot; S. E. Kelly, ed., <i>Charters of St Augustine's Abbey, Canterbury, and Minster-in-Thanet</i>, Anglo-Saxon Charters, 4 (1995), lv, xcvii&#150;xcviii &middot; <i>William Thorne's chronicle of St Augustine's Abbey, Canterbury</i>, trans. A. H. Davis (1934), xx&#150;xxii, xxvi &middot; T. D. Hardy, <i>Descriptive catalogue of materials relating to the history of Great Britain and Ireland</i>, 3, Rolls Series, 26 (1871), 125&#150;6, 208&#150;9 &middot; Thomas of Elmham, <i>Historia monasterii S. Augustini Cantuariensis</i>, ed. C. Hardwick, Rolls Series, 8 (1858), xv&#150;xvi &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26183&amp;istheme=&amp;target=Bale%2C%20Cat.')">Bale, <i>Cat.</i></a>, 1.326<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Nigel Ramsay, &#145;<span class="roman"><span class="headword">Sprott,  Thomas</span>  (<em>fl. </em>1272)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/26183, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Sprott (1272): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/26183 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 42212;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/42/42212-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/42/42212-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=42212#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Beverley,  Robert  of</span>  (<em>d.</em> 1285), <span class="occ">master mason and sculptor</span>, is first recorded in 1253, when he received &pound;1 12<i>s</i>. for carving four vault-bosses for Westminster Abbey. In 1259 he was paid 3<i>s</i>. per week while working at Westminster Palace under Master John of Gloucester whom, late in the following year, he succeeded as master mason of Westminster Abbey. Robert was not granted a general appointment as master mason of the king's works such as John of Gloucester held from 1257, presumably because, unlike the latter, he was employed only in London. This changed in 1271 when he became surveyor of the king's works at the Tower of London and six specified castles and manors in Berkshire, Essex, Kent, and Surrey. The smaller number and geographical spread of the residences in his care, compared to those for which John of Gloucester had been responsible, probably explains why he was paid only half the fee of 12<i>d</i>. per day taken by his predecessor. In 1273 he had charge of the making of the tomb of Edward I's infant son John, the earliest documented instance of the designing of royal tombs at Westminster by the king's chief mason&#151;a pattern which persisted for a hundred years and more. Following Edward I's return to England in 1274, Beverley oversaw the erection at Westminster of a number of wooden halls and kitchens ancillary to the new king's coronation on 19 August. Thereafter the volume of work carried out at the Tower and other London sites greatly increased and, presumably in recognition of this, Robert's fee rose to 12<i>d</i>. per day and 16<i>d</i>. when working elsewhere. In 1276 he received &pound;3 6<i>s</i>. 6<i>d</i>. for his work in turning 300 lb of wax into an image of Henry III, for purposes which are not recorded. From 1278 Robert audited works accounts, which suggests that his Latinity was better than that of most medieval master masons.<br>
+<br>Early in 1278 Beverley sat on a commission <i>ad quod damnum</i> which considered how the south-west part of London's wall should be extended so as to take in the new precinct which was about to be established for the Dominicans. Although the new priory buildings were not king's works in the strictest sense, Edward I was heavily involved in this project, and it is highly likely that Robert was the architect. The nave of the church incorporated high arcades but lacked a clerestory or vault, and it was therefore a forerunner of the many structurally light and open &#145;preaching naves&#146; built in late medieval England by mendicant orders and parishes alike. The least altered part of Robert's work at the Tower is St Thomas's Tower, which consists of a watergate and an upper floor housing the king's lodgings. The timber rear wall of the lodgings is borne on a segmental arch whose extraordinary width makes space for royal barges to turn. At Westminster Abbey the most important changes to the design adopted at the start of work in 1245 are those by John of Gloucester, but Robert also made some less conspicuous revisions. Cordial relations with the abbey are suggested by its grant to Robert <i>c</i>.1270 of a lifetime's supply of wine. Beverley died on 11 April 1285. He had a wife named Cecily.<br>
+<br>Christopher Wilson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Harvey and A. Oswald, <i>English mediaeval architects</i><i>: a biographical dictionary down to 1550</i>, 2nd edn (1984), 23&#150;5 &middot; H. M. Colvin, ed., <i>The history of the king's works</i>, 6 vols. (1963&#150;82), vol. 1, pp. 98n., 108&#150;9; vol. 2 &middot; C. Wilson and others, <i>Westminster Abbey</i> (1986), 66&#150;7, 81&#150;2 &middot; P. Binski, <i>Westminster Abbey and the Plantagenets</i><i>: kingship and the representation of power, 1200&#150;1400</i> (1995), 74&#150;8 &middot; E. M. Thompson, ed., <i>Customary of the Benedictine monasteries of Saint Augustine, Canterbury, and Saint Peter, Westminster</i>, 2, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=42212&amp;istheme=&amp;target=HBS')">HBS</a>, 28 (1904), 79<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Christopher Wilson, &#145;<span class="roman"><span class="headword">Beverley,  Robert  of</span>  (<em>d.</em> 1285)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/42212, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert  of Beverley (<em>d.</em> 1285): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/42212 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

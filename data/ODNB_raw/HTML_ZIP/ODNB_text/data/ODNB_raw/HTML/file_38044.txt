@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 38044;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/38/38044-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/38/38044-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=38044#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Sykes,  William Robert</span>  (1840&#150;1917), <span class="occ">railway signalling engineer</span>, was born on 15 June 1840 at 11 Grosvenor Street, Westminster, London, the eldest in the family of two sons and one daughter of George Sykes, builder, and his wife, Mary Burden. His father died when he was thirteen. He was educated at the Blue Coat School, Westminster. In 1854 he began training in the workshops of the Electric Telegraph Company and four years later transferred to their central London headquarters. In 1860 he left this company and joined Charles Shepherd of Leadenhall Street, maker of chronometers and horological instruments and inventor of the electrical clocks used by the Royal Observatory.<br>
+<br>In 1863 Sykes joined the London, Chatham, and Dover Railway, taking charge of maintenance of their telegraph instruments, clocks, and watches under the chief engineer for telegraphs and electric lighting. Within two years he had designed and installed electrical repeater devices, indicating to signalmen the position of semaphore signal arms which were outside their range of vision; an automatic device recording on tape the bell-code communications between signal boxes; and the first track circuiting in which the presence of a train on a section of track was indicated electrically in the signal cabin. In 1872 he introduced at Victoria on the Metropolitan District Railway an automatic train-protection system whereby a red lens positioned in front of a white signal light was raised above it on actuation from an electrical contact only when the track section ahead was clear. This system was also used later by the M&eacute;tropolitain in Paris.<br>
+<br>In 1875 Sykes achieved one of the greatest advances in safety in railway operation with his &#145;lock and block&#146; system. In this the mechanical signals were interlocked with electrical block instruments in the signal cabins, by which a train was authorized to enter the succeeding section only when this was not occupied by another train. Thus the signalman was prevented from inadvertently releasing signals for a second train to enter the section before the first was clear. This system overcame the risks of human error which had been the cause of serious accidents. The Board of Trade repeatedly advocated the use of &#145;lock and block&#146; in its accident reports. Sykes's system, which was also used for interlocking railway swing bridges across rivers, was applied widely in Britain and in the USA, Russia, and Japan. A later development was the combination of track circuiting, in which an electrical circuit is completed, detecting the presence of wheels of a train passing over a section of track, with &#145;lock and block&#146; so that the electric-block instruments were controlled by the trains themselves and thus safety was doubly assured.<br>
+<br>Electrically actuated signals worked by small switches and interlocked with the points they controlled were first introduced by Sykes at Penge in 1875 and were the forerunner of large electro-mechanical signalling systems in which electrically actuated signals controlled by small slides were introduced, with lever-controlled points actuated by rodding. Sykes was also responsible for many other signalling and safety devices, including depression or fouling bars interlocked with signals, thus providing valuable protection against these inadvertently being set to allow the passage of a train if other trains were obstructing its path.<br>
+<br>In 1899 the London, Chatham, and Dover and the South Eastern railways were brought under the operational control of a joint managing committee and Sykes was appointed consulting electrical engineer to the new organization, in which capacity he continued until his death, having served the same railway for fifty-four years. He also founded the W. R. Sykes Interlocking Signal Company, which was continued by his sons and eventually absorbed by Westinghouse Brake and Signal Company. Sykes obtained awards for his signalling and railway safety inventions at many international exhibitions, notably at Paris in 1881; Crystal Palace in 1882, 1892, and 1893; Antwerp in 1894; and Brussels in 1897.<br>
+<br>On 14 July 1861 Sykes married Eliza Church, from co. Cork, daughter of Robert Church, lithographic printer. They had two daughters and four sons, one of whom (also an inventor) died relatively young, and three of whom became engineers. Sykes died on 2 October 1917 at his home, Roselands, Joy Lane, in Whitstable, Kent, and was buried at St Luke's cemetery, Magpie Lane, Bromley, Kent.<br>
+<br>George W. Carpenter<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Engineer</em> (12 Oct 1917) &middot; <em>Railway Magazine</em>, 41 (Nov 1917) &middot; <i>The electrical trades directory</i> (1898) &middot; private information (1993) &middot; <i>The Oxford companion to British railway history</i> (1979) &middot; m. cert.<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;16,815 4<i>s</i>. 2<i>d</i>.: probate, 23 Oct 1917, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">George W. Carpenter, &#145;<span class="roman"><span class="headword">Sykes,  William Robert</span>  (1840&#150;1917)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Oct 2008 [http://www.oxforddnb.com/view/article/38044, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Robert Sykes (1840&#150;1917): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/38044 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/38044/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

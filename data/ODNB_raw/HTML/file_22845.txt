@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22845;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22845-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22845-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22845#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Prout,  William</span>  (1785&#150;1850), <span class="occ">physician and chemist</span>, was born on 15 January 1785 at Horton, Gloucestershire, the youngest son of John Prout (1745&#150;1820), a farmer and copyholder of Horton, and Hannah Limbrick (<i>b</i>. 1756). Although he learned to read and write at a dame-school at Wickwar, attended a charity school at Badminton, and probably had access to the fine library formerly belonging to the Paton family at Horton Manor, his early teenage years appear to have been occupied in farming. In 1802, however, he joined the Sherston Academy managed by the Revd John Turner, vicar of Horton, in order to master Latin and Greek. In 1805 he advertised locally for advice on the further educational prospects for a man of twenty. When a helpful reply came from the Revd Thomas Jones (1758&#150;1812), Prout joined Jones's classical seminary at Redland, Bristol, where, between 1805 and 1807, he taught pupils in exchange for private tuition. A pupil's inquiry concerning Humphry Davy's electrochemical work stimulated Prout's interest in chemistry. In 1808, on Jones's recommendation, he began medical studies at the University of Edinburgh, boarding with Jones's friend, Dr Alexander Adam, rector of Edinburgh high school, whose daughter he was to marry; Prout graduated MD on 24 June 1811 with a thesis on intermittent fevers.<br>
+<br>After failing to establish a medical practice in the west country, Prout moved to London in 1812, walking the wards of St Thomas's and Guy's hospitals before being admitted LRCP on 22 December 1812. (Fellowship of the Royal College of Physicians came on 28 June 1829.) Ambitious to gain the summit of the medical profession, Prout set up practice in Arundel Street, near the Strand, where he delivered a course of advertised lectures on animal chemistry between February and April 1814. These lectures, which contained speculations on the nature of matter and metabolism, as well as a remarkable observation on the distinction between taste and flavour, ensured his election to the Medical and Chirurgical Society on 10 May 1814 and brought him the friendship of Astley Cooper, John Elliotson, and Alexander Marcet. The latter reported favourably on Prout's researches to the great Swedish chemist J&ouml;ns Berzelius, and ensured Prout's election as FRS in March 1819.<br>
+<br>On 22 September 1814 Prout married Agnes Adam (1793&#150;1863); their honeymoon was spent in Paris. There were six children: John William (1817&#150;81), a lawyer; Alexander Adam (1818&#150;54), an army doctor; Walter Robert (1820&#150;57), a soldier; Thomas Jones (named after his father's former teacher, 1823&#150;1909), who took holy orders and taught classics at Christ Church, Oxford; and two daughters, Elizabeth (1825&#150;1918) and Agnes (1826&#150;78). From 1815 to 1821 Prout practised as a specialist in stomach and urinary diseases from his home at Southampton Street, Bloomsbury, and from 1821 until his death from 40 Sackville Street, Piccadilly. The fruits of his clinical studies of private patients were first published in <span class="italic">An inquiry into the nature and treatment of gravel, calculus and other affections of the urinary organs</span> (1821; 2nd edn, 1825). This was revised and enlarged as <span class="italic">On the Nature and Treatment of Stomach and Urinary Diseases</span> (1840; 5th edn, 1848).<br>
+<br>In 1815 and 1816, in two anonymous articles on the &#145;relation between the specific gravities of bodies in their gaseous state and the weights of their atoms&#146;, Prout suggested that there were grounds for believing that the atomic weights of all the elements were whole number multiples of the atomic weight of hydrogen; and he tentatively identified hydrogen with the <i>pr&#333;t&#275; hyl&#275;</i>, or basic matter, of the ancient Greeks. Prout was influenced towards these views both by Humphry Davy's speculations that the so-called elements were probably undecompounded bodies, and by his reading while a student in Edinburgh of the <span class="italic">Philosophical Arrangements</span> (1775), a commentary on Aristotle by James Harris. &#145;Prout's hypothesis&#146;, as it was labelled by Berzelius, was supported by Thomas Thomson and others, but dismissed on experimental grounds by Berzelius, and later J. B. Stas. In 1831 Prout suggested privately that hydrogen itself might be formed from &#145;some body lower in the scale&#146;  (Daubeny, <span class="italic">Atomic Theory</span>, 129). The hypothesis remained an experimental and theoretical stimulus to chemists and physicists throughout the century, and, following the concept of isotopes, it received a justification from Francis Aston in 1920.<br>
+<br>Prout was a consummate analytical chemist. He published elaborate self-experiments on carbon dioxide output in 1813&#150;14 and a pioneering study of the chemical changes in an incubating egg (1822). He spent years attempting to perfect an accurate method of analysing organic compounds. Although he developed a technique in 1827, it was costly and difficult, and could not compare with the cheap and easy method introduced by Liebig in 1830. Between 1815 and 1827, however, he published a series of important papers on urine and digestion that began to open up questions about metabolism. In 1824 he showed brilliantly, but controversially, that the gastric juices of animals contain hydrochloric acid. The point demonstrated, contemporaries were quick to adopt his 1827 classification of the components of food into water, saccharinous (carbohydrates), oleaginous (fats), and nitrogenous (proteins), a balanced diet containing all of these foodstuffs. Prout, who was not a reductionist, was firmly convinced that the four aliments (food groups) were transformed into blood and tissues (&#145;primary assimilation&#146;) by a vital principle that also organized and controlled the destruction and removal of unwanted parts from the system (&#145;secondary assimilation&#146;). Full details of his highly speculative metabolic theory were expounded in <span class="italic">Chemistry, Meteorology, and the Function of Digestion</span> (1834), the most curious of the eight <span class="roman">Bridgewater Treatises</span> intended to demonstrate the existence of God from design that had been sponsored by the will of the earl of Bridgewater in 1829. The meteorological section is notable for his coinage of the word &#145;convection&#146; to describe one method of heat dissemination.<br>
+<br>Although he was a brilliant experimentalist and stimulating theoretician, Prout's later life was marred by deafness that led him to avoid contact with the scientific and medical communities. Significantly he did not join the Chemical Society on its foundation in 1841. He died at his home in Sackville Street, Piccadilly, London, on 9 April 1850 from gangrene of the lung following a burst abscess. He was buried in Kensal Green cemetery. A simple memorial tablet was laid in Horton church.<br>
+<br>W. H. Brock </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. H. Brock, <i>From protyle to proton</i><i>: William Prout and the nature of matter, 1785&#150;1985</i> (1985) &middot; <em>Medical Times</em>, 1 (1850), 15&#150;17 &middot; <em>Edinburgh Medical and Surgical Journal</em>, 76 (1851), 126&#150;83 &middot; C. Daubeny, <em>Edinburgh New Philosophical Journal</em>, 53 (1852), 98&#150;102 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22845&amp;istheme=&amp;target=Munk%2C%20Roll')">Munk, <i>Roll</i></a> &middot; C. Daubeny, <i>An introduction to the atomic theory</i> (1831) &middot; <em>Gloucestershire Notes and Queries</em>, 3 (1887), 4<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>NRA Scotland, priv. coll., corresp., family papers, and notes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22845&amp;istheme=&amp;target=RS')">RS</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22845&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>, notebooks and papers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Hayes, oils, <i>c.</i>1830&#150;1839; in family possession, 1896; photographic copies, <i>c</i>.1904, Royal Society of Chemistry, London &middot; H. M. Paget, oils (after type by J. Hayes, <i>c.</i>1835&#150;1840), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22845&amp;istheme=&amp;target=RCP%20Lond.')">RCP Lond.</a>; version, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22845&amp;istheme=&amp;target=U.%20Edin.University%20of%20Edinburgh')">U. Edin.</a> &middot; H. W. Phillips, oils (after miniature, <i>c.</i>1855), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22845&amp;istheme=&amp;target=RCP%20Lond.')">RCP Lond.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. H. Brock, &#145;<span class="roman"><span class="headword">Prout,  William</span>  (1785&#150;1850)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22845, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Prout (1785&#150;1850): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22845 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

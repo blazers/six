@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 39488;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/39/39488-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/39/39488-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=39488#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Foster,  George Carey</span>  (1835&#150;1919), <span class="occ">chemist and physicist</span>, was born in October 1835 at Sabden in Lancashire, the only son of George Foster, calico printer and justice of the peace in Lancashire and the West Riding of Yorkshire. After education at private schools Foster became a student of chemistry at University College, London, in 1852. Graduating with honours and a prize in 1855 he served at the college as an assistant in Professor Williamson's chemistry laboratory. In 1857 Foster joined the British Association for the Advancement of Science (BAAS), presented his research on the nomenclature of organic chemistry at their meeting, and maintained a close involvement thereafter. From 1858 he undertook research in organic chemistry under Kekul&eacute; at Ghent, later moving to Paris and Heidelberg. Having further pursued the study of heat, light, and electricity, introduced to him by Williamson, in 1862 he was appointed professor of natural philosophy at Anderson's University in Glasgow. During three years there Foster became familiar with the student assisted research undertaken at the natural philosophy laboratory run by William Thomson at Glasgow University. He met Mary Ann Frances Muir of Greenock, whom he married in 1868; his happy marriage produced four sons and four daughters, all of whom survived him, the partnership ending with his wife's death in 1917.<br>
+<br>University College, London, appointed Foster as professor of experimental physics (physics from 1867) in August 1865; there he became a much respected if not especially effective lecturer. Although to some extent modelled on Thomson's archetype in Glasgow, Foster's first achievement was to establish a students' physical laboratory in 1866, the first in Britain to offer systematic instruction in experimental physics to undergraduates. In the same year Foster was invited to join the BAAS committee on electrical standards, and often chaired its meetings. Working with other leading figures in physics and telegraphy such as Thomson, Wheatstone, Fleeming Jenkin, and C. W. Siemens, he acquired much expertise in precision techniques of electrical measurement, especially of resistance and determining current flow, and induction, in relation to the problems of telegraphy.<br>
+<br>Foster was elected a fellow of the Royal Society in 1869, serving two terms as its vice-president in 1891&#150;3 and 1901&#150;3. He was president of section A of the BAAS in 1877 and was general treasurer of the association from 1888 until 1904. In the course of his many investigations to measure and compare standards of electrical resistance Foster adapted the Wheatstone bridge to measure small differences (rather than ratios) of resistance. This important device, known and widely used for many years as the Carey Foster bridge, was presented at one of the earliest meetings of the Society of Telegraph Engineers in 1871. Foster had been one of the founder members of this society (the Institution of Electrical Engineers from 1888) and served as its president in 1880&#150;81. Foster's reputation as an expert in the practical aspects of physics was further enhanced by the publication in 1875 of his preface to <span class="italic">Introduction to Experimental Physics</span>, a translation by B. Loewy of A. F. Weinhold's German original, <span class="italic">Vorschule der Experimentalphysik</span> (Leipzig, 1874).<br>
+<br>In the thirty-two years that Foster ran his laboratory at University College his students, including W. E. Ayrton, Oliver Lodge, and J. A. Fleming, practised accurate measurement. As dean of the faculty of sciences in 1874 Foster achieved BSc status for experimental physics in 1876, and, with Fleming and Beare, the construction of purpose designed new laboratories in 1893, the physics wing of which was renamed as the Carey Foster Laboratory after he retired from the retitled Quain chair in 1898.<br>
+<br>From the beginning of his professorship at University College, Foster had championed the higher education and equal rights of women, and his efforts were acknowledged as an inspiration and exemplar. Foster was a leading light in the movement to reconstruct University College into a University of London which taught and examined, and throughout the 1880s and 1890s he campaigned to unify its teaching and examining functions, a sensitive debate, his tact being indicated by his appointment as the first principal of University College in 1900 upon his retirement from teaching. In his four-year tenure he oversaw considerable reorganization and development of the college, substantially increasing the provision of accommodation, and cultivating growth in its intellectual and social activities.<br>
+<br>Foster was for many years editor of the <span class="italic">Philosophical Magazine</span>, working at this task until shortly before his death. His many achievements were recognized by the granting of honorary doctorates&#151;an LLD from Glasgow, and a DSc from Manchester. A quiet, unassuming man, somewhat nervous in manner, he was disinclined to draw attention to his wide-ranging accomplishments, hence, perhaps, his neglect by historians of physics.<br>
+<br>Foster lived a contented private life with his family in a number of houses in London while employed at University College. After retiring in 1904 Foster and his family moved to Rickmansworth in the Hertfordshire countryside, where he became a justice of the peace and took an active interest in Liberal Party politics. Foster developed congestion of the lungs in January 1919 and died of heart failure on 9 February at his home, Ladywalk, Long Lane, Rickmansworth. He was buried next to his wife in the cemetery at Rickmansworth.<br>
+<br>Graeme J. N. Gooday and Colin A. Hempstead </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. H. Fison, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39488&amp;istheme=&amp;target=JCS')"><i>JCS</i></a>, 115 (1919), 412&#150;27 &middot; J. Lodge, &#145;George Carey Foster, 1835&#150;1919&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39488&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 96A (1919&#150;20), xv&#150;xvii &middot; O. J. Lodge, &#145;George Carey Foster&#146;, <em>London, Edinburgh, and Dublin Philosophical Magazine</em>, 6th ser., 37 (1919), 319&#150;20 &middot; <em>Nature</em>, 102 (1918&#150;19), 4889&#150;90 &middot; W. P. Ker, &#145;Notes and materials for the history of University College&#146;, <em>UCL Collection</em> (1898), 64&#150;9 &middot; N. Harte and J. North, <i>The world of University College, 1828&#150;1978</i> [1978] &middot; H. Bellot, <i>History of University College, London, 1826&#150;1926</i> (1929) &middot; O. J. Lodge, <i>Past years</i> (1931) &middot; G. J. N. Gooday, &#145;Precision measurement and the genesis of physics teaching laboratories&#146;, PhD diss., University of Kent, 1989 &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>University of Strathclyde, Glasgow, recollections of Anderson's University, Glasgow&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39488&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39488&amp;istheme=&amp;target=UCL')">UCL</a>, corresp. with Sir Oliver Lodge
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39488&amp;istheme=&amp;target=UCL')">UCL</a>, letters to Karl Pearson<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in R. Appleyard, <i>The history of the Institution of Electrical Engineers, 1871&#150;1931</i> (1939), facing p. 288 &middot; photograph, repro. in Harte and North, <i>World of University College</i>, 80<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;66,155 4<i>s</i>. 3<i>d</i>.: probate, 12 May 1919, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Graeme J. N. Gooday and Colin A. Hempstead, &#145;<span class="roman"><span class="headword">Foster,  George Carey</span>  (1835&#150;1919)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/39488, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Carey Foster (1835&#150;1919): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/39488 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13128;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13128-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13128-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13128#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hesketh,  Thomas</span>  (<em>bap. </em>1560, <em>d.</em> 1613), <span class="occ">botanist and physician</span>, was baptized on 15 May 1560 at Great Harwood, Lancashire, near to Martholme Hall. He was the second son of Sir Thomas Hesketh of Rufford (1526&#150;1588) and Alice, daughter of Sir John Holcroft of Holcroft. Sir Thomas was high sheriff in 1562, and the family was prominent in the affairs of the county palatine, owning several large estates. After his father's death, Thomas inherited a part of these estates, including the honour of the castle of Clitheroe and 18 acres of land in the town where he practised as a physician and surgeon. Like many of the gentry of this part of Lancashire, he seems to have been a Roman Catholic, and he appears with his neighbours on the recusant rolls for 1594&#150;5 and 1595&#150;6. His religion would have debarred him from many of the public offices that his family had previously held. It appears that he never married. From 1593 he spent much time at Martholme Hall, on the family's Great Harwood estate, where his actively recusant mother also lived and kept a seminary priest, and where Thomas cultivated what must have been a remarkable garden on the banks of the River Calder.<br>
+<br>About this date Thomas Hesketh began to correspond with John Gerard, and he became the source of a great deal of the botanical information used in Gerard's famous <span class="italic">Herball</span>. Hesketh also corresponded with Lord Burghley, for whom the Cheshire-born Gerard acted as gardener at his houses in the Strand and at Theobalds. Hesketh seems to have supplied many of the famous late Elizabethan London gardens and nurseries with seeds and plants from the herb gardens, moorlands, and mosses of the north of England. Many of these plants were the &#145;simples&#146; or the herbs and medicines used in his Clitheroe medical practice.<br>
+<br>One of the ways to identify the mass of botanical information supplied by Hesketh for Gerard's <span class="italic">Herball</span> lies in the locations of the plants listed, with the Hesketh estates and their surroundings given as the habitat for many of these specimens. One berry (<i>Herba Paris</i>), along with purple goat's beard (<i>Tragopogon purpureum</i>), red bird eyne, <i>Primula veris flore rubro</i>, and the bird cherry tree or wild black berry tree (<i>Prunus padus</i>), were all to be found at Martholme, and the double white rose could be found at Rufford, the Hesketh family's main seat. According to Gerard, Hesketh introduced the double wild crowfoot from the fields around the village of Hesketh into London gardens. Hesketh also made many plant-gathering expeditions to the remoter moorlands of Pendle, Craven, and Lunedale, where he famously recorded the cloudberry, known also as the whinberry or bilberry. On the Lancashire seashore Hesketh recorded such plants as the wild rose campion and English sea campion, but most commonly he recorded many plants in his own garden, such as pepperwort or Dittander.<br>
+<br>As one of the earliest north-country botanists, Thomas Hesketh recorded a landscape with a great profusion of wild plants, especially flowers. Much of this landscape was obliterated by the agricultural and industrial revolutions. With the draining of the huge moss lands that were once the predominant feature, plants such as the Lancashire bugloss, the butterwort, Lancashire bog asphodel, and many others recorded by Hesketh as growing in profusion, have now become rarities. In Clapdale, near Settle in Yorkshire, Hesketh recorded the primula which became known as <i>Primula veris Heskethi</i>, or &#145;Mr Hesketh's Primrose&#146;, when it was included by Johnson in the 1636 edition of Gerard's <span class="italic">Herball</span>. It was also illustrated in Parkinson's <span class="italic">Theatrum botanicum</span> of 1640. Some confusion surrounds &#145;Mr Hesketh's Primrose&#146;, which later could not be found in Clapdale, but flourished in Gerard's and Johnson's and other fashionable London gardens. Perhaps a hybrid of the primrose and cowslip, it now seems to have disappeared.<br>
+<br>Gerard often acknowledged Thomas Hesketh in his <span class="italic">Herball</span>. The cloudberry, for instance, had been discovered in a mountain habitat by &#145;a curious gentleman in the knowledge of plants, called Mr. Hesketh, often remembered&#146;  (Gerard, 1396). The same volume noted that:<blockquote>there is a strange primrose found in a wood in Yorkshire growing wild, by the travels and industry of a learned gentleman of Lancashire called Mr Thomas Hesketh, a dilligent searcher of simples who hath not only brought to light this amiable and pleasant Primrose but many others also never before remembered or found out. (Gerard, 780)</blockquote>Hesketh died at Clitheroe Castle on 7 December 1613, according to the inquisition post mortem taken there on 10 January 1614. His heir was his brother Robert.<br>
+<br>David Brinson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Sparke, ed., <i>The parish register of Great Harwood, 1547&#150;1812</i>, Lancashire Parish Register Society, 75 (1937) &middot; W. A. Abram, &#145;Thomas Hesketh of Martholme and Clitheroe&#146;, <em>Palatine Note-Book</em>, 5 (1885), 7&#150;14 &middot; J. Gerard, <i>The herball, or, Generall historie of plantes</i>, rev. T. Johnson, another edn (1636), 241, 780, 1396 &middot; H. Bowler, ed., <i>Recusant roll no. 3 (1594&#150;1595) and recusant roll no. 4 (1595&#150;1596)</i>, Catholic RS, 61 (1970), 38, 40, 161 &middot; R. Dean, <i>Rufford Old Hall</i> (1991), 51 &middot; R. Pulteney, <i>Historical and biographical sketches of the progress of botany in England</i>, 1 (1790), 124 &middot; J. Parkinson, <i>Theatrum botanicum</i> (1640), 766, 1015<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> inquisition post mortem, quoted in Abram, &#145;Thomas Hesketh&#146;<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Brinson, &#145;<span class="roman"><span class="headword">Hesketh,  Thomas</span>  (<em>bap. </em>1560, <em>d.</em> 1613)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13128, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Hesketh (<em>bap. </em>1560, <em>d.</em> 1613): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13128 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

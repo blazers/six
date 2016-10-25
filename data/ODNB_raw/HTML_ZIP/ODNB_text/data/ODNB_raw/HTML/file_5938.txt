@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5938;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5938-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5938-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5938#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Collins,  Greenvile</span>  (<em>d.</em> 1694), <span class="occ">naval officer and hydrographer</span>, sailed between 1669 and 1671 with Sir John Narborough as master of the <i>Sweepstakes</i> on a voyage to the south seas. He was in sole charge of navigation on this voyage. In 1676 he was master of the <i>Speedwell</i> (Captain John Wood) on a voyage to try to discover a north-east passage to China and the East Indies. Wood had been on the <i>Sweepstakes</i> and, like Narborough, held Collins in high regard. The voyage ended with the wreck of the <i>Speedwell</i> off Novaya Zemlya, but the crew were rescued and brought home. Collins's journal was the most important surviving record of this voyage and its use brought him to the attention of the king. He was given the mastership of the <i>Charles</i> galley, in which he sailed in 1677 for Tangier, transferring to the <i>James</i>, the <i>Newcastle</i>, and finally the <i>Plymouth</i>, Narborough's flagship, as master in each case. In 1679 he was gazetted captain and made commander of the <i>Lark</i> (18 guns). His journal records his time in the Mediterranean and his encounters with the Algerines, and the maps drawn to accompany the text show Collins's hydrographic skill.<br>
+<br>In 1681 Collins was made commander of the <i>Merlin</i> yacht (8 guns), in which he was to undertake the first comprehensive survey of the coasts of Britain. Yachts were small, handy boats which did not draw much water and this made them ideal for surveying. There was certainly a need for such a survey since the best existing charts, mainly Dutch &#145;waggoners&#146;, were known to be defective, and there was no systematic way of collecting and disseminating the better sketch maps and information which experienced seamen made of areas and noted in their journals: the fact that the work was entrusted to Collins was a tribute to his skill and shows the extent to which he had won royal notice by this date. It also followed his own proposals of 1680 in which he both lamented the parlous state of the charts then available and outlined the methods by which he could conduct an improved survey. The work was supported financially and supervised by Trinity House, of which Samuel Pepys insisted that Collins be made a younger brother. (In 1693 he was made an elder brother.)<br>
+<br>The survey took seven years and was undertaken from the <i>Merlin</i>, <i>Monmouth</i>, <i>Martin</i>, and the <i>Younge Spragge</i>. Collins probably used existing charts and seamen's sketches and notes, as well as his own observations in this remarkably ambitious undertaking. From 1683 Collins was allowed to style himself hydrographer in ordinary to the king. Charts were published as they were completed but in 1693 when the work was completed, and about one third of the charts were engraved&#151;in itself a laborious task&#151;they were privately published together as <span class="italic">Great Britain's Coasting Pilot</span> by Freeman Collins, who may have been Greenvile's brother, and sold by Richard Mount. The work was in two parts and covered England and Scotland: Greenvile Collins announced his intention of producing a third part devoted to Ireland, but nothing came of the plan. A bill of 1694 itemizes the cost of the survey and shows that Collins spent &pound;40 on instruments, and charged &pound;80 for the 120 manuscript maps he delivered, &pound;200 per annum in expenses for the seven years of the survey, and his wages of &pound;394 10<i>s</i>., making a total of &pound;1914 10<i>s</i>., of which he had received a small proportion in advance. He finally received the rest in arrears. The huge cost of the work, more than three times Collins's original estimate, as well as Collins's death go to explain why the Irish section was not completed and why there was some criticism of the work when it appeared.<br>
+<br>In 1694 Collins was made master of the <i>Fubbs</i> yacht but on about 25 March of that year he died. In 1695 his widow, of whom no more is known, received &pound;500 from the treasurer of the navy. His <span class="italic">Coasting Pilot</span> was republished in 1723 by Mount and Page, a course of action which he would not have approved since he thought all masters' journals should be scrutinized by Trinity House and charts constantly updated from them; a further nineteen editions were published to 1792. Had his plan been adopted then, although his own charts would have been more rapidly superseded, mariners would have benefited still more from his modern vision of hydrography.<br>
+<br>Elizabeth Baigent </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>F. E. Dyer, &#145;The journal of Grenvill Collins&#146;, <em>Mariner's Mirror</em>, 14 (1928), 197&#150;219 &middot; G. P. B. Naish, &#145;Hydrographic surveys by officers of the navy under the later Stuarts&#146;, <em>Journal of the Institute of Navigation</em>, 9 (1956), 44&#150;55 &middot; J. Burney, <i>A chronological history of the discoveries in the South Sea or Pacific Ocean</i>, 3 (1813) &middot; E. G. R. Taylor, <i>The mathematical practitioners of Tudor and Stuart England</i> (1954) &middot; C. Verner, &#145;Captain Collins' <i>Coasting pilot</i>&#146;, <em>Map Collectors' Circle</em>, 6/58 (1969) &middot; J. Narborough, <i>An account of several voyages to the south and north</i> (1694) &middot; private information (2010) [A. C. F. David]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5938&amp;istheme=&amp;target=BL')">BL</a>, king's maritime collection, chart
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5938&amp;istheme=&amp;target=GL')">GL</a>, charts, MS 2745
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5938&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, journal, ADM 7/688
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5938&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, maps, MPI 17
+   &middot;
+ UK Hydrographic Office, Taunton, surveys for Great Britain's coasting pilot<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Elizabeth Baigent, &#145;<span class="roman"><span class="headword">Collins,  Greenvile</span>  (<em>d.</em> 1694)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2010 [http://www.oxforddnb.com/view/article/5938, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Greenvile Collins (<em>d.</em> 1694): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5938 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/5938/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

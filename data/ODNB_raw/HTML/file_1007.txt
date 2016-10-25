@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1007;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1007-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1007-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1007#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bacon <span class="st"> [Bacun]</span>,  Robert</span>  (<em>d.</em> 1248), <span class="occ">theologian</span>, was born in the 1170s or 1180s, into a family of which nothing is known except that he had a sister Mabel, resident within the Forest of Savernake, Wiltshire. Bacon was to achieve distinction as a theologian and preacher; it is therefore frustrating that so little can be established about his early education. However, in 1948 Beryl Smalley demonstrated that the <i>tractatus</i> on the <span class="roman">Psalms</span> in Bodl. Oxf., MS Bodley 745, which is attributed to Brother R. Bacon, used as its basic text the commentary on the <span class="roman">Psalms</span> of the Parisian master Jean d'Abbeville; she deduced from this that Robert Bacon had been John's pupil in Paris about 1210. He is likely to have received considerable training in the arts before this. In a statement produced in the early 1240s to support the canonization of Edmund of Abingdon, Robert Bacon described himself as having been Edmund's pupil, auditor, and close companion. Although he provided no context for this relationship, C. H. Lawrence has suggested that it may have been formed in Oxford between about 1214 and 1219.<br>
+<br>In 1219 Bacon, now described as master, received from the Benedictine abbey of Eynsham the presentation to the living of Lower Heyford, Oxfordshire. The abbey's propinquity to Oxford (and perhaps the presence of one of Edmund of Abingdon's brothers as a monk there) suggests that Bacon's promotion and his academic reputation were connected. It was a condition of the presentation that the incumbent should reside in his parish and fulfil the functions of parish priest. Bacon is likely therefore to have been ordained either before 1219 or shortly afterwards. By 1227, however, he had resigned the living, perhaps because he was already considering entering the Dominican order. The date of Bacon's profession is unknown, but Thomas &#145;of Eccleston&#146;, the Franciscan chronicler, alleged that it happened on the day of his entry into the order, and that he was dispensed from the usual probationary period. Jordan of Saxony, the provincial of the order, visited England in 1229, hoping to recruit a good haul of candidates; Bacon may have been among these.<br>
+<br>Bacon then embarked upon the career that was to occupy him for the rest of his life, that of preaching and of teaching theology in Oxford. Here he worked on occasion with Robert Grosseteste (<i>d</i>. 1253), and he taught Richard Fishacre (<i>d</i>. 1248). It is also likely that he kept up his connection with Edmund of Abingdon, who became archbishop of Canterbury in 1233 amid the crisis that followed Henry III's dismissal in the previous year of his justiciar, Hubert de Burgh. In June 1233, according to Matthew Paris, Robert Bacon preached a sermon before the king at Oxford, warning him of the dangers to national peace posed by allowing Peter des Roches, bishop of Winchester, and his nephew Peter de Rivallis, to dominate royal counsels. Such blunt speaking did not apparently alienate Henry entirely; after the fall of the much disliked Poitevin counsellors in 1234, the king sometimes called on Bacon's services, usually to protect newly converted Jews, or to impose discipline on Oxford clerics, or on their prostitutes and concubines. But after 1238 Bacon seems to have evaded royal notice.<br>
+<br>Robert Bacon may have performed commissions for Edmund of Abingdon until the archbishop's death in 1240. Much of his energy in the next few years went into promoting the canonization of his old friend. He featured prominently in the University of Oxford's appeal to the pope, he wrote an important <span class="italic">Veriloquium</span> on Edmund's sanctity, and in 1244 he was a member of the commission of three set up to investigate the facts. The bull of canonization of 1246 must have given him much satisfaction.<br>
+<br>The rest of his time was spent in teaching and preaching. Smalley dated his commentary on the <span class="roman">Psalms</span> to the period 1230&#150;48, and pointed out that he added much to Jean d'Abbeville's material, including some <i>quaestiones</i> and allusions to new Aristotelian material. The <i>tractatus</i> in the form in which it has been preserved was prepared, whether by Bacon himself or by an editor, as moralities for use in composing sermons. The attribution to him of the <span class="italic">Syncategoremata</span> in Oxford Bodl. Oxf., MS Digby 204, folios 88&#150;100 is more doubtful. Bacon's sermons, famous in their day, have all disappeared except one for the first day of Rogation, in BL, Royal MS 7 A.ix, folio 70<i>v</i>. His high reputation among his contemporaries is best appreciated from the warmth of the tribute paid to him and to his pupil Richard Fishacre by Matthew Paris, in 1248, the year of their deaths. They were, he said, without equal in theological and other fields of knowledge; they taught with distinction for many years in the theology faculty of Oxford, while also preaching the word of God to the people. Bacon was buried in the church of the Blackfriars, Oxford.<br>
+<br>Jean Dunbabin </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Smalley, &#145;Robert Bacon and the early Dominican school at Oxford&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=TRHS')"><i>TRHS</i></a>, 4th ser., 30 (1948), 1&#150;19 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 1.87 &middot; W. A. Hinnebusch, <i>The early English Friars Preachers</i> (1951) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=Paris%2C%20Chron.')">Paris, <i>Chron.</i></a>, 3.244&#150;5; 5.16 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=Chancery%20records')"><i>Chancery records</i></a> &middot; W. P. W. Phillimore and others, eds., <i>Rotuli Hugonis de Welles, episcopi Lincolniensis</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=CYS')">CYS</a>, 1, 3 (1907&#150;9) &middot; A. B. Emden, <i>An Oxford hall in medieval times</i><i>: being the early history of St Edmund Hall</i> (1927), 269 &middot; N. Trevet, <i>Annales sex regum Angliae, 1135&#150;1307</i>, ed. T. Hog, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=EHS')">EHS</a>, 6 (1845), 229 &middot; <i>Fratris Thomae vulgo dicti de Eccleston tractatus de adventu fratrum minorum in Angliam</i>, ed. A. G. Little (1951), 81 &middot; C. H. Lawrence, <i>St Edmund of Abingdon</i> (1960), 248&#150;53 [other refs in text] &middot; B. Smalley, <i>The study of the Bible in the middle ages</i>, 3rd edn (1983)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=BL')">BL</a>, Royal MS 7 A.ix, fol. 70<i>v</i>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Bodley 745, pp. 193&#150;497
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1007&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Digby 204, fols. 88&#150;100<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jean Dunbabin, &#145;<span class="roman"><span class="headword">Bacon ,  Robert</span>  (<em>d.</em> 1248)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1007, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Bacon (<em>d.</em> 1248): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1007 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

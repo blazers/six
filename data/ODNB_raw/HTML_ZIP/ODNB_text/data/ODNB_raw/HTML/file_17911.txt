@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17911;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17911-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17911-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17911#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Malveisin <span class="st"> [Malvoisin]</span>,  William</span>  (<em>d.</em> 1238), <span class="occ">bishop of Glasgow and of St Andrews</span>, may have been a son of his namesake, the Norman nephew of Odo, count of Brittany, or he may have derived from a Malveisin family in the Seine valley nearer Paris; and he may have been born in either France or England. All of this bears inconclusively on the suggestion that he was the Guillaume le Clerc [<i>see </i><script>writeSeealsoLink('../view/article/29475/', "William the Clerk")</script>] who wrote the <span class="italic">Roman de Fergus</span>, showing accurate knowledge of Scotland, with expletives &#145;by St Mungo&#146;, and surviving in Picard manuscripts. Since the chronicler Roger Howden (whom he certainly met in 1195) knew details of, for example, Malveisin's consecration in 1199, the latter seems to have been one of his informants at the end of his life. But later Scottish chroniclers have used a lost set of annals for the early thirteenth century, of St Andrews provenance, which fit with Malveisin's career there, and he has been suggested as their author, inspired by the example of Howden.<br>
+<br>Malveisin was probably young when he took service as clerk of King William the Lion in the 1180s, receiving the archdeaconry of Lothian as a benefice (1189&#150;93) and becoming the king's chancellor on 8 September 1199, after the death on 10 July of Hugh the Chancellor, who had been first choice to succeed Jocelin as bishop of Glasgow. Only a month later, in October, William was elected to the see of Glasgow and was consecrated at Lyons by its archbishop on 24 September 1200. In his short time at Glasgow he put both the canons and the vicars-choral firmly in their place and his translation to St Andrews in 1202, after the death of Bishop Roger, was a wise decision by the king and (probably) the legate, Giovanni da Salerno. He ceased to be chancellor at about this time.<br>
+<br>As bishop for over thirty-five years, Malveisin played a large role in his diocese, in the Scottish church, and at the papal curia, and there is no doubt that, even if he did not attend a law school, he was learned in canon and civil law, for he was involved as litigant and judge in many disputes. He curbed the efforts of the religious of Durham and Arbroath to establish exemption from visitation and procurations, and earned a reputation for suffering no nonsense from other houses; in 1207 he went to Rome to secure support in dealing with the religious, and met there Stephen Langton, archbishop of Canterbury, whose father was given refuge in St Andrews Priory during the quarrel between Langton and John, king of England. Yet Malveisin was an acceptable envoy to John's court.<br>
+<br>In 1208 the bishop of Durham built a new and threatening castle at Tweedmouth, calling it Malveisin after the bishop to whose diocese it was a &#145;bad neighbour&#146;. King William the Lion, who had long been pressing his claim for the earldom of Northumberland, seems to have provoked John, king of England by entertaining overtures from Philip Augustus of France. Bishop William had been in abortive embassies to John after 24 May 1209, and he accompanied his king to meet John at Norham on 7 August 1209, when there was a humiliating Scottish climb-down. The bishop must have played a part, for he witnessed the text, and the terms were kept as secret as possible though they included demolition of the castle of Malveisin. Malveisin was also party to the supplementary agreement between the two kings reached in early February 1212. Later chronicle evidence says that he went to France in that year to visit relatives, but if so the visit was brief, for he was back in 1213, acting as legate with Bishop Walter of Glasgow to preach and collect money for the Albigensian crusade. He helped inaugurate Alexander II at Scone on 6 December 1214 and on 7 July 1215 was sent as envoy to King John, possibly to demand fulfilment of chapter 59 of <span class="roman">Magna Carta</span>. But he did not return then, and was overseas during the Anglo-Scottish wars of 1215&#150;17, when the southern part of his diocese was ravaged.<br>
+<br>With three other Scottish prelates Malveisin attended the Fourth Lateran Council in November 1215, remaining behind at the curia as Alexander II incurred excommunication, his kingdom interdict. Not until December 1217 did the bishop come home via England, probably attending Alexander II's homage to Henry III at Northampton in that month. His absence from Scotland enabled him to press with Honorius III the Scottish case that the English kings had defaulted on the treaties of Norham, and the matter was remitted in 1218 to the legate Pandulph and inaction. Malveisin was at York to negotiate the marriage of Alexander II to Henry III's sister Joan on 15 June 1220, and for the marriage itself there on 18 June 1221, having presumably attended the three-day council held by the legate James at Perth on 9&#150;11 February 1221.<br>
+<br>But the Scottish church remained unable to carry out reforms through a provincial council. Since 1199 several legates had visited, including James seeking a crusading subsidy in 1220. Was the Scottish church to be in need of recurrent legates? Malveisin had helped to establish the cathedral of Moray at Spynie, had claimed unsuccessfully that the bishop of Dunkeld must be consecrated by the bishop of St Andrews, and did consecrate other Scottish bishops without adequate papal authority, all signs of a pretension to metropolitan functions. It was perhaps to halt those ambitions that Honorius III agreed on 19 May 1225 to the bishops of the Scottish kingdom holding <i>provinciale concilium</i> by papal authority, a decision, apparently, not for a one-off council, but followed by occasional councils representing all dioceses. Only one such council is known before William's death, held in Brechin diocese in 1230&#150;31, and provincial statutes or diocesan synodalia for reform (as envisaged at the Lateran Council) are unknown until after the visit of the legate Otto to Britain in 1237&#150;9.<br>
+<br>None the less, Malveisin was a busy man in the affairs of his diocese and the Scottish church, after 1218 as before 1215. His problems with his own church of St Andrews are the best attested, for he first sought to resolve the differences between the Augustinian and secular (Culdee) canons of St Andrews. A party of the former brought a case against him at the curia in 1216, and charges flew back and forth over the succeeding years. The bishop certainly seems to have forcibly presented clerics to benefices in the patronage of the priory, but he had a large <i>familia</i> to provide for&#151;thirty or more of whom were <i>magistri</i>. In 1228 the pope was still protecting the priory from further exactions of pensions in favour of such clerks. None the less, the overwhelming impression left by Bishop William's career is of an able, hard-working ecclesiastical civil servant, learned in the law, who knew how to please his masters, both king and pope, who tried to be fair, but who had little spirituality himself and little feeling for it in others.<br>
+<br>In his last ten years Malveisin was probably in declining health, yet about 1232 was commissioned by the pope, with two colleagues, to find a bishop for the vacant see of Dunblane; their nomination of the Dominican Clement (whom he consecrated, not at St Andrews or Dunblane, but at Stow in Lothian, on 4 September 1233) shows appreciation of a new force in the church. He was presumably a very old man when he died on 9 July 1238 at Inchmurdo, near St Andrews. He was buried in the cathedral then slowly rising; he is not known to have raised funds for it with any vigour.<br>
+<br>A. A. M. Duncan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Dowden, <i>The bishops of Scotland &hellip; prior to the Reformation</i>, ed. J. M. Thomson (1912), 12&#150;13, 300&#150;01 &middot; D. E. R. Watt, <i>A biographical dictionary of Scottish graduates to <span class="smallcap">AD</span> 1410</i> (1977), 374&#150;9 &middot; G. W. S. Barrow, ed., <i>Regesta regum Scottorum</i>, 2 (1971) &middot; Guillaume le Clerc, <i>Fergus of Galloway</i><i>: knight of King Arthur</i>, trans. D. D. R. Owen (1991), 162&#150;9 &middot; D. E. R. Watt, <i>Medieval church councils in Scotland</i> (2000), chaps. 3&#150;5 &middot; A. A. M. Duncan, &#145;John king of England and the kings of Scots&#146;, <i>King John</i><i>: new interpretations</i>, ed. S. D. Church (1999), 247&#150;71 &middot; A. A. M. Duncan, &#145;Roger of Howden and Scotland&#146;, <i>Church, chronicle and learning in medieval and early Renaissance Scotland</i>, ed. B. E. Crawford (1999), 135&#150;60 &middot; W. Bower, <i>Scotichronicon</i>, ed. D. E. R. Watt and others, new edn, 9 vols. (1987&#150;98), vol. 4, pp. 616&#150;20; vol. 9, pp. 251&#150;9<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> cast, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17911&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, Melrose charters, Laing casts &middot; seal, U. Durham L., Durham dean and chapter archives, Misc. Charters nos. 1301, 1308, 1317<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. A. M. Duncan, &#145;<span class="roman"><span class="headword">Malveisin ,  William</span>  (<em>d.</em> 1238)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/17911, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Malveisin (<em>d.</em> 1238): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17911 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

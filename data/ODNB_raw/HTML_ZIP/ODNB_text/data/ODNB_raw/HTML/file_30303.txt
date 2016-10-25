@@ -1,0 +1,384 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30303;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30303-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30303-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30303#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=30303&amp;orientation=p')"><img border="0" alt="  William Zouche (d. 1352), seal" onmouseover="status='  William Zouche (d. 1352), seal'" src="/images/article-imgs/30/30303_1_200px.jpg"></a><span class="imagecaption"><b>  William Zouche (<em>d.</em> 1352)</b>, seal</span>
+</div>
+<div class="para">
+<span class="headword">Zouche,  William</span>  (<em>d.</em> 1352), <span class="occ">administrator and archbishop of York</span>, was most likely a son of the Roger la Zouche who died in 1302 holding the manor of Lubbesthorpe in Leicestershire. If this identification is correct, William's birth would have taken place some time after 1292&#150;3, the year in which Roger, the eldest son and heir to the Lubbesthorpe manor, was born. In 1337 the two brothers, William and Roger, founded chantries at Lubbesthorpe and at Clipsham, Rutland. The future archbishop was a kinsman (but not a younger son, as has sometimes been supposed) of William, first Lord Zouche (<i>d</i>. 1352) of Harringworth. It was the baron's mother, Millicent de Monte Alto, who had granted Lubbesthorpe to Roger la Zouche the elder in 1267&#150;8, and it was the baron himself who presented the young William to his first ecclesiastical benefice, the rectory of Clipsham, in 1315.<br>
+<br>By this date Zouche had been ordained acolyte. During the ensuing year he proceeded to the subdiaconate, but thereafter his progress through the orders was slow. He was still a subdeacon in 1324, and as late as 1330 he was granted letters dimissory by Bishop John Grandison of Exeter, enabling him to proceed to all orders. His long period as a subdeacon indicates that the benefice of Clipsham was intended to finance his studies at university. In accordance with the papal constitution <span class="italic">Cum ex eo</span>, he was granted four separate dispensations for study by successive bishops of Lincoln: two by John Dalderby in 1316 and 1318, and two by Henry Burghersh in 1320 and 1324. He had attained the degree of master of arts by 1320, and it seems likely that he remained at university for a total period of some twelve years, culminating in the award of the degree of bachelor of civil law, which he is known to have received before, and probably well before, 1335. The place of his studies is not known, but as the two earlier dispensations stipulated that he was to study within England it is quite possible that he attended the schools at Oxford.<br>
+<br>At the conclusion of his university career Zouche entered royal service. By April 1328 he was a king's clerk, employed within the wardrobe. His efficient work as clerk of the spicery brought him promotion in January 1329, when he was appointed keeper of the great wardrobe. The favour with which he was regarded by the administration governing England in the name of the young Edward III was underlined in July 1328 by the grant, nominally at the king's petition, of a papal provision to a canonry of Exeter with reservation of a prebend. The prebend soon followed, and to it was added in December 1329 the archdeaconry of Barnstaple. He vacated this six months later for the archdeaconry of Exeter which he exchanged in turn, in June 1331, for the valuable rectory of Yaxley, Huntingdonshire. It is unlikely that Zouche personally carried out the duties of any of these ecclesiastical offices, which are probably to be seen as the means of providing him with an income. As keeper of the great wardrobe, he was based initially at Westminster; in both 1332 and 1333 he spent some time in Flanders for the purpose of obtaining cloth. In 1333, however, the wardrobe, along with other government departments, moved to York, where it was involved in providing clothing, arms, and equipment for the Scottish campaigns of 1333&#150;5.<br>
+<br>Zouche's work at the great wardrobe marked him out for further promotion. On 31 July 1334 he was appointed controller of the wardrobe, and eight months later, on 1 April 1335, he was made keeper of the privy seal. In this capacity Zouche was involved in the campaign against the Scots in the summer of 1335. His more eminent role in government was reflected in two further ecclesiastical benefices, both in York Minster where he was made a prebendary in November 1335, and, twelve months later, dean. The culmination of Zouche's career as a civil servant came in March 1337 with his appointment as treasurer of the exchequer. He took office at a time when preparations for war with France and negotiations with potential allies in the Low Countries were placing ever-increasing burdens on the nation's finances. One symptom of this strain can be seen in the frequency with which the office of treasurer changed hands. After a year in office Zouche was replaced by Robert Wodehouse (<i>d</i>. 1346), only to be recalled to the post nine months later. He was unable, however, to satisfy the king who was becoming increasingly impatient at the delays in producing adequate money and supplies for the war. Zouche's standing began to deteriorate, particularly since he was now working with Archbishop John Stratford (<i>d</i>. 1348), a man whom Edward regarded with growing disfavour.<br>
+<br>William Melton, archbishop of York, died on 4 April 1340. Three days later the king granted custody of the temporalities to Zouche. The <i>cong&eacute; d'&eacute;lire</i> was issued on 13 April and Zouche, leaving the treasury in the hands of a deputy, set out for York to oversee the temporalities and, as dean, to preside at the election. On the following day the king suddenly ordered the transfer of the temporalities to the officials of the chamber. It is not clear what caused this reversal: perhaps the king had been told that Stratford favoured Zouche for the vacant archbishopric. It is certain that the king wanted the post for his closest adviser, William Kilsby (<i>d</i>. 1346). Accordingly Kilsby was sent to York, and steps were taken to secure for him a seat in the chapter. The king issued letters praising Kilsby and denying &#145;slanderous reports&#146; that he had been excommunicated. On 2 May, Zouche was relieved of his office as treasurer but on the same day he found himself elected, by twelve votes to five, archbishop of York.<br>
+<br>No doubt foreseeing a struggle, Zouche prudently had himself installed archbishop on the day of the election. Kilsby refused to abandon his claim, and both parties appealed to Avignon. The king wrote to Pope Benedict XII (<i>r</i>. 1334&#150;42) in support of Kilsby, and attempts were made to prevent Zouche from leaving England. On 13 August the pope ordered the excommunication of all who sought to detain Zouche, who was now finally able to set out for the papal court. Travelling via the Low Countries and Germany, on account of the French war, he had just passed through Geneva when he was kidnapped by three knights and confined in a remote place on the north side of Lake Geneva. This was clearly another attempt to prevent him from reaching Avignon, and Kilsby's involvement was strongly suspected. At length Zouche was released on payment of a ransom and after swearing not to reveal the identity of his captors. On his arrival at Avignon, Zouche was released from his oath by the pope, who took vigorous measures to bring the culprits to justice. Nevertheless, the matter of the disputed election was left unresolved for more than two years until on 26 June 1342, Zouche was granted a papal provision to the see of York by Clement VI (<i>r</i>. 1342&#150;52). He was consecrated at Avignon on 7 July, returned to England in September, and on 8 December his enthronement took place at York. Edward III must have come to accept Zouche's elevation, since the temporalities were restored on 19 September. The question of his successor as dean gave rise to another lengthy dispute, Zouche's involvement in which led ultimately to his excommunication by Pope Clement for opposing the papal nominee. This sentence was not lifted by Clement until July 1352, three months before Zouche's death.<br>
+<br>Although Zouche's relations with the king had cooled during the dispute over the archbishopric, Edward was not one to harbour grudges against anyone who was likely to prove useful to him. With English military resources overwhelmingly committed on the continent, the border with Scotland remained vulnerable. Zouche, who had himself been involved in the Scottish campaigns of the 1330s, was well placed as archbishop to help in consolidating the country's defence. In 1346 Edward III's victory at Cr&eacute;cy moved the Scots to attempt a diversionary action to relieve their French allies. In expectation of this Zouche had been appointed warden of the Scottish march and joint commissioner of array for the northern army When King David of Scotland invaded in October, Zouche, along with Henry Percy and Ralph Neville, mustered an army to oppose him. At the decisive action of Nevilles Cross on 17 October, Zouche commanded one of the three divisions. His part in the victory, erasing the unhappy memory of the defeat of his predecessor, Archbishop William Melton, at Myton in 1319, secured him considerable renown in the north of England.<br>
+<br>Apart from this excursion into military affairs Zouche spent most of his time as archbishop residing in his diocese, occupied in routine administration. The smooth running of the diocese was severely challenged during the plague epidemic of 1349. Zouche warned of the imminent arrival of the disease in a letter dated 28 July 1348, in which he ordered the litany to be sung in procession on Wednesdays and Fridays, and special collects to be said at mass, in every church in the diocese. The black death arrived in Yorkshire in May 1349; it has been estimated that mortality among the beneficed clergy was over 40 per cent during July and August. Zouche remained in his diocese, moving between his manors of Cawood, Ripon, and Bishop Burton, where large numbers of clergy came to him, seeking institution to the numerous benefices which had fallen vacant through death. On one day two successive candidates were admitted to the same benefice, the first having presumably succumbed to the disease within a few hours of his institution. Meanwhile Zouche's suffragan Hugh, archbishop of Damascus, was commissioned to hold additional ordinations and to consecrate new burial-grounds.<br>
+<br>During the course of the epidemic, on 28 June 1349, Zouche drew up his will. It was said that he had long been suffering with a serious illness. He made provision in his will for the foundation of a chantry chapel in York Minster, where he asked to be buried, and in April 1351 he received permission from the dean and chapter to proceed with this work; it was still in progress at the time of his death. Zouche died at his manor of Cawood on 19 July 1352, and was buried in York Minster before the altar of St Edward. His chapel was eventually completed, but his executors not only failed to found his chantry but also neglected to erect any monument to his memory, &#145;a proof&#146; according to the chronicler Thomas Stubbs &#145;of the ingratitude of his kindred and those to whom he had been an exceptional benefactor&#146;  (Raine, <span class="italic">Fasti</span>, 2.419).<br>
+<br>Nicholas Bennett </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. H. Dixon, <i>Fasti Eboracenses</i><i>: lives of the archbishops of York</i>, ed. J. Raine (1863) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30303&amp;istheme=&amp;target=Tout%2C%20Admin.%20hist.')">Tout, <i>Admin. hist.</i></a> &middot; bishops' registers, Lincs. Arch., Lincoln diocesan archives, nos. 2, 4, 5 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30303&amp;istheme=&amp;target=CIPM')"><i>CIPM</i></a>, 4.112 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30303&amp;istheme=&amp;target=CPR')"><i>CPR</i></a>, <i>1334&#150;8</i>, 406 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30303&amp;istheme=&amp;target=CEPR%20letters')"><i>CEPR letters</i></a>, vol. 2 &middot; F. C. Hingeston-Randolph, ed., <i>The register of John de Grandisson, bishop of Exeter</i>, 3 vols. (1894&#150;9) &middot; A. H. Thompson, &#145;The pestilences of the fourteenth century in the diocese of York&#146;, <em>Archaeological Journal</em>, 71 (1914), 97&#150;154 &middot; J. S. Miller, &#145;The building of the Zouche chapel&#146;, <em>Friends of York Minster Annual Report</em>, 63 (1992), 53&#150;62 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30303&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a> &middot; J. Raine, ed., <i>The historians of the church of York and its archbishops</i>, 2, Rolls Series, 71 (1886), 418&#150;19<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30303&amp;istheme=&amp;target=Borth.%20Inst.')">Borth. Inst.</a>, Reg. 10&#150;10A<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> seal, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30303&amp;istheme=&amp;target=BL')">BL</a>; Birch, <i>Seals</i>, 2317 [<i>see illus.</i>]<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Nicholas Bennett, &#145;<span class="roman"><span class="headword">Zouche,  William</span>  (<em>d.</em> 1352)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/30303, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Zouche (<em>d.</em> 1352): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30303 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

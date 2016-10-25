@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15546;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15546-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15546-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15546#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kilwardby,  Robert</span>  (<em>c.</em>1215&#150;1279), <span class="occ">Dominican philosopher, theologian, and archbishop of Canterbury</span>, is of unknown origins. Study of his writings has allowed approximate dates to be attached to the earlier stages of his career. He studied arts at the University of Paris after the resumption of normal teaching there in 1231 and graduated MA <i>c</i>.1237. Bonaventure may have been among his students. He taught in the arts faculty until <i>c</i>.1245, then joined the Dominicans, probably in England. At his superiors' request he composed a general introduction to philosophy, <span class="italic">De ortu scientiarum</span>, <i>c</i>.1250. In the early 1250s he lectured on the <span class="italic">Sentences</span> and the <span class="roman">Bible</span> as BTh in Oxford, and became DTh <i>c</i>.1256. His <span class="italic">Quaestiones</span> on the four books of the <span class="italic">Sentences</span>, written while he was regent master in Oxford, were probably not completed until about 1260, and <span class="italic">De tempore</span> and <span class="italic">De spiritu phantastico</span> seem to have been composed even later.<h2>
+<a name="Philosophicalandtheologicalwritings"></a>Philosophical and theological writings</h2>Kilwardby's writings show that he was well acquainted with the corpus of Aristotelian writings, including, in his Oxford works, all ten books of the <span class="italic">Nicomachean Ethics</span>, most of which had only recently become available in Latin. His lectures on logic, grammar, and ethics form the most complete collection of works to have survived from the faculty of arts in Paris in the first half of the thirteenth century, but his own main interest and most important influence was in logic and philosophical grammar. Both Roger Bacon (<i>d</i>. 1294) and Albertus Magnus, for instance, were much indebted to him in these fields, and some of his logical works circulated for centuries. His commentary on the <span class="italic">Prior Analytics</span> ran to seven printed editions between 1499 and 1598, though it was ascribed to Giles of Rome. <span class="italic">De ortu scientiarum</span> also circulated widely; it was used by Remigio de' Girolami in Florence, for instance, in his <span class="italic">Divisio scientiae</span>, and as late as 1531 a copy of it was acquired in Valladolid by Christopher Columbus's son, Don Fernando Col&oacute;n.<br>
+<br>In Oxford Kilwardby turned his mind more to theology and especially to the <span class="roman">Bible</span> and the fathers, though he did not entirely abandon his earlier philosophical concerns. He applied himself to a study of &#145;original texts&#146; of the fathers, that is, complete texts rather than florilegia. In his <span class="italic">Quaestiones</span> on the <span class="italic">Sentences</span> he shows an awareness of Bonaventure's Parisian commentary and that of his Dominican forerunner in Oxford, Richard Fishacre (<i>d</i>. 1248). In this and other works produced in this period he shows a sometimes quite explicit concern to harmonize traditional Augustinian theology with modern Aristotelian philosophy.<br>
+<br>As an aid to his own study and that of his students Kilwardby compiled elaborate indices and guides to a considerable number of texts. These include detailed summaries of at least thirty-five works by or ascribed to Augustine, Peter Lombard's <span class="italic">Sentences</span>, and one work by John Chrysostom; each text is broken down into small sections and a r&eacute;sum&eacute; given of each section. He also prepared alphabetical subject indices of individual treatises by Augustine and Anselm, Damascene's <span class="italic">De fide orthodoxa</span>, and the <span class="italic">Sentences</span>, and a comprehensive single concordance of Augustine, Ambrose, Boethius, Isidore, and Anselm, together with the <span class="italic">Sentences</span> and Comestor's <span class="italic">Historia scholastica</span>. All these works of reference attest both the conscientiousness and the competence of their author. Possibly more of them remain to be discovered or identified.<br>
+<br>The liveliness of Kilwardby's mind and his readiness to take an interest in other people's ideas is shown by the only scholarly writing known to come from the period of his provincialate. In 1271 he, like Albertus Magnus and Thomas Aquinas, was asked by the master of the Dominican order, Giovanni of Vercelli, to comment on forty-three rather odd questions arising from the teaching of some lector whose views had been found disturbing. Aquinas complained politely about the interruption to his own work, but replied concisely and benignly. Albertus wrote at greater length and much less benignly; most of the questions struck him as idiotic, if not completely insane. Kilwardby, by contrast, shows evident interest in some of the questions: in one reply he offers a detailed interpretation of a passage from Aristotle, which he insists must be taken in context; elsewhere he provides short treatises on the nature of infinity and the way to calculate the distance from the surface of the earth to its centre.<h2>
+<a name="Dominicanprovincial"></a>Dominican provincial</h2>In 1261 Simon of Hinton was dismissed as provincial of England by the Dominican general chapter; Kilwardby was elected to succeed him. In 1272, for unknown reasons, he and several other priors and provincials were absolved by the general chapter, with the rider that they were not to be immediately re-elected to the same positions. Since the chapter of 1272 was particularly concerned with improving discipline in the order, it is likely that the absolved superiors were considered to have failed in some way in this domain. However, the English provincial chapter disregarded the general chapter's ban and re-elected Kilwardby, though he was appointed archbishop of Canterbury soon afterwards. As provincial, one of Kilwardby's first tasks was to implement the decree of the general chapter of 1261, that Oxford should be a <i>studium generale</i> for the whole order, in spite of the province's long-standing refusal to co-operate. It may be significant that the Dominican church in Oxford was finally consecrated in 1262, and Lambrick has suggested that the royal alms of &pound;50 per annum, instituted by Henry III, may have been granted at this time to help meet the financial burden of a <i>studium generale</i>.<br>
+<br>Assuming he attended all the chapters he should have done, Kilwardby had more than his fair share. Normally provincials went to one general chapter in three, but they also had to attend both those that occurred in their own province and those which coincided with the election of a master of the order. So Kilwardby in principle should have been at Bologna (1262), London (1263), Paris (1264, when Giovanni of Vercelli was elected master), Montpellier (1265), Viterbo (1268), and Montpellier again (1271). In addition, he would have presided annually over the provincial chapter, but no trace of the provincial <i>acta</i> has survived and even the location of most of the chapters is unknown. The English province at this time still included Scotland and Ireland as well as England and Wales, but there is no way of knowing how actively Kilwardby interested himself in the remoter parts of his territory.<br>
+<br>The general chapters while Kilwardby was provincial give the impression that the province was pursuing an unusually enthusiastic policy of expansion: permission was granted for thirteen new foundations, two of them to be in Ireland; no such permissions are recorded between 1250 and 1261, only seven between 1273 and 1282, and then none until 1320. But this evidence must be interpreted with caution. In fact thirteen houses appear to have been founded in England and Wales in the decade before Kilwardby's provincialate and four in Ireland, and other foundations were made between 1282 and 1320. The general chapters of 1262&#150;82 certainly show that the province intended to expand, but chiefly they indicate that Kilwardby and his two immediate successors followed proper constitutional procedures, unlike his two predecessors and William of Hotham (elected 1282) and his successors. Perhaps the absence of permissions between 1250 and 1261, when the province was actually rich in new foundations, indicates pique that the general chapter, meeting in London in 1250, should have imposed a penance on the provincial and told him to be less interested in building. Remarkable too is the almost exact tally between the number of foundations for which the province asked permission during Kilwardby's provincialate and the number of houses founded; he evidently had a taste for realism as well as legal propriety. There is evidence of his personal involvement in the development of the priories in Ilchester and Ipswich. As provincial, Kilwardby commissioned the Dominican Ralph Bocking to compose the life of St Richard of Wyche after the latter's canonization.<h2>
+<a name="Publicaffairs"></a>Public affairs</h2>During the early years of Kilwardby's provincialate the dispute between Henry III and the barons came to its climax, but it is not known what role, if any, he played in these affairs. Some Dominicans perhaps sympathized with Simon de Montfort, whose father had been a friend and benefactor of Dominic, but there is no evidence of Dominican complicity in Montfort's moves against the king. One of the king's most trusted councillors was his Dominican confessor, John of Darlington (<i>d</i>. 1284); after the battle of Evesham Henry wrote an impassioned letter to Kilwardby asking for John to be returned to his service, as being one of the few people trusted by both sides.<br>
+<br>There is an equal lack of information about contacts between Kilwardby and Cardinal Ottobuono Fieschi during the latter's important legation in England (1265&#150;8), or with Tedaldo Visconti, who was in his entourage and later, as Gregory X (<i>r</i>. 1271&#150;6), appointed Kilwardby archbishop of Canterbury. In his personal letter Gregory X shows no sign of having been acquainted with his nominee, but Kilwardby must have had some dealings with the legate. The Dominican and Franciscan provincials were responsible for collecting the crusade tax in this period, and members of both orders were active as crusade preachers. The legate had authority to compel friars of either order to assist him in any way he wanted, which he can hardly have used without any reference to the two provincials. At least it must be presumed that Kilwardby assisted at the legate's final and most solemn council, held at St Paul's, London, in April 1268.<br>
+<br>Further hints of Kilwardby's involvement in public affairs are furnished by later letters which reveal a warm friendship with Walter of Merton (<i>d</i>. 1277), whose origins must antedate Kilwardby's elevation to Canterbury; his letters to Edward I also suggest previous friendly contacts. Two letters written to support a Jewish leader, Master Elias, who was being calumniated by a fellow Jew whom he had tried to excommunicate, show both Kilwardby's intimacy with Edward's prot&eacute;g&eacute;, Robert Burnell (<i>d</i>. 1292), and his involvement with the Jewish community. He claims to have known Elias for a long time, even before becoming archbishop, and has found in him &#145;more signs of truth and goodness&#146; than in any other Jew. Scattered evidence suggests that Dominicans in England had long been concerned not just with the mission to Jews, but also with protecting them from injustice in an increasingly hostile and paranoid world, in line with papal policy (in 1272 Gregory X announced extra measures to protect Jews from false accusation). Kilwardby had presumably played some part in all this and thereby won the confidence of Master Elias.<h2>
+<a name="RelationswiththeFranciscans"></a>Relations with the Franciscans</h2>One dispute which Kilwardby was not able to escape was that between the Dominicans and the Franciscans. The basic problem was that, by now, both orders were trying to fill the same slot and there was not room for both of them; they were, not least, trying to attract the same recruits and in 1267&#150;8 Clement IV intervened to try to stop them stealing each other's members. In Oxford a major row broke out in 1269. As the Dominicans saw it, the poverty on which the Franciscans based their claim to superiority was a mere legal fiction. The Dominican Solomon of Ingham precipitated the crisis by telling the Franciscans they would all be damned because they owned things contrary to their profession. Kilwardby was drawn in, as provincial; he refused to move Solomon from Oxford, as the Franciscans wanted, and he admitted that he too was unconvinced that the rival order really owned nothing. The arguments reveal the two orders' different outlooks: the Dominicans took a realistic line (if you have something, you have it), whereas the Franciscans insisted on their claim to own nothing in law. After the intervention of the university a compromise formula was found, allowing the Franciscans to claim that they owned nothing, as their profession required, and the Dominicans to believe in <i>de facto</i> Franciscan ownership.<br>
+<br>Soon afterwards Kilwardby composed a letter to stop Dominican novices being seduced by Franciscan claims to a higher state of perfection, arguing that the Dominicans' more realistic poverty was better and that their usefulness as preachers was particularly meritorious. John Pecham (<i>d</i>. 1292), on his return to Oxford <i>c</i>.1271, recognized the anti-Franciscan import of the letter (in which Franciscans are never named) and wrote a vicious reply, in which he argued, <i>inter alia</i>, that the Dominicans had no right to be preachers at all. Kilwardby's letter still rankled with him in 1280.<h2>
+<a name="ArchbishopofCanterbury"></a>Archbishop of Canterbury</h2>On 18 July 1270 Archbishop Boniface of Canterbury died. The monks of Christ Church elected their prior, Adam Chillenden, to succeed him, in spite of pressure from Prince Edward to elect Robert Burnell. Chillenden set off to secure confirmation of his election by the Holy See; but the papacy was still vacant and the cardinals at odds with one another. Only on 1 September 1271 was Gregory X elected. On the grounds of royal opposition to his candidacy he persuaded Chillenden to renounce his claim, on condition, apparently, that all the expenses of his trip would be refunded by the new archbishop, a condition that later led to temporary unpleasantness between Kilwardby and the monks. On 11 October 1272 the pope nominated Kilwardby to the see, sending him a personal letter as well as the official appointment. Nicholas Trevet (<i>d</i>. in or after 1334) ascribes to Kilwardby a primary role in the steps taken to ensure an orderly succession after Henry III's death on 16 November 1272, but this is not supported by other chroniclers and is probably untrue, as he had not yet taken possession of his see, whose spiritualities he received on 12 December and the temporalities two days later. He was consecrated by Bishop William Button of Bath and Wells on 26 February 1273, received the pallium on 8 May, and was enthroned in September (17 September according to the Osney chronicle).<br>
+<br>On 16 September 1274 Kilwardby presided at the coronation of Edward I. The archbishop seems to have enjoyed generally cordial relations with the new king, but did not play a major role in the public affairs of the realm. He was a solid upholder of royal authority and in 1276 he tried to mediate between Edward and the prince of Wales, Llywelyn, who apparently trusted Kilwardby's impartiality; but his efforts came to nothing and he finally supported military action against Llywelyn. He became involved again at the pope's behest after Llywelyn's defeat in 1277. The prince's intended bride, Simon de Montfort's daughter, Eleanor, had been captured while trying to join him; in January 1277 the pope asked the king to free her. At the same time he ordered Kilwardby and his suffragans to try to get her brother, Amaury, a papal chaplain, who had been captured with her, transferred to Kilwardby's custody. Kilwardby's personal contribution to the outcome is not known, but early in 1278 Amaury de Montfort was handed over to him and later in the year Eleanor was married to Llywelyn in the king's presence.<h2>
+<a name="Archiepiscopalactivities"></a>Archiepiscopal activities</h2>As archbishop, Kilwardby clearly took his responsibilities seriously. He conducted visitations of his province, as he was required to do; apart from a complaint about the cost of his stay at Osney in 1276, the chronicles give the impression that his visits were conducted with tact and discretion. He also held a number of provincial councils. He was regarded as a strict enforcer of church discipline; until he was told to desist by the pope, he even tried to impose ordination and residence on a nephew of Cardinal Ottobuono, who held a benefice in Kent. It appears to have been his mediation that defused and eventually resolved a dispute between the bishop and citizens of Norwich, and in other cases too, as far as one can judge, he acted firmly and fairly. When the need arose he defended the rights of the church even against royal agents.<br>
+<br>In his new office Kilwardby did not forget the Dominicans. From 1275 onwards he played a key role in the acquisition and exploitation of a new site for them in London; even after his removal to the papal curia he took an active interest in the progress of the new building. He was also probably involved in the founding of a priory in Salisbury.<br>
+<br>Kilwardby also maintained his interest in the University of Oxford. In June 1273 he presided over the inception of his friend Thomas of Hereford (<i>d</i>. 1282) as DTh, at the latter's request; later in the year he supported the king's ban on the bearing of arms by students, expressing the hope that it would secure a better and more attractive environment for the pursuit of learning. He was particularly involved in the college founded by his friend Walter of Merton, who transferred its visitorship from Winchester to Canterbury. Thus it was Kilwardby who confirmed the Merton statutes in 1275 and, during his visitation in 1276, with the support of the founder, he issued some supplementary regulations; after the founder's death, he intervened to protect the college's property. On 18 March 1277, in union with the regent and non-regent masters of the university, he banned the teaching of a series of propositions in grammar, logic, and natural philosophy, on pain of forfeiture of academic position. Since the Oxford condemnation occurred only eleven days after Bishop Tempier's condemnation of 219 propositions current in the arts faculty in Paris, there was presumably some connection between them, though the two lists have little in common; at least they reflect a shared worry over recent developments in philosophy. It is not clear where the initiative came from for the Oxford censure, but it bears the stamp of Kilwardby's own interests. The biggest storm was caused by the censure of propositions related to the doctrine of unicity of form espoused by Thomas Aquinas. The Oxford Dominicans clearly concurred in Kilwardby's censure; in response the general chapter of 1278 sent special visitators to England with authority to punish anyone found guilty of &#145;scandalizing the whole order&#146; by disrespect towards Aquinas's writings. Kilwardby himself received a stern letter from the Dominican archbishop of Corinth, Pierre de Conflans, to which he replied with a lengthy justification of his hostility to unicity of form.<br>
+<br>A persistently troublesome issue was the collection of crusade taxes from the clergy. Kilwardby recognized the pope's right to levy such taxes, and he is reported to have said as much at the Second Council of Lyons in 1274, where he was head of the English delegation. At the same time he was certainly aware that the clergy found them an intolerable financial burden, and he was willing to take action against unfair collecting practices. One of his last major acts as archbishop was to hold a provincial council in January 1278 to arrange a petition against infringements of the local church's rights by one of the pope's local agents.<h2>
+<a name="Cardinalateanddeath"></a>Cardinalate and death</h2>On 12 March Nicholas III (<i>r</i>. 1277&#150;1280) created Kilwardby cardinal-bishop of Porto, issuing the formal bill of nomination on 4 April. The news was well known in England some time before the official letter arrived, leaving his successor, John Pecham, in doubt about the validity of Kilwardby's episcopal acts in the interim. Towards the end of July Kilwardby took solemn leave of his suffragans and soon afterwards set off for Italy. He took with him a large sum of money and other valuables belonging to the diocese, as well as his official registers, possibly because he was hoping to pursue the interests of Canterbury in the curia. Pecham, who was uncertain whether Kilwardby had intended to return the diocese's property or not, was subsequently unable to recover it.<br>
+<br>It has been suggested that Kilwardby's elevation to the cardinalate implies some kind of dissatisfaction with his performance as archbishop. The truth is probably simpler. After the election of Nicholas III there were only six cardinals left, and all seven suburbicarian sees were vacant; the pope was surely just trying to restock the Sacred College with experienced churchmen. Portugal as well as England lost its primate and the Franciscans lost their minister-general, Girolamo da Ascoli, already a seasoned papal diplomat.<br>
+<br>It is not known when Kilwardby reached the curia, but he no doubt spent the winter in Rome, where the curia stayed until early July 1279. The pope then went to Monterosi and Soriano, only reaching Viterbo in mid-September, but Kilwardby went straight to Viterbo, from where he wrote to the king on 11 July. He died there on 11 September and was buried in the Dominican church of Santa Maria in Gradi. The date (&#145;III id. Sept.&#146;, that is, 11 September, not 10 or 12 as found in many modern works) is given in the Canterbury obits and also in the Osney annals (printed wrongly in the <span class="roman">Rolls Series</span> edition). The Dominicans of the Roman province liked to recall the old man's humility in walking around in his plain Dominican mantle (<i>cappa</i>) and travelling with only a small retinue of two servants and two friars. His contemporary, the southern French Dominican historian &Eacute;tienne Salanhac, who probably met Kilwardby during an official visit to Britain in 1261, and perhaps also at the Council of Lyons in 1274, summed him up as <i>scientia perfectus, moribus ornatus</i> (&#145;perfect in knowledge, excellent in character&#146;; Salanhac, 186).<br>
+<br>Simon Tugwell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. M. F. Sommer-Seckendorff, <i>Studies in the life of Robert Kilwardby O.P.</i> (1937) &middot; D. Callus, &#145;The <i>Tabulae super originalia patrum</i> of Robert Kilwardby O.P.&#146;, <i>Studia Mediaevalia R. J. Martin OP</i> (1948), 243&#150;70 &middot; <i>Robert Kilwardby O.P. &#145;De ortu scientiarum&#146;</i>, ed. A. G. Judy, Auctores Britannici Medii Aevi, 4 (1976) &middot; <i>Robert Kilwardby O.P. &#145;On time and imagination&#146;</i>, ed. P. O. Lewry, Auctores Britannici Medii Aevi, 9 (1987) &middot; R. Kilwardby, <i>Quaestiones in librum primum sententiarum</i>, ed. J. Schneider (Munich, 1986) &middot; R. Kilwardby, <i>Quaestiones in librum secundum sententiarum</i>, ed. G. Leibold (Munich, 1992) &middot; R. Kilwardby, <i>Quaestiones in librum tertium sententiarum</i>, 1: <i>Christologie</i>, ed. G. Gr&ouml;ssmann (Munich, 1982) &middot; R. Kilwardby, <i>Quaestiones in librum tertium sententiarum</i>, 2: <i>Tugendlehre</i>, ed. G. Leibold (Munich, 1985) &middot; R. Kilwardby, <i>Quaestiones in librum quartum senteniarum</i>, ed. R. Schenk (Munich, 1993) &middot; T. Kaeppeli, <i>Scriptores ordinis praedicatorum medii aevi</i>, 3 (Rome, 1980), 320&#150;25 &middot; E. Panella, <i>Scriptores ordinis praedicatorum medii aevi</i>, 4 (Rome, 1993), 267&#150;9 &middot; P. O. Lewry, &#145;Robert Kilwardby&#146;, <i>Medieval philosophers</i>, ed. J. Hackett, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15546&amp;istheme=&amp;target=DLitB')">DLitB</a>, 115 (1992), 258&#150;61 &middot; J. Bougerol, &#145;Dossier pour l'&eacute;tude des rapports entre Saint Bonaventure et Aristotle&#146;, <em>Archives d'Histoire Doctrinale et Litt&eacute;raire du Moyen &Acirc;ge</em>, 40 (1973), 135&#150;222, esp. 137 &middot; J.-G. Bougerol, &#145;Saint Thomas D'Aquin et Saint Bonaventure fr&egrave;res amis&#146;, <i>1274</i>: <i>ann&eacute;e charni&egrave;re, mutations et continuit&eacute;s</i> [Lyon, Paris 1974] (Paris, 1977), 741&#150;50 &middot; E. Panella, &#145;Un'introduzione alla filosofia in uno &#147;Studium&#148; dei Frati Predicatori del XIII secolo&#146;, <i>Cultura e istituzioni nell'ordine domenicano</i><i>: studi e testi</i>, Memorie Domenicane, new ser., 12 (1981), 27&#150;126, esp. 74&#150;5 &middot; G. Lambrick and H. Woods, &#145;Excavations on the second site of the Dominican priory, Oxford&#146;, <em>Oxoniensia</em>, 41 (1976), 168&#150;231, esp. 208 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15546&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%201%3A%20Early%20Oxf.%20schools')"><i>Hist. U. Oxf.</i> 1: <i>Early Oxf. schools</i></a>, 419&#150;26, 467&#150;8, 498&#150;9 &middot; F. M. Powicke, <i>The thirteenth century</i> (1953), vol. 4 of <i>The Oxford history of England</i>, ed. G. N. Clarke, 470&#150;71   &middot; F. Godwin, <i>De praesulibus Angliae commentarius</i> (1616), 137&#150;9 &middot; N. Trevet, <i>Annales sex regum Angliae, 1135&#150;1307</i>, ed. T. Hog, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15546&amp;istheme=&amp;target=EHS')">EHS</a>, 6 (1845), 278&#150;9, 283, 291&#150;2, 298, 300, 306 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15546&amp;istheme=&amp;target=Ann.%20mon.')"><i>Ann. mon.</i></a>, 4.256, 270&#150;71, 277, 282 &middot; O. Lewry, &#145;Robertus Anglicus and the Italian Kilwardby&#146;, <i>English logic in Italy in the 14th and 15th centuries</i>, ed. A. Maier&ugrave; (1982), 33&#150;51 &middot; H.-F. Dondaine, &#145;Le <i>De 43 questionibus</i> de Robert Kilwardby&#146;, <em>Archivum Fratrum Praedicatorum</em>, 47 (1977), 5&#150;50 &middot; A. G. Little, <i>The Grey friars in Oxford</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15546&amp;istheme=&amp;target=OHS')">OHS</a>, 20 (1892), 320&#150;35 &middot; <i>Fratris Johannis Pecham Tractatus tres de paupertate</i>, ed. C. L. Kingsford, A. G. Little, and F. Tocco, British Society for Franciscan Studies, 2 (1910), 121&#150;47 [see also Eng. trans. of Kilwardby's letter in S. Tugwell, <i>Early Dominicans</i> (1982), 149&#150;152] &middot; <i>Registrum epistolarum fratris Johannis Peckham, archiepiscopi Cantuariensis</i>, ed. C. T. Martin, 1, Rolls Series, 77 (1882), 48, 118, 227; 2, Rolls Series, 77 (1884), 550 &middot; A. Maierelli, ed., <i>La cronaca di S. Domenico di Perugia</i> (Spoleto, 1995), 27&#150;8 &middot; &Eacute;tienne Salanhac (Stephanus de Salaniaco), <i>De quatuor in quibus Deus Praedicatorum ordinem insignivit</i>, ed. T. Kaeppeli, Monumenta Ordinis Fratrum Praedicatorum Historica, 22 (1949), 58&#150;9, 186 &middot; [H. Wharton], ed., <i>Anglia sacra</i>, 1 (1691), 58 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15546&amp;istheme=&amp;target=BL')">BL</a>, Arundel MS 68, fol. 41<i>r</i> &middot; S. Tugwell, &#145;The date of Kilwardby's death&#146;, <em>Dominican History Newsletter</em>, 6 (1997), 118&#150;20 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15546&amp;istheme=&amp;target=BL')">BL</a>, Cotton MS Tiberius A.ix, fol. 79 &middot; B. M. Reichert, ed., <i>Acta capitulorum generalium ordinis praedicatorum</i>, 3 (Rome, 1898)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Simon Tugwell, &#145;<span class="roman"><span class="headword">Kilwardby,  Robert</span>  (<em>c.</em>1215&#150;1279)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/15546, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Kilwardby (<em>c.</em>1215&#150;1279): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15546 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

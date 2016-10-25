@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56704;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56704-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56704-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56704#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Barber,  John</span>  (1734&#150;1793), <span class="occ">coalmaster and inventor</span>, was born at Greasley Castle Farm, Nottinghamshire, and baptized at Greasley on 22 October 1734, the eldest son of Francis Barber (<i>d</i>. 1782), Nottinghamshire coalmaster, and his wife, Elizabeth Fletcher (<i>d</i>. 1787). His mother's father, John Fletcher (<i>d</i>. 1735), since 1712 of Stainsby House, Smalley, Horsley, Derbyshire, had made his fortune in the nearby collieries of Heanor, Smalley, and Denby and was sheriff of Derbyshire in 1731&#150;2. The arms then granted him unusually show an array of mining equipment. On 13 October 1731 Francis Barber married Elizabeth Fletcher and the coalmining partnership of Barber and Fletcher was born. Francis and his brother-in-law, John Fletcher junior, soon proved aggressive coalmining entrepreneurs. Accused of monopolizing local coal sales by stopping up soughs and drowning competitors' workings, they in &#145;January 1740, offered to supply any persons with coals for 40 years to come at 2<i>s</i>. 6<i>d</i>. to 3<i>s</i>. a ton and to give security for the performance of the same&#146;  (Glover, 2.612).<br>
+<br>From an early age John Barber was trained by his childless uncle, John Fletcher junior, as a coalmaster. When Fletcher died in January 1766 Barber inherited all his estates and took over his colliery business, including coalmines at Camp Hill, Nuneaton, where Barber lived from 1762. In April 1766 he married Martha (<i>bap</i>. 1735, <i>d</i>. 1814), daughter of George Goodwin (<i>d</i>. 1782), of Monyash, Derbyshire. Barber proved as entrepreneurial as Fletcher and in 1766 took out his first patent, for raising water, for instance from mines or ships. This showed a desire to break away from the ponderous beam of the steam engine to achieve more uniform motion via a water turbine. Another clause in this patent specified the application of the crank to the steam engine, an issue which became significant when the patent lapsed in 1780. James Pickard of Birmingham immediately took out a new patent, famously blocking James Watt's ability to use any such device.<br>
+<br>In 1769 the Swede Johann Jacob Ferber (1743&#150;1790) visited Derbyshire, reporting that one of the Newcomen steam engines at Stainsby coalmine &#145;was improved by the owner Mr Barber's specifications &hellip; in that the operation of steam from the &hellip; boiler, and the introduction of cold water, were sideways or horizontal, not &hellip; vertical&#146;  (Ferber, 40). Barber seems to have been one of the first to try to relieve the boiler and engine-house from vibrations caused when a large cylinder was slung from a beam above the boiler. That same year Barber and his father-in-law leased land to erect water-wheels to de-water lead mines at Matlock. Between 1771 and 1776 Barber worked fifteen mines here &#145;in some of which he expended very considerable sums &hellip; without having the good fortune to re-imburse himself&#146; because of &#145;ill luck and ruinous expenses occasioned &hellip; by his own visionary schemes&#146;  (BL, Add. MS 6676, fols. 235&#150;244).<br>
+<br>In 1773 Barber's second patent was for a &#145;machine &hellip; to purify fossil-coal and extract metals from their ores and collect their particles when volatilised&#146;. This, beautifully illustrated, also involved the recovery of that valuable by-product coal gas. In the 1770s Barber was a commissioner of the act enabling construction of the Erewash Canal, built to transport Nottinghamshire coal. In 1776 came his third patent, for machinery for draining mines, propelling vessels, and so on, via a reaction turbine mounted on top of a haystack boiler geared to a beam for pumping.<br>
+<br>But on 9 December 1780 a commission of bankruptcy was issued against Barber. From March 1782 notices of the sales of his estates and mines filled the regional newspapers. The death of his aged father in 1782 was noticed in the same issue that announced the start of these sales. His assignees sold Stainsby House in 1783, and Barber now became an itinerant. The effect of his bankruptcy on his family can be gauged by the shilling he received from his mother's estate in 1788. Some of the collieries held in trust to him from her father had been quickly reassigned to her by December 1780, when Barber was living at Weddington Hall, Nuneaton. Here he planned a branch line from the Coventry Canal to his Nuneaton collieries.<br>
+<br>By March 1789 Barber had moved to Drayton Hall, Leicestershire. In July 1790 he announced that he could now repay his debts. His inventive activities soon resumed. His most remarkable patent, filed from Attleborough House, Nuneaton, to which he had moved by October 1791, was to obtain and apply motive power. This, his finest achievement, was based on much careful experimentation and his earlier work on coal gas. No mere paper exercise, it gave the first suggestion of any motor driven by explosion from inflammable gas (from coal, wood, or other materials) in air. It used the same methods later used by almost all who experimented with the internal combustion turbine. Barber here also predicted the pure jet engine which was to follow 140 years later. It has rightly been called &#145;world historic&#146;  (Bruce, 506).<br>
+<br>Barber's final patent of 1792 concerned the smelting and purification of metallic ores. His will dated 18 February 1793 left all his patent rights, but less than &pound;600, to his widow. He died on 17 June 1793 at Attleborough and was buried at Monyash church. The <span class="italic">Gentleman's Magazine</span>, hinting at the depths of the papyrophobic tragedy which had overtaken Barber's inventiveness, called him &#145;a man of universal knowledge&#146;, since &#145;by his death the world lost a sound philosopher, an eminent mineralogist, and a good mechanic who expended an ample fortune in benefiting mankind&#146;  (<span class="italic">GM</span>, 1st ser., 63/2, 1793, 960). His probate account showed that his debts still amounted in 1796 to nearly &pound;5000  (Lichfield RO, B/C/5/1796: 8).<br>
+<br>John's younger brothers, Robert (1737&#150;1820) and Thomas (1738&#150;1818), were by 1779 operating a worsted spinning mill in Derby then employing twenty hands. Their material was sent to Yorkshire for carpet manufacture. They took out seven textile-weaving patents, Robert between 1774 and 1805 and Thomas between 1774 and 1783, with many of which John must have been involved. Robert is described as another &#145;prolific inventor, far ahead of his time&#146;  (Reisfeld, 57). A Nottingham historian later reported that, like his elder brother, he had &#145;spent a fortune of &pound;50,000 in mechanism, and in permitting knaves to impose on his credulity&#146;  (Blackner, 229). This was because his last 1805 patent had been much infringed, as soon as it was adopted, to supply Admiralty trousers and jackets. In September 1809 Robert was declared bankrupt, in a major bankruptcy enlarged in October. His problems apparently stemmed from lawsuits over his last patent. All his frames and patent rights were sold to a rival weaver, John Passman, in May 1810. Thomas became, in 1787, a founding partner of the later important Nottinghamshire and Yorkshire colliery company, Barber, Walker &amp; Co., which survived until nationalization of the coal industry in 1947, having earlier provided much crucial inspiration for D. H. Lawrence's novels.<br>
+<br>H. S. Torrens </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. K. Bruce, &#145;John Barber and the gas turbine [2 pts]&#146;, <em>The Engineer</em> (29 Dec 1944), 506&#150;8; (8 March 1946), 216&#150;17 &middot; H. S. Torrens, &#145;Early Warwickshire patent history&#146;, <em>Warwickshire History</em>, 6 (1984), 10&#150;20 &middot; G. C. M. Whitelock, <i>250 years in coal</i><i>: the history of Barber, Walker &amp; Co.</i> [n.d., 1955?] [privately published, Derby] &middot; D. Lysons and S. Lysons, <i>Magna Britannia</i><i>: being a concise topographical account of the several counties of Great Britain</i>, 5 (1817) &middot; J. J. Ferber, <i>Versuch einer Oryktographie von Derbyshire in England</i> (1776) &middot; pedigree of Barber and Fletcher families, c.1895, R. Barber and Sons, West Bridgford, Nottinghamshire &middot; Barber patents, 1766&#150;1805 &middot; bankruptcies, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56704&amp;istheme=&amp;target=LondG')"><i>LondG</i></a> (5&#150;9 Dec 1780), 3; (5 Sept 1809); as reported in <em>The Times</em> (7 Sept 1809), 4a &middot; A. R. Griffin and C. P. Griffin, &#145;The role of coal owners' associations in the east midlands in the nineteenth century&#146;, <em>Renaissance and Modern Studies</em>, 17 (1973), 95&#150;121 &middot; D. Warriner and others, &#145;Ringing rake and Masson soughs&#146;, <em>Bulletin of the Peak District Mines Historical Society</em>, 8/2 (1981), 92&#150;3 &middot; R. S. Fitton, <i>The Arkwrights</i><i>: spinners of fortune</i> (1989) &middot; C. L. Cummins jun., <i>Internal fire</i> (1989) &middot; private information (2004) [R. Flindall] &middot; <em>Leicester and Nottingham Journal</em> (22 June 1782) &middot; S. Glover, <i>History of the county of Derbyshire</i>, 2 vols. (1813) &middot; parish register, Greasley, 22 Oct 1734, Notts. Arch. [baptism] &middot; marriage allegation, 22 April 1766, Lichfield RO &middot; <em>Coventry Mercury</em> (30 Sept 1793) &middot; parish register, Monyash, Derbyshire (entered after 1 Dec 1793) [burial] &middot; Adam Woolley MSS, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56704&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 6669&#150;6670, 6676 &middot; A. Reisfeld, <i>The history of warp knit arts and trades</i> (New York, 1999) &middot; J. Blackner, <i>The history of Nottingham</i> (1815) &middot; will, Lichfield RO, B/C/11&#150;1793<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56704&amp;istheme=&amp;target=BL')">BL</a>, Adam Woolley MSS, Add. MSS 6669&#150;6670, 6676<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56704&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;600; &#145;all his patent rights&#146; and estate to widow: will, 23 Sept 1793, Lichfield RO, B/C/11&#150;1793<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">H. S. Torrens, &#145;<span class="roman"><span class="headword">Barber,  John</span>  (1734&#150;1793)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/56704, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Barber (1734&#150;1793): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56704 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

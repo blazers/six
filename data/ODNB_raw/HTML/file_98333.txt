@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 98333;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/98/98333-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/98/98333-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=98333#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Westkarre,  William</span>  (<em>d.</em> 1486), <span class="occ">Augustinian canon and suffragan bishop</span>, is of unknown origins, and nothing is known of his early life before February 1443, when&#151;with the degree of doctor of theology&#151;he was the first recorded head, or <i>prior studentium</i>, of St Mary's College, the house for Augustinians studying in Oxford that had been founded in 1435. During 1443 he also acted as commissary to the chancellor of the university. He was commissary again in May 1446, having also been <i>cancellarius natus</i> (acting chancellor when the office was vacant) in February 1444 and April 1445. He was reported, too, to have been an excellent preacher.<br>
+<br>Westkarre was also a canon of the London priory of Holy Trinity, Aldgate, and on 23 May 1445 royal assent was given to his election as prior. However, assent had already been given, on 21 April, to another candidate, Thomas Pomeroy, and controversy ensued. On 21 June a commission was appointed to keep the goods of the priory safe until the election was settled. This happened on 19 February 1446, when Pomeroy was confirmed and Westkarre was instructed to return the temporalities of the priory.<br>
+<br>For the next five years Westkarre's whereabouts are unknown, but by 1451 he was a canon of Burscough, Lancashire. On 13 July that year the pope instructed the archbishop of York and the archdeacons of Hereford and Colchester to grant him the next available benefice, and dispensed Westkarre to hold it for life together with his canonry at Burscough. About the same time he obtained significant preferment in the south of England, when a commission appointed by Bishop Waynflete of Winchester declared that William Marlynburgh, prior-elect of Mottisfont, Hampshire, had insufficient title to his post, and nominated Westkarre instead.<br>
+<br>Success bred success. Waynflete became chancellor of the realm on 11 October 1456, and probably needed assistance in the running of his diocese. On 14 December the University of Oxford wrote to the pope, praising Westkarre's virtues and accomplishments, and it may well have been at the same time that a letter in his favour was sent to the pope in the name of Henry VI, whose agent in Rome was instructed to present it and to be diligent &#145;unto theffectuell conclusion of our desire&#146;  (<span class="italic">Letters</span>, ed. Monro, 66). If the purpose of these letters was to secure Westkarre's elevation, they achieved their end. On 29 April 1457 Pope Calixtus III granted a faculty for his consecration as bishop of Sidon, <i>in partibus infidelium</i>, and on 1 May issued a licence empowering him to exercise episcopal powers outside his nominal diocese. On 6 May the pope confirmed that the new bishop could retain the priory of Mottisfont, together with two other benefices, one secular and one regular. This was extended on 28 June to two canonries and two prebends, though not in cathedral churches.<br>
+<br>The first additional benefice that Westkarre held was the rectory of Cobham, Surrey, to which he was admitted on 9 January 1460. He had resigned this by December 1465, having become rector of St Martin Ludgate, London, which he held until 1468. On 22 April that year he was installed as rector of St Mary in the Marsh, Romney, Kent, a benefice in the gift of the archbishop of Canterbury, which he held until 1473. It is perhaps no coincidence that Westkarre was in Canterbury in March and April 1468, conducting ordinations, and that on Easter day he celebrated mass at the cathedral's high altar because the prior of Christ Church was unwell. He was also for several periods rector of All Saints', Southampton. At the time of his death in 1486 he was rector of Chilbolton, Hampshire.<br>
+<br>From 1457 until his death Westkarre principally exercised his episcopal powers as suffragan to the bishop of Winchester, as was doubtless intended. But like many suffragans he was active in several other dioceses as well. In 1459 he consecrated burial land for the bishop of Bath and Wells, and in 1463 he consecrated chrism at Canterbury. In 1473 he acted as a commissary of the bishop of Chichester in confirming the grant of Sele Priory, a small alien house, to Magdalen College, Oxford, founded by Waynflete fifteen years earlier. He served as suffragan to the archbishop of Canterbury again in 1480, when he was also the bishop of Worcester's suffragan. From 1471 he was living in London, hearing appeals to the apostolic see and various other cases, mostly marital disputes.<br>
+<br>Westkarre was still prior of Mottisfont when he died in 1486, probably on 27 June, the day on which his successor as prior, Henry Rowe, ordered that Westkarre should be commemorated by an annual distribution of food to the poor. Westkarre was buried in Winchester Cathedral. On 5 July 1797 a slab measuring 12 feet by 5 feet was lifted from in front of the so-called Holy Hole, a doorway in the retrochoir's feretory screen. Legend would have it that this was the grave of St Swithin, but the complete skeleton that was found inside it was wearing a monk's cowl and leather boots and had been interred with a crozier and mitre. These could be Westkarre's remains.<br>
+<br>Michael Riordan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 3.2021 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=CEPR%20letters')"><i>CEPR letters</i></a>, 1447&#150;84 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=CPR')"><i>CPR</i></a>, <i>1441&#150;6</i>H. E. Salter, ed., <i>Registrum cancellarii Oxoniensis, 1434&#150;1469</i>, 1, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=OHS')">OHS</a>, 93 (1932) &middot; W. Stubbs, <i>Registrum sacrum Anglicanum</i> (1858) &middot; Hampshire RO, MS 44M69/C/58&#150;9 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Hampshire and the Isle of Wight</i>, vol. 2 &middot; H. C. Maxwell-Lyte and M. C. B. Dawes, eds., <i>The register of Thomas Bekynton, bishop of Bath and Wells, 1443&#150;1465</i>, 1, Somerset RS, 49 (1934) &middot; H. Anstey, ed., <i>Epistolae academicae Oxon.</i>, 1, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=OHS')">OHS</a>, 35 (1898) &middot; S. J. Brown, &#145;Friendly societies and their symbols and rituals&#146;, <em><i>Group for Regional Studies in Museums</i></em>, 10 (Oct 1982) &middot; F. R. H. Du Boulay, ed., <i>Registrum Thome Bourgchier</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=CYS')">CYS</a>, 54 (1957) &middot; M. S. Giuseppi and others, eds., <i>Chertsey cartularies</i>, Surrey RS, 12 (1915&#150;63), vol. 1 &middot; J. Milner, <i>The history civil and ecclesiastical, and survey of the antiquities of Winchester</i>, 2 vols. (1798) &middot; J. Vaughan, <i>Winchester Cathedral</i><i>: its monuments and memorials</i> (1919) &middot; W. G. Searle, ed., <i>Christ Church, Canterbury</i>, 1: <i>The chronicle of John Stone, monk of Christ Church</i>, Cambridge Antiquarian Society, 34 (1902) &middot; D. M. Smith, ed., <i>The heads of religious houses</i><i>: England and Wales</i>, 3: <i>1377&#150;1540</i> (2008)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98333&amp;istheme=&amp;target=Hants.%20RO')">Hants. RO</a>, 44M69/C/58&#150;9<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael Riordan, &#145;<span class="roman"><span class="headword">Westkarre,  William</span>  (<em>d.</em> 1486)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, May 2010; online edn, May 2011 [http://www.oxforddnb.com/view/article/98333, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Westkarre (<em>d.</em> 1486): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/98333 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/98333/2010-05"> [Previous version of this biography available here: May 2010]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

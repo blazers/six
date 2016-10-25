@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13222;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13222-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13222-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13222#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hiffernan,  Paul</span>  (1719?&#150;1777), <span class="occ">writer and playwright</span>, is said to have been born in Dublin, although he intentionally obscured the details of his life. He attended a grammar school, a Dublin seminary to prepare him for Roman Catholic ordination, and finally a college in the south of France, where ultimately he took a degree in medicine from the University of Montpellier. Hiffernan returned to Dublin before 1748, and was known thereafter as &#145;the doctor&#146; (and as Gallows Paul). The quintessential new author by profession, gregarious and entertaining, Hiffernan scrounged his dinners and hawked his works around his friends but never divulged where he lived; his letters were directed to coffee houses. Two works, both published in Dublin in 1739, <span class="italic">The Enthusiasm. A Poem. With a Character of Dr. Jonathan Swift</span> and <span class="italic">The Poet, a Poem</span>, both by &#145;Mr. P. H.&#146;, have been attributed to Hiffernan.<br>
+<br>In Ireland Hiffernan attempted unsuccessfully to practise medicine, but being a notorious drunkard, he instead turned to literature. He was engaged by government to attack the popular opposition candidate Charles Lucas in a periodical, <span class="italic">The Tickler</span>, that first appeared on 18 February 1748 and lasted for seven influential numbers. In it Hiffernan exhibited a characteristic bent toward scurrility and abuse. A counterattack, <span class="italic">The Marrow of the Tickler's Works</span>, appeared in 1748, as did <span class="italic">A Faithful Narrative of the Barbarous and Bloody Murder of P&#151;l H&#151;Ff&#151;n</span>. The pamphlet <span class="italic">A Letter of Thanks to the Barber</span> by &#145;Mr. Francis Liberty: A Freeman and Citizen of Dublin&#146;, published in March 1748, was attributed in annotation to the Tickler. Hiffernan's ambitious <span class="italic">Reflections on the Structure, and Passions of Man</span> (1748), in which he also considered the transitoriness of life, was published without enhancing the author's reputation.<br>
+<br>Hiffernan attempted to achieve success in the theatre and in 1750 his comedy <span class="italic">The Self-Enamour'd, or, The Ladies Doctor</span> was acted at the City Theatre, Capel Street, and published in Dublin. In Dublin in 1752 he published his <span class="italic">Remarks on an Ode on the Death of his Royal Highness Frederick, Prince of Wales</span>: the ode the work of William Dunkin, the remarks scurrilous.<br>
+<br>But by the end of 1753, &#145;in some danger of his life&#146; as he reported  (<span class="italic">European Magazine</span>, February 1794, 112), Hiffernan moved to England, and on 21 January commenced a new periodical, <span class="italic">The Tuner</span>, in which he savaged a number of new tragedies. He also began work as a translator. He published his <span class="italic">Miscellanies in Prose and Verse</span> (1755), but fame continued to be elusive. Now a pamphleteer and paragraph writer, Hiffernan's formal publications slowed but he continued to entertain and keep the friends on whom he sponged through dining, subscription collecting, hawking his books, and occasional blackmail. He wrote only when reduced by absolute necessity.<br>
+<br>On 24 April 1756 Hiffernan's two-act farce, <span class="italic">The Maiden Whim, or, The Critical Moment</span>, played once (the prompter's review: &#145;O Sad!&#146;) for his benefit, at Drury Lane. Fearing critical reprisals, he published in the <span class="italic">Daily Advertiser</span> on the day of the performance the egregious lie that he had never hurt a playwright by savaging a play during its run. In 1761 Hiffernan published in honour of the new queen <span class="italic">The Wishes of a Free People: a Dramatic Poem</span>, and produced a farce, &#145;The New Hippocrates&#146;, acted just once at Drury Lane on 1 April (prompter: &#145;wretched, but went off quietly&#146;); it went unpublished and unappreciated. The bookseller Tom Davies credits Hiffernan with the attack on Bute, <span class="italic">Scotchman be Humble</span> (1763). In 1764 he published <span class="italic">The Earl of Warwick</span>, &#145;a very indifferent translation of Monsieur de la Harpe's play&#146;  (Genest, 4.457&#150;8). The play was never produced, but when Thomas Francklin's translation of the same play had a triumphant run at Drury Lane in 1766, Hiffernan responded with violence, issuing a new edition (1767) of his play in which he criticized the taste of the managers. Hiffernan then went on to attack Garrick in his <span class="italic">A Letter from the Rope-Dancing Monkey in the Hay-Market to the Acting Monkey of Drury Lane</span>. Garrick capitulated, produced <span class="italic">The National Prejudice</span> for Hiffernan on 6 April 1768 (one performance), and helped him achieve a splendid subscription for his <span class="italic">Dramatic Genius, in Five Books</span> (1770), which apotheosized Garrick. In 1770 Hiffernan engaged in a polemical war with Samuel Foote, who refused to employ him at the Haymarket Theatre as playwright and was so harassed for subscriptions by Hiffernan that Foote dubbed him a common thief. In retaliation Hiffernan published a critique, <span class="italic">Foote's Prologue Detected</span> (1770), and prepared a letter inciting the public to tear down his theatre. Garrick successfully interceded. In 1772 during Garrick's polemical war with William Kenrick, Hiffernan provided on Garrick's behalf manifold newspaper paragraphs, verses, and pamphlets (most notably <span class="italic">The Recantation and Confession of Doctor Kenrick, LLD</span>). Hiffernan also at various times coached candidates for the stage and attempted public lectures in anatomy. In 1774 <span class="italic">The Heroine of the Cave</span>, a tragedy left at his death by Henry Jones and completed by Hiffernan, opened at Drury Lane on 19 March.<br>
+<br>Thereafter, suffering from the liver disease that killed him, Hiffernan survived on the charity of Foote, Garrick, and others. He died on 12 June 1777 at his lodgings, variously thought to be a small court off St Martin's Lane or near Westminster Bridge. &#145;His education was certainly liberal, and his knowledge of letters extensive&#146;, reported the <span class="italic">Freeman's Journal</span> on 24 June, but his reviews were invariably contemptuous and it was<blockquote>a fact easily ascertained, that he never distinguished himself as a Writer; unless, indeed, a peculiar quaintness of phraseology, a remarkably vulgar train of thinking, and as remarkably vulgar a mode of expressing his thoughts, can be allowed to be the proper pretensions to distinction among Authors. (<span class="italic">Westminster Magazine</span>)</blockquote>
+<br>
+<br>Betty Rizzo </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>&#145;Table talk&#146;, <em>European Magazine</em> (Feb 1794), 110&#150;14 &middot; &#145;Table talk&#146;, <em>European Magazine</em> (March 1794), 179&#150;84 &middot; <em>Westminster Magazine</em> (June 1777), 286&#150;7 &middot; T. Davies, <i>Memoirs of the life of David Garrick</i>, 2 vols. (1808), 1.283&#150;92 &middot; T. P. Kirkpatrick, &#145;A note on the life and writings of Paul Hiffernan&#146;, <em>Irish Book Lover</em>, 19 (1931), 11&#150;21 &middot; R. R. Madden, <i>The history of Irish periodical literature</i>, 2 vols. (1867), 1.315&#150;30 &middot; <i>The private correspondence of David Garrick</i>, ed. J. Boaden, 2 vols. (1831&#150;2), 1.390&#150;92; 2.353 &middot; <i>The letters of David Garrick</i>, ed. D. M. Little and G. M. Kahrl, 2 (1963), 692, 703&#150;4, 791&#150;2, 859 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13222&amp;istheme=&amp;target=Genest%2C%20Eng.%20stage')">Genest, <i>Eng. stage</i></a>, 4.457&#150;8, 566, 611; 5.168, 405&#150;7 &middot; <em>Morning Chronicle</em> (July 1772) &middot; <em>Monthly Review</em> (May 1759), 463 &middot; <em>Monthly Review</em> (Nov 1761), 396 &middot; <em>Monthly Review</em> (March 1764), 240 &middot; <em>Monthly Review</em> (Jan 1767), 67&#150;8 &middot; D. E. Baker, <i>Biographia dramatica, or, A companion to the playhouse</i>, rev. I. Reed, new edn, rev. S. Jones, 3 vols. in 4 (1812), 1.333; 2.183, 300, 361; 3.72&#150;3, 78, 145&#150;6, 413 &middot; S. Trefman, <i>Sam. Foote, comedian</i> (New York, 1971), 190&#150;91, 224 &middot; G. W. Stone and G. M. Kahrl, <i>David Garrick, a critical biography</i> (Illinois, 1979), 586 &middot; <em>Freeman's Journal</em> (24 June 1777) &middot; A. Chalmers, ed., <i>The general biographical dictionary</i>, new edn, 17 (1814), 462<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Betty Rizzo, &#145;<span class="roman"><span class="headword">Hiffernan,  Paul</span>  (1719?&#150;1777)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13222, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Paul Hiffernan (1719?&#150;1777): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13222 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

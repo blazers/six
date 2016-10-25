@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27615;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27615-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27615-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27615#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Townsend,  Richard</span>  (1821&#150;1884), <span class="occ">mathematician</span>, was born on 3 April 1821 at Baltimore, co. Cork, Ireland, the eldest son of Thomas Townsend (<i>d</i>. 1848) of Smithville, a commodore in the Royal Navy, and his wife, Helena, daughter of John Freke of Baltimore. After attending local schools in Castletownsend and Skibbereen, he entered Trinity College, Dublin, on 13 October 1837; he graduated BA in the spring of 1842 as first senior moderator (equivalent to Cambridge wrangler) in mathematics and physics. His entire career was spent as an academic at Dublin University where he gained gradual promotion. He prepared for the college fellowship under the professors of mathematics, James MacCullagh (until 1843) and Charles Graves (from 1843). Success in the highly competitive fellowship examination led to his election as a junior fellow in May 1845 and appointment as college tutor in October 1847. In the spring of 1852 he received the degree of MA and on 25 June 1870 he was appointed professor of natural philosophy, after he had acted as assistant from October 1862 and examiner in mathematics and mathematical physics. Having advanced through the ranks of the junior fellows, he finally became a senior fellow with a seat on the board of the college in the last year of his life. On 7 June 1866 he was elected a fellow of the Royal Society. He was married to his first cousin, Mary Jane Barrett (<i>d</i>. 1881). They had no children.<br>
+<br>In the <span class="italic">Cambridge and Dublin Mathematical Journal</span> (nine volumes, 1846&#150;54) Townsend published a series of articles, mainly on geometrical topics reflecting the research interests of the Dublin mathematical school that flourished under James MacCullagh. His greatest success, however, was as a teacher and he enjoyed popularity as a tutor, having up to two hundred pupils at times. His most important publication was a textbook, <span class="italic">Chapters on the Modern Geometry of the Point, Line and Circle</span> (2 vols., 1863&#150;5), based on his lectures. This work achieved considerable, even international, recognition, providing, for example, the first elementary treatment of inversive geometry and giving an exposition of the theory of inverse points, figures, and methods of geometrical transformation. A further work entitled &#145;Lectures on attractions&#146; was left unfinished at his death.<br>
+<br>Townsend (who was ordained deacon at Cork on 25 May 1860) was a benefactor of the protestant episcopal Church of Ireland. When Gladstone's <span class="roman">Irish Church Act</span> of 1869 (effective 1 January 1871) disestablished and partly disendowed the church, Townsend's native parish in west Cork was perceived as a beleaguered outpost in a depressed region where more than 90 per cent of the population was Roman Catholic. He used his influence among college friends and former pupils to raise a considerable sum (perhaps &pound;2500) as the nucleus of a permanent endowment of the parish. Having suffered from heart disease (cardiac dropsy) he died on 16 October 1884 at his house, 54 Upper Leeson Street, Dublin, and was buried at Mount Jerome cemetery. A mathematical exhibition was founded in his memory at the college. In an obituary a former pupil, J. P. Mahaffy, while praising the altruism of the deceased, hinted also at imperfections and psychological curiosities or idiosyncrasies in his character.<br>
+<br>James G. O'Hara </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27615&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27615&amp;istheme=&amp;target=Burtchaell%20%26%20Sadleir%2C%20Alum.%20Dubl.')">Burtchaell &amp; Sadleir, <i>Alum. Dubl.</i></a> &middot; <em>Dublin University Calendar</em> &middot; J. P. Mahaffy, <em>The Athenaeum</em> (25 Oct 1884), 532 &middot; &#145;Royal commission on &hellip; the University of Dublin, and of Trinity College&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27615&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1852&#150;3), vol. 45, no. 1637 &middot; <em>The Times</em> (18 Oct 1884), 5 &middot; T. W. Moody and others, eds., <i>A new history of Ireland</i>, 10 vols. (1976&#150;96), vols. 8&#150;9 &middot; A. J. McConnell, &#145;The Dublin mathematical school in the first half of the nineteenth century&#146;, <em>Proceedings of the Royal Irish Academy</em>, 50A (1944&#150;5), 75&#150;88 &middot; J. G. O'Hara, &#145;Humphrey Lloyd, 1800&#150;1881, and the Dublin mathematical school of the nineteenth century&#146;, PhD diss., University of Manchester Institute of Science and Technology, 1979<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27615&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Lord Kelvin<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> S. Purser, oils (after photograph), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27615&amp;istheme=&amp;target=TCD')">TCD</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;7057 9<i>s</i>. 11<i>d</i>.: probate, 21 Nov 1884, <i>CGPLA Ire.</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James G. O'Hara, &#145;<span class="roman"><span class="headword">Townsend,  Richard</span>  (1821&#150;1884)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2005 [http://www.oxforddnb.com/view/article/27615, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Richard Townsend (1821&#150;1884): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27615 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/27615/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

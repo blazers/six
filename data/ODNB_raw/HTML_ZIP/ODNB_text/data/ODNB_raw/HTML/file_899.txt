@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 899;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/899-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/899-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=899#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Augustine</span> <span class="st"> [St Augustine]</span>  (<em>d.</em> 604), <span class="occ">missionary and archbishop of Canterbury</span>, was the leader of the first official Christian mission to the Anglo-Saxons. He was sent by Pope Gregory the Great, arrived in Kent in 597, and became the first archbishop of Canterbury. Nothing is known of his parentage or antecedents, beyond that he was a monk, presumably of Gregory's own foundation of St Andrew on the Coelian Hill in Rome, before being appointed to head the group of monks sent from Rome in 596. Gregory's missionary purposes towards these Germanic pagans may not be unconnected to the missionary challenge posed by the Lombards who had overrun much of Italy in his time. As to the use of monks, there were many precedents for monks as missionaries and Gregory believed that the contemplative life was good preparation for a fruitful and active career. When the party lost heart in the winter of 596&#150;7, he formally appointed Augustine their abbot and sent them a firm letter to go on. Their intended journey may be traced by Gregory's letters of recommendation to the bishops of Marseilles, Vienne, and Autun (among others), and of Tours, on the Loire. Tours had the shrine of St Martin, a saint greatly venerated by Gregory. Martin was a monk and bishop, who had dealt boldly with secular authorities and had retreated often to renew himself spiritually in prayer and meditation, a model of how Gregory would advise Augustine and his followers to live in Kent. They doubtless went to Tours to pray in 596&#150;7.<br>
+<br>&AElig;thelberht, king of Kent, received Augustine and his party of forty or so in friendly manner. It is said that his reason for receiving them out of doors was to prevent their casting magical spells on him. As he must have been married to his Christian Frankish wife, Bertha, for over eight years by then, the story, if true, seems to have more to do with public saving of face than with any real fear of Christian magic. There is strong reason to believe that &AElig;thelberht was not converted immediately in 597, but equally strong reason to think that he had been converted by 601. Bede, from whom, together with letters of Gregory, comes all that is to be known about Augustine, tells in his <span class="italic">Historia ecclesiastica</span> (completed in 731) that Augustine brought with him Frankish interpreters, and modern historians have shown that Frankish involvement in the mission was altogether far-reaching. Where and when was Augustine consecrated bishop? It has been argued that it must have been on the journey to Britain (and at Autun, rather than at Arles as Bede would have it), for Gregory first refers to Augustine as a bishop in a letter of 4 September 597 addressed to Syagrius, bishop of Autun, which implies that he was consecrated at latest in July. But the arguments for a consecration before Augustine's arrival in Kent (probably spring 597) are weak. Gregory clearly intended the mission to be established first. The arguments for Autun as the place, however, are telling. In any case Bede must be mistaken in naming Aetherius, bishop of Arles, as consecrator, for the name is mixed up with that of a bishop of Lyons. Whatever the place, a return to Gaul <i>after</i> his arrival in Kent would have enabled Augustine, in consultation with &AElig;thelberht, to choose a consecrator well away from Bertha's region (the kingdom of her father, Charibert I, was based on Paris), hence implying no threat of political subordination to Franks.<br>
+<br>Although Canterbury, where &AElig;thelberht settled the mission from the start, could boast little civic or economic continuity with the Roman city, archaeology has shown earlier Germanic settlement, and it was the administrative centre of &AElig;thelberht's kingdom. Moreover, whatever the previous lack of ecclesiastical organization, there were at least two Christian churches (or buildings used as churches) surviving from earlier: St Martin's, where the mission first held its services; and another Roman church (or other building) which Augustine perhaps rebuilt (<i>recuperavit</i>), dedicated to the Saviour (that is, Christ Church), and made his cathedral. Since Gregory attached importance to Augustine and his monks continuing to lead a life of monastic community, it was probably for this reason that just to the east of the city the monastery of St Peter and St Paul (later St Augustine's) was also established. Bede, following Canterbury traditions, gives a glowing testimony to the apostolic simplicity of life led by Augustine and his companions, their preaching and &#145;unceasing prayer&#146;, in these early days. A school was established and the Roman chants were introduced. Augustine by no means neglected the material consolidation of his churches. The beginning of &AElig;thelberht's law code, drawn up under the influence of the Roman mission, concerns compensation for the violation of church property; and a strong case has been made that Augustine played a part, though not the only part, in introducing charters to England, with the obvious motive of giving legal protection to the grants made to the church by &AElig;thelberht and others.<br>
+<br>Augustine was anxious to lay his pastorate on a sound legal basis and elicited a series of answers from Gregory to questions he posed concerning church discipline, such as punishment for theft of church property, forbidden degrees of kinship in marriage, and proper dealings with bishops in Britain and Gaul (he was given authority over all bishops in Britain). Suso Brechter branded the text of these <span class="italic">Responsiones</span> a forgery made in Bede's time by the Canterbury priest, Nothhelm, but Paul Meyvaert has proved that their manuscript tradition cannot support that view and that they are probably genuine. Bede gave the text, which also found its way into several later canon law collections. Gregory outlined his plan for the English church when he sent the pallium to Augustine. There were to be metropolitan bishops at London and York with twelve suffragans each. Augustine was clearly intended to be archbishop at London, but in his time this scheme got no further than the appointments of Mellitus and Justus to London and Rochester respectively, and the metropolitan see always remained at Canterbury. Mellitus was sent from Rome in 601, with other Romans, to reinforce the mission, with many relics, church ornaments, and books, and with advice that the methods of conversion should be gentle and gradualist.<br>
+<br>What kind of person was Augustine? It is well-nigh impossible to answer this question. It is clear that the miraculous element played no small part in his missionary methods. Historians have sometimes suggested that Gregory's letter to Augustine, exhorting him not to glory in his miracles but always to judge his inner self strictly, casts Augustine in a vainglorious light; but Gregory never lost an opportunity to convey the lesson of this letter as a general principle, so that one cannot read into it an adverse reflection on Augustine, virtually none of whose miracles actually survive on historical record. Again, Bede's celebrated account of Augustine's meeting near the River Severn with the British bishops (those from Wales and the British west) to bring them under his authority, when they took his failure to rise and greet them as a sign of pride, is difficult to interpret, for it derives from a hostile, seemingly non-Canterbury, source. The best that can be said is that in matters such as the balance of action and contemplation, right attitude to miracles, and devotion to teaching, the ideals of his mission were those of Pope Gregory the Great. This is likely to be more than the mere retrospective perception of Bede and his Canterbury informants, considering the close relation of the Roman monks to Gregory, and Gregory's &#145;hands on&#146; attitude to the enterprise.<br>
+<br>Augustine died on 26 May 604 (the same year as Gregory) and was buried first outside the church of St Peter and St Paul, and then, after its completion, in its north chapel. After the Norman conquest his cult was newly promoted. The initial stimulus to this was the primacy dispute between Canterbury and York, but in the translation (1091) of St Augustine's remains to a new shrine in the central apse of the east end of what had now become St Augustine's Abbey, Abbot Wido seems also to have been making a point to enhance the prestige of his abbey within the context of rivalry between it and the cathedral priory of Christ Church, Canterbury.<br>
+<br>Henry Mayr-Harting </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=899&amp;istheme=&amp;target=Bede%2C%20Hist.%20eccl.')">Bede, <i>Hist. eccl.</i></a>, 1.23&#150;2.3 &middot; M. Deanesly, <i>Augustine of Canterbury</i> (1964) &middot; N. Brooks, <i>The early history of the church of Canterbury</i><i>: Christ Church from 597 to 1066</i> (1984) &middot; H. Mayr-Harting, <i>The coming of Christianity to Anglo-Saxon England</i> (1972) &middot; P. Chaplais, &#145;Who introduced charters into England? The case for Augustine&#146;, <em>Journal of the Society of Archivists</em>, 3 (1965&#150;9), 526&#150;42 &middot; P. Wormald, <i>Bede and the conversion of England</i><i>: the charter evidence</i> (1984?) &middot; S. Brechter, <i>Die Quellen zur Angelsachsenmission Gregors des Grossen</i> (1941) &middot; R. A. Markus, &#145;The chronology of the Gregorian mission to England: Bede's narrative and Gregory's correspondence&#146;, <em>Journal of Ecclesiastical History</em>, 14 (1963), 16&#150;30 &middot; P. Meyvaert, &#145;Bede's text of the <i>Libellus responsionum</i> of Gregory the Great to Augustine of Canterbury&#146;, <i>England before the conquest</i><i>: studies in primary sources presented to Dorothy Whitelock</i>, ed. P. Clemoes and K. Hughes (1971), 15&#150;33 &middot; I. Wood, &#145;The mission of Augustine of Canterbury to the English&#146;, <em>Speculum</em>, 69 (1994), 1&#150;17 &middot; P. Ewald and L. M. Hartmann, eds., <i>Gregorii I papae registrum epistolarum</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=899&amp;istheme=&amp;target=MGH%20Epistolae%20%5Bquarto%5D')">MGH Epistolae [quarto]</a>, 2 vols. (Berlin, 1887&#150;99) &middot; R. Sharpe, &#145;The setting of St Augustine's translation, 1091&#146;, <i>Canterbury and the Norman conquest</i><i>: churches, saints and scholars, 1066&#150;1109</i>, ed. R. Eales and R. Sharpe (1995), 1&#150;13 &middot; &#145;De translatione S. Augustini&#146;, <i>Acta sanctorum</i><i>: Maius</i>, 6 (Antwerp, 1688), 411&#150;43 &middot; A. Angerendt, &#145;The conversion of the Anglo-Saxons considered against the background of the early medieval mission&#146;, <em>Settimane di Studio</em>, 32 (1986), 747&#150;92 &middot; H. Mayr-Harting, <i>Two conversions to Christianity</i><i>: the Bulgarians and the Anglo-Saxons</i> (1994) &middot; D. W. Rollason, <i>Saints and relics in Anglo-Saxon England</i> (1989)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Henry Mayr-Harting, &#145;<span class="roman"><span class="headword">Augustine</span> [St Augustine]  (<em>d.</em> 604)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/899, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Augustine [St Augustine] (<em>d.</em> 604): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/899 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

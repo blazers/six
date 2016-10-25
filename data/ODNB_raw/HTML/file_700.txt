@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 700;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/700-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/700-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=700#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Arrowsmith,  John</span>  (1602&#150;1659), <span class="occ">college head and theologian</span>, was born on 29 March 1602 in Gateshead; nothing is known of his parents or early life. He entered St John's College, Cambridge, in 1616 and graduated BA in 1620. He proceeded MA in 1623, and in the same year became a fellow of St Catharine's College. In 1631 he resigned his fellowship, married (his wife's name is unknown), and went to King's Lynn as curate and then vicar of St Nicholas's Church.<br>
+<br>With the civil war Arrowsmith emerged as a leading presbyterian in both Cambridge and London. He was an active member of the Westminster assembly of divines set up to advise parliament on religious matters; a skilled Latinist, he translated a letter from the assembly to protestant churches in Europe. In 1645 he became rector of St Martin Pomeroy, Ironmonger Lane, London, and was nominated by parliament in 1645, 1646, and 1648 among those authorized to choose presbyterian elders in the city. In 1644 Arrowsmith had been admitted by the earl of Manchester as master of St John's College, Cambridge, replacing the ejected royalist William Beale. As master he had to contend with a persistent and troublesome royalist faction among the college's fellows. He served as vice-chancellor in 1647/8.<br>
+<br>Arrowsmith opposed religious toleration, stating that &#145;every variation from unity is a step to nullity&#146;  (<span class="italic">Englands Eben-ezer</span>, 1645, 14). Three published sermons to parliament in the 1640s&#151;<span class="italic">The Covenant-Avenging Sword Brandished</span> (1643), <span class="italic">Englands Eben-ezer</span> (1645), and <span class="italic">A Great Wonder in Heaven</span> (1647)&#151;voice his mounting concern about the rise of religious sects and parliament's unwillingness to suppress them. His best-known work, <span class="italic">Tactica sacra</span> (1657), &#145;a figurative description of the Christian's equipment for the fight&#146;  (Mullinger, 476), laments the loss of church discipline and religious uniformity. Several of his writings contain defences of traditional university learning and a learned ministry against criticism from religious radicals.<br>
+<br>Arrowsmith was distressed by the civil war's bloodshed and was a reluctant subscriber to the engagement, the declaration of loyalty imposed after Charles I's execution. Nevertheless, republican regimes made him regius professor of divinity at Cambridge in 1651 and master of Trinity College in 1653; he was also one of thirty-eight commissioners nominated by parliament in 1654 to approve and admit ministers, and in the same year was appointed one of the parliamentary visitors for the university. With Thomas Hill, Arrowsmith maintained Cambridge's tradition of powerful puritan preaching, which had a great effect on some students. He made particular use of religious aphorisms, delivered on Sunday evenings in St John's College, to teach the main points of Christianity succinctly. Only six of the thirty aphorisms were ready for the press at his death: these were published posthumously in 1659 under the title <span class="italic">Armilla catechetica</span>. Notes of three more, taken by a student, have been preserved  (St John's College Library, MS 0.82). Of catechetical rather than theological importance, the aphorisms are marked by a clarity of thought and exposition. <span class="italic"><i>Theanthr&#333;pos</i>, or, God-man</span> (1660), an extensive exposition of the first eighteen verses of the gospel according to <span class="roman">St John</span>, does more to demonstrate his contemporary standing as a theologian. His writings in general are clear, and display sincerity and decency; his firm Calvinist beliefs are evident throughout. Benjamin Whichcote, who differed with him theologically, wrote: &#145;I have scarcely either spoken or thought better of a man; in respect of the sweetness of his spirit, and amiableness of his conversation&#146;  (Salter, 7).<br>
+<br>Little is known of Arrowsmith's personal and family life. He wore a glass eye following an accident with an arrow. Thomas Baker wrote that he had children, and a son, Thomas, became a fellow of Trinity in 1656 during his father's mastership. Arrowsmith's later years were dogged by illness, which forced him to resign the regius professorship in 1656. He remained master of Trinity but seldom ventured out. He died on 15 February 1659 and was buried on 24 February.<br>
+<br>John Twigg </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. Baker, <i>History of the college of St John the Evangelist, Cambridge</i>, ed. J. E. B. Mayor, 2 vols. (1869) &middot; J. Twigg, <i>The University of Cambridge and the English Revolution, 1625&#150;1688</i> (1990) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=700&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; J. B. Mullinger, <i>The University of Cambridge</i>, 3 (1911) &middot; A. F. Mitchell and J. Struthers, eds., <i>Minutes of the sessions of the Westminster assembly of divines</i> (1874) &middot; C. H. Firth and R. S. Rait, eds., <i>Acts and ordinances of the interregnum, 1642&#150;1660</i>, 3 vols. (1911) &middot; S. W. Carruthers, <i>The everyday work of the Westminster assembly</i> (1943) &middot; S. Clark [S. Clarke], <i>The lives of sundry eminent persons in this later age</i> (1683) &middot; W. Cole, &#145;Alphabetical collections for an Athenae Cantabrigienses&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=700&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 5862 &middot; W. H. S. Jones [W. H. Samuel], <i>A history of St Catharine's College, once Catharine Hall, Cambridge</i> (1936) &middot; <i>The letters and journals of Robert Baillie</i>, ed. D. Laing, 3 vols. (1841&#150;2) &middot; S. Salter, &#145;Preface&#146;, in B. Whichcote, <i>Moral and religious aphorisms</i> (1753) &middot; CUL, CUR 39.2 &middot; &#145;Great miscellaneous volume of papers&#146;, Trinity Cam. [vol. 3] &middot; J. E. B. Mayor, ed., <i>Cambridge in the seventeenth century</i>, 3 vols. (1855&#150;71)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Twigg, &#145;<span class="roman"><span class="headword">Arrowsmith,  John</span>  (1602&#150;1659)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/700, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Arrowsmith (1602&#150;1659): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/700 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2456;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2456-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2456-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2456#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Birket <span class="st"> [Birkhead]</span>,  George</span>  (1549&#150;1614), <span class="occ">Roman Catholic archpriest</span>, was the son of Robert Birket and Isabel Salvin of West Brandon, co. Durham. He matriculated at Douai University in 1576 or 1577 and was ordained priest at Cambrai on 6 April 1577. On 3 February 1578 he was one of the first group of students to start the English College in Rome. He left Rome in September 1580 and arrived at Rheims on 16 October, proceeding to England on the 29th. He was staying with the Bellamy family at Harrow, Middlesex, in October 1581 but wrote to William Allen from London on 24 April 1583. He returned to Rheims before 8 August 1583 taking relics of Edmund Campion to Allen. He was still there in December 1584.<br>
+<br>It is not known when Birket returned to England, but when George Blackwell was appointed to govern the clergy as the first archpriest of England in 1598 Birket was appointed as one of his assistants. He took up residence with Lord Montague some time before 1605. In 1607 Blackwell took the oath of allegiance to the crown. It had been skilfully devised, it seems, by the ex-Jesuit, Sir Christopher Perkins, to trip the conscience of the Catholics. As a consequence Blackwell was removed from office and in 1608 Birket succeeded him as archpriest until his death.<br>
+<br>During his period of office a very articulate minority of the secular clergy, who resented what they took to be the excessive influence of the Jesuits, continued to agitate for bishops. They believed that it was Jesuit influence, especially Robert Parsons's, which was holding up a Roman decision favourable to themselves. Birket sent Richard Smith to Rome in 1609 as his agent to try once again for bishops. It was Parsons who told him how to go about it since Rome was tired of formal appeals which ignored previous directives, lacked courtesy, and viewed the Jesuits as enemies. Acting against Parsons's advice, and too little observant of protocol, Smith made no progress. Parsons and his ally Thomas Fitzherbert informed Birket frankly of Smith's errors. But Birket felt that he owed it to his agent to support him, and he told Parsons to desist from what he regarded as carping criticism and from the continuation of a correspondence which could only reflect on his own loyalty to his chosen representative. Doubtless Birket's was a difficult task trying to keep spirited and sometimes wayward steeds roughly united in drawing his coach in one direction. Smith brought the appointment of a Catholic bishop for England no nearer. It was in fact delayed until 1623; Smith followed as bishop of Chalcedon in 1624. Meanwhile in September 1610 Birket was apparently obliged to leave Lord Montague's establishment, no doubt for security reasons, but probably stayed within his orbit.<br>
+<br>Birket used the aliases of Hall and Lambton: his uncle was named Joseph Lambton. He enjoyed the reputation of a man discreet, hard-working, and with a considerable ability for getting along with all parties. Not until the episode of Smith's agency was there any misunderstanding with Parsons. Even then it seems to have left no grudges on either side. The report of a spy in 1580 described Birket as &#145;about forty years of age, short of stature, slender and lean, his face full of wrinkles, pale of colour, his beard black and thick, and cut short&#146;  (Talbot and Aveling, 209). He died on 6 April 1614.<br>
+<br>Francis Edwards </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. Anstruther, <i>The seminary priests</i>, 1 (1969) &middot; F. Edwards, <i>Robert Persons</i><i>: the biography of an Elizabethan Jesuit, 1546&#150;1610</i> (1995) &middot; Berks. RO, Milton House collection, Q9 &middot; H. Foley, ed., <i>Records of the English province of the Society of Jesus</i>, 6 (1880), 69 &middot; J. Morris, ed., <i>The troubles of our Catholic forefathers related by themselves</i>, 2 (1875), 53 &middot; <i>Letters of Thomas Fitzherbert, 1608&#150;1610</i>, ed. L. Hicks, Catholic RS, 41 (1948) &middot; Westm. DA, XI, no. 67; X, no. 85 &middot; W. Kelly, ed., <i>Liber ruber venerabilis collegii Anglorum de urbe</i>, 1, Catholic RS, 37 (1940) &middot; T. F. Knox and others, eds., <i>The first and second diaries of the English College, Douay</i> (1878) &middot; <i>The letters and memorials of William, Cardinal Allen (1532&#150;1594)</i>, ed. T. F. Knox (1882), vol. 2 of <i>Records of the English Catholics under the penal laws</i>  (1878&#150;82) &middot; <i>Calendar of the manuscripts of the most hon. the marquess of Salisbury</i>, 17, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2456&amp;istheme=&amp;target=HMC')">HMC</a>, 9 (1938), 500 &middot; <i>Dodd's Church history of England</i>, ed. M. A. Tierney, 5 vols. (1839&#150;43), vols. 4&#150;5 &middot; C. Talbot, ed., <i>Miscellanea</i><i>: recusant records</i>, Catholic RS, 53 (1961)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Georgetown University, Washington, DC, corresp.&nbsp;|&nbsp; Archivum Romanum Societatis Iesu, Rome, Fonds Gesuitico 651<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Francis Edwards, &#145;<span class="roman"><span class="headword">Birket ,  George</span>  (1549&#150;1614)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/2456, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Birket (1549&#150;1614): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2456 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

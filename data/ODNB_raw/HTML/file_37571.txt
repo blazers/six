@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37571;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37571-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37571-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37571#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Horne,  John</span>  (1848&#150;1928), <span class="occ">geologist</span>, was born at Campsie, Stirlingshire, on 1 January 1848, the son of a farmer, James Horne, and his wife, Janet, <i>n&eacute;e</i> Braid. He attended Glasgow high school and Glasgow University, where he studied under Lord Kelvin, but did not graduate. He left the university at the age of nineteen to take an appointment with the geological survey, where he spent his whole working life.<br>
+<br>Horne's early surveying was carried out in the Silurians of the southern uplands and among the metamorphic rocks and the Old Red Sandstone country round the Moray Firth. During vacations he and other surveyors sometimes conducted independent research. For example, with his friend <script>writeSeealsoLink('../view/article/37839/', "Benjamin Neeve Peach")</script>, Horne worked on glacial problems in northern Scotland, and he visited the Carpathians with Robert Logan Jack. Such work could be and was published outside the official channels of the survey.<br>
+<br>Horne's scientific partnership with Peach was one of the most successful in the annals of Scottish geology. In 1883 they were sent by the survey's director-general, Archibald Geikie, to examine the rocks of the north-west highlands, for which Geikie and Roderick Murchison had proposed a structure in the 1860s. This structure had been challenged by James Nicol, but the Murchison&#150;Geikie view prevailed until the early 1880s when Charles Callaway and Charles Lapworth independently arrived at alternative models that were much the same. After two seasons in the field, and influenced by his findings, Peach and Horne arrived at an interpretation similar to Lapworth's, and Geikie had to make an embarrassing climb-down. The name and reputation of the survey were subsequently restored, however, by the brilliant field mapping of Peach and Horne, who worked out the complex structures in great detail. It was Horne who first changed his mind about the &#145;official&#146; structure.<br>
+<br>Peach and Horne then had to examine the rocks of the southern uplands, where the structural interpretations offered by Geikie, partly based on the fieldwork of Jack, had also been challenged by Lapworth. In the southern uplands, as in the north-west highlands, the structures were found to be much more complex than originally realized, because of repeated reverse faulting. Two large memoirs, <span class="italic">The Silurian Rocks of Britain</span>; volume 1, <span class="italic">Scotland</span> (1899) and <span class="italic">The Geological Structure of the North-West Highlands</span> (1907), gave permanent expression to the notable fieldwork of Horne and his co-workers.<br>
+<br>In 1901 Horne was promoted to assistant director of the geological survey with responsibility for Scotland, in which position he served with distinction until his retirement in 1911. During this period much work was done on the Scottish coalfields. After retirement Horne was active in Edinburgh intellectual life, and he collaborated with Peach on a synthetic treatise on Scottish geology. Unfortunately, this was much delayed, as a result of disagreements (at the scientific level only) between the authors as to the origin of the &#145;Moine Schists&#146; of northern Scotland. The work eventually appeared posthumously in 1930. Besides tectonics, much of Horne's work was concerned with glaciation and relatively recent geological phenomena. He also published a significant paper with Edward Greenly on the metamorphic rocks of eastern Sutherland (1896).<br>
+<br>Horne was elected FRS (1900), and received honorary degrees from Aberdeen, St Andrews, and Edinburgh. With Peach, he was awarded the Geological Society's Murchison medal (1899), and (again with Peach) the Wollaston medal (1921). Horne presided over the geological section of the British Association (1901), and was president of the Royal Society of Edinburgh (1915&#150;19). He was married to Anna Leyland, daughter of Henry Taylor of Pernambuco, Brazil. They had two sons and a daughter. His wife died in 1926 and Horne himself died at his home, 20 Merchiston Gardens, Edinburgh, on 30 May 1928. He was buried in Edinburgh.<br>
+<br>David Oldroyd </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. S. F. [J. S. Flett], <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37571&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 104B (1929), i&#150;viii &middot; J. W. Gregory, <em>Quarterly Journal of the Geological Society</em>, 85 (1929), lx&#150;lxii &middot; T. J. Jehu, <em>Proceedings of the Royal Society of Edinburgh</em>, 48 (1927&#150;8), 201&#150;8 &middot; E. B. Bailey, <em>Scottish Geographical Magazine</em>, 44 (1928), 226&#150;8 &middot; J. W. Gregory, <em>Nature</em>, 121 (1928), 991&#150;2 &middot; R. Campbell, &#145;John Horne and his contribution to geological science&#146;, <em>Transactions of the Edinburgh Geological Society</em>, 12 (1929), 267&#150;79 [contains list of publications] &middot; M. Macgregor, <em>Geological Magazine</em>, 65 (1928), 381&#150;4 &middot; &#145;Notable geologist: the late Dr John Horne, work for Scottish research&#146;, BGS, 1/205, fol. 38 [newspaper cutting] &middot; &#145;Noted geologist. The late Dr John Horne. Loss to Scottish science&#146;, <em>Glasgow Herald</em> (31 May 1928) &middot; D. R. Oldroyd, <i>The highlands controversy</i><i>: constructing geological knowledge through fieldwork in nineteenth-century Britain</i> (1990) &middot; E. Greenly, <i>A hand through time</i>, 2 (1938), 506&#150;14 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37571&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37571&amp;istheme=&amp;target=BGS')">BGS</a>
+   &middot;
+ BGS, Edinburgh&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37571&amp;istheme=&amp;target=BGS')">BGS</a>, letters to John Flett
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37571&amp;istheme=&amp;target=BGS')">BGS</a>, letters to Finlay Kitchin
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37571&amp;istheme=&amp;target=BGS')">BGS</a>, letters to Benjamin Peach
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37571&amp;istheme=&amp;target=BGS')">BGS</a>, letters to Jethro Teall
+   &middot;
+ Elgin Museum, letters to George Gordon<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> group portrait, photograph, <i>c.</i>1885 (<i>The bandits of Inchnadamph, or, The secret of the north-west highlands</i>), BGS, Edinburgh, LSA 364.14 &middot; S. H. Reynolds, double portrait, photograph (with B. N. Peach), repro. in Oldroyd, <i>Highlands controversy</i>, 272 &middot; A. S. Watson, photograph, repro. in Jehu, &#145;John Horne&#146; &middot; group photograph (with staff), repro. in Oldroyd, <i>Highlands controversy</i>, 166 &middot; photograph, repro. in J. S. F., <i>PRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;2292 3<i>s</i>. 11<i>d</i>.: confirmation, 24 July 1928, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Oldroyd, &#145;<span class="roman"><span class="headword">Horne,  John</span>  (1848&#150;1928)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/37571, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Horne (1848&#150;1928): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37571 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

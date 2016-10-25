@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25528;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25528-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25528-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25528#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=25528&amp;orientation=p')"><img border="0" alt="Sir  (Charles) William Siemens (1823&#150;1883), by Rudolph Lehmann, 1882" onmouseover="status='Sir  (Charles) William Siemens (1823&#150;1883), by Rudolph Lehmann, 1882'" src="/images/article-imgs/25/25528_1_200px.jpg"></a><span class="imagecaption"><b>Sir  (Charles) William Siemens (1823&#150;1883)</b>, by Rudolph Lehmann, 1882</span>
+</div>
+<div class="para">
+<span class="headword">Siemens, Sir  (Charles) William <span class="st"> [<em>formerly </em>Karl Wilhelm]</span></span>  (1823&#150;1883), <span class="occ">electrical engineer and metallurgist</span>, was born at Lenthe, Hanover, the fourth son of Christian Ferdinand Siemens (1787&#150;1840) and his wife, Eleonore, <i>n&eacute;e</i> Deichmann. To avoid confusion with his younger brother Karl Heinrich, he was known as Wilhelm in Germany and as William in England. Together with their elder brother Werner, who remained in Germany, William, who spent most of his life in England, and Karl Heinrich, who worked in Russia, were in business as electrical engineers, concentrating first on the electric telegraph and later on electric lighting.<h2>
+<a name="EarlylifeandeducationinGermany"></a>Early life and education in Germany</h2>Christian Siemens, a farm manager, had eight sons and a daughter who lived to adulthood. On his death Werner, the eldest surviving son, who was then an officer in the Prussian army, had to care for the younger brothers, a responsibility in which William later shared.<br>
+<br>William was educated at a commercial school in L&uuml;beck, then at a technical school in Magdeburg, where Werner was stationed. From there he went to G&ouml;ttingen University, where he studied under Professor Himly, who had married his elder sister, Mathilde. It having been decided that William was to be an engineer, Werner obtained a place for him in the Stolberg factory at Magdeburg in 1843. Here Werner and William collaborated on their scientific and mechanical ideas, including improvements in the then novel application of electricity to the deposition of metals, for which Werner had already obtained a Prussian patent, specifying a thermo-electric battery to supply the electric current, and improvements in the solutions (alkaline hyposulphites) used for gilding and silvering.<h2>
+<a name="ArrivalinEngland"></a>Arrival in England</h2>For some reason, probably because it was in England that the greatest progress had been made in electroplating, the brothers determined to try to dispose of the invention there. William was dispatched in 1843 for the purpose. Speaking many years afterwards at a meeting of the Birmingham and Midland Institute (of which he was then president), he gave an account of the difficulties attending this first visit, when he was so ignorant of the language of the country that he was led to visit an undertaker, under the idea that this was the proper person to take up and dispose of his invention. Ultimately, however, perseverance triumphed over difficulties, and he sold his process to Elkington for &pound;1600.<br>
+<br>Such a success stimulated the brothers to fresh efforts. William gave up his position at the Stolberg factory in 1844 and started for London with two fresh inventions&#151;a &#145;chronometric governor&#146; for steam engines, devised by Werner and worked out by William, and the process of &#145;anastatic printing&#146;, invented by Baldamus of Erfurt and developed by the brothers. However, they set too high a value on these two inventions, and no capitalist could be found willing to purchase either, meritorious as they were. The &#145;governor&#146; was an instrument of extreme ingenuity; it was fully appreciated by leading mechanical engineers, and obtained prizes from the Society of Arts in 1850 and at the Great Exhibition of 1851. It did not, however, come into practical use for its intended purpose&#151;a purpose, indeed, for which it was too delicate&#151;though it was afterwards successfully applied by Sir George Airy for regulating the movement of certain instruments at the Royal Greenwich Observatory.<br>
+<br>The anastatic process was employed for the reproduction of printed matter until superseded by modern photographic methods. It was a transfer process. The page to be copied was moistened with acid and laid down on a metal plate. On pressure being applied, the result was a slight etching of the metal by the acid in the parts in contact with the unprinted portions of the paper and a slight setting off of the ink from the printed portions. The plate could then be inked up and printed from by the usual lithographic methods. The process, however, brought no profit to its introducer, and the factory which he started for its application was a source of considerable loss. The first five years of Siemens's stay in England were so discouraging that in 1849 he even discussed the idea of emigrating with Karl and Frederick, another brother, to California, then in the first flush of the gold discoveries.<br>
+<br>The next invention about which the brothers busied themselves, though it contained within itself the germs of ultimate success, was no more profitable than its predecessors. The regenerative steam engine and condenser, worked up by William Siemens from earlier ideas, sought to prevent the great waste of energy which occurs in all forms of heat engine in consequence of the high temperature at which the products of combustion are discharged, and also from the steam being condensed to water after a portion only of its heat has been utilized as energy. The most important feature of the invention was that the steam after use in the cylinder passed through a heat-exchanger, and reached the condenser in a partly cooled state. The water from the condenser was afterwards forced back through the exchanger, absorbing its heat and causing its own temperature to rise on its way to the boiler. In spite of all the labour and ingenuity expended between 1847 and 1859, the brothers' hopes were never realized. That the merits of the invention were recognized is shown by the fact that a leading firm of Birmingham engineers, Fox and Henderson, paid Siemens a considerable sum for a share in the patent, and also engaged his services at a salary which provided him with a sufficient means of livelihood. In addition to this he was now earning money in other ways, and in 1851 he produced a water meter, which fulfilled its intended purposes so well, and was so superior to other instruments, that in a year or two it was producing a handsome income from royalties, and the inventor's long struggle against adverse fortune was at an end.<h2>
+<a name="Theregenerativefurnace"></a>The regenerative furnace</h2>The success of the meter, however, was soon eclipsed by that of the great invention with which the names of William and Frederick Siemens must always be connected&#151;the regenerative furnace. The brothers had long endeavoured to apply the principle of their condenser to various manufacturing processes, especially to those in which, as in salt extracting, large quantities of liquid have to be evaporated. Their efforts met with little practical success until they finally hit on the very simple idea of applying the principle of the condenser to furnaces, an idea which was embodied in a patent taken out by Frederick in 1856. The products of combustion from the furnace, instead of passing direct to the chimney, were led through a chamber filled with refractory brickwork, to which they gave up their heat. As soon as the chamber was sufficiently hot the current was shut off, and the air supply of the furnace led through it. The air thus reached the burning fuel hot, instead of cold. By the use of two chambers used alternately to receive and give out the heat, the process was made continuous. By a further improvement gas was used in place of solid fuel, and this was passed through the &#145;regenerator&#146; so that it arrived at the place of combustion in a highly heated state. Not only was there an enormous economy of heat, but the gas could be made from fuel of a very inferior sort, while processes formerly requiring crucibles were now conducted in the open furnace. The first practical application of the furnace was to the melting and reheating of steel in 1857. It was soon after applied, in a modified form, to heating the air for blast furnaces, then to glass making (the subject of the last lecture ever given by Faraday was the use of the furnace at Chance's glassworks), and eventually to a large number of industrial processes where great heat is required. Its most important application was to the manufacture of steel, either by melting wrought iron and cast iron together on the open hearth of the furnace or direct from iron ore. The former was known as the &#145;Siemens&#150;Martin&#146; process, and the latter as the &#145;Siemens&#146; or &#145;ore&#146; process. For the manufacture of steel the &#145;Siemens&#146; process was first used in 1865 or 1866; its employment spread rapidly, so that by 1882 it was estimated that 4 million tons of steel had been produced by it, and in 1896 the output for the whole world was calculated at over 7 million tons as compared with over 11 million tons produced by the Bessemer process. In Great Britain 2,355,000 tons were produced in 1896 by the Siemens process, and 1,845,000 by the Bessemer process.<br>
+<br>In order to develop the process, and to test its working on a large scale, Siemens, with some personal friends, formed a company, and works were established at Landore in south Wales in 1869. Though for a time the company promised well and held a leading place among the steelworks of the United Kingdom, it was not commercially successful, and the attempt was abandoned about 1888.<h2>
+<a name="Electricalsciences"></a>Electrical sciences</h2>Siemens became a naturalized British subject in 1859, the year in which he married Anne (<i>d</i>. 12 April 1901), the daughter of Joseph Gordon, an Edinburgh lawyer and the brother of Lewis Gordon, professor of electrical engineering in the University of Glasgow. The couple had no children of their own, but they adopted <script>writeSeealsoLink('../view/article/48189/', "Alexander Siemens")</script>, the son of a third cousin. Siemens obtained medals at the exhibitions of London in 1862 and of Paris in 1867. In 1860 he became a member of the Institution of Civil Engineers, in special recognition of his merits&#151;since he was a manufacturer rather than an engineer&#151;and in 1862 he was elected a fellow of the Royal Society.<br>
+<br>Meantime Siemens had turned his attention to electrical science, and was building up another reputation. On the first introduction of the electric telegraph, Werner Siemens appreciated its possibilities, and determined to devote himself to its development. In 1847 he associated himself with Halske and founded in Berlin the great firm of Siemens and Halske, of which William was appointed the London agent. Werner invented the method of insulating telegraph wires with gutta-percha, and the use of such wires for conveying messages under water led to the invention of submarine cables. The first of these was the Dover to Calais cable, laid, after an unsuccessful attempt in the previous year, in 1851. This was soon followed by others, with many of which the firm of Siemens and Halske was associated. In 1858 this department of their business had developed to such an extent that the brothers determined to establish works in England, and a small factory was started in Millbank, afterwards in 1866 transferred to Charlton in Kent, where the great works of Siemens Brothers (Werner, William, and Karl) were eventually established. These works in course of time occupied an area of over 6 acres, and employed more than 2000 people. Of the undertakings carried out by the brothers, one of the greatest was the telegraph line from Prussia to Tehran, a length of 2750 miles, which formed a principal part of the direct line from England to India. This was carried out by the London and Berlin firms jointly in 1869. A few years later a still more important undertaking was brought to a successful issue by the London firm alone, which in 1874 laid the direct Atlantic cable. For this the cable ship <i>Faraday</i> was specially designed by William Siemens, though he had no previous knowledge or experience of marine engineering. The execution of works of such magnitude, indeed, involved the designing and construction of much new machinery and apparatus. In all this detailed work Siemens took his full share, though as time went on, and the concerns with which he was associated increased in importance, he withdrew from detail work and confined himself more to supervision and initiation.<br>
+<br>When the Society of Telegraph Engineers (later the Institution of Electrical Engineers) was formed in 1871, Siemens was elected its first president, and he was very influential in the society's early development as a body bringing together both practical engineers and academic researchers.<br>
+<br>The electric telegraph was the first widespread industrial application of electricity, but two inventions made electric lighting the focus of attention. The first was the self-excited electric generator, a machine in which the current for energizing the field windings came from the output of the generator itself. The importance of this was that electrical generation was no longer dependent on permanent magnets, and much higher currents could be produced. The self-excited principle was announced at a meeting of the Royal Society on 14 February 1867, when both Siemens and Charles Wheatstone, working quite independently, described the principle. It was then found that Cromwell F. Varley was applying for a patent for the same idea. The second invention was the development about 1879 of a successful incandescent filament lamp by Joseph Swan, the American Thomas Alva Edison, and several other inventors. The Siemens undertakings took up the manufacture of generators and of arc lamps, but not filament lamps, though none of the leading inventions connected with electric lighting can be associated with the name of William Siemens. The firm supplied some of the machines first used for lighthouse illumination, and one of the earliest electric light installations in London&#151;that of the British Museum&#151;was carried out by them in 1879.<br>
+<br>The first time that an electricity supply was made available to people in their own homes was in the autumn of 1881, at Godalming, Surrey. The supply was provided by a firm whose main interest was street lighting, and they used a Siemens generator, driven initially from a water-wheel in a local mill. Neither William Siemens nor any other member of the family seems to have been involved in the original undertaking, but before long they had taken over the running of it. In May 1882 Siemens gave evidence to the House of Commons select committee on the <span class="roman">Electric Lighting Bill</span>, in which he described the experience gained at Godalming.<br>
+<br>William Siemens was also one of the first to suggest the transmission of power by electricity, and to apply electric power to locomotion, in the Portrush Railway, in 1883. When invented in 1879 his electric furnace had no practical application, but it later found a place in industry as a means of reaching otherwise unattainable temperatures. His &#145;bathometer&#146; for estimating sea depths without a sounding line, though ingenious, was impractical. His electric thermometer proved useful in cases where it was required to record temperatures at inaccessible or scarcely accessible positions, though not, as he had hoped, in deep-sea investigations, where the cable failed before the apparatus itself. His researches into the effect of electric light on plants were carried far enough only to prove the possibility of aiding the growth of plants and fruit by its means. His patent of 1855 led to a means of achieving extremely low temperatures by the expansion of liquefied gases already cooled down to the lowest attainable point. How prolific was his inventive faculty is shown by the fact that no fewer than 113 British patents were taken out in his name.<h2>
+<a name="Rewardshonoursanddeath"></a>Rewards, honours, and death</h2>Siemens's inventions and his scientific work brought him many honours. He was president of the mechanical section of the British Association in 1869, and president of the association itself in 1882; he was the first president (1871) of the Society of Telegraph Engineers, and in 1878 he became president of the same society for the second time; he was president of the Institution of Mechanical Engineers (1872) and of the Iron and Steel Institute (1877), and chairman of the council of the Society of Arts (1882); he was an honorary DCL of Oxford and LLD of Dublin and Glasgow. He received the Albert medal of the Society of Arts in 1874, the Howard prize of the Institution of Civil Engineers in 1883, and the Bessemer medal of the Iron and Steel Institute in 1875. He received many foreign orders, including the French L&eacute;gion d'honneur, and in 1883, only seven months before his death, he was knighted in recognition of his services.<br>
+<br>Siemens made few contributions to pure science. In 1882 he sent some ingenious speculations as to the source of solar energy to the Royal Society. Among these was a theory, well received at the time, that gaseous matter might be dissociated by radiant solar energy and driven out by centrifugal action at the sun's equator, to be drawn in towards the poles and subjected to intense combustion. This was his last important piece of work. He died at his home, 3 Palace Houses, Bayswater Road, London, of heart disease and pneumonia, on 19 November 1883, and was buried in Kensal Green cemetery after a funeral service in Westminster Abbey, where a memorial window was set up in his honour.<br>
+<br>William Siemens was a born inventor, but he was also, what so few inventors are, a shrewd and capable man of business. He made a large fortune, and used it liberally. He established prize medals at King's College, London, at the Birmingham and Midland Institute, and at the City and Guilds of London Technical Institute. After his death Lady Siemens provided funds for the foundation of a Siemens electrical laboratory, as a memorial, at King's College, London.<br>
+<br>Siemens's collected works, including his very numerous addresses, lectures, and papers to scientific societies, were edited by E. F. Bamber, after his death, in three volumes (1889), uniform with the biography by Dr William Pole FRS.<br>
+<br>H. T. Wood<span class="italic">, rev. </span> Brian Bowers </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Pole, <i>Life of Sir William Siemens</i> (1888) &middot; J. D. Scott, <i>Siemens Brothers, 1858&#150;1958</i> (1958) &middot; C. W. Siemens, &#145;Presidential address&#146;, <em>Journal of the Society of Telegraph Engineers</em>, 7 (1878), 3&#150;19 &middot; C. W. Siemens, &#145;On measuring temperature by electricity&#146;, <em>Journal of the Society of Telegraph Engineers</em>, 1 (1872), 123&#150;33 &middot; &#145;Select committee on the Electric Lighting Bill&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1882), 10.198&#150;206, no. 227 [minutes of evidence] &middot; d. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1883)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Siemens Institute, Munich&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> M. Thomas, oils, 1876, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a> &middot; R. Lehmann, oils, 1882, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; R. Lehmann, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=Inst.%20ET')">Inst. ET</a> &middot; Lock &amp; Whitfield, woodburytype, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in T. Cooper, <i>Men of mark</i><i>: a gallery of contemporary portraits</i> (1883) &middot; G. J. Stodart, stipple (after photograph by Van der Weyde), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=NPG')">NPG</a> &middot; photograph, repro. in Scott, <i>Siemens Brothers</i> &middot; woodcuts, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25528&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;393,857 10<i>s</i>. 2<i>d</i>. in UK: resworn probate, Feb 1885, <i>CGPLA Eng. &amp; Wales</i> (1883)<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">H. T. Wood, &#145;<span class="roman"><span class="headword">Siemens, Sir  (Charles) William </span>  (1823&#150;1883)</span>&#146;, rev. Brian Bowers, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/25528, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  (Charles) William Siemens (1823&#150;1883): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25528 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/25528/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

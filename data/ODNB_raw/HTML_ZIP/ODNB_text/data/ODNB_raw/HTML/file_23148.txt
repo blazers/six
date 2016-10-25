@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23148;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23148-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23148-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23148#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Raspe,  Rudolf Erich</span>  (1737&#150;1794), <span class="occ">writer</span>, was born at Hanover, the first child and only son of Christian Theophilus Raspe, an accountant in the Hanoverian department of mines and forests, and Luisa Catherina von Einem, the daughter of a Prussian landed family. He had two younger sisters, Dorothea Frederica and Catherina Maria Sophia. Nothing is known about Raspe's early schooling, but he and his family maintained close ties with the mining communities of Goslar and Clausthal in the Harz. Visiting often, they absorbed both the practical knowledge of the miners and the regional tradition of extravagant folklore.<br>
+<br>In 1755, aged eighteen, Raspe entered the university at G&ouml;ttingen to study law, remaining for a year. Having become the tutor and companion of a young well-to-do Prussian named von L&uuml;den he transferred to Leipzig, a centre of German rationalism. After three years there of living beyond his means Raspe returned to G&ouml;ttingen for his master's degree; on graduation in 1760 he accepted a clerical position in the manuscript department of the Royal Library at Hanover. During a tenure of seven years, he cultivated masonic friends, explored the library's large collection of Leibniz papers, and began to publish.<br>
+<br>The Lisbon earthquake of 1 November 1755, coincident with Raspe's first year at university, was for Europeans an intellectual as well as physical shock and did much to establish increasingly naturalistic interpretations of geological phenomena. For his part Raspe was led by the Lisbon catastrophe to rediscover the posthumous, almost forgotten <span class="italic">Lectures and Discourses of Earthquakes</span> (1705) by Robert Hooke, which had been written in 1668. In 1763 Raspe published in Latin, as a 191-page &#145;specimen&#146; of a larger work&#151;often promised but never to appear&#151;<span class="italic">Specimen historiae naturalis globi terraquei</span> (<span class="italic">An Introduction to the Natural History of the Terrestrial Sphere</span>). In it he compiled an impressive catalogue of new islands and mountains that had emerged within historical times, summarized classical and more recent attempts to explain their formation, and gave special prominence (though not unqualified approval) to Hooke's theory, which emphasized the constructive power of earthquakes. In a blatant attempt to win British recognition for his accomplishments, Raspe dedicated his book to the Royal Society of London and its fellows. He was duly elected to membership in 1769. Raspe wrote three papers for the <span class="italic">Philosophical Transactions</span>, one each on fossil elephants (1769), German marble quarries (1770), and the origin of basalt (1771). He also published on geology and other topics in German periodicals, one of which he edited (1772).<br>
+<br>In addition to his geological researches, Raspe attempted to gain a reputation as a man of letters. No literary works were of greater immediate interest at this time than the several attempts by James Macpherson to authenticate his supposed discoveries (in fact, forgeries) of &#145;ancient&#146; epics by a fictitious Scottish poet named Ossian (<span class="italic">Fingal</span>, 1762; <span class="italic">Temora</span>, 1763). These spurious works enjoyed a tremendous vogue throughout Europe and were championed in Germany by Raspe in a five-part periodical essay (1763). In 1766 he twice reviewed, for another German periodical, Thomas Percy's <span class="italic">Reliques of Ancient English Poetry</span> (1765), which were authentic ballads and destined to become influential. That same year Raspe ventured on poetic creation himself with <span class="italic">Hermin und Gunilde</span>, an allegory in verse. This well-received attempt had been preceded in 1764 by two anonymous publications, one a poetic comedy and the other a celebration in verse of his sister's wedding. In 1765 he published an anonymous translation into German of a French comedy by Charles-Simon Favart. More important were Raspe's signed article on the manuscripts of Leibniz (1762) and his 1765 edition of six previously unknown essays by the great philosopher.<br>
+<br>Though Raspe was becoming known as a man of letters, his standard of living required more money than the Royal Library was paying him. He found the patron he sought in General Count von Walmoden, the illegitimate but influential son of George II and the countess of Yarmouth. Having a very large collection of pictures and antique sculptures, the count invited Raspe to catalogue it. A 42-page listing of his was published in 1767. By then, however, a much better situation was available to Raspe, who accepted the curatorship of collections belonging to Frederick, the landgrave of Hesse-Cassel; with that position came the chair of antiquity at Kassel's university, the Collegium Carolinum, and a seat on the Hessian privy council as well.<br>
+<br>On 27 March 1769, in attestation to the diligence for which he was known, Raspe presented to the landgrave a twelve-volume manuscript catalogue in which he had enumerated and described more than 15,000 coins, medals, and other curiosities. The finest of these objects, moreover, were now displayed in some innovative glass cases, transforming the previously cluttered Museum Fredericianum into one of the model collections of Europe. By now seriously in debt, Raspe took the occasion to request a modest increase in his salary&#151;and was brusquely refused. That autumn, desperate for money, he began to pilfer and pawn some of the coins and medals entrusted to his care.<br>
+<br>In 1770 Raspe visited Berlin, hoping to garner the Prussian king, Frederick II, as his next and more generous patron. In lieu of that employment he met and married, on 9 April 1771, Elizabeth Langens, the daughter of a wealthy Berlin doctor, with a useful and much needed dowry. Before she divorced him in 1780 they had two children, Friederich and Philippine Caroline. Raspe's wedding brought with it a token increase in his salary. However, Raspe's burden of indebtedness remained and, despite a growing literary reputation, he lived in constant fear that his thefts from the landgrave's collections would be discovered.<br>
+<br>In September 1774 Raspe was appointed Hessian resident in Venice. Forced to leave Kassel and the keys to the landgrave's collections behind, he went immediately to Berlin and that October obtained a loan from his father-in-law equivalent to about half his debts, which were becoming known. But in his absence there had been an investigation, and on 15 November he was ordered back to Kassel for an accounting. Dawdling as long as he could, Raspe returned only late in February 1775, was exposed, lost everything he had, and to avoid imminent incarceration was obliged to flee Germany for ever. The warrant for his arrest described him as being of medium height, long-faced, and small-eyed with a prominent, beaky nose and red hair.<br>
+<br>Raspe is next heard of in Holland, where he wrote former friends in Kassel two long, ineffectual letters of apology (both eventually published) before going on that August to Britain, a country he henceforth saw as his own. Ever resourceful and beyond the reach of German law, Raspe approached Lockyer Davis, the Royal Society's printer, in London and contracted with him to undertake a series of translations from German and Italian sources on behalf of English science. Though Raspe was expelled from the Royal Society on 7 December 1775, by reason of deficient character, his arrangement with Davis was maintained.<br>
+<br>The first volume in the series was a translation of one that Raspe himself had published in German (1774): <span class="italic">An account of some German volcanos and their productions with a new hypothesis of the prismatic basaltes established upon facts</span> (1776). The second volume, by John James Ferber (praised in the first for the quality of his observations), was <span class="italic">Travels through Italy, in the years 1771 and 1772, described in a series of letters to Baron Born</span> (1776); and the third, logically enough, was Baron Inigo Born, <span class="italic">Travels through the Bannat of Temeswar, Transylvania, and Hungary, in the year 1770, described in a series of letters to prof. Ferber</span> (1777). By then, however, Davis was no longer the publisher. Other volumes were announced but did not appear.<br>
+<br>In 1779 Raspe toured parts of England as the travelling companion of a Baron von Offenburg from Lithuania. Equipped with letters of introduction from influential friends who had not abandoned him, Raspe was admitted to a number of prestigious country houses. At Cambridge he discovered in the manuscript rooms of the university library a medieval treatise proving (<i>contra</i> Vasari) that artists preceding the Van Eycks had painted in oils. Having suggested the same thing in his <span class="italic">Anecdotes of Painting</span> (1762), Horace Walpole began to take an interest in Raspe&#151;and was soon called upon to bail him out of debtors' prison. Raspe was served with Prussian divorce papers about the same time. Even so, he struggled on to complete <span class="italic">A Critical Essay on the Origins of Oil Painting</span> (1781), the costs of which were underwritten in part by Walpole. Though favourably reviewed, the book was highly opinionated, as monks, Vasari, and Raspe's former, now hopelessly alienated patron, the landgrave Frederick, were pilloried in turn.<br>
+<br>Raspe next tried unsuccessfully to publish English translations of German literary works, well before German literature was fashionable in England. His first attempt, <span class="italic">Tabby in Elysium</span> (1781; original, 1757) by the obscure J. F. W. Zacharia, was a light verse mock epic of a cat's adventures in the underworld. Raspe's second attempt, Lessing's play <span class="italic">Nathan the Wise</span> (1781; original, 1779), derived from a more worthy source, but both translations were thoroughly pedestrian and deserved to fail, as they did. On 30 November 1781 Raspe proposed by advertisement in the <span class="italic">Monthly Review</span> a &#145;literary expedition to Egypt&#146; led by himself to collect and decipher hieroglyphic inscriptions, but nothing came of it. Depressed and alone, he had lost all sense of direction.<br>
+<br>A year later, after twelve months of obscurity, Raspe appeared at Cosgarne House, near Chacewater mine in Cornwall, the local headquarters of Boulton and Watt. He had been in Cornwall for some time, visiting mines, inspecting their machinery, and buying mineral specimens (but where he got the money is unclear). Raspe lived in Redruth for several years as an associate of the firm, eventually becoming its assay master. In October 1783 a German periodical essay surely by him provided eyewitness accounts of the Cornish mining industry and its steam engines.<br>
+<br>In June 1784 Raspe visited London and while there sat to James Tassie in Leicester Fields for a medallion portrait, the only one of him that exists. Seven years later Raspe published an extensive catalogue in two volumes of the &#145;Ancient and Modern Gems&#146; cast by Tassie in paste from loaned originals. He listed and described almost 16,000 entries, together with a learned preface.<br>
+<br>For all of Raspe's prodigious accomplishments as a compiler and translator&#151;for all of his contributions to periodicals and the science of geology&#151;he is now remembered primarily for a short <i>jeu d'esprit</i> chapbook of only forty-two pages called <span class="italic">Baron Munchausen's Narrative of his Marvellous Travels and Campaigns in Russia</span> (1786). Published anonymously, the work was not definitively identified as Raspe's until 1824, by which time it had been reprinted, expanded, illustrated, and translated in a vast number of editions; the editions continue to this day, and it has also been adapted for the cinema.<br>
+<br>Though the greatest of all travel liars, Raspe's Munchausen was based on a real German original, Karl Friedrich Hieronymus, Freiherr von M&uuml;nchausen (1720&#150;1797), who during his youth had fought in Russia against the Turks. Years afterward, as a country squire at Bodenwerder, near Hameln, he regaled his guests (Raspe supposedly among them) with droll recitations of incredible personal adventures, adding straight-faced assurances of their veracity. Seventeen tales attributed to him were published in the German periodical <span class="italic">Vade Mecum f&uuml;r lustige Leute</span> between 1781 and 1783, some or all of which have been attributed to Raspe. The latter's five examples of the baron's stories, rendered into English in 1786, include Cornish mining slang and scenery. Later augmentations added topical allusions and adapted fantastic plots from earlier tellers.<br>
+<br>In 1786 the Boulton and Watt assay office in Cornwall was closed, and Raspe returned to London, finding work in Tassie's shop as his catalogue moved to completion. He also translated Baron Born's treatise on the amalgamation of gold and silver ores (1791). From 1789 to 1790 Raspe was in Scotland, where he had been commissioned to make a mineralogical survey of the highlands. He visited the Hebrides and went as far north as Thurso. But his assurances of mineralogical richness seemed unlikely to some: he was accused of salting barren moors with specimens of Cornish ore, and was later caricatured as the dishonest Hermann Dousterswivel in Walter Scott's novel <span class="italic">The Antiquary</span> (1816).<br>
+<br>After two more years of routine business and failing health in London (with excursions to Scotland, Wales, and Cornwall), Raspe visited Ireland in November 1793 to see a number of its mines. He died in 1794 at Muckross, near Killarney, of scarlet fever and was buried in the hillside graveyard of Killeaghy Chapel.<br>
+<br>Dennis R. Dean </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Carswell, <i>The prospector</i><i>: being the life and times of Rudolf Erich Raspe, 1737&#150;1794</i> (1950) &middot; R. E. Raspe, <i>Singular travels, campaigns and adventures of Baron Munchausen</i><i>: with an introduction by John Carswell</i> (1948) &middot; R. Raspe, <i>Introduction to the natural history of the terrestrial sphere</i>, ed. and trans. A. N. Iversen and A. V. Carozzi (1970) &middot; H. Garland and M. Garland, <i>The Oxford companion to German literature</i> (1997) &middot; A. Geikie, <i>Annals of the Royal Society Club</i> (1917), 128&#150;35<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23148&amp;istheme=&amp;target=RS')">RS</a>, essays
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23148&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, essays&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23148&amp;istheme=&amp;target=Library%20of%20Birmingham')">Library of Birmingham</a>, letters to Matthew Boulton
+   &middot;
+ Birmingham Assay Office, Matthew Boulton collection<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Tassie, paste medallion, 1784, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23148&amp;istheme=&amp;target=Scot.%20NPG')">Scot. NPG</a>; repro. in Carswell, <i>The prospector</i>, frontispiece &middot; J. H. Tischbein, portrait; now lost<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> very little: Carswell, <i>The prospector</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Dennis R. Dean, &#145;<span class="roman"><span class="headword">Raspe,  Rudolf Erich</span>  (1737&#150;1794)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2013 [http://www.oxforddnb.com/view/article/23148, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Rudolf Erich Raspe (1737&#150;1794): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23148 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/23148/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

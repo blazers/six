@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9390;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9390-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9390-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9390#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Field,  Joshua</span>  (1786&#150;1863), <span class="occ">engineer</span>, was born at Hackney, Middlesex, the son of John Field, a corn and seed merchant in the City of London. His father afterwards became master of the Worshipful Company of Merchant Taylors. In 1794 Field was sent to a boarding-school at Harlow, Essex, kept by the Revd J. Brown. In 1803 he began an engineering pupillage at Portsmouth Dockyard under Simon Goodrich, as a draughtsman in the office of Sir Samuel Bentham, and later transferred to the Admiralty at Whitehall. Block-making machinery for the dockyard at Portsmouth was then being made at <script>writeSeealsoLink('../view/article/18357/', "Henry Maudslay's")</script> workshop in Margaret Street, off Oxford Street, London, and when Maudslay requested a naval draughtsman for the work, Field was sent there in 1804.<br>
+<br>In 1810 Field moved with Maudslay to a new works at Lambeth. In 1812 he became a partner in the firm of H. Maudslay &amp; Co., and in 1822 the firm's name changed to Maudslay, Son, and Field. The business specialized in making marine engines but it also made stationary steam engines of various patterns, machinery for flour, sugar, and rice mills and saw mills, equipment for minting coins, machine tools, waterworks pumping machinery, railway locomotives, and fixed haulage engines for railway inclines. It made the tunnelling shield for M. I. Brunel's Thames Tunnel. The first set of ships' machinery the firm built was for the Thames vessel the <i>Richmond</i> (1813), and its first naval contract was for HMS <i>Lightning</i> (1825).<br>
+<br>In 1816 Field was one of the founders of the Institution of Civil Engineers, and he served as vice-president in 1837 and president in 1848 and 1849. He delivered a number of papers at the institution, and in 1821 spent several months making a tour of engineering works in the midlands. Field's illustrated diary of the trip has survived. In 1862 he became a member of the Institution of Mechanical Engineers.<br>
+<br>Field was active as a consulting engineer, helping plan the machinery for laying the Atlantic telegraph cable, and advising the Metropolitan Board of Works on sewage disposal works at Deptford. He advised Isambard Kingdom Brunel on the machinery for his steamships, and was one of the committee appointed to deal with the metropolitan local committees of the Great Exhibition. He patented in 1824 a method of reducing the concentration of salt in marine boilers, but this was superseded later by the widespread introduction of the surface condenser.<br>
+<br>He was elected a fellow of the Royal Society on 3 March 1836 and was also a member of the Society of Arts. He was by religion a nonconformist. Details of his family life are sketchy, but Field's wife, Matilda (1797&#150;1874), is thought to have been a niece of John Medenham, one of the partners in the firm from 1812 to 1820. Two of their sons, Joshua (1829&#150;1904) and Telford Field, became partners in the company during the 1860s. There was also a third son, Sidney, who lived at Reigate. Field died at his residence, Balham Hill House, London, on 11 August 1863, and was buried at Norwood cemetery on 18 August.<br>
+<br>A. P. Woolrich </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. W. Hall, &#145;Joshua Field's diary of a tour in 1821 through the midlands, with introduction and notes&#146;, <em>Transactions</em> [Newcomen Society], 6 (1925&#150;6), 1&#150;41 &middot; E. C. Smith, &#145;Joshua Field's diary of a tour in 1821 through the provinces, pt II&#146;, <em>Transactions</em> [Newcomen Society], 13 (1932&#150;3), 15&#150;50 &middot; K. R. Gilbert, <i>Henry Maudslay, machine builder</i> (1971) &middot; K. R. Gilbert, &#145;Henry Maudslay, 1771&#150;1831&#146;, <em>Transactions</em> [Newcomen Society], 44 (1971&#150;2), 49&#150;62 &middot; J. F. Petree, &#145;Maudslay, Sons and Field as general engineers&#146;, <em>Transactions</em> [Newcomen Society], 15 (1934&#150;5), 39&#150;61 &middot; J. F. Petree, &#145;Henry Maudslay and the Maudslay scholarship&#146;, <em>Journal and Record of Transactions of the Junior Institution of Engineers</em> (1950), 1&#150;18 &middot; C. C. Maudslay, <i>Henry Maudslay (1771&#150;1831)</i> (privately published, 1948?) &middot; [J. F. Petree], ed., <i>Henry Maudslay, 1771&#150;1831, and Maudslay, Sons and Field, Ltd</i> (1949) &middot; J. Cantrell and G. Cookson, eds., <i>Henry Maudslay and the pioneers of the machine age</i> (2003) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9390&amp;istheme=&amp;target=PICE')"><i>PICE</i></a>, 23 (1863&#150;4), 488&#150;92 &middot; <em>Institution of Mechanical Engineers: Proceedings</em> (1864), 15&#150;16 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9390&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 13 (1863&#150;4), iii &middot; <em>The Engineer</em> (21 Aug 1863), 112 &middot; C. Knight, ed., <i>The English cyclopaedia</i><i>: biography</i>, 6 vols. (1856&#150;8) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9390&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9390&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1863) &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>SML, corresp. and MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Weekes, bust, <i>c.</i>1866; posthumous &middot; J. Andrew, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9390&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a> &middot; bust, repro. in Petree, ed., <i>Henry Maudslay, 1771&#150;1831</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;250,000: probate, 1 Sept 1863, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. P. Woolrich, &#145;<span class="roman"><span class="headword">Field,  Joshua</span>  (1786&#150;1863)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/9390, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Joshua Field (1786&#150;1863): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9390 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

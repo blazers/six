@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18362;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18362-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18362-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18362#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Maudith <span class="st"> [Mauduith]</span>,  John</span>  (<em>d.</em> in or after 1343), <span class="occ">ecclesiastic and astronomer</span>, went to Oxford from the Worcester diocese and by 1309 had become a fellow of Merton College, where he remained until 1319 [<i>see </i><script>writeSeealsoLink('../view/theme/95034', "Merton calculators")</script>]. In that year he was admitted rector of Aston Cantlow, Warwickshire, and in 1320 was ordained subdeacon. He remained there until 1330, when he moved north to hold at least two livings: he was rector of Sandal Magna, Yorkshire, in 1330 and still in 1331; and rector of Hatfield, Yorkshire, 1341&#150;3. In 1341 Maudith was granted leave of absence for a year, to take up service with John de Warenne, earl of Surrey and Sussex (<i>d</i>. 1347), and at about this time he became a member of the group of scholars gathered around Richard Bury, bishop of Durham (<i>d</i>. 1345). In 1342 he completed a theological treatise, <span class="italic">Tractatus de doctrina theologica</span>, now in Salisbury Cathedral Library. He was admitted as dean of Auckland, co. Durham, in 1343, and this is the last known record of his life.<br>
+<br>The <span class="italic">Catalogus vetus</span> of Merton College describes Maudith as &#145;a good astronomer who composed astronomical tables and a physician&#146;  (Emden, <span class="italic">Oxf.</span>, 2.1243). He might have regarded astronomy as an ancillary to his medical teaching, although no medical writings by him survive. His astronomical reputation has long rested chiefly on the tables to which the Merton catalogue refers, and here there is much room for misunderstanding. That he assembled a collection of trigonometrical tables in 1310 is not in doubt, but those of sine, semidiurnal arc, tangent, solar declinations and ascensions are substantially taken from, or inspired by, the more famous collections of Toledan tables and of al-Khwarizmi (<i>d</i>. 846). Tables of the ascensions of signs for Oxford are an exception to his heavy borrowing.<br>
+<br>Maudith's reputation rests not only on the tables but also on the explanatory canons to them, works by which, according to some over-enthusiastic accounts, trigonometry was introduced to Europe. If anything was responsible for this important step it was the astronomical tables from which Maudith borrowed. The two sets of canons, one lengthy, the other abbreviated, did comprise an important trigonometrical text, written perhaps not long after 1316; and yet they were almost certainly not by Maudith, but rather the work of Richard Wallingford. The writer of one of the texts indeed refers to Maudith in the third person, explaining that he composed his tables to overcome the difficulties inherent in graduating instruments such as the astrolabe and quadrant.<br>
+<br>Richard Wallingford derived one of his own catalogues of stars from an earlier list by Maudith, dated 1316, in which a certain constant is mentioned as being &#145;according to Profatius in his almanac&#146;  (North, <span class="italic">Richard of Wallingford</span>, 3.157&#150;8). The reference is to a treatise on the so-called &#145;new quadrant&#146; by Jacob ibn Tibbon 
+    (Profatius; <i>d</i>. 1305)
+  , a Jewish astronomer of Montpellier. Why Maudith's reference is of interest is that there are independent reasons for believing that he was himself the editor of a version of the Profatius text in its Latin form, namely that surviving in Cambridge University Library, MS Gg.6.3. While it contains no significant revisions, a new star list (of eighty-six stars) with which it is associated was evidently due to Maudith, some of it on the basis of new observations by him. There is also a shorter list of eleven bright stars, which it is said &#145;John Maudith put on the quadrant&#146;  (North, <span class="italic">Richard of Wallingford</span>, 2.243). There is some ambiguity here as between an actual instrument and a textual recommendation, but none about Maudith's concern with problems of instrumentation, fitting perfectly with the statement by the author of the canons.<br>
+<br>Despite Maudith's concern with astronomy during the first half of his life, during the second he appears to have written nothing whatsoever on the subject. The date of his death is unknown, but in view of his relatively high profile it was probably not long after the last known reference to him, in 1343.<br>
+<br>J. D. North </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18362&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 2.1243&#150;4 &middot; <i>Richard of Wallingford</i><i>: an edition of his writings</i>, ed. and trans. J. D. North, 3 vols. (1976), vol. 1, pp. 3&#150;19, 192&#150;7; vol. 2, pp. 155&#150;8, 243; vol. 3, pp. 157&#150;8 [Lat. orig., with parallel Eng. trans.] &middot; J. D. North, &#145;Medieval star catalogues&#146;, <em>Archives Internationales d'Histoire des Sciences</em>, 20 (1967), 71&#150;83 &middot; J. D. North, <i>Horoscopes and history</i> (1986), 116, 126, 133&#150;4<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18362&amp;istheme=&amp;target=CUL')">CUL</a>, MS Gg.6.3
+   &middot;
+ Salisbury Cathedral, &#145;Tractatus de doctrina theologica&#146;<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;2 bequeathed to University of Oxford: <i>Munimenta academica</i>, RS, 1, 10<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. D. North, &#145;<span class="roman"><span class="headword">Maudith ,  John</span>  (<em>d.</em> in or after 1343)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/18362, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Maudith (<em>d.</em> in or after 1343): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18362 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/18362/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

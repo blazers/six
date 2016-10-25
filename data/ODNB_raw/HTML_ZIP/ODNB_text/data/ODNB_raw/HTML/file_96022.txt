@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 96022;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/96/96022-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/96/96022-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=96022#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bondi, Sir  Hermann</span>  (1919&#150;2005), <span class="occ">applied mathematician and scientific administrator</span>, was born on 1 November 1919 in Vienna, Austria, the son of Samuel Bondi (<i>d</i>. 1959), a doctor and heart specialist with a deep interest in science, and his wife, Helene, <i>n&eacute;e</i> Hirsch (<i>d</i>. 1960). His parents were distant relatives, his paternal grandmother also being a member of the wider Hirsch family. The family was Jewish but non-observant.<h2>
+<a name="Educationinternmentandwartimeresearch"></a>Education, internment, and wartime research</h2>Bondi showed an early aptitude for mathematics; by the time he was nine he was helping his sister, Gabriele, who was five years his senior, with her school homework, and taught himself calculus from a book he found on a visit to his uncle Joseph. His interest in mathematics was further encouraged by a distant relative, Abraham Frankel, who was a professor at the University of Kiel. In 1936 he met Sir Arthur Eddington, who advised him to apply to Trinity College, Cambridge. He was accepted and arrived in England in September 1937, going straight into the second year of the maths tripos. By the following Easter he was convinced that he wanted to pursue a career as a mathematician and his success in the June examinations led the college to award him a senior scholarship. These were troubled times: Bondi was deeply worried at the rising power of Nazi Germany, and when the Austrian referendum on union with Germany was announced, he telegrammed his parents saying they must immediately leave Austria. They heeded his advice, taking the train to Budapest on the morning of 11 March 1938; Hitler marched into Austria the next day.<br>
+<br>On 10 May 1940 Hitler invaded France, Belgium, and the Netherlands, and two days later, as an Austrian citizen, Bondi was interned in an army barracks in Bury St Edmunds. There he met a fellow &#145;alien&#146;, <script>writeSeealsoLink('../view/article/94185/', "Thomas (Tommy) Gold")</script>; the two became lifelong friends and colleagues. He was transported to Camp L in Canada where, under the leadership of Max Perutz, the internees set up a camp &#145;university&#146;, in which several subsequently distinguished scientists participated. Bondi gave lectures on mathematics without the aid of notes or books. This moulded his lecturing style, and with few exceptions he subsequently gave lectures, radio, and television broadcasts without notes.<br>
+<br>In June 1941 Bondi was released and returned to Cambridge as a research student under the supervision of Harold Jeffreys, but in April 1942 he joined the radar research team in the Admiralty Signals Establishment. There he formed a theory group with <script>writeSeealsoLink('../view/article/76123/', "Fred Hoyle")</script> and Tommy Gold. During this period he worked out the theory of the magnetron used to produce high-powered radar beams, and developed the first comprehensive study of wave clutter. Such spare time as he had in the evenings was spent working on astronomy with Hoyle and Gold in the cottage they had rented; in 1943 he was awarded a fellowship at Trinity College on the basis of his research on accretion on stars.<h2>
+<a name="ResearchinCambridge"></a>Research in Cambridge</h2>Bondi returned to Cambridge to take up his fellowship in the summer of 1945 and was also appointed to an assistant lectureship, and from 1948 to a lectureship, in mathematics. His rooms in Trinity became the meeting place for renewed research collaboration with Gold and Hoyle. In 1947 he met Christine Mary Stockman, a fellow mathematician four years his junior who was one of Hoyle's research students, and daughter of Henry Watson Stockman, civil servant. They married on 1 November 1947 at Cambridge register office, with Gold among the witnesses. They had three daughters, Alison, Elizabeth, and Deborah, and two sons, Jonathan and David.<br>
+<br>Bondi's research interests included waves on compressible liquids, the structure of the solar corona and chromosphere, the rotation of the earth, gravitation, and cosmology. A major paper at this time was &#145;Spherically symmetric models in general relativity&#146;, published in the <span class="italic">Monthly Notes of the Royal Astronomical Society</span> in 1947. This clarified and extended earlier work by Georges Lema&icirc;tre and Richard C. Tolman, giving a physical interpretation to the co-ordinates, evaluating the properties of the model, and showing that rapidly collapsing matter might force a light ray passing through it to travel inwards, thus anticipating future results on black hole formation. This paper became a classic and was still frequently referred to more than fifty years later.<br>
+<br>One of the major problems of cosmology, much discussed by Bondi, Gold, and Hoyle, was the time-scale problem: the time constant of the &#145;Hubble expansion&#146; of the universe was estimated by Edwin Hubble to be 1.8 billion years, very short compared with contemporary estimates of 4 billion years for the ages of the oldest rocks of the earth, of meteorites, and of the sun. The Bondi&#150;Gold&#150;Hoyle trio struggled to reconcile these apparently contradictory data until, in late 1947, Gold came up with the thought that if matter were being continually created perhaps it was possible to solve the age problem. The three of them worked out the idea, leading to the &#145;steady state&#146; theory of cosmology, which envisaged new matter being created as the universe expanded, so that on the large scale the universe was unchanging, since it had always existed and always would. Some astronomers were attracted by the theory, others hated it. It made the names of Bondi, Gold, and Hoyle widely known to the general public and to numerous students of science, and was admirably described in Bondi's book <span class="italic">Cosmology</span> (1952). One of the strengths of the steady state theory was that it gave specific predictions that could be tested but, over the following decades, mounting observational evidence on radio source counts and cosmic background radiation were not in agreement with the theoretical predictions, and almost all astronomers abandoned the theory.<br>
+<br>When Bondi met his wife, Christine, she was working on stellar structure and they combined their talents to develop techniques for solving the structure equations, introducing the &#145;Bondi homology variables&#146; to minimize the numerical calculations required to obtain a stellar model. This was before the age of computers at a time when developing efficient algorithms was a prime consideration, and their work was a fine example of the British applied mathematical approach to problems of theoretical physics.<br>
+<br>Bondi's work on accretion began while he was collaborating with Hoyle during the war; it was his detailed analysis of accretion on stars as they moved through the interstellar medium that gained him his research fellowship at Trinity. In 1951 Bondi asked himself what would happen if the star were stationary and embedded in a cloud. This was a relatively straightforward problem, which he completed in a few days, deriving the rate of accretion in terms of the mass of the star and the density and speed of sound in the cloud. He regarded this as a simple piece of work and did not plan to publish it, but Ray Lyttleton persuaded him to do so and the paper, &#145;On spherically symmetric accretion&#146;, published in the <span class="italic">Monthly Notes of the Royal Astronomical Society</span> in 1952, became another widely cited classic.<h2>
+<a name="KingsCollegeandgravitationalwaves"></a>King's College, and gravitational waves</h2>In 1954 Bondi moved to King's College, London, as professor of applied mathematics. There he established a major international research centre in general relativity. The work of Bondi and his team led to an influential series of papers, &#145;Gravitational waves in general relativity&#146;, published in the <span class="italic">Proceedings of the Royal Society</span> from 1958 to 2004. Two of these papers deserve special mention. In the mid-1950s there was debate as to whether general relativity predicted the existence of gravitational waves, and in a paper of 1959, &#145;Exact plane waves&#146;, by Bondi, F. A. E. Pirani, and Ivor Robinson, the first exact solution was given, thus finally demonstrating that general relativity did indeed predict gravitational waves. In a paper of 1962, &#145;Waves from axi-symmetric isolated systems&#146;, by Bondi, M. G. J. van der Burg, and A. W. K. Metzner, the authors conveyed a clear understanding of the transport and reception of energy in such waves, introducing the &#145;Bondi radiation co-ordinates&#146;, the &#145;Bondi mass&#146;, the &#145;news function&#146;, and the &#145;Bondi&#150;Metzner&#150;Sachs group&#146;, thereby laying the foundation for much future work on the subject. Bondi considered this his most important scientific paper. He continued working in this field throughout his subsequent career in scientific administration, and his last paper in the series, &#145;Standing waves&#146;, was published in 2004.<br>
+<br>During his period at King's Bondi became increasingly involved in public education about science, giving series of talks on radio and television, always lucid and inspirational. He wrote several popular books, including <span class="italic">The Universe at Large</span> (1961), <span class="italic">Relativity and Common Sense</span> (1964), and <span class="italic">Assumption and Myth in Physical Theory</span> (1968), which were translated into many languages. It was also during this period that he became friends with the playwright and poet Ronald Duncan, visiting the Duncans' farm in Welcombe on the north Devon&#150;Cornwall border, and having long discussions about science that culminated in Duncan's epic poem <span class="italic">Man</span> (1970&#150;4), which he dedicated to Bondi.<h2>
+<a name="Scientificadministration"></a>Scientific administration</h2>At King's College Bondi was increasingly drawn into administration, advising new universities in the West Indies, Nigeria, and Ghana, planning the rebuilding of King's College, serving as secretary of the Royal Astronomical Society, advising on the Anglo-Australian telescope, and serving as a member, then chairman of the Meteorological Research Committee. He was invited to join the Defence Scientific Committee, and to chair a committee to look at British defence interests in space. Then came a request to produce a one-man report on a proposed Thames barrier to protect London in times of floods. His report of 1967 recommending the building of a barrier near Woolwich was subsequently acted on and the Thames barrier was officially opened on 8 May 1984. Bondi regarded this as one of his major achievements.<br>
+<br>In 1967, while remaining professor of mathematics at King's, Bondi accepted the post of director-general of the European Space Research Organization (ESRO). At this time the organization was in deep financial crisis and there had been no successful satellite launches since its foundation in 1964. Due in major part to Bondi's leadership almost all problems had been resolved by the end of 1968; ESRO I and II and HEOS A had been launched, political difficulties overcome, and a sound budget agreed. New projects were also approved: ESRO Ib was launched in 1969, and HEOS A2 and ESRO IV in 1972.<br>
+<br>Bondi's three-year contract was extended but other events intervened; in 1971 he accepted an invitation from Lord Carrington, the secretary of state, to become the full-time chief scientific adviser to the Ministry of Defence, working with successive ministers, Lord Carrington, Ian Gilmour, Roy Mason, and Fred Mulley. After six years in this post he moved in 1977 to be chief scientific adviser at the Ministry of Energy; during his tenure he led the UK delegation to the International Fuel Cycle Evaluation, and chaired the Severn Barrage Committee. It is a tribute to his chairmanship skills that this very heterogeneous committee, with representatives of water authorities, ecologists, and parliamentarians, reached a unanimous report which recommended that a 16 km barrage be built between Brean Down and Lavernock Point that would generate 7200 MW. The committee's recommendations were not acted upon but remained as the basis of subsequent studies and proposals. Following civil service rules, Bondi retired from the Ministry of Energy at the end of September 1980 but was then appointed chairman and chief executive of the Natural Environment Research Council; during his term of office remote-sensing blossomed, the modern British Geological Survey was born, the council joined the new International Ocean Drilling Program, the RSS <i>Charles Darwin</i> was built, and the council's budget for Antarctic research increased.<br>
+<br>In 1983 Bondi accepted the position of master of Churchill College, Cambridge, moving into residence in 1984. His chairmanship skills, honed over the years with ESRO and in numerous government scientific bodies, were much appreciated by the fellows. A charismatic, warm, and inspiring person, he got on easily and informally with both students and fellows, engaging them in discussions on a wide range of subjects and telling jokes, of which he had a large repertoire, sustaining a vigorous intellectual environment and communal life. Under his leadership the college received a munificent donation from the Danish Maersk Foundation.<h2>
+<a name="Honoursandfinalyears"></a>Honours, and final years</h2>Bondi was elected a fellow of the Royal Society in 1959 and knighted KCB in 1973. He was awarded the gold medal of the Einstein Society in 1983, the gold medal of the Institute of Mathematics and its Applications in 1988, the Austrian decoration of honour for science and art in 1999, and the gold medal of the Royal Astronomical Society in 2001. He served as secretary of the Royal Astronomical Society (1956&#150;64), president of the Institute of Mathematics and its Applications (1974&#150;6), president of the Hydrographic Society (1985&#150;7), and chairman of the International Federation of Institutes of Advanced Study (1982&#150;90). He was awarded honorary doctorates by the universities of Bath, Birmingham, Plymouth, St Andrews, Salford, Southampton, Surrey, Sussex, York, and Vienna.<br>
+<br>Both Hermann and Christine Bondi were very active in the British Humanist Association from the 1950s onwards, and he served as president from 1982 to 1999 and as president of the Rationalist Press Association over the same years. In 1990 he was awarded the G. Birla international award for humanism. He was similarly active in education and the public understanding of science, serving as president of the Association of British Science Writers (1981&#150;3), president of the Association for Science Education (1982&#150;4), and president of the Society for Research into Higher Education (1981&#150;97).<br>
+<br>Following his retirement from Churchill College in 1990 Bondi and his wife moved to a house in Impington, outside Cambridge, from where he continued to pursue his research on gravitational waves. He also remained a tireless worker for Save the Children, delivering envelopes and collecting funds in his home village for as long as he was mobile. In his final years he developed Parkinson's disease, and he died at Addenbrooke's Hospital, Cambridge, on 10 September 2005, of bronchopneumonia. He was survived by his wife, Christine, and their five children. He will be remembered for his foundational work in science, particularly for his fundamental contribution to our understanding of gravitational radiation, and for his work on accretion and cosmology. He will also be remembered for his many major contributions to government science and administration, especially on the Thames barrier, and his leadership of ESRO, and for his outstanding communication skills and contributions to the public understanding of science.<br>
+<br>Ian Roxburgh </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. Bondi, <i>Science, Churchill and me</i> (1990) &middot; J. Krige and A. Russo, <i>A history of the European Space Agency, 1958&#150;1987</i> (2000) &middot; <em><i>The Independent</i></em> (12 Sept 2005) &middot; <em><i>The Times</i></em> (13 Sept 2005) &middot; <em><i>Daily Telegraph</i></em> (13 Sept 2005) &middot; <em><i>The Guardian</i></em> (13 Sept 2005) &middot; I. Roxburgh, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 53 (2007), 45&#150;61 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=Burke%2C%20Peerage')">Burke, <i>Peerage</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2005) &middot; personal knowledge (2009) &middot; private information (2009) &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, papers, <i>c</i>.1940&#150;2000&nbsp;|&nbsp; Bodl. Oxf., Society for Protection of Science and Learning MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=CUL')">CUL</a>, G. B. B. M. Sutherland MSS
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=BFINA')">BFINA</a>, documentary footage</p>
+	  &nbsp;<h3>SOUND</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=BL%20NSA')">BL NSA</a>, current affairs recordings
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=BL%20NSA')">BL NSA</a>, documentary recordings
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=BL%20NSA')">BL NSA</a>, recorded talks</p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, 1959, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=RS')">RS</a> &middot; R. M. Duncan, black wash, 1967, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; photograph, 1980, PA Photos, London &middot; N. Sinclair, bromide print, 1993, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96022&amp;istheme=&amp;target=NPG')">NPG</a> &middot; obituary photographs<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;244,000: probate, 23 Dec 2005, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ian Roxburgh, &#145;<span class="roman"><span class="headword">Bondi, Sir  Hermann</span>  (1919&#150;2005)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2009; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/96022, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Hermann Bondi (1919&#150;2005): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/96022 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/96022/2009-01"> [Previous version of this biography available here: January 2009]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

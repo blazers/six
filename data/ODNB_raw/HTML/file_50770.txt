@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50770;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50770-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50770-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50770#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Adelstein,  Abraham Manie <span class="st"> [Abe]</span></span>  (1916&#150;1992), <span class="occ">occupational physician and medical statistician</span>, was born on 28 March 1916 at Trichard, eastern Transvaal, South Africa, the fourth of five children (four boys and one girl) of Nathan Adelstein, miller in Trichard, and Rosie Cohen, both Jewish immigrants from Latvia. Educated at the Marist Brothers College in Johannesburg, where he became head prefect, he studied medicine at the University of Witwatersrand and qualified MB BS in 1940. After a brief spell as intern at the Johannesburg General Hospital he volunteered for the South African Medical Corps as a medical officer and served in South Africa until 1945. In 1942 he married Cynthia Gladys Miller (<i>b</i>. 1921) of Ladybird, also a former Witwatersrand student, who subsequently obtained an MSc in psychology at Cape Town and worked as a psychologist.<br>
+<br>On demobilization Abe (as he was always known to his friends) returned to Witwatersrand for postgraduate studies in public health and obtained a DPH in 1947 before joining South Africa Railways as health officer for Transvaal province later that year. In 1951 he was seconded to work in Professor Austin Bradford Hill's department of medical statistics at the London School of Hygiene and Tropical Medicine. While there he published what became a classic paper showing that &#145;accident proneness&#146; in the railways was a product of the conditions of work rather than a characteristic of the individual. On returning to South Africa he became director of medical research and statistics in South Africa Railways, but his antipathy to apartheid made him anxious to leave the country, and in 1961 he accepted a post as senior lecturer in medical statistics in the department of social and preventative medicine in the University of Manchester.<br>
+<br>Adelstein's years at Manchester were marred by recurrent illness, but he published useful papers on the mortality from coronary disease in South African railway workers&#151;which showed the striking difference between the high rate in white people (then the highest in the world) and the low rate in black people&#151;and (with Zena Stein and Mervyn Susser) on the incidence of mental disease in the general population, a category of disease that was just beginning to be studied epidemiologically. It was, however, in his subsequent post as chief medical statistician in the General Register Office (1967&#150;81), a government department later subsumed into the office of population censuses and surveys and then the office of national statistics, that he made his mark on British medicine. Ever since the days of William Farr the registrar-general's medical publications had provided mortality data of prime importance to public health, which highlighted the geographical, socio-economic, and temporal differences in mortality by sex and age. These had pointed to potential causes of disease and had monitored the health effects of national policies, whether active in the control of infectious disease or <i>laissez-faire</i> in relation to economic development, and the practice had grown up of collaborating with selected research workers in providing unpublished data for their use and analysis.<br>
+<br>During Adelstein's tenure of the post, the information available in the registrar's office was made available to all bona fide research workers and the chief medical statistician was at their service to help them decide what material would be most useful and how it could be analysed most effectively. Within the department he recognized the need for establishing a cohort based on a random sample of the population, defined at a national census, and for following its members up within the department; for by law the personal information obtained at a census was confidential to the department and it was only by analysis within that department that the information could be made of medical use. He consequently initiated the longitudinal study of a 1 per cent sample of the population which began to bear fruit only after his death.<br>
+<br>With his background in South Africa, Adelstein could be especially helpful to the World Health Organization, with which he worked extensively in developing health-information systems in developing countries. These were important in enabling comparisons to be made between countries with different cultures, health-care systems, and facilities for recording information and hence for assessing their relative needs.<br>
+<br>After formal retirement Adelstein became an honorary professor at the London School of Hygiene and Tropical Medicine, where he continued to undertake research into the role of social factors in disease. From 1956 on he was plagued by a series of disabling and life-threatening diseases, which necessitated multiple operations, but he never allowed this to distort his outward tranquillity. He combined throughout, according to Alwyn Smith, a Manchester colleague, &#145;a sometimes breathtaking honesty with a gentle kindness and an ability to recognise the good points of others. He never appeared even to think unkindly of anyone, and a gentle smile was never far away, whatever the folly or obtuseness of those around him&#146;  (<span class="italic">The Independent</span>). He died at his home, 21 Dunstan Road, Golders Green, London, on 18 October 1992, survived by his wife, son, and daughter.<br>
+<br>Richard Doll </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Fox, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50770&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (28 Nov 1992), 1358 &middot; M. Marmot, <em>The Lancet</em>, 340 (1992), 1463 &middot; A. Smith, <em>The Independent</em> (3 Nov 1992), 11a&#150;d &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50770&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50770&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1993) &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Fox, <i>BMJ</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;67,687: probate, 1993<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Richard Doll, &#145;<span class="roman"><span class="headword">Adelstein,  Abraham Manie </span>  (1916&#150;1992)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50770, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Abraham Manie Adelstein (1916&#150;1992): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50770 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

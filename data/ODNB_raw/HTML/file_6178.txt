@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 6178;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/6/6178-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/6/6178-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=6178#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Cooke,  Roger</span>  (<em>b. </em>1552, <em>d.</em> after 1612?), <span class="occ">alchemist</span>, was born on 1 February 1552. In 1567, at the age of fourteen, he became an assistant to John Dee, with whom he lived for the next fourteen years. Most of the little that is known about Cooke is derived from the diary of John Dee. Cooke seems to have assisted Dee in his alchemical experiments, and may have scryed (crystal gazed) for him. On 28 December 1579 Dee revealed an alchemical secret to Cooke, but on 12 July 1581, when Cooke was not invited to witness an alchemical experiment, they argued. On 5 September Cooke asked Dee's permission to leave him; he departed two days later. Dee describes Cooke as of a melancholy nature, and sought to rectify the ill sentiment between them by promising Cooke &pound;100 as soon as he could afford it, as well as &#145;some pretty alchemical experiments, wheruppon he might honestly live&#146;  (<span class="italic">Private Diary</span>, 13).<br>
+<br>No records of Cooke's life for the two decades after he left Dee have been located, though he seems to have had some association with Francis Anthony, the London medical practitioner and alchemist. On 30 September 1600 Cooke returned to Dee, &#145;offred and promised his faithfull and diligent care and help, to the best of his skill and powre, in the processes chymicall, and that he will rather do so then to be with any in England&#146;  (<span class="italic">Private Diary</span>, 63). Dee agreed, and on 1 November Cooke began his distillations. The reconciliation was short-lived, however, and on 2 February 1601 Dee's son, Arthur, discovered that Cooke was plotting against Dee; despite a series of further reconciliations, Cooke departed for London on 2 March of that year.<br>
+<br>This is probably the same Roger Cooke who was employed by <script>writeSeealsoLink('../view/article/21939/', "Henry Percy")</script>, &#145;the Wizard Earl&#146;, in building and running a still house in the Tower between 1606 and at least 1609. He might also be the Roger Cooke who assisted the experiments of Cornelis Drebbel at the court of Rudolf II and returned to England late in 1612. He seems not to have written anything, and nothing is known about his death.<br>
+<br>Lauren Kassell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The private diary of Dr John Dee</i>, ed. J. O. Halliwell, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6178&amp;istheme=&amp;target=CS')">CS</a>, 19 (1842) &middot; J. Roberts and A. G. Watson, eds., <i>John Dee's library catalogue</i> (1990) &middot; J. W. Shirley, &#145;The scientific experiments of Sir Walter Ralegh, the Wizard Earl and the three magi in the tower, 1603&#150;1617&#146;, <em>Ambix</em>, 4 (1949&#150;51), 52&#150;66 &middot; Bodl. Oxf., MS Ashmole 423, fol. 294 &middot; L. E. Harris, <i>The two Netherlanders</i><i>: Humphrey Bradley and Cornelis Drebbel</i> (1961), 144<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Lauren Kassell, &#145;<span class="roman"><span class="headword">Cooke,  Roger</span>  (<em>b. </em>1552, <em>d.</em> after 1612?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/6178, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Roger Cooke (<em>b. </em>1552, <em>d.</em> after 1612?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/6178 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

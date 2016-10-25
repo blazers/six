@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22371;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22371-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22371-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22371#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=22371&amp;orientation=p')"><img border="0" alt="  William Henry Playfair (1790&#150;1857), by J. Balfour Smyth (after Sir John Watson-Gordon)" onmouseover="status='  William Henry Playfair (1790&#150;1857), by J. Balfour Smyth (after Sir John Watson-Gordon)'" src="/images/article-imgs/22/22371_1_200px.jpg"></a><span class="imagecaption"><b>  William Henry Playfair (1790&#150;1857)</b>, by J. Balfour Smyth (after Sir John Watson-Gordon)</span>
+</div>
+<div class="para">
+<span class="headword">Playfair,  William Henry</span>  (1790&#150;1857), <span class="occ">architect</span>, was born in London on 7 July 1790, the younger son of the expatriate architect <script>writeSeealsoLink('../view/article/37857/', "James Playfair (1755&#150;1794)")</script>, who died when William was four, and his wife, Jessie. That his widow sold her husband's drawings to Sir John Soane and involved the latter in completing works at Cairness House, Buchan, gives an indication of his father's milieu and standing. Ten years later Playfair was sent north to complete his education in Edinburgh, in the house of his bachelor uncle <script>writeSeealsoLink('../view/article/22367/', "Professor John Playfair (1748&#150;1819)")</script>, a noted mathematician and natural philosopher, and one of the principal illuminati of post-Enlightenment Edinburgh, of whom he later wrote that he was &#145;one that I have much cause to revere and love&#146;  (Playfair, letter book 7). There he met future friends and clients likewise being educated from that house&#151;particularly the brothers Andrew and James Rutherfurd, who became his own virtual brothers. Indeed, when later &#145;suffering under the doctor and the lancet&#146; (as he frequently was), he would stay in the country at Craigiehall, with Andrew Rutherfurd (now lord advocate) &#145;living on physic and slops&#146;  (Playfair, letter book 7). Andrew's wife, Sofia, came to take the responsibility for engaging Playfair's domestic staff. Whereas most of his rivals were sons of builders or self-made, Playfair, as a second-generation architect, regarded himself as a gentleman.<br>
+<br>Educated at Edinburgh University, Playfair returned to his family in London on graduating <i>c</i>.1809, there attending both Robert Smirke's office (where his immediate superior was William Burn) and James Wyatt's. He returned to Edinburgh to make a &#145;special study&#146; of architecture in William Stark's office until the latter's death in 1813. Nothing is known of the next three years of his life, although his student drawings in the Royal Incorporation of Architects in Scotland collection show him painstakingly copying masters such as Stark and the brothers Adam, improving his perspective, and developing his stupendous finished drawing technique with the advice of his friend the artist Hugh &#145;Grecian&#146; Williams. He also took the opportunity to accompany his uncle to Paris. At some point Playfair visited Dublin, frequently revisited London (whose architecture he excoriated as lacking the excellence derived from patient study), and in 1843 visited his doctor brother in Italy. He refused to visit Rome, however, and was suitably appalled by the excesses of Florence. Like that of Alexander &#145;Greek&#146; Thomson, his classical architecture was one derived from the best sources and refined in his intellect: reality could prove disappointing.<br>
+<br>In 1816, however, Playfair was one of nine architects to submit designs for the completion of Edinburgh University's Old College. His plan for a single court, his attention to proportion and symmetry, and his evident homage to Robert Adam's design, led the professors to select his designs unanimously, substantially ahead of his nearest rival, William Burn. Refining his designs and building from an office on site, he spent much of his attention on the university over the following nine years. The outstanding library (now called the Playfair Library) has a coffered barrel-vaulted ceiling and rows of giant Corinthian columns with echoes of E.-L. Boull&eacute;e's Temple to the Supreme Being. Playfair achieved the paradoxical distinction of producing an austere building with limited decoration whose very form was intensely rich and picturesque.<br>
+<br>The university was the first of six Playfair buildings which underpinned Edinburgh's claim to be the Athens of the north. In 1818 he was appointed architect of the observatory on Calton Hill, an underscaled Temple of the Winds with a portico to each direction; he was also the architect of the Royal Institution (now the Royal Scottish Academy) on the Mound (1822; extended north and flamboyantly and richly reclothed from 1832) and executant architect under C. R. Cockerell for the National Monument on Calton Hill (1824&#150;8), of which only the western portico was completed, and also designed the proudly austere Royal College of Surgeons, Nicholson Street (1830&#150;32), and the National Gallery on the Mound (1850&#150;57). Their mostly indifferent sites, which contemporaries lamented, Playfair turned to advantage, lending an Attic dignity and almost mythology to each. The emphasis was on very heavy modelling to emphasize light, shade, and monumentality, sparingly used but powerful carved detail, and compositions which carried the eye upward to the skyline. Only in Dollar Academy (1818) did he undertake something comparable outside Edinburgh.<br>
+<br>Almost certainly Playfair had been in Stark's office when the latter entered the 1811 competition for the layout of Calton Hill with a report emphasizing the need for the architecture to complement rather than dominate the landscape. That might explain why the commissioners approached the wholly inexperienced Playfair rather than those building the second New Town, for the layout and design of Calton Hill in 1818. It was to be Playfair's first housing layout, and was awarded without competition. His emphasis was upon the &#145;nature of the ground&#146; rather than neatness of plan on paper. The streets on Calton Hill and the lands north emphasized the contours, and in Royal Terrace (1821 onwards) he produced a lengthy avenue of unmatchable grandeur, punctuated by pavilions with giant-order columns, facing out over the proposed main route to London, and to the sea. At the next level down, Blenheim Place, he turned corners with masterly scenography with curved pavilions with giant colonnades, providing focus for the plainer houses between. The northern parts of the scheme toward Leith proved abortive through the bureaucratic stupidity of proprietors being charged taxes by both Edinburgh and Leith since they could not agree boundaries.<br>
+<br>Given Playfair's identification with the Greek revival and the Athens of the north, it comes as a surprise to see that that was not his contemporaries' perception. John Murray Graham, a friend and client, considered him equally adept in Roman and Greek classical, modern Italian, Gothic, Tudor, and Scottish baronial: in other words, eclectic. It was, rather, more a matter of appropriateness, and response to the picturesque qualities of site. Whereas Italianate classical had suited the new-built Dunphail, Moray, Dunbanagher, Ireland, and Belmont, Edinburgh (all 1828), a Scottish revivalism seemed correct for the romantic extensions in the Edinburgh hinterland he then provided between 1830 and 1845 for his friends, beginning in 1830 with Grange (Sir Thomas Dick Lauder) and Prestongrange, East Lothian (E. G. Suttie), and followed by Meadowbank (1835 for Lord Meadowbank), Craigcrook (1835 for Lord Jeffrey), Bonaly (1836 for Lord Cockburn), Barmore, Argyll (1838 for John Campbell), and Lauriston (1845 for Andrew Rutherfurd).<br>
+<br>Most of Playfair's over sixty commissions were restricted to the vicinity of Edinburgh, for he appears (maybe for health reasons) to have disliked travelling. From <i>c</i>.1819 until his death he lived at 17 Great Stuart Street, Edinburgh. His letter books imply a number of smaller commissions of repair and alteration (for example, Blackhope Farmhouse, Mortonhall, and Castle Grant, Inverness-shire), which he may never have visited. Some major schemes which remained abortive include his grandly classical scheme in 1829 for a quadrangular Advocates' Library facing George IV Bridge which was abandoned; and once his client referred his 1837 portfolio of plans for the rebuilding of Buchanan, Stirlingshire, for judgment by Charles Barry in London, nothing more was heard of the project. The majority of his projects were built during his first fifteen years of practice, when the pressure must sometimes have appeared insupportable. Only three major Edinburgh institutions were constructed thereafter: Donaldson's Hospital (from 1842), the Free College (from 1846), and the National Gallery (from 1850).<br>
+<br>Playfair's office was meticulously run. Each project had a serially numbered set of drawings, in which virtually no latitude was allowed to builder or craftsman: steps, chimneypieces, dados, cornices, and skirtings were alike detailed with as precise measurements as the principal parts of the building. Compared with his contemporaries, Playfair appears to have produced an extraordinary number of drawings for each project: he maintained absolute control of the design through some very rough, large-scaled initial pencil sketches of, say carvings, followed by the necessary plans, elevations, and sections, very few stupendous worked-up elevations or perspectives, and countless sheets of smallish hard-edged details on stiff yellow paper. When Playfair visited a site he scrutinized the work carefully, issuing letters of dismay to the builders about bad building practice, insufficient labour on site, or deviation from specification in the workmanship of drains. They must have dreaded his visits.<br>
+<br>Very little contractual detail survives, other than an excellent specification for the dairy at Floors, Roxburghshire  (Playfair, letter book 7, 10). The sheer quantity of drawings produced between 1817 and 1827 is sufficient to justify either a much larger office than he had (although the celebrated Dundee Harbour engineer James Leslie was his pupil over six years during this period) or his later claim that the collapse of his health&#151;never mind his solitary and often sad life&#151;was the consequence of his dedication to his art, despite the protection offered by his friends. Yet his library included, among excellent editions of Vitruvius and Palladio, many topographical works, books on Elizabethan architecture, building construction, and engravings by Grecian Williams, works by Ruskin (demonstrating that he was keeping up to date), and a good supply of novels. His work was almost his entire life&#151;but not quite.<br>
+<br>Playfair was not easy. He was fastidious, shunned what he regarded as uncouth and rude, and was quick to take offence; even friends and colleagues had to tread warily. In 1829 he had been elected as one of only seven architect members of the Royal Scottish Academy, but he later shunned professional circles and did not join the Architectural Institute of Scotland after its foundation in 1849&#150;50. The artist David Roberts described him as a &#145;difficult customer&#146;, and David Octavius Hill, acting as client on behalf of the Royal Scottish Academy, had to coax him back to act for the academy in the new National Gallery after another prickly resignation. In 1845 he likewise resigned after six years as an officer of the board of the Scottish Widows, following another imagined slight. Despite his success with Edinburgh University, he latterly refused to enter competitions, perhaps in disenchantment with Donaldson's Hospital (won in competition against David Hamilton and James Gillespie Graham): &#145;I am resolved to adhere to my original determination to produce no plan [for the Free College] in competition&#146;  (Playfair, letter book 7). So the trustees abandoned the competition, and appointed him. Playfair responded with a cloistered Oxbridge college planned with genius so that its twin towers framed the axis between the tower of Tolbooth St John's and the pediment of the Royal Institution. Had his plan for the Mound been adopted, the National Gallery would have formed part of the composition.<br>
+<br>Playfair's health deteriorated after the early 1840s, when his sister Jessie came to live with him. His declining years were dominated by Donaldson's Hospital and the National Gallery. The former, an enormous quadrangle in the Elizabethan manner he had used to refashion the skyline and rebuild the offices of Floors (from 1837), displays the influence of the many books on Elizabethan architecture in his library. He desired it to be English in character, somewhere where Henry VIII might have met Anne Bullen (Boleyn). Most contemporaries regarded the hospital as his best design, although several lamented its lack of the vigorous three-dimensionality of, say, Heriot's Hospital. Like Floors, it was a paradox of a clear classical plan with a coruscating skyline. The National Gallery, back in the city, was a return to neo-classicism: two art galleries side by side within a single frame, a spine wall running down the centre. As built (lacking its original towers), the decoration is limited to Ionic columns and pilasters, pediments, and cornice. The rich red romantic interior decorated by David Ramsay Hay was encased within a shell of supreme plain elegance. If eclectic he ever had been, at the last Playfair had returned to Grecian purity. Playfair died at his home in Edinburgh on 19 March 1857 and was buried there in Dean cemetery.<br>
+<br>Charles McKean </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=Colvin%2C%20Archs.')">Colvin, <i>Archs</i>.</a> &middot; Register of Sasines, NA Scot. &middot; W. Playfair, letter books, diary, and miscellaneous, U. Edin. L. &middot; <i>The catalogue of the valuable library of the late W. H. Playfair</i> (1857) [sale catalogue, T. Nisbet, Edinburgh, 27&#150;8 Nov 1857] &middot; A. C. Fraser, <i>The building of Old College</i> (1989) &middot; I. Gow, &#145;Playfair: a northern Athenian&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=RIBA%20Journal')"><i>RIBA Journal</i></a>, 97 (May 1990), 36&#150;9 &middot; I. Gow, &#145;William Henry Playfair&#146;, <em>Scottish Georgian Society Journal</em>, 11 (1984), 43&#150;55; repr. in D. Walker and others, <i>Scottish pioneers of the Greek revival</i> (1984) &middot; Playfair's inventory, registered 27/5/1857, NA Scot., NAS/SC/70/1/94 p. 415 &middot; <i>RIAS/Landmark Trust series of illustrated architectural guides to Scotland</i> &middot; d. cert. &middot; will, PROB 11/2259, sig. 775 &middot; J. M. Graham, &#145;A notice of the life and works of William Henry Playfair&#146;, <i>Transactions of the Architectural Institute of Scotland</i> (1862), 13&#150;29 &middot; C. McWilliam, D. Walker, and J. Gifford, <i>The buildings of Edinburgh</i> (1984) &middot; C. McWilliam, <i>The Lothians</i> (1978)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, drawings and references to Playfair buildings
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, letter-book
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, corresp. relating to Donaldson's School
+   &middot;
+ Royal College of Surgeons, Edinburgh, drawings and corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=U.%20Edin.')">U. Edin.</a>, drawings, letter books 4 and 7
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, accounts, diary, and letters, MSS 3084&#150;3085&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=CUL')">CUL</a>, memoranda, commonplace book, and scrapbook
+   &middot;
+ Edinburgh City Archives, ECA, CC, Trunk 2, Box 1
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, corresp. with C. R. Cockerell
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, letters to Andrew Rutherfurd
+   &middot;
+ Royal Commission on the Ancient and Historical Monuments of Scotland, Edinburgh, collection of the Royal Incorporation of Architects in Scotland
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, corresp. with Lord Lynedoch<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Nicholson, oils, 1818, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=RIBA%20BAL')">RIBA BAL</a> &middot; portrait, <i>c.</i>1850, Donaldson's Hospital, Edinburgh &middot; J. W. Gordon, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=Scot.%20NPG')">Scot. NPG</a> &middot; J. B. Smyth, stipple (after J. Watson-Gordon), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22371&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> [<i>see illus.</i>]<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;4909 10<i>s</i>. 1<i>d</i>.: confirmation, 27 May 1857, NA Scot., SC 70/1/94/415&#150;23<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Charles McKean, &#145;<span class="roman"><span class="headword">Playfair,  William Henry</span>  (1790&#150;1857)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22371, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Henry Playfair (1790&#150;1857): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22371 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

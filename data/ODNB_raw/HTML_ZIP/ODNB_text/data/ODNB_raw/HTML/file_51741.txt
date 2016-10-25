@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51741;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51741-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51741-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51741#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Carslaw,  Horatio Scott</span>  (1870&#150;1954), <span class="occ">mathematician</span>, was born on 12 February 1870 at Helensburgh, Dunbartonshire, Scotland, the fifth son of William Henderson Carslaw, a Free Church minister, and his wife, Elizabeth, <i>n&eacute;e</i> Lockhead. After an early education at Glasgow Academy he attended Glasgow University where he studied under Professor William Jack, gaining his MA in 1891. He went on to study mathematics at Emmanuel College, Cambridge, and was fourth wrangler in 1894. His first academic appointment was as assistant to Jack at Glasgow in 1896. In 1897 he made study visits to Rome, Palermo, and G&ouml;ttingen. He was made a Cambridge MA in 1898 and subsequently took doctorates at both Glasgow (1899) and Cambridge (1905).<br>
+<br>Carslaw's visit to G&ouml;ttingen was the principal influence shaping his future research. During his stay the theoretical physicist Arnold Sommerfield introduced him to continental advances, then poorly known in the English-speaking world, and to modern notions of mathematical exactitude, especially the rigorous attention to detail in the application of mathematics. Carslaw worked intensively to apply advanced complex variable analysis to problems of heat and diffraction. In 1903 he took up an appointment to the chair of pure and applied mathematics at the University of Sydney. Aquiline, keen-eyed, bespectacled, already balding, he was by office the leading mathematician in New South Wales, indeed in Australia as a whole. This context drew his attention to matters of mathematical education. He once described himself as a teacher who enjoyed teaching; others saw him as something of a showman in the lecture room. He was active in both the administrative and the expository aspects of school and undergraduate mathematics, and wrote texts on calculus, trigonometry, and non-Euclidean geometry. His many students included E. M. Wellish (later his deputy) and J. C. Jaeger, his subsequent collaborator.<br>
+<br>More than a textbook, and incorporating then recent results, was Carslaw's <span class="italic">Introduction to the theory of Fourier's series and integrals and the mathematical theory of the conduction of heat</span> (1906). Work on Fourier (trigonometric) series and their applications was a lifelong preoccupation, and this text was several times revised and reissued.<br>
+<br>Carslaw married a widow, Ethel Maude Cruickshank, <i>n&eacute;e</i> Clarke, on 12 February 1907. She died on 3 June of the same year, and he never remarried. Not surprisingly, these events correspond to a hiatus in Carslaw's mathematical output; he published nothing during 1907&#150;8. However his research work in time resumed and he contributed many papers, both innovative and expository, some seventy in all. Honours came to him, including doctorates of science (Adelaide, 1926) and laws (Glasgow, 1928). He was a fellow of the royal societies of Edinburgh and of New South Wales. He retired in 1935.<br>
+<br>Carslaw's most enduring mathematical legacy, <span class="italic">Operational Methods in Applied Mathematics</span> (1941; 2nd edn, 1948; co-authored with Jaeger), is a product of his retirement. This book introduced into undergraduate curricula the &#145;Laplace transform&#146;, a front-line research topic which became in record time standard fare, displacing the earlier, unsatisfactory &#145;operational calculus&#146;.<br>
+<br>Carslaw continued to work after his retirement, despite failing eyesight. Ever humanely left-leaning, he devoted his later years to another long-standing interest, the pursuit of equitable income tax schemes. He died at his home, Thule, Osborne Road, Burradoo, New South Wales, Australia, on 11 November 1954 and was buried the next day in the Anglican section of Bowral cemetery.<br>
+<br>Michael A. B. Deakin </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Journal of the London Mathematical Society</em>, 31 (1956), 494&#150;501 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51741&amp;istheme=&amp;target=AusDB')"><i>AusDB</i></a>, 7.578&#150;9 &middot; J. C. Jaeger, &#145;Horatio Scott Carslaw, 1870&#150;1954: a centennial oration&#146;, <em>Gazette</em> [Australian Mathematical Society], 8 (1981), 1&#150;18 &middot; <em>The Australian Mathematics Teacher</em>, 11/3 (Nov 1955) &middot; I. S. Turner, &#145;The first hundred years of mathematics at the University of Sydney&#146;, <em>The Australian Mathematics Teacher</em>, 9 (1953), 12&#150;17, 26&#150;34 &middot; M. A. B. Deakin, &#145;The ascendancy of the Laplace transform and how it came about&#146;, <em>Archive for History of Exact Sciences</em>, 44 (1992), 265&#150;86 &middot; <em>Sydney Morning Herald</em> (12 Nov 1954), 3, 10 &middot; <em>The Times</em> (26 Nov 1954), 10 &middot; <em>Journal and Proceedings of the Royal Society of New South Wales</em>, 89 (1956), xxvii &middot; M. S. Paterson, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51741&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 28 (1982), 162&#150;203 [obit. of J. C. Jaeger] &middot; M. S. Paterson, &#145;John Conrad Jaeger, 1907&#150;79&#146;, <em>Historical Records of Australian Science</em>, 5/3 (1982), 64&#150;88 &middot; <em>Sydney Morning Herald</em> (16 Feb 1907), 12 &middot; <em>Sydney Morning Herald</em> (5 June 1907), 8 &middot; H. O. Lancaster, &#145;The departments of mathematics at the University of Sydney&#146;, <em>Gazette of the Australian Mathematical Society</em>, 13/2 (1986), 29&#150;38<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Basser Library, Canberra<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> three photographs, 1903&#150;39, repro. in <em>Australian Mathematics Teacher</em>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> A$55,579: <i>AusDB</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael A. B. Deakin, &#145;<span class="roman"><span class="headword">Carslaw,  Horatio Scott</span>  (1870&#150;1954)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51741, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Horatio Scott Carslaw (1870&#150;1954): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51741 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18463;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18463-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18463-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18463#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=18463&amp;orientation=p')"><img border="0" alt="  John Mayow (bap. 1641, d. 1679), by William Faithorne the elder, pubd 1674" onmouseover="status='  John Mayow (bap. 1641, d. 1679), by William Faithorne the elder, pubd 1674'" src="/images/article-imgs/18/18463_1_200px.jpg"></a><span class="imagecaption"><b>  John Mayow (<em>bap. </em>1641, <em>d.</em> 1679)</b>, by William Faithorne the elder, pubd 1674</span>
+</div>
+<div class="para">
+<span class="headword">Mayow <span class="st"> [Mayer, Mayo]</span>,  John</span>  (<em>bap. </em>1641, <em>d.</em> 1679), <span class="occ">physiologist and chemist</span>, was born in the manor house of Brae, in the parish of Morval, near Looe, Cornwall, and baptized at Morval on 21 December 1641, the second son and third child of Phillip Mayow, gentleman, and Frances, daughter of John Stuckley of Afton. He was received as a commoner at Wadham College, Oxford, on 2 July 1658 (under the name John Mayouwe), and admitted scholar on 23 September 1659. On the recommendation of Henry Coventry, a former fellow of the college, he was elected on 3 November 1660 to a jurist's fellowship at All Souls College from which he resigned in 1678. He graduated BCL on 30 May 1665, and DCL on 5 July 1670. Mayow obtained the further privilege of studying medicine, which exempted him from taking holy orders. Although he never took a medical degree he practised as a physician, his knowledge probably being acquired through his friendship with the physician Thomas Millington. Other important scientific contacts at Oxford included John Castle, Thomas Guidott, Robert Plot, John Ward, and Christopher Wren, all of whom were interested in anatomy, physiology, chemistry, and the new experimental philosophy. He almost certainly knew Richard Lower, a fellow Cornishman, who was working on the function of respiration with Thomas Willis, Sedleian professor of natural philosophy. His writings indicate a close familiarity with the mechanical philosophy of Ren&eacute; Descartes. Mayow took his facts from great observers like Robert Boyle, Marcello Malpighi, Nicolaus Steno, Willis, and Lower, but above all from his personal dissections, observations, and experiments.<br>
+<br>The details of Mayow's career between 1670 and 1679 remain in shadow. He visited London on several occasions, where he shared with Robert Hooke his interest in respiration and combustion, but spent most of the teaching year in residence at All Souls. During the summer season he practised medicine at Bath, where he made a careful study of the spa waters, and published the results in a tract &#145;De sal-nitro&#146;. In his <span class="italic">Discourse of Bath</span> (1676), Mayow's former Oxford colleague Thomas Guidott denounced his chief conclusion that there was no nitre (potassium nitrate) in Bath waters, and suggested jealously that Mayow &#145;ploughed with my Heifer&#146;  (T. Guidott, <span class="italic">Discourse of Bath</span>, 1676, 6). Mayow was elected FRS on 30 November 1678 on the recommendation of Hooke, who clearly thought highly of his experimental talents.<br>
+<br>Mayow began the study of chemistry about 1667 with the Oxford chemist William Wildan, with whom he learned to prepare mineral acids, the art of distillation, the purification of metals, and the preparation of medicines. At the same time he appears to have acted as an occasional assistant to Boyle and Lower in their pneumatic experiments, some of which were devoted to the possibility of blood transfusion. In October 1667 Hooke and Lower performed a pulmonary insufflation procedure whereby an incision was made in the lungs of a dog while it was kept alive by air being artificially pumped into the lungs with bellows. Hooke believed this to be a crucial demonstration disproving the mechanical theory of respiration in favour of a chemical particulate theory that something extractable from the air powered the normal motions of respiration. The success of this brutal experiment in London inspired Mayow to write an essay on the mechanism of respiration, to which he coupled a medical essay on rickets. The <span class="italic">Tractatus duo, de respiratione et de rachitide</span> was published at Oxford in 1668 and was favourably received by contemporaries. The second tract on rickets complemented Francis Glisson's comprehensive treatise on the disease published in 1650. It provided a clear clinical description of the disease and attributed the deformed limbs and pointed chests of victims to muscles failing to grow in the same proportion as the bones to which they were attached. The subject of the first essay, respiration, determined the work of Mayow's life. Both essays were republished at Leiden in 1671, and an English translation of <span class="italic">De rachitide</span>, by W. Sury, appeared under the title <span class="italic"><i>Rhachitidologia</i></span> at Oxford in 1685. The two tracts were meanwhile revised and republished at Oxford in 1674 (with the vice-chancellor's imprimatur, 17 July 1673), together with three new essays (&#145;De sal-nitro&#146;, &#145;De motu muscularis&#146;, and &#145;De respiratione foetus&#146;) under the title <span class="italic">Tractatus quinque medico-physici</span>. This contains the only known portrait of Mayow. The book was dedicated to his patron, Coventry, and republished at The Hague in 1681 under the title <span class="italic">Opera omnia</span>, and at Geneva in 1685. They were also translated into Dutch (1684), German (1799), French (1840), and English as <span class="italic">Medico-Physical Works</span>, by A. Crum Brown and L. Dobbin for the Alembic Club of Edinburgh in 1907.<br>
+<br>In the tract on respiration (1668, revised 1674) Mayow described perfectly its mechanism, with the movement of ribs and diaphragm. He understood that the lungs were moved by the action of the diaphragm, and suggested that the internal and external intercostal muscles brought about the inspiration of air, which then expanded naturally into the enlarged space produced in the chest cavity. The function of breathing was not to cause the lungs to expand or to cool the blood, as William Harvey had thought, but to bring air in contact with the blood, to which it gave up its &#145;nitrum hoc aerium&#146; (&#145;aerial nitre&#146;), and from which it carried off the vapours produced by the heating of the blood. He argued that the heart could not possibly be dilated by the blood fermenting in its cavity (as Descartes had suggested in <span class="italic">L'homme</span>, 1664), but that it is a muscle, whose function is to drive the blood through the lungs and over the body, a view proved experimentally the following year by Lower (<span class="italic">Tractatus de corde</span>, 1669). The blood carried the aerial nitre constituent to the muscles, and their motion resulted from the chemical reaction (fermentation) with the combustible matter (sulphur) contained in them. The heart, like any other muscle, ceased to act when the nitro-aerial particles were no longer supplied to it. Air deprived of aerial nitre necessarily produced death. The tract clearly demonstrated awareness of ideas current in chemistry as well as physiology, especially those of Willis, but does not appear to be based on personal experiments.<br>
+<br>Experiments with the new air pump in the early 1660s with birds, mice, and candles had led Boyle to conclude that the air acted as a transporting agent to remove impurities from the lungs to the external air. In the <span class="italic">Micrographia</span> (1665), Hooke developed a theory of combustion that owed much to a widely known contemporary meteorological theory that was based upon a gunpowder analogy. According to this nitro-aerial theory, thunder and lightning were likened to the explosion and flashing of gunpowder, whose active ingredients were known to be sulphur and nitre. Since it was also known that nitre lowered the temperature of water and fertilized crops, it could be supposed that the nitrous particles of air were probably responsible for snow and hail and the vitality of vegetables. Such ideas can be traced directly to the work of the Polish alchemist Michael Sendivogius, especially his <span class="italic">Novum lumen chymicum</span> (<span class="italic">New Light of Alchemy</span>, 1604), in which he had identified <i>sal nitrum</i> (nitre) as a universal salt and a component of the atmosphere. It was Mayow who developed this nitro-aerial theory to its fullest extent in 1674 in the tract &#145;On sal nitrum and the nitro-aerial spirit&#146; in which he explored the physico-chemical properties of this &#145;vital, igneous and highly fermentative spirit&#146;  (Mayow, 1). He used the theory to explain a very wide range of phenomena, including respiration, the heat and flames of combustion, calcination, deliquescence, the maintenance of body heat, the scarlet colour of arterial blood, plant growth, and, once more, meteorological phenomena. He recognized saltpetre as containing a base and an acid, and that (following Sendivogius), the acid part was formed from one of the air's constituents, the air being composed of these nitrous particles and other materials that were left behind after respiration and combustion. He showed that when a candle burned in an inverted round bottomed glass flask submerged in water, it consumed the nitrous part of the air, which thereupon lost its elasticity, causing the water to rise. The same thing happened when a live mouse replaced the candle. &#145;Hence&#146;, he concluded, &#145;it is manifest that air is deprived of its elastic force by the breathing of animals very much in the same way as by the burning of flame&#146;  (Mayow, 75). Calcination involved the mechanical addition of nitro-aerial particles to a metal (such as antimony) which, he knew from some of Boyle's findings, brought about an increase in weight. This explanation seemed confirmed by the fact that antimony produced the same calx when it was heated in air as when it was dissolved in nitric acid and heated. The rusting of iron and the conversion of iron pyrites into vitriol (sulphuric acid) were due to the same cause. Combustion was possible only when sulphurous (that is, inflammable) matter came into contact with nitro-aerial particles.<br>
+<br>The older tract, &#145;De respiratione&#146;, revised, followed &#145;De sal-nitro&#146; and Mayow next extended his explanation of respiration to the foetus in the uterus and the chick in the egg. The maternal blood supplied the foetus not only with nutrition but also with nitro-aerial particles. The egg, he believed, contained &#145;pure or vital air&#146;, and not ordinary air  (Mayow, 219). Moreover, as the egg is kept warm and the chick itself does little work, it needs little respiration. In the tract &#145;Muscular motion and animal spirits&#146; he modified Descartes's explanation of muscular action, and his own account of 1668, by suggesting that animal spirits were the nitro-aerial particles that, separated from the blood in the brain, travelled along the nerves to the muscles, where they combined with sulphurous matter and caused the muscles to contract by the vehement motion set up in the fibres. Although divided into tracts, the <span class="italic">Tractatus quinque</span> is given unity of form by the way the nitro-aerial particles are deployed to develop a coherent physiological system. While he carefully qualified his assertions when they were not fully rooted in experience and logic, the book was less favourably received than the <span class="italic">Tractatus duo</span>. Henry Oldenburg, secretary of the Royal Society, and a friend of Boyle's, was particularly hostile&#151;no doubt because Mayow seemed closer to Hooke than Boyle in the debates over combustion and respiration.<br>
+<br>Mayow died in an apothecary's house bearing the sign of the anchor in York Street, Covent Garden, &#145;having a little before been married, not altogether to his content&#146;  (Wood, <span class="italic">Ath. Oxon.</span>, 1119). Mayow's will, dated 24 May 1679, leaves bequests to his wife and son, John, as well as to his mother, brother, and sisters. He was buried in the church of St Paul, Covent Garden, on 10 October 1679.<br>
+<br>Mayow's two books were widely read and quoted both by contemporaries and by later writers. Early historians of chemistry liked to find a close resemblance between Mayow's aerial nitre and the late eighteenth-century oxygen theory of combustion and respiration, and this interpretation caused much controversy among twentieth-century historians of science concerned with Mayow's originality. But it is only the transference properties that are similar. Quite apart from different theoretical entities being used by Mayow and Lavoisier, Mayow's theory was essentially a Cartesian mechanical, not chemical, theory of combustion and respiration. It also remained locked into a dualistic and panvitalistic world of powers and principles. Nevertheless, despite the speculative character of the nitro-aerial theory, there is much to admire concerning Mayow's experimental ingenuity. Although he did not develop the pneumatic trough for collecting gases, he devised a method for capturing the &#145;wild spirits&#146; (gases) that his contemporaries found so elusive by arranging for pieces of iron to be lowered into nitric acid inside an inverted cupping glass. His method of transferring an air (gas) from one vessel to another was original and influential. He must be classed with Hooke and Boyle, possessing the scientific imagination of the one, the tenacity of the other. Mayow was a major figure in the Restoration school of Oxford experimentalists who took Harvey's discovery of the circulation of the blood as the basis for further experimental investigations. Mayow had the genius to perceive exactly the problems that had to be solved before any great advance in chemistry or physiology could be made; to guess at and partly to discover their solutions; and he showed a critical faculty in theory and experiment that was not to be met with in these two sciences until the time of Lavoisier.<br>
+<br>W. H. Brock </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. McKie, &#145;The birth and descent of John Mayow&#146;, <em>London, Edinburgh, and Dublin Philosophical Magazine</em>, 7th ser., 33 (1942), 51&#150;60 &middot; J. R. Partington, &#145;The life and work of John Mayow&#146;, <em>Isis</em>, 47 (1956), 217&#150;30, 405&#150;17 &middot; J. R. Partington, <i>A history of chemistry</i>, 2 (1961), 577&#150;613 &middot; R. G. Frank, <i>Harvey and the Oxford physiologists</i> (1980), chaps 9 and 10 &middot; H. Guerlac, &#145;The poet's nitre: studies in the chemistry of John Mayow&#146;, <em>Isis</em>, 45 (1954), 243&#150;55 &middot; Z. Szydlo, <i>Water which does not wet hands</i><i>: the alchemy of Michael Sendivogius</i> (1994), chaps 9 and 10 &middot; J. Mayow, <i>Medico-physical works</i>, Alembic Club Reprints, 17 (1907) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 3.1119 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=IGI')"><i>IGI</i></a> &middot; T. K. Brown, &#145;Mayow, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; will, TNA: PRO, PROB 11/363, sig. 83 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> stipple, 1798 (after D. Loggan), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; J. Caldwell, line engraving, 1799 (after D. Loggan), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; A. Gajani, line engraving, 1815 (after A. Gajani), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; W. Faithorne the elder, line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=Wellcome%20L.Wellcome%20Library%20for%20the%20History%20and%20Understanding%20of%20Medicine%2C%20London')">Wellcome L.</a>; repro. in J. Mayow, <i>Tractatus quinque medico-physici</i> (1674) [<i>see illus.</i>] &middot; coloured stipple, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18463&amp;istheme=&amp;target=BM')">BM</a>; repro. in Mayow, <i>Tractatus</i> (1674)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> see will, 1680, TNA: PRO, PROB 11/363, sig. 83<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. H. Brock, &#145;<span class="roman"><span class="headword">Mayow ,  John</span>  (<em>bap. </em>1641, <em>d.</em> 1679)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/18463, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Mayow (<em>bap. </em>1641, <em>d.</em> 1679): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18463 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/18463/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

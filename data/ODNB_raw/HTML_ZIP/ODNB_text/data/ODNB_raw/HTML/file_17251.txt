@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17251;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17251-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17251-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17251#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Lyly,  John</span>  (1554&#150;1606), <span class="occ">writer and playwright</span>, was the eldest of eight children of Peter Lyly (<i>d</i>. 1569) and his wife, Jane Burgh (or Brough), of Burgh Hall in the North Riding of Yorkshire. He may have been born in Rochester, where his father is mentioned as a &#145;notary public&#146; at the installation ceremonies for John Ponet in 1550, or perhaps in Canterbury, where the births of his younger siblings are registered between 1562 and 1568.<h2>
+<a name="Earlyyearsandfamilyconnections"></a>Early years and family connections</h2>Lyly inherited a family name already notable in the annals of literary scholarship. His grandfather, <script>writeSeealsoLink('../view/article/16665/', "William Lily")</script>, was a leading member of the generation of scholars that brought Italian humanism to England, a colleague of More, Colet, and Erasmus in the founding of St Paul's School, the first humanistic grammar school in the country. Lily was high master there from 1509 until his death in 1522 or 1523, when he was succeeded by his son-in-law John Rightwise. Lily's fame as a grammarian was carried into succeeding generations by the name attached to the standard Latin grammar book (generally known as Lily's grammar though it was the result of collaboration with Colet and Erasmus). Interestingly enough, its dry scholastic forms, asserting a necessary relationship between stylistic purity and moral rectitude, teaching &#145;pure&#146; Latinity by means of model sentences inculcating virtue, can be seen to foreshadow the mode of Lyly's later fictions, where the connections his grandfather established are put to question.<br>
+<br>The family's scholarly inheritance was carried forward by William's eldest son, <script>writeSeealsoLink('../view/article/16663/', "George Lily")</script>, who, like his father, travelled to Italy in pursuit of the sources of humanist knowledge; but there, appointed as secretary to Reginald Pole, he was soon caught up in the religious battle between Pole and his kinsman Henry VIII. When, in the reign of Mary, Cardinal Pole became archbishop of Canterbury, George Lily became a canon of Canterbury Cathedral, establishing the family's connection with that part of the country. Fortunately for the family, both Pole and George Lily died about the same time as Elizabeth came to the throne, so that the surviving members were able to distance themselves from the tradition of Catholic loyalty. John Lyly's father, Peter, had in 1554 been given, no doubt by his brother's influence, the reversion of a canon's stall in Canterbury Cathedral, but the reversion never fell due, and he navigated the troubled religious situation at Elizabeth's accession without penalty, and went on to serve the protestant Archbishop Matthew Parker as a minor ecclesiastical functionary, a &#145;registrar&#146;.<br>
+<br>Lyly's family on his mother's side belonged to a tightly-knit group of landowners in the area around Richmond, Yorkshire&#151;Hauxwell, Middleton Tyas, East Harsley, Gilling West, Caterick. The intermarriages between members of these families is very complex, but it is known that in the mid-sixteenth century Sir Ralph Rokeby had married a daughter of the Burgh family and also that Lyly's mother, Jane Burgh, possessed lands that had earlier belonged to the family of Rokeby. The connections forged by this marriage were reinforced when, on 22 November 1583, John Lyly married the heiress Beatrice (Betteris) Browne (whose mother was a Rokeby). For the career of John Lyly perhaps the most important point about these family ties was that they intersected at various points with the family of William Cecil, Lord Burghley, whose aunt, Joan Cecil, had married a member of the Browne family. The humanistically inclined Burghley must also have known George Lily from the time when he accompanied Cardinal Pole on his mission to England.<br>
+<br>It seems probable that John Lyly was educated at the King's School in Canterbury, his two younger brothers being named in the school register. In 1569 he entered Magdalen College, Oxford, following in the footsteps of his grandfather and uncle. Anthony Wood reports that Lyly:<blockquote>was always averse to the crabbed studies of logic and philosophy [the staples of the curriculum]. For so it was that his genie being naturally bent to the pleasant paths of poetry (as if Apollo had given him a wreath of his own bays, without snatching or struggling) did in a manner neglect his academical studies. (Wood, <span class="italic">Ath. Oxon.</span>, 1.676, paraphrasing Blount's dedicatory epistle to his <span class="italic">Six Court Comedies</span> (1632))</blockquote>In spite of these disadvantages he passed through the grades of BA (1573) and MA (1575). In 1574 he had besought Lord Burghley as chancellor of the university (&#145;patronus suus colendissimus&#146;) to obtain letters appointing him to a fellowship at Magdalen. The proposal was not taken up, but Burghley remains so constant a factor in Lyly's life that it seems possible that Lyly was trying to exploit the family loyalty that Burghley certainly displays in his relation to Beatrice's cousin, the separatist, Robert Browne, bailing him from prison, reinstating him in his parish, and overriding the laws of the land to do so. It is clear that Lyly continued to cherish the family connection even after Burghley's death, giving his eldest son the name of Robert Browne Lyly (and repeating the name for his second son when the first died) and marrying his daughter Frances to William Browne of Tolthorpe, the separatist's nephew.<br>
+<br>Given his academic disappointments, Lyly seems to have taken refuge, like others since his time, in a belief that London would support the ambitions that Oxford had denied. He is next heard of living in the Savoy in the Strand. This institution had been founded in the reign of Henry VIII as a hospice for the indigent and the enfeebled, but by the time Lyly resided there it had come to serve as a London address for noblemen and their servants. The master of the Savoy at this point was William Absolom (appointed in 1576), another native of Canterbury, who had taught in the King's School between 1564 and 1566 when Lyly was of age to be a pupil there. It was in the Savoy, Gabriel Harvey records, that &#145;young Euphues hatched the eggs his elder friends laid&#146;  (<span class="italic">Works of Gabriel Harvey</span>, 2.124).<h2>
+<a name="Euphues"></a>Euphues</h2>
+<span class="italic">Euphues, the Anatomy of Wit: Very Pleasant for All Gentlemen to Read</span> was published in 1578, and immediately made Lyly the most fashionable author in England. The book is, as Harvey's gibe indicates, a mosaic composed of scraps of humanist wisdom and gossipy classical quotations (mostly from Plutarch and Pliny) and much of this material is indeed copied out of the encyclopaedias compiled by the greatest of the &#145;elder friends&#146;, Erasmus. His <span class="italic">Adagia</span>, <span class="italic">Similia</span>, <span class="italic">Apophthegmata</span>, and <span class="italic">Colloquia</span> are continually drawn on.<br>
+<br>Under the incrustation of these classical ornaments <span class="italic">Euphues</span> tells a simple story, recording what might be regarded as the basic humanist legend: a young man &#145;of more wit than wealth, and yet of more wealth than wisdom&#146;  (<span class="italic">Works</span>, 1.184) supposes he can succeed in the world by mere gifts of nature without worldly experience, and armed only with theoretical knowledge and literary precepts. The history of the <i>euphues</i> thus provides a scholastic variation on the story of the prodigal son. The name comes from Roger Ascham's educational treatise, <span class="italic">The Scholemaster</span> (1570), which states that <i>euphues</i>:<blockquote>is he that is apt by goodness of wit and appliable by readiness of will to learning, having all other qualities of the mind and parts of the body that must another day serve learning. But commonly the fairest bodies are bestowed on the foulest purposes. (<span class="italic">The Scholemaster</span>, ed. E. Arber, 1870, 38)</blockquote>The moral purpose of the tale is to anatomize or open up this quality of untrained natural capacity so that the reader can understand the route that eventually leads from wit to wisdom. But where the prodigal son learns his lesson in a pigsty, Lyly's Euphues learns it in terms of a linguistic bravura that invites not only censure but also admiration (and imitation), so that it highlights a basic contradiction between the moral and the narrative. There is also, as contemporaries noticed, an implicit claim that the brilliantly endowed Euphues should be recognized as a version of the brilliantly endowed John Lyly (an early example of the man of letters setting himself up as a &#145;personality&#146;). Euphues (like Lyly) leaves Athens (Oxford) and travels to Naples (London) where his conversation dazzles the beautiful heiress Lucilla, at the same time as her sophisticated poise and social charm dazzle him. But love leads to betrayal and Euphues, disillusioned by the amoral superficiality of the smart set, returns to &#145;Athens&#146; and spends his time there writing letters of moral advice stressing the danger of leaving young men free to choose their own way of life. Becoming a &#145;public reader in the University&#146;  (<span class="italic">Works</span>, 1.286.26), he busies himself with &#145;searching out the secrets of nature and the hidden mysteries of philosophy&#146;  (ibid., 1.286.28&#150;9). But after ten years of this he feels the need to make a further move away from society and turns from philosophy to divinity and now advises his correspondents to abandon worldly life.<br>
+<br>As early as 1579, in the second edition of <span class="italic">The Anatomy of Wit</span>, Lyly is beginning to compromise this moral pattern in preparation for a sequel that must return his hero to the ways of the world. He now writes to &#145;my very good friends, the gentlemen scholars of Oxford&#146;  (<span class="italic">Works</span>, 1.324) and promises that in the next volume &#145;Euphues at his arrival [in England] I am assured will view Oxford, where he will either recant his sayings or renew his complaints&#146;  (ibid., 1.325.15&#150;16). In the event, when <span class="italic">Euphues and his England</span> was published in 1580, this forecast, like many others, was not fulfilled. It is clear that the intention to expand the Euphues saga was difficult to achieve. Lyly had created an effect so distinctive in its combination of humanist gravity in matter with self-conscious frivolity in manner that he was more or less obliged to repeat the book if he was to repeat the success. It was a success that had allowed him to hold the attention of a notoriously fickle world of fashion to such a degree that, as Edward Blount, his first editor, reported, &#145;all our ladies were then his scholars, and that beauty at court which could not parley Euphuism was as little regarded as she which now there [1632] speaks not French&#146;  (ibid., 3.3). But such success has to renew itself if it is to survive.<br>
+<br>Lyly's dedication to his new patron, Edward de Vere, seventeenth earl of Oxford, indicates a second ambition for the book: he describes the new <span class="italic">Euphues</span> as &#145;containing the estate of England &hellip; the conditions of the English court and the majesty of our dread Sovereign&#146;  (<span class="italic">Works</span>, 2.7.15&#150;19). This is a more directly political agenda than had appeared in the earlier volume. No doubt his social success so far was encouraging him to aim his hopes for patronage at the highest in the land.<br>
+<br>The new narrative tells how Euphues and his companion Philautus leave Italy and sail to England and then travel from Southampton to the court in London, accumulating as they go many moral observations about Englishness. The substance of the work is not, however, in the narrative but in the episodes by the way, the letters to and fro, the discussions of love and virtue, the <i>sic et non</i> of scholastic disputation. The book culminates in rhapsodic praise of the queen. No doubt as part of the effort to win her favour, it begins with a dedication to &#145;the ladies and gentlewomen of England&#146;, and with that in mind he makes a somewhat less than flattering effort to stress its frivolity, telling the readers that &#145;Euphues would rather lie shut in a lady's casket than open in a scholar's study&#146;  (<span class="italic">Works</span>, 2.9.4&#150;5).<h2>
+<a name="SecretarytotheearlofOxfordandearlyplaysatBlackfriars"></a>Secretary to the earl of Oxford and early plays at Blackfriars</h2>In his relationship to the earl of Oxford, Lyly seems once again to have been caught in the paradoxical overlap between wit and wisdom, court and college, Italianism (as that was understood) and Christian humanist values. Certainly, as secretary to the &#145;Italianate&#146; earl, he was still very much under the gaze of the <i>patronus</i> to whom he had pledged lifelong allegiance, the humanist Lord Burghley, Oxford's father-in-law. A surviving letter from Oxford to Burghley, dated 30 October 1584, shows the difficulty of the situation he had acquired. Burghley had summoned Amis (another Oxford retainer) or Lyly to come to him, presumably to report on the earl's affairs. Oxford is in high dudgeon:<blockquote>I pray, my lord, leave that course, for I mean not to be yowre ward nor yowre chyld &hellip; and scorne to be offred that injurie to thinke I am so weake of government as to be ruled by servants, or not able to govern my self. (Feuillerat, 533)</blockquote>An earlier letter from Lyly to Burghley shows the other side of the same situation: Lyly is in disgrace with his master and looks to Burghley to shield him, pledging loyalty to the lord treasurer and his daughter, the countess of Oxford. The whole situation suggests that Lyly's pleas for support had been answered by Burghley with a post of honour (made palatable to the earl by exploiting his well-known interest in literature and men of letters), that was as much to Burghley's advantage as to Lyly's.<br>
+<br>As a member of Oxford's household Lyly must have had something of the role of a literary middleman. His prefatory letter to Thomas Watson's <span class="italic">Hekatompathia</span> of 1582 (dedicated to Oxford) shows him deploying his Euphuistic style as a mode of self-advertisement. Oxford's service also brought Lyly tantalizingly close to the goal of his career, the court. Given the vexed relations between the queen and the earl, the connection was, however, a perilous one at best. Oxford was excluded from court in 1580 and was not readmitted until 1583. In 1583 and 1584 there were performances at court by a new acting troupe called Oxford's Boys (in reality, apparently, a nonce group composed, as title-pages state, of &#145;the Children of her Majesty's Chapel and the Boys of [St] Paul's [Cathedral]&#146;). This group performed at court on &#145;Newyear's Day at Night&#146; 1583 and Shrove Tuesday 1584. Lyly was paid &pound;10 on 25 November 1584 for a play before the queen &#145;on shrovetuesdaie at nighte&#146; and the same warrant mentions another play performed &#145;upon newyeresdaie at nighte&#146; by &#145;the Earl of Oxford his servants&#146;, John Lyly being the payee. It seems clear that these payments refer to Lyly's first two plays, <span class="italic">Campaspe</span> and <span class="italic">Sappho and Phao</span>. The evidence suggests that Oxford and Lyly had found a mutually advantageous situation: Lyly could display his literary talents before the queen, and Oxford could ingratiate himself with his recently offended sovereign by procuring for her a uniquely elegant entertainment, offering a blend of courtly compliment, classical learning, songs, and witty dialogue.<br>
+<br>The printed prologues and epilogues of these two plays record that they were performed not only at court but also in the small &#145;private&#146; playhouse located in the former Blackfriars monastery, where choirboys had for many years performed (euphemistically &#145;rehearsed&#146;) plays before select audiences that were happy, no doubt, to participate in a court occasion, even if only at second hand, and willing to pay an entrance fee larger than that for the public playhouses. The division of the Blackfriars into a warren of tenements, to be used for dwelling spaces or for business purposes, created, however, a tangle of leases and sub-leases almost impenetrable to the modern mind. Lyly's use of the Blackfriars as an apparently essential part of his playwriting enterprise had been achieved by legalistic chicanery that had deprived the landlord of his rights and transferred the property to the earl of Oxford, who passed it to Lyly. This created, of course, an inherently unstable situation, and some time after the performance of <span class="italic">Sappho and Phao</span> the landlord secured a court order that restored the property to his possession. As a consequence, there were to be no more plays in the Blackfriars for sixteen years. The performance of <span class="italic">Gallathea</span>, written by Lyly as his third play for the court, had to be shelved. In 1584 and again in 1589 Lyly disposed of the quite ample spaces in the Blackfriars he had leased for himself and his family. He was once again a man on the move, in more senses than one.<h2>
+<a name="PlaysforthePaulsBoys"></a>Plays for the Paul's Boys</h2>Lyly's career as a court dramatist had suffered a reverse but not a fatal blow. In the period 1587&#150;91 he is found in the parish of St Martin Ludgate, where four of his children were baptized. This brought him close to St Paul's, whose choirboys eventually took <span class="italic">Gallathea</span> to court in 1588, and also performed it in their private playhouse in the St Paul's precinct. The Paul's Boys then brought to court two more of his plays, <span class="italic">Endymion</span> in 1588 and <span class="italic">Midas</span> in 1589. But the Paul's Boys playhouse was in its turn closed down in 1590. What was left of the courtly enterprise had to be rescued by the printing press. A prefatory note to <span class="italic">Endymion</span> (1591) announced that &#145;Since the plays in Paul's were dissolved, there are certain comedies come to my hands by chance which were presented before her Majesty at several [i.e. different] times by the Children of Paul's&#146;  (<span class="italic">Works</span>, 3.sig. civ). A printed version of <span class="italic">Midas</span> (by the same publisher, who seems to have entertained the possibility of an edition of the collected plays) followed in 1592.<br>
+<br>Three plays by Lyly remain unaccounted for in this tally: <span class="italic">Mother Bombie</span> (1594), <span class="italic">The Woman in the Moon</span> (1597), and <span class="italic">Love's Metamorphosis</span> (1601). This is a body of work of uncertain provenance. The title-pages of the first two state that they were played by the Children of Paul's, but no mention is made of the court, and indeed, as far as <span class="italic">Mother Bombie</span> is concerned, Lyly seems to have given up the courtly vein of classical allegory and returned to an earlier mode of classically organized scholastic comedy. The title-page of <span class="italic">The Woman in the Moon</span> says &#145;As it was presented before her Highness&#146;  (<span class="italic">Works</span>, 3.239) but gives no indication of the acting company. It is Lyly's only play in verse:<blockquote>
+<div>the first he had in Phoebus' holy bower<br>
+</div>
+<div>But not the last, unless the first displease<br>
+</div> (<span class="italic">Works</span>, 3.241)</blockquote>which suggests that the author was looking forward to a new court career, perhaps with an adult company&#151;adult companies continued to perform while both children's troupes were silenced. But it seems that his first offering in verse did displease, for no more is heard of Lyly's ambitions as a playwright. By the last decade of the century Lylian dramaturgy must have been seen as incurably old-fashioned.<h2>
+<a name="Reputation"></a>Reputation</h2>Lyly had made his name by inventing a new style, but the style had come to be identified with a bygone age and the writer identified with it was now no longer fashionable. <span class="italic">Euphues</span> continued to be reprinted (twenty editions of the two parts were printed before the end of the century), but its admirers were no longer at the top of the social scale. More avant-garde writers condemned its mechanistic rhetoric and its self-consciously bizarre similes from natural history. The same process appears when the reputation of the plays is considered. When the dainty pastoral fantasy, <span class="italic">Love's Metamorphosis</span>, was printed in 1601, its title-page carried the legend, &#145;first played by the Children of Paul's and now by the Children of the Chapel&#146;  (<span class="italic">Works</span>, 3.299). In 1601 a mention of the Chapel Children must refer to the new company of that name, revived in 1599 or 1600 under a new system of entrepreneurship. It is natural to suppose that the company should have begun with material like <span class="italic">Love's Metamorphosis</span>, already on its books, but the revival of such plays was greeted with scorn by new dramatists like Marston, Jonson, and Chapman who were taking over the boys' companies for their own satiric purposes. These new men derided plays like Lyly's as &#145;musty fopperies&#146;, &#145;mouldy dry fictions&#146;, &#145;ghosts &hellip; of plays departed a dozen years since&#146;, and the actors seem to have accepted the new focus as the one most likely to attract their new target audiences from the inns of court.<br>
+<br>Open hostility to Lyly's mode of writing was of course merely a passing phase promoted by those who were hoping to replace him. Caroline nostalgia for the supposed national unity of Elizabethan times restored his reputation to some degree, though not in terms that bear any relation to the facts of his life or the purposes of his art. Edward Blount's 1632 collected edition of the plays (<span class="italic">Six Court Comedies</span>) presented him as a quaint figure from the past, &#145;the witty, comical, facetiously-quick and unparalleled John Lyly&#146;, &#145;a rare and excellent poet whose tunes alighted in the ears of a great and ever-famous Queen&#146;, and &#145;whom Queen Elizabeth then heard, graced and rewarded&#146;  (<span class="italic">Works</span>, 3.2). He has become &#145;old John Lyly who will be merry with thee in thy chamber&#146;  (ibid., 3.3).<h2>
+<a name="Finalyears"></a>Final years</h2>The same process of slippage can be seen in Lyly's personal life. Burghley's daughter, the countess of Oxford, died in 1588, so that any position that Lyly occupied between Burghley and de Vere would be less important. The ever volatile earl seems to have found new interests (including a self-pleasing military posture in the defence of England against the Spanish Armada), and in any case he had been given a pension by Elizabeth in 1586, and there was nothing more he could hope from her. Lyly, none the less, could still think of himself as a man with prospects. In 1589 he was favoured with a seat in parliament, and he continued to find patrons willing to nominate him as an MP for the next three sessions, though, like other carpet-baggers, he had to move his district from one end of the country to the other. That at least secured him some social status, not to mention the standard rate of 2<i>s</i>. a day, but it can hardly have satisfied his ambition.<br>
+<br>Lyly was made an esquire of the body, but without stipend. In 1594 he was admitted as a member of Gray's Inn, but only as part of a Christmas revel. In 1588 the queen seems to have promised him something more substantial than these merely titular honours. She apparently told him that he should &#145;aim all [his] courses at the Revels&#146;&#151;that is, &#145;think of himself as in line for appointment as Master of the Revels, or at least chosen for the post in reversion&#146;  (Hunter, 356). This was a promise that haunted Lyly for the rest of his life. He clung to it as if to a lifeline, but as a verbal promise it lacked substance, and some political factors made it improbable. As a man associated with the earl of Oxford, Lyly must have been regarded as an enemy by the powerful faction of the Howards. The Howards' client Edmund Tilney was already in possession of the revels' post, and another client, Sir George Buck, was soon afterwards assured of the reversion. Elizabeth was not one to allow personal contact to overcome political expediency.<br>
+<br>Lyly himself may have unwittingly contributed to his own misfortunes. Some time in 1588 or 1589, ever anxious to please those in authority, he volunteered or accepted an invitation to join Thomas Nashe in a series of pamphlets counter-attacking those being written by the anti-episcopal Martin Marprelate. He was, of course, a well-known writer, but for this purpose he was an unfortunate choice; anyone less suited to the cut and thrust of political satire can hardly be imagined. Perhaps the bishops thought that the lively satirical dialogues of the servant boys in the sub-plots of the plays provided a model he could draw on when attacking their enemies. But the effect in the plays is controlled by highly artificial, almost geometrical structures, quite opposite to the freewheeling inventiveness of Martin or Nashe.<br>
+<br>It may, however, have been less Lyly's skill as a comic writer than his theatrical expertise that attracted the invitation to defend the bishops. Gabriel Harvey says that Lyly and Nashe &#145;have the stage at commandment, and can furnish-out Vices and Divels at their pleasure&#146;  (<span class="italic">Works of Gabriel Harvey</span>, 2.213), but in <span class="italic">Pappe with an Hatchet</span>, the one pamphlet that is undoubtedly his, Lyly speaks as if the licensing authorities would not permit anti-Martinist plays to be performed: &#145;would those comedies might be allowed to be plaid that are pend, and then I am sure he [Martin] would be decyphered and so perhaps discouraged&#146;  (<span class="italic">Works</span>, 3.408.18&#150;20). In voicing such an ambition Lyly was, of course, running against a primary factor in Elizabethan control of the stage&#151;that matters ecclesiastical should not be represented there. He may, however, have been imprudent enough in his zeal for the establishment cause to defy the ban and employ the Paul's Boys he had at his &#145;commandment&#146; in the anti-Martin campaign. If so, this may be a reason why the Paul's Boys were shut down in 1590, bringing Lyly's career as a writer to an absolute end.<br>
+<br>The only expression of Lyly's literary talent in the last sixteen years of his life appears in the begging letters he wrote to Elizabeth and to the Cecils, works treasured in various manuscript collections for their stylistic brilliance but ineffective in securing the income and status he believed he deserved. He reminded the queen of her promise; he hoped to be given a grant out of the confiscated estates of the Essex conspirators, but more important suitors were there before him (thus the estates of Sir Charles Danvers were given to Oxford&#151;though they never in fact reached him). He begged, in vain, for a post in the office of tents and toils (which supplied scenery for royal entertainments). In 1592 he left London and lived on his wife's lands in Mexborough, but in 1595 he is back in London, where he is found in a very modest property (valued at &pound;3) in the grounds of St Bartholomew's Hospital.<br>
+<br>Even after the death of Elizabeth, Lyly seems to have persisted in his pleas for support. A letter from Toby Mathew, bishop of Durham, to &#145;his very loving cousin&#146; Sir Julius Caesar, King James's master of requests (dated 9 February 1604), asks Caesar to intercede with the king &#145;in regard of [Lyly's] yeres fast growing on, &amp; his insupportable charge of many children all unbestowed, besides the debt wherein he standeth, which I greatly feare will lye heavy upon him to his &amp; their utter undoing&#146;  (Austin, 146&#150;7). It is not known if this proposal had any more effect than its predecessors. Lyly's last two children were baptized in St Bartholomew-the-Less in 1603 and in 1604 or 1605, and he himself was buried in the same parish on 30 November 1606.<br>
+<br>G. K. Hunter </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The complete works of John Lyly</i>, ed. R. W. Bond, 3 vols. (1902) &middot; A. Feuillerat, <i>John Lyly</i><i>: contribution &agrave; l'histoire de la renaissance en Angleterre</i> (1910) &middot; G. K. Hunter, <i>John Lyly</i><i>: the humanist as courtier</i> (1962) &middot; M. Eccles, <i>Brief lives</i><i>: Tudor and Stuart authors</i> (1982) &middot; J. Foster, ed., <i>Pedigrees of the county families of Yorkshire</i>, 3 vols. (1874) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17251&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Yorkshire North Riding</i>, 2.292 &middot; J. Dover Wilson, &#145;John Lyly's relations by marriage&#146;, <em>Modern Language Review</em>, 5 (1910), 495&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17251&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 1.676 &middot; &#145;Browne, Robert (1550?&#150;1633?)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17251&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <i>The works of Gabriel Harvey</i>, ed. A. B. Grosart, 3 vols. (1884&#150;5) &middot; E. K. Chambers, <i>The Elizabethan stage</i>, 4 vols. (1923) &middot; J. Lyly, <i>&#145;Campaspe&#146; and &#145;Sappho and Phao&#146;</i>, ed. G. K. Hunter and D. Bevington (1991) &middot; R. West, letter, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17251&amp;istheme=&amp;target=TLS')"><i>TLS</i></a> (11 June 1976), 706 &middot; D. Jones, &#145;Much ado about washing: John Lyly at St Bartholomew's&#146;, <i>Thomas Lodge and other Elizabethans</i>, ed. C. J. Sisson (1933) &middot; W. B. Austin, &#145;John Lyly and Queen Elizabeth&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17251&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 176 (1939), 146&#150;7 &middot; parish register, London, St Clement Danes, 22 Nov 1583 [marriage] &middot; parish register, London, St Bartholomew-the-Less, 30 Nov 1606 [burial] &middot; parish register, London, St Martin Ludgate [baptisms] &middot; parish register, London, St Bartholomew-the-Less [baptisms] &middot; R. Somerville, <i>The Savoy</i><i>: manor, hospital, chapel</i> (1960)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17251&amp;istheme=&amp;target=NRA')">NRA</a>, letters and literary MSS&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17251&amp;istheme=&amp;target=BL')">BL</a>, Lansdowne MSS, letters to Burghley<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. K. Hunter, &#145;<span class="roman"><span class="headword">Lyly,  John</span>  (1554&#150;1606)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2008 [http://www.oxforddnb.com/view/article/17251, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Lyly (1554&#150;1606): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17251 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/17251/2006-05"> [Previous version of this biography available here: May 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

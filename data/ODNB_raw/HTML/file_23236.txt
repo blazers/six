@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23236;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23236-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23236-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23236#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Reading,  Robert</span>  (<em>d.</em> 1317), <span class="occ">Benedictine monk and historian of Westminster Abbey</span>, wrote part of his house's continuation of the <span class="italic">Flores historiarum</span> of Matthew Paris. Reading is mentioned in the infirmarer's accounts in 1294 and 1298, in the list of monks imprisoned on suspicion of robbing the king's treasury in 1303, in the Westminster treasurer's accounts for undertaking a journey to York in the same year, and as one of the monks protesting at the deprivation of Prior Hadham in 1307. The almoner's accounts for 1317 mention his death in that year. According to a note in the Chetham's Library manuscript version of the Westminster <span class="italic">Flores</span>, inserted at 1326, this was the point at which both his chronicle and his life ended; but the note, which must have been written after 1347, cannot be relied upon for strict accuracy on the portion of the chronicle to be attributed to Reading, even though it provides evidence that he wrote some of it. Most probably, like his fellow monk John Bever, who seems to have composed the section ending in 1307, Reading was one of a group of annalists engaged in recording contemporary events, and the evidence of the almoner's account must be preferred to that of a much later note in the <span class="italic">Flores</span>. As one of the chroniclers of Edward II's reign he adopts, like his predecessor, a rhetorical and homiletic style, and does not hide his disappointment with the policy and achievements of the king, his contempt for Edward's stratagems to avoid taking the advice of his nobility, and his loathing for Piers Gaveston, whose murder in 1312 he describes as a just proceeding. His lively prejudice against the Dominican friars allowed him to include a pamphlet circulated in London against them. As he cannot be credited with the annals for 1317&#150;26, he cannot have been writing at the behest of Queen Isabella and Roger Mortimer as has been suggested, but he and his successor as annalist agree in their low view of Edward II. He maintained the Westminster tradition of monastic chronicle writing in a period when many other abbeys seem to have diminished or abandoned their keeping of independent annals, and his part of the <span class="italic">Flores</span> was circulated with the rest to other monastic houses in place of the latter's own efforts.<br>
+<br>Jeremy Catto </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>&#145;Flores historiarum&#146;, Chetham's Library, Manchester, MS 9712 &middot; infirmarer's accounts, 1294, 1298, Westminster Abbey Muniments &middot; treasurer's accounts, 1303, Westminster Abbey Muniments &middot; almoner's accounts, 1317, Westminster Abbey Muniments &middot; B. F. Harvey, ed., <i>Documents illustrating the rule of Walter de Wenlok abbot of Westminster, 1283&#150;1307</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23236&amp;istheme=&amp;target=CS')">CS</a>, 4th ser., 2 (1965), 95&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23236&amp;istheme=&amp;target=CPR')"><i>CPR</i></a>, <i>1301&#150;7</i>, 195 &middot; H. R. Luard, ed., <i>Flores historiarum</i>, 3 vols., Rolls Series, 95 (1890) &middot; E. H. Pearce, <i>The monks of Westminster</i> (1916) &middot; T. F. Tout, &#145;The Westminster Chronicle attributed to Robert of Reading&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23236&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 31 (1916), 450&#150;64 &middot; A. Gransden, &#145;The continuations of the <i>Flores historiarum</i> from 1265 to 1327&#146;, <em>Mediaeval Studies</em>, 36 (1974), 472&#150;92 &middot; A. Gransden, <i>Historical writing in England</i>, 1 (1974) &middot; A. Gransden, <i>Historical writing in England</i>, 2 (1982) &middot; J. Taylor, <i>English historical literature in the fourteenth century</i> (1987)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Chetham's Library, Manchester, MS 9712<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jeremy Catto, &#145;<span class="roman"><span class="headword">Reading,  Robert</span>  (<em>d.</em> 1317)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/23236, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Reading (<em>d.</em> 1317): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23236 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

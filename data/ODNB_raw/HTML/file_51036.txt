@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51036;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51036-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51036-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51036#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Fox,  Leslie</span>  (1918&#150;1992), <span class="occ">mathematician</span>, was born on 30 September 1918 at 9 Princess Street, Chickenley Lane, Dewsbury, Yorkshire, the elder of two children of Job Senior Fox (1892&#150;1974), coalminer, and his wife, Annie, <i>n&eacute;e</i> Vincent (1896&#150;1988). He won a scholarship to the Wheelwright Grammar School in Dewsbury, which was noted for the number of boys who went on to distinguished careers, especially as mathematicians. In 1936 he won a scholarship to Christ Church, Oxford. After taking a first-class degree in mathematics in 1939 he started research for the degree of DPhil under Professor Richard Vynne Southwell in the engineering department; most of his research was concerned with secret war work. After completing his doctorate in 1942 he joined the Admiralty computing service to work under the direction of Donald Harry Sadler (another former Wheelwright boy). There he learned the art of making mathematical tables, and the rigour and patience necessary to ensure that the result of every calculation was correct.<br>
+<br>In 1945 Fox moved, with a group of others, to the newly formed mathematics division at the National Physical Laboratory, where he remained until 1956. During this time one of the early computers was being built at the laboratory: Fox did not take a great interest in the detailed workings of the machine, but he realized that a great revolution in mathematical calculations was under way. These early developments convinced him of the need for those using computers for scientific calculations to have a sound understanding of the numerical methods involved, their limitations as well as their powers. When he was invited to take charge of the new computing laboratory at Oxford he seized the opportunity to begin a new career in education.<br>
+<br>After a year at the University of California, Fox moved to Oxford in 1957. At once he began to argue vigorously and successfully for the inclusion of numerical analysis in the undergraduate mathematics syllabus. He attracted a steady stream of graduate students, many of whom went off to spread the teaching of numerical analysis at other universities. His aim was much wider than university teaching: he organized a number of summer schools, where he and his colleagues instilled good practices in scientific computation into visitors from other universities, industrial firms, and government research establishments. His interest in education also extended to schools, and he was an active member of the Oxford branch of the Mathematical Association, of which he became president. In 1963 he was appointed professor of numerical analysis, and was elected to a professorial fellowship at Balliol College. On his retirement Balliol elected him an emeritus fellow, and he maintained close ties with the college to the end of his life.<br>
+<br>Fox wrote all or a major part of eight books and more than eighty articles. His first book, on boundary value problems, was unusual in this area in still being in print nearly forty years later. His lasting influence, on students, colleagues, and others, was more personal and at least as important. Always looking for opportunities to reach a wider audience, in 1970 he took up a one-year visiting professorship at the Open University. He wrote a good deal of course material, and made a number of radio and television programmes. In 1986 the Open University awarded him an honorary doctorate.<br>
+<br>Fox was a fellow of the Institute of Mathematics and its Applications from its foundation, and served on its council for some years, as well as acting as editor of its journals. In 1989 he was elected an honorary fellow of the institute. He travelled widely; the most convivial of men, he made new friends wherever he went. At various times he held visiting professorships in California, Illinois, Yugoslavia, India, and Australia, as well as at the Open University.<br>
+<br>Fox was married twice: first, on 10 July 1943, to Pauline Helen Dennis, from whom he was divorced on 4 April 1973; and second, on 20 July 1973, to Clemency Mary Holme Clements (<i>b</i>. 1937), journalist, elder daughter of Thomas Fox. There were no children by either marriage.<br>
+<br>Fox was a keen sportsman throughout his life. As a student at Oxford he played football for the university and for Oxford City Football Club. At the National Physical Laboratory he was club tennis champion and captain of the cricket team, and distinguished himself as a sprinter in the civil service championships. On his return to Oxford he joined the Barnacles cricket club. Later in life he was persuaded to take up golf; in 1979 he arranged an annual contest between the dons of Oxford and Cambridge, and was captain of the Oxford team until his death.<br>
+<br>Following his retirement in 1983 Fox's colleagues and friends founded the Leslie Fox prize for young research workers in numerical analysis. Awarded annually, it has attracted a worldwide entry of a very high standard. The winner of the first competition, in 1985, was an American, Lloyd Nicholas Trefethen. When Fox's successor, Keith William Morton, retired in 1997 it was appropriate that Trefethen should be appointed to the professorship of numerical analysis that had been created for Fox.<br>
+<br>Throughout his life Fox remained true to his roots, a forthright socialist and above all a Yorkshireman. After sixty years free of illness he suffered a heart attack in 1981. He was soon back at work, but decided to retire early, in 1983; sadly, his retirement was dogged by illness. Following more heart trouble he died from a ruptured aneurysm in the John Radcliffe Hospital, Oxford, on 1 August 1992. He was cremated and his ashes buried at St Nicholas's Church, Marston, Oxford, on 8 August 1992. He was survived by his second wife.<br>
+<br>David Mayers </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Walsh and D. F. Mayers, <em>Bulletin of the London Mathematical Society</em>, 31 (1999), 241&#150;7 &middot; K. W. Morton, ed., <i>Leslie Fox, 1918&#150;1992</i> (1993) &middot; <em>The Times</em> (2 Sept 1992) &middot; <em>The Independent</em> (11 Aug 1992) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51036&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> [forthcoming] &middot; personal knowledge (2004) &middot; private information (2004) [brother; widow] &middot; b. cert. &middot; bap. cert. &middot; d. cert. &middot; divorce cert. &middot; m. certs. &middot; parish register, Marston, St Nicholas, 8 Aug 1992 [burial]<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, 1982, Oxford University Computing Laboratory &middot; photograph, repro. in <i>The Times</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;125,000: probate, 5 Nov 1992, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Mayers, &#145;<span class="roman"><span class="headword">Fox,  Leslie</span>  (1918&#150;1992)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51036, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Leslie Fox (1918&#150;1992): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51036 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

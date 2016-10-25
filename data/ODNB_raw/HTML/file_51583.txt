@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51583;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51583-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51583-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51583#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Boole <span class="st"> [<em>n&eacute;e </em>Everest]</span>,  Mary</span>  (1832&#150;1916), <span class="occ">scholar and educationist</span>, was born at Wickwar, Gloucestershire, the elder of the two children of the Revd Thomas Roupell Everest (<i>d</i>. 1855), rector of Wickwar, and his wife, Mary (<i>d</i>. 1895), daughter of Isaac Ryall, surgeon at the Marine Infirmary, Plymouth. One of her uncles was Sir George Everest, the surveyor-general of India after whom Mount Everest is named. From 1837 until 1843 she lived in France, the family having moved so that Thomas Everest might receive treatment from the homoeopathic doctor Samuel Hahnemann. She was brought up strictly on Hahnemannian principles. Taught by French tutors, she became bilingual. After returning to England she spent some time at a boarding-school and also studied with her father. Algebra and arithmetic were special interests and she read avidly, particularly works on religion and the ancient occult sciences. Teaching in Sunday school and visiting the parish's elderly also occupied her.<br>
+<br>In 1850, while visiting her uncle John Ryall, vice-president of Queen's College, Mary Everest met <script>writeSeealsoLink('../view/article/2868/', "George Boole (1815&#150;1864)")</script>, mathematics professor at Queen's College, Cork. They were married on 11 September 1855, shortly after the publication of Boole's book <span class="italic">The Laws of Thought</span>, one of the classics of nineteenth-century mathematics. Despite a seventeen-year age difference the marriage was happy; between 1856 and 1864 five daughters were born. Boole shared his interests with his wife, including his religious searchings and his ideas about the central role of mathematical processes in all human reasoning. Encouraged to study, she attended some of his lectures, and indeed was the guinea pig on which sections of his textbook <span class="italic">Differential Equations</span> (1859) were tried out until simplified to the required level.<br>
+<br>In 1864 Mary Boole was left a widow, her youngest child only six months old. She had a heartfelt purpose, however: to explain and develop what she saw as the fundamental significance of her husband's work&#151;the use of mathematical methods, developed in <span class="italic">Laws of Thought</span>, to reveal deeper spiritual and philosophical truths. Placing several of her children with relatives, she returned to England in 1865 and contacted the theologian and educationist F. D. Maurice, a man admired by her husband. She accepted Maurice's offer of a position as librarian at Queen's College, London, England's first college of higher education for women. She also ran a student residence, and offered a series of Sunday evening &#145;true logic&#146; classes, in which she discussed religion, psychology, spiritualism, and mathematics. Her exposition <span class="italic">The Message of Psychic Science to Mothers and Nurses</span> (1883), an early book on mental health, was written at about this time, as was a work on her husband. Publication of the latter, hardly an interpretation of Boole's work likely to enhance his reputation as a mathematician, was at the time blocked by Maurice.<br>
+<br>By 1873 Mary Boole had come to be regarded by the college administration as somewhat unstable and had had to leave. She then became secretary to James Hinton, writer on philosophy, psychology, and science, and she came to confuse the eccentric Hinton's disordered views about mental processes with her husband's work in logic. Her London home became a meeting-place for antivivisectionists, vegetarians, unconventional educational psychologists, and fringe religious groups. From the late 1870s she published a remarkable number of articles and books; Hebrew ritual and Indian philosophy interested her and she contributed to Jewish and Indian periodicals. On medical topics, although she took homoeopathic theories to extremes, she frequently offered sound advice. She was convinced of the equality of the sexes, but had little enthusiasm for the women's suffrage movement. Her <span class="italic">Symbolical Methods of Study</span> (1884) presented an introduction to psychic science; her treatise <span class="italic">The Mathematical Psychology of Gratry and Boole</span> (1897) attempted a psychological interpretation of Boole's work in relation to the thought of the French mystic August Gratry.<br>
+<br>About the turn of the century Mary Boole joined the then very active progressive movement in education, speaking at meetings of the Parents' National Educational Union, contributing to the <span class="italic">Parents' Review</span>, and contacting progressive schools. In her books <span class="italic">Lectures on the Logic of Arithmetic</span> (1903) and <span class="italic">The Preparation of the Child for Science</span> (1904) she demonstrated how psychology can contribute to better teaching of elementary science and mathematics; her understanding of a child's unconscious assimilation of abstract concepts was well ahead of her time. Both works were influential, and the former, largely practical lesson notes emphasizing play methods and self-discovery, was pioneering. Her Boole Curve Sewing Cards (forerunner of the pins and metal-wire art form), devised for constructing such geometric notions as envelopes of lines, were sold commercially.<br>
+<br>Mary Boole's <span class="italic">Collected Works</span>, published posthumously in 1931, is a remarkable mixture of insight, educational innovation, tedious banality, and an incomprehensible confusion of mathematics, religion, and philosophy. However, although undoubtedly an eccentric and unorthodox in many ways, she had a vision of early mathematical education that remains relevant, and her ideas on educational psychology deserve a wider audience. She died of heart failure at her home, 16 Ladbroke Road, Notting Hill, London, on 17 May 1916, and was buried three days later.<br>
+<br>Through her five daughters, four of whom survived her, Mary Boole passed on the remarkable Boole genes. The eldest, Mary Ellen (<i>b</i>. 1856), married Charles Howard Hinton, son of James Hinton; their grandson was Howard Everest Hinton (1912&#150;1977), a noted entomologist and head of the department of zoology at University College, Bristol. The second daughter, Margaret (1858&#150;1935), married the artist Edward Ingram Taylor; the mathematical physicist <script>writeSeealsoLink('../view/article/31746/', "Geoffrey Ingram Taylor (1886&#150;1975)")</script> was their son. The fifth and youngest daughter was <script>writeSeealsoLink('../view/article/38488/', "Ethel Lilian Voynich (1864&#150;1960)")</script>, the novelist.<br>
+<br>The third daughter, <a name="cosubject_51583"></a><span class="headword">Alicia Stott <span class="st"> [<em>n&eacute;e </em>Boole]</span></span>  (1860&#150;1940), <span class="occ">geometer</span>, was born on 8 June 1860 in Blackrock, near Cork. Her interest in geometry started in her late teens when she began to experiment with a large collection of cubes. Although poverty and family circumstances had severely limited her education, she developed a remarkably clear understanding of four-dimensional geometry. She discovered for herself that there are six regular polytopes (convex regular solids) of dimension four, and, using purely Euclidean ruler-and-compass methods, built cardboard models of their three-dimensional cross-sections&#151;startlingly original work for a young person. Indeed, &#145;Alicia Boole had all the hallmarks of an extremely talented and creative pure mathematician&#146;  (MacHale, 261).<br>
+<br>Alicia Boole married Walter Stott, an actuary, in 1890. About 1900 Stott drew her attention to publications by the Dutch mathematician Peiter Schoute on four-dimensional polytopes. She contacted Schoute and began a collaboration which lasted until Schoute's death in 1913, her exceptional powers of geometrical visualization complementing his more conventional methods. Her results appeared in two papers (1900, 1910). In 1914 she received an honorary doctorate from the University of Groningen. She resumed mathematical work in 1930, collaborating with the geometer H. S. M. Coxeter; her contributions were incorporated, with acknowledgements, into Coxeter's publications. The only one of George Boole's children to directly inherit her father's mathematical genius, Alicia Stott died at 12 Hornsey Lane, Highgate, Middlesex, on 17 December 1940.<br>
+<br>The fourth daughter, <a name="cosubject_61612"></a><span class="headword">Lucy Everest Boole</span>  (1862&#150;1904), <span class="occ">pharmaceutical chemist</span>, was born on 5 August 1862 in Blackrock, near Cork. Despite little formal education, she was the second woman to pass the London School of Pharmacy's major examination (1888). Taking a post as assistant to W. R. Dunstan, professor of chemistry to the Pharmaceutical Society, she became the first woman in Britain to formally undertake research in pharmaceutical chemistry. Her procedure for analysis of tartar emetic (proposed in an 1889 joint paper with Dunstan) became the official method of assay, retained until 1963. She became lecturer in chemistry at the London School of Medicine for Women, was elected a fellow of the Institute of Chemistry, and continued research in the Pharmaceutical Society's laboratory for some years. Never marrying, she shared her mother's London house (not always harmoniously), and died there on 5 December 1904.<br>
+<br>Mary R. S. Creese </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. MacHale, <i>George Boole</i><i>: his life and work</i> (1985) &middot; <i>Mary Everest Boole</i><i>: collected works</i>, ed. E. M. Cobham, 4 vols. (1931) &middot; <i>Mary Everest Boole</i><i>: a memoir with some letters</i>, ed. E. M. Cobham (1951) &middot; <i>A Boolean anthology</i><i>: selected writings of Mary Boole on mathematical education</i>, ed. D. G. Tahta (1972) &middot; E. Kaye, <i>A history of Queen's College, London, 1848&#150;1972</i> (1972) &middot; M. Boole, &#145;George Boole's philosophy&#146;, <em>The Athenaeum</em> (23 Aug 1884), 237&#150;9 &middot; H. S. M. Coxeter, &#145;Alicia Boole Stott, 1860&#150;1940&#146;, <i>Women of mathematics</i><i>: a bibliographic sourcebook</i>, ed. L. S. Grinstein and P. J. Campbell (1987), 220&#150;24 &middot; E. J. Shellard, &#145;Some early women research workers in British pharmacy, 1866&#150;1912&#146;, <em>Pharmaceutical Historian: Newsletter for the British Society for the History of Pharmacy</em>, 12 (1982), 2&#150;3 &middot; <em>The Times</em> (19 May 1916) &middot; <em>The Times</em> (18 Dec 1940) &middot; <em>The Times</em> (8 Dec 1904) &middot; d. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51583&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1916) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51583&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1941)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> F. Hollyer, photograph (Alicia Stott, <i>n&eacute;e</i> Boole), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51583&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; Window &amp; Grove, photograph (Lucy Everest Boole), repro. in MacHale, <i>George Boole</i>, 266 &middot; group portrait, photograph (with Alicia Stott, <i>n&eacute;e</i> Boole and Lucy Everest Boole), Lincoln City Libraries, Museum and Art Galleries &middot; photograph, repro. in MacHale, <i>George Boole</i>, 239<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;5789 0<i>s</i>. 8<i>d</i>.&#151;M. Boole: probate, 19 June 1916, <i>CGPLA Eng. &amp; Wales</i> &middot; &pound;681 6<i>s</i>. 1<i>d</i>.&#151;Lucy Everest Boole: probate, 8 July 1905, <i>CGPLA Eng. &amp; Wales</i> &middot; &pound;6848 14<i>s</i>.&#151;Alicia Stott (<i>ne&eacute;</i> Boole): probate, 3 March 1941, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Mary R. S. Creese, &#145;<span class="roman"><span class="headword">Boole ,  Mary</span>  (1832&#150;1916)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51583, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Mary Boole (1832&#150;1916): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51583 
+                <br />
+
+                
+
+ Alicia Stott (1860&#150;1940): doi:10.1093/ref:odnb/51583<br> Lucy Everest Boole (1862&#150;1904): doi:10.1093/ref:odnb/61612<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

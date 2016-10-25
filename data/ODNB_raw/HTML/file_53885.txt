@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 53885;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/53/53885-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/53/53885-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=53885#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Godson,  Robert</span>  (<em>fl. </em>1696&#150;1697), <span class="occ">writer on astrology</span>, is known only by his one surviving work, which gives no details of his date or place of birth, family, or career. <span class="italic">Astrologia reformata: a Reformation of the Prognostical Part of Astronomy</span> (1696&#150;7), dedicated to the Royal Philosophical Society of London, claims to provide &#145;An Experimental Detection, and clear Demonstration&#146; of astrology  (Godson, title-page). As such, it was part of a movement at that time to reform the subject, which Godson and many others perceived as now &#145;utterly depraved and corrupted&#146;  (ibid., 8). Astrology was indeed profoundly out of fashion, and Godson deplored the way students were taught &#145;a parcel of silly miscalled Arts and foreign tongues&#146; instead of subjects of solid value such as divinity, medicine, and astronomy, which in his version included its application to human affairs  (ibid., 4&#150;5).<br>
+<br>That unfashionability had deeper roots. From the mid-seventeenth century onwards, British astrology had become inextricably embroiled in partisan politics and religious sectarianism. Such politicization had seriously undermined its claims to provide objective truths, and the &#145;Experimentary Proof&#146;  (Godson, 40) which Godson claimed to provide was intended to remedy this ignominy. As such, his book was part of a general movement among the more educated astrologers of the time, which also resulted in John Goad's <span class="italic">Astro-meteorologica</span> (1686), John Partridge's <span class="italic">Opus reformatum</span> (1693) and <span class="italic">Defectio geniturarum</span> (1697), and William Hunt's <span class="italic">Demonstration of Astrology</span> (1696). In addition to this demanding task, however, Godson also noted that good astrology requires &#145;a particularly adapted Temper and Capacity&#146; including a &#145;propension to it purely for its own sake, and a spirit unbyassed by lucre and partiality&#146;  (ibid., 3).<br>
+<br>Unfortunately, Godson's attempt to prove the validity of astrology involved an unconvincing combination of standard astronomy and traditional astrology, as if the latter somehow followed from the former. The first essay is on the subject of rectification (how to discover or correct a subject's birth-time through the astrology of life-events)&#151;an arcane pursuit even among astrologers&#151;and he criticized Kepler's suggested new planetary aspects as unduly innovative. The book culminated in &#145;a Prediction of the Death, of the Present French King&#146;&#151;just the sort of enterprise which had brought astrology into &eacute;lite disfavour. It is hardly surprising that Godson's scientific and literary contemporaries, so far as is known, failed to find in this exposition anything new or promising.<br>
+<br>Patrick Curry </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Godson, <i>Astrologia reformata</i> (1696&#150;7) &middot; P. Curry, <i>Prophecy and power</i><i>: astrology in early modern England</i> (1989) &middot; B. S. Capp, <i>Astrology and the popular press</i><i>: English almanacs, 1500&#150;1800</i> (1979) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53885&amp;istheme=&amp;target=ESTC')"><i>ESTC</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Patrick Curry, &#145;<span class="roman"><span class="headword">Godson,  Robert</span>  (<em>fl. </em>1696&#150;1697)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/53885, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Godson (1696&#150;1697): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/53885 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 28778;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/28/28778-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/28/28778-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=28778#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Warren,  John</span>  (1796&#150;1852), <span class="occ">mathematician</span>, was born on 4 October 1796 at Bangor deanery, the son of John Warren (1766&#150;1838), dean of Bangor, Caernarvonshire, and his wife, Elizabeth, daughter of Thomas Crooke MD, of Preston, Lancashire. <script>writeSeealsoLink('../view/article/28775/', "Sir Charles Warren (1798&#150;1866)")</script>, soldier, was his younger brother. Warren was educated at Westminster School and matriculated in 1814 at Jesus College, Cambridge, graduating BA in 1818 and MA in 1821. He held a fellowship at Jesus from 1818 to 1829, was a tutor there, and in 1825 and 1826 served the office of moderator and examiner. Ordained deacon in 1819 and priest in 1820, he was rector of Caldecott, Huntingdonshire, in 1822&#150;52, and of Graveley, Cambridgeshire, in 1828&#150;52.<br>
+<br>In 1828 Warren published a short <span class="italic">Treatise on the Geometrical Representation of the Square Roots of Negative Quantities</span>, which was well received. The work displayed originality, though Warren was unaware that the topic had been investigated earlier in the century by French mathematicians. He countered objections in two papers delivered the following year at the Royal Society  (<span class="italic">PTRS</span>, 119, 1829, 241&#150;54 and 339&#150;59), and concluded that any algebraic quantity may be geometrically represented, both in length and direction, by a line drawn in a given plane from a given point. He was convinced that geometry was superior to algebra when handling expressions involving the square roots of negative quantities, and that it might clarify certain obscure proofs of some of the fundamental rules of algebraic operations. His view was soon advocated, independently, by the great German mathematician C. F. Gauss. Faced with the objection that there is no necessary connection between algebra and geometry, Warren departed from tradition in recognizing that algebra need not have arithmetical numbers as its subject matter. He was elected FRS in 1830.<br>
+<br>Warren was chancellor of the diocese of Bangor and owned the advowson of Caldecott, which as he lived at Gravely had no resident clergyman. He sold the advowson to the patron of the adjacent parish which also had no resident clergyman, and from the proceeds built a parsonage for the united parishes. He married in 1835 his cousin Caroline Elizabeth, daughter of Captain and Lieutenant-Colonel Richard Warren of the 3rd foot guards; there were no children. Warren died at Upper Bangor on 15 August 1852.<br>
+<br>R. H. Vetch<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Abstracts of the Papers Communicated to the Royal Society of London</em>, 6 (1850&#150;54), 258&#150;60 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28778&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28778&amp;istheme=&amp;target=Old%20Westminsters')"><i>Old Westminsters</i></a>, vols. 1&#150;2 &middot; A. Gray, notes on members of Jesus College, Jesus College, Cambridge &middot; E. Nagel, <i>Teleology revisited</i> (1979), 176&#150;7<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. H. Vetch, &#145;<span class="roman"><span class="headword">Warren,  John</span>  (1796&#150;1852)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/28778, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Warren (1796&#150;1852): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/28778 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

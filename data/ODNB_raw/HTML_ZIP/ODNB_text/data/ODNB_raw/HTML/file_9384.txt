@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9384;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9384-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9384-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9384#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Field,  Frederick</span>  (1826&#150;1885), <span class="occ">chemist and mineralogist</span>, was born on 2 August 1826 in Lambeth, the second son of Charles Field, a partner in the family firm (founded before 1642) of candle manufacturers J. C. and J. Field, and his second wife, whose name is not known. He was educated at Denmark Hill grammar school and in 1841 at Mr Long's School at Stockwell, where he was a schoolfellow of William Odling, who later became professor of chemistry at Oxford. To nourish his interest in chemistry he was placed in the laboratory of London's Polytechnic Institution in 1843, then under the superintendence of Dr Ryan. He soon left there to work briefly as an assayer and analytical chemist with a consulting chemist named Mitchell. In late 1845 or early 1846, Field moved to the Royal College of Chemistry to acquire further skills in analytical chemistry as a student under the supervision of August Hofmann, who was beginning to establish the college as one of Britain's leading research schools. In 1846 Field was elected a fellow of the Chemical Society, and soon after he published his first scientific paper &#145;On the products of the decomposition of cuminate of ammonia by heat&#146; in the <span class="italic">Memoirs of the Chemical Society</span>.<br>
+<br>In late 1847 Field accepted a position as chemist to a new copper-smelting establishment at Coquimbo in Chile. Until his final return to England in 1859, Field carried out his duties as a metallurgical chemist and published many of his scientific observations in both British and Chilean journals. Most of his papers were of interest primarily to assayers and mineralogists, but some were of broader chemical interest.<br>
+<br>In 1852 Field was appointed manager of his company's new smelting works at Caldera, a port settlement north of Coquimbo at the edge of the Atacama Desert. Before assuming this position he returned to England and married Augusta Annie Abel, a sister of Frederick Abel, analytical chemist, who had been at the Royal College of Chemistry with Field. On his return to Caldera the following year Field was appointed vice-consul of the British consulate to protect British interests in the area, and soon after added the duties of French consul. In 1856 he accepted a position as chemist and submanager to a new copper smelter at Guayacan, which he protected from damage during the Chilean revolution of 1859. In September 1859 Field quit his position in Chile and returned to England, where he rejoined his wife and children who had left at the start of the revolution.<br>
+<br>Field's analytical expertise and connections to the chemical community in London helped him secure an appointment as lecturer on chemistry to St Mary's Hospital in 1860 and as professor of chemistry in the London Institution in 1862. Later that year, his friend, and fellow student at the Royal College of Chemistry in 1846, Edward Chambers Nicholson, hired him as a chemist to the aniline colour works of Britain's leading dye-making firm Simpson, Maule, and Nicholson. While there Field developed the process for the production of the first azo dye, a bright yellow aniline dye commonly called Field's yellow. He was elected a fellow of the Royal Society in 1863 and in 1866 became a partner in J. C. and J. Field. He remained there until his death, by which time he had become senior partner. In 1876, while living in Hither Green, Kent, his health began to fail. After a prolonged illness he died on 3 April 1885 in Oakfield, Addlestone, Surrey. Field had been a founding member of the Institute of Chemistry in 1877, and was active in the B Club, an informal association of chemists connected to section B (chemistry and mineralogy) of the British Association for the Advancement of Science. He published a total of fifty-five papers, including one co-authored with his brother-in-law, Frederick Abel, and one with Nevil Maskelyne.<br>
+<br>Melvyn C. Usselman </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Catalogue of scientific papers</i>, Royal Society, 2 (1868), 604&#150;5 &middot; <i>Catalogue of scientific papers</i>, Royal Society, 7 (1877), 656 &middot; <i>Catalogue of scientific papers</i>, Royal Society, 9 (1891), 855 &middot; <i>Catalogue of scientific papers</i>, Royal Society, 12 (1902), 236 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9384&amp;istheme=&amp;target=JCS')"><i>JCS</i></a>, 49 (1886), 347&#150;50 &middot; A. S. Travis, <i>The rainbow makers</i><i>: the origins of the synthetic dyestuffs industry in western Europe</i> (1993) &middot; C. A. Russell, N. G. Coley, and G. K. Roberts, <i>Chemists by profession</i><i>: the origins and rise of the Royal Institute of Chemistry</i> (1977) &middot; <i>The record of the Royal Society of London</i>, 3rd edn (1912) &middot; J. R. Partington, <i>A history of chemistry</i>, 4 (1964) &middot; W. H. Brock, <i>The Fontana history of chemistry</i> (1992) &middot; <em>Nature</em>, 31 (1884&#150;5), 537 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9384&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 39 (1885), 279 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9384&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1885)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;9227 2<i>s</i>. 11<i>d</i>.: probate, 11 June 1885, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Melvyn C. Usselman, &#145;<span class="roman"><span class="headword">Field,  Frederick</span>  (1826&#150;1885)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/9384, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Frederick Field (1826&#150;1885): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9384 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

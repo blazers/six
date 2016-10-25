@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17806;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17806-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17806-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17806#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Main,  Robert</span>  (1808&#150;1878), <span class="occ">astronomer</span>, the son of Thomas and Elizabeth Main and the brother of <script>writeSeealsoLink('../view/article/17807/', "Thomas John Main")</script>, was born at Upnor in Kent on 12 July 1808. He was educated at Portsea grammar school, became assistant master in the grammar school at Bishop's Waltham, Hampshire, and saved out of his stipend funds for a university career. Having obtained a foundation scholarship at Queens' College, Cambridge, he graduated as sixth wrangler in 1834, was elected to a fellowship, took holy orders, and proceeded MA in 1837. He married in 1838 Mary (<i>b</i>. 1809), daughter of Revd Philip Kelland, curate of Dunster, Somerset; they had three sons.<br>
+<br>In August 1835 Main was appointed chief assistant at the Royal Greenwich Observatory under Sir George Airy, whom he served with loyalty and efficiency for twenty-five years. At Main's appointment, Airy compared the work to that of &#145;a head clerk in a bank&#146;, and demanded &#145;punctuality and regularity in a routine of very dull business&#146;. For this service Main received a salary of &pound;300 per annum (plus a tent allowance of &pound;50), which by 1860 rose to &pound;500 (plus &pound;70). He found time, however, to apply the results obtained from the Greenwich observations to the elucidation of several points of scientific interest and to the correction of the fundamental constants of astronomy. On 9 June 1837 he presented to the Royal Astronomical Society the first of a series of papers on the &#145;Elements of the planet Venus&#146;, and on 8 May 1840 he contributed a critical and historical essay &#145;On the present state of our knowledge of the parallax of the fixed stars&#146;. He established in 1849, from his own micrometrical measures, the elliptical symmetry of Saturn's figure and in 1855 the unvarying dimensions of its rings. In 1850 and 1858 he deduced the proper motions of 1440 stars common to F. W. Bessel's <span class="italic">Fundamenta astronomiae</span> (1818) and the Greenwich catalogues; in 1855 and 1860 he investigated the constants of aberration and nutation and the annual parallax of &#947; Draconis; he tested the accuracy of Bessel's table of refractions, and in 1856 communicated the results of twelve years' determinations of the planetary diameters with Airy's double-image micrometer. For these important works he was rewarded in February 1858 with the gold medal of the Royal Astronomical Society. Main's membership of the society dated from 1836; he served for thirty-nine years on the council and acted successively as its secretary and president. He was elected a fellow of the Royal Society in 1860.<br>
+<br>Main succeeded Johnson as Radcliffe observer on 19 June 1860, and resided at Oxford from 1 October 1860. Correspondence preserved in the Greenwich observatory archives suggests, however, that the Radcliffe trustees had taken a long time in settling for Main, for he was first considered for the post on 1 April 1859. Perhaps his twenty-five years as Airy's assistant had led some to suspect that he had been too long under Airy's shadow to be an independently creative observatory director in his own right. But the efficiency and prestige of the Oxford establishment was fully maintained by him. He edited in December 1860 the first Radcliffe catalogue, compiled the second Radcliffe catalogue of 2386 stars (1870) from observations made in the years 1854 to 1861, and began a new series of observations, intended for a third catalogue, which, however, he did not live to complete. He issued a total of sixteen volumes of <span class="italic">Radcliffe Observations</span>, including a valuable series of double-star measurements of position (to check proper motions and parallaxes) made with the heliometer. He also sent to the Royal Astronomical Society for publication his observations of Jupiter's satellites, of the great comet of 1861, of the dimensions of the disc of Mars during the opposition of 1862&#151;made with the same heliometer, by Repsold of Hamburg, which Johnson had obtained for the Radcliffe Observatory in 1848&#151;and of the meteoric shower of 13 November 1866. He also wrote and translated various astronomical and religious works, contributed to Weale's <span class="italic">London in 1851</span> a chapter on observatories, and re-edited in 1859 Herschel's <span class="italic">Manual of Scientific Enquiry</span>. Besides being a fair classical scholar, he read fluently nine modern languages. He died at the Radcliffe Observatory, after a short illness, on 9 May 1878.<br>
+<br>A. M. Clerke<span class="italic">, rev. </span> Allan Chapman </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>CUL, RGO6/1, fols. 321&#150;322 &middot; CUL, RGO6/4, fols. 252&#150;253 &middot; CUL, RGO6/4, fols. 308&#150;309 &middot; <em>Monthly Notices of the Royal Astronomical Society</em>, 39 (1878&#150;9), 227&#150;35 &middot; E. Dunkin, <i>Obituary notices of astronomers</i><i>: fellows and associates of the Royal Astronomical Society</i> (1879) &middot; <em>The Observatory</em>, 2 (1879), 55 &middot; <em>Nature</em>, 18 (1878), 72&#150;3 &middot; R. Grant, <i>History of physical astronomy, from the earliest ages to the middle of the nineteenth century</i> (1852) &middot; C. L. F. Andr&eacute;, G. A. P. Rayet, and A. Angot, <i>L' astronomie pratique et les observatoires en Europe et en Am&eacute;rique</i>, 5 vols. (Paris, 1874&#150;8) &middot; <em>National Church</em>, 7, 123 &middot; <em>The Times</em> (13 May 1878) &middot; <em>The Athenaeum</em> (18 May 1878), 636&#150;7<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17806&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, draft articles
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17806&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17806&amp;istheme=&amp;target=RAS')">RAS</a>, letters to Royal Astronomical Society
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17806&amp;istheme=&amp;target=RS')">RS</a>, corresp. with Sir John Herschel<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17806&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;6000: administration with will, 11 July 1878, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. M. Clerke, &#145;<span class="roman"><span class="headword">Main,  Robert</span>  (1808&#150;1878)</span>&#146;, rev. Allan Chapman, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/17806, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Main (1808&#150;1878): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17806 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 53882;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/53/53882-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/53/53882-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=53882#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Boulton,  Samuel</span>  (<em>fl. </em>1656), <span class="occ">medical writer</span>, about whom virtually nothing is known, published a work entitled <span class="italic">Medicina magica tamen physica: magical, but natural physick, or, A methodical tractate of diastastical physick</span>, at London, in 1656. The work was re-issued in 1665. Since he is designated on the title page as &#145;Samuel Boulton, Salop&#146;, it seems reasonable to assume that he was born or at least lived in Shropshire, but it is impossible to say more. In his preface &#145;To the Reader&#146;, dated May 1656 and signed as from London, Boulton says that he was induced to publish the work as a result of a &#145;short, yet violent fit of sicknesse&#146;  (Boulton, sig. A4<i>r</i>). Claiming that the work had hitherto been scattered in several places in a small octavo notebook, and on loose sheets, and that some of it was written in &#145;Characterical figures, only for occultnesse sake&#146;, he realized that, had he died, the work would have been either lost or &#145;never digested into any methodical order&#146; because of the &#145;confused and occult writing&#146;. He also tells his readers that the work had been written some ten years before, but given what he says about its not being ready for publication until after this life-threatening illness, the date of May 1646 after the dedicatory epistle to the marquess of Dorchester is presumably nothing more than a misprint. This dedication tells readers that Boulton had not acquired Dorchester's &#145;consent or license&#146;, that he knew of Dorchester's interest in &#145;Aesculapian Mysteries&#146; only from various acquaintances, and that he did not otherwise know him.<br>
+<br>In spite of Boulton's detailed description of the state of the work before he finally prepared it for the press, there are good grounds for doubting that he wrote anything but the introductory matter. Chapters 1 to 32 are copied almost entirely verbatim from an anonymous manuscript now in the Sloane collection of the British Library  (Sloane MS 1321). This manuscript is as well ordered as Boulton's published version, and none of it is written in secret writing. It seems unsafe to hold it to be the fair and ordered copy of Boulton's confused papers when he first decided to publish, however, since there is no sign of the dedicatory epistle, preface, or introductory chapter, nor of Boulton's extra chapters, 33 and 34.<br>
+<br>Boulton &#145;ingenuously&#146; confesses in his preface that he did not write all of the book, being indebted for what he calls &#145;some part thereof&#146;  (Boulton, sig. A4<i>v</i>) to some loose papers of &#145;an unknown Mr.&#146; which were communicated to him by his close friend, Mr M. B., a &#145;worthy Gentleman of Kent&#146;. Boulton says that he and his friend believed these loose papers to have been written by &#145;that late worthy and Reverend chymist Dr. Everard&#146;&#151;presumably John Everard (<i>c</i>.1575&#150;<i>c</i>.1650), the first English translator of the Hermetic <span class="italic">Poemander</span>&#151;but he does not say what grounds he has for this belief.<br>
+<br>The first twelve chapters of Boulton's book provide a clearly expounded theoretical account of so-called magnetic or diastatic medicine&#151;an occult system of medicine in which medicaments are applied to shed blood, expelled bodily fluids or excrements, or even hair or nail parings, instead of to the sick or injured body itself. It was believed that effluvia or subtle spirits exuding from such bodily excretions were attracted back towards their bodily source and could carry fine particles of the medicaments deep into the body, where they could more efficaciously effect a cure than if the same medicaments were applied directly to the body. Chapters 13 to 32 describe the more practical aspects of this kind of healing. Chapters 33 and 34, which do not appear in the anonymous manuscript, provide lists of herbs and plants which are supposed, by their signatures, to affect certain parts of the body or certain diseases. One or two internal features of these chapters seem to suggest that they too have been copied from another source; certainly there is nothing original in their content. This leaves only the introductory chapter as original to Boulton. Here Boulton defends this kind of medicine as being based upon &#145;true (yet sublime) natural causes&#146;  (Boulton, 2), locating it in the tradition of natural rather than diabolical magic, and insisting that it points the way to useful empirical investigations  (ibid., 3). He also insists, with some justification, that this book provides &#145;the plainest and most methodicallest discourse of this Art, that hitherto is extant&#146;  (ibid., 4), having disparaged the earlier discussions of Paracelsus (1493&#150;1541), Tenzelius 
+    (Andreas Tentzel; <i>fl</i>. 1625)
+  , and Dr Floyd, who was almost certainly Robert Fludd (1574&#150;1637), as wrapped up in enigmas and clouds of obscurity. Even though so little is known of Boulton, the reader can conclude from the original part of his book that, like Nathaniel Highmore (1613&#150;1685), for example, Boulton was one of those early modern thinkers who sought to separate what might be pragmatically useful in the natural magic tradition from the more fanciful, semeiological, and superstitious.<br>
+<br>John Henry </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Boulton, <i>Medicina magica tamen physica</i><i>: magical, but natural physick, or, A methodical tractate of diastastical physick</i> (1656); repr. (1665) &middot; L. Thorndike, <i>A history of magic and experimental science</i>, 8 vols. (1923&#150;58), vols. 7&#150;8<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53882&amp;istheme=&amp;target=BL')">BL</a>, Sloane MSS<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Henry, &#145;<span class="roman"><span class="headword">Boulton,  Samuel</span>  (<em>fl. </em>1656)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/53882, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Samuel Boulton (1656): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/53882 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

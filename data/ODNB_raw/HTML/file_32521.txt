@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32521;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32521-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32521-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32521#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Common,  Andrew Ainslie</span>  (1841&#150;1903), <span class="occ">astronomer and astronomical photographer</span>, was born on 7 August 1841 at Oxford Street, St Andrew, Newcastle upon Tyne, one of two sons of Thomas Common, a surgeon and descendant of the Scottish border family of Comyn, and his wife, Mary Hall. Recollections from his brother indicate that Common had a youthful interest in astronomy: when he was ten his mother borrowed a telescope for him from Dr Bates of Morpeth. Financial constraints during childhood, due to the death of his father, curtailed his education and forced him to seek employment from an early age. In 1864 he fell out with his relatives and left for London, where he considered emigrating to Australia. By chance he met his uncle, Matthew Hall, who gave him a position in his sanitary engineering firm. Through his engineering talent Common made rapid progress in the company of Matthew Hall &amp; Co., allowing him, on 18 July 1867, to marry Anne Matthews (1838&times;40&#150;1911) of Gayton in Norfolk, daughter of Abraham Matthews, a farmer. After Hall's death in 1878 Common took over the company which he managed until his retirement in 1890. Common's improved position allowed him to move to 63 Eaton Rise, Ealing, in Middlesex, where he lived for the remainder of his life, along with his wife and family of three daughters and one son.<br>
+<br>Common's childhood interest in astronomy was not seriously resumed until 1874, when he established his first observatory, whose dome housed an equatorially mounted 5&frac12; inch refracting telescope. With this refractor he first attempted celestial photography and in 1876 he was elected a fellow of the Royal Astronomical Society. Two years later, after considering making one himself, Common ordered an 18 inch silver-on-glass mirror from George Calver of Chelmsford which he built into an instrument of his own design. He subsequently used that reflecting telescope to observe the faint satellites of the planets Mars and Saturn. Experience with the reflector convinced him of the superiority of glass over speculum (metal) mirrors. Common then ordered a 36 inch mirror from Calver as he wished to resume his work on astronomical photography using the very slow film then available. He applied his extensive engineering skills to devise an unconventional fork mounting for the larger telescope. The design was innovative in that most of the telescope's mass was carried on mercury bearings. He likewise devised an electric clock control to improve the driving of the instrument during the long exposures necessary in celestial photography. To avoid constructing an expensive observatory dome the telescope was housed in a rotating run-off shed, a design prescient of that later used for large reflecting telescopes. Common initially used the instrument to continue his observations of planetary satellites and the nebulosity around the Pleiades star cluster. Yet his main energies were devoted to trying to photograph the bright Orion nebula; a first attempt in January 1880 ended in total failure. The following year he managed to take one of the two first good photographs of a bright comet (1881.b). Common achieved the feat on the same night that his fellow amateur Henry Draper photographed the Great Comet from New York, but their subsequent rivalry was curtailed by Draper's sudden death in 1882. After further improvements to the telescope guiding he managed on 30 January 1883 to expose a plate on the Orion nebula for 37 minutes. The splendid photograph revealed details invisible on the most carefully rendered hand drawings of the nebula. In recognition of Common's pioneering work he was awarded the Royal Astronomical Society's gold medal in 1884. He later obtained 90 minute exposures of the Orion nebula and successfully photographed the planets Jupiter and Saturn. In taking his nebula images, Common pioneered the technique of completing his exposures over several nights. As a photographic innovator, in 1887 he was invited to attend the first international conference on astronomical photography held at the Paris observatory. Although not directly involved in the proposed Carte du Ciel sky survey, he worked with Jules Pierre Janssen of the Meudon observatory on related projects.<br>
+<br>Encouraged by his success Common resolved to build a 60 inch reflecting telescope to continue his work. To make space in his garden for the new reflector, in 1885 he sold the 36 inch reflector to Edward Crossley, a wealthy Halifax merchant. The instrument was little used there, but Crossley virtually gave it to the Lick Observatory in California, where James Keeler modified it and then achieved superb photographs of faint nebulae, thereby opening up a branch of astronomy. In building his largest telescope Common decided to grind and polish the mirror himself and to this end he erected a workshop adjacent to his house. Although the telescope was complete by 1889, the mirror produced unsatisfactory images and, despite several attempts at refiguring, it continued to display oval stars. To rectify the problem Common ordered a new glass disc from France and due to his earlier experience was able to produce an acceptable mirror in a mere three months. The mounting for the larger telescope was similar to the earlier reflector, except that water was employed to float the polar bearings. Apart from photographs of the Orion and Dumbbell nebulae and the Pleiades, Common made little use of the new telescope. It was difficult to use and the encroachment of London had lightened the once dark skies of Ealing. He offered to give the instrument to the Oxford University observatory, but Professor H. H. Turner had no funds to house or operate it. In 1904 the reflector was sold to Harvard College observatory in America, where it proved a failure until it was remounted and moved to their outstation in south Africa. Common's skill in mirror making was next applied to providing 36 and 30 inch mirrors for the Kensington Solar Physics Observatory, along with similar ones for the Royal Observatory, Greenwich, and the Helwan observatory in Egypt. Likewise he mastered the difficult art of making optically flat mirrors up to 20 inches in diameter. They were supplied to the Royal Society, the university observatory, Cambridge, and the National Physical Laboratory. The mirrors were mainly incorporated into heliostats and coelostats, new types of instruments that were important on solar eclipse expeditions to observe the sun. Later Common travelled with an official group to Norway to observe the 1896 solar eclipse, but his efforts were thwarted by clouds.<br>
+<br>Common was an active member of the scientific community, acting as treasurer for the Royal Astronomical Society between 1884 and 1895 and as president from 1895 to 1897. For his work on celestial photography he was elected to the Royal Society in 1885 and sat on the council from 1895 to 1897. Until his death he served on the board of visitors for the Royal Observatory, Greenwich. During 1891 he was awarded an honorary LLD by the University of St Andrews and in 1900 he was elected president of the astronomy section of the British Association for the Advancement of Science.<br>
+<br>In later years Common was distracted from his scientific work by his involvement with the British Aluminium Company, being one of its first directors. He subsequently became involved with the Ealing firm of Ottaway &amp; Co. in developing improved optical gunsights for the British army and navy. In 1902 Percy Scott RN described Common's work as having increased the fighting efficiency of the navy's battleships fourfold. On 2 June 1903, while still pursuing this work in his study at home, Common died suddenly of a heart attack and was later cremated at Golders Green, Middlesex.<br>
+<br>K. L. Johnson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. H. T., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32521&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 75 (1905), 313&#150;18 &middot; <em>Monthly Notices of the Royal Astronomical Society</em>, 64 (1903&#150;4), 274&#150;8 &middot; J. Ashbrook, <i>The astronomical scrapbook</i><i>: skywatchers, pioneers, and seekers in astronomy</i>, ed. L. J. Robinson (1984) &middot; H. C. King, <i>The history of the telescope</i> (1955) &middot; P. S. Remington, &#145;The Crossley reflector&#146;, <em>Sky and Telescope</em>, 58 (1979), 307&#150;11 &middot; J. Darius, <i>Beyond vision</i> (1984), 40&#150;41 &middot; <em>Journal of the British Astronomical Association</em>, 13 (1902&#150;3), 319 &middot; b. cert. &middot; d. cert. &middot; d. cert. [Anne Common]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Matthew Hall &amp; Co.
+   &middot;
+ Museum of Science and Industry, Manchester
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32521&amp;istheme=&amp;target=RAS')">RAS</a>, letters to Royal Astronomical Society<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Nicholson, lithograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32521&amp;istheme=&amp;target=RAS')">RAS</a> &middot; portrait, Matthew Hall plc, London<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;15,015 2<i>s</i>. 11<i>d</i>.: probate, 12 Aug 1903, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">K. L. Johnson, &#145;<span class="roman"><span class="headword">Common,  Andrew Ainslie</span>  (1841&#150;1903)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/32521, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Andrew Ainslie Common (1841&#150;1903): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32521 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

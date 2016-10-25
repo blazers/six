@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 70096;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/70/70096-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/70/70096-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=70096#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Baldwin,  John</span>  (<em>d.</em> 1615), <span class="occ">music copyist and composer</span>, is of unknown origins and parentage. According to Ernest Brennecke, Baldwin was admitted a lay clerk of St George's Chapel, Windsor, in 1575; he cites no documentary evidence in support of this claim and none exists today, though subsequent repair work on the Windsor records may have obscured it. Baldwin is first mentioned there in 1586&#150;7, when he received his stipendiary &pound;10 p.a. plus 22<i>s</i>. livery money. He supplemented this income by acting as the chapel's music copyist, and additional payments of 20<i>s</i>. were made to him &#145;pro scriptione sacrarum Cantionum&#146; (&#145;for the copying of sacred songs&#146;, that is, services and anthems for the chapel liturgy) in every year for which accounts survive. On 3 February 1594 the lord chamberlain commanded the subdean of the Chapel Royal &#145;that John Bauldwyne of the College of Wynsor shoulde be placed next in ordynarye in Her Majesties Chapple&#146;, and on 23 March 1595 it was ordered that Baldwin be sworn &#145;gentleman in ordinarie (without pay) &hellip; until a tenor's place be voyde, and then he to have and be sworne into wages for the firste and nexte tenor that shalbe admitted&#146;  (Rimbault, 35&#150;6). On 28 March 1596 Baldwin witnessed a promise of good behaviour by another of the Windsor clerks. He finally gained his Chapel Royal position on 20 August 1598, following the death of Robert Tallentire. Baldwin sang at the funeral of Queen Elizabeth, the coronation of James I, and the funeral of Prince Henry. On 9 September 1613 he married Elizabeth Jonson in the church of St George the Martyr, Southwark.<br>
+<br>Baldwin is one of the most important and versatile of late Elizabethan music scribes. He was wholly responsible for at least three collections: Oxford, Christ Church, MSS 979&#150;983, a set of partbooks probably started in the late 1570s which contains over 170 pieces, most of them vocal and sacred; his so-called commonplace book  (BL, RM 24.d.2), compiled over a period of roughly twenty-five years from <i>c</i>.1581 to <i>c</i>.1606; and <span class="roman">My Ladye Nevells Booke</span>, an important source of William Byrd's keyboard music, which was finished on 11 September 1591 and is now in the possession of the marquess of Abergavenny. Baldwin also repaired and completed the Forrest&#150;Heyther collection of masses  (Bodl. Oxf., MSS mus. sch. e.376&#150;381), which passed into his hands about 1581. In addition he copied two pieces into Robert Dow's partbooks  (Oxford, Christ Church, MSS 984&#150;988) at the instigation of their then owner, Giles Thompson, who was dean of Windsor from 1603. Baldwin's work is always elegant and usually accurate, though he was occasionally guilty of modernizing the Latin sacred music of earlier generations by filling out its melismatic passages with additional text underlay.<br>
+<br>Baldwin's commonplace book includes eighteen of his own compositions, the best-known being his setting of Nicholas Breton's &#145;In the merry month of May&#146;, which was probably sung before Queen Elizabeth at Elvetham House, Hampshire, on 22 September 1591. According to a contemporary account:<blockquote>three excellent Musicians &hellip; disguised in auncient countrey attire, did greet her with a pleasant song of Coridon and Phyllida, made in three parts of purpose. The song, as well for the worth of the dittie, as for the aptnes of the note thereto applied, it pleaseth her Highnesse, after it had been once sung, to command it againe, and highly to grace it with her chearefull acceptance and commendation. (Nichols, 3.116)</blockquote>Many of Baldwin's textless compositions appear to have had a didactic purpose and incorporate complex proportional changes and contrapuntal devices, as in his &#145;upon the plainesong&#146; and <span class="roman">In nomine</span> in five parts. There are also two four-part motets, <span class="italic">Redime me</span> and <span class="italic">Pater noster</span>, in Christ Church, MSS 979&#150;983.<br>
+<br>Baldwin died in Southwark on 28 August 1615, possibly of plague, and was buried the following day in the parish of St George the Martyr. Letters of administration were granted to his wife on 7 September. Their son was born some three months later and was baptized John on 1 December.<br>
+<br>David Mateer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>treasurer's rolls, St George's Chapel, Windsor: 1586&#150;7, XV.59.13; 1591&#150;2, XV.59.15; 1592&#150;3, XV.59.16; 1593&#150;4, XV.59.17 &middot; A. Ashbee and D. Lasocki, eds., <i>A biographical dictionary of English court musicians, 1485&#150;1714</i>, 2 vols. (1998) &middot; D. Mateer, &#145;John Baldwin and changing concepts of text underlay&#146;, <i>English choral practice, c.1400&#150;c.1650</i>, ed. J. G. Morehen (1995), 143&#150;60 &middot; H. Gaskin, &#145;Music copyists in late sixteenth-century England, with particular reference to the manuscripts of John Baldwin&#146;, PhD diss., U. Cam., 1985 &middot; H. Gaskin, &#145;Baldwin and the Nevell hand&#146;, <i>Byrd studies</i>, ed. A. Brown and R. Turbet (1992), 159&#150;73 &middot; R. Bray, &#145;John Baldwin&#146;, <em>Music and Letters</em>, 56 (1975), 55&#150;9 &middot; R. Bray, &#145;British Library, R. M. 24 d 2, John Baldwin's commonplace book: an index and commentary&#146;, <em>Royal Musical Association Research Chronicle</em>, 12 (1974), 137&#150;51 &middot; R. Bray, &#145;The part-books Oxford, Christ Church, MSS 979&#150;983: an index and commentary&#146;, <em>Musica Disciplina</em>, 25 (1971), 179&#150;97 &middot; A. Brown, &#145;&#147;My Lady Nevell's Book&#148; as a source of Byrd's keyboard music&#146;, <em>Proceedings of the Royal Musical Association</em>, 95 (1968&#150;9), 29&#150;39 &middot; E. Brennecke, &#145;A singing man of Windsor&#146;, <em>Music and Letters</em>, 33 (1952), 33&#150;40 &middot; A. Ashbee, ed., <i>Records of English court music</i>, 9 vols. (1986&#150;96) &middot; E. F. Rimbault, ed., <i>The old cheque book, or book of remembrance of the Chapel Royal, from 1561 to 1744</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70096&amp;istheme=&amp;target=CS')">CS</a>, 3rd ser., 3 (1872); 2nd repr. (New York, 1966) &middot; J. Nichols, <i>The progresses and public processions of Queen Elizabeth</i>, new edn, 3 vols. (1823) &middot; S. Bond, ed., <i>The chapter acts of the dean and canons of Windsor</i><i>: 1430, 1523&#150;1672</i> (1966) &middot; E. Crownfield, &#145;British Library MS R.M. 24.d.2 and Oxford, Christ Church Library MSS 979&#150;83; two Elizabethan musical sources copied by John Baldwin&#146;, MA diss., New York University, 1985 &middot; J. D. Bergsagel, &#145;The date and provenance of the Forrest&#150;Heyther collection of Tudor masses&#146;, <em>Music and Letters</em>, 44 (1963), 240&#150;48 &middot; parish register, Southwark, St George the Martyr, 29 Aug 1615 [burial] &middot; parish register, Southwark, St George the Martyr, 9 Sept 1613 [marriage]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70096&amp;istheme=&amp;target=BL')">BL</a>, commonplace book, MS RM 24.d.2 [copied by John Baldwin]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70096&amp;istheme=&amp;target=Christ%20Church%20Oxf.')">Christ Church Oxf.</a>, John Baldwin's part-books, MSS 979&#150;983 [copied by John Baldwin]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70096&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>, &#145;My Ladye Nevells Booke&#146; [copied by John Baldwin]&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70096&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, Forrest&#150;Heyther part-books, MSS Mus. Sch. e.376&#150;381 [partly copied by John Baldwin]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70096&amp;istheme=&amp;target=Christ%20Church%20Oxf.')">Christ Church Oxf.</a>, Dow part-books, MSS 984&#150;988 [partly copied by John Baldwin]<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Mateer, &#145;<span class="roman"><span class="headword">Baldwin,  John</span>  (<em>d.</em> 1615)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/70096, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Baldwin (<em>d.</em> 1615): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/70096 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32767;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32767-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32767-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32767#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=32767&amp;orientation=p')"><img border="0" alt="Sir  Dudley Rawson Stratford  de Chair (1864&#150;1958), by Walter Stoneman, 1933" onmouseover="status='Sir  Dudley Rawson Stratford  de Chair (1864&#150;1958), by Walter Stoneman, 1933'" src="/images/article-imgs/32/32767_1_200px.jpg"></a><span class="imagecaption"><b>Sir  Dudley Rawson Stratford  de Chair (1864&#150;1958)</b>, by Walter Stoneman, 1933</span>
+</div>
+<div class="para">
+<span class="headword">Chair, Sir  Dudley Rawson Stratford  de</span>  (1864&#150;1958), <span class="occ">naval officer</span>, was born in Lennoxville, Canada, on 30 August 1864, eldest son of Dudley Raikes de Chair, of French Huguenot descent, and his wife, Frances Emily, eldest daughter of Christopher Rawson, of The Hurst, Walton-on-Thames, Surrey. His parents returned to England in 1870 and in 1878 he joined the <i>Britannia</i> where Prince Edward and Prince George were also cadets.<br>
+<br>As a midshipman de Chair attracted national attention through being captured by some of the Egyptian cavalry of Arabi Pasha when alone on a special mission. He was released after six weeks when Cairo was taken and was later selected by Sir Garnet Wolseley to take the dispatches to Alexandria.<br>
+<br>With the exception of a short period as torpedo lieutenant in the flagship <i>Royal Sovereign</i> (1893&#150;4), de Chair served as an instructor in the <i>Vernon</i>, the torpedo school at Portsmouth, from 1892 until his promotion to commander in 1897. In that year he was appointed commander in the flagship of his uncle, Sir Harry H. Rawson, at the Cape station. In 1899 he became commander in the <i>Majestic</i>, in which ship he remained until his promotion to captain in 1902.<br>
+<br>In that year de Chair was appointed naval attach&eacute; at Washington, where his next three years were spent. Returning to seagoing duties, he next commanded successively the cruisers <i>Bacchante</i> and <i>Cochrane</i>. In 1908 he was brought into contact with Sir John Jellicoe, then controller of the navy, serving as his assistant controller until 1911. After a further spell of sea time as captain of the <i>Colossus</i> he returned to the Admiralty on promotion to flag rank in 1912 and on 1 March 1913 he succeeded David Beatty as naval secretary to the first lord, Winston Churchill. He had met Churchill previously and had been impressed with his charm of manner and keen interest in naval affairs. But although Churchill had selected de Chair for this appointment, the latter was not as happy in it as Beatty had been. He found Churchill's ebullient zest and headstrong, sometimes impetuous, methods disturbing and had not the great wealth which Beatty had enjoyed to live fully in the circles which his chief frequented. In June 1914 he became admiral of the training squadron and at the outbreak of war he was moved to the cruiser <i>Crescent</i> in command of the 10th cruiser squadron.<br>
+<br>The particular task of this squadron was the patrol of the North Sea from the Shetlands to the Norwegian coast as a blockade to Germany, and in his command of this task force until March 1916 de Chair made an important contribution towards the winning of the war. Owing to his efficient organization the number of ships which slipped through was negligible and as the war progressed the effect of the blockade became more apparent. For his services de Chair was appointed KCB in 1916.<br>
+<br>De Chair relinquished his command to take up a post under the Foreign Office as naval adviser to the ministry of blockade. His experience made him eminently suitable for this work, as A. J. Balfour explained to him, but de Chair, as he revealed in his autobiography, was &#145;almost heartbroken&#146; at giving up his command and active naval service. However he found the minister, Lord Robert Cecil, sympathetic and understanding.<br>
+<br>De Chair's valuable work in this appointment continued until September 1917, when he was given command of the 3rd battle squadron, stationed in the channel, with the task of attacking the German high seas fleet, should it come out. That it never did was frustrating and disappointing to him, and he was further dismayed to learn of the dismissal of Jellicoe as first sea lord in December. When his successor, Sir Rosslyn Wemyss, asked de Chair to accept a post on the Board of Admiralty, he refused outright, telling Wemyss that he could not do so as he &#145;felt so keenly the disgraceful manner in which Jellicoe had been treated&#146;  (de Chair, 238). This outspokenness did de Chair no good and shortly afterwards he was relieved of his command and placed on half pay. He had been promoted vice-admiral in 1917. In July 1918 he was appointed admiral commanding coastguard and reserves; in 1920 he was promoted admiral; and in 1921&#150;3 he was president of the inter-allied commission on enemy warships, and was then placed on the retired list.<br>
+<br>The same year he was appointed governor of New South Wales, where he remained until 1930. During his term his determination and strength of character were fully tested in the political crisis of 1926, when the Labour premier, J. T. Lang, introduced a bill to abolish the legislative council, the state's second chamber. De Chair agreed to appoint twenty-five new Labour members to the council, but when the bill was defeated by forty-seven votes to forty-one he refused to appoint more. This led to strong attacks on his action by the Labour Party and to an examination of the powers of the state governors in Australia.<br>
+<br>He married in 1903 Enid (<i>d</i>. 1966), third daughter of Henry William Struben, of Transvaal Colony; they had two sons and a daughter. The elder son, Henry Graham Dudley de Chair, became a commander in the Royal Navy; the younger, Somerset Struben de Chair, author of <span class="italic">The Golden Carpet</span> and other works, was for twelve years a member of parliament.<br>
+<br>After his retirement Dudley de Chair lived mainly in London. He served in the Home Guard from 1940 to 1942. He died at his home, The Elms, Rottingdean, on 17 August 1958 and, after cremation, his ashes were scattered, in accordance with his wishes, in the English Channel from the <i>Hardy</i>.<br>
+<br>In addition to the KCB, de Chair was appointed KCMG (1933), received the American DSM, and was a commander of the L&eacute;gion d'honneur. McGill University conferred on him an honorary LLD.<br>
+<br>Possessing much personal charm, de Chair was a man of great loyalty and integrity, direct in his manner and at times somewhat inflexible. As a leader some found him uninspiring, but Jellicoe termed him &#145;a very first-rate sea officer suited to any command afloat&#146;. De Chair followed a code of ethics which frequently worked to his personal disadvantage and like Jellicoe, whom he greatly admired, he never allowed his judgement to be affected by personal considerations and never courted publicity.<br>
+<br>G. K. S. Hamilton-Edwards<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (19 Aug 1958) &middot; J. S. Corbett, <i>Naval operations</i>, 1 (1920); 3 (1923) &middot; J. R. Jellicoe, <i>The Grand Fleet, 1914&#150;1916</i><i>: its creation, development and work</i> (1919) &middot; D. De Chair, <i>The sea is strong</i> (1961) &middot; A. J. Marder, <i>From the Dreadnought to Scapa Flow</i><i>: the Royal Navy in the Fisher era, 1904&#150;1919</i>, 5 vols. (1961&#150;70), vol. 2 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=Burke%2C%20Gen.%20GB')">Burke, <i>Gen. GB</i></a> (1965) &middot; private information (1971) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1958)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=IWM')">IWM</a>, diaries, corresp., and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp. with David Saunders
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=BFINA')">BFINA</a>, record footage
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=IWM%20FVA')">IWM FVA</a>, actuality footage</p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photographs, 1919&#150;33, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; F. Dodd, charcoal and watercolour drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=IWM')">IWM</a> &middot; M. Spink, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32767&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1388 10<i>s</i>. 9<i>d</i>.: probate, 10 Nov 1958, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. K. S. Hamilton-Edwards, &#145;<span class="roman"><span class="headword">Chair, Sir  Dudley Rawson Stratford  de</span>  (1864&#150;1958)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/32767, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Dudley Rawson Stratford  de Chair (1864&#150;1958): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32767 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/32767/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

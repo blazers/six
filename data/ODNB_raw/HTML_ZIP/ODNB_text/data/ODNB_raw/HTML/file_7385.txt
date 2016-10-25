@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7385;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7385-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7385-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7385#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Dean,  William</span>  (<em>c.</em>1557&#150;1588), <span class="occ">Roman Catholic priest and martyr</span>, was born at Grassington, Linton in Craven, Yorkshire. He was the son of Thomas Dean, who was a retainer of Richard Norton, one of the principals of the 1569 northern rising. William attended school in Leeds and Clitheroe. Following the collapse of the uprising it appears that he conformed to the Church of England. He matriculated at Magdalene College, Cambridge, in 1575 and was a pensioner at Gonville and Caius College in 1577. He was ordained, and served as a curate at Monk Fryston in the diocese of York. In 1581, however, he was converted to the Roman Catholic church by Thomas Alfield, a Rheims seminarist, and he entered the English College, then at Rheims, in July that year. He was ordained a priest at Soissons on 21 December 1581. Early in 1582 he went back to England and within a month was arrested in London. Dean was imprisoned in Newgate, where he was interrogated by Richard Topcliffe as to where he had said mass. Having spent three years in prison he was at length brought to trial at the queen's bench and was found guilty of high treason, but he was exiled in 1585 with twenty other priests. He went to Rheims and almost immediately, on 21 November, returned to England to continue his work. After less than two years he was again apprehended in London and brought to trial; he and thirteen others were condemned under the <span class="roman">New Act</span> of 1585. He was executed by hanging, with great cruelty, at Mile End Green, Middlesex, on 28 August 1588. Dean was beatified by Pius XI in 1929.<br>
+<br>G. Bradley </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. H. Burton and J. H. Pollen, eds., <i>Lives of the English martyrs</i><i>: the martyrs declared venerable, 1583&#150;88</i>, 2nd ser., 1 (1914), 351&#150;9 &middot; G. Anstruther, <i>The seminary priests</i>, 1 (1969), 100 &middot; T. F. Knox and others, eds., <i>The first and second diaries of the English College, Douay</i> (1878), 180, 184&#150;5, 208 &middot; R. Challoner, <i>Memoirs of missionary priests</i>, ed. J. H. Pollen, rev. edn (1924), 110, 133&#150;5 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7385&amp;istheme=&amp;target=Gillow%2C%20Lit.%20biog.%20hist.')">Gillow, <i>Lit. biog. hist.</i></a>, 2.37 &middot; J. H. Pollen, ed., <i>Unpublished documents relating to the English martyrs</i>, 1, Catholic RS, 5 (1908), 26 &middot; D. A. Bellenger, ed., <i>English and Welsh priests, 1558&#150;1800</i> (1984), 54 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7385&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a>, 1/2.26<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. Bradley, &#145;<span class="roman"><span class="headword">Dean,  William</span>  (<em>c.</em>1557&#150;1588)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/7385, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Dean (<em>c.</em>1557&#150;1588): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7385 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

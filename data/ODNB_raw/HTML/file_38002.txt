@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 38002;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/38/38002-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/38/38002-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=38002#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Stanford,  Edward</span>  (1827&#150;1904), <span class="occ">map maker and publisher</span>, was born on 31 May 1827 in Holborn, London, the second son and third child in a family of four sons and three daughters of William Stanford, tailor and draper, of 29 Holborn Hill, and his wife, Ann Phillips. Educated at the City of London School, after Easter 1841 he was apprenticed to a printer and stationer in Malmesbury, Wiltshire. On his master's death in 1844 he returned to London to work for various stationers, including Trelawny W. Saunders of 6 Charing Cross Road, to whom he returned as partner in 1852. The partnership was dissolved by mutual consent in July 1853.<br>
+<br>In October 1853 Saunders successfully proposed Stanford for fellowship of the Royal Geographical Society, whose <span class="italic">Proceedings</span> Stanford later published. Maps of Heinrich Barth's central African travels and of the geology of India by G. B. Greenough were published by Stanford in 1854. As agent he sold Ordnance Survey, Admiralty, Geological Survey, trigonometrical survey of India, and India Office publications. By 1856, owning the maps of the Society for the Diffusion of Useful Knowledge, he prepared for Harrow School the <span class="italic">Harrow Atlas of Modern Geography</span> and one of classical geography. In 1857 he founded Stanford's Geographical Establishment, employing Saunders and A. K. Johnston the elder to prepare and engrave his &#145;library maps&#146;: &#145;Europe&#146; (1858), &#145;London and its environs&#146; (1862), and others. He also supplied maps to the Society for Promoting Christian Knowledge, the National Society, the Metropolitan Board of Works, the Palestine Exploration Fund, and the school board of London. Noteworthy productions were: the &#145;Map of western Palestine&#146; (1880) by C. R. Conder and H. H. Kitchener; &#145;A map of eastern Equatorial Africa&#146; (1881&#150;3) by E. G. Ravenstein; H. H. Kitchener's and S. C. N. Grant's &#145;A trigonometrical survey of &hellip; Cyprus&#146; (1885); and the <span class="italic">Compendium of Geography and Travel</span> (1878&#150;85) by several distinguished geographers. He was much helped by John Bolton, who rose from draughtsman to become a director in 1912, and his maps received two gold medals and one silver at international exhibitions from 1862 to 1884. Stanford acquired the bookselling business of C. H. Law in 1860, the plates and stock of the map maker John Arrowsmith in 1874, and Staunton &amp; Son (stationers) in 1877, so that by 1881 he employed eighty-seven people; his business premises remained at 6 Charing Cross Road. Illness obliged him gradually to relinquish active control of his firm to his son Edward. His last major work was <span class="italic">Stanford's London Atlas of Universal Geography &hellip; Folio Edition</span>, dedicated to Queen Victoria (1887), a revised, expanded, and lithographed version of the <span class="italic">London Atlas</span> of John Arrowsmith.<br>
+<br>The Stanford range in British Columbia was named after him by John Palliser. Like many other publishers he subscribed to the relief of Parisian colleagues during the 1870&#150;71 siege, afterwards becoming an honorary member of their Cercle de la Librairie. A fellow publisher, Edward Marston, wrote: &#145;In business he was clear-headed, prompt, and decisive, and all who knew him would testify to his absolute straightforwardness and integrity. Socially he was lovable, kind, and generous&#146;. From at least the time of his retirement he was a Conservative.<br>
+<br>In 1855 Stanford married Mary, daughter of William Nesbitt Baker, bookseller and stationer, of Harrow, Middlesex. Their son, Edward (appointed geographer to the queen in 1893), was born in 1856; Henry Woodbridge of Harrow was adopted. Mary died in 1867, and on 1 January 1871 Stanford married Constant Mary, daughter of William Hewer, in Battersea. They had two sons, William, also a map publisher and seller, and Arthur Edward. Stanford died on 3 November 1904 at his home, Helens, Sidmouth, where he had moved with his wife in 1890.<br>
+<br>Francis Herbert<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. Stanford, <i>A history of the firm of Stanford</i> (1902) &middot; F. Herbert, &#145;The <i>London atlas of universal geography</i>&#146;, <em>Imago Mundi</em>, 41 (1989), 99&#150;123 &middot; F. Herbert, &#145;The Royal Geographical Society's membership, the map trade and geographical publishing in Britain, 1830 to <i>ca</i> 1930&#146;, <em>Imago Mundi</em>, 35 (1983), 67&#150;95 &middot; m. cert., General Register Office for England &middot; RGS &middot; private information (1990)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=38002&amp;istheme=&amp;target=RGS')">RGS</a>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;17,050 16<i>s</i>. 6<i>d</i>.: probate, 13 Jan 1905, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Francis Herbert, &#145;<span class="roman"><span class="headword">Stanford,  Edward</span>  (1827&#150;1904)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/38002, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Stanford (1827&#150;1904): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/38002 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 70131;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/70/70131-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/70/70131-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=70131#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Clayton, Sir  Robert James</span>  (1915&#150;1998), <span class="occ">electronics engineer</span>, was born on 30 October 1915 at 122 Bishops Road, Fulham, London, an only son of Frank Clayton, wine merchant's assistant, and his wife, Flora, <i>n&eacute;e</i> Gilibanks. The experiences of his early years strongly influenced his character. His parents had a struggle to support themselves because his father, originally a clerk, had been invalided out of the services in the First World War and could seek only outdoor work. Thoughts of emigration to Canada were then dashed by his early death and Clayton's mother had to make a meagre living as a dressmaker. In later years he said that in effect he had been brought up by the Boy Scouts, convincing him that he could succeed by his own efforts. Nevertheless these pressures led to a somewhat shy nature which he covered with a shell of knowledge to give him authority.<br>
+<br>Hard work at school won Clayton two county scholarships leading to a major scholarship at Christ's College, Cambridge, specializing in physics, which was to become the foundation of his career. Upon graduating in 1937 he joined the General Electric Company (GEC) research laboratories, at that time one of the leading industrial research centres, to work on the company's new television receivers. In spite of the turmoil of the emerging electronics industry, for the rest of his career he remained with GEC. With the outbreak of war the GEC laboratories were soon in the forefront of radar development and Clayton's expertise was quickly applied to the development of airborne radar equipment. When the BBC resumed television service from Alexandra Palace after the war GEC won the important contract to implement the first link to another transmitter at Birmingham. This was based on Clayton's advanced proposal for a microwave radio relay, and, being given responsibility for the project, Clayton thought it a matter of honour to make it work. By a force of character that developed during this period he coerced the rest of the laboratories to assist in bringing television to Birmingham on time in 1950. On 2 April 1949 he had married Joy Kathleen (1925/6&#150;1997), daughter of Allan McFarlane King, an electrician, and they moved to live at Stanmore. They had no children.<br>
+<br>In 1955 GEC invited Clayton to establish its new applied electronics laboratories at Stanmore to create a defence electronics capability, initially centred on developing missile guidance systems for the Royal Navy. By 1963 all the diverse GEC activities in electronics were brought together with Clayton as managing director. At this point Arnold Weinstock took control of the vulnerable GEC and with government encouragement embarked on the rationalization of the fragmented UK electrical industry. He soon recognized that Clayton could provide the necessary technical input to his own financial acumen and in 1968 appointed Clayton technical director of the enlarged company. Clayton continued in this role, while turning his attention from streamlining the overlapping activities of the acquired companies to future ventures. However, Weinstock's growing financial caution was a limiting factor and after Clayton joined the main board in 1978 he acted mainly in an advisory role and as the technical presence of the GEC on major issues, until he retired in 1983.<br>
+<br>Clayton's strength lay in his lifelong passionate interest and involvement in the latest developments in science and technology. To this end he maintained informal contact with a number of trusted technical staff in GEC's hundred or more subsidiary companies. He was active in the relevant professional institutions, both in their management and by giving many prestige lectures. He was a fellow of the Royal Aeronautical Society; an honorary fellow of the Institution of Electrical Engineers, becoming president in 1975; and a fellow of the Institute of Physics, becoming president in 1982. He was also a fellow of the Fellowship of Engineering (later the Royal Academy of Engineering) and its vice-president for 1980&#150;82. He was awarded several honorary degrees and in 1983 he was made an honorary fellow of Christ's College, Cambridge. Another outcome was the invitation to join many &#145;quangos&#146;, which Clayton welcomed, both from his desire to widen his understanding of technical issues and policies and also from a GEC perspective. Among these were the National Enterprise Board (1978&#150;80), the National Electronics Council (1973&#150;83), the parliamentary and scientific committee (1983&#150;6), and the Monopolies and Mergers Commission (1983&#150;9). At various times he also served on the University Grants Committee; standing conference on schools, science &amp; technology; the advisory council of the Science Museum; and the British Library board. He was particularly concerned with the need to recognize the impact of information technology in both products and new skills required for creation and use. Against this background he gave high priority to work for the Advisory Council for Applied Research and Development, and also his chairmanship of the IT skills agency. His earlier work at the GEC had led to the award of an OBE (1960) and CBE (1970), and, with later contributions to public matters, a knighthood in 1980.<br>
+<br>Clayton was a significant force in the post-war development of electronics in the UK. His natural inclination was to understand the technical basics and from them argue for the GEC and the UK to recognize the need to accept the implications of IT in products, markets, and skills. During the period of rationalization of the UK electronics industry he was often perceived as a hard man who implemented Weinstock's plans. Equally, others saw him as protecting the essential research and development activities and endeavouring to move GEC into areas of future growth&#151;often against a company culture of short-termism. His attitude and appearance, which was influenced by his poor sight, could be intimidating and yet reflected his impatience for results.<br>
+<br>Clayton's previous interests kept him very busy in retirement, and in hobbies he showed the same intense dedication as in work. His close association with the GEC research laboratories over the years motivated him to produce two books covering their history, but he also insisted in keeping abreast of the latest developments and grew concerned about environmental issues; his wife, Joy, shared the same interests. In his retirement ill health and blindness increasingly restricted his activities. This he bore with great fortitude and fought with the latest technology, but Joy was his mainstay, and he was bereft when she died in 1997. He died at Northwick Park Hospital, Brent, on 20 June 1998, and in accordance with his wishes his cremation was marked only by an informal gathering of friends and the dedication of a copse of trees of the Woodland Trust.<br>
+<br>Clive Foxell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Physics World</em> (Sept 1998) &middot; <em>IEE News</em> (Sept 1998) &middot; <em>The Times</em> (20 July 1998) &middot; <em>Daily Telegraph</em> (13 Aug 1998) &middot; R. Clayton and J. Algar, <i>The GEC research laboratories, 1919&#150;1984</i> (1989) &middot; personal knowledge (2004)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70131&amp;istheme=&amp;target=Inst.%20ET')">Inst. ET</a>, archives, papers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photographs, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70131&amp;istheme=&amp;target=Inst.%20ET')">Inst. ET</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;2,479,470: probate, 1998, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Clive Foxell, &#145;<span class="roman"><span class="headword">Clayton, Sir  Robert James</span>  (1915&#150;1998)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/70131, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Robert James Clayton (1915&#150;1998): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/70131 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/70131/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

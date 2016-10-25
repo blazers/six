@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18015;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18015-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18015-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18015#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Map,  Walter</span>  (<em>d.</em> 1209/10), <span class="occ">royal clerk, raconteur, and satirist</span>, was probably born in or about the early 1130s. He sprang from a border family, probably living in Herefordshire, and may have been partly Welsh: his surname is a version of the Welsh Vab or Mab or ap, meaning &#145;son of&#146;. His attitude to his Welsh &#145;compatriots&#146; (<i>compatriote</i>, his own word), as to many people and institutions in his world, was ambivalent: he claimed kinship, but spoke disparagingly of them. His family were probably prosperous Herefordshire landowners of the second rank&#151;prosperous enough to have some access to Henry II. Map may well have been related to the lay lord of Wormsley near Hereford, who was also called Walter Map, as was his son. But the only relative who can be securely identified is a nephew, Master Philip Map, who was also a canon of Hereford Cathedral, and a chaplain of Giles de Briouze, bishop of Hereford (1200&#150;15).<h2>
+<a name="Royalservant"></a>Royal servant</h2>Walter may have had early schooling at Gloucester Abbey; by 1154 he was a student in Paris, and was very likely there over a long period in the 1150s and 1160s&#151;hence, doubtless, his title <i>magister</i>. Thereafter he followed a very characteristic <i>cursus honorum</i> for an aspiring, highly educated secular clerk of the age&#151;in the service of bishop and king, with widely scattered benefices, and dignities in the chapter of Lincoln Cathedral.<br>
+<br>Map won patronage from the bishop of Hereford, Gilbert Foliot (1148&#150;63), in whose service he is to be found in the 1160s. Later on, when Foliot was bishop of London (1163&#150;87), Map won a prebend in St Paul's Cathedral, presumably from the bishop, which to this day bears his name&#151;Mapesbury (&#145;Map's <i>burh</i>&#146;, or &#145;fortress&#146;), very likely based on one of his jests. Meanwhile, from the early 1170s and certainly by 1173, Map is recorded in royal service: in February 1173 he was in attendance on Henry II at Limoges, and on the king's behalf entertained the saintly Pierre, archbishop of Tarentaise; in 1179 he was one of the king's representatives at the Third Lateran Council in Rome; in 1183 he was at Saumur in Henry's service when Henry, the Young King, Henry II's eldest surviving son, died at Martel. He acted from time to time as a royal itinerant justice.<h2>
+<a name="WorkintheseeofLincolnanddeath"></a>Work in the see of Lincoln, and death</h2>Map seems thus to have spent at least a part of his time in royal service, until the death of Henry II in 1189, and he is the source of a vivid description of the rigour of living in the royal court, which he likened to hell. But some years before 1189 he won patronage in the see of Lincoln, possibly during the long vacancy between 1166 and 1183, during part of which Henry II's illegitimate son, Geoffrey&#151;a particular bugbear of Map&#151;was bishop-elect (1173&#150;82), more probably from his associate in the royal service, Walter de Coutances, who was bishop of Lincoln in 1183&#150;4. In any case Map occurs as canon in the period 1183&#150;5, and as chancellor by 1186. That is to say, he was in charge of the schools of Lincoln at a time when they were about to enjoy an exceptional reputation as a centre of learning, especially in theology&#151;and at the moment when Hugh of Avalon became bishop (1186&#150;1200). In his own writings Map affects the role of a worldly secular clerk, deeply suspicious of the religious orders&#151;though making something of an exception for the Carthusians from whom Hugh sprang. But he must have been acceptable to Hugh, to say the least, for Hugh made him first precentor of the cathedral (<i>c</i>.1189), then archdeacon of Oxford (from 1196 or 1197), an office he appropriately occupied during the period when Oxford was first visibly becoming the home of a university, in the 1190s. In addition he enjoyed the revenues of parish churches as far apart as Westbury-on-Severn in Gloucestershire and Ashwell in Hertfordshire; and he was clearly prosperous. In his <span class="italic">De nugis curialium</span>  (Map, distich 1, cap. 10) he grumbles humorously at the cost of maintaining his nephews and servants, who for ever press him to further expense: &#145;You are but spending what you have. Trust in the Lord: it's common talk that they'll make you a bishop.&#146; Early in 1199 the cathedral chapter of Hereford, of which Map was or had been a member, petitioned Richard I to ask permission to elect Walter Map their bishop; but Richard died (6 April 1199) before their petition could be answered. King John arranged for Giles de Briouze, son of his favourite William (III) de Briouze, to receive the bishopric. And in 1203, after his friend Gerald of Wales had failed in his attempts to become bishop of St David's, Map was suggested as a possible candidate, but again without result: he died an archdeacon on 1 April 1209 or 1210.<h2>
+<a name="Writingsspuriousandauthentic"></a>Writings, spurious and authentic</h2>Map's was a career clearly illustrating the opportunities open to a talented and able man who enjoyed at least some early patronage; but it was his writings, spurious and authentic, which have given him fame. Two of the poems in the prose cycle of Lancelot of <i>c</i>.1215&#150;30, the <span class="italic">Queste del Saint Graal</span> and the <span class="italic">Mort Artu</span>, claim to be French translations of a Latin original preserved at the abbey of Salisbury (which never existed), composed &#145;by Walter Map at the request of King Henry his lord&#146;. The translation topos appears in many vernacular poems of the twelfth and thirteenth centuries, and is commonly, as in this case, fictitious. No modern scholar believes that Map had a substantial role in the composition of these poems, nor their immediate source; but why they should have been attributed to him remains an intriguing puzzle. Similarly, a large quantity of secular Latin verse&#151;including some of the most sophisticated poetry now attributed to the Archpoet&#151;came, at the end of the middle ages and later, to be attributed to him; but no modern scholar now believes him to be the author of more than a tiny fraction of this goliardic verse.<br>
+<br>Map's modern fame depends mainly on the <span class="italic">De nugis curialium</span> (&#145;Courtiers' trifles&#146;), a work undoubtedly his which survives only in a single late-fourteenth-century copy  (Bodl. Oxf., MS Bodley 851 (3041)), which only became at all widely known after the publication of the <i>editio princeps</i> by Thomas Wright in 1850. One section of the <span class="italic">De nugis</span>  (Map, distich 4, cap. 3&#150;4) occurs separately in over fifty manuscripts: it is a witty tract against marriage, <span class="italic">Dissuasio Valerii ad Ruffinum philosophum ne uxorem ducat</span> (&#145;A dissuasion of Valerius to Ruffinus the philosopher, that he should not take a wife&#146;). It was printed among the works of St Jerome in the earliest editions of Jerome's works: though far more entertaining, it clearly owes some inspiration to Jerome's <span class="italic">Aduersus Iouinianum</span>. Some of the stories in the <span class="italic">De nugis</span>, with other specimens of Map's wit and prejudices, especially against the Cistercians and the Jews, were reported by Gerald of Wales (clearly a friend of Map, though perhaps not a very close friend), evidently from Map's conversation. The <span class="italic">De nugis</span> is meant to entertain, and often succeeds; but it is very difficult to define its genre or subject. Therein, indeed, lies its interest; it is a kind of inventory or florilegium of the mental furniture of a learned and witty twelfth-century clerk. At the beginning and end is a heavy satire on the court&#151;with some abuse, too, of his own household. But it soon passes into a jumble of stories&#151;including two very moving accounts of miracles performed by St Pierre of Tarentaise&#151;and descriptions of religious orders. The reader is rapidly transported to &#145;A Digression of Master Walter Map on Monkery&#146;, his celebrated diatribe against the Cistercians. Some of the satire is entirely wild; some&#151;his accusation that Cistercians moved villages and displaced peasants&#151;is now known to have had substance; it is all very readable. &#145;It is prescribed to them that they are to dwell in desert places, and desert places they do assuredly either find or make&#146;  (Map, distich 1, cap. 25, pp. 92&#150;3). For the rest, the book comprises a remarkable gathering of disparate elements: humorous stories, serious stories, ghost stories, satirical stories&#151;some of them exceedingly sophisticated, some crude&#151;and fragments of history. Distich 5 largely comprises a sort of garbled history of England in the eleventh and twelfth centuries; it contains some interesting nuggets of fact amid a great deal that cannot be true; it concludes with a fragment of autobiography:<blockquote>This lord king [Henry II] was served by a certain clerk, who has written these matters for you, whose surname was Map. He was dear and acceptable to the king, not for his own merits, but for those of his forebears who had been faithful and useful to the king, both before his accession [in 1154] and after it. (Map, distich 5, cap. 6, pp. 494&#150;5)</blockquote>As commonly, Map invites the expectation of genuine revelations, but instead breaks into scurrilous tales about Henry's illegitimate son, Geoffrey, who had been Map's predecessor in his London prebend, then (1173&#150;82) bishop-elect of Lincoln, and was later (1191&#150;1212) archbishop of York. The value of his witness is sometimes most difficult to assess when it could be most authentic. The title of the book, <span class="italic">De nugis curialium</span>, was also the subtitle of John of Salisbury's <span class="italic">Policraticus</span>, which is in part a &#145;mirror of princes&#146;; and it may perhaps be said that Map's book was designed to be a parody of a &#145;mirror of princes&#146;; yet frivolous and serious elements in it are bafflingly combined. It survived, clearly, as a collection of loose quires, not in any final form&#151;composed originally <i>c</i>.1181&#150;2, but added to at a variety of later dates; it never received any final revision.<h2>
+<a name="Styleandcharacterofwritings"></a>Style and character of writings</h2>Map's Latin style is of its age, heavily charged with biblical echoes, yet revealing too a wide classical learning, especially in Horace, Virgil, Ovid, and Juvenal. It can show extraordinary point and wit; it often illustrates his own peculiar type of humour. Thus in the <span class="italic">Dissuasio</span> he tells us that:<blockquote>Pacuvius, weeping, said to his neighbour Arrius: &#145;Friend, I have a disastrous tree in my garden: my first wife hung herself on it, so did my second later on, and now my third has done the same.&#146; Said Arrius, &#145;I wonder that after so many strokes of luck you find it in you to weep.&#146; And again, &#145;Good gods, what expenses has that tree suspended for you!&#146; And a third time: &#145;Friend, give me some cuttings of that tree to plant&#146;. (Map, distich 4, cap. 3, pp. 302&#150;3)</blockquote>The story comes originally from Cicero, the names from Aulus Gellius; Map's version is better than either. But his wide reading does not only show in his use of the <span class="roman">Bible</span> and the classics: it is clear, for example, that he had read Geoffrey of Monmouth's <span class="italic">History of the Kings of Britain</span>, had detected it for the fraud it was, and enjoyed telling stories that parody it. Although many of his stories have morals (or a notable lack of them), very few reveal any interest in theology&#151;a partial exception may perhaps be made for some of his fairy stories, which are classics for the intermediate world between men and angels in which many folk believed, but whose inhabitants were hard to place among God's creatures. Yet Map must have had some knowledge of theology, if his own account that he was officially invited to hold disputation with the future heresiarch Vald&egrave;s at the Third Lateran Council of 1179 is to be believed  (Map, distich 1, cap. 31). Furthermore, he was chancellor of Lincoln Cathedral not long before it became a leading school of theology under Master William de Montibus. But since he was a royal justice it is likely that he had legal learning too. Like John of Salisbury, he was a polymath, a characteristic product of the leading schools in northern Europe in the age of the twelfth-century renaissance, especially Paris.<br>
+<br>Gerald of Wales reports a conversation in which Map drew a distinction between Gerald, who wrote, and Walter, who talked&#151;between Gerald's writings (<i>scripta</i>) and Walter's sayings (<i>dicta</i>); and there is a sense in which much of the <span class="italic">De nugis</span> reads like a man talking to his friends. Thus he tells the man Geoffrey&#151;not identified&#151;who, he claims, inspired him to write, that he has set his hand to a vast toil, to put down &#145;the sayings and doings which have not yet been committed to writing &hellip; that the reading of it may amuse, and its teaching tend to moral improvement&#146;  (Map, distich 1, cap. 12). However this may be, Map in his own day was evidently known for his talk; in the twentieth century he is known for the <span class="italic">De nugis</span>. A. G. Rigg has established a strong probability that the <span class="italic">De nugis</span> survived in Oxford, there to be copied in the late fourteenth century for Brother John of Wells, scholar of Oxford and monk of Ramsey: the book (Bodl. Oxf., MS Bodley 851) also contains&#151;besides other matter, some of it added later&#151;a celebrated copy of <span class="italic">Piers Plowman</span>, called by A. G. Rigg and Charlotte Brewer the Z version. Though Langland seems strange company for Map, it is the eclectic tastes of Brother John that are responsible for the survival of Walter Map's <span class="italic">De nugis</span>.<br>
+<br>C. N. L. Brooke </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Map, <i>De nugis curialium / Courtiers' trifles</i>, ed. and trans. M. R. James, rev. C. N. L. Brooke and R. A. B. Mynors, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18015&amp;istheme=&amp;target=OMT')">OMT</a> (1983); repr. with corrections (1994) [incl. bibliography, list of edns, and MS sources] &middot; A. G. Rigg, <em>Speculum</em>, 60 (1985), 177&#150;82 [review of W. Map, <i>De nugis curialium</i>, OMT (1983)] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18015&amp;istheme=&amp;target=Gir.%20Camb.%20opera')"><i>Gir. Camb. opera</i></a>, 1.271&#150;89, 306&#150;7, 362, 363 [a poem by Map addressed to Giraldus], 412; 3.92&#150;3, 145, 321, 335&#150;6; 4.140, 219&#150;25; 5.410&#150;11 &middot; M. Manitius, <i>Geschichte der lateinischen Literatur des Mittelalters</i>, 3 (1931), 264&#150;74 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18015&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 2.1219 &middot; F. J. E. Raby, <i>A history of secular Latin poetry in the middle ages</i>, 2nd edn, 2 (1957), 91n. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18015&amp;istheme=&amp;target=Fasti%20Angl.%2C%201066%3F1300')"><i>Fasti Angl., 1066&#150;1300</i></a> [St Paul's, London], 59&#150;60 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18015&amp;istheme=&amp;target=Fasti%20Angl.%2C%201066%3F1300')"><i>Fasti Angl., 1066&#150;1300</i></a> [Lincoln], 13, 16, 36, 75, 163 &middot; J. Barrow, ed., <i>Hereford, 1079&#150;1234</i>, English Episcopal Acta, 7 (1993), esp. xlv, lix&#150;lx, and nos. 135, 179&#150;80, 244&#150;5, 256&#150;7, 282 &middot; R. A. Donkin, &#145;Settlement and depopulation on Cistercian estates during the 12th and 13th centuries, especially in Yorkshire&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18015&amp;istheme=&amp;target=BIHR')"><i>BIHR</i></a>, 33 (1960), 141&#150;65 &middot; A. G. Rigg, &#145;Medieval Latin poetic anthologies (II)&#146;, <em>Mediaeval Studies</em>, 40 (1978), 387&#150;407 [on Bod. MS Bodley 851]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18015&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Bodley 851 (3041)<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. N. L. Brooke, &#145;<span class="roman"><span class="headword">Map,  Walter</span>  (<em>d.</em> 1209/10)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/18015, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Walter Map (<em>d.</em> 1209/10): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18015 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

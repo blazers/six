@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2599;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2599-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2599-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2599#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Blacman <span class="st"> [Blakman]</span>,  John</span>  (1407/8&#150;1485?), <span class="occ">biographer of Henry VI</span>, was born in the diocese of Bath and Wells, and was admitted about 1437 to Merton College, Oxford; he graduated MA, and became a fellow of that college, some two years later. In 1443 he resigned his fellowship, to become a fellow of Henry VI's new foundation of Eton College, where he was precentor from 1444 to 1452. Early in the latter year he was admitted rector of Sapperton, Gloucestershire, while on 3 December 1452 he was appointed warden of King Henry's other foundation, King's Hall at Cambridge. He resigned from Eton in the following year. By this time he had obtained the degree of BTh and qualified as a notary public. On 3 January 1456 he was collated to the deanship of Westbury-on-Trym, Gloucestershire. However, in 1457 or 1458 he resigned from his wardenship and livings, and entered the London Charterhouse.<br>
+<br>Blacman commemorated this change in his life by compiling a commonplace book of meditations on death. He describes his state of mind on abandoning the world, associating his anxieties about physical death with the death to all worldly things implicit on entering a Carthusian house, a form of death that he sees as leading to eternal life. About 1465 he moved to Witham Charterhouse in Somerset. His status here, described in 1474 as that of a <i>clericus reditus</i> (half monk, half lay brother), gave him the freedom to acquire a large library. In this year he donated to Witham a large collection of Latin books, some copied and annotated by himself, with a note after the sixty-sixth: &#145;take these, your books, Father, as many as my years&#146;  (Bodl. Oxf., MS Laud misc. 154, fols. 1<i>r</i>&#150;2<i>v</i>). The most comprehensive private collection of devotional texts known from fifteenth-century England, Blacman's library represents a strand in English spirituality dominated by Richard Rolle's emphasis on extremes of physical and emotional excitement. Notably absent are vernacular English works by writers like Nicholas Love and Walter Hilton, representing a more moderate, pastorally orientated form of contemplative instruction geared to the needs and responsibilities of the layman. This imbalance in Blacman's collection is not surprising given his eremitic vocation, but it had wider implications because of his influence on the spirituality of England's most pious and unsuccessful king, Henry VI.<br>
+<br>Blacman was brought into close contact with Henry VI when, as precentor at Eton, he was responsible for collective worship at the college and acted as a priest for the king; he celebrated private masses in the king's presence when the king acted as his server. After Henry VI's death in 1471, and probably in 1483 (that is before Richard III moved Henry's body from Chertsey Abbey to Windsor in August 1484), Blacman wrote at Witham his <span class="italic">Collectarium mansuetudinum et bonorum morum regis Henrici VI</span> (&#145;Compilation of the meekness and good life of Henry VI&#146;). In it he refers to a long series of miracles at the king's tomb at Chertsey, and to others performed during his lifetime. However, this is not a mere work of hagiography, but a unique insight into the private life and limitations of a medieval king, based on the author's personal reminiscences for the period between 1444 and 1461, when Henry lost his throne, and on the eyewitness testimonies of royal associates such as Bishop William Waynflete (<i>d</i>. 1486) and the royal chaplain William Kymberley from the period from 1461 to 1471, a period covering the king's wanderings and captivity.<br>
+<br>As an Eton fellow, Blacman was in a position to give an accurate account of the unique combination of piety and learning that lay behind Henry's close involvement with his foundation of Eton. He describes how the king met Eton boys at Windsor Castle, and advised them to follow the path of virtue and discouraged them from visiting his corrupting court. Blacman is candid about Henry's political limitations, but this is because he sees them as a sign of the king's religious vocation, his detachment from temporal things. One vivid personal reminiscence describes Blacman and the king engaged in the study of holy books, and the king giving them signs of his most deep devotion. A mighty duke of the realm knocked at the door, and the king said &#145;They do so interrupt me that by day and night I can hardly snatch a moment to be refreshed&#146;  (Blacman, 15&#150;16).<br>
+<br>Blacman goes further, and tries to establish that Henry's limitations as king were positive spiritual virtues. He therefore describes the king's insanity in 1453 as the mystical rapture of one &#145;not conscious of himself or of those about him as if he were in a trance&#146;  (Blacman, 16). Henry's neglect of royal display, such as his failure to notice his hat falling off, and his inattention to political realities are celebrated as the sort of indifference to temporal things, &#145;as if he might gain Christ&#146;  (Blacman, 11), that had been espoused by Rolle. Instead Henry is shown to be a visionary, devoted to the cult of the holy cross, and the sufferings of Jesus, and experiencing visions of Christ presiding in human form at the sacrament of the altar.<br>
+<br>Blacman's portrait of the king is that of a true follower of Christ, a holy fool who in 1470 forgave the enemies who had wounded him in 1461, and who in 1471 patiently endured mockery, abuse, and violent death; and the compilation explains why this incompetent king remained loved by so many of his people. It also demonstrates the prescience of Walter Hilton's reservations about the social implications of too enthusiastic a following of Rolle's teachings at the expense of fulfilling social responsibilities. Henry VI was decidedly not a successful practitioner of the mixed life, and this seems to have met with Blacman's approval. This was a failing that was to have profound consequences for the peace and stability of fifteenth-century England.<br>
+<br>The date of Blacman's death is uncertain but it is thought to have occurred in 1485. His <span class="italic">Compilation</span> was published in 1510 by Robert Copland, whose text was reprinted by Thomas Hearne in 1732. An English translation by M. R. James appeared in 1919.<br>
+<br>Jonathan Hughes </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Bodl. Oxf., MS Laud misc. 154 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2599&amp;istheme=&amp;target=BL')">BL</a>, Sloane MS 2515 &middot; R. Lovatt, &#145;John Blacman: biographer of Henry VI&#146;, <i>The writing of history in the middle ages</i><i>: essays presented to R. W. Southern</i>, ed. R. H. L. Davis and J. M. Wallace-Hadrill (1981), 415&#150;44 &middot; R. Lovatt, &#145;The library of John Blacman and contemporary Carthusian spirituality&#146;, <em>Journal of Ecclesiastical History</em>, 43 (1992), 195&#150;230 &middot; R. Lovatt, &#145;A collector of apocryphal anecdotes: John Blacman revisited&#146;, <i>Property and politics</i><i>: essays in later medieval English history</i>, ed. T. Pollard (1984), 172&#150;97 &middot; J. Hughes, <i>Pastors and visionaries</i><i>: religion and secular life in late medieval Yorkshire</i> (1988) &middot; J. Blacman, <i>&#145;Henry the Sixth&#146;</i><i>: a reprint of John Blacman's memoir</i>, ed. and trans. M. R. James (1919) &middot; <i>Duo rerum Anglicarum scriptores veteres, Thomas Otterbourne et Joh. Whethamstede</i>, ed. T. Hearne, 1 (1732) &middot; W. Sterry, <em>Etoniana</em>, 56 (1934), 94<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2599&amp;istheme=&amp;target=BL')">BL</a>, Sloane MS 2515
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2599&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Laud misc. 154<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jonathan Hughes, &#145;<span class="roman"><span class="headword">Blacman ,  John</span>  (1407/8&#150;1485?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/2599, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Blacman (1407/8&#150;1485?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2599 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

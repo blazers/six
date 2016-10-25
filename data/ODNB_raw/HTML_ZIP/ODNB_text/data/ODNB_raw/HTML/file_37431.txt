@@ -1,0 +1,407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37431;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37431-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37431-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37431#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=37431&amp;orientation=p')"><img border="0" alt="  Rosalind Elsie Franklin (1920&#150;1958), by Elliott &amp; Fry, 1946" onmouseover="status='  Rosalind Elsie Franklin (1920&#150;1958), by Elliott &amp; Fry, 1946'" src="/images/article-imgs/37/37431_1_200px.jpg"></a><span class="imagecaption"><b>  Rosalind Elsie Franklin (1920&#150;1958)</b>, by Elliott &amp; Fry, 1946</span>
+</div>
+<div class="para">
+<span class="headword">Franklin,  Rosalind Elsie</span>  (1920&#150;1958), <span class="occ">crystallographer</span>, was born at Chepstow Villas, Notting Hill, London, on 25 July 1920, the elder daughter and second of the family of five children of Ellis Arthur Franklin (1894&#150;1964), merchant banker of London, and his wife, Muriel Frances Waley (1894&#150;1976). Both parents came from established Anglo-Jewish families; <script>writeSeealsoLink('../view/article/61364/', "Helen Bentwich")</script> (Labour chairman of the London county council, 1956&#150;7) was her aunt; <script>writeSeealsoLink('../view/article/35928/', "Herbert Samuel, Viscount Samuel")</script> (Liberal politician and first high commissioner for Palestine) was her great-uncle; <script>writeSeealsoLink('../view/article/36683/', "Arthur Waley")</script> (translator of oriental literature) was her mother's cousin. From 1932 to 1938 Rosalind was a scholar at St Paul's Girls' School and went on to Newnham College, Cambridge, where she read natural sciences, taking her part two in chemistry in 1941. Wartime constraints made her time at Cambridge austere and directed her PhD to an industrial problem with the Coal Utilisation Research Association (CURA), while also burdening her with duties as a London air raid warden.<br>
+<br>At CURA Franklin worked on cokes and chars. She found that, although the total volume of the pores in such material increases with increasing temperature, their accessibility decreases. She showed this by a series of ingenious experiments in which, finally, even gaseous helium molecules are unable to penetrate the material. She realized that to reach an understanding of the internal structure of coals and chars it was necessary to use X-ray diffraction methods and these she learned when she moved in 1947 to the Laboratoire Central des Services Chimiques de l'&Eacute;tat in Paris, where she was employed as a <i>chercheur</i> of the Centre National de la Recherche Scientifique. These were personally happy years for her and scientifically very productive. She learned, and improved, X-ray techniques for dealing quantitatively with substances of limited internal order, which presented much more difficulty than the highly ordered crystals which the X-ray crystallographers of the day were more familiar with. In a series of beautifully executed investigations Franklin discovered the fundamental distinction between chars that turned into graphite on heating and those that did not, and further related this difference to the chemical constituents of the material from which the chars were made. These results later proved to be highly relevant for the development of carbon fibres, materials of industrial importance which are made of rolled up parallel sheets of graphite layers.<br>
+<br>The combination of these X-ray analytical techniques with chemical preparatory skill attracted the attention of others, and in 1950 Franklin was invited by John Randall to build up an X-ray diffraction laboratory at King's College, London, for the purpose of studying the structure of DNA. She accepted, and started work in January 1951 as a Turner and Newall research fellow of London University. Although DNA is now almost a household word, at that time it was not at all clear, despite Avery's great paper of 1944, that it was the hereditary substance itself, and certainly no one, not even Crick and Watson, who finally solved its double helical structure, suspected that the three-dimensional structure itself would point to a direct conclusion on how genes replicated themselves. (The crucial feature of the structure of DNA is not the double helical arrangement of the two phosphate sugar backbones, but the unique pairing of the heterocyclic bases projecting from each of these two strands. It means that each strand is complementary to the other so that, when the two come apart, each can be used to assemble a duplicate of its former partner.) In 1950 DNA was only known to be an important chemical constituent of the chromosomes of the cell nucleus, but that it alone carried the genetic information, irrespective of the protein constituents, was not generally accepted by biochemists.<br>
+<br>Work on DNA at King's had been begun by M. H. F. Wilkins who, before 1951, together with a research student, R. G. Gosling, had succeeded in obtaining well-orientated fibres of the long DNA macromolecules, which showed a higher degree of crystallinity, as judged by the X-ray diffraction pattern, than specimens produced by earlier workers. Franklin was asked by Randall to undertake a systematic X-ray study of DNA fibres and Gosling was placed under her supervision. Randall left an unfortunate ambiguity about the respective positions of Wilkins and Franklin which later led to dissension about the demarcation of the DNA research at King's, but a letter of his to Franklin in 1950 makes it clear that on &#145;the experimental X-ray effort there would be for the moment only yourself and Gosling&#146;.<br>
+<br>Within the first year Franklin transformed the state of the field. By drawing thinner fibres of DNA she was able to enhance the alignment of the molecules within the specimen, and these, together with finer collimation of the X-ray beam, produced much better X-ray patterns. Moreover, by introducing methods to control and vary the water content of the specimens, she showed that two forms of the DNA molecule, which she called A and B, existed, and defined conditions for the transition between them. It became clear that previous workers had been working, unbeknown to them, with a mixture of the two forms, or at best of poorly oriented specimens of the B form. In May 1952 she obtained the superb patterns of the B form which later graced the textbooks, and which J. D. Watson saw early in 1953. Inspection of this helical pattern, together with the distribution in December 1952 of a report by Franklin of her work, gave crucial information to Watson and Crick for the final building of their DNA model in February&#150;March 1953.<br>
+<br>However, despite her discovery of the simpler B pattern, Franklin's attention was mostly directed to the A form, because here the molecules are not in random rotational positions, as in B, but packed in a crystal lattice. The X-ray pattern thus shows sharp crystalline &#145;spots&#146; and offered the possibility of an objective crystallographic analysis because of the greater wealth and precision of the diffraction data available. In retrospect this may look a misjudgement, but it was a reasonable decision because, if correctly interpreted, the A pattern would yield more precise information about the DNA molecule, though, of course, any model for DNA must be capable of forming either structure A or B. In fact, the analysis ran into an impasse and in January 1953 Franklin turned to the B form, the X-ray pattern which was characteristic of some kind of helical structure.<br>
+<br>By March 1953 Franklin had carried the quantitative analysis of her B form patterns to the point where the paths of the backbone chains were determined, and she wrote up her work in a typescript dated 17 March, that is, one day before news of the Watson and Crick structure reached King's. The draft contains all the essentials of her later paper (with Gosling) in <span class="italic">Nature</span> in April, together with one by Wilkins and his colleagues, which accompanied Crick and Watson's paper announcing their model for the structure of DNA. In Franklin's draft, it is deduced that the phosphate groups of the backbone lie, as she had long thought, on the <i>outside</i> of the two coaxial helical strands whose configuration is specified, with the bases arranged on the inside. Her notebooks show that she had already formed the notion of interchangeability of the two purine bases with each other, and also of the two pyrimidines. The step from base interchangeability to the specific base pairing postulated by Crick and Watson is a large one, but there is little doubt that she was poised to make it. The notebooks also show that she had grasped that the A form contained two chains or strands which ran in opposite directions, but had not understood the exact relation between the two forms, namely that the A form is a somewhat more tightly wound form of the B double helix in which the bases change their tilt direction considerably, thus obscuring the helical structure underlying the A form X-ray pattern. In a second paper to <span class="italic">Nature</span> in July 1953 Franklin and Gosling showed this conclusively, and indeed this paper stands as the first analytical demonstration of the correctness of the Watson&#150;Crick model.<br>
+<br>In mid-March 1953 Franklin moved to Birkbeck College, London, at the invitation of Professor J. D. Bernal. Here her main work was on tobacco mosaic virus, taking up its X-ray study where it had been left in the work of Bernal and Fankuchen, fifteen years before. Watson had put forward the hypothesis that the large rod-shaped virus particle was composed of a helical arrangement of small protein molecules (or subunits). Franklin showed that this was, in essence, correct. Using her improved techniques, she was able to obtain spectacular, and beautiful X-ray patterns of the virus, of such clarity that she could begin a quantitative analysis of the structure. In four short years, together with a small devoted group of students and collaborators, she determined the precise helical geometry of the protein units, and above all showed that the ribonucleic acid (RNA) of the virus, the carrier of the infectivity, in other words of the genetic information, formed a long single chain embedded deeply within the protein framework.<br>
+<br>On 16 April 1958 Franklin died of cancer at the Royal Marsden Hospital, Chelsea; she was buried at the Jewish cemetery, Willesden, London. Franklin was initially struck by cancer in 1956; she bore her illness bravely, never complaining, and worked as much as possible to the very end. She was cut off tragically at the height of her powers and her early death was a great loss to science. But her mark was made. The results of her work on two major biological problems, as well as the techniques used to obtain them, helped lay the foundations of structural molecular biology. In 1962 Watson, Crick, and Wilkins were awarded a Nobel prize for their work on DNA. The prize is not given posthumously so the practical question of whether Franklin should have been included did not arise. However, since Franklin's contributions, and indeed her actual X-ray data, were crucial to the total achievement, it is difficult to see how she could have been denied a share.<br>
+<br>The impression sometimes given in writing or film in which Franklin figures is of an absolutely dedicated woman. This is only part of her character. She was single-minded and uncompromising in her work, so that she sometimes was bound to provoke exasperation among her colleagues, a feeling immediately tempered by the admiration they felt. But she was not austere, she had a sense of fun, and was a woman of wide culture, at home in several European countries and the USA. She loved travel, took walking and cycling holidays abroad, and was a good mountain climber.<br>
+<br>As a scientist she was not merely a gifted experimentalist, but possessed a good analytical mind. Had she lived she would surely have gone on to further heights, but she will be remembered as one of the select few who made crucial contributions to one of the most important discoveries of the twentieth century.<br>
+<br>Aaron Klug </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. D. Watson, <i>The double helix</i> (1968) &middot; A. Klug, &#145;Rosalind Franklin and the discovery of the structure of DNA&#146;, <em>Nature</em>, 219 (1968), 808&#150;10, 843&#150;4 &middot; A. Klug, &#145;Rosalind Franklin and the double helix&#146;, <em>Nature</em>, 248 (1974), 787&#150;8 &middot; J. Glynn, &#145;Rosalind Franklin, 1920&#150;1958&#146;, <i>Cambridge women</i><i>: twelve portraits</i>, ed. E. Shils and C. Blacker (1996), 267&#150;82 &middot; A. Sayre, <i>Rosalind Franklin and DNA</i> (1978) &middot; H. F. Judson, <i>The eighth day of creation</i><i>: the makers of the revolution in biology</i> (1979) &middot; personal knowledge (2004) &middot; private information (2004) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37431&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1958) &middot; Randall to Franklin, 4 Dec 1950, CAC Cam., Franklin MSS<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37431&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, scientific corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37431&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Elliott &amp; Fry, photograph, 1946, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37431&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; photograph, 1950&#150;51, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37431&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;11,278 10<i>s</i>. 9<i>d</i>.: probate, 30 June 1958, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Aaron Klug, &#145;<span class="roman"><span class="headword">Franklin,  Rosalind Elsie</span>  (1920&#150;1958)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2007 [http://www.oxforddnb.com/view/article/37431, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Rosalind Elsie Franklin (1920&#150;1958): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37431 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/37431/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

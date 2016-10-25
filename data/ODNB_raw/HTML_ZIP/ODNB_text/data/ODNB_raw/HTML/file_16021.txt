@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 16021;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/16/16021-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/16/16021-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=16021#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Langland,  William</span>  (<em>c.</em>1325&#150;<em>c.</em>1390), <span class="occ">poet</span>, is known from only three sources. These are a Latin memorandum of about 1400 on the last leaf of an unfinished copy of his poem <span class="italic">The Vision of Piers Plowman</span> made about the same time (TCD, MS D.4.1 (212)), a cluster of sixteenth-century ascriptions by the antiquary John Bale (<i>d</i>. 1563), and the poem itself.<h2>
+<a name="Origins"></a>Origins</h2>Even the memorandum seems primarily about Langland's parentage, as if this were the object of interest:<blockquote>It was Stacy de Rokayle who was William de Langlond's father; this Stacy was of gentle birth and lived in Shipton-under-Wychwood in Oxfordshire, holding land from Lord le Spenser; the aforesaid William wrote the book called <span class="italic">Piers Plowman</span>. (Dublin, Trinity College, MS D.4.1 (212))</blockquote>The memorandum is authenticated by knowledgeable local annals dated from 1294 to 1348 in the same hand above it on the page, with clear interest in the Despensers. Extension of that interest to include the poet's family is indicated by a recent discovery  (Matheson) that his grandfather Peter de Rokele had been in the service of Hugh le Despenser the younger, indeed had several times been violently and unlawfully active in his interest, and that, having in April 1327 been pardoned for &#145;adhering&#146; to Despenser, he was within months implicated in a conspiracy to release the captive Edward II. This Peter held land in and about Wooton Underwood in Buckinghamshire. His son Eustace (Stacy) appears in local records as a man of standing in Oxfordshire. Bale's ascriptions call the poet Robert Langland, and have him born at Cleobury Mortimer in Shropshire. The baptismal name, Robert, was a mistaken inference from a scribal error which survives in two unrelated copies of the poem; even without the memorandum Langland's given name would be established as William by an unmistakable cryptogrammatic signature in the convention of the genre, in one version of <span class="italic">Piers Plowman</span>: &#145;I have lived in land, my name is Long Will.&#146; But his identification of the birthplace, which has been questioned on mistaken grounds, seems confirmed by records of deeds of gift and grants of land made by various Langlands between 1399 and 1581 not actually in Cleobury Mortimer but a bare 5 miles away in the manor of Kinlet and in adjoining Highley. This seems to have been the poet's mother's family. That he took her name need imply no more than that he was not in line to inherit through primogeniture. As to proximity, there are clear indications of Rokayle interest in Shropshire. The surname Rokele may come from the hamlet Ruckley (earlier Rucklee, Rokeley, Rokele) about 25 miles north-west of Kinlet, part of the manor of Acton Burnel where the Despensers had connections by marriage. Continued association is implied by record of a grant, in 1577, of lands named in the earlier deeds to Thomas Longland son of William Longland, by a Richard Longland of Cuddington, Buckinghamshire, 4 miles from Wooton and half a day's ride from Shipton under Wychwood. The span of dates implies a family of substance.<h2>
+<a name="Datingthepoet"></a>Dating the poet</h2>When the poet was born and died, and the circumstances of his life, have been the subject of much inference from his poem. This survives in three forms, each preserved in a substantial number of copies. The first, evidently unfinished, but already bespeaking an accomplished poet, has for coda in three copies a skilful pastiche in Langland's style by a man who names himself John But. The second, developing and extending the first and almost three times as long, has an unmistakable closure. The third is an uncompleted revision of the second. Walter Skeat, who identified these forms, called them the A, B, and C texts. Each contains unmistakable contemporary references. The mature excellence of the writing in the A text, and allusions in it to Edward III's French campaigns, and to a great storm in 1362, between them have suggested that the poet was born about 1330. Recent discovery  (Matheson) that a William Rokele, who might conceivably be the poet, received the first tonsure from Bishop Wolstan of Worcester not long before 1341, suggests a somewhat earlier date, say 1325. Langland's death has long been taken, almost as a matter of convenience, to have occurred before 1387, on the basis of an early identification of the John But who signed the A coda, where the poet's death is reported, as a king's messenger who died that year. The name But, initially thought to be unusual, has proved fairly common, and about a dozen John Buts have come to light in the records. Meanwhile the date &#145;by 1387&#146; has been put in serious question by the reflection of some features of the 1388 <span class="roman">Statute of Labourers</span> in a passage new to the C version (5.1&#150;103). Moreover, having Langland alive after 1388 enables understanding of veiled, but unmistakably political, allusions in C. A better date for his death, taking account of fourteenth-century life expectation, would be <i>c</i>.1390.<h2>
+<a name="Thepoetscircumstances"></a>The poet's circumstances</h2>By its character Langland's poem encourages speculation about him. It belongs to a genre called the dream-vision, which takes the form of a report by a first-person narrator who claims to have experienced the vision he recounts. He figures as participant, encountering personages ranging from the allegorical or fantastic to the possible, even the historical. The dreamer, if he is named, is called after the poet and, where this can be checked, has some of his attributes. He is to an indeterminable extent fashioned in the image of that poet who, for his part, comes to live imaginatively in the personage of his creation. The poet uses him as a means of engagement, obviously powerful in a time when poetry was written as if to be read aloud.<br>
+<br>In the unfinished A text of <span class="italic">Piers Plowman</span> the Dreamer, three times involved in the action by the name Will, gradually acquires character and a temperament. In the completed B text, where the poet encloses his own name in the cryptogram, Will takes shape as a sharply defined personality. In the uncompleted C revision he is even further implicated. Here in a new passage between visions (5.1&#150;103) Langland has set an episode from which a way of life and its circumstances have been inferred for him. The Dreamer reports how in the prime of life, given to indolence, living with his wife in a mean house in Cornhill in the city of London, he is confronted by Conscience and Reason, two personifications who in the course of the first two versions have acquired implicated significance, the former, to simplify, the unthinking impulse to good, the latter an absolute principle of right which informs creation and should govern human conduct. Reason reproaches him for being an idle wastrel, no better than a sponging beggar. From his defence he reveals that he had a clerical education, but his father and those who maintained him and paid for that education in his youth, &#145;many years ago&#146;, are dead now, and he supports himself (as presumably also his wife) by pious service of prayer and psalmody in the oratories of big houses, now here, now there, welcome in periodic visits during which he prays for the souls of his hosts. The tone of his defence is bitter, tinged with disappointed expectation.<br>
+<br>This episode has seemed too particular to be an elaborate fiction. On its basis the poet who created the Dreamer has been identified as a clerk in minor orders, necessarily because of his marriage no higher than acolyte, preserving his clerical status by tonsure and habit, a kind of itinerant &#145;beadsman-for-the-living&#146;. That sketch fits the concept of a younger son in a family of standing, cherished by father and &#145;frendes&#146; (that is, in Middle English, &#145;patrons&#146; or &#145;kinsfolk&#146;), who ended a promising career in the church by an impulsive marriage and could not fit into any of the various secretarial, administrative, or legal jobs open to a minor cleric. Each detail is plausible. But the assemblage is unverifiable and based on arbitrary selection of such detail as seemed appropriate to the biographer.<br>
+<br>Other self-revelations by the Dreamer are interpreted figuratively. Once he tells how, in a dream set within a vision, he is carried off by Fortune and three lovely girls, Concupiscence of the Flesh, Concupiscence of the Eyes, and Pride of Life, to the Land of Longing and Love. Of course Fortune deserts him, and on awakening he reproaches himself for the &#145;wilde wantownesse&#146;, headlong lack of restraint, of his youth. Then from the next vision he awakens almost out of his mind, like a man whose luck is out, and lives a roving beggar's life for many years. Still later, again on awakening, he describes how he is subject to periodic dementia, spells of disturbed mental balance. Near the end of the poem he tells how Old Age first tramples on and then beats him, leaving him bald, deaf, toothless, gouty, and, to the distress of his wife, impotent.<br>
+<br>Each of these four carefully located disclosures leads up to a literally represented episode of moral insight and reorientation, of spiritual reassurance for the Dreamer. The first three have been sensitively read as the poet confronting Will with &#145;a momentary vision of his own life&#146; at its middle point, with biographical implication. But the biographers ignore the fourth: it is, of course, without dignity. Yet it must seem gratuitous unless similarly read, and indeed directly upon its goliardic self-disparagement follows the ultimate spiritual reorientation of the Dreamer.<br>
+<br>The Dreamer's confrontation with Conscience and Reason responds to similar reading. It is exquisitely staged: two personifications and a fiction named after the poet, the plot intellectually conceived, the interrogation calling to mind the <span class="roman">Statute of Labourers</span> of 1388. Without doubt there is underlying autobiography here, to do with acquiring insight into oneself, and in the design of the C version the episode compresses the poet through his self-projection into the perspective of the most extended set piece of the poem, the confessions of the personified capital sins, which follows directly.<br>
+<br>But further biographical inference from this episode can seem hazardous. That Langland was a cleric would be otherwise apparent. Whether he was married is another matter: the names he gives to the wife and daughter of the Dreamer who bears his name are terms of disparagement, and the two may be no more historical than the Dreamer's three companions in the Land of Longing and Love. Above all the poem exhibits resources of mind and attitudes that would be remarkable in the self-confessed failure drifting from one kindly household to another. To write it Langland must have read extensively in French religious and secular literature. He was fluent in legal terminology. He made easy use of the techniques of sermon-building taught in the <i>artes praedicandi</i>. His hamartiology is professionally sophisticated, reflecting penitential literature, particularly the manuals for confessors, even to their pastoral tone. He was familiar with such contemporary aids to biblical study as <i>distinctiones</i> and concordances. His theology, while not that of Oxford, is embracing and judicious.<br>
+<br>The record of a William Rokele tonsured in the diocese of Worcester some time before 1341 redirects attention to disregarded records of an ordained cleric of that name who in 1353 was by papal letter to the bishop of Norwich preferred from a living in Easthorpe, Essex, which he was required to resign, to one in the gift of the abbot of Peterborough. The prominence of Rokeles in Easthorpe, as also in Norwich, suggests that this could be the same man. The circumstances that seven copies of the earliest form of the poem, among them the three with the But coda, are of eastern county provenance, and that Rokeles and Buts appear in long and close association in Norfolk, would support a suggestion that this William Rokele was the poet who called himself Langland. The extent and degree to which already the earliest form of <span class="italic">Piers Plowman</span> is critical of the ecclesiastical establishment from parson to pope, and particularly of the consistory courts, suggests why it might have seemed to such a man advisable to sign the poem in its second form by another name, and, in the convention of the genre, to give the critic who is his speaking voice a markedly different external personality from his own. Whether or not such identification is accepted, the breadth of his knowledge, and that he had leisure to write, imply either patronage or a relatively secure place, and, moreover, access to books.<h2>
+<a name="Datingthepoem"></a>Dating the poem</h2>The three texts, in effect versions, of <span class="italic">Piers Plowman</span> cannot be dated in the modern sense. Langland evidently worked at the poem over many years, and the dates of the three occasions in its developing history when the ancestor of each was copied are not recoverable. At best each must have been copied after the latest identifiable topical reference it contains. For the A version that would appear to be after 1370. For B the date is furnished by the actual rising of 1381: the form of the letter of the radical priest John Ball in Walsingham's <span class="italic">Historia Anglicana</span> echoes this at two points (B 11.195 and 19.355&#150;7). The latest topicality in C appears to be reference to the king's implacable hatred of Gloucester and the Arundels after the dissolution of the Merciless Parliament (C 5.194&#150;6).<h2>
+<a name="Earlyreception"></a>Early reception</h2>Dissemination of the poem was evidently rapid. Seventeen of the fifty-seven known copies and three fragments could, on palaeographic indication, have been made by 1400. The A version, which may not have gone into circulation during Langland's lifetime, survives in ten copies, at its longest a prologue and eleven sections which the rubrics call <i>passus</i> (&#145;steps&#146;); three have all or part of John But's coda. B survives in thirteen copies and a black-letter edition of 1550 printed from a lost manuscript, C in eighteen copies. Another ten copies are composites reflecting availability of exemplars; six of these complete an A version with text from C.<br>
+<br>Before 1381 the B version was talked about enough for the name of its eponymous hero Piers Plowman to be taken up by the insurgents as a rallying cry. The author of John Ball's letters seems to have read the poem. In the early fifteenth century it was seen as a dangerous document associated with the spreading Lollard heresy: there is one copy of C from which the name &#145;Piers Plowman&#146; has been systematically erased. Nevertheless it continued to be read. Seven copies can be associated with monasteries, one with a convent of friars. Among mid-fifteenth-century owners were a bencher of Lincoln's Inn and a speaker of the House of Commons. The poem is mentioned in the wills of a cathedral canon (1396), two rectors of parishes (1400 and 1431), the vicar-choral of York Minster (1409), and a member of the Mercers' Company (1434).<br>
+<br>Chaucer knew <span class="italic">Piers Plowman</span>: the <span class="roman">Canterbury</span> &#145;Prologue&#146; shows unmistakable influence. Soon after 1383 someone with Lollard sympathies wrote an 850 line anti-fraternal <span class="italic">Pierce the Ploughman's Crede</span>, creditably imitating Langland's metre and style. Not long after 1400 two political poems&#151;one retrospectively justifying Richard's deposition, the other counselling his successor&#151;were composed, enough like <span class="italic">Piers Plowman</span> for Skeat to think them by Langland. A third, written soon after 1415 commending Henry V's French campaign, is also in Langland's manner. Later verse with &#145;Plowman&#146; in the title has nothing to do with Langland's poem.<br>
+<br>For a couple of decades after Henry VIII's breach with Rome <span class="italic">Piers Plowman</span> was of immediate topical interest. Within the single year 1550 Robert Crowley issued three impressions of a B copy since lost. Following Bale he called Langland &#145;Roberte&#146;; but his perception of the poet's double concern, &#145;he doth most christianlye enstruct the weake and sharply rebuke the obstinate blynde&#146;, and his knowledge of the poem were accurate. Like Bale and Leland a few years later, recalling the dissolution of the monasteries he was struck by what seemed fulfilment of its prophecies. A generation later it was crudely labelled a satire by Puttenham (1589) and Meres (1598). Like Webbe, who in 1586 wrote of Piers Plowman as its poet, they may not have been able to read it. In 1622 Henry Peacham attributed it to Lydgate.<br>
+<br>Antiquaries of the eighteenth century accepted Bale's attribution and read the poem with more insight. Elizabeth Cooper, in the first volume of the <span class="roman">Muses' Library</span> (1737), while deploring the difficulty of its language, and, as she perceived it, the imperfect metre, observed that &#145;several Passages in it deserve to be immortal&#146;. Thomas Hearne in 1725 believed it had been &#145;much altered at different times&#146;; Joseph Ritson in 1782 thought it &#145;highly probable that the author had revised his original work&#146;.<h2>
+<a name="Modernscholarship"></a>Modern scholarship</h2>The first modern edition of <span class="italic">Piers Plowman</span> was Thomas Whitaker's in 1813, from a copy of the C text. He dismissed Crowley's copy as a bad, late manuscript reflecting revision by the poet. In 1824 Richard Price identified a new form of the poem in the first component of a conjoint AC copy, which he thought might be a &#145;first draught&#146;. In 1832 Thomas Wright published an edition of a B copy. Reviewing Whitaker in 1834, and in his second edition, he challenged him: his own text was based on the best and oldest manuscript; the differences that characterized Whitaker's copy were made by some other person, who was perhaps induced by his own political sentiments to modify certain passages, and was gradually led on to publish a revision of the whole. In 1866 Walter Skeat, having examined twenty-nine copies of <span class="italic">Piers Plowman</span>, identified five forms of the poem of which he judged three, each preserved in a distinctive manuscript tradition, to be authorial. In 1867, 1869, and 1873 he published successive editions of these from good copies, and followed in 1886 with a hugely erudite parallel-text edition of the three. He postulated that the shortest form was the earliest, the others successive revisions. It was forty years before his conclusions were questioned.<br>
+<br>The first issue to be raised was authorship. In 1906 and at greater length in 1908 J. M. Manly argued that what he read as faults of structure, incoherencies of sense within versions, and discrepancies of sense between versions, reflected a succession of revisers, indeed as many as five. Two years later R. W. Chambers and J. H. G. Grattan launched a defence of the single authorship of the three versions in the course of which they invoked the quality of the texts from which Manly had argued. Soon, in adversarial posture, each party had committed itself to producing texts more authorial than Skeat's. Chambers's successors in his textual project saw this as involving re-examination of Manly's case for multiple authorship, and their judgement that this was not compelling has been fairly generally accepted. But in editing the C version they found that the archetype of the C manuscript tradition must have been made from copy prepared by a &#145;literary executor&#146; confronted with the poet's uncompleted revision materials.<br>
+<br>Skeat's sequence of versions has been twice questioned in a proposition that his A text, the short form of the poem, is an abridgement of B for lay persons, by a redactor  (H. Meroney), possibly by Langland  (J. Mann); it remains to be seen whether the latter proposition, in its newly argued form, comes to be widely accepted. In 1983 A. G. Rigg and his student Charlotte Brewer published, as the earliest form of the poem, antecedent to A, the first component of a conjoint AC copy (Bodl. Oxf., MS Bodley 851). Another view is that, as Skeat believed, this text is a copy of A written down from imperfect memory and eked out with some 200 lines mainly of pastiche, by someone who had seen the B and C versions. Skeat's view is supported by the evident perplexity of this writer about the breakdown of Conscience at the end of the poem in B and C.<br>
+<br>The study of <span class="italic">Piers Plowman</span>, where nothing seems to admit of absolute proof, depending accordingly on assessments of likelihood and relative plausibility of argument, is clouded by the bearing upon it of late twentieth-century literary theory and the politicization of literature. Nevertheless interest in the poem is actually growing. A vogue of scepticism about received opinions fails to diminish its power of engagement, and disagreements reflect possessive attitudes to its text, and indeed to its poet, who has been anything but marginalized, quite simply because of the quality of his poem as a memorable archive of human experience by which it has the power to engage notwithstanding the passage of six centuries.<h2>
+<a name="Langlandinhistime"></a>Langland in his time</h2>Langland's subject, a culture restive in the beginnings of radical change, is of huge moment. <span class="italic">Piers Plowman</span> records a <i>prise de la conscience</i> affecting an entire society of which at least theoretically the social and economic fabric was subject to elaborately formulated religious directive. The poem is charged with deep spiritual unease, loss of confidence in the order of things, a condition for which no durable and intelligent explanation was possible because the available forms of thinking were inadequate to this. It particularized itself in a sense of discrepancy, a consciousness of oppositions that should not exist, between material and spiritual values, between moral excellence as a philosophically conceived value and the visibly prevalent imperfection of actuality, between knowledge of right conduct and failure in the possessors of that knowledge to realize it, between divine and worldly wisdom, between the <i>imago dei</i> in Adam newly created and its distortion by the fall, and, in the deepest theological sense, between the God of justice and the God of love. At the centre of this anxiety was the evident failure of the church's ministers in pastoral care.<br>
+<br>Langland's reformist thinking about the shortcomings of the clergy was not innovative. The grand living and avarice of the prelacy, the ignorance, sloth, and vicious living of parish clergy, the diversion of educated clerics to lay office, the decay of monasticism into self-indulgent worldliness, the cynicism of the friars, particularly their venal exploitation of the sacrament of penance, the moral poisoning of the institutional church by ownership of property, the political papacy, were notorious. In many details Langland's anti-clericalism chimes with Wycliffite criticisms, but in fact <span class="italic">Piers Plowman</span> anticipates these, and many Lollard texts echo its language. Moreover, where the Wycliffites lapsed into heterodoxy, as in respect of the dogmas of penance, purgatory, and prayers to saints for intercession, <span class="italic">Piers Plowman</span> is orthodox: Langland saw himself within a different church from Wyclif's, not a convocation of the <i>presciti</i>, the elect, but one of all Christendom restored by grace to the excellence of the pristine apostolic foundation, &#145;a state of charity, life in love and righteousness in a single faith and doctrine, a love-knot of righteous conduct and of faith expressed in works, Christians of every kind in firm accord&#146;  (C 17.125&#150;9).<br>
+<br>The nature and intensity of his concern and his dream of a regenerate church afford a perception of Langland the man, a reformer but no rebel, who identified the source of moral&#151;or, nowadays, social&#151;evil in the extreme fallibility of individuals rather than in defective institutions. Langland appears the poet in the typification of his ideal of regeneration, his eponymous hero the ploughman Piers, who in the course of the poem grows from a peasant of upright life to an embodiment of divine grace. Similarly the discrepant actuality which made regeneration seem remote, even unlikely, Langland represents in the bearer of the burden of original sin, his hopeless everyman Hawkyn, who regrets not having died immediately after his baptism while still in the state of grace.<h2>
+<a name="Langlandfromhispoem"></a>Langland from his poem</h2>His poem discloses a great deal about Langland the poet. Already the first version, which he was working on in the 1360s, shows him an independent and radical innovator while Chaucer, some time after 1368, was still occupied with imitating French court poetry in <span class="italic">The Book of the Duchess</span>.<br>
+<br>Langland's critical insight was remarkable; in the first place he perceived or sensed that a minor, often trivialized genre could bear a subject of the greatest moment. He had no literary tradition in English to draw upon, and the critical theory of his time, in Latin of course, had not developed concepts and terms for the kind of undertaking evidently in his mind. He had a sense of scale, which showed him that the moral crises of his world had the proportions of what nowadays would be called cosmic drama, and he discerned in them a shape in which to arrange his poem. Above all, whether he knew about the statutory assertion of the primacy of English over French in 1362, he was actively conscious of its serviceability as a poetic medium. And his educated choice of metre, preferring a provincial, unrhymed alliterative measure with an archaic flavour over the only practical alternative, the four-beat rhyming couplet adapted from the French octosyllabic, was inspired.<br>
+<br>The defining features of the dream-vision are few and simple: a poet falls asleep, commonly in an idyllic setting; he experiences a dream in which he himself figures; he awakens and puts, or resolves to put, this into verse. Langland perceived that the speaking voice constantly implying identity of poet and dreamer could be used for intensely personal statement. He developed the intrinsic irony of implied identity and its practical denial into a powerful means of engagement: an authorial presence, elusive but inescapable, inhabits <span class="italic">Piers Plowman</span>. In a very real sense his poem is Langland; he is a factor in its meaning.<br>
+<br>Langland also perceived that the genre, in not prescribing internal form, afforded almost entire liberty of organization. He could arrange discourse as appropriate to the immediate topic, on patterned criticisms of estates satire, or manuals for confessors, or biblical exegesis, or structures of theological argument, or explications of dogma, or rhetorical shapes recommended in the manuals for composing sermons. His manner of proceeding was radically unconventional. He moved his Dreamer through not one vision but a career of eight, within two of which he experiences an &#145;inner&#146; dream. The time-scale and pace vary arbitrarily; progression is only formally serial, governed by contingency of topics of discourse but given the appearance of successions of events. The topics determine the settings. Langland shifts these with smooth plausibility: the road to Westminster and the king's court in judicial session there, a city of London alehouse, the way past Piers's smallholding, vast wildernesses, Piers's walled garden enclosing the Tree of Charity, Jerusalem under Pilate, Calvary, Limbo before the gates of Hell, the battlefield of Christendom ravaged by the renegade Christians of Antichrist's armies, the beleaguered citadel of Unity Holychurch.<br>
+<br>Langland based the near surrealist narrative on a system of dominant themes marking the stages of progress, and the actual concept of such progress, in the development of perfected Christian spirituality: the subjection of material to spiritual values; return by confession and contrition to a state of grace; the ascending degrees of moral excellence; submission to God's will as the first means of attaining this; Pauline charity as its highest degree; the redemption as the supreme act of love; the church through its divine foundation the instrument of redeeming grace; its catastrophic state in the actual world.<br>
+<br>Langland moves the Dreamer from one theme to the next by way of intricate networks of related doctrinal and moral concern. He uses their complexity to develop in each stage of the journey a sense of intensifying crisis, so that identification of the theme appears as discovery and spiritual reassurance. The reassurance mounts to a climax of comfort in the representation of the redemption as a judicial combat between Christ the knight bachelor in the cognizance of Piers Plowman and the death Satan brought into the world. At its peak, having broken the gates of Hell, Christ proclaims that in the fullness of time he will come as king and &#145;have the souls of all mankind out of hell&#146;  (B 18.371&#150;2). But that is said in a dream; thereafter reassurance seems to fail when Antichrist's forces penetrate Unity Holychurch. Then the best comfort is cold: grace must be forthcoming because that God should withhold it is inconceivable.<br>
+<br>Langland developed these crises out of oppositions inherent in the complexities of late medieval moral and eschatological thinking. His paradoxical achievement, one source of his poem's continuing power to engage when the issues it raises have lost their moment, is that his mind, devoutly orthodox, nevertheless identified the drama of such oppositions, between powerful instincts and controls dogmatically imposed by those equally subject to them; between a sense of achievement (the sin of pride) and the theologically conceived virtue of humility; between the free operation of intelligence and the anti-intellectualism of dogmatically based authority.<br>
+<br>The style in which Langland realized these insights shows exceptional understanding and command of language. Its first appearance of artless colloquialism belies it. Close scrutiny shows him commanding interest by exploiting the rhetorical potential of syntax, the &#145;poetry of grammar&#146;, in figures of speech, and enforcing meaning with the principal figures of thought, personification of course, and every kind of paronomasia or pun, and a very distinctive ironic incongruous metonymy. His ear for the registers of English in a vocabulary of more than 5000 words appears flawless: he commands effects ranging from the homeliest to the sublime, moving easily from one to another. His personifications come to life from the tones of their representation. He made the alliterative long line, used with little distinction by most of his contemporaries, into a component of style, counterpointing the several stresses, of word and phrase and larger statement, with the recurrent phonemes of the formal alliteration, all to a chime of vowels, in music that conferred engagement on prosaic homilizing and, even, today, on issues long dead.<br>
+<br>His poem shows Langland driven by two compulsions. One, externally generated, was to communicate his heightened sense of anxiety by bringing together salient instances of the moral deterioration of his age and his sense of imminent change. This seems to have amounted to a mission: <i>Anima</i>, &#145;Reason&#146;, a wholly authoritative personification, says to the Dreamer of the delinquency of pastoral clergy, &#145;I have a duty to publish this because of the moral issues involved&#146;  (B 15.28, 91). The other compulsion was that of the artist whose medium is language, for whom the act of composition is necessary to self-fulfilment. Langland undoubtedly sensed this: another of his personifications, Wit, &#145;Intelligence&#146;, describes &#145;speche&#146;, that is, words in meaningful patterns, as &#145;the grace of the pentecostal tongues of fire&#146;, of <span class="roman">Acts</span> 2: 3, &#145;and God's music-maker, and a celestial diversion&#146;  (B 9.103&#150;4).<br>
+<br>The two compulsions were both conflicting and inseparable. In Langland's rewriting of the B version it is seldom confidently discernible whether the first impulse to any change had to do with substance or with form and style. Even when this seems possible the effects cannot be separated. Thus a main difference in the last version, greatly augmented criticism of clerical corruption, affords occasion for much stylistic bravura; and the one large structural change, apparently designed to eliminate repetitious treatment of the same topic, is accompanied by substantial additions of differentiating matter.<br>
+<br>At least once the poem seems to register Langland's awareness that his writing was a self-gratifying activity because it displaced penitential exercises and prayers for benefactors  (B 12.10&#150;27). Nevertheless he continued to write. And however deeply he may have been concerned about salvation, his own or that of fellow Christians, there is no sign in his work of modesty about his poetic gift.<br>
+<br>There was, indeed, no ground for any. Langland was by at least a decade the first of the poets who in the second half of the fourteenth century established the standing of English as a poetic medium, and, by their works, initiated the English poetic tradition. In particular his instinctive craftsman's understanding of the quality of English, its communicative and evocative capacity, singles him out. Langland had, it seems, no models; but his example may have fired Chaucer, who first appears restive against the ascendancy of French culture about 1380 in <span class="italic">The House of Fame</span>. The ploughman hero whom Langland created and celebrated played a role in great events, as an emotional focus for the English rising of 1381 which failed, and for the Hussite movement of religion in fifteenth-century Bohemia which changed the course of history. But even without such considerations Langland stands, for the quality of his art, with Dante and Chaucer among the supreme poets of the European middle ages.<br>
+<br>Langland's use of Middle English is difficult even for scholars of the subject. For others his poem is accessible in two translations which do not disgrace it. One, J. F. Goodridge's <span class="italic">Piers Plowman: William Langland Translated into Modern English</span> (repr. 1975), reproduces the literal sense of Skeat's B text with respect and, by and large, accurately; the other, E. T. Donaldson's <span class="italic">Will's Vision of Piers Plowman: an Alliterative Verse Translation</span> (1990), based on the Athlone edition of B, communicates something of the effect of Langland's metre, albeit occasionally at the cost of intelligibility. To best effect the two should be read side by side.<br>
+<br>George Kane </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>memorandum, <i>c.</i>1400, TCD, MS D.4.1 (212), fol. 89<i>v</i>; repr. in G. Kane, <i>Piers Plowman: the evidence for authorship</i> (1965) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16021&amp;istheme=&amp;target=Bale%2C%20Index')">Bale, <i>Index</i></a>, 383, 509&#150;10 &middot; Birm. CL, Childe family muniments, bundle 16 [relevant matter cited in G. Kane, <i>Piers Plowman: the evidence for authorship</i> (1965), 28&#150;9, n. 6] &middot; W. Langland, <i>Piers Plowman</i><i>: the A version</i>, ed. G. Kane (1960) &middot; W. Langland, <i>Piers Plowman</i><i>: the B version</i>, ed. G. Kane and E. T. Donaldson (1975) &middot; W. Langland, <i>Piers Plowman</i><i>: the C version</i>, ed. G. Russell and G. Kane (1996) &middot; R. W. Chambers, &#145;Robert or William Langland&#146;, <em>London Medieval Studies</em>, 1, pt 3 (1948), 430&#150;62 [for 1939] &middot; C. H. Pearson, &#145;Contemporary literature&#146;, <em>North British Review</em>, 52 (1870), 211&#150;322, esp. 241&#150;5 &middot; R. McKinley, <i>A history of British surnames</i> (1990), 30&#150;31 &middot; E. Rickert, &#145;John But, messenger and maker&#146;, <em>Modern Philology</em>, 11 (1913&#150;14), 107&#150;16 &middot; C. Barron, &#145;William Langland, a London poet&#146;, <i>Chaucer's England</i><i>: literature in historical context</i>, ed. B. Hanawalt (1992), 102&#150;4 &middot; O. Cargill, &#145;The Langland myth&#146;, <em>Publications of the Modern Language Association of America</em>, 50 (1935), 49ff &middot; E. T. Donaldson, <i>Piers Plowman</i><i>: the C-text and its poet</i>, repr. (1966), 199&#150;226 &middot; L. Clopper, &#145;Need men labour? Langland's wanderer and the labour ordinances&#146;, <i>Chaucer's England</i><i>: literature in historical context</i>, ed. B. Hanawalt (1992), 117&#150;18, 128 &middot; J. Burrow, <i>Langland's fictions</i> (1993) &middot; P. Gradon, &#145;Piers Plowman and the ideology of dissent&#146;, <em>Publications of the British Academy</em>, 66 (1980), 179&#150;205 &middot; H. Meroney, &#145;The life and death of Long Wille&#146;, <em>ELH: a Journal of English Literary History</em>, 17 (1950), 1&#150;35 &middot; J. Mann, &#145;The power of the alphabet: a reassessment of the relation between the A and B versions of <i>Piers Plowman</i>&#146;, <em>Yearbook of Langland Studies</em>, 8 (1994), 21&#150;50 &middot; A. G. Rigg and C. Brewer, <i>William Langland Piers Plowman the Z text</i> (1983) &middot; G. Kane, &#145;The &#147;Z version&#148; of <i>Piers Plowman</i>&#146;, <em>Speculum</em>, 60 (1985), 910&#150;30 &middot; V. DiMarco, <i>Piers Plowman</i><i>: a reference guide</i> (1982) [bibliography to 1979] &middot; <em>Yearbook of Langland Studies</em> (1987&#150;) &middot; L. M. Matheson, text of a lecture delivered 3 May 1997 during the Medieval Congress at Kalamazoo &middot; G. Kane, &#145;The autobiographical fallacy in Chaucer and Langland studies&#146;, <i>Chaucer and Langland</i> (1989), 1&#150;14 &middot; G. Kane, &#145;An open letter to Jill Mann about the sequence of the versions of <i>Piers Plowman</i>&#146;, <em>Yearbook of Langland Studies</em>, 13 (1999), 7&#150;33<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16021&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Bodley 851
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16021&amp;istheme=&amp;target=TCD')">TCD</a>, MS D. 4.1 (212), fol. 89<i>v</i>
+<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">George Kane, &#145;<span class="roman"><span class="headword">Langland,  William</span>  (<em>c.</em>1325&#150;<em>c.</em>1390)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/16021, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Langland (<em>c.</em>1325&#150;<em>c.</em>1390): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/16021 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56923;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56923-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56923-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56923#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Harris,  Thomas Maxwell</span>  (1903&#150;1983), <span class="occ">palaeobotanist</span>, was born on 8 January 1903 in Leicester, the first of the four children, and only son, of Alex Charles Harris, engineer and inventor, and his wife, Lucy Frances, daughter of Arthur Evans of Leicester. He attended Wyggeston grammar school, Northampton grammar school, and Bootham School, York. He went on to University College, Nottingham, in 1919, where he obtained a London University pass degree of BSc in chemistry, physiology, and botany. While at Nottingham, he obtained a scholarship to Christ's College, Cambridge, and in 1922 he embarked on a science tripos, graduating with a BA in botany two years later. Contact with the palaeobotanist Albert Seward brought him the chance of a studentship from the Department of Scientific and Industrial Research (1924) to investigate the Triassic fossil plants of east Greenland, research which led to the award of his PhD in 1927. In 1926 Harris went to Greenland with a party led by the Dane Lauge Koch, and overwintered on the east coast. His energetic and meticulous collecting, together with his exploitation of fossil cuticle preparation, gave the most comprehensive picture of a Mesozoic flora then known. The flora was published in five parts (1931&#150;7) in <span class="italic">Meddedelser om Gr&oslash;nland</span>. In 1927 Harris married Katherine Massey (<i>d</i>. 1984), daughter of Harold Massey and his wife, Margaret MacKennall. They had met on an excursion to the Lake District, during a meeting of the British Association at Leeds. She was a lecturer in botany at Manchester, with a research interest in algae that she maintained throughout her life. They had four children.<br>
+<br>Harris's main research was on the Jurassic flora of Yorkshire, and was carried out over a period of nearly forty years. He started this research soon after becoming professor of botany at Reading University, (a post he held from 1934 to 1968) and published the final volume of <span class="italic">The Yorkshire Jurassic Flora</span> in 1979. During this period Harris changed the ethos of palaeobotanical research. He believed that a palaeobotanist should collect his own material rather than waiting for it to be brought to him by geologists, since he alone would know what was worth collecting. He eschewed large eye-catching specimens of fossil plants, demonstrating that these could often be less scientifically rewarding than the small scraps which could be made to yield vital details of the living plant. His goal was always to reassemble &#145;the whole plant&#146; using microscopic features of detached fragments, and their associated occurrence in many localities, to link the separated parts. By such detective work he radically changed the knowledge of many groups of Mesozoic plants, most notably the Caytoniales, the cycads, the Czeckanowskiales, and the genus <i>Pentoxylon</i>.<br>
+<br>Harris's approach to palaeobotany was always practical, and often unconventional. Over the years he must have walked and cycled many hundreds, probably even thousands, of miles across Yorkshire on his collecting excursions. He experimented with the process of fossilization, burying rubber balls in grass clippings to see how pollen grains behave in a rock matrix, and fed his goat and ducks pollen grains to see how they survived passage through the gut. He burnt dead plant material, and even a beetle, buried in sand, to study the formation of fossil charcoal. Harris regarded the occurrence of charred wood as evidence for the occurrence of forest fires in the Mesozoic. In this, he rejected the view of Marie Stopes and others that such fusainized plant material could be formed biologically, without involving fire (a process which has not been found to occur in any modern environment).<br>
+<br>Harris's approach to teaching was equally forthright and enterprising. He led many student parties on ecological excursions to Cadair Idris in north Wales, camping and cooking with the minimum of facilities. He regarded this combination of a physical and intellectual &#145;assault course&#146; as a vital element in university education. He travelled widely, lecturing and encouraging aspiring young palaeobotanists in many parts of the world, most notably in India. He was elected to the Royal Society in 1948, and was a foreign member of both the Danish and the Swedish academies of science. He died following a heart attack on 1 May 1983, at his home, 74 Bird Hill Avenue, Reading. He left his body for science and his remains were subsequently cremated.<br>
+<br>William G. Chaloner </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. G. Chaloner, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56923&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 31 (1985), 229&#150;60 &middot; <em>The Times</em> (3 May 1983) &middot; personal knowledge (2004) &middot; private information (2004) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56923&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1983)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56923&amp;istheme=&amp;target=NHM')">NHM</a>, papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56923&amp;istheme=&amp;target=RS')">RS</a>
+<p></p>
+	  &nbsp;<h3>SOUND</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56923&amp;istheme=&amp;target=RS')">RS</a>, tape of lecture reminiscing on his life and contemporaries, 1977</p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in K. L. Alvin, P. D. W. Barnard, and W. G. Chaloner, eds., &#145;Studies on fossil plants&#146;, <em>Journal of the Linnean Society, Botany</em>, 61 (1968), 1&#150;226 &middot; three photographs, repro. in Chaloner, <i>Memoirs FRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;166,759: probate, 15 July 1983, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">William G. Chaloner, &#145;<span class="roman"><span class="headword">Harris,  Thomas Maxwell</span>  (1903&#150;1983)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/56923, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Maxwell Harris (1903&#150;1983): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56923 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

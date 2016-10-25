@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5780;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5780-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5780-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5780#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Cockeram,  Henry</span>  (<em>fl. </em>1623&#150;1658), <span class="occ">lexicographer</span>, is known only as the author of <span class="italic">The English Dictionarie, or, An Interpreter of Hard English Words</span> (1623). This was the third dictionary of English, and the first to bear the title of &#145;dictionary&#146;, following Robert Cawdrey's <span class="italic">A Table Alphabeticall</span> (1604) and John Bullokar's <span class="italic">An English Expositor</span> (1616).<br>
+<br>In the dedication to Richard Boyle, earl of Cork, Cockeram claims to be &#145;tied in double bonds of bloud and friendship&#146; to a Sir William Hull. That Cockeram had some connection with Ireland is also suggested by the existence of an issue of the fifth edition of his <span class="italic">English Dictionarie</span> (1637), for Andrew Crooke and Thomas Allot, &#145;to be sold at their shop neere the Castle-Bridge in Dublin&#146;. The first edition is prefaced by dedicatory verses from six of Cockeram's friends, one of whom is the playwright John Webster. We also learn from these dedicatory verses that Cockeram was a citizen of Exeter. He may have been the Henrye Cockram who married Elizabethe Strashley at Holy Trinity, Exeter, on 2 February 1613.<br>
+<br>
+<span class="italic">The English Dictionarie</span> is a small octavo volume, divided into three &#145;Bookes&#146;: the first contains &#145;the choicest words themselves now in use&#146;; the second a list of &#145;vulgar&#146; words with their more &#145;refined&#146; synonyms; and the third an encyclopaedic section containing information about &#145;Gods and Goddesses, Giants and Devils, Monsters and Serpents, Birds and Beasts, Rivers, Fishes, Herbs, Stones, Trees, and the like&#146;. It was a commercial success, going into eleven editions printed in 1623, 1626, 1631, 1632, 1637, 1639, 1642, 1647, 1650, 1651, and 1658, with a twelfth edition &#145;enlarged by SC&#146; appearing in 1670. Until the publication of Thomas Blount's <span class="italic">Glossographia</span> in 1656, the only rival to Cockeram's dictionary was Bullokar's <span class="italic">English Expositor</span>.<br>
+<br>
+<span class="italic">The English Dictionarie</span> is in the same &#145;hard words&#146; tradition as the dictionaries of Cawdrey and Bullokar, intended not to provide a full account of the vocabulary of English, but, as Cockeram states on the title-page, to enable &#145;Ladies and Gentlewomen, young Schollers, Clarkes, Merchants, as also Strangers of any Nation, to the understanding of the more difficult Authors already printed in our Language&#146;. The issue of <span class="italic">The English Dictionarie</span> printed and sold by Edmund Weaver in 1623 includes on the title-page an acknowledgement that it is &#145;a Collection of the choicest words contained in the <span class="italic">Table Alphabeticall</span> and the <span class="italic">English Expositor</span>, and of some thousand of words never published by any heretofore&#146;. The issue printed in the same year for Nathaniel Butter, and all subsequent editions, omits the reference to Cockeram's predecessors. Starnes and Noyes suggest that &#145;Weaver, as printer of the <span class="italic">Table Alphabeticall</span>, may have insisted on Cockeram's acknowledgment of his debt to Cawdrey&#146;  (Starnes and Noyes, 26).<br>
+<br>The only contemporary criticism of <span class="italic">The English Dictionarie</span> comes from the anonymous author of the <span class="italic">Vindex Anglicus</span> (1644), who, while not mentioning Cockeram by name, &#145;chose his forty-nine examples of kinds of words to be expunged from the English language almost entirely from Henry Cockeram's <span class="italic">English Dictionarie</span>&#146;  (Riddell, &#145;Beginning&#146;, 117). Starnes and Noyes acknowledge that Cockeram extended the scope of the dictionary by including encyclopaedic information and anticipated &#145;the idea of a standard of good usage&#146; in his section devoted to &#145;vulgar&#146; words and their &#145;refined&#146; equivalents  (Starnes and Noyes, 35). However, they suggest that the majority of Cockeram's words and definitions were taken from either Cawdrey or Bullokar or from contemporary Latin&#150;English dictionaries such as Thomas Thomas's <span class="italic">Dictionarium linguae Latinae et Anglicanae</span> (1st edn, 1587), and that the second part is essentially a plagiarism of Francis Holyoke's revisions (1606, 1612, 1617) of John Rider's <span class="italic">Bibliotheca scholastica</span>. They imply that Cockeram, by Anglicizing the Latin entries in Rider&#150;Holyoke, invented words that had never been used in English. This impression is reinforced by the presence in the <span class="italic">Oxford English Dictionary</span> of some 600 words cited first from Cockeram and only from Cockeram and later dictionaries  (Riddell, &#145;Reliability&#146;, 4). However, both Riddell  (&#145;Beginning&#146;) and Sch&auml;fer (<span class="italic">Early Modern</span> and &#145;Hard-word dictionaries&#146;) point out that Cockeram was a more careful compiler than Starnes and Noyes acknowledge: he took neologisms from contemporary texts, such as Thomas Nashe's <span class="italic">Christs Teares Over Jerusalem</span> (1593), and used Latin&#150;English dictionaries to check the definition of a word found elsewhere rather than to augment the vocabulary artificially.<br>
+<br>Joan C. Beal </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Henry Cockeram</i><i>: &#145;The English dictionarie&#146;</i>, ed. R. C. Alston, English Linguistics, 1500&#150;1800, 124 (1968) &middot; De W. T. Starnes and G. E. Noyes, <i>The English dictionary from Cawdrey to Johnson, 1604&#150;1755</i>, new edn, ed. G. Stein (1991) &middot; J. Sch&auml;fer, <i>Early modern English lexicography</i>, 1 (1989) &middot; R. C. Alston, <i>A bibliography of the English language from the invention of printing to the year 1800</i>, 5 [1966]; repr. with corrections (1974) &middot; J. A. Riddell, &#145;The beginning: English dictionaries of the first half of the seventeenth century&#146;, <em>Leeds Studies in English</em>, 7 (1974), 117&#150;53 &middot; J. A. Riddell, &#145;The reliability of early English dictionaries&#146;, <em>The Yearbook of English Studies</em>, 4 (1974), 1&#150;4 &middot; J. Sch&auml;fer, &#145;The hard-word dictionaries: a reassessment&#146;, <em>Leeds Studies in English</em>, 4 (1970), 31&#150;48 &middot; T. Learmouth and S. McWilliam, <i>Historic English dictionaries, 1595&#150;1899</i><i>: a union catalogue of holdings in Exeter libraries</i> (1986) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5780&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Joan C. Beal, &#145;<span class="roman"><span class="headword">Cockeram,  Henry</span>  (<em>fl. </em>1623&#150;1658)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/5780, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Henry Cockeram (1623&#150;1658): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5780 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

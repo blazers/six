@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5829;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5829-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5829-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5829#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Coke,  Roger</span>  (<em>c.</em>1628&#150;1704<span class="mult">x</span>7), <span class="occ">political writer and economist</span>, was the third son of Henry Coke (1591&#150;1661), of Thorington, Suffolk, and his wife, Margaret, daughter and heir of Sir Richard Lovelace of Kingsdown, Kent. He was educated at Queens' College, Cambridge, where he &#145;became well vers'd in several Parts of Learning&#146; though &#145;Mathematicks, for some time, seem'd to be his principal Study&#146;  (Coke, xiii). However, he was to leave Cambridge, for reasons unknown, without ever having completed his degree. By 1648 he was married to Frances (maiden name unknown) and on 6 February 1649 their daughter&#151;and only child&#151;was baptized at Mileham, Norfolk.<br>
+<br>Coke appears to have welcomed the Restoration and in 1660 published <span class="italic">Justice Vindicated</span>, which attacked the &#145;false&#146; theories of Thomas White, Thomas Hobbes, and Hugo Grotius, while supporting the monarchical system and the Church of England. Shortly after 1661 Coke was granted a pension of &pound;100 per annum out of the &#145;grand estates&#146; left to his nephew Robert Coke (1650&#150;1679) of Holkham. In April 1672 he was charged with administering the property and finances of his family at Thorington and successfully renegotiated the lease of the manor at Farnham Royal, Buckinghamshire, in favour of his nephew's future heirs. However, his subsequent business ventures in the City of London failed and he was imprisoned for several years in the Fleet prison, as the result of the non-payment of his accumulated debts.<br>
+<br>It was Coke's personal tragedy that his practical application of the principles of trade did not measure up to the entirely original and radical economic theories that he was developing and expounding throughout the 1670s. Though he retained conventional mercantalist views on many subjects&#151;such as the desirability of government control and supervision of the retail trades, the need for a council of trade to direct national policy, and the need to reserve colonial markets and the home waters purely for the benefit of English carriers&#151;there is much in his thought that bridges the gap between the schools of mercantilist and <i>laissez-faire</i> economics (<span class="italic">A Treatise Concerning the Regulation of the Coyn of England</span>, 1696, 15, 69, 129&#150;37; Coke, 2.486). In contrast to the vast majority of his contemporaries, he attempted to analyse economic criteria mathematically and with a greater degree of objectivity than before. As a result, he came to criticize the <span class="roman">Navigation Acts</span> which debarred &#145;the greatest part of the World from Trading with us&#146;, attacked the special privileges of the joint-stock companies which allowed them to monopolize the conditions and operation of trade, and argued for the free importation of goods into England as a stimulus to economic endeavour (<span class="italic">A Treatise</span>, 36, 59, 69; Coke, 1.xliii&#150;xlvi, 16&#150;17; <span class="italic">England's Improvements</span>, 1675, 114).<br>
+<br>Coke's later years were spent in the production of more conventional historical and political studies. As a visceral opponent of King James II, the dispensing power, and the &#145;barefac'd design of introducing Popery to the Subversion&#146; of both church and state, he enthusiastically supported the revolution of 1688, and wrote a withering attack&#151;based jointly on political and economic critiques&#151;of coin clipping and monopoly capitalism, as practised respectively by Jacobite sympathizers and by the tory grandees of the East India Company  (<span class="italic">A Treatise</span>, 13, 17, 20&#150;29, 42&#150;3). This perspective had also informed his more popularist study, <span class="italic">A Detection of the Court and State of England</span> (2 vols., 1694) in which he presented an idealized portrait of England's &#145;ancient&#146; constitutions and liberties, while radically reassessing his opinion of Charles II and concluding that though his actions &#145;were little and dark&#146; he had corrupted the nation and squandered its wealth to an unprecedented level  (Coke, 1.vi, 2. 390&#150;91).<br>
+<br>Following the publication of his two assaults on the abuses of the East India Company (<span class="italic">Reflections upon the East Indy and Royal African Companies</span>, 1695, and <span class="italic">A Treatise</span>), Coke quickly faded from the notice of the public. The anonymous editor of the fourth edition of his <span class="italic">Detection</span>, published in 1719, mistakenly thought that he had always been a bachelor and it may be concluded from this that by the turn of the eighteenth century Coke had already outlived both his wife and child by many years. He died in &#145;about the seventy-seventh year of his age&#146;, between 1704 and 1707, and was consigned to an unknown grave, probably within the bounds of the City of London.<br>
+<br>John Callow </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Coke, <i>A detection of the court and state of England</i>, 4th edn, 3 vols. (1719) &middot; E. Lipson, <i>The economic history of England</i>, 3 vols. (1947), vols. 2 and 3 &middot; P. W. Buck, <i>The politics of mercantilism</i> (1942) &middot; E. F. Heckscher, <i>Mercantilism</i> (1931), repub. as new edn (1994) &middot; P. J. Thomas, <i>Mercantilism and the East India trade</i><i>: an early phase of the protection v. free trade controversy</i> (1926) &middot; L. Magnusson, <i>Mercantilism</i><i>: the shaping of an economic language</i> (1994) &middot; S. S. M. Desai, <i>History of economic thought</i>, 2nd edn (1967) &middot; G. A. Carthew, <i>The hundred of Launditch and deanery of Brisley, in the county of Norfolk</i>, 3 (1879)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Callow, &#145;<span class="roman"><span class="headword">Coke,  Roger</span>  (<em>c.</em>1628&#150;1704<span class="mult">x</span>7)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/5829, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Roger Coke (<em>c.</em>1628&#150;1704<span class="mult">x</span>7): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5829 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

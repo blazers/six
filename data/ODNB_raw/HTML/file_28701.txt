@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 28701;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/28/28701-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/28/28701-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=28701#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ward,  Nathaniel Bagshaw</span>  (1791&#150;1868), <span class="occ">botanist</span>, was born in London, the son of Stephen Smith Ward, general practitioner, of Whitechapel. Everyday contact with the nearby docks stimulated a longing for a sailor's life and he was sent on a voyage to Jamaica at the age of thirteen, which, while it succeeded in curing him of that ambition, developed instead a lifelong appetite for luxuriant vegetation. He decided on a medical career and attended lectures at the London Hospital and those given at the Chelsea Physic Garden by the demonstrator to the Society of Apothecaries, Thomas Wheeler, who was a charismatic leader of its plant-hunting excursions into the countryside. Ward was one of many captivated by these: after he qualified in 1812 and joined his father's practice, he kept up a taste for rising before dawn in summer and snatching a few hours in the fields for botanizing before morning surgery. About 1817 he married Charlotte Witte. The couple had nine children.<br>
+<br>A dedicated gardener, Ward at first found the polluted atmosphere of London's East End repeatedly frustrated his efforts. In 1830, however, the chance sprouting of some seedlings in a bottle in which he had placed a chrysalis suggested a solution: if protected with an almost airtight casing of glass, plants could be kept alive indefinitely by the interacting effects of sunlight, soil, and their own transpiration. Though anticipated in this discovery by a professor of law at Glasgow University, Alexander Maconochie (1806&#150;1885), Ward was the first to provide practical demonstration of the principle on an extensive scale and make it widely known. Three years of successful experimenting in collaboration with Loddiges' nursery culminated in the dispatch in 1833 of two of the resulting small cases to Australia. When opened there months later, the plants inside were found to be still growing sturdily; the cases were then refilled and on the return journey their contents again passed unharmed through snow and equatorial heat alike. Meanwhile John Claudius Loudon (1783&#150;1843) had visited Ward's house, seen with astonishment its profusion of greenery, and dashed off an excited report in his widely read <span class="italic">Gardener's Magazine</span>. In the next issue Ward was induced to provide the first exposition in print of the underlying principle and the method of constructing what were thenceforward known as Wardian cases. Through shortage of time (or diffidence) that was a mere brief note, as were further communications of his in 1836 in the <span class="italic">Transactions of the Society of Arts</span> and the <span class="italic">Companion to the Botanical Magazine</span>, the latter run off for private circulation among his friends. Lectures and demonstrations to various learned bodies increasingly followed, but only in 1842 did he eventually come forward with a properly detailed account, <span class="italic">On the Growth of Plants in Closely Glazed Cases</span>; by then the d&eacute;cor of many a gas-lit home had already acquired through this means a permanent accession of foliage, particularly of ferns.<br>
+<br>The aesthetic impact of Wardian cases was far outweighed, however, by the possibilities they opened up for colonial agriculture. Early adopted by Kew, they substantially changed the world economy by enabling plantation crops to be transferred to novel regions: tea from China to the Himalayas, cinchona from the Andes to India and Java, rubber from the Amazon to Ceylon and Malaya. Rarely has an observation so simple had such far-reaching results.<br>
+<br>Nor was the impact solely botanical. In 1836 Ward pointed out that animals could be kept alive on just the same principle. The parallel invention by him of the vivarium followed and, in 1841, of what he termed the &#145;aqua-vivarium&#146;, though the later fashion for aquariums was mainly due to the writings of Philip Henry Gosse (1810&#150;1888), and the working out of the oxygenating principle that made them possible was the achievement of Robert Warington.<br>
+<br>Ward's allegiance to the Society of Apothecaries proved enduring. For many years he managed its Chelsea garden, initiating numerous improvements, and acted as the examiner in botany. This led to his election as master in 1854. As a botanical investigator, though, he was content with a largely passive role and published almost nothing: his election as FRS in 1852 was for forwarding science in other ways, notably by the pivotal part he played in it socially. Through his often weekly <i>soir&eacute;es</i>&#151;his &#145;stitching parties&#146;, as he dubbed them dismissively&#151;his successive houses were, in J. D. Hooker's words, &#145;the most frequent metropolitan resort of naturalists from all quarters of the globe of any since Sir Joseph Banks' day&#146;  (<span class="italic">Gardeners' Chronicle</span>, 20 June 1868). Displays of microscopy were a particular feature at these occasions and led to the founding in 1839 of what became the Royal Microscopical Society.<br>
+<br>Cheerful and genial, an excellent raconteur with a large store of anecdotes, Ward was at the same time self-effacing almost to a fault, leaving it to others to speak up on his behalf when he failed to receive recognition he was felt to deserve and to agitate for the repeal of the onerous excise duties on glass; the latter was a cause especially dear to him, in his wish to see hospitals and the inner areas of cities benefit from what he believed to be the therapeutic ambience of living plants. Foremost among these champions was his eldest son, Stephen Henry Ward MD, one of two sons who carried on the family's medical tradition.<br>
+<br>On retiring from practice Ward moved to Clapham Rise, in the more salubrious southern environs of London, where he named his house The Ferns. He died at St Leonards, Sussex, on 4 June 1868 and was buried in Norwood cemetery on 10 June. His herbarium of 25,000 specimens was divided between the British Museum and Oxford University. A genus of South African mosses, <i>Wardia</i>, was named after him.<br>
+<br>D. E. Allen </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Hooker, &#145;Nathaniel Bagshaw Ward&#146;, <em><i>Gardeners' Chronicle</i></em> (20 June 1868), 655&#150;6 &middot; D. E. Allen, <i>The Victorian fern craze</i> (1969), 8&#150;16 &middot; S. H. Ward, &#145;On the growth of plants in closely glazed cases&#146;, <em>Notices of the Proceedings at the Meetings of the Members of the Royal Institution</em>, 1 (1854), 407&#150;12 &middot; D. E. Allen, &#145;Dr Ward's case&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28701&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (10 May 1975), 324&#150;6 &middot; J. H. Balfour, <em>Transactions of the Botanical Society</em> [Edinburgh], 9 (1868), 426&#150;30 &middot; S. Hibberd, <i>Rustic adornments for homes of taste</i> (1856)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28701&amp;istheme=&amp;target=Linn.%20Soc.')">Linn. Soc.</a>, corresp.&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28701&amp;istheme=&amp;target=Harvard%20U.')">Harvard U.</a>, letters to Asa Gray<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. P. Knight, oils, 1856, Society of Apothecaries, Apothecaries' Hall, London &middot; R. J. Lane, lithograph, 1859 (after J. P. Knight), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28701&amp;istheme=&amp;target=NPG')">NPG</a> &middot; A. A. Hunt, oils, 1867, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28701&amp;istheme=&amp;target=Linn.%20Soc.')">Linn. Soc.</a> &middot; Maull &amp; Polyblank, photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28701&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;5000: probate, 13 July 1868, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">D. E. Allen, &#145;<span class="roman"><span class="headword">Ward,  Nathaniel Bagshaw</span>  (1791&#150;1868)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/28701, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Nathaniel Bagshaw Ward (1791&#150;1868): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/28701 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/28701/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

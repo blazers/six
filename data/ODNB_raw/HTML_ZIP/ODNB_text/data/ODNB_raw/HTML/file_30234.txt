@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30234;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30234-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30234-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30234#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">York,  William</span> <span class="st"> [<em>name in religion </em>Laurence]</span>  (1686/7&#150;1770), <span class="occ">Benedictine monk and vicar apostolic of the western district</span>, was born in London, nothing being known of his parentage. After attending the small school attached to the English Benedictine monastery of St Gregory at Douai he was professed as a monk there in 1704 or 1705. In December 1711 he was ordained priest, and for much of that decade he carried out teaching and other duties connected with the monastery school. He was cellarer at St Gregory's from 1719 to 1720 when, as a critic of the disruptive policies of the then president-general of the English Benedictine congregation, Dom Laurence Fenwick, he was ordered to join the English mission. However, after the 1721 chapter-meeting of the area, or province, concerned with the northern counties and attended by York, the general chapter elected him as prior of St Edmund's, Paris, another of the English Benedictines' continental houses. From 1725 to 1729 York served at Douai as prior of St Gregory's, after which he became secretary to President-General Southcott, an ardent and active Jacobite who was later to combine with the exiled court, and with the Old Pretender himself, in promoting the like-minded York's candidature as a bishop.<br>
+<br>Back in England, in the Benedictines' southern province, York in 1730 was put in charge of its most important mission, that of Bath. Here the monks controlled an old-established and influential foundation, of social as well as religious significance, comprising a chapel cum lodging-house, the Bell Tree, attended by Roman Catholics from all parts of the kingdom, and described by a later incumbent as &#145;much sought after by visitors for lodgings &hellip; and those sometimes of the first distinction, as the Duke of Norfolk and others&#146;  (Downside Abbey, MS 252, fol. 17). In this propitious milieu Laurence York won golden opinions both for the eloquence of his preaching and for his social accomplishments: &#145;a man fit to appear in the best company &hellip; exceedingly agreeable to the chief of both Catholic and Protestant nobility that frequent that place&#146;  (Scott, 88)&#151;qualities which enhanced his credentials for episcopal office.<br>
+<br>York's mission field was the western vicariate, one of four extensive districts governed by vicars apostolic (prelates with the titles of bishoprics <i>in partibus infidelium</i>) mainly drawn from the secular clergy, though the western bishops had so far been a Benedictine chaplain and preacher to James II, Philip Michael Ellis, and a Franciscan of Jacobite sympathies, Matthew Prichard. It was to the latter that York was appointed coadjutor in 1741 in the teeth of opposition from the other vicars apostolic, who wanted the post filled by a secular priest, but with the energetic backing of Southcott and the Stuart court in order both to consolidate the regulars' hold on the western vicariate and to preserve a Jacobite presence in the Roman Catholic episcopate in England. Their manoeuvres were successful and York was consecrated bishop of Nisibis on 20 August 1741.<br>
+<br>Until 1745 York continued to administer the Bell Tree house, after which he was offered continuing hospitality there, and Bath remained his headquarters, an arrangement which may have afforded to the south-western counties of England a greater degree of pastoral care than that hitherto provided by its Monmouthshire-based vicar apostolic, now a septuagenarian; however, the destruction of the western district archives in 1780 during Bath's Gordon riots renders most earlier episcopal activity undiscoverable. Indeed, the one confirmation traceable to York while coadjutor was in Monmouthshire itself, at Abergavenny, some months after Prichard had given up active duty. This visit occurred in the summer of 1745, when there began a period of eighteen months or so during which the bishop was away from Bath&#151;an absence attested by himself and by a pair of informers and consistent with an account  (Oliver, 55&#150;6) of York's withdrawal from the city for his own safety at the time of the Jacobite rising, acting on the advice of the mayor, to whom had been handed a probably bogus missive thanking York for assistance given or promised to the Jacobite cause and offering him the bishopric of Carlisle in the event of a Stuart restoration. The bishop was still absent from Bath in February 1747, when he wrote to the Roman Congregatio de Propaganda Fide (responsible for missionary territories, including Britain) that for the past eighteen months he had been &#145;a fugitive from my ordinary residence and have as yet no fixed abode&#146;  (Brady, 293), and for part of that time he was to be found at a rural recusant enclave in the Mendips.<br>
+<br>After York's return to Bath the papal bull <span class="italic">Emanivit nuper</span>, issued in 1745 but delayed in England owing to the 'Forty-Five and its aftermath, presented him with an unwelcome Roman rebuff to the regular clergy in their long-running losing battle against dependence on the vicars apostolic for faculties to exercise their ministry in England&#151;a dependence strongly resisted, both before and after the bull's promulgation, by the two western bishops, of whom York, however, won commendation from a formidable opponent, Bishop Stonor of the midland district, for his &#145;just discernment and episcopal mind&#146;  (Berington, 420). Bishop Prichard died on 22 May 1750 and was succeeded as vicar apostolic of the western district by Laurence York, with the faculties question still not finally resolved; but three years later it was definitively settled in accordance with the wishes of the secular vicars apostolic by the bull <span class="italic">Apostolicum ministerium</span>, firmly subjecting the regular clergy to episcopal control and imposing upon them the unrealistic sexennium, requiring them, as a condition of having their faculties renewed, to undergo for three months in every six years the regime of a continental religious house, including a fifteen-day retreat. In Bishop York and his fellow regulars this obligation, reducing their mission force and involving unaffordable expense, aroused suspicion and dismay, and his fears for his district (which was not only poor, but the great majority of whose priests were regulars) were expressed in a letter to the Jesuit provincial lamenting &#145;our threatened ruin, which must inevitably be the case if the sexennial retreat takes place&#146;  (Foley, 5.165). In the event, however, acceptable compromises saved the situation.<br>
+<br>York's pastoral activities are no easier to trace when vicar apostolic than earlier, but confirmation tours eastward and westward of his Bath base are perhaps reflected in register evidence (not plentiful for that period) relating to Marlborough in 1753 and Ugbrooke, Devon, in the following year. By this time the bishop was in his sixties and hoping for the appointment of a coadjutor to assist with his vast vicariate (seven English counties and the whole of Wales) and to pave the way for his own much desired retirement to monastic life, and (for the appointee must be a Benedictine) to continue that order's rule over the western district. Moves to this end had begun shortly after York's accession to the vicariate and, as in his own case, Benedictine and Jacobite backing, including that of the Pretender, still prevailed at Rome against the opposition of the secular vicars apostolic, and it was the internationally esteemed Charles Walmesley who was consecrated, with right of succession, in 1756. He it was he who on 12 March 1764 delivered to the clergy of the western district a tribute prompted by his superior's retirement to his beloved St Gregory's, praising his pastoral solicitude, his piety, and his humanitarianism&#151;qualities which, with the others already mentioned, combined to fit him well for his vocation. Six years later he died after suffering a paralytic stroke while celebrating mass at St Gregory's. A Bell Tree house document  (Williams, <span class="italic">Post-Reformation Catholicism</span>, 1.176), like the <span class="italic">Dictionary of National Biography</span>, dates his death 14 April 1770, while other sources have the 20th. He was aged about eighty-three years and was remembered as &#145;a holy pious prelate &hellip; ornament to his house and body&#146;  (diary of Thomas Welch).<br>
+<br>J. Anthony Williams </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. Scott, <i>Gothic rage undone</i><i>: English monks in the age of Enlightenment</i> (1992) &middot; P. A. Allanson, <i>Biographies of English Benedictines</i>, ed. A. Cramer, Catholic RS, Occasional Publications, 3 [forthcoming] &middot; W. M. Brady, <i>Annals of the Catholic hierarchy in England and Scotland</i>, 3 (1877); repr. as <i>The episcopal succession in England, Scotland and Ireland</i> (1883) &middot; Royal Arch., Stuart MSS, 225/115 &middot; G. Oliver, <i>Collections illustrating the history of the Catholic religion in the counties of Cornwall, Devon, Dorset, Somerset, Wilts, and Gloucester</i> (1857) &middot; J. A. Williams, &#145;No ordinary residence: Bishop York and the &#147;Forty-Five&#148;&#146;, <em>Recusant History</em>, 16 (1982&#150;3), 217&#150;19 &middot; Downside Abbey, Bath, MS 252 [history of the Bath mission] &middot; transcript of the diary of Thomas Welch OSB, Douai Abbey, Woolhampton, Berkshire &middot; <i>The memoirs of Gregorio Panzani</i>, ed. and trans. J. Berington (1793) &middot; B. Jarrett, ed., &#145;Catholic registers of Rev. James Dominic Darbyshire&#146;, <i>Dominicana</i>, Catholic RS, 25 (1925), 251&#150;2 &middot; J. H. Canning and E. H. Willson, eds., &#145;Catholic registers of Abergavenny, Mon., 1740&#150;1838&#146;, <i>Miscellanea, XIV</i>, Catholic RS, 27 (1927), 98&#150;235, esp. 120 &middot; R. E. Scantlebury, ed., &#145;Register of Marnhull, 1772&#150;1826&#146;, <i>Miscellanea</i>, Catholic RS, 56 (1964), 165&#150;99, esp. 196 &middot; J. A. Williams, ed., <i>Post-Reformation Catholicism in Bath</i>, 1, Catholic RS, 65 (1975), 50&#150;63 &middot; H. Foley, ed., <i>Records of the English province of the Society of Jesus</i>, 7 vols. in 8 (1875&#150;83) &middot; H. N. Birt, <i>A history of Downside School</i> (1902)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Douai Abbey, Woolhampton, Berkshire, diary of Thomas Welch OSB
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30234&amp;istheme=&amp;target=Royal%20Arch.')">Royal Arch.</a>, Stuart MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, Downside Abbey, near Bath<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. Anthony Williams, &#145;<span class="roman"><span class="headword">York,  William</span>   (1686/7&#150;1770)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/30234, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William York (1686/7&#150;1770): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30234 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

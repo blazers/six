@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50350;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50350-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50350-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50350#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Honorius</span>  (<em>d.</em> <em>c.</em>1213), <span class="occ">canonist</span>, was of unknown origins. He may have been rector of Willesborough, Kent, from 1184 or 1185, but was more certainly first a clerk (from <i>c</i>.1191) and then official (from 1195) of Archbishop Geoffrey (<i>d</i>. 1212) of York. He acted as administrator of the see during Geoffrey's absences between 1195 and 1198, and became archdeacon of Richmond on 8 March 1198. His York career was marred by the bitter three-sided disputes between Archbishop Geoffrey, the kings (Richard I and John), and the dean and chapter of York. His appointment as archdeacon was revoked by King Richard in favour of Roger of St Edmund in 1198, and he was subsequently excommunicated by the dean (Simon of Apulia) and forced to defend his rights not only against Roger and King John, but also against his own archbishop, and to plead his case in person before Pope Innocent III (<i>r</i>. 1198&#150;1216), who confirmed Honorius's institution as archdeacon in June 1202. But he had had to offer 300 marks to King John for letters of protection and permission to pursue his case against Roger, a debt not cleared until 1208; an additional debt of a palfrey occurs from 1206 to 1210 when it, too, was cleared.<br>
+<br>From <i>c</i>.1201 to 1205 Honorius was a member of the household of Archbishop Hubert Walter (<i>d</i>. 1205) at Canterbury, where he joined the company of Richard de Morins 
+    (Ricardus Anglicus; <i>d</i>. 1242)
+  , and other leading canonists; but his change of allegiance from York to Canterbury was already under way between 1198 and 1200, when, as <i>clericus noster</i>, he received the Kent churches of Tarring and Patching from Hubert Walter, in a document witnessed by his former Oxford colleagues, Simon of Sywell and John of Tynemouth, both distinguished canonists; and his own professional skill was attested by his successful presentation of Hubert Walter's case against Robert, former abbot of Thorney, in Innocent III's presence in 1202.<br>
+<br>Honorius's Canterbury career was undermined by Hubert Walter's death. He appears briefly in the circle of Bishop John de Gray of Norwich (King John's candidate for the vacant archbishopric) in late 1205, but although in 1206 he represented the king in the opening phase of the Canterbury election dispute, he was despoiled and imprisoned at Gloucester in 1208, perhaps in consequence of the general interdict. The last years of his life are obscure, but he was acquitted of his debt to the king at the exchequer in 1210, and may have served Bishop Bernard of Carlisle. His death date of <i>c</i>.1213 has been deduced from the appearance of Master Richard Marsh (<i>d</i>. 1226) as archdeacon of Richmond from before 4 July 1213.<br>
+<br>Honorius's scholarly career embraced two phases: from 1185 to <i>c</i>.1191 or 1192 he studied and perhaps taught canon law at Paris; from 1191 or 1192 to 1195 he taught and practised law in Oxford (with Simon of Sywell and John of Tynemouth), where Thomas of Marlborough (<i>d</i>. 1236) was one of his pupils. His two canonical commentaries, written between <i>c</i>.1185 and 1190, date from his Parisian phase, and place him among the most distinguished English canonists of the time. Although only one manuscript of <span class="italic">De iure canonico tractaturus</span> (1188&#150;90) has survived  (Laon, Biblioth&egrave;que de la ville MS 371, fols. 83&#150;170<i>v</i>), copies of the important <span class="italic">Summa decretalium quaestionum</span> (1185&#150;6) are now found in six continental libraries (Bamberg, Douai, Laon, Leipzig, Paris, and Zwettl), while a seventh copy (from K&ouml;nigsberg) has been lost. Divided into three distinctions (on rescripts, orders and offices, and marriage), this &#145;most successful piece of English canonistic writing of the twelfth century&#146;  (Kuttner and Rathbone, 296) combined elements of the systematic <i>summa</i> with the dialectical technique of the <i>quaestiones</i>: proposing, discussing, and solving disputed questions, in a manner similar to that employed by Gratian in his <i>dicta</i>, although it departed from Gratian's order. Derived from teaching (it was the fruit of a series of Friday lectures), the <span class="italic">Summa</span> constituted a new type of canonical treatise, whose method stimulated the literary treatment of cases and problems by Bolognese masters and others. The vicissitudes of Master Honorius's career exemplify the vulnerability of legal professionals to the impact of political factors.<br>
+<br>Charles Duggan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Chronica magistri Rogeri de Hovedene</i>, ed. W. Stubbs, 4, Rolls Series, 51 (1871), 44, 52, 89, 158, 176&#150;85 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50350&amp;istheme=&amp;target=Pipe%20rolls')"><i>Pipe rolls</i></a>, 3&#150;12 John &middot; C. R. Cheney and E. John, eds., <i>Canterbury, 1193&#150;1205</i>, English Episcopal Acta, 3 (1986), nos. 338, 384, 401, 445, 484, 533, 536, 619, 656 &middot; C. Harper-Bill, ed., <i>Norwich, 1070&#150;1214</i>, English Episcopal Acta, 6 (1990), nos. 332, 338, 407 &middot; M. Lovatt, ed., <i>York, 1154&#150;81</i>, English Episcopal Acta, 20 (2000) &middot; <i>The letters of Pope Innocent III (1198&#150;1216) concerning England and Wales</i>, ed. C. R. Cheney and M. G. Cheney (1967), nos. 249n., 250, 270&#150;73, 283, 284, 303&#150;5, 330, 365, 382, 415&#150;21, 699 &middot; S. Kuttner and E. Rathbone, &#145;Anglo-Norman canonists of the twelfth century&#146;, <em>Traditio</em>, 7 (1949&#150;51), 279&#150;358, esp. 296, 304&#150;10, 344&#150;7 &middot; B. Grimm, &#145;Die Ehelehre des Magister Honorius: ein Beitrag zur Ehelehre der anglo-normannischen Schule&#146;, <em>Studia Gratiana</em>, 24 (1989), 231&#150;387 &middot; R. Weigand, <i>Die bedingte Eheschliessung im kanonischen Recht</i>, 1 (1963), 189&#150;97 &middot; R. Weigand, &#145;Bemerkungen &uuml;ber die Schriften und Lehren des Magister Honorius&#146;, <i>Proceedings of the Fifth International Congress of Medieval Canon Law, Salamanca, 21&#150;25 September 1976</i>, ed. S. Kuttner and K. Pennington (1980), 195&#150;212 &middot; R. Weigand, &#145;Die anglo-normannische Kanonistik in den letzten Jahrzehnten des 12. Jahrhunderts&#146;, <i>Seventh International Congress of Medieval Canon Law</i> [Cambridge 1984], ed. P. Linehan (1988), 249&#150;63 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50350&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 2.956&#150;57 &middot; A. H. Thompson, &#145;The registers of the archdeaconry of Richmond&#146;, <em>Yorkshire Archaeological Journal</em>, 25 (1918&#150;20), 129&#150;268, esp. 131&#150;5<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Biblioth&egrave;que de la Ville, Laon, MS 371 (<i>bis</i>), fols. 171&#150;176<i>v</i>
+   &middot;
+ Biblioth&egrave;que de la Ville, Laon, MS 371, fols. 83&#150;170<i>v</i>
+   &middot;
+ Biblioth&egrave;que de la Ville, Douai, MS 640, fols. 1&#150;42a
+   &middot;
+ Biblioth&egrave;que Nationale, Paris, MS Lat. 14591, fols. 50&#150;83<i>r</i>a
+   &middot;
+ Staatsbibliothek, Bamberg, Can. 45, fols. 23&#150;39
+   &middot;
+ Universit&auml;tsbibliothek, K&ouml;nigsberg, MS 21, fols. 44&#150;75
+   &middot;
+ Universit&auml;tsbibliothek, Leipzig, MS 984, fols. 90&#150;110
+   &middot;
+ Zwettl, Austria, MS 162, fols. 179&#150;213<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Charles Duggan, &#145;<span class="roman"><span class="headword">Honorius</span>  (<em>d.</em> <em>c.</em>1213)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2007 [http://www.oxforddnb.com/view/article/50350, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Honorius (<em>d.</em> <em>c.</em>1213): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50350 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/50350/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

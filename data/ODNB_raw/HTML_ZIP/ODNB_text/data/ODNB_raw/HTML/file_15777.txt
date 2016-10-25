@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15777;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15777-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15777-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15777#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Knowlton,  Thomas</span>  (1691&#150;1781), <span class="occ">gardener and botanist</span>, was born at Chislehurst, Kent, and baptized there on 6 September 1691, the eldest of the five sons of William Knowlton and Ann Stokes. Little is known of his early life. In 1720 he was employed as a gardener by Sir Henry Penrice (1677&#150;1752) at Offaly Palace, Hertfordshire. In the same year, on 27 June, he married Elizabeth Rice (<i>d</i>. 1738). They had two children, Elizabeth and Charles, the latter of whom attended St John's College, Cambridge, and pursued a career in the church. After leaving Penrice's service Knowlton superintended the botanic garden of Dr James Sherard at Eltham in Kent. After a short time working for the duke of Chandos in Canons he entered the service of Richard Boyle, third earl of Burlington, at Londesborough, Yorkshire, and there he remained for the rest of his life. His freelance work at other estates in Yorkshire appears to have made him a wealthy man, and he invested his profits in property. <br>
+<br>Knowlton became known as a botanist of merit. He corresponded with E. M. Da Costa and other members of the Royal Society, and won the esteem of Sir Hans Sloane. He subscribed to Mark Catesby's <span class="italic">History of Carolina</span> and actively encouraged others to do the same. To him is due the first discovery in England of the &#145;moor-ball&#146;, a species of fresh-water algae of the Conferva family, called by Linnaeus <i>Aegagropila</i>. In order to find even a moderate number of these balls, he had to spend many hours wading in the lake at Walling Fen, in water from 2 to over 3 feet deep.<br>
+<br>Knowlton was also something of an antiquary. He discovered the exact site of the ancient city of Delgovicia, near Pocklington in Yorkshire, and communicated some observations on this and other subjects to the <span class="italic">Philosophical Transactions</span> (44, 1748, 100&#150;102, 124&#150;7). Two large deer's horns which he discovered, one resembling the horn of an Irish elk, are figured in the same volume (plate 422). He was at first distinguished by his interest in and knowledge of indigenous plants. In 1726 he travelled to Guernsey to study the cultivation of the Guernsey lily. He became increasingly interested in exotic species, for which he first built a hot house at Londesborough in 1729.<br>
+<br>Knowlton died on 28 November 1781 at Londesborough. Toward the end of his life he was totally blind. He was buried in Londesborough churchyard. The genus <i>Knowltonia</i> (Ranunculaceae), now subsumed into <i>Anemone</i>, was named after him by Richard Anthony Salisbury in 1796. A John Knowlton, gardener to Earl Fitzwilliam, whose will was proved in February 1782  (TNA: PRO, PROB 11/1087, sig. 85), was perhaps a brother of the botanist.<br>
+<br>Thomas Seccombe<span class="italic">, rev. </span> P. E. Kell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Henrey, <i>No ordinary gardener</i><i>: Thomas Knowlton, 1691&#150;1781</i>, ed. A. O. Chater (1986) &middot; R. Pulteney, <i>Historical and biographical sketches of the progress of botany in England</i>, 2 (1790), 239&#150;41 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15777&amp;istheme=&amp;target=Nichols%2C%20Illustrations')">Nichols, <i>Illustrations</i></a>, vol. 4 &middot; F. E. Crackles, <i>Flora of the East Riding of Yorkshire</i> (1990) &middot; <i>A selection of the correspondence of Linnaeus, and other naturalists, from the original manuscripts</i>, ed. J. E. Smith, 2 vols. (1821), vol. 2, pp. 78&#150;80<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15777&amp;istheme=&amp;target=U.%20Glas.%20L.')">U. Glas. L.</a>, corresp. and diary&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15777&amp;istheme=&amp;target=BL')">BL</a>, corresp. with E. M. Da Costa, Add. MS 28539
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15777&amp;istheme=&amp;target=NHM')">NHM</a>, letters to Samuel Brewer<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Thomas Seccombe, &#145;<span class="roman"><span class="headword">Knowlton,  Thomas</span>  (1691&#150;1781)</span>&#146;, rev. P. E. Kell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Sept 2012 [http://www.oxforddnb.com/view/article/15777, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Knowlton (1691&#150;1781): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15777 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/15777/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

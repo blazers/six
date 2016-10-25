@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22431;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22431-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22431-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22431#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pococke,  Edward</span>  (<em>bap. </em>1648, <em>d.</em> 1726), <span class="occ">oriental scholar</span>, was baptized on 13 October 1648 at Childrey, Berkshire, the eldest child of <script>writeSeealsoLink('../view/article/22430/', "Edward Pococke (1604&#150;1691)")</script>, the famous Arabist and rector there, and his wife, Mary Burdet. He lived in Childrey until the Restoration, when his father recovered his prebend at Christ Church and the family returned to Oxford. On 30 May 1661, when still only twelve, he was admitted as a student to Christ Church, where his tutor was John Locke (who became a longstanding friend) and where his father instructed him in Hebrew and Arabic. After graduating BA (3 February 1665) and MA (14 March 1668), he undertook a journey to Leiden, where in 1669 he was greeted by his father's admirers.<br>
+<br>Pococke was ordained in 1672, and embarked on an ecclesiastical career, becoming chaplain to Thomas Herbert (later earl of Pembroke), whom he knew at Christ Church. It was doubtless to him that Pococke owed the prebend of Winterbourne Earls at Salisbury Cathedral which he received on 1 September 1675, and which he exchanged first for that of Durnford (31 August 1677) and then for that of Netherbury in Ecclesia (29 March 1693). At Salisbury he became involved in 1683 in the dispute between the dean, Thomas Pierce, and the bishop, Seth Ward, about the right of presentment to prebends.<br>
+<br>Meanwhile, however, although Pococke had little aptitude or inclination for a scholarly career, his father, as the foremost oriental scholar of his time, was ambitious for him to be his successor in the professorships of Hebrew and Arabic at Oxford. To that end he encouraged him to produce a Latin translation of the Arabic philosophical fable, <span class="italic">Hayy ibn Yaqzan</span>, by ibn Tufayl. Although the son was the nominal author, the project was conceived and largely executed by the father, who provided the Arabic manuscript, wrote the introduction, &#145;supervised&#146; the translation and (as a delegate of the university press) arranged for the book's publication as <span class="italic">Philosophus autodidactus</span> (1671). The work is of extraordinary interest, and this translation had a profound influence throughout Europe, but did little to advance the reputation of the younger Pococke, since it was obvious to all that his father was the real author. Even worse success attended the younger Pococke's attempt to publish his translation of another Arabic text, a book on the wonders of Egypt by &#145;Abd al-Latif al-Baghdadi. Some ninety-six pages of the text and Latin translation of this were printed (about 1685), but then publication stopped, allegedly because of a disagreement about use of the press between the elder Pococke and John Fell, and the book was never formally published, although copies of what was printed survive. The younger Pococke had completed a respectable translation, but made no further attempt to publish it, supposedly because of his discouragement at failing to be chosen professor of Arabic, and most of the unpublished text is now lost, except for a section appended by Joseph White to his own edition of &#145;Abd al-Latif (1800). The only surviving translation from the Arabic which he produced unaided, excerpts from a letter printed by Twells in his biography of the elder Pococke (1816 edn, 31&#150;3), is very faulty.<br>
+<br>Pococke was also unfortunate in his first attempt to demonstrate his Hebrew scholarship: he had translated the little treatise &#145;Vessels of the sanctuary&#146; from Maimonides' <span class="italic">Mishneh Torah</span> (book 8.3), but in 1680, discovering that Isaac Abendana had already prepared a translation of it for the press, he abandoned it. When the elder Pococke died in 1691, his son was apparently not even considered for the Hebrew professorship, which went to the nonentity Roger Altham. Pococke had hopes for the Arabic professorship, but when Thomas Hyde, a superior candidate, was chosen instead he abandoned scholarship altogether, except for translating a few Arabic excerpts for the abortive biography of his father which Humfry Smith undertook about 1704.<br>
+<br>In 1692 Pococke was preferred to the rich rectory of Minall (Mildenhall), Wiltshire, and spent the rest of his life there. About 1678 he had married Catherine, daughter of Richard Davy, esquire, of Salisbury. Their eldest son, John, was born in 1679. Pococke died on 27 December 1726, survived by his wife, two daughters, and four sons (out of seven children of the marriage). He was buried in Mildenhall church, where a memorial tablet was erected to him by his son John, who had succeeded him as rector.<br>
+<br>G. J. Toomer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22431&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 4.305&#150;6, 651 &middot; G. J. Toomer, <i>Eastern wisedome and learning</i><i>: the study of Arabic in seventeenth-century England</i> (1996), 4, 218&#150;20, 272&#150;5, 278, 289, 294&#150;5 &middot; L. Twells and S. Burdy, <i>The lives of Dr Edward Pocock &hellip; Dr Zachary Pearce &hellip; Dr Thomas Newton &hellip; and of the Rev Philip Skelton</i>, 1 (1816), 31&#150;3, 277&#150;8, 291, 296, 334&#150;5 &middot; will, TNA: PRO, PROB 11/614, fols. 206&#150;7 &middot; T. Phillipps, <i>Monumental inscriptions in the county of Wilton</i>, 2 (1822), 206 &middot; <i>The correspondence of John Locke</i>, ed. E. S. De Beer, 2 (1976), 185 &middot; G. A. Russell, &#145;The impact of the Philosophus Autodidactus: Pocockes, John Locke, and the Society of Friends&#146;, <i>The &#145;Arabick&#146; interest of the natural philosophers in seventeenth-century England</i>, ed. G. A. Russell (1994), 224&#150;65, esp. 242&#150;3 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22431&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a>, <i>1500&#150;1714</i> [Edward Pocock] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22431&amp;istheme=&amp;target=Fasti%20Angl.%2C%201541%3F1857')"><i>Fasti Angl., 1541&#150;1857</i></a> [Salisbury], 39, 63, 86 &middot; T. Hunt, &#145;Proposals for printing Abdollatiphi&#146;, 1746, Bodl. Oxf., MS Rawl. letters 96, fol. 247 &middot; <i>Remarks and collections of Thomas Hearne</i>, ed. C. E. Doble and others, 2, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22431&amp;istheme=&amp;target=OHS')">OHS</a>, 7 (1886), 63 &middot; C. F. de Schnurrer, <i>Bibliotheca Arabica</i> (1811), 150&#150;55 &middot; E. Pococke sen., letter to Arthur Charlett, Bodl. Oxf., MS Tanner 43, fol. 56<i>r</i> &middot; parish register, Childrey, 1648<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> est. &pound;6500: will, TNA: PRO, PROB 11/614, fols. 206&#150;7<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. J. Toomer, &#145;<span class="roman"><span class="headword">Pococke,  Edward</span>  (<em>bap. </em>1648, <em>d.</em> 1726)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/22431, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Pococke (<em>bap. </em>1648, <em>d.</em> 1726): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22431 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22431/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

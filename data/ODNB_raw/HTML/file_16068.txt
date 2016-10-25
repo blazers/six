@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 16068;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/16/16068-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/16/16068-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=16068#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=16068&amp;orientation=p')"><img border="0" alt="  Dionysius Lardner (1793&#150;1859), by Alexander Craig, c.1840" onmouseover="status='  Dionysius Lardner (1793&#150;1859), by Alexander Craig, c.1840'" src="/images/article-imgs/16/16068_1_200px.jpg"></a><span class="imagecaption"><b>  Dionysius Lardner (1793&#150;1859)</b>, by Alexander Craig, <em>c.</em>1840</span>
+</div>
+<div class="para">
+<span class="headword">Lardner,  Dionysius</span>  (1793&#150;1859), <span class="occ">writer on science and public lecturer</span>, was born on 3 April 1793 in Dublin, the son of William Lardner (<i>d</i>. 1808), a solicitor.<h2>
+<a name="Educationmarriageandcareer18121831"></a>Education, marriage, and career, 1812&#150;1831</h2>Lardner matriculated at Trinity College, Dublin, in 1812 and graduated BA in 1817, MA in 1819, and LLB and LLD in 1827. He married Cecilia Flood on 19 December 1815; they separated in 1820. About 1820 he began a prolonged relationship with Anne Maria Darley Boursiquot (1795&#150;1879), wife of a Dublin wine merchant; he almost certainly fathered her son <script>writeSeealsoLink('../view/article/2976/', "Dion Boucicault (1820&#150;1890)")</script>, the actor and dramatist, and provided him with support until 1840.<br>
+<br>Although in holy orders Lardner never held a clerical living. Until 1827 he lived in Dublin, in the early stages of a career as a scientific writer and lecturer, contributing articles to the <span class="italic">Transactions of the Irish Academy</span>. He published a variety of treatises, mostly on mathematical subjects, intended for beginners in arithmetic, geometry, and calculus. Lardner was appointed the first professor of natural philosophy and astronomy at the new London University in 1827, at which time he moved to London. After a stormy tenure he resigned his professorship in 1831; he had attempted to introduce a measure of Anglicanism into a determinedly non-clerical foundation (one of the rare times in his career when his clerical status seemed to matter), and he found the compensation inadequate for his social ambitions.<h2>
+<a name="Scientificcelebrity18271840"></a>Scientific celebrity, 1827&#150;1840</h2>Lardner's activities and writings may be grouped in three phases, Dublin, London, and Paris. The middle, London, period (1827&#150;40) was the most significant. In this period Lardner was a significant participant in the autodidactic and scientific cultures centred in the capital. At the height of his career, he lectured extensively on scientific and technical subjects, wrote prolifically, and became a scientific celebrity. He wrote treatises on mechanics, pneumatics, and Newton's optics for the Society for the Diffusion of Useful Knowledge, and contributed the chapters on algebra and geometrical analysis to the <span class="italic">Encyclopedia Metropolitana</span>. He oversaw seven editions of <span class="italic">The Steam Engine Familiarly Explained and Illustrated</span>, which eventually had eleven editions in Britain, as well as American editions and translations into French, German, Italian, and Danish; <span class="italic">The Athenaeum</span> called it &#145;the most popular mechanical treatise ever published&#146;  (962). He promoted the new <span class="italic">Monthly Chronicle</span> and edited it in 1838 and 1839. He contributed important articles to the <span class="italic">Edinburgh Review</span>, notably a clear account of Charles Babbage's calculating engine (which Babbage himself recommended), and discussions of issues relating to steam transportation. He enjoyed great popularity as a lecturer, appearing at the Royal, London, and London mechanics' institutions; his lectures to provincial literary and philosophical societies and mechanics' institutes were eagerly awaited and widely praised as appearances of a great figure from the metropolis. Some of his lectures took the form of short courses on such general topics in the physical sciences as pneumatics or mechanics, but his forte was the single lecture on a topic of contemporary moment, delivered in a popular style to a general audience. One such lecture at the Royal Institution attracted the largest audience of the decade to the same hall where Faraday established his fame; on two occasions (1834 and 1835) he delivered popular evening lectures at British Association meetings, discussing Babbage's calculating machines and steam locomotion.<br>
+<br>Lardner's editorship of the <span class="italic">Cabinet Cyclopedia</span>, which he had proposed to the Longman publishing group in 1827 or 1828, continued through the 1830s, bringing him into contact with leading literary figures, and it was especially important to his contemporary renown. It eventually comprised 133 volumes, published between 1830 and 1844; all but the final four volumes appeared before 1840. For the <span class="italic">Cyclopedia</span> he solicited contributions from eminent literary figures: Sir Walter Scott (two volumes on the history of Scotland), Thomas Moore (four volumes on the history of Ireland), Robert Southey (four volumes on naval history), Connop Thirlwall (eight volumes on the history of Greece), as well as translations of de Sismondi's histories of the Italian republics and of the fall of the Roman empire. Mary Shelley contributed (anonymously) to volumes of biography. He enrolled prominent scientists as well: Sir David Brewster contributed a volume on optics, while John F. W. Herschel wrote his <span class="italic">Preliminary Discourse on the Study of Natural Philosophy</span> for Lardner's project. The indefatigable Lardner himself wrote six titles (in seven volumes) for the <span class="italic">Cyclopedia</span>, expounding the topics of mechanics, hydrostatics and pneumatics, heat, arithmetic, geometry, and electricity. He promoted other literary ventures as well, including a <span class="italic">Cabinet Library</span>, of which nine volumes appeared between 1830 and 1833, and the <span class="italic">Monthly Chronicle</span>, proposed jointly by Lardner and Edward Lytton Bulwer, and edited solely by Lardner in 1838 and 1839.<br>
+<br>Cambridge University awarded him an LLD in 1833; he had been elected a fellow of the Royal Society as well. He was twice a member of the council of the British Association for the Advancement of Science (in 1838&#150;40), and twice a vice-president of its mechanical science section (in 1837 and 1839).<h2>
+<a name="Scandalandlatercareer18401859"></a>Scandal and later career, 1840&#150;1859</h2>In 1840 Lardner's career unravelled dramatically when he eloped with Mary Spicer Heaviside (<i>d</i>. 1891), wife of Captain Richard Heaviside of the 1st dragoon guards. Lardner had been divorced from Cecilia Flood in 1832 and the marriage had been dissolved by statute on 14 June 1839. When he and Mary Heaviside fled to Paris in March 1840 Captain Heaviside pursued them, subjected Lardner to a flogging, but could not induce Mary to return with him to England. In a sensational trial in August 1840, Heaviside successfully sued Lardner (now <i>in absentia</i>, first in Paris and then in the United States) for criminal conversation, winning an &pound;8000 judgment from a Lewes jury. The Heavisides were divorced in 1841, and after their marriage was dissolved by statute in 1845 Lardner and Mary Heaviside married in Paris, on 2 August 1846; they lived in Paris until Lardner's death.<br>
+<br>After the 1840 scandal interrupted his London career Lardner lectured widely in the United States from 1841 to 1844. Although he reputedly prospered from both lecture fees and the subsequent publication of his American lectures, the American sojourn brought no scientific notice. In the final decade of his life, in Paris, he completed his systematic treatise <span class="italic">Railway Economy</span> (1850), and returned to elementary didactic treatises on a wide range of scientific topics, many published under the general heading of <span class="italic">The Museum of Science and Art</span>.<h2>
+<a name="Steampowerandscientificprogress"></a>Steam power and scientific progress</h2>Although Lardner's activities of the 1830s seemed bewilderingly diverse, much of his energy focused on the steam engine and its applications to rail and sea transport. He was an enthusiastic promoter of the steam engine, and believed that national social and economic progress could follow from its application to railways. He eagerly anticipated the reductions in costs and the greater productivity of land that railways would allow, as well as the growth of cities, and the suburbanization which would make them pleasanter places to live in. The railway, he believed, would economically develop (and socially transform) Ireland, for rail links would carry the commerce of Britain and Europe to Ireland's west coast, the logical point for trans-shipment to the Americas. His pre-eminent position in the world of popular science made him for a few years in the 1830s the unofficial voice of British science on steam engines and transportation. His articles in the <span class="italic">Edinburgh Review</span>, and testimony before parliamentary committees, strengthened that position. The British Association commissioned (and subsidized) his investigations into &#145;railway constants&#146;.<br>
+<br>Lardner nevertheless became involved in a series of controversies with railway and steamship engineers and companies, and from those controversies emerged as a foolish theoretician, out of touch with the reality of engineering genius. He forecast that the speed of a train passing through the Great Western Railway's Box Tunnel would create a suffocating vacuum for the passengers; he believed that air resistance would place a broad gauge locomotive at a decisive disadvantage, and then later (in his railway constants investigation) discounted the effects of such resistance; in his most famous dispute he doubted that steamships could carry adequate coals to make a crossing from Britain to America practicable. That argument, made most dramatically at Bristol in the 1836 British Association meeting, drew strong opposition from Isambard Kingdom Brunel and stirred the passions of those who had invested money or energy in the possibility of such travel. In the next year's British Association meeting (at Liverpool) Lardner moderated his position but the successful voyages of the <i>Sirius</i> and the <i>Great Western</i> in 1838 allowed his opponents to burlesque his views. His &#145;impracticable&#146; became (in the public mind) &#145;impossible&#146;, and his own flight to the United States in 1840&#151;by steamship&#151;recalled his erroneous prophecy.<br>
+<br>At the centre of much of Lardner's writing&#151;and career&#151;lay the convictions that science could be easily and familiarly explained, and that technology depended on science. He wrote (and lectured) with greatest success for those who wished to improve their practical skills, and for those who hoped that some scientific veneer would enhance their gentility. He recognized little distinction between science and technology, for in his view the latter was simply a department of the former; the British Association's creation of a mechanical science section illustrated such a conviction. Learning was necessary for technique; mere practical men could not advance technology without the guiding hand of science. His controversies arose from those beliefs, for he was unwilling to cede expertise to such mere practical men as Brunel and the Stephensons. He criticized railway and steamship companies as well as engineers, arguing that their competitiveness made them secretive and hence inimical to scientific investigation. Without such research, technological progress would be stifled. He argued that national progress&#151;economic, social, even moral&#151;depended on the progress of technology, and that that progress could not be trusted to the greed of the market place. He was therefore committed to the notion that railways should be guided by rational, not market, impulses, and he supported the railway clearing house scheme of the 1840s. He favoured state regulation of railway enterprise for a number of reasons, adding, in his <span class="italic">Railway Economy</span>, financial peculation to competitive, irrational, unscientific folly as grounds for the state regulation.<h2>
+<a name="Contemporaryandhistoricalassessments"></a>Contemporary and historical assessments</h2>Lardner died at Naples on 29 April 1859. Opinions on his character and significance have been varied. His personal behaviour betrayed both social insecurity and an irregular private life. In the years of his fame he acted the parvenu, deliberately courting fashion, inviting aristocratic women to his lectures, mixing in a glittering theatrical demi-monde. However, his position in the inner circles of science remained marginal. Although his editorship of the <span class="italic">Cabinet Cyclopedia</span> made his name famous, some of the literary figures with whom it brought him in contact held him in contempt. To Dickens he was the &#145;prince of humbugs&#146;  (<span class="italic">The Letters of Charles Dickens</span>, ed. W. Dexter, 1938, 1.154); to Southey he was a &#145;knave&#146;  (<span class="italic">New Letters of Robert Southey</span>, ed. K. Curry, 1965, 2.328); Thackeray satirized him at length in his &#145;Yellowplush papers&#146;, in which Lardner emerged as &#145;the little Irishman in the whig, who et, drank, and talked as much as &frac12; a duzn&#146;  (<span class="italic">Fraser's Magazine</span>, 18, 1838, 196). In 1833&#150;4 his friend William Charles Macready, the actor, repeatedly found him &#145;very interesting&#146;  (<span class="italic">Diaries</span>, 1.6), and a source of &#145;much interesting conversation, or rather information&#146;  (ibid., 1.144). Macready read his <span class="italic">Mechanics</span> (part of the <span class="italic">Cabinet Cyclopedia</span>) with &#145;great delight&#146;  (ibid., 1.156), but by 1836 Macready had decided that Lardner &#145;really <i>bores</i> me&#146;  (ibid., 1.326) and that seems to have been typical of the responses he eventually inspired. When his elopement put an end to his London career he had perhaps already outlived his success. His treatises did not progress beyond the level demanded by the autodidactic hopes that inspired mechanics' institutes, the Society for the Diffusion of Useful Knowledge, and the <span class="italic">Cabinet Cyclopedia</span>. His conversation like his writing remained at the level of elementary pedagogy, and his frantic social ambitions had worn thin his welcome.<br>
+<br>Subsequent historical writing has generally held Lardner in low esteem. Most such critical views have come from railway historians, who have contrasted the vain and foolish cabinet philosopher with the triumphant empirical genius of engineers. Lardner made egregious mistakes: his miscalculations of steamship possibilities, his odd arguments about air resistance to locomotives; it has been easy to make him a buffoon. But such writers have also uncritically accepted the early Victorian horror at his elopement (although Lardner and Mary Heaviside seemed to have remained devoted to each other until Lardner's death), and have prolonged the satire which his pretentious classical name invited from his contemporaries (&#145;Goodness be with us&#146;, Scott exclaimed in 1829, &#145;what a name&#146;; <span class="italic">The Journal of Sir Walter Scott, from the Original Manuscript at Abbotsford</span>, 1890, 2.318). Some more modern notices, while slight, have granted his importance as a contributor to debates about government regulation of railways, and have reasserted the central position he occupied in celebrating science and technology to the readers of the 1830s. As an important mediator of the culture of the new technologies of his time, his influence should not be underestimated, and his writings are a key source for understanding nineteenth-century popular ideas about progress and its relation to technological development.<br>
+<br>J. N. Hays </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. N. Hays, &#145;The rise and fall of Dionysius Lardner&#146;, <em>Annals of Science</em>, 38 (1981), 527&#150;42 &middot; review of Lardner's <i>The steam engine</i>, <em>The Athenaeum</em> (5 Dec 1840), 962 &middot; <i>The diaries of William Charles Macready, 1833&#150;1851</i>, ed. W. Toynbee, 2 vols. (1912) &middot; R. Fawkes, <i>Dion Boucicault</i><i>: a biography</i> (1979) &middot; P. H. Theerman, &#145;Dionysius Lardner's American tour: a case study in antebellum American interest in science, technology, and nature&#146;, <i>Experiencing nature</i><i>: proceedings of a conference in honor of Allen G. Debus</i>, ed. P. H. Theerman and K. H. Parshall (1997), 211&#150;36 &middot; M. Peckham, &#145;Dr Lardner's <i>Cabinet Cyclopedia</i>&#146;, <em>Papers of the Bibliographical Society of America</em>, 45 (1951), 37&#150;58 &middot; H. H. Bellot, <i>University College, London, 1826&#150;1926</i> (1929) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=Wellesley%20index')"><i>Wellesley index</i></a> &middot; J. Morrell and A. Thackray, <i>Gentlemen of science</i><i>: early years of the British Association for the Advancement of Science</i> (1981) &middot; &#145;Gallery of literary characters, no. xxvi: Reverend Doctor Lardner&#146;, <em>Fraser's Magazine</em>, 5 (1832), 696&#150;7 &middot; W. Bates, <i>The Maclise portrait-gallery of &#145;illustrious literary characters&#146;</i> (1883) &middot; G. R. Hawke, <i>Railways and economic growth in England and Wales, 1840&#150;1870</i> (1970) &middot; T. R. Gourvish, <i>Mark Huish and the London&#150;North Western Railway</i> (1972) &middot; A. Vasquez, &#145;The awareness of Cournot's <i>Recherches</i> among early British economists&#146;, <em>Research in the History of Economic Thought and Methodology</em>, 15 (1997), 115&#150;37 &middot; E. T. MacDermot, <i>History of the Great Western Railway</i>, rev. C. R. Clinker, rev. edn, 1 (1964) &middot; H. Ellis, <i>British railway history</i><i>: an outline from the accession of William IV to the nationalisation of railways</i>, 1 (1954) &middot; L. T. C. Rolt, <i>Isambard Kingdom Brunel</i> (1957) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a> &middot; <em>The Times</em> (10 May 1859)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>, corresp. and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=BL')">BL</a>, letters to Charles Babbage and Macvey Napier, Add. MSS 37183&#150;37200, 34614&#150;34626
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=Linn.%20Soc.')">Linn. Soc.</a>, letters to William Swainson
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, letters to Sir Walter Scott
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=RS')">RS</a>, corresp. with Sir John Herschel
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=UCL')">UCL</a>, letters to Society for the Diffusion of Useful Knowledge<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> A. Craig, portrait, <i>c.</i>1840, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> [<i>see illus.</i>] &middot; F. de Lisle, miniature, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=NPG')">NPG</a> &middot; D. Maclise, lithograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>; repro. in <em>Fraser's Magazine</em> &middot; lithograph (after T. Bridgwood), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=NPG')">NPG</a> &middot; pencil sketch, repro. in &#145;Gallery of literary characters, no. xxvi&#146;, <em>Fraser's Magazine</em>, 696 &middot; watercolour study (after D. Maclise), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16068&amp;istheme=&amp;target=V%26A')">V&amp;A</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. N. Hays, &#145;<span class="roman"><span class="headword">Lardner,  Dionysius</span>  (1793&#150;1859)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2007 [http://www.oxforddnb.com/view/article/16068, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Dionysius Lardner (1793&#150;1859): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/16068 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/16068/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

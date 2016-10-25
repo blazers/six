@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25083;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25083-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25083-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25083#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Worcester,  Senatus  of</span> <span class="st"> [<em>called </em>Senatus Bravonius]</span>  (<em>d.</em> 1207), <span class="occ">prior of Worcester and theologian</span>, is of unknown birth; his unusual name and advanced theological training have been taken as evidence of foreign origin although his byname of Bravonius suggests rather that he was a native of the west of England. He was precentor at Worcester Abbey, a post that also included responsibility for the abbey library, by 1175, and chamberlain by 1186; he became prior in 1189, and remained so until 20 November 1196. His resignation, exactly a month after the consecration of John de Coutances as bishop of Worcester, may have been connected with the election of the new bishop, as he indicates in a letter to Walter of Rouen that he pushed it through quickly and discreetly (it took place in Stratford upon Avon rather than Worcester), in defiance of direct instructions from Canterbury, and immediately &#145;proclaimed at the crossroads of Ascalon&#146;  (Bodl. Oxf., MS Rawl. G.168, fol. 222<i>v</i>; letter 6).<br>
+<br>The description of Senatus in the Worcester annals as <i>magister et theologus</i> does not indicate that he was a teacher, as has been suggested (although his style of writing suggests an academic bent); <i>magister</i> indicates only his level of education, and may be linked with <i>theologus</i> to indicate that he was a theologian of some repute, at least locally. Roger of Gloucester (<i>d</i>. 1179), bishop of Worcester for much of Senatus's career, appointed him as his penitentiary or <i>archipresbiterum</i> and consulted him on one of the major theological and pastoral problems of the day, regarding absolution and indulgences; Senatus's answer, which is of considerable sophistication, focuses on the distinction between the internal and the external forum. The post of penitentiary also included preaching, and Senatus is known to have sent a collection of twenty-two sermons to Bishop Roger, although they have not been identified in modern times.<br>
+<br>Senatus's other extant theological treatises in letter form are also works of some interest. His letter on the canonical hours to John Cumin, archbishop of Dublin, draws heavily on the work of Rupert of Deutz, while that on the canon of the mass to Master Alfred (possibly the prior of Cirencester) also appears to be an <i>enarratio</i> (an interpretation), although its source has not been traced. Senatus's letter to Master William of Tonbridge, a teacher in Oxford who had links with Worcester, draws upon a wide range of scholars including Anselm of Lucca and John of Stella to criticize as theologically suspect the <span class="italic">Sententiae</span> of Pierre de Poitiers, which William had been using as a textbook. Other extant works by Senatus include lives of two bishops of Worcester, St Oswald and St Wulfstan (the latter essentially an abbreviation of William of Malmesbury's version). The unfinished collection of seven of Senatus's letters in the Bodleian Library (Bodl. Oxf., MS Rawl. G.168) was probably organized by the prior himself (following a tradition of letter collections of other Worcester priors), and gives some interesting information. In his second letter to Alfred, Senatus refers to the great <span class="roman">Bible</span> sent to King Offa from Rome, and which was then kept at Worcester; a passage in this letter which has been taken to refer to another work by Senatus&#151;a concordance of the gospels&#151;is actually a (rather confusing) explanation of how to use Eusebius's tables of passages in the gospels. Other details can be gleaned from the two letters referring to Oxford: the letter to William of Tonbridge indicates that Pierre de Poitiers was being used in Oxford as early as the beginning of the thirteenth century, as William was an Oxford master, while Senatus's earlier letter to Clement, prior of Osney, describes Oxford as &#145;the city that lies close to you, in which there are many eloquent speakers and men who can weigh the words of the law&#146;  (Bodl. Oxf., MS Rawl. G.168, fol. 29<i>r</i>; letter 4)&#151;an interesting record of Oxford's reputation as an academic and legal centre at the end of the twelfth century. Senatus died in 1207, presumably at Worcester Abbey.<br>
+<br>Peter Damian-Grint </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. H. Turner, ed., <i>Early Worcester manuscripts</i><i>: fragments of four books and a charter of the eighth century belonging to Worcester Cathedral</i> (1916), xlv&#150;li &middot; N. Karn, &#145;Monastic letter-writers in twelfth-century England&#146;, DPhil diss., U. Oxf., 2002 &middot; M. G. Cheney, <i>Roger, bishop of Worcester, 1164&#150;1179</i> (1980) &middot; J. Greatrex, <i>Biographical register of the English cathedral priories of the province of Canterbury, <i>c.</i>1066 to 1540</i> (1997) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=Ann.%20mon.')"><i>Ann. mon.</i></a>, 4.355&#150;564 &middot; R. Sharpe, <i>A handlist of the Latin writers of Great Britain and Ireland before 1540</i> (1997) &middot; R. R. Darlington, ed., <i>The cartulary of Worcester Cathedral priory (register I)</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=PRSoc.')">PRSoc.</a>, 76, new ser., 38 (1968) &middot; P. Delhaye, &#145;Deux textes de Senatus de Worcester sur la p&eacute;nitence&#146;, <em>Recherches de Th&eacute;ologie Ancienne et M&eacute;di&eacute;vale</em>, 19 (1952), 203&#150;24 &middot; Senatus, <i>Vita sanctissimi Wulfstani confessoris atque pontificis</i>, in <i>The Vita Wulfstani of William of Malmesbury</i>, ed. R. R. Darlington, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=CS')">CS</a>, 3rd ser., 40 (1928), 68&#150;108 &middot; Senatus, &#145;Vita S. Oswaldi archiepiscopi&#146;, <i>The historians of the church of York and its archbishops</i>, ed. J. Raine, 2, Rolls Series, 71 (1886), 60&#150;97 &middot; [H. Wharton], ed., <i>Anglia sacra</i>, 2 vols. (1691) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=Bale%2C%20Cat.')">Bale, <i>Cat.</i></a> &middot; R. W. Hunt, &#145;English learning in the late twelfth century&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=TRHS')"><i>TRHS</i></a>, 4th ser., 19 (1936), 19&#150;42, esp. 29&#150;42 &middot; C. N. L. Brooke, &#145;The archdeacon and the Norman conquest&#146;, <i>Tradition and change</i><i>: essays in honour of Marjorie Chibnall</i>, ed. D. E. Greenway, C. J. Hoddinott, and J. E. Sayers (1985), 1&#150;19 &middot; C. Franzen, <i>The tremulous hand of Worcester</i><i>: a study of Old English in the thirteenth century</i> (1991)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Rawl. G.168, fols. 197<i>r</i>&#150;233&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=CCC%20Cam.')">CCC Cam.</a>, MS 48, fols. 199<i>r</i>&#150;200<i>r</i>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25083&amp;istheme=&amp;target=LPL')">LPL</a>, MS 238, fols. 207<i>r</i>&#150;214<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Peter Damian-Grint, &#145;<span class="roman"><span class="headword">Worcester,  Senatus  of</span>   (<em>d.</em> 1207)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/25083, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Senatus  of Worcester (<em>d.</em> 1207): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25083 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

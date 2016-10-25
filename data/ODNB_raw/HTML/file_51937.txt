@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51937;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51937-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51937-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51937#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Muir, Sir  Thomas</span>  (1844&#150;1934), <span class="occ">mathematician and educationist</span>, was born on 25 August 1844 in Biggar, near Lanark, Scotland, the son of George Muir, railway superintendent, and his wife, Mary Brown. The family moved away from Biggar, and he was sent to Wishaw public school. Afterwards he attended Glasgow University (1863&#150;8), where he was influenced by Lord Kelvin, whom he greatly admired. Muir was the first Greek and first mathematical student of his year, but though Greek was his first love he turned to mathematics.<br>
+<br>Muir's first appointment was as mathematical tutor at the University of St Andrews (1868&#150;71), where he made a modest reputation as a mathematician. He continued his mathematical training by spending short periods in Berlin and G&ouml;ttingen. After St Andrews he became assistant to Hugh Blackburn, professor of mathematics at Glasgow University. Muir remained at the university a short time (1871&#150;4) but in this period discovered his real talent for teaching mathematics. He left to become head of the mathematics and science departments at the high school of Glasgow (1874&#150;92). On 12 October 1876 Muir married Maggie (<i>d</i>. 1919), youngest daughter of Dugald Bell, merchant, of Dunbartonshire, and his wife, Isabella Young. They had two sons and two daughters.<br>
+<br>Muir pursued mathematical research in continued fractions and determinants and one of his early contributions drew a published response from the English mathematician Arthur Cayley. Muir won the Keith prize of the Royal Society of Edinburgh in 1884 and again in 1899, and he was one of the founders of the Edinburgh Mathematical Society.<br>
+<br>Muir's life took a dramatic turn in 1892 when, seeking a warmer climate for the benefit of his wife's health, he moved to southern Africa. He had considered an application for the vacant chair of mathematics at Stanford University in California but, after a vacancy arose in Cape Colony to succeed Sir Langham Dale as superintendent-general of education, he applied there instead, and was appointed by Cecil Rhodes, prime minister in Cape Colony, who was then visiting England. When an official wanted to scrutinize Muir's testimonials, Rhodes is reputed to have exclaimed: &#145;Damn the testimonials! I have seen the man&#146;  (<span class="italic">Cape Times</span>, 22 March 1934). He immediately cabled his cabinet to make the appointment.<br>
+<br>In his service in the Cape (1892&#150;1915) Muir reorganized the whole public education system from elementary school to university. He abolished the overly academic examinations in the schools, formed an efficient system of training colleges for teachers, and virtually created science teaching. A prime minister of Cape Colony, J. X. Merriman, said that in Muir's plan educational thought always went ahead of practice and reflected that &#145;no better day's work had ever been done than when they secured Sir Thomas for South Africa&#146;  (<span class="italic">Cape Times</span>, 22 March 1934). Some in South Africa even said Muir was &#145;the man who taught the Cape to read and write&#146;. Reform is never without opposition and literary-minded critics of his plans for education claimed he &#145;had scotched it but not quite killed it&#146;  (Aitken, &#145;Thomas Muir&#146;). For his part, Muir never regretted his decision to go to Africa, where he found the opportunity fully to employ his wide-ranging skills.<br>
+<br>Muir served as vice-chancellor of the University of the Cape in 1897&#150;1901, and was elected FRS in 1900. He was equally a mathematician, educational administrator, teacher, and capable historian of mathematics. He was president of the South African Association for the Advancement of Science in 1910 and represented the Union of South Africa at the Imperial Education Conference in London in 1911. He was knighted in 1915 for his services to science.<br>
+<br>Muir's mathematical reputation rests on his work on determinants (a numerical value obtained from an array of numbers). Between 1875 and 1880 he conceived the ambitious project of writing a history of determinants. His first bibliography (forty pages) of writings on determinants appeared in the <span class="italic">Quarterly Mathematical Journal</span> of 1881, and a second in 1886. He published his first book, <span class="italic">Treatise on the Theory of Determinants</span>, in 1882, and his second in 1890. During the South African War (1899&#150;1902) he found determinants offered a welcome distraction from the worries of war and he temporarily revived his previous studies. The 1890 book was the precursor for the volumes which will always be associated with his name, the monumental <span class="italic">History of the Theory of Determinants</span> in five volumes, published in 1906&#150;29 (the final volume when he was eighty-six). A projected sixth volume was never finished. The complete work encompasses a catalogue with commentaries of all the known papers on determinants from Leibniz's work in the seventeenth century until 1920. Muir's commentaries varied in length from eighty-four pages devoted to Cauchy's classic paper of 1812 to a few lines for slight contributions. The subject material emphasizes the importance of determinants in nineteenth-century mathematics in contrast to the more fundamental subject of matrices which only developed from a halting start in the 1850s. Muir's work was of great assistance to those who wished to consult the papers of important mathematicians of the eighteenth and nineteenth centuries.<br>
+<br>Muir wrote approximately 307 papers, listed in the Royal Society catalogue, mostly on determinants and connected subjects. He was able to return the compliment he received in youth by putting the finishing touches to one of Cayley's own papers. He read widely and enjoyed literature almost as much as mathematics. When Rudyard Kipling visited South Africa as the guest of Rhodes, Muir immediately struck up a friendship with him. He regarded Pauline Smith (who wrote <span class="italic">The Little Karoo</span>) as the greatest writer on South Africa, and his refined taste in poetry found expression in his admiration of Roy Campbell's <span class="italic">Adamastor</span>. On occasion he was susceptible to the quirky sense of humour often found among mathematicians. Thus, postulating that any book on philosophy will contain a &#145;hole&#146; in its argument, he went on to conclude that Jan Christian Smuts's <span class="italic">Holism and Evolution</span> was especially vulnerable.<br>
+<br>Muir was physically active throughout his long life, although after a severe illness he gave up tennis and contented himself with lighter exercise. When he was eighty-nine it was observed that &#145;his faculties are unimpaired and he still works hard&#146;  (<span class="italic">Cape Times</span>, 25 Aug 1933, 11). He presented a figure of admiration and curiosity to his neighbours, who watched a gentleman from the Victorian age diligently pursuing mathematics, sitting upright at his desk in winged collar and bow tie, preparing his work. He died at Rondebosch, Cape Town, South Africa, on 21 March 1934 and was buried in the Maitland cemetery near Rondebosch.<br>
+<br>A. J. Crilly </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. C. Aitken, &#145;Thomas Muir&#146;, <em>Journal of the Glasgow Mathematical Association</em>, 1 (1950), 65&#150;76 &middot; H. W. Turnbull, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51937&amp;istheme=&amp;target=Obits.%20FRS')"><i>Obits. FRS</i></a>, 1 (1932&#150;5), 179&#150;84 &middot; A. C. Aitken, <em>Proceedings of the Edinburgh Mathematical Society</em>, 4 (1936), 263&#150;7 &middot; T. Fuller, <i>Cecil John Rhodes</i> (1910) &middot; C. T. Loram, &#145;The retirement of Sir Thomas Muir&#146;, <em>American Mathematical Monthly</em>, 23 (1916), 74&#150;5 &middot; E. H. Neville, <em>Mathematical Gazette</em>, 18 (1934), 257 &middot; W. I. Addison, <i>A roll of graduates of the University of Glasgow from 31st December 1727 to 31st December 1897</i> (1898) &middot; <em>The Times</em> (22 March 1934) &middot; <em>Cape Times</em> (25 Aug 1933) &middot; <em>Cape Times</em> (22 March 1934), p. 10, col. 3 &middot; m. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51937&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, papers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Elliott &amp; Fry, photograph, repro. in Turnbull, <i>Obits. FRS</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. J. Crilly, &#145;<span class="roman"><span class="headword">Muir, Sir  Thomas</span>  (1844&#150;1934)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/51937, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Thomas Muir (1844&#150;1934): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51937 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/51937/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

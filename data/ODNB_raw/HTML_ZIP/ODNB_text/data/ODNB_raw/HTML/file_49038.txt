@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 49038;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/49/49038-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/49/49038-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=49038#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hardy,  William</span>  (<em>d.</em> 1832), <span class="occ">horologist</span>, was apparently Scottish, but nothing is known of his place and date of birth nor of his early life and training. Yet by 1805 he was sufficiently renowned to be one of the fifteen eminent watchmakers recruited by the board of longitude to assess the merits of the rival chronometric claims of John Arnold (<i>d</i>. 1799) and Thomas Earnshaw (1749&#150;1829), and in the following years he regularly received awards from the Society of Arts for ingenious inventions in horology. None ever saw general adoption, due largely to trade conservatism, but the best must be recorded here.<br>
+<br>Hardy was the first practical horologist in England, and probably anywhere, to make comparatively accurate cycloidal cutters for wheels and pinions. His patterns were supplied to the famous Thomas Leyland (1790&#150;1861) of Prescot, Lancashire, who, according to D. S. Torrens, produced without doubt the finest horological gearings that have ever been known. At the time of the 1862 International Exhibition in London the great Victorian horologist Charles Frodsham wrote: &#145;the train of wheel-work in Hardy's regulators is among the best in England, and the shape of the wheels and pinions makes the most perfect gearing I have ever witnessed&#146;  (Frodsham, 10). Hardy's career reached its apogee in 1811 thanks to the truly remarkable performance of an astronomical regulator clock with a very delicate detached spring-pallet escapement made for the Royal Observatory, Greenwich. The astronomer royal, Nevil Maskelyne, had in 1807 tested its prototype at Greenwich with most promising results. Unfortunately, he died before the new regulator and a new mural circle by Edward Troughton could be used together. His successor, John Pond, was at first satisfied with Hardy's clock even though its escapement needed frequent cleaning by its maker.<br>
+<br>Good reports reached the ears of astronomers and scientists everywhere. Among the first was Ferdinand Hassler, a distinguished Swiss geodesist who had emigrated to America in 1805 and who in 1812 was in London seeking equipment for a survey of the east coast of the United States. He ordered from Hardy two regulators of the Greenwich type, together with box chronometers and special timers. Hardy's reputation was established. He received orders for regulators and chronometers from both observatories and amateur astronomers. In 1820 outstandingly good clock rates were recorded at Greenwich, Sandhurst, and Vilna. The celebrated astronomer William Pearson acquired a Hardy regulator in 1816 and published an illustrated description of the type in 1829. Hassler had done the same in 1824.<br>
+<br>In 1823 Pond moved Hardy's regulator to the transit room, thus making it the most important clock in the world. In 1830, however, his records show that it had &#145;accelerated on its mean by nearly 4s per day&#146;. Hardy, perhaps ill, ignored two notices to attend. Had he then simply cleaned the escapement, events would almost certainly have turned out differently. In his absence his detached escapement was removed by the envious E. J. Dent and replaced by a conventional deadbeat one. Hardy's regulator at the Cape observatory soon suffered the same indignity. Pearson's clock and those at Vilna, Cambridge, and Fyvie continued to perform well although, one by one (and in one case as late as <i>c</i>.1990), their fragile escapements were broken by inexpert handling. Hardy died at his home, 5 Wood Street, Cold Bath Square, Clerkenwell, London, on 12 November 1832.<br>
+<br>Charles R. P. Allix </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>N. Maskelyne, <i>Account of the going of Mr William Hardy's clock with detatched escapement at the Royal Observatory</i>, 1807, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=CUL')">CUL</a>, RGO 14 &middot; W. Hardy, Letters to G. Gilpin, Secretary of the Board of Longitude, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=CUL')">CUL</a>, RGO 14, 8 Jan 1807; 12 May 1807; 31 May 1808 &middot; Royal Greenwich Observatory, <i>Public trials and improvements of clocks and chronometers</i>, 1779&#150;1826, Royal Greenwich Observatory Archives, 14/1, 200; 14/23, 239&#150;42 &middot; W. Hardy, <em>Communications of Inventions to the Society of Arts</em>, 38 (1821), 165&#150;85 [see also vols. 1804&#150;20] &middot; C. Frodsham, <i>Catalogue of the International Exhibition</i><i>: class 15, horological instruments</i> (1862), 10 &middot; &#145;To form a templet, or pattern-tooth, to facilitate the application of the cycloid and epicycloid to the teeth of racks, wheels, pinions &amp;c&#146;, T. Gill, <i>Gill's machinery improved &hellip;</i> (1839), 12&#150;19 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 102/2 (1832), 580 &middot; C. R. P. Allix, &#145;William Hardy and his spring-pallet regulators &hellip; how Hardy's regulators inhibited sales of similar clocks by Thomas Reid&#146;, <em>Antiquarian Horology and the Proceedings of the Antiquarian Horological Society</em>, 18 (1989&#150;90), 607&#150;29 [see also 19 (1990&#150;91), 92, for author's letter correcting certain factual misprints] &middot; F. R. Hassler, &#145;Papers on various subjects connected with the survey of the coast of the United States&#146;, <em>Transactions of the American Philosophical Society</em>, new ser., 2 (1825) &middot; W. Pearson, <i>An introduction to practical astronomy</i>, 2 (1829), 304&#150;15 &middot; A. J. Turner, &#145;Documents illustrative of the history of English horology, II: the cost of William Hardy's regulator clock for Greenwich Observatory, 1811&#146;, <em>Antiquarian Horology and the Proceedings of the Antiquarian Horological Society</em>, 11 (1978&#150;9), 615&#150;17 &middot; C. Wood, &#145;What's wrong with Hardy's escapement?&#146;, <em>Antiquarian Horology and the Proceedings of the Antiquarian Horological Society</em>, 9 (1974&#150;6), 882&#150;95 &middot; C. Wood, &#145;What's wrong with Hardy's escapement? A reappraisal&#146;, <em>Antiquarian Horology and the Proceedings of the Antiquarian Horological Society</em>, 20 (1992&#150;3), 315&#150;23 &middot; T. Reid, letters to B. L. Vulliamy, 1805&#150;26, Inst. CE &middot; D. S. Torrens, personal letter to J. E. Coleman, USA, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; T. Gill, &#145;To apply the epicycloid to the teeth of wheels and pinions in clock- and watch-work&#146;, <em>Technical Repository</em>, 1 (1822), 450&#150;60 &middot; T. Gill, &#145;On the successful application of the epicycloidal curves to the teeth of wheels and pinions of the time-pieces. By Mr William Hardy&#146;, <em>Technical Repository</em>, 5 (1824), 257&#150;8 &middot; C. R. P. Allix, &#145;The astronomical regulator clocks made by William Hardy&#146;, unpublished typescript, 1949, priv. coll. &middot; W. J. Pinks, <i>The history of Clerkenwell</i>, ed. E. J. Wood, 2nd edn (1881) &middot; D. S. Torrens, &#145;Rule of thumb&#146;, <em>Horological Journal</em>, 80/958 (1938), 20, 30 &middot; J. Pond, <i>Astronomical observations made at the Royal Observatory, Greenwich, in the years 1811&#150;1813</i>, 1 (1815) &middot; D. Howse, <i>Greenwich observatory</i>, 3: <i>The buildings and instruments (1675&#150;1975)</i> (1975)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=BL')">BL</a>, communications to scientific journals
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=CUL')">CUL</a>
+   &middot;
+ NMM, Royal Observatory, Greenwich
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=RSA')">RSA</a>, communications to the Royal Society of Arts&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49038&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a>, Thomas Reid, letters to B. L. Vulliamy<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Charles R. P. Allix, &#145;<span class="roman"><span class="headword">Hardy,  William</span>  (<em>d.</em> 1832)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, 2004 [http://www.oxforddnb.com/view/article/49038, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Hardy (<em>d.</em> 1832): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/49038 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

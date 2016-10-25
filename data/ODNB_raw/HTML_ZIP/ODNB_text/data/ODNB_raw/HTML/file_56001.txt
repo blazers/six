@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56001;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56001-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56001-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56001#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pugh,  (Lewis) Griffith Cresswell Evans</span>  (1909&#150;1994), <span class="occ">physiologist and mountaineer</span>, was born on 29 October 1909 at Coton Manor, Berwick Road, Shrewsbury, the son of Lewis Pugh Evans Pugh (1865&#150;1940), a Calcutta barrister, and his wife, Adah Emily Sophia, daughter of Thomas Chaplin, medical practitioner. He had four sisters. He was educated at Harrow School (1924&#150;7), where he won a trophy for marksmanship, and at New College, Oxford (1927&#150;30), where he achieved third-class honours in law in 1930 and took his BA in 1931. He returned to Oxford to study natural sciences during 1931&#150;3, and medicine until 1938, when he received his BM along with an MA. As a student he climbed in the Alps and became an expert skier. He competed in the world downhill championships and was selected for the 1936 winter Olympic team as a cross-country skier, but an injury kept him off the slopes. He qualified as a doctor at St Thomas's Hospital in 1938. On 5 September 1939 at the parish church in Lilly, near Hitchin, he married Josephine Helen Cassel (<i>b</i>. 1916/17), daughter of Sir Felix Cassel, first baronet (1869&#150;1953), barrister. They had three sons and one daughter.<br>
+<br>In 1939 Pugh entered the army as a medical officer in the Bedfordshire yeomanry, and he later joined the 26th General Field Hospital at the Radcliffe Infirmary, Oxford. He served in Greece, Palestine, Crete, Egypt, Iraq, Iran, and the Lebanon. In 1942 W. J. Riddell, a Harrow classmate, recruited him for the &#145;Cedars School&#146;, the mountain warfare training centre in the Lebanon, which trained troops in ski-mountaineering and mountain warfare at 2100 metres. Pugh was allowed to study every aspect of the school, from tests to select trainees to tests on diet, fitness, clothing, and equipment, and he analysed his results in papers for the army. In 1944 he was briefly medical officer to the 44th Royal Tank regiment in Sicily, before being posted to Whitehall to write training manuals on snow and mountain warfare, based on his earlier research. This research also was the basis for his appointment after the war as a scientist at the medical school at Hammersmith Hospital, where he worked for five years and published papers on rheumatism. In 1950 he joined the Medical Research Council's department of human physiology, founded after the outbreak of the Korean War, and spent the rest of his career in their laboratory at Holly Hill, Hampstead.<br>
+<br>In 1951 the organizers of a Mount Everest reconnaissance approached Pugh for advice on high-altitude physiology, and his research was important to the ascent of Everest. In 1952 Eric Shipton invited him to join a training expedition in Nepal to climb Cho Oyu (8153 metres). Though the climbers failed to reach their objective, Pugh's research was productive. With a grant from the Royal Society he camped at Nangaon (4720 metres) and Menlung La (6100 metres) to study acclimatization, respiration, haemoglobin, nutrition, and thermal properties of clothing. Pugh recommended doubling the flow of oxygen to counter the effects of hypoxia&#151;the reduced pressure of oxygen at higher elevations that leads to extreme fatigue&#151;and increasing the consumption of fluids and carbohydrates to prevent dehydration and weight loss. Pugh also criticized Shipton's leadership of the expedition. After Colonel John Hunt was appointed Everest leader, he adopted many of Pugh's suggestions and included him on the team. The film <span class="italic">The Conquest of Everest</span> (1953) shows Pugh before the trip testing himself in a pressure chamber. As a result of Pugh's advice and Hunt's planning, Edmund Hillary and Tenzing Norgay had the supplies of oxygen, food, and fluid that enabled them to make the first ascent of Everest (8848 metres). When the Everest expedition returned to Katmandu, Pugh was still wearing his pyjamas as part of an eccentric experiment. His research appeared in many articles and a film, <span class="italic">Physiology on Mount Everest</span> (1954).<br>
+<br>In 1956&#150;7 Pugh joined a research team at Scott Base affiliated with Hillary's transantarctic expedition. He researched solar radiation, carbon monoxide poisoning, and human tolerance to cold. While in Antarctica he and Hillary hatched a plan to spend the winter in the Himalayas carrying out research. In 1960&#150;61 Hillary and Pugh led the &#145;silver hut&#146; expedition to Nepal. Funded by an American encyclopaedia, the expedition combined mountaineering and a search for the yeti with physiological research on hypoxia in a prefabricated hut. Observations on exercise, pulmonary functions, metabolic rates, and electrocardiograms were made at base camp on the Mingbo glacier (4650 metres) and in the hut just below the Ama Dablam col (5800 metres). Pugh stayed at the hut while other researchers measured oxygen consumption as high as 7830 metres during an attempt on Makalu (8481 metres). The ascent was abandoned below the summit after Peter Mulgrew and Edmund Hillary became severely ill.<br>
+<br>Pugh later studied the role of body fat in preventing hypothermia among cross-channel swimmers. After Kurt Hahn asked him to investigate deaths from &#145;exposure&#146; during outdoor sports in 1964, he published a series of articles on hypothermia that led to improvements in outdoor clothing, increased awareness of risks, and a reduction in the incidence of hypothermia among outdoor enthusiasts. At the 1968 Olympics in Mexico City, Pugh examined the influence of the altitude (2300 metres) on athletic performance. Colleagues said he worked best on his own or with a small team. Pugh's many professional publications were listed in a collection of essays dedicated to him in 1993 (<span class="italic">Hypoxia and Molecular Medicine</span>, 175&#150;7). His work on high-altitude physiology contributed to the ascent of the world's highest peaks, and his research on hypothermia probably saved lives.<br>
+<br>Pugh was tall, with angular features and red hair. His absent-mindedness was legendary. When he forgot, as he frequently did, where he had parked his car in London, he would take the train home, report the car stolen to the police, and wait for them to recover it. The story that he once did this with his children in the car is considered apocryphal. He enjoyed sailing and was a ferocious driver. A series of automobile accidents later in life left him crippled with arthritis. He died of a heart attack and dementia on 22 December 1994 at his home, Hatching Green House, Harpenden, Hertfordshire. His wife survived him.<br>
+<br>Peter H. Hansen </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (7 Jan 1995) &middot; <em>The Independent</em> (27 Jan 1995) &middot; <em>Alpine Journal</em>, 100 (1995) &middot; J. R. Sutton, C. S. Hourton, and C. S. Coates, eds., <i>Hypoxia and molecular medicine</i> (1993), essays by J. S. Milledge, M. Ward, and J. B. West &middot; J. B. West, <i>High life</i><i>: a history of high-altitude physiology and medicine</i> (1998) &middot; J. Hunt, <i>The ascent of Everest</i> (1953) &middot; E. Hillary and D. Doig, <i>In the thin cold air</i> (1962) &middot; register, New College, Oxford &middot; private information (2004) [J. B. West] &middot; b. cert. &middot; m. cert. [Josephine Helen Cassel] &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>U. Cal., San Diego, Mandeville Special Collections Library, high-altitude medicine and physiology collection
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>BBC, newsfootage
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56001&amp;istheme=&amp;target=BFINA')">BFINA</a>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56001&amp;istheme=&amp;target=NL%20Aus.')">NL Aus.</a>, &#145;Physiology on Mount Everest&#146;</p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photographs, 1953, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56001&amp;istheme=&amp;target=RGS')">RGS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;454,107: probate, 21 April 1995, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Peter H. Hansen, &#145;<span class="roman"><span class="headword">Pugh,  (Lewis) Griffith Cresswell Evans</span>  (1909&#150;1994)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/56001, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  (Lewis) Griffith Cresswell Evans Pugh (1909&#150;1994): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56001 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/56001/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

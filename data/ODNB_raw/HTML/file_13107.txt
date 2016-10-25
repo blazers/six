@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13107;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13107-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13107-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13107#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hervey</span>  (<em>d.</em> 1131), <span class="occ">bishop of Ely</span>, was a Breton by birth. He became a clerk in the service of William Rufus, and, at a time of rapid Norman advances into Wales, was promoted to the bishopric of Bangor in 1092, being consecrated by Archbishop Thomas of York (<i>d</i>. 1100). However, as Welsh resistance stiffened, Hervey was unable to maintain his position, despite his employment of secular force and excommunication, and he soon fled back to the English court, probably in 1095. Retaining his episcopal title, he attended Archbishop Anselm's general council at Westminster in 1102, and became confessor to Henry I, who in 1106 tried unsuccessfully to transfer him to the see of Lisieux. Hervey then became involved in plans to create a new bishopric at Ely.<br>
+<br>The very large diocese of Dorchester&#150;Lincoln, to which Ely had belonged since at least 1000, consisted of the seven archdeaconries of Lincoln, Stow, Bedford, Buckingham, Leicester, Oxford, and Huntingdon. From 1072, when Bishop Remigius (<i>d</i>. 1092) removed his see from Dorchester in Oxfordshire, the diocese was governed instead from Lincoln, where a new cathedral was dedicated in 1092. The large and wealthy Benedictine monastery at St Albans had by the end of the eleventh century virtually succeeded in establishing its independence of the diocesan at Lincoln, owing instead direct obedience to the pope, and it is possible that Abbot Richard was inspired to similar tactics on behalf of Ely. He could expect to have at his disposal very considerable monastic property, which must have seemed an ample endowment for a bishopric. But there were also problems to be solved before his scheme could be put into effect. He had to reckon with the substantial degree of autonomy enjoyed by his own religious house, where the sacrist's administrative powers had created in the Isle of Ely what was virtually an independent enclave. And there was also the fact that not far from Ely there were two large and fairly wealthy monasteries, at Thorney and Chatteris, which could have presented a threat to a new diocesan organization, and might even have been centres of hostility to it.<br>
+<br>In any case, although Abbot Richard declared that the house of Ely owed no allegiance to Lincoln, and refused after his election to seek benediction from Bishop Robert Bloet (<i>d</i>. 1123), his campaign was not at first successful. Henry I drove him from Ely, probably in 1102, and caused him to seek the aid of Pope Paschal II (<i>r</i>. 1099&#150;1118), who persuaded the king to restore Richard to his abbacy, apparently in the following year. But by the time of his death, in July 1107, Richard had completed both the rebuilding of the monastic church, begun under his predecessor, Abbot Simeon, and the translation of the relics of St Etheldreda and other Ely saints&#151;two important steps towards the establishment of a new see. Following Richard's death Hervey was directed by the king to administer Ely's endowments until a decision was reached about their disposal. His actions seem to have won the approval of the monks, although they were not, it seems, aware of his instructions from the king, who late in 1108 sent him to seek papal approval for the creation of a bishopric in Ely. A papal mandate to the king to create the new see and install Hervey as the first bishop was issued on 21 November. The creation of the new see was finally approved in council at Nottingham on the feast of St Etheldreda's translation, 17 October 1109. The consent of the monks was, it seems, partly won by Henry I's grant to them of freedom from toll throughout England, which was to be confirmed in a charter guaranteeing to them the liberties granted by Edward the Confessor. Meanwhile, and more importantly, the consent of Bishop Bloet was assured&#151;apparently through Hervey's management&#151;by the grant to the church of Lincoln of the important Ely manor of Spaldwick in Huntingdonshire.<br>
+<br>The administration of the new diocese was necessarily left in the hands of the archdeacon, Nicholas of Huntingdon, who plainly resented the new diocesan administration, and in 1110 departed to Rome to appeal against it, but he died before he had gone far. This enabled Hervey to appoint his own nephew, William the Breton, as archdeacon, and to endow him with the manors of Pampisford and Little Thetford. There is nothing to show whether Hervey made any attempt to interfere with the monks' claims to archidiaconal administration in the isle, although the persistence of the sacrist's claim to it as late as the fourteenth century suggests that he made no progress in asserting either his own powers or those of William. But there is some evidence that he tried to assert his control over the other two monastic houses in his diocese. Two royal writs show the king intervening to protect Thorney from Hervey's demands, though in 1128 the bishop was prepared to define Thorney's rights in its manor of Whittlesey, apparently on the occasion of his dedicating the abbey's church. And a writ of 1127, in which Henry I remitted to Chatteris 6<i>s</i>. 7<i>d</i>. due for wardpenny, also records that the king had given the nunnery to Ely, which would therefore have received the money in question.<br>
+<br>The royal mandate for the creation of the new diocese enjoined upon Hervey an equal division between himself and the monastery of the Ely properties, and this division was embodied in a charter <i>c</i>.1116&#150;17, of whose authenticity, however, there is some doubt. The Ely chronicle makes clear that the monastic income was subsequently inadequate: there was enough for only sixty monks instead of the old figure of seventy-two, and the bishop himself retained &pound;1800 in revenues. Some concession was at least provided by the royal charter freeing the monks from toll on any sources of stone and lead for the church building. Hervey meanwhile (probably in 1130) prudently arranged with the king, in his own interest, to be free of castleguard at Norwich, which had been a serious burden on his finances. The pipe roll of 1130, listing debts owed to the crown by the bishop which amounted to some &pound;1500, shows that he promised &pound;1000 for the remission of castleguard. A reduction of the scutage owed from Ely's fees, from &pound;100 to &pound;60, cost him &pound;240. No doubt the other royal grants of privileges and exemptions which he obtained, including a yearly fair at Ely itself, cost similar sums. A few traces also survive of the arrangements made by Hervey to administer his new revenues and household, such as the creation of an official baker's fee, and the assembly of the episcopal reeve's fee in Fen Ditton. It seems likely, too, that the parish church of St Mary in Ely was created to serve the bishop's men living in the vicinity of his barton, or farming centre, at the top of Back Hill, which led down to the river. In the same way the episcopal vineyard, and a series of large holdings like Lisle Place, were established at an early date on the north side of Fore Hill.<br>
+<br>There are few traces of Hervey's activity as a diocesan after his appointment of William as archdeacon. He was present in 1127 at a legatine council at Worcester, and at a royal council in 1129 when clerical marriage was condemned; he witnessed an act by which Walter <i>grammaticus</i> granted to the priory the church of Stretham; he gave to the church a silk alb, a flowered chasuble, two great cloths, and a gold pastoral staff; finally in 1131, when his death was imminent, he prepared to enter monastic life. It is not clear where he died, and the dates of his palace buildings have not been established. The many miracles wrought by St Etheldreda continued and increased in his time, not unassisted by the creation, at his insistence, of a causeway from Exning to Ely which facilitated the journeys of pilgrims. The chronicle of Orderic Vitalis contains a lengthy account of a miracle worked by the saint in 1116&#151;the release from prison of Bricstan of Chatteris, unjustly accused before the king's justices of concealing treasure trove&#151;which was apparently circulated in writing on the bishop's instructions. The same chronicle, under the year 1118, relates a strange story of Hervey's having a pregnant cow slaughtered and opened, to find three piglets within, a prodigy interpreted as foretelling the deaths of three great men and other dreadful events. Hervey died on 30 August 1131, and was buried in his cathedral on the following day.<br>
+<br>Dorothy M. Owen </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. Miller, <i>The abbey and bishopric of Ely</i>, Cambridge Studies in Medieval Life and Thought, new ser., 1 (1951), 75&#150;112, 199&#150;246, 280&#150;85, 288 &middot; E. O. Blake, ed., <i>Liber Eliensis</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13107&amp;istheme=&amp;target=CS')">CS</a>, 3rd ser., 92 (1962), 204&#150;36, 238&#150;40 &middot; J. Bentham, <i>The history and antiquities of the conventual and cathedral church of Ely</i>, ed. J. Bentham, 2nd edn (1812), 119&#150;36 &middot; N. Coldstream and P. Draper, eds., <i>Medieval art and architecture at Ely Cathedral</i>, British Archaeological Association Conference Transactions [1976], 2  (1979) &middot; D. M. Owen, ed., <i>A history of Lincoln Minster</i> (1994), 1&#150;46, 112&#150;19 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13107&amp;istheme=&amp;target=Reg.%20RAN')"><i>Reg. RAN</i></a>, vol. 2 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13107&amp;istheme=&amp;target=Ordericus%20Vitalis%2C%20Eccl.%20hist.')">Ordericus Vitalis, <i>Eccl. hist.</i></a>, 3.6 &middot; A. W. Haddan and W. Stubbs, eds., <i>Councils and ecclesiastical documents relating to Great Britain and Ireland</i>, 1 (1869), 299, 303&#150;6 &middot; M. Brett, <i>The English church under Henry I</i> (1975) &middot; F. Barlow, <i>The English church, 1066&#150;1154</i><i>: a history of the Anglo-Norman church</i> (1979) &middot; J. A. Green, <i>The government of England under Henry I</i> (1986) &middot; D. M. Owen, <i>The medieval development of the town of Ely</i> (1993) &middot; R. R. Davies, <i>Conquest, coexistence and change</i><i>: Wales, 1063&#150;1415</i>, History of Wales, 2 (1987); repr. as <i>The age of conquest</i><i>: Wales, 1063&#150;1415</i> (1991) &middot; <i>Radulfi de Diceto &hellip; opera historica</i>, ed. W. Stubbs, 2: <i>1180&#150;1202</i>, Rolls Series, 68 (1876)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13107&amp;istheme=&amp;target=CUL')">CUL</a>, Ely dean and chapter charters and cartularies, EDC<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Dorothy M. Owen, &#145;<span class="roman"><span class="headword">Hervey</span>  (<em>d.</em> 1131)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13107, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Hervey (<em>d.</em> 1131): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13107 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

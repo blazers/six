@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 42195;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/42/42195-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/42/42195-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=42195#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Marshall,  Emily Esther</span>  (1832&#150;1915), <span class="occ">advocate of an ordained ministry for women and founder of an Anglican Franciscan third order</span>, was born on 4 December 1832 at Upper Clapton, Hackney, Middlesex, the fourth of seven children, one son and six daughters, of Laurence Jopson Marshall (<i>d</i>. 1845), underwriter, and his wife, Jane (1801&#150;1866), daughter of Bernard and Ann Ogden of Sunderland. She was educated at home. After her father's death she settled in Sunderland and lived, unmarried, upon independent means.<br>
+<br>In 1889 Emily Marshall sent her pamphlet <span class="italic">A Suggestion for our Times</span> to J. B. Lightfoot, bishop of Durham, who had stated that he wished to see the female diaconate restored to the Church of England. She suggested that an organization should be formed in his diocese specifically to prepare women for this ministry. According to her account, Lightfoot believed that her proposal &#145;should be productive of much good&#146; and asked her to give it &#145;a practical form&#146;. She was always adamant that her &#145;idea, encouraged in its embryo form by Bishop Lightfoot, suffered from his death&#146; in December 1889  (Marshall, <span class="italic">The Parochial, or Third Order</span>, 7).<br>
+<br>On 27 October 1891 Canon George Body, who was responsible for training women to be &#145;church workers&#146; in Durham, admitted Miss Marshall and five other women in Durham to the League of St Cuthbert. She soon learned that Canon Body intended to keep local development of the pastoral, charitable, and liturgical ministries of women firmly under his control. Indeed, in the Durham diocese the organization which Miss Marshall initiated became known as &#145;Canon Body's Third Order&#146;. She was told not to speak in public or to ask others to speak on her behalf at the church congress. However, Canon Body was not wholly successful in silencing her. She wrote tracts, for example <span class="italic">District Visitors, Deaconesses and a Proposed Adaptation, in Part, of the Third Order</span> (1891), disguising her identity as an anonymous &#145;author of <span class="italic">A Suggestion for our Times</span>&#146;, and paid to have them printed and distributed by post. In them she revealed that Bishop Lightfoot had also spoken with her of the Franciscan third order formed in the thirteenth century for men and women, ordained and lay, married and unmarried, who served their local communities without &#145;cowl or cloister&#146;.<br>
+<br>Miss Marshall's interest in the third order was further stimulated by reading Paul Sabatier's <span class="italic">Vie de S. Fran&ccedil;ois d'Assise</span>, which she bought on a visit to Paris in 1894. Captivated by the French Calvinist's controversial portrayal of the saint and his account of the origins of the Franciscan movement, she went to Assisi. There she met Sabatier, who clarified for her his view of the vision and intentions of St Francis and told her that the organization she envisaged for the Anglican communion was &#145;dans le sens de S. Fran&ccedil;ois&#146;  (Marshall, <span class="italic">Dawn Breaking</span>, 7). Her advocacy of a full and equal diaconate, a third order of Apostolic ministry for men and women, was thwarted when B. F. Westcott, Lightfoot's successor as bishop of Durham, commissioned the first deaconess (that is, not a woman deacon, and therefore not in the holy orders of the Church of England) in the diocese. This fell short of her objectives, but, undeterred, she wrote and distributed more pamphlets, the most important being <span class="italic">The dawn breaking, and some thoughts on the third order of St. Francis, with translation from the French</span> (1896), in which she argued the case for the revival of the Franciscan order in the Anglican communion.<br>
+<br>Since the death of Lightfoot Emily Marshall had not been able to claim the authority of a bishop for her pioneering projects. This changed in 1893 when William Proctor Swaby, her brother-in-law, was consecrated bishop of Guiana. She had served a pastoral apprenticeship in his Sunderland parish, and with her assistance he fostered a Franciscan third order in his colonial diocese. In 1900 he was translated to the diocese of Barbados and the order grew rapidly there also. Fortunato Pietro Luigi Josa, an Italian priest, who became Swaby's archdeacon, the third order's priest-chaplain, and Miss Marshall's friend, brought the new Franciscan order into the public arena with the publication in England of <span class="italic">St. Francis of Assisi and the Third Order in the Anglo-Catholic Church</span> (1898). He paid tribute to the foundress without naming her and quoted extensively from her anonymous tracts. Miss Marshall meanwhile had recruited members in England and abroad who joined the order with the consent of their parish priests. In 1901 she set up to protect the order an Inter-Provincial Council, which H. C. G. Moule, Westcott's successor at Durham, joined at her request. There are no complete extant lists of members but it seems that by the outbreak of the First World War there were several hundred Franciscan tertiaries (as the members now called themselves) distributed across the Anglican communion.<br>
+<br>Miss Marshall died at her home, Whitcliffe Lodge, Ripon, Yorkshire, on 23 June 1915. Although others considered that she &#145;saw the desire of her heart being fulfilled&#146; in that &#145;she did start anew&#146; the Franciscan third order, which &#145;spread far and wide in the British Empire&#146;  (<span class="italic">The Guardian</span>), her own writings reveal her sadness that her <span class="italic">Suggestion for our Times</span> had not resulted in women being ordained to the diaconate.<br>
+<br>Rosemary A. Sharpe </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>[E. E. Marshall], <i>District visitors, deaconesses and a proposed adaptation, in part, of the third order</i>, 1st edn (1890) &middot; [E. E. Marshall], <i>Deacons, deaconesses and a proposed adaptation, in part, of the third order of St. Francis, or, A proposed outer order for men and women living in the world</i>, 3rd edn (1891) &middot; [E. E. Marshall], <i>The dawn breaking, and some thoughts on the third order of St. Francis, with translation from the French</i> (1896) &middot; [E. E. Marshall], <i>Some thoughts on the third order of St. Francis, ancient and modern</i><i>: with translations from the French by an Anglican</i> (1897) &middot; [E. E. Marshall], <i>The parochial, or third order, (Anglican)</i><i>: thoughts and experiences, the order at work</i> (1901) &middot; F. P. L. Josa, &#145;In memoriam Emily Esther Marshall&#146;, <em>Third Order Quarterly Magazine</em> (Aug 1915), 52&#150;3 &middot; <em>The Guardian</em> (8 July 1915) &middot; R. A. Sharpe, &#145;Emily Marshall of Sunderland: a Victorian campaigner for women's work in Anglican parish life&#146;, <em>Antiquities of Sunderland</em>, 33 (1992), 1&#150;14 &middot; R. A. Sharpe, &#145;Franciscan values and social contexts: a sociological study of founders of Anglican Franciscan third orders, 1882&#150;1939&#146;, PhD diss., U. Lond., 1993 &middot; d. cert. &middot; GL, MS 4402 &middot; F. P. L. Josa, <i>St Francis of Assisi and the third order in the Anglo-Catholic church</i>, 1st edn (1898)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;14,832 15<i>s</i>. 5<i>d</i>.: probate, 4 Sept 1915, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Rosemary A. Sharpe, &#145;<span class="roman"><span class="headword">Marshall,  Emily Esther</span>  (1832&#150;1915)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/42195, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Emily Esther Marshall (1832&#150;1915): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/42195 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

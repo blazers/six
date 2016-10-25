@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27348;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27348-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27348-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27348#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Thorne,  William</span>  (<em>fl. </em><em>c.</em>1397), <span class="occ">Benedictine monk and chronicler</span>, of St Augustine's Abbey, Canterbury, wrote a history of that house from its foundation in 598. This survives in two manuscripts: Cambridge, Corpus Christi College, MS 189, which ends in 1375 and dates from about the late fourteenth century; and BL, Add. MS 53710, which comes down to 1397 and dates from no more than a few years later. The latter also forms a revision as well as an expansion of the former, adding or altering material in a good many places.<br>
+<br>Thorne's work is disappointing for Anglo-Saxonists because down to the 1220s he relies heavily on the late thirteenth-century chronicle of Thomas Sprott, while right through his work he is careless in his copying of charters and other texts, omitting such details as the names of witnesses and sometimes the date as well. He wrote in a spirit of zeal for his abbey's prosperity, and was interested neither in the minutiae of its documentary history nor in events of national significance; archbishops of Canterbury are portrayed only in terms of their actions or intentions <i>vis-&agrave;-vis</i> the abbey, and the black death is ignored totally.<br>
+<br>Thorne's method was to quote or paraphrase documents (doubtless all drawn from the abbey's archives or such works as Sprott's chronicle), making a paragraph or two out of each such text, and setting them into a chronological sequence. These texts were mostly concerned with the estates, rights, and legal proceedings of the abbey; he gives detailed information about such matters as appropriations of churches and ordinations of vicarages, dealings with the royal justices, and similar financial and administrative affairs. He has relatively little to say about the internal history of his house and virtually nothing about its spiritual life, though he does find space for a copy of the papal grant by which St Augustine's feast day was made a double office.<br>
+<br>Thorne's account of events in his own century is increasingly lively, and he knew how to tell a good story. A short tale is that of Solomon Ripple, a monk of St Augustine's who acted on the abbot's behalf as a tax collector in 1335 and extorted so much money that royal justices fined the abbot &pound;80; Thorne concludes with an account of Ripple's improvements to the abbey's estates. Much longer is the narrative of the time that he himself spent following the papal court around Italy in 1387&#150;90, as he struggled in vain to obtain confirmation from Pope Urban VI (<i>r</i>. 1378&#150;89) of the election of William Welde as abbot of St Augustine's. The tale of his dealings with Cardinal Brancaccio, &#145;a grasping and avaricious man, most notably tainted with the sin of simony&#146;  (<span class="italic">William Thorne's Chronicle</span>, 656), who with his auditor had to be given 100 florins before he would act, is an essay in restrained irony.<br>
+<br>Almost nothing is known about Thorne beyond the little that is revealed in his chronicle. He was a candidate for the abbacy of St Augustine's in 1375, but was unsuccessful despite initially having the prior and sacrist on his side. His loyalty to his house was unaltered and he worked hard for both the abbot who had defeated him, Michael Peckham, and for his successor, William Welde.<br>
+<br>Thorne's chronicle was edited by Sir Roger Twysden, in his <span class="italic">Historiae Anglicanae scriptores X</span> (1652), and it was translated by A. H. Davis as <span class="italic">William Thorne's Chronicle of St Augustine's Abbey, Canterbury</span> (1934).<br>
+<br>Nigel Ramsay </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>CCC Cam., MS 189 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27348&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 53710 &middot; &#145;Chronica Guillielmi Thorne&#146;, <i>Historiae Anglicanae scriptores X</i>, ed. R. Twysden (1652), cols. 1757&#150;2202 &middot; <i>William Thorne's chronicle of St Augustine's Abbey, Canterbury</i>, trans. A. H. Davis (1934) &middot; S. E. Kelly, ed., <i>Charters of St Augustine's Abbey, Canterbury, and Minster-in-Thanet</i>, Anglo-Saxon Charters, 4 (1995), esp. lv&#150;lvi, xcviii<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27348&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 53710
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27348&amp;istheme=&amp;target=CCC%20Cam.')">CCC Cam.</a>, MS 189<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Nigel Ramsay, &#145;<span class="roman"><span class="headword">Thorne,  William</span>  (<em>fl. </em><em>c.</em>1397)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/27348, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Thorne (<em>c.</em>1397): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27348 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

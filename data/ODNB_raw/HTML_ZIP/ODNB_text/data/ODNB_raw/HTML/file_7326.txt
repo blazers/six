@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7326;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7326-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7326-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7326#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Davis <span class="st"> [Davys]</span>,  John</span>  (<em>c.</em>1550&#150;1605), <span class="occ">explorer</span>, was apparently a Devon man living at Sandridge in the parish of Stoke Gabriel near Dartmouth. He may indeed have been born there, but his baptism is not recorded in the parish register. Almost all the details of his early life&#151;his parentage, date and place of birth, and upbringing&#151;are unknown; it is unfortunate that his name can be spelt in different ways and that there are records of others of the same name, of equivalent or higher rank, in the same vicinity. His evident education, indicated by his journals, other publications, and navigational skills, is wholly unrecorded. It was at Stoke Gabriel on 29 September 1582 that he married Faith Fulford, who had been baptized there on 29 May 1561; her local origins make it highly unlikely (as alleged by J. Prince in his <span class="italic">Worthies of Devon</span>, 1701, 286) that she was from a county family, the daughter of Sir John Fulford, sheriff of Devon in 1535. Their first recorded child, Gilbert, baptized at Stoke Gabriel on 8 June 1589, almost certainly took his name from the Gilbert family of seamen and explorers, who were Davis's closest and earliest recorded maritime associates. His other two sons, Arthur and Philip Davis, were apparently born in the next two years; Faith's adultery effectively ended his marriage in 1593.<br>
+<br>The location of Stoke Gabriel on the Dart estuary was conducive to a naval career. John Davis reputedly spent his youth in maritime pursuits, the necessary training for a professional seaman, almost certainly in subordinate and unrecorded capacities on the Gilberts' major voyages. He was never one of the gentlemen so prominent in Elizabethan seafaring&#151;unlike his associates and near neighbours, the Gilberts and Raleghs, with whom his connections certainly antedate by some years the first formal references in 1579 and 1580. By that time he was described as a friend of Adrian Gilbert, brother of the more famous Sir Humphrey Gilbert (<i>d</i>. 1583). Both were visited at their homes in Devon by the astrologer Dr John Dee (1527&#150;1609). On 24 January 1583 all three met with Sir Francis Walsingham at the house of Robert Beale, then acting secretary of state, where they floated their proposal to search for the north-west passage, supporting it with detailed reference to charts. Several further meetings followed up to 18 March, when Davis returned to Devon. At two years' remove these conferences were the gestation of the three Arctic voyages in search of the north-west passage on which Davis's reputation principally depends.<h2>
+<a name="TheArcticvoyages"></a>The Arctic voyages</h2>The three voyages seem to have been funded principally by the London merchant William Sanderson (1547&#150;1638), to whom Davis reported by letter and in person, but also by Adrian Gilbert, Walsingham, and some other London merchants; only once did the merchants of Exeter make a significant contribution. Though small in scale and comprising only the smallest of ships, which had the shallow draughts most suitable for unknown shoal waters, such expeditions were expensive. Although they were ambitious in their long-term aims, it appears that the immediate objectives of each voyage were actually quite limited, to discover routes that could be exploited more fully later.<br>
+<br>Davis's first expedition consisted of two barks, the <i>Sunshine</i> of London, of 50 tons and 23 crew, and the <i>Moonshine</i> of Dartmouth, of 35 tons. After departing from Dartmouth on 7 June 1585, they were delayed for twelve days at the Isles of Scilly, an opportunity that Davis characteristically used to chart the archipelago for navigation, and arrived on 20 July at the east coast of Greenland. Blocked by ice to the north, he sailed first southwards down the eastern coast and then northwards up the west coast as far as 66&deg; of latitude, whence he sailed across the open sea to the north-west until he reached Cumberland Gulf, a broad strait which he pursued for 100 miles or so, finding only open waters filled with islands. At this point, late in August 1585, he abandoned exploration for the summer and returned home, arriving safely at Dartmouth on 30 September. <i>Sunshine</i> and <i>Moonshine</i> were also involved in Davis's second voyage in 1586, together with the <i>Mermaid</i> of 120 tons and the pinnace <i>North Star</i> of 10 tons. After departing on 7 May 1586, he made his landfall at 60&deg; on 15 June and departed on 11 September. This second voyage was more difficult, relations with the native inhabitants being more troubled and violent, his crew more easily daunted, and the weather not merely foggy but stormy. Never proceeding as far north as on the previous voyage, he investigated the inlets and islands of the east coast of Canada, without either definitely finding a passage to the west or discrediting the notion&#151;hence his third voyage &#145;for the discovery of a passage to the Isles of the Molucca or the coast of China&#146;  (<span class="italic">Voyages and Works</span>, 39), for which he had the barks <i>Sunshine</i> again and the <i>Elizabeth</i> of London, and the clincher-built <i>Helen</i> of London. After departing from Dartmouth on 19 May 1587, Davis left two ships at the cod fishery, while he pressed northwards through the Davis Strait into Baffin Bay as far northwards as latitude 73&deg; and then westwards to the pack ice, whence high winds forced him to retire southwards. He intended to join his other vessels, on which he depended for supplies. Not finding them, &#145;having in our ship but litle wood and halfe a hogshead of fresh water&#146;  (ibid., 48), he tackled the Atlantic unaccompanied and returned successfully to Dartmouth on 15 September. His brief initial report states that he had proceeded 60 leagues further than he had originally intended and that, at 73&deg;, there were no obstacles, &#145;the sea all open &hellip; The passage is most probable [and] the execution easier&#146;  (ibid., 59). The sequel that he evidently planned, a fourth voyage, did not happen.<br>
+<br>The three voyages are recorded respectively by journals of the merchant John Janes, Davis himself, and Janes again. Janes's first journal is full of the wonders of unknown lands and seas, of such unfamiliar creatures as the porpoises, whales, seals, and polar bears that they saw and generally slew and ate, the Inuit they encountered and traded with, and the floating wood, tides, soundings, sea colour, and seabed that Davis employed as navigational aids. The latter journals are more balanced, the result of greater familiarity with both the phenomena and the actual locations and people who were encountered. For the second voyage Davis's own journal records a genuine interest in the native population, whose language, diet, and customs he recorded and with whom he dealt&#151;at times they actually outnumbered the explorers and proved extremely acquisitive of iron&#151;and in the local flora and fauna, and reveals his own diplomatic skills and strong sense of divine providence.<br>
+<br>These voyages carried Davis to locations in north-east Canada and west of Greenland, where no known Europeans had been before, and to which Davis gave names reminiscent of his west-country origins and of his backers: some, such as Gilbert Sound, Cumberland Sound, Exeter Sound, Totness Road, Cape Dyer, Cape Walsingham, and Sanderson his Hope, still endure. Conditions were inhospitable, foggy, icy, and stormy; water and victuals were several times in short supply. Crewmen died both naturally and by violence. It was an enormous achievement to penetrate as far as Davis did and to return safely, not once but three times, with almost all his ships and men. Apart from the discoveries (which were not the long-term objective), the voyages were unsuccessful. Davis did not reach the spice islands or East Indies by this route. The north-west passage was not discovered, although Davis remained convinced that it existed. He wrongly supposed that the seas were everywhere navigable and did not freeze, and that the north pole itself must have a delightful climate. Moreover he found none of the treasure sought by Elizabethan investors.<br>
+<br>These voyages are nevertheless the foundation for Davis's enduring distinction. The Elizabethan poet Michael Drayton wrote in his <span class="italic">Polyolbion</span>:<blockquote>
+<div>And Davies, three times forth for the North west made,<br>
+</div>
+<div>Still striving by that course, t'inrich the English Trade:<br>
+</div>
+<div>And as he well deserv'd, to his eternall fame,<br>
+</div>
+<div>There, by a mightie sea, Immortalliz'd his name.<br>
+</div> (Drayton, XIX.291&#150;302)</blockquote>
+<h2>
+<a name="Privateeringinterlude"></a>Privateering interlude</h2>The &#145;mightie sea&#146; remains the Davis Strait. Davis was never to resume his search as he had intended in 1587 and may have continued to hope a decade later. In 1595, on the latest geographical information, he argued that &#145;Virginia&#146;&#151;the main North American land mass&#151;extended less far west than was supposed and that an approach from the Pacific end near California was feasible. Obviously it would have been much more expensive. Davis then claimed, somewhat improbably, such an investigation to have been the intended sequel of his voyage with <script>writeSeealsoLink('../view/article/4942/', "Thomas Cavendish (bap. 1560, d. 1592)")</script> in 1591&#150;3. If so, circumstances ensured that it did not happen. Davis's three voyages, with hindsight, fall early in a maritime career, which had another eighteen very different years to run until its premature end. Never again was Davis to return to the Arctic, whatever he may have professed. Never again was he in command: he features instead as a subordinate, not always a captain, on larger expeditions. After trying his hand at privateering, he was instead to involve himself on larger enterprises to the south and east, generally as a pilot. To contemporaries it was his navigational skills that marked him out: Davis was &#145;very well grounded in the principles of the art of navigation&#146;, William Sanderson declared in 1585  (<span class="italic">Voyages and Works</span>, 205). The ancient astrolabe was further developed by him into the Davis backstaff or English double quadrant, which enabled navigators to measure the height of the sun more precisely. His <span class="italic">Seaman's Secrets</span> (1594), virtually a treatise on practical navigation, ran through eight editions, the last in 1657. His <span class="italic">World Hydrographical Survey</span> was published in 1595. So, too, with modern historians: if understandably to his biographer Davis was &#145;the foremost English navigator&#146;  (ibid., 23), to Professor Kenneth Andrews he was also &#145;perhaps the finest navigator of his day&#146;  (Andrews, <span class="italic">Drake's Voyages</span>, 154).<br>
+<br>An intended further expedition was delayed by the Spanish Armada and then permanently thwarted the following year by the death in 1590 of Davis's key patron, Secretary of State Walsingham. However important from the perspective of exploration, Davis's voyages were financially unsuccessful, and were no incentive for anyone else to invest in any more. For the Armada campaign Davis may have captained the <i>Black Dog</i>, a tender of Admiral Howard of Effingham, and the next year he briefly tried his hand at privateering, with fair success, joining George, earl of Cumberland, off the Azores with the <i>Drake</i> of Plymouth (60 tons), a pinnace, and a boat in August 1589, but parting company in November ahead of the disastrous end to the expedition. In 1590 he was part of a squadron that took a Spanish vessel supposedly called the <i>Urcha Salvagina</i>, a capture the legitimacy of which was still being contested in 1593. It is not clear how these events relate to the capture by the <i>Advantage</i> of Lyme Regis of a prize cargo of sugar and cotton wool worth &pound;700 that he and John Hazard were recorded as selling. Hence perhaps the &pound;1100 of his money that Davis alleged that he had invested in his next expedition, logically not for altruistic exploration, but for his own further profit.<h2>
+<a name="Thefailedcircumnavigation"></a>The failed circumnavigation</h2>Such a substantial investment renders improbable Davis's later claim that he had to be persuaded to join in the next voyage of Thomas Cavendish (or Candish, as Davis usually spells it), whose highly profitable circumnavigation of 1586&#150;8, when he was unable to carry away all the treasure that he had captured, was the inspiration for the further expedition to China and Japan via Cape Horn. Davis needed to make his own fortune. It is significant that the bark <i>Delight</i> or <i>Dainty</i>, which Davis owned jointly with Adrian Gilbert, returned home prematurely: just possibly Davis did not share in the losses that others suffered. There were five vessels in all, three tall ships and two smaller ones; Davis was rear-admiral commanding the <i>Desire</i>, Cavendish's former flagship of 140 tons. After sailing from Plymouth on 26 August 1591, they were first becalmed and then diverted at Santos in Brazil and thus missed the southern summer, the optimum time to clear the Magellan Strait, where they arrived only on 8 April 1592. Beset by storms, frost, and high mortality on the biggest ships, Cavendish was unable to pass the strait, was confined to harbour, and then gave up, planning instead to take the Good Hope route to the East Indies. Davis, more accustomed to Arctic conditions, was not deterred. He disagreed. The atrocious conditions, he considered, could not last and the squadron was not equipped for the alternative route. When Cavendish withdrew northwards to Santos, Davis remained at Port Desire, perhaps because of a misunderstanding, perhaps (as the paranoiac and dying Cavendish supposed) from self-interested betrayal. Contrary to Davis's later testimony, Cavendish did specify a rendezvous. Bereft of all kind of stores, Davis was not in an enviable situation; he nevertheless made three further efforts to pass the strait, but storms beat him back each time. He is praised by Andrews as &#145;faithful to the point of disaster to his general's instructions&#146;  (Andrews, <span class="italic">Privateering</span>, 70), which was Davis's own version as set out by Janes, but a recent commentator has found some justification in Cavendish's charge against him that &#145;onely [his] treacherie hath beene the utter ruine of all&#146;  (Hitchcock, &#145;Charges against Davis&#146;, 264). As Davis was well aware, Cavendish desperately needed the smaller vessels, which alone were able to enter shallow waters; without them he was predestined for disaster. Evidently this was appreciated also by Davis's own crew, only a little over half of whom backed him when he sought their approval for his actions, while others mutinied and perhaps tried to kill him. Nine later deserted and were slain by the natives: among them were the principal mutineers. After returning to Port Desire on 27 October 1592 from his fruitless attempts to reach the Pacific, Davis provisioned the ship with no fewer than 14,000 dried penguins for the journey home. Despite losses to Patagonian Indians, the Portuguese, and privations, Davis himself was among the fourteen survivors of an original seventy-six who arrived home on 11 June 1593. Arrested, apparently at the instance of the disreputable lover of his adulterous wife, and subjected to an inquiry ordered by the privy council into his conduct on the evidence of Cavendish's last letter, Davis successfully defended himself against the charges&#151;&#145;were I faulty of so foul a crime, I were worthy of ten thousand torments&#146;  (ibid., 268)&#151;and was released at the intercession of his friend Sir Walter Ralegh. His reputation may nevertheless have suffered.<h2>
+<a name="EastIndiesvoyages"></a>East Indies voyages</h2>That little is known of Davis over the next two years may be accounted for by the two books that he published in 1594&#150;5. He was at sea again in 1596&#150;7, most probably at Cadiz and the Azores as master of Ralegh's own ship, and was then recommended by the earl of Essex to the Dutch for the first of three voyages to the East Indies that took up the rest of his life. The first such voyage was as pilot of the Dutch ship <i>Leeuw</i>, or <i>Lion</i>, captained by Cornelius Houtman, which sailed with the <i>Lioness</i> from Flushing on 15 March 1598 and arrived on 21 June 1599 at Acheen in Sumatra, where it remained for three months lading with pepper and other spices. Davis himself had traded on his own account, building up stock for sale in Europe and other &#145;things which I had provided to show my dutie and love to my best friends&#146;  (<span class="italic">Voyages and Works</span>, 146), all of which were lost with the main cargo in the ensuing disaster. The local potentate launched a treacherous attack on both ships, capturing the <i>Lioness</i> and killing Houtman and many others, but Davis, in his own account, with a handful of others successfully defended the <i>Lion</i>, cleared it of attackers, and then recaptured the <i>Lioness</i>. So many of the assailants were slain that most of the Dutchmen on shore were put to death. &#145;We lost in this misfortune&#146;, wrote Davis, &#145;three-score and eight persons, of which we are not certain how many are captived; only of eight wee have knowledge&#146;  (ibid., 145). After a further clash with the Portuguese, the crew determined to return home, arriving at Middelburg on 29 July 1600. Much more commercially successful, if with similar loss of life, was his next voyage as pilot-major of the first East Indies Company fleet on board the <i>Red Dragon</i> (600 tons) of Captain James Lancaster (<i>d</i>. 1618), which sailed from Woolwich on 13 February 1601 and returned on 11 September 1603.<br>
+<br>At this point in his career Davis's considerable estate comprised leases, merchandise, money, and debts due. He contracted as pilot for a further voyage to China on the <i>Tiger</i> of London (240 tons, captained by Edward Michelbourne) by 12 October 1604. In the meantime he had betrothed himself to Judith Havard, &#145;my espoused love&#146;&#151;evidently a love match&#151;&#145;unto whom I have given my faith in matrimony to be solemnised on my return&#146;: his wife Faith was presumably dead. &#145;Uncertain of my return&#146;  (TNA: PRO, PROB 11/109 sig. 4), Davis sensibly made his will, bequeathing his possessions equally to Judith and his three sons, with remainder in the event of all their deaths to the poor and to the children of his brother Edward. The <i>Tiger</i> actually sailed from Cowes on 5 December 1604 and arrived at Bantam in Sumatra in October 1605, whence they set off on 2 November for Patany, making but poor progress. The Japanese pirates on board a captured junk, which they encountered peacefully near Bintang, treacherously attacked the <i>Tiger</i> off the coast of Borneo on 29 or 30 December 1605 and were repulsed only after a desperate struggle, in which Davis was slain in hand-to-hand combat. Soon afterwards the voyage was abandoned, the <i>Tiger</i> returning to Portsmouth on 9 July 1606. Although Davis's will was technically invalid, since no executor was named, it was nevertheless proved on 10 January 1607, when administration was granted to his eldest son, Gilbert.<br>
+<br>Michael Hicks </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>K. R. Andrews, <i>Drake's voyages</i><i>: a re-assessment of their place in Elizabethan maritime expansion</i> (1967) &middot; K. R. Andrews, <i>Elizabethan privateering</i><i>: English privateering during the Spanish war, 1585&#150;1603</i> (1964) &middot; E. K. Cooper, &#145;The Davis back-staff or English quadrant&#146;, <em>Mariner's Mirror</em>, 30 (1944), 59&#150;64 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7326&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; M. Drayton, <i>Polyolbion</i>, ed. J. W. Hebel (1933), vol. 4 of M. Drayton, <i>Complete works</i> &middot; R. Hakluyt, <i>The principal navigations, voyages, traffiques and discoveries of the English nation</i>, 2nd edn, 3 vols. (1598&#150;1600); repr. 12 vols., Hakluyt Society, extra ser., 1&#150;12 (1903&#150;5), vol. 11 &middot; R. F. Hitchcock, &#145;Cavendish's last voyage: the charges against Davis&#146;, <em>Mariner's Mirror</em>, 80 (1994), 259&#150;69 &middot; R. F. Hitchcock, &#145;Cavendish's last voyage: purposes revealed and concealed&#146;, <em>Mariner's Mirror</em>, 87 (2001), 5&#150;14 &middot; parish register, Stoke Gabriel, Devon RO [marriage; baptism: Faith Fulford, wife] &middot; <i>The voyages and works of John Davis</i>, ed. A. H. Markham, Hakluyt Society, 59 (1880) &middot; will, TNA: PRO, PROB 11/109, sig. 4 &middot; T. K. Rabb, <i>Enterprise and empire</i><i>: merchant and gentry investment in the expansion of England, 1575&#150;1630</i> (1967)<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael Hicks, &#145;<span class="roman"><span class="headword">Davis ,  John</span>  (<em>c.</em>1550&#150;1605)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/7326, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Davis (<em>c.</em>1550&#150;1605): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7326 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/7326/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

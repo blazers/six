@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51950;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51950-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51950-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51950#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Brynach</span> <span class="st"> [St Brynach, Bernachius, Bernacius]</span>  (<em>fl. </em>6th cent.), <span class="occ">founder of the church of Nevern, Pembrokeshire</span>, was not of Welsh descent. His pedigree is in neither of the two main collections of saints' genealogies, <span class="italic">Bonedd y saint</span> and <span class="italic">Achau'r saint</span>, and his life, twelfth-century in its present form, fails to give the names of his parents, though it does say, probably as a mere hagiographical formula, that he was of noble descent. Much of the substance of the life is a collection of traditional narrative motifs, some purely hagiographical (such as voyaging upon a rock), others more general; it is, however, a well-constructed text written in good and vigorous Latin. There are two main sections: first, the saint's wanderings, and, second, his dealings with Maelgwn Gwynedd.<br>
+<br>The life portrays Brynach as a pilgrim&#150;saint (<i>peregrinus</i>), who moved from one place to another as soon as his reputation for holiness endangered his monastic seclusion. First, he travelled from his homeland (not named) to Rome, where he freed the citizens from the attentions of &#145;a pestiferous monster&#146;  (&#145;Vita sancti Bernacii&#146;, chap. 2). His fame then caused him to journey to Brittany, where, again, his reputation made it impossible for him to stay. He took ship, on a rock, and came to Milford Haven, where he temporarily settled. Here, however, it was the amorous attentions of a nobleman's daughter that made it impossible to remain: once rejected her love turned to hatred, and she arranged an attack in which Brynach was wounded. He then moved to Pontfaen, and from there to a nearby site on the River Nyfer. Here, with his companions, he prepared a permanent settlement, but each night their day's work vanished. Brynach decided that they should await illumination. This came in the form, traditional in Irish hagiography, of an angelic message declaring that their present site was not Brynach's &#145;place of resurrection&#146;  (&#145;Vita sancti Bernacii&#146;, chap. 7). He was directed to follow a white sow with white piglets which would lead them to their dwelling place. Once established at Nevern, Brynach made friends with a local ruler, Clechre, who had prophesied Brynach's arrival, and whose twenty sons were instructed in the monastic life and became &#145;coheirs&#146; with the saint. The descendants of Clechre were, in the language of the Irish laws, &#145;the kindred of the land&#146;, while Brynach was the patron saint; since he had no descendants (as a <i>peregrinus</i> and an ascetic), they became the hereditary kindred of Nevern. The theme of the first half of the life, the <i>peregrinatio</i> of the patron saint, thus led naturally to a preordained conclusion, the alliance between saint and kindred, joint heirs of Nevern.<br>
+<br>The second part of the life had an equally clear purpose and achieved it with similarly entertaining narrative detail. The link between the two halves was an account of the character of the saint's life&#151;so holy that, not only did he enjoy converse with angels, but the very wild beasts were tame at his bidding. In particular, the one cow of the community was guarded by a wolf, the friend and servant of the saint. The protagonists in the second part of the life were the saint, Brynach, and the king, Maelgwn Gwynedd. Maelgwn arrived and demanded a night's hospitality (<i>gwest</i>). This was refused and the king sent men to take the one cow. The wolf complained to Brynach, who put his case before Heaven. Maelgwn Gwynedd and his men, now afflicted by extreme hunger, were distressed to find that, however high they stoked the fire, the water in their stewing-pot remained stubbornly cold. By this miracle they were compelled to acknowledge the authority of the saint. Brynach then changed tactics&#151;having revived the cow&#151;and invited Maelgwn and his men for dinner and a night's rest. Given the exemplary ascetic poverty of the community, such entertainment required miracles: loaves were found growing on trees; the water of the local stream turned into wine; Maelgwn and his men were royally entertained. The king, duly impressed, granted to Brynach a perpetual immunity from royal exactions for the monastery and all its possessions; it was at Nevern that he was to die, on 7 April in an unspecified year, and where he was buried, outside the east wall of the church.<br>
+<br>The king chosen to grant this privilege was a king of Gwynedd, not a king of Dyfed. Otherwise, Brynach's career in Wales was confined to Dyfed: it was where he landed and all his settlements, up to and including Nevern, were within the one kingdom. There may be two reasons: first, Maelgwn had already appeared in a similar role in the life of St Cadog, likewise a southern saint. More interestingly, however, it was prudent to obtain such a grant from an over-king and to get it not just for Nevern but for all the possessions of Brynach. Although the life does not mention it, Llanfrynach, 2 miles to the south-east of Brecon, was another important church of the saint. A mere local privilege, from the king of Dyfed, would not have helped a church situated in Brycheiniog.<br>
+<br>The main evidence for the early importance of Nevern is the surviving sculpture. This falls into three groups. First, there are two fifth- or sixth-century inscriptions, both bilingual (Irish and Latin). If they attest an early cemetery of the period when Irish settlers ruled Dyfed, this need not yet have been ecclesiastical and they do not, therefore, provide good evidence for a church. Second, there are three stones, of the seventh to the ninth centuries, at a farm some 3 miles to the south, Tre-bwlch. Third, two stones of the tenth and eleventh centuries are on the site of the church. One of them is highly ornate, in the same style as the Carew stone commemorating a king of Dyfed, Maredudd ab Edwin (<i>d</i>. 1035). Only this third group confirms the importance of the church in the pre-Norman period.<br>
+<br>T. M. Charles-Edwards </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>&#145;Vita sancti Bernacii&#146;, <i>Vitae sanctorum Britanniae et genealogiae</i>, ed. and trans. A. W. Wade-Evans (1944), 2&#150;15 &middot; P. C. Bartrum, ed., <i>Early Welsh genealogical tracts</i> (1966) &middot; V. E. Nash-Williams, <i>The early Christian monuments of Wales</i> (1950), nos. 353&#150;60 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51950&amp;istheme=&amp;target=Gir.%20Camb.%20opera')"><i>Gir. Camb. opera</i></a>, 6.3&#150;152 &middot; S. Baring-Gould and J. Fisher, <i>The lives of the British saints</i>, 4 vols., Honourable Society of Cymmrodorion, Cymmrodorion Record Series (1907&#150;13) &middot; E. R. Henken, <i>Traditions of the Welsh saints</i> (1987), no. 45 &middot; E. R. Henken, <i>The Welsh saints</i><i>: a study in patterned lives</i> (1991) &middot; M. Richards, <i>Welsh administrative and territorial units</i> (1969)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">T. M. Charles-Edwards, &#145;<span class="roman"><span class="headword">Brynach</span>   (<em>fl. </em>6th cent.)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51950, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Brynach (6th cent.): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51950 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

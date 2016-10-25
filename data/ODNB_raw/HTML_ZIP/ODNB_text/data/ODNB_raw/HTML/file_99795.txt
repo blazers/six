@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 99795;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/99/99795-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/99/99795-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=99795#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Caminer,  David Tresman</span>  (1915&#150;2008), <span class="occ">computing systems engineer</span>, was born David Solomon Treisman on 26 June 1915 in Hackney, London, the only son of Henry Jacob (Jack) Treisman (1892&#150;1918), tailor, and his wife, Rachel (Raie), <i>n&eacute;e</i> Simmons (1891&#150;1982), milliner. Following his mother's remarriage, to Felix Caminer in 1921, his name was altered to David Tresman Caminer. His mother subsequently gave birth to a daughter, Ad&egrave;le. The Treisman family had arrived in London in the late nineteenth century as refugees from anti-Semitic pogroms in Lithuania. Having married Raie in 1914, Jack Treisman was called up to serve as a soldier and was killed in the trenches in the final year of the First World War.<br>
+<br>Caminer spent his childhood in Fulham, south-west London. He attended Sloane School, but was so engaged with socialism and anti-fascism that he gave little thought to his future career. He failed the scholarship examination for Cambridge University through lack of preparation, which caused him some regret at the time. His parents arranged for an interview with the catering company J. Lyons &amp; Co, best known for its 250-branch national teashop chain and Corner House restaurants in London. In 1936 he began as a trainee in management accounts at the Cadby Hall headquarters in Hammersmith, work that suited his fine, analytical mind. He was called up on the outbreak of the Second World War and served in an infantry regiment, the Green Howards. In 1943 he lost his right leg at the battle of Mareth in Tunisia. Invalided out of the army, he returned to Lyons in 1944 and assumed responsibility for the systems research office, which had been set up in the 1930s to increase the efficiency of accounting and other clerical operations. On 22 July the following year, at Wembley town hall, he married Joyce Jacqueline (Jackie) Lewis (<i>b</i>. 1922), daughter of Leonard Lewis, company director. They settled in Richmond and had two daughters and a son; Jackie later became a schoolteacher.<br>
+<br>In 1947, led by its chief accountant, John Simmons, Lyons began to think about using a computer to carry out clerical work. From 1949 its own engineers built the Lyons electronic office (LEO), based on the Cambridge EDSAC (electronic delay storage automatic calculator). Caminer's office assessed the systems supporting the Lyons businesses and drew up specifications to convert them from manual to computer operation. He insisted that a system should be meticulously analysed through flow charts before a job was programmed; every program was checked and rechecked long before it reached the computer. &#145;David &hellip; saw immediately that the computer could do more than copy what was being done in offices by clerks&#146;, wrote one of his colleagues; &#145;With proper design, the computer could be used to support management activities and improve the way the company was run&#146;  (<span class="italic">The Guardian</span>, 11 July 2008). From November 1951 LEO ran a weekly costing of the materials that went into the bread and cakes at Lyons' twelve bakeries. It was the first computerized, regularly scheduled office job in the world. Gradually Lyons brought its payroll onto the computer, together with an ordering and distribution system for the teashops. Caminer and his team took note of everything from the multiple written orders submitted by teashop manageresses to the pre-dawn loading of the vans in the yard at Cadby Hall, and came up with a system that incorporated daily &#145;online&#146; updates by telephone.<br>
+<br>In 1954 Lyons established a computer manufacturing subsidiary, Leo Computers Ltd, to sell machines and expertise to other companies. Caminer led the systems side of the business, joining the board as head of marketing in 1959. The Leo team designed each system to meet the needs of its user. While this led to many satisfied customers, the level of available investment never kept pace with the costs. In 1963 Leo Computers was merged with the computer interests of English Electric and in 1968 absorbed into International Computers Ltd (ICL). In the following decade Caminer supervised the successful development and installation of the computer and communications network for the European Community.<br>
+<br>Caminer was one of the first to recognize that computers were not just tools for scientists, but part of a technological revolution that would change all our lives. On retiring in 1980 he was appointed OBE &#145;for services to British commercial interests in Luxembourg&#146;. In his retirement he co-edited <span class="italic">LEO: the Incredible Story of the World's First Business Computer</span> (1998) and organized a conference at London's Guildhall in 2001 to mark fifty years of business computing. In his address to the conference he observed that had the Leo pioneers' concern for error-free programming and the user's perspective survived into the modern era, many expensive failures might have been avoided. He received an honorary doctorate from Middlesex University in 2006.<br>
+<br>To his colleagues Caminer was a man driven by the demands of his work, but he led a very full life outside Cadby Hall. He was proud of his Jewish heritage; he retained a passionate belief in social justice, and chaired his local branch of the Labour Party. Having visited South Africa on business in the early 1960s, he became a staunch campaigner against apartheid and invited Desmond Tutu to visit Richmond. There he arranged for local schoolchildren to greet their visitor with what was then the African liberation anthem, &#145;Nkosi Sikelel&#145; iAfrika&#146;. Although his injury put an end to his active involvement in sport, he was a supporter of Chelsea Football Club and a member of the MCC, and also followed rugby and athletics. He and his wife loved travel, theatre, and music, especially opera. Poor health clouded his final years as his kidneys failed but, indomitable as ever, he submitted to twice-weekly dialysis and lobbied successfully for a new unit for kidney patients in his area. He died of end-stage kidney failure at his home, 9 Parkgate Gardens, East Sheen, Richmond upon Thames, on 19 June 2008, and was cremated at Golders Green on 24 June 2008. He was survived by his wife, Jackie, and their three children.<br>
+<br>Georgina Ferry </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. Caminer and others, <i>LEO</i><i>: the incredible story of the world's first business computer</i> (1998) &middot; G. Ferry, <i>A computer called LEO</i><i>: Lyons teashops and the world's first office computer</i> (2003) &middot; <em><i>Daily Telegraph</i></em> (25 June 2008) &middot; <em><i>The Independent</i></em> (26 June 2008) &middot; <em><i>The Times</i></em> (30 June 2008) &middot; <em><i>The Guardian</i></em> (11 July 2008) &middot; H. Caminer, &#145;David's life &#150; apart from the computers!&#146;, paper for Computer Conservation Society/ LEO Foundation conference &#145;The legacy of LEO in business applications: a tribute to David Caminer&#146;, 11 Sept 2008 &middot; private information (2012) &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> obituary photographs<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;356,457: probate, 2 Oct 2008, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Georgina Ferry, &#145;<span class="roman"><span class="headword">Caminer,  David Tresman</span>  (1915&#150;2008)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2012; online edn, Jan 2013 [http://www.oxforddnb.com/view/article/99795, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  David Tresman Caminer (1915&#150;2008): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/99795 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/99795/2012-01"> [Previous version of this biography available here: January 2012]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

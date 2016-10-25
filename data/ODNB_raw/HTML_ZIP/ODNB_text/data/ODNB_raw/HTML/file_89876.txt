@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 89876;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/89/89876-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/89/89876-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=89876#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Coxeter,  Harold Scott Macdonald <span class="st"> [Donald]</span></span>  (1907&#150;2003), <span class="occ">mathematician</span>, was born on 9 February 1907 at 1B Holland Park Road, Kensington, London, the son of Harold Samuel Coxeter, manufacturer of compressed gases and surgical instruments, and his wife, Lucy, <i>n&eacute;e</i> Gee, painter. Originally named Macdonald Scott Coxeter, he was always known as Donald.<br>
+<br>Coxeter was fascinated by the patterns of numbers from an early age. His mother noticed, when he was two or three, that he became entranced by the columns of numbers printed on the financial pages of the newspapers. This juvenile fascination was soon replaced by an interest in cones, triangles, and symmetrical geometric objects of all sorts. Yet it seemed, at first, that the young Coxeter's talents lay elsewhere. He became an accomplished pianist and, as a child, composed piano pieces, a string quartet, and, when he was twelve, an opera. He also created his own language, Amellaibian, a cross between Latin and French, and filled a 126-page notebook with information on the imaginary world where it was spoken. At St George's School, Harpenden (which he attended after King Alfred School, London), he harboured hopes of becoming a composer. But his appreciation of the beauties of symmetry turned him towards mathematics. Convalescing in the school sanatorium with chickenpox, he found himself lying next to John Flinders Petrie, son of the Egyptologist Sir William Matthew Flinders Petrie. The two began chatting about H. G. Wells's <span class="italic">Time Machine</span> and about why there were only five Platonic solids, and passed the time contemplating the possibility of other dimensions. A few years later Coxeter won a school prize for an essay on how to project geometric shapes into higher dimensions. Impressed with his son's talents, Coxeter's father took him to meet the philosopher Bertrand Russell, who concluded he was brilliant and put him in contact with the mathematician E. H. (Eric Harold) Neville. The latter, when he met the young prodigy, deemed his school inadequate, and suggested that he drop all subjects save mathematics and German (since the best mathematicians were German), and recommended him a private tutor in mathematics.<br>
+<br>In 1926 Coxeter won a scholarship to Trinity College, Cambridge, where he was one of only five students selected by Ludwig Wittgenstein to attend his philosophy of mathematics classes. After graduating with a first he took a doctorate under H. F. (Henry Frederick) Baker in 1931, winning the Smith's prize the same year. Other significant alumni of the Cambridge school of geometry founded by Baker included Patrick du Val, W. L. (William Leonard) Edge, Sir William Hodge, T. G. (Thomas Gerald) Room, J. G. (John Greenlees) Semple, and J. A. (John Arthur) Todd. In 1931 Coxeter was elected a fellow of Trinity College, Cambridge. In 1932&#150;3 he was a Rockefeller Foundation fellow at Princeton, and in 1934&#150;5 a Procter fellow there. On 20 August 1936, at the Holy Sepulchre Church, Cambridge, he married Hendrina Johanna (Rien) Brouwer (<i>d</i>. 1999), the 25-year-old daughter of Leonardus Gerrit Brouwer. They had one son, Edgar, and one daughter, Susan.<br>
+<br>In 1936 Coxeter took up a post as assistant professor at the University of Toronto, where he remained for the rest of his academic career. During the Second World War he was asked by the American government to work in Washington as a code-breaker. He accepted, but then backed out, partly because of his pacifist views and partly for aesthetic reasons: &#145;The work didn't really appeal to me,&#146; he explained, &#145;it was a different sort of mathematics&#146;  (<span class="italic">Globe and Mail</span>). At Toronto he became an associate professor in 1943, a full professor in 1948, and emeritus professor after his retirement in 1980. He was editor of the <span class="italic">Canadian Journal of Mathematics</span> from 1948 to 1957. He held numerous visiting professorships, and was president of the Canadian Mathematical Congress in 1965&#150;7 and of the International Mathematical Congress in 1974. His honours included nine honorary doctorates, election as FRS in 1950 (and the award of the society's Sylvester medal in 1997), and appointment as a companion of the order of Canada in 1997.<br>
+<br>Coxeter was creatively active to the end, publishing twelve books and more than 200 articles, several in collaboration with others. His first significant paper was &#145;The pure Archimedean polytopes in six and seven dimensions&#146; in 1928. In 2001, with Branko Gr&uuml;nbaum, he published &#145;Face-transitive polyhedra with rectangular faces and icosahedral symmetry&#146;. His last paper was finished in 2003. His publications included <span class="italic">Non-Euclidean Geometry</span> (1942), which ran to six editions by 1998, and (with William O. J. Moser) <span class="italic">Generators and Relations for Discrete Groups</span> (1957), which ran to four editions by 1980. He also published an <span class="italic">Introduction to Geometry</span> (1961 and 1969), and edited the eleventh (1939) to thirteenth (1987) editions of W. W. Rouse Ball's <span class="italic">Mathematical Recreations and Essays</span>. In all his work, no detail was omitted, and his treatments of a subject were canonical. For every geometric figure, its associated group and connections with other configurations were always given.<br>
+<br>In 1938 Coxeter co-authored a monograph, <span class="italic">The 59 Icosahedra</span>. The three stellated forms of the dodecahedron had long been known through Kepler (1619) and Poinsot (1809). Bruckner (1900) and Wheeler (1924) first described various stellations of the more complex icosahedron, but it was not until Coxeter's work that a full description of all fifty-nine stellated icosahedra was published. This study thus completed the description of the stellated forms of the Platonic solids. Another question of completion concerned the enumeration of the set of uniform polyhedra&#151;that is to say, polyhedra that have congruent vertices consisting of regular polygons, including the star forms. Coxeter, with J. C. P. (Jeffrey Charles Percy) Miller, discovered twelve such forms between 1942 and 1944, but it was not until 1954 that he, Miller, and Michael Longuet-Higgins wrote the monograph <span class="italic">Uniform Polyhedra</span>. In this beautifully crafted paper, with its exquisite illustrations, Coxeter conjectured that the full set of seventy-five uniform polyhedra there presented was complete, but he was not able to offer a proof. It was only with the advent of computers that, twenty-one years later, it was shown that they had indeed been correct.<br>
+<br>&#145;Coxeter groups&#146;, generated by reflection patterns, as in kaleidoscopes, played an important part in many areas of mathematics and physics. Coxeter's work on polyhedra and their symmetries, such as the tesselation of a sphere by triangles, helped the American engineer and architect Buckminster Fuller to develop geodesic domes in the late 1940s, and led Sir Harry Kroto and two scientists at Rice University, Houston, to the 1996 Nobel prize-winning discovery of the carbon-60 molecule, the Buckminsterfullerene, known popularly as the buckyball. The shape of a soccer ball, it is in fact a truncated icosahedron, obtained by taking slices at each of the twelve vertices of an icosahedron, which has twenty triangular faces and is one of the five Platonic solids. The result is a figure with twelve pentagonal and twenty hexagonal faces, sixty vertices, and ninety edges.<br>
+<br>Coxeter's interest in music, and its relationship with mathematics, remained with him throughout his life. In the preface to his book <span class="italic">Regular Complex Polytopes</span> (1974) he wrote:<blockquote>I have made an attempt to construct it like a Bruckner symphony, with crescendos and climaxes, little foretastes of pleasures to come, and abundant cross-references. The geometric, algebraic and group-theoretic aspects of the subject are interwoven like different sections of the orchestra.</blockquote>Coxeter was also interested in art. At the International Congress of Mathematicians in Amsterdam in 1954 he met the artist Maurits Escher, each having an enormous influence on the other, art and mathematics becoming one. Coxeter inspired the Dutchman's circle limit etchings, in which motifs become smaller towards a limiting circle. Some of Coxeter's conceptions also bore fruit in John Robinson's abstract sculptures; Robinson's <span class="italic">Firmament</span> (1997), built from mutually tangential spheres, was presented to Coxeter on his ninetieth birthday.<br>
+<br>Despite, or perhaps because of, his appreciation of the aesthetics of mathematics Coxeter never used a calculator or computer and wrote all his papers in pencil so that he could go back and correct them. He travelled to work by bus and could often be seen wandering around the university campus carrying a pineapple, which he used in his classes to illustrate natural symmetry. His students adored him, though they were sometimes surprised by his other-worldliness. When a female student announced that she would not be attending one of their regular meetings because she was about to give birth, he gave her a complex 50-page draft of a paper for her to look through if she &#145;had nothing else to do in the labour room&#146;  (<span class="italic">Globe and Mail</span>).<br>
+<br>Coxeter remained active to the end, both writing and attending conferences. After the death of his wife, Rien, in 1999 he was accompanied on his travels by his daughter, Susan. A gaunt, bird-like, ascetic-looking man, he attributed his longevity to his vegetarianism, standing on his head (even at the age of ninety) for fifteen minutes each morning, a daily exercise regime of fifty press-ups, a nightly cocktail of Kahlua, peach schnapps, and soya milk, and an abiding fascination with his subject. He lived latterly at 67 Roxborough Drive, Toronto, Canada. He died in Toronto on 31 March 2003, and was survived by his son and daughter.<br>
+<br>J. W. P. Hirschfeld </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Globe and Mail</em> [Toronto] (9 May 1996) &middot; <em>Daily Telegraph</em> (3 April 2003) &middot; <em>The Times</em> (14 April 2003); (18 April 2003); (7 May 2003) &middot; <em>The Independent</em> (15 April 2003) &middot; <em>The Guardian</em> (25 April 2003) &middot; &#145;H. S. M. Coxeter&#146;, <em>Notices of the American Mathematical Society</em>, 50 (2003), 1234&#150;40 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=89876&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2003) &middot; personal knowledge (2007) &middot; private information (2007) &middot; b. cert. &middot; m. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, 1948, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=89876&amp;istheme=&amp;target=RS')">RS</a> &middot; G. Argent Studio, photograph, 1958, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=89876&amp;istheme=&amp;target=RS')">RS</a> &middot; obituary photographs<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. W. P. Hirschfeld, &#145;<span class="roman"><span class="headword">Coxeter,  Harold Scott Macdonald [Donald]</span>  (1907&#150;2003)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2007; online edn, Oct 2008 [http://www.oxforddnb.com/view/article/89876, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Harold Scott Macdonald Coxeter (1907&#150;2003): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/89876 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/89876/2007-01"> [Previous version of this biography available here: January 2007]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

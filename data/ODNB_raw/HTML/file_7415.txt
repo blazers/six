@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7415;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7415-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7415-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7415#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Dee,  Arthur</span>  (1579&#150;1651), <span class="occ">physician and writer on alchemy</span>, was born on 13 July 1579 at Mortlake, Surrey, the eldest son of the mathematician and astrologer <script>writeSeealsoLink('../view/article/7418/', "John Dee (1527&#150;1609)")</script> and his second wife, Jane (1555&#150;1605), daughter of Bartholomew Fromonds or Fromond. From 1583 until 1589 he accompanied his father on his travels to Poland and Bohemia; his early initiation into the hermetic sciences and alchemical projection influenced the course of his life. In May 1592 he was placed under the tuition of Edward Grant and William Camden, successive headmasters at Westminster School, and then possibly studied at St Mary's Hall, Oxford, but without taking a degree.<br>
+<br>In June 1600 Dee went to Manchester with his father, who assumed the wardenship of Christ's College; Arthur Dee was granted the clerkship of the collegiate church in December. During his time in Manchester Dee began practising medicine. In 1602 he married Isabella (1583&#150;1634), daughter of Edward Prestwich, a Manchester JP. Several of their thirteen children (seven sons and six daughters) were baptized in Manchester. Shortly after his mother died of the plague in March 1605, his father retired to Mortlake, while Dee settled in London.<br>
+<br>At Manchester, Dee had apparently become acquainted with the mathematician Thomas Harriot, who in June 1602 gave him a manuscript by his father's pupil Benjamin Lock, comprising a commentary on John Dee's <span class="italic">Compound of Alchemy</span> (1591). In London he kept the company of a number of unorthodox medical practitioners, astrologers, and alchemists; among his acquaintances were John Woodall, Francis Anthony, Timothy Willis, and Richard Napier. He was well versed in medical astrology. Between April 1606 and October 1612 he was repeatedly summoned by the College of Physicians for advertising medicines and practising illicitly; in February 1614 he showed the censors his doctoral letters patent of 4 May 1609 from the University of Basel, attesting his linguistic proficiency in German, French, Hungarian, and Polish. By May 1615 he was physician to Queen Anne, James I's wife, having declined a post in July 1614 at Thomas Sutton's newly founded Charterhouse Hospital.<br>
+<br>Dee was appointed chief physician by royal recommendation to Tsar Michael Romanov, arriving at Moscow in the autumn of 1621. He received a generous salary, many gifts, and a large house from the tsar, who valued his skill, learning, and practical abilities. He translated for the tsar the notes from his father's &#145;angelic conversations&#146;, as <span class="italic">Divers Curious Narrations of John Dee</span>, anticipating by four years the execution of Mary, queen of Scots, and the Spanish armada's defeat. On leave in England in December 1626 he recruited, at the tsar's request, John Martin, a jeweller, for the silver chancery, and John Gilbert, chief engraver to the royal mint, as a mining expert and metallurgist, and he arranged for the Society of Apothecaries to supply the Russian court with regular consignments of medicines. Dee's mercantile activities were facilitated by his membership of the Mercers' Company (from 1605) and, with two sons-in-law, of the Muscovy Company. John Dee's characterization of his son Arthur to Camden in 1592 as &#145;of an exceding great and hauty mynd naturally, ready to revendge rashly&#146;  (BL, Cotton MS Julius C.v, art. 41) is borne out by a servant's testimony that, following a heated quarrel at a Moscow supper in 1633, &#145;Docr Dee did in a great rage take upp his knife from the table and with much furie and passion flung it outreight&#146;  (TNA: PRO, C 24/610/36, fols. 7&#150;8) at his son-in-law Francis Glover, who ducked in time.<br>
+<br>Arthur Dee's wife died at Moscow on 24 July 1634. A year later he left Russia to take up the appointment on 13 November 1635 of physician-extraordinary to Charles I. This was mediated by his friend Sir Theodore Mayerne. He still held this post in 1641.<br>
+<br>By his own testimony Dee devoted most of his Russian leisure time to alchemical literature, resulting in his compilation of alchemical writings, <span class="italic">Fasciculus chemicus, abstrusae hermeticae scientiae ingressum</span>, with the preface dated Moscow, March 1629. While on leave he obtained a pass, in June 1629, from England to France, presumably to negotiate the book's publication by Nicholas de la Vigne (Paris, 1631). The <span class="italic">Fasciculus chemicus</span> is unusual in that it consists of quotations selected from alchemical authors to form ten short chapters, arranged in the exact order of the operations required to produce the philosopher's stone. Each chapter is summarized by a &#145;Corollary&#146;, and twenty-one &#145;Observanda&#146; offer general advice at the end. Identification of the sources reveals that Dee would have needed direct access to only fifteen books and two or three manuscripts in order to compile his <i>opus</i>. The preface of another edition, dating from 1631, is addressed to the Rosicrucian fraternity. A presentation copy with an additional handwritten title-page displaying alchemical symbols, and inscribed to John Winthrop jun., the first governor of Connecticut, is also extant. Elias Ashmole, under the anagram James Hassolle, made a translation of Dee's work which was published in May 1650 by Richard Mynne as <span class="italic">Fasciculus chemicus, or, Chymical Collections</span>. A revised, unpublished edition of this work is entitled &#145;Arca arcanorum, abstrusae hermeticae scientiae&#146; (BL, Sloane MS 1876). Its preface (dated Moscow, 10 August 1634) contains a new dedication to the Bodleian Library (Dee was related to Thomas Bodley). A supplementary title-page depicts hand-coloured symbols, and there are fourteen completely new and informative &#145;Observanda&#146;.<br>
+<br>According to the &#145;Arca arcanorum&#146;, Dee had extracted 2 lb of &#145;prima materia&#146; from ore brought back to him in May 1618 by the Hungarian Johannes B&aacute;nfi Hunyades who performed chemical operations at Gresham College. Dee planned to travel to Hungary in 1646 with Hunyades as his operator, but Hunyades died at Amsterdam before he could join him. At about this time Dee moved to Norwich. John Aubrey, whose grandfather William was John Dee's cousin, relays a local man's remarks that Dee &#145;was a man of very pleasant conversation and had good practice in Norwich: a great acquaintance of Dr Browne's&#146;  (<span class="italic">Brief Lives</span>, 1.210). Sir Thomas Browne, a literary exponent of the occult philosophy followed by the Dees, wrote to Elias Ashmole on 25 January 1659 that Arthur Dee had &#145;seen [alchemical] projection made&#146;, and had confirmed &#145;with the highest asseverations &hellip; unto his death that hee had ocularly, undeceavably &amp; frequently beheld it in Bohemia&#146;  (<span class="italic">Elias Ashmole</span>, 2.755). Dee died at Norwich towards the end of September 1651 and was buried at St George Tombland's Church, near Norwich Cathedral. Somewhat overshadowed by his father, Arthur Dee emerges as a fine hermetic philosopher and alchemist, in the Rosicrucian tradition, whose writings have exercised considerable influence.<br>
+<br>John H. Appleby </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. H. Appleby, &#145;Arthur Dee and Johannes B&aacute;nfi Hunyades&#146;, <em>Ambix</em>, 24 (1977), 96&#150;109 &middot; J. H. Appleby, &#145;Some of Arthur Dee's associations before visiting Russia clarified, including two letters from Sir Theodore Mayerne&#146;, <em>Ambix</em>, 26 (1979), 1&#150;15 &middot; J. H. Appleby, &#145;Dr Arthur Dee: merchant and litigant&#146;, <em>Slavonic and East European Review</em>, 57 (1979), 32&#150;55 &middot; N. A. Figurovski, &#145;The alchemist and physician Arthur Dee&#146;, <em>Ambix</em>, 13 (1965&#150;6), 35&#150;51 &middot; G. M. Phipps, <i>Britons in 17th-century Russia</i><i>: a study in the origins of modernization</i> (1972) &middot; L. Abraham, introduction, in A. Dee, <i>Fasciculus chemicus, or, Chymical collections</i>, trans. E. Ashmole, new edn, ed. L. Abraham (1997) &middot; C. Wall, <i>A history of the Worshipful Society of Apothecaries of London</i>, ed. H. C. Cameron and E. A. Underwood (1963), 48, 296 &middot; <i>Elias Ashmole (1617&#150;1692)</i><i>: his autobiographical and historical notes</i>, ed. C. H. Josten, 5 vols. (1966 [i.e. 1967]), vols. 2, 4&#150;5 &middot; Suffolk RO, Ashe MSS, MS S1/1/77 &middot; TNA: PRO, Russian state papers, MSS SP 91/2 and 91/3 &middot; W. M. von Richter, <i>Geschichte der Medizin in Russland</i>, 2 (1815), 30&#150;46 &middot; R. Deacon, <i>John Dee</i> (1968) &middot; <i>Brief lives, chiefly of contemporaries, set down by John Aubrey, between the years 1669 and 1696</i>, ed. A. Clark, 1 (1898) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7415&amp;istheme=&amp;target=BL')">BL</a>, Cotton MS Julius C.v, art. 41 &middot; will, TNA: PRO, PROB 11/218, sig. 183 [proved 16 Oct 1651]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7415&amp;istheme=&amp;target=BL')">BL</a>, Sloane MSS 1876, 1881, 1902
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7415&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MSS Ashmole 204, 334
+   &middot;
+ Suffolk RO, Ipswich, Ashe MSS, MS S1/1/77<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> property and possessions: will, TNA: PRO, PROB 11/218, sig. 183<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John H. Appleby, &#145;<span class="roman"><span class="headword">Dee,  Arthur</span>  (1579&#150;1651)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/7415, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Arthur Dee (1579&#150;1651): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7415 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/7415/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

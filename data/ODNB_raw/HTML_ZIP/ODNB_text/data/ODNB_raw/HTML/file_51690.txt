@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51690;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51690-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51690-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51690#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Mendelssohn,  Kurt Alfred Georg</span>  (1906&#150;1980), <span class="occ">physicist</span>, was born on 7 January 1906 in Berlin, Germany, the only child of Ernst Moritz Mendelssohn, a clothing agent with distinguished Jewish ancestors, and his wife, Elizabeth Ruprecht. His father aroused his scientific interests, which he pursued from 1912 to 1925 at the Goethe School, Berlin. In 1925 he entered the University of Berlin where he graduated in physical sciences in 1927. He then began research on low temperature physics at the Physikalisch Chemische Institut, Berlin, under his cousin, Franz Simon, who was twelve years his senior and a leading expert on attaining very low temperatures through new techniques for the liquefaction of helium. Completing his doctorate in 1930, Mendelssohn became chief assistant to Simon and, when Simon moved in April 1931 to a chair at the Breslau Technische Hochschule, Mendelssohn followed him in June as a research associate.<br>
+<br>While at Berlin, Mendelssohn had demonstrated a hydrogen liquifier to Lindemann, professor of physics at Oxford, who wished to develop low temperature physics in the Clarendon Laboratory there. Lindemann soon had a hydrogen liquifier working at Oxford and in spring 1932 turned again to Mendelssohn, who was in charge of the Breslau laboratory while Simon was on leave abroad, for a helium liquifier which gave even lower temperatures than the hydrogen one. Keen to secure the services of Mendelssohn, who had spent several years under Simon designing and making various types of miniature helium liquifiers, Lindemann invited him to Oxford to install one. Mendelssohn went to Oxford in the Christmas vacation 1932&#150;3 and in early January 1933 became the first in Britain to produce liquid helium. He returned to Breslau but in April 1933 sought sanctuary from Nazi violence in Oxford where Lindemann soon secured funding for him from Imperial Chemical Industries (ICI). Impressed by Mendelssohn's achievement, Lindemann quickly brought to Oxford, with Mendelssohn's help, two of his Breslau colleagues (Simon and N. Kurti) to develop cryogenics.<br>
+<br>Having married Jutta Lina Charlotte Zarniko in 1932, Mendelssohn had a family and subsequently his parents to support in Oxford. Until the war he existed on grants provided by ICI and Sir Robert Mond. Although Mendelssohn had successfully launched cryogenics at Oxford and was the first of the Breslau cohort to settle there, he soon found himself number two to Simon. Inclined to be awkward and paranoiac, he became jealously resentful of Simon. To avoid conflict between them it was agreed that Mendelssohn's research group should concentrate on superconductivity (the mysterious disappearance of electrical resistance at very low temperatures). His most spectacular discovery (1938) was that any surface in contact with liquid helium develops a frictionless and flowing thin film which is analogous to superconductivity.<br>
+<br>Having become a naturalized British subject in March 1939, Mendelssohn's instrumental ingenuity was fruitfully deployed during the war in medical physics. At the request of Professor Macintosh he joined the department of anaesthetics, Oxford, where he took a leading role in devising an ether vaporizer which was widely used, but it led to a priority dispute with Macintosh, who ejected Mendelssohn in 1942. He then worked mainly in the Clarendon Laboratory on devices concerned with the medical effect of burns and on a semi-automatic recorder of blood pressure. Having subsisted during the war on grants from the university's higher studies fund and the Medical Research Council, he later resumed research on cryogenics supported by an ICI fellowship. Only in 1947 did he gain financial security when he became a university demonstrator. Elected FRS in 1951, he became reader in physics at Oxford in 1955 and a founding fellow of Wolfson College, Oxford, in 1966. His prowess as a researcher and as a driving supervisor of successful doctoral candidates (forty-nine all told) led to his election as a vice-president of the Physical Society (1957&#150;60) and the awards of the Hughes medal of the Royal Society of London (1967) and the Simon medal of the Institute of Physics (1968).<br>
+<br>In the 1960s Mendelssohn extended his interests. He promoted cryogenic engineering by founding, in 1960, and editing a new journal, <span class="italic">Cryogenics</span>, by editing <span class="italic">Progress in Cryogenics</span> (1959&#150;64), and by establishing, in 1969, and chairing the international cryogenic committee. Though he was a consultant to the Atomic Energy Research Establishment, Harwell, from 1962, he rejoiced more in visiting and advising scientists in China, India, Japan, and Ghana. From 1943 to about 1960 he learned how to popularize science as a teacher in adult education. His vivid fluency led to broadcast talks, much journalism, and several books. After <span class="italic">What is Atomic Energy?</span> (1946) there was a lull until <span class="italic">Cryophysics</span> (1960) and <span class="italic">The Quest for Absolute Zero</span> (1966) which was translated into thirteen languages. He took an optimistic view of the cultural revolution in his <span class="italic">In China now</span> (1969). <span class="italic">The World of Walter Nernst</span> (1973) delineated the rise and fall of German science. <span class="italic">The Riddle of the Pyramids</span> (1974) advanced novel ideas about their construction and uses. <span class="italic">Science and Western Domination</span> (1976) explained why Europe developed modern science and technology.<br>
+<br>Mendelssohn was a dedicated and hard worker: he left his own wedding celebrations after lunch to finish an experiment before leaving later for his honeymoon. He was a gifted if prickly researcher who was determined to outwit nature and his competitors. Though he helped to make the Clarendon Laboratory internationally famous for low temperature physics, he was not always happy there and on several occasions between 1935 and 1958 tried to leave. He loved travel, oriental art, and photography. Happily married and proud of his four daughters and a son, Mendelssohn retired in 1973 only to be afflicted about 1976 by Parkinson's disease, from which he died on 18 September 1980 in Oxford, where he was buried on 24 September 1980. He was survived by his wife.<br>
+<br>Jack Morrell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. Shoenberg, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51690&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 29 (1983), 361&#150;98 &middot; J. B. Morrell, &#145;Research in physics at the Clarendon Laboratory, Oxford, 1919&#150;1939&#146;, <em>Historical Studies in the Physical and Biological Sciences</em>, 22 (1991&#150;2), 263&#150;307 &middot; Bodl. Oxf., Mendelssohn MSS &middot; D. F. Brewer, &#145;Mendelssohn&#146;, <em>Physics Bulletin</em>, 32 (1981), 115&#150;16 &middot; private information (2004) &middot; <em>The Times</em> (19 Sept 1980) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51690&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1980)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51690&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. and papers; Society for the Protection of Science and Learning and Home Office files&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51690&amp;istheme=&amp;target=Nuffield%20Oxf.')">Nuffield Oxf.</a>, corresp. with Lord Cherwell<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, 1933&#150;7, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51690&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a> &middot; E. Frank, photograph, <i>c.</i>1952, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51690&amp;istheme=&amp;target=RS')">RS</a> &middot; Ramsey and Muspratt, photograph, 1975, repro. in Shoenberg, <i>Memoirs FRS</i> &middot; photograph, repro. in Shoenberg, <i>Memoirs FRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;87,621: probate, 3 Dec 1980, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jack Morrell, &#145;<span class="roman"><span class="headword">Mendelssohn,  Kurt Alfred Georg</span>  (1906&#150;1980)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51690, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Kurt Alfred Georg Mendelssohn (1906&#150;1980): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51690 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

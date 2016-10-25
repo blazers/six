@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22828;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22828-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22828-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22828#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Probert,  William</span>  (1790&#150;1870), <span class="occ">Unitarian minister</span>, was born on 11 August 1790 at Painscastle, Radnorshire, where his parents farmed a small freehold. He was brought up by two bachelor uncles who intended that he take orders in the Church of England, but he became a Wesleyan Methodist, serving as a local preacher in Bolton, Leeds, and Liverpool, and in Staffordshire. In 1814 he married Margaret Carr (1790/91&#150;1866) of Broxton, Cheshire, with whom he had six children.<br>
+<br>In 1815, while stationed at Alnwick in Northumberland, through the influence of William Turner (1761&#150;1859), minister at Newcastle, Probert adopted Unitarian views. He was appointed in 1821 to the Unitarian chapel at Walmsley, near Bolton, Lancashire. Probert found the place encumbered with debt and the people disheartened and scattered. He succeeded in gathering around him a loyal congregation, to which he ministered for nearly fifty years; Walmsley Chapel was commonly known in the district as &#145;old Probert's chapel&#146;. He often went on foot to conduct Sunday evening services at other chapels in the neighbourhood.<br>
+<br>Probert was a man with a good sense of humour and eccentric habits. He noted that, for reasons of conscience, he had sacrificed the prospect of attending Oxford and proudly avowed that he was self-educated. His knowledge of Hebrew was extensive: he published a favourably noticed grammar (1832), a lexicon (1850), and <span class="italic">The Laws of Hebrew Poetry</span> (1860). But his greatest interest and mastery lay in the Welsh language. He published <span class="italic">The Godolin, being Translations from the Welsh</span> (1820) and <span class="italic">The Ancient Laws of Cambria</span> (1823), and his historical essay on Flintshire castles was awarded a medal at the Denbigh Eisteddfod in 1828. He also wrote a history of Walmsley Chapel, which appeared in the <span class="italic">Christian Reformer</span> in 1834. He died at Dimple, Turton, on 1 April 1870 and was buried on 7 April in the graveyard attached to his chapel.<br>
+<br>T. B. Johnstone<span class="italic">, rev. </span> R. K. Webb </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Worthington, <em>The Inquirer</em> (9 April 1870) &middot; <em>Bolton Evening News</em> (7 April 1870) [partly incorporating <i>The Inquirer</i> article] &middot; obituary index, Harris Man. Oxf. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22828&amp;istheme=&amp;target=DWB')"><i>DWB</i></a> &middot; d. cert.<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;450: resworn probate, Aug 1872, <i>CGPLA Eng. &amp; Wales</i> (1870)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">T. B. Johnstone, &#145;<span class="roman"><span class="headword">Probert,  William</span>  (1790&#150;1870)</span>&#146;, rev. R. K. Webb, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/22828, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Probert (1790&#150;1870): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22828 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

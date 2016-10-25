@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1227;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1227-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1227-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1227#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=01227&amp;orientation=p')"><img border="0" alt="  William Ballantine (1812&#150;1887), by unknown photographer" onmouseover="status='  William Ballantine (1812&#150;1887), by unknown photographer'" src="/images/article-imgs/1/01227_1_200px.jpg"></a><span class="imagecaption"><b>  William Ballantine (1812&#150;1887)</b>, by unknown photographer</span>
+</div>
+<div class="para">
+<span class="headword">Ballantine,  William</span>  (1812&#150;1887), <span class="occ">serjeant-at-law</span>, was born in Howland Street, Tottenham Court Road, London, on 3 January 1812, the eldest son of <a name="cosubject_62451"></a><span class="headword">William Ballantine</span>  (1778/9&#150;1852). His father was called to the bar from the Inner Temple on 5 February 1813, was magistrate of the Thames police, had control of the river police force from 1821 to 1848, and died aged seventy-three at 89 Cadogan Place, Chelsea, London, on 14 December 1852.<br>
+<br>Ballantine was educated at St Paul's School, London, and at Ashburnham House, Blackheath. He was admitted to the Inner Temple on 28 May 1829, and was called to the bar on 6 June 1834, and occupied rooms in Inner Temple Lane. He joined the Middlesex sessions, where his father occasionally presided, and there he made the valuable acquaintance of John Huddleston. He subsequently joined the central criminal court, and for convenience chose the home circuit. As a young man Ballantine was an assiduous haunter of the old literary taverns in Covent Garden, and he later recorded a number of interesting reminiscences of literary figures from Harrison Ainsworth to Dickens and Trollope. On 4 December 1841 he married Eliza, daughter of Henry Gyles, of London. His first notable brief was in May 1843, when he was sole defence counsel for Giuseppe Azzopardi, a Maltese sailor tried and sentenced to death at the central criminal court under the <span class="roman">Murders Abroad Act</span> for the murder of a Dutch woman in Smyrna. A murder trial at Chelmsford assizes in 1847 was another of many in which his client's life was involved, and the trial gave Ballantine his &#145;first lesson in the art of silent cross-examination&#146;.<br>
+<br>Ballantine was engaged in a suit in the House of Lords in 1848 to annul the marriage of an heiress, Esther Field, on the grounds of coercion and fraud. Sir Fitzroy Kelly, Sir John Bayley, and other distinguished counsel were in favour of the bill. Ballantine alone opposed it, but his cross-examination was so able and searching that the earl of Devon, who was the chairman of the court, declined to move the further progress of the bill.<br>
+<br>On 3 November 1856 Ballantine received the coif of a serjeant-at-law, but he had to wait until 1863 to obtain from Lord Westbury his patent of precedence, which was required to place serjeants on the same level as queen's counsel. In 1863 he was engaged in the Woolley arson case, and in the following year he received through the marchese d'Azeglio the thanks of the Sardinian government for his exertions on behalf of Pellizzioni, a Sardinian subject. During 1867, the last year in which the House of Commons enjoyed jurisdiction in the case of contested elections, he practised before parliamentary committees in work of this kind. In 1868 he lost an action in which he defended the <span class="italic">Daily Telegraph</span> on a charge of libel, against his frequent rival and opponent, Serjeant John Humffreys Parry. He was, however, specially appointed by the House of Commons in 1869 to prosecute the mayor of Cork for eulogizing the attempt of O'Farrell to assassinate the duke of Edinburgh (the action was subsequently dropped), and he was no less distinguished by the tact which he displayed in the Mordaunt divorce case of 1870, when the prince of Wales was subpoenaed in the court.<br>
+<br>The three forensic performances with which Ballantine's name is mainly associated are his prosecution with Sir Robert Collier, the solicitor-general, of Franz M&uuml;ller for the murder of Mr Briggs in 1864, in which the crown secured a conviction despite the brilliant defence of Serjeant Parry; his advocacy on behalf of the Tichborne claimant in his ejectment action in 1871; and his defence of Malhar Rao, the Maharaja Gaikwar of Baroda, arraigned for the crime of attempting to poison the British resident. The result in this case, which was tried at Baroda in February 1875, was an acquittal, but the British and native commissioners were divided as to the guilt of the Gaikwar, who was deposed on the grounds of incapacity and misconduct. Ballantine had extricated himself with skill from his position in the Tichborne case before matters became utterly desperate for his client, and in the trial of the Gaikwar his cross-examination of Colonel Robert Phayre was considered a masterpiece. His honorarium of &pound;10,000 was among the largest paid to counsel at that time.<br>
+<br>Ballantine was made an honorary bencher of the Inner Temple on 22 November 1878, and retired from active work as an advocate some three years later. <span class="italic">Some Experiences of a Barrister's Life</span>, which he published in 1882, was an amusing miscellany of gossip and reminiscence, literary and legal, which sold very well and remains of value, especially to literary historians. In November 1882 Ballantine went to America hoping&#151;as it transpired wrongly&#151;to make money by public readings; he recorded his experiences in <span class="italic">The Old World and the New</span> (1884). Ballantine died at Margate on 9 January 1887. His son, (William Henry) Walter Ballantine (1847&#150;1911), was Liberal MP for Coventry from 1887 to 1895.<br>
+<br>Ballantine moved easily in the hinterland between legal and theatrical society. He understood the criminal mind, and much of his success flowed from this. He was generally credited with being the original of Chaffanbrass in Anthony Trollope's <span class="italic">Orley Farm</span>. According to the <span class="italic">Law Times</span>, &#145;he died very poor indeed&#146; and &#145;left behind him scarcely any lesson, even in his own poor biography, which the rising generation of lawyers could profitably learn&#146;  (<span class="italic">Law Times</span>, 15 Jan 1887).<br>
+<br>Thomas Seccombe<span class="italic">, rev. </span> H. C. G. Matthew </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1227&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a> &middot; <i>Men of the time</i> (1887) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1227&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 39 (1853), 101 &middot; <em>The Times</em> (10 Jan 1887) &middot; <em>Law Times</em> (15 Jan 1887) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1227&amp;istheme=&amp;target=ILN')"><i>ILN</i></a> (22 Jan 1887) &middot; private information (2009) [R. Pennell]<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Faustin, caricature, chromolithograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1227&amp;istheme=&amp;target=NPG')">NPG</a> &middot; caricature, chromolithograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1227&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>VF</i> (5 March 1870) &middot; photographs, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1227&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; portrait, repro. in W. Ballantine, <i>The old world and the new</i> (1884)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &#145;very poor indeed&#146;: <i>Law Times</i> (15 Jan 1887) &middot; <br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Thomas Seccombe, &#145;<span class="roman"><span class="headword">Ballantine,  William</span>  (1812&#150;1887)</span>&#146;, rev. H. C. G. Matthew, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2009 [http://www.oxforddnb.com/view/article/1227, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Ballantine (1812&#150;1887): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1227 
+                <br />
+
+                
+
+ William Ballantine (1778/9&#150;1852): doi:10.1093/ref:odnb/62451<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1227/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

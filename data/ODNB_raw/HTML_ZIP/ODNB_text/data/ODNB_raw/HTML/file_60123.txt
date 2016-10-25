@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 60123;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/60/60123-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/60/60123-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=60123#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Livingston,  Thomas</span>  (1390/91&#150;1460), <span class="occ">titular bishop of Dunkeld and diplomat</span>, was the illegitimate son of (almost certainly) a member of the baronial family of Livingston of Callendar in Stirlingshire, possibly Sir John Livingston (<i>d</i>. 1402). He was among the first graduates of St Andrews University (MA, 1415) and subsequently taught in the arts faculty there. Having become a Cistercian monk, he was elected abbot of Newbattle before 10 June 1422, but his claim was pre-empted at the papal court by a rival. He then went to Cologne University, matriculating in 1423 to pursue the theological studies on which he had already embarked. At Cologne he probably met Nikolaus von Kues (Cusanus), who matriculated there in 1425, the year of Livingston's inception as master of theology. On 28 July 1430 Livingston, still a monk of Newbattle and now a priest, sought papal dispensation to hold abbatial office despite his defect of birth. He was abbot of Dundrennan by 14 November 1432, when he was incorporated at the Council of Basel. Thus began an active career in the council, to which Livingston remained committed until its dissolution in 1449. Much of his early activity concerned Scottish affairs. His advice contributed to James I's decision in the summer of 1433 to send representatives to Basel, and he was part of the Scottish delegation whose other members were incorporated on 8 February 1434. When the king's ecclesiastical policies were vehemently attacked by William Croyser, archdeacon of Teviotdale, as spokesman for Pope Eugenius IV, Livingston was one of James's principal defenders. In the spring of 1436 he helped to negotiate a partial resolution of the conflict, followed by the pope's decision in July to send a legate to Scotland.<br>
+<br>Livingston, however, also participated in the council's wider concerns, above all the issue of whether supreme authority within the church derived from the council or from the pope. At the most critical stage in conciliar relations with Eugenius&#151;culminating in the pope's deposition&#151;he emerged as a figure of real prominence at Basel. He seems to have been absent, perhaps in Scotland, for six months or so after September 1437 (maybe in response to the murder of James I early that year); but from the spring of 1438 he was fully involved in events in Basel and, elsewhere, in defending the council's proceedings. On 18 June 1439, with the archdeacon of Metz, Livingston delivered the five-hour report on the charges against Eugenius which preceded his deposition a week later. Livingston was one of the council's ambassadors at the imperial diet in Mainz in August and spoke in defence of the deposition. In the autumn he was among the electors appointed by the council to choose a new pope and a member of the embassy to invite Amadeus, duke of Savoy, to accept election as Felix V. The year 1440 saw Livingston actively promoting Felix's claims at episcopal synods in Bourges and in Cologne. His reward for these efforts was provision by Felix V, on 29 November 1440, to the see of Dunkeld. Though he never had effective possession as bishop, this gave Livingston a foothold in the Scottish church at a time when, during the minority of James II, his family played a leading if controversial part in a political situation in which conflict over papal allegiance was a significant element. The conciliar cause was essentially lost by the spring of 1443, but the death of Eugenius IV in February 1447 rekindled hopes. This was the context of Livingston's legatine mission to Scotland that spring on Felix's behalf, armed with powers to effect a reconciliation which (the event proved) had to await the anti-pope's resignation in 1449.<br>
+<br>Meanwhile Livingston continued his activity in Basel and, more importantly, elsewhere on behalf of the council and of Felix. He was a member of the conciliar delegation at the imperial diet in Frankfurt am Main in the summer of 1442. In February 1446 he was one of two Basel representatives in Vienna, vainly urging Emperor Friedrich III to summon the council of the German church proposed eight months before. When the healing of the schism was at last in sight, Livingston took part in meetings for that purpose in Lyons between August and December 1447.<br>
+<br>For some years after the council ended Livingston worked closely with Nikolaus von Kues, now a cardinal. He accompanied Kues on his important mission to promote church reform in Germany and the Netherlands between January 1451 and April 1452. Monastic renewal, in which Livingston had already been concerned at Basel, had a substantial place in this mission. By the mid-1450s he had returned to Scotland. Still &#145;bishop in the universal church&#146; (a term of art indicating that he was a bishop without a see or diocese) and confessor and counsellor to James II, he had no episcopal income and depended on provision, sometimes contested, to various benefices, the last being the abbacy of Coupar Angus <i>in commendam</i>. He died in the summer of 1460, blind and in his seventieth year.<br>
+<br>Livingston, though much of his career lay outside Scotland, was clearly one of the outstanding Scottish churchmen of his generation. His sermons and other addresses, preserved in a dozen manuscripts, employ a pervasively scriptural rhetoric which is more heavily indebted to the <span class="roman">Old Testament</span> prophets than to the books of the <span class="roman">New Testament</span>, other than the <span class="roman">Apocalypse</span>. What is expounded is not so much a closely argued ecclesiology as a prophetic vision of the church beset by its enemies&#151;and above all by the heretical enemy within. At the same time this vision is inseparable from a theology of the church in which &#145;unfailing authority to teach&#146; (<i>indefectibile magisterium</i>) is ascribed to a general council representing the whole body of the faithful. The council's authority is, however, judicial as well as doctrinal, and its sentence binds every member of the church, including the pope. This conciliarist doctrine contributed to a tradition of considerable importance for later Scottish thinking, a point exemplified in the work of John Ireland and John Mair.<br>
+<br>J. H. Burns </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. Shaw, &#145;Thomas Livingston, a conciliarist&#146;, <em>Records of the Scottish Church History Society</em>, 12 (1954&#150;6), 120&#150;55 &middot; J. H. Burns, <i>Scottish churchmen and the Council of Basle</i> (1962) &middot; [J. Haldenston], <i>Copiale prioratus Sanctiandree</i><i>: the letter-book of James Haldenstone, prior of St Andrews, 1418&#150;1443</i>, ed. J. H. Baxter, St Andrews University Publications, 31 (1930) &middot; J. Haller, G. Beckmann, R. Wackernagel, G. Coggiola, and H. Hesse, eds., <i>Concilium Basiliense</i><i>: Studien und Quellen zur Geschichte des Concils von Basel</i>, 8 vols. in 7 (Basel, 1896&#150;1936) &middot; J. W. Stieber, <i>Pope Eugenius IV, the Council of Basel, and the secular and ecclesiastical authorities in the empire</i> (1978) &middot; J. H. Baxter, &#145;Four &#147;new&#148; mediaeval Scottish authors&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60123&amp;istheme=&amp;target=SHR')"><i>SHR</i></a>, 25 (1927&#150;8), 90&#150;97 &middot; R. Nicholson, <i>Scotland</i><i>: the later middle ages</i> (1974), vol. 2 of <i>The Edinburgh history of Scotland</i>, ed. G. Donaldson  (1965&#150;75) &middot; A. I. Dunlop, <i>The life and times of James Kennedy, bishop of St Andrews</i>, St Andrews University Publications, 46 (1950) &middot; E. R. Lindsay, A. I. Dunlop, and others, eds., <i>Calendar of Scottish supplications to Rome</i>, 1&#150;2, Scottish History Society, 3rd ser., 23, 48 (1934&#150;56); 3, Scottish History Society, 4th ser., 7 (1970); 4 (1983) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60123&amp;istheme=&amp;target=CEPR%20letters')"><i>CEPR letters</i></a>, vols. 7, 9&#150;11 &middot; <i>Deutsche Reichstagsakten unter K&ouml;nig Albrecht II</i>, 14, ed. G. Beckmann (G&ouml;ttingen, 1914) &middot; <i>Deutsche Reichstagsakten unter Kaiser Friedrich III</i>, 15&#150;16, ed. H. Herre (G&ouml;ttingen, 1914&#150;28) &middot; E. Birk and R. Beer, eds., <i>Monumenta conciliorum generalium seculi decimi quinti</i>, 2&#150;3 (1873&#150;96)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>&Ouml;sterreichische Nationalbibliothek, Vienna, Cod. lat. Vind. 5116, fols. 127&#150;31
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60123&amp;istheme=&amp;target=Balliol%20Oxf.')">Balliol Oxf.</a>, MS 164, fols. 172&#150;80
+   &middot;
+ Biblioteca Apostolica Vaticana, Vatican City, MS lat. 4191, fols 17&#150;22
+   &middot;
+ Biblioth&egrave;que Nationale, Paris, MS Lat. 1499, fols. 141 ff.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60123&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Laud misc. 96, fols. 65&#150;74, 85&#150;91, 157&#150;62<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. H. Burns, &#145;<span class="roman"><span class="headword">Livingston,  Thomas</span>  (1390/91&#150;1460)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/60123, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Livingston (1390/91&#150;1460): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/60123 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

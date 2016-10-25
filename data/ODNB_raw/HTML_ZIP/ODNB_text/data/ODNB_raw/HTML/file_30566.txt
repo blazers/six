@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30566;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30566-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30566-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30566#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ball, Sir  Robert Stawell</span>  (1840&#150;1913), <span class="occ">astronomer</span>, was born on 1 July 1840 at 3 Granby Row, Dublin, the second of the seven children of <script>writeSeealsoLink('../view/article/1222/', "Robert Ball (1802&#150;1857)")</script>, a civil servant who was honorary secretary of the Dublin Royal Zoological Society, and his wife, Amelia Gresley Ball, <i>n&eacute;e</i> Hellicar (<i>d</i>. 1895). He received his early education at Dr John Lardner Burke's School in Dublin and then at Dr Brindley's school in Tarvin, near Chester, where he excelled in mathematics and science. Following the death of his father in 1857, he attended, first as a sizar and then as a scholar, Trinity College, Dublin, where physical concepts were being treated by methods of mathematical analysis that, owing their origin to the work of mathematicians in continental Europe, were relatively new to Britain and Ireland. As a young man Ball briefly met Sir William Rowan Hamilton (1805&#150;1865), his famous predecessor as royal astronomer, who had spent the greater part of his life working in isolation in Dunsink Observatory.<br>
+<br>Although a promising undergraduate student, Ball failed to gain a fellowship in Trinity College, Dublin. When the third earl of Rosse (1800&#150;1867), at Birr Castle, sought a qualified tutor for his children (one of them, Charles A. Parsons, was later the inventor of the steam turbine), Ball, nominated by Johnstone Stoney, was accepted on the basis that he would also use the giant telescopes built there in the 1840s. He noted: &#145;I sometimes followed Herschel's example and remained observing from dusk to dawn&#146;  (<span class="italic">Reminiscences</span>, 68). After only two years at Birr, in 1867 Ball was appointed professor of applied mathematics and mechanics in the newly founded Royal College of Science in Dublin. He developed vivid physical demonstrations and laid the foundation of a successful style of lecturing that was to earn him fame in later years.<br>
+<br>Seven years later, in 1874, Franz F. E. Br&uuml;nnow resigned as royal astronomer of Ireland and Andrews' professor of astronomy in the University of Dublin (Trinity College), and Ball submitted an elaborate and successful seven-page printed application for the vacant post. After his appointment he was able, with the benefit of a succession of gifted assistants&#151;R. Copeland, C. E. Burton, J. L. E. Dreyer, and A. A. Rambaut&#151;to build successfully on the work of his predecessor and, over a period of eighteen years, to achieve a high standard of work at Dunsink Observatory. He used the visual micrometer on the 12 inch Grubb refractor for determining the annual parallax of stars, with limited success; he used the Pistor and Martin transit circle for meridian observations, including the setting-up of a time service for Dublin in conjunction with the Dublin Port and Docks Board; and he continued his own speciality in mathematics&#151;<span class="italic">The Theory of Screws</span>&#151;dealing with the kinematics of solid bodies and their general motion in three dimensions. This last work earned him the Cunningham medal of the Royal Irish Academy in 1879. Towards the end of his time at Dunsink he negotiated the installation of Isaac Roberts's gift of a 15 inch reflector, an instrument that was eventually used successfully by E. T. Whittaker and H. C. Plummer. He was friend and adviser to the Dublin telescope maker Sir Howard Grubb, his near contemporary, and was on the committee that supervised the construction of Grubb's 27 inch Vienna refractor of 1882. Besides these varied activities, Ball gradually established himself as a first-class popular lecturer and, in due course, as a widely known author of popular books on astronomy. He travelled extensively to fulfil lecture commissions in Britain and Ireland, and secured busy lecture tour engagements in the United States in 1884, 1887, and 1901&#150;2. Between 28 October and 28 November 1901, at the age of sixty-one, he gave twenty-four lectures in the Boston area before going on to other cities. Wherever he travelled he benefited from his experiences, enhancing the attractive diversions he employed in his lectures. His most popular books went through many editions; in particular, <span class="italic">The Story of the Heavens</span> (1885) had a new edition as late as 1950 and continued to provide inspiration to keen enquirers into astronomy. From 1883 Ball suffered increasingly from defects in his right eye, which was eventually removed in 1897. He contributed several times to the Christmas lectures of the Royal Institution, and he was scientific adviser to the board of Irish lights (lighthouses and so on) from 1882 until his death in 1913.<br>
+<br>In 1892 Ball was appointed Lowndean professor of astronomy at Cambridge and director of the university observatory, where, under his initiative, Grubb was employed in the construction of an unconventional <i>coud&eacute;</i> refractor&#151;the Sheepshanks telescope. It was successfully used for determining the parallaxes of stars photographically, including work by H. N. Russell in his epochal discovery of the &#145;Hertzsprung&#150;Russell diagram&#146;. At Cambridge, as well as continuing his mathematical work and his popularization of astronomy, it is related that Ball was among those who warmly welcomed Ernest Rutherford when he first arrived from New Zealand.<br>
+<br>As a mathematician Ball was competent, prolific, and capable of utilizing new ideas, but he might not quite qualify as &#145;one of the two or three greatest British mathematicians of his generation&#146;, so attributed by E. T. Whittaker  (<span class="italic">Reminiscences</span>, 396). His many papers and his books on <span class="italic">The Theory of Screws</span> (1876, 1900, and a German account of 1889) were highly regarded as a contribution to a branch of mathematics that seems almost to have been peculiarly his own, since he never had a co-author in this prolific work. As a practical astronomer, Ball well understood physical principles, but his opinion sometimes betrayed lack of long-term vision. With astronomy becoming based on astrophysical notions, his intuition was good but limited by the concepts of the nineteenth century. As the source of the sun's heat, and recognizing the limitations of chemical fuels, he accepted contraction due to gravity, now plainly seen to be inadequate. On the other hand, for the origin of the ice ages he favoured an explanation in terms of the variation of the orbital elements of the earth, the Milankovich hypothesis. This variation has been recognized, since the 1980s, by examination of deep ice cores, to have a definite partial influence on periodic ice ages.<br>
+<br>In his later years, requiring substantial fees for his lectures, which made him relatively wealthy, and working generally from a prepared script, Ball was able to combine effectively his Irish gifts as raconteur and his sound physical insight and mathematical competence. On reading his popular writings of today, such as <span class="italic">The Story of the Heavens</span>, and judging them by hindsight, his belief in scientific progress becomes evident, and he shows concern for possible exhaustion of the earth's resources. However, his writings were not prophetic: he limited himself to conventional mechanical and chemical concepts; he refers to chemical elements, but not to atoms. Also, in a penetrating discussion of the formation of the tails of comets, foreshadowing modern ideas quite well, he invokes the possibility of electrical repulsion, but he does not mention radiation pressure, which was already understood from Maxwell's theories of electromagnetism, and was indeed mentioned by Ball himself in a letter to G. F. Fitzgerald in October 1881.<br>
+<br>Ball combined kindness and geniality with authority as a scientist in a wide range of subjects to a most unusual degree. With his wife, Frances Elizabeth Steele, whom he married in 1868, he had a family of four sons and two daughters. His many popular books, more than fifteen titles, have been enjoyed by several generations of enthusiastic readers and his fame in Ireland remains considerable more than 100 years after he left Dublin for Cambridge.<br>
+<br>Ball was made a fellow of the Royal Society of London in 1873, served as royal astronomer of Ireland from 1874 to 1892, and was knighted in 1886. He was president of the Zoological Society of Ireland (1890&#150;92), the Royal Astronomical Society (1897&#150;9), the Mathematical Association of London (1899&#150;1900), and Section A (Mathematics) of the British Association for the Advancement of Science (1886&#150;7). He died at his home by the observatory on 25 November 1913 and was buried on 29 November in St Giles's churchyard in Cambridge.<br>
+<br>P. A. Wayman </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Reminiscences and letters of Sir Robert Ball</i>, ed. W. V. Ball (1915) &middot; P. A. Wayman, <i>Dunsink observatory, 1785&#150;1985</i><i>: a bicentennial history</i> (1987) &middot; C. Mollan, W. Davis, and B. Finucane, eds., <i>Some people and places in Irish science and technology</i> (1985), 56 &middot; F. W. D. and J. T. B., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 91A (1915), xvii&#150;xxi, esp. xx &middot; E. B. K. [E. B. Knobel], <em>Monthly Notices of the Royal Astronomical Society</em>, 75 (1914&#150;15), 230&#150;36 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=Cambs.%20AS')">Cambs. AS</a>, family corresp. and papers, lecture notes, journal
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=CUL')">CUL</a>, lecture notes and notebook
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>, corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=TCD')">TCD</a>, letters
+   &middot;
+ U. Cam., Institute of Astronomy Library, corresp. and papers&nbsp;|&nbsp; Cambridge Observatory, MS items
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes
+   &middot;
+ Dunsink Observatory, Dublin, book collection
+   &middot;
+ Dunsink Observatory, Dublin, pamphlets [reprints]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=RAS')">RAS</a>, letters to Royal Astronomical Society<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. Lehmann, chalk drawing, 1894, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=BM')">BM</a> &middot; W. &amp; D. Downey, photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in W. Downey and D. Downey, <i>The cabinet portrait gallery</i>, 2 (1891) &middot; H. Furnies, pen-and-ink drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=NPG')">NPG</a> &middot; S. Purser, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=TCD')">TCD</a> &middot; Spy [L. Ward], caricature, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30566&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>VF</i> (13 April 1905) &middot; photograph, Dunsink Observatory, Dublin<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;12,045 13<i>s</i>. 1<i>d</i>.: probate, 23 Dec 1913, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">P. A. Wayman, &#145;<span class="roman"><span class="headword">Ball, Sir  Robert Stawell</span>  (1840&#150;1913)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/30566, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Robert Stawell Ball (1840&#150;1913): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30566 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

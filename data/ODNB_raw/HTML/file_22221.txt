@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22221;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22221-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22221-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22221#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Piddington,  Henry</span>  (1797&#150;1858), <span class="occ">meteorologist</span>, was born on 7 January 1797 at Lewes, in the maritime county of Sussex, the third of the eight children of James John Piddington (1757&#150;1837), an innkeeper, and his wife, Elizabeth Ann (1762&#150;1835). There was a further child, John (<i>b</i>. 1801), who died in infancy. In 1802 or 1803 the family moved to Uckfield, a busy post town on the main London&#150;Brighton road, frequented by sailors passing through <i>en route</i> between capital and coast. Here James Piddington took over as innkeeper of the Maidenhead Hotel, which also acted as the corn exchange and posting house. All this must have given his young children a flavour of life at sea, for Henry Piddington soon gave up a life on land and joined the mercantile marine.<br>
+<br>Of this time (possibly in the service of the East India Company) when, according to his memoirs, he sailed and commanded a ship, little is known. It is certain, though, that from 1824 he was living in Bengal and that by 1831 he had settled in Calcutta, the place where his mariner ancestors had lived until the middle of the eighteenth century. It is here, working first as a tropical agriculturist and sugar refiner and serving as foreign secretary with the Agricultural and Horticultural Society of India until 1837, that the life for which he is most remembered and celebrated really began. Piddington was appointed curator of the newly founded Museum of Economic Geology in Calcutta in 1844, a post he held for over ten years. He also served as curator of the geological and mineralogical departments. He was sub-secretary to the Asiatic Society of Bengal from 1844 to 1847 and later became an associate member, serving on its subcommittee for meteorology. He retained links with the Agricultural and Horticultural Society, and from 1842 to 1846 was a member of its standing committee for sugar.<br>
+<br>Piddington published over fifty articles in the <span class="italic">Journal of the Asiatic Society of Bengal</span> on a wide range of topics. Initially his research focused on aspects of tropical agriculture; one of his earliest articles, published in 1836, was concerned with the manufacture of indigo. Others dealt with geology, particularly the discovery and investigation of mineral substances. Coal, resin, meteorites, and atmospheric dust all claimed Piddington's attention. He also gave papers on tropical medicine and native remedies to the Medical and Physical Society of Calcutta. All these activities&#151;typical of the enthusiasm for &#145;new science&#146; in the early Victorian period&#151;won him a wider audience: in 1840 the <span class="italic">India Review</span> featured him in their series on prominent Europeans in India, where he is portrayed as a &#145;gentleman &hellip; constantly attracting public attention by the novelty and value of his scientific labours&#146;  (4, facing p. 921).<br>
+<br>Piddington's most abiding contribution, however, was to the understanding of maritime meteorology, and to the appreciation of tropical cyclones as a natural hazard of titanic impact on land. In 1839 he began research on the hurricane which occurred in the Bay of Bengal on 3&#150;5 June that year, the first in a series of influential memoirs on the storms of the Indian seas. Inspired by the publication of Colonel William Reid's <span class="italic">Attempt to Develop the Law of Storms</span> (1838), Piddington's research was based on logs, data, and information from ships' captains, interpreted in the light of his own maritime experience. This work came to the attention of the government of India, which on 11 September 1839 invited observations of extreme meteorological phenomena; these would be sent to Piddington for his collation. Piddington also corresponded with R. W. Redfield, who was actively investigating the formation of storms in and around North America.<br>
+<br>The result was <span class="italic">The Horn-Book for the Law of Storms for the Indian and China Seas</span> (1844). Written in terms seamen could understand&#151;&#145;in sailor language&#146;, as Piddington put it&#151;the book was immediately adopted by mariners and the shipping world generally. An expanded edition, entitled <span class="italic">The Sailor's Horn-Book for the Law of Storms</span>&#151;the work for which he is now chiefly remembered&#151;was published in 1848. In it Piddington introduced the term &#145;cyclone&#146;, derived from a Greek word meaning coiled like a snake, to emphasize the helical character of cyclonic air movements. (While this term gained acceptance, the study of &#145;cyclonology&#146;, alas, did not.) The traditional character of a hornbook was maintained by placing within the dust jacket thin plates of translucent horn, each engraved with the diagram of a cyclone and the points of a compass. When one of these plates of horn was placed on the ship's chart, a comparison of the existing wind direction with the diagram indicated the source of an approaching cyclone, and allowed the vessel to take an avoiding course. The reviewer for <span class="italic">Nautical Magazine</span> (1848) complained that the title reminded him of the children's horn alphabets of former times, but gave the book a grudging welcome, and G. Jinman, in <span class="italic">Winds and their Causes</span> (1861) criticized Piddington at length, supposing him never to have been at sea. These cavils did him no harm: <span class="italic">The Sailor's Horn-Book</span> ran to six editions and was recognized as the standard book on the subject for thirty years. Its success probably led to Piddington's appointment as president of the marine court of enquiry at Calcutta in 1851. <span class="italic">Conversations about Hurricanes for the Use of Plain Sailors</span> (1852) was also a hornbook. His last significant work was the admirable <span class="italic">Letter to the governor general of India, on the storm-wave of the cyclones in the Bay of Bengal</span> (1853), which advised against plans to build Port Canning on the south-eastern side of Calcutta, a site which Piddington's research had proved vulnerable to sea storms. Despite his efforts the project went ahead: Piddington was not alive to see the port opened in 1864. Indeed, it was devastated by storms in 1867 and was abandoned four years later.<br>
+<br>Up until his death at Calcutta on 7 April 1858, Piddington served as her majesty's coroner of Calcutta, a post to which he had been appointed in 1844. It is not known when and where he married, but he was survived, in Calcutta, by his widow, Jeanne Julie Piddington (<i>n&eacute;e</i> Lavalette) and two sons, Alfred (1831&#150;<i>c</i>.1880), who became a crier and keeper of the high court of Calcutta, and Edmund (1832&#150;1869), who became a solicitor of the high court. He was also survived by his younger brother John (<i>b</i>. 1803)&#151;named after the child who died&#151;who became an attorney in London's Cheapside, and by his youngest brother, Benjamin (<i>b</i>. 1808), who made a successful career back in Uckfield as the town postmaster, marrying in 1840. Of his other brothers, James (<i>b</i>. 1795), for a time a currier in Lewes, who married, William (<i>b</i>. 1798), and Charles (<i>b</i>. 1805) little is known. His elder sister, Ann (1794&#150;1844), who was disabled, and sister Maria (1799&#150;1840) both died unmarried. Piddington's collection of maritime charts and instruments, his scientific papers, and his geological books (as well as other books from his library of English, French, Spanish, and Italian literature) were left to friends, and he instructed that a silver testimonial vase, given to him by P. &amp; O., remain in the family.<br>
+<br>Caroline Blyth </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>India Review and Journal of Foreign Sciences and the Arts</em>, 1 (1836), 377&#150;9 &middot; <em>India Review and Journal of Foreign Sciences and the Arts</em>, 4 (1840), 921&#150;5 &middot; A. K. S. Sonma, &#145;Henry Piddington, 1797&#150;1858: a bicentennial tribute&#146;, <em>Weather</em>, 52 (1997), 187&#150;93 &middot; R. McIlveen, <i>Basic meteorology</i><i>: a physical outline</i> (1986), 334 &middot; <em>East-India Register and Directory</em> (1832), 275 &middot; <em>East-India Register and Directory</em> (1833), 271 &middot; C. E. Buckland, <i>Dictionary of Indian biography</i> (1906), 336 &middot; A. M. Hyamson, <i>A dictionary of universal biography</i>, 2nd edn (1951), 487 &middot; parish register, Lewes, St Michael, E. Sussex RO, XA30/88 &middot; borough poll books, Lewes, E. Sussex RO, C5/3/10, 10 &middot; E. Sussex RO, Lew C5/3/5&#150;13 &middot; bishops' transcripts, Uckfield, 1648&#150;1812, E. Sussex RO, PAR 496/1/1/3 [baptisms] &middot; parish register, Uckfield, 1837, E. Sussex RO, SM/D 12 [burial] &middot; will, E. Sussex RO, 488 [James Piddington] &middot; G. E. Dunn and B. I. Miller, <i>Atlantic hurricanes</i> (1960), 140 &middot; A. K. Mukherjee and T. R. Sivaramakrishnan, &#145;Surface wind and sea waves in a hurricane field&#146;, <em>Nature</em>, 267 (1977), 236&#150;7<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;200: administration with will, 10 Aug 1858, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Caroline Blyth, &#145;<span class="roman"><span class="headword">Piddington,  Henry</span>  (1797&#150;1858)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22221, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Henry Piddington (1797&#150;1858): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22221 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

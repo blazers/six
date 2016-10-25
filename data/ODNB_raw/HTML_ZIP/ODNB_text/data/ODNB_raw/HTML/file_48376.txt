@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 48376;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/48/48376-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/48/48376-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=48376#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Taylor,  Harold Dennis</span>  (1862&#150;1943), <span class="occ">designer of optical instruments</span>, was born at Lockwood House, Lockwood, Yorkshire, on 10 July 1862, the son of Joseph Walter Taylor, a wool manufacturer, and Annie Victoria Taylor, (<i>n&eacute;e</i> Bainbridge), and was educated at St Peter's School in York. He started to train as an architect, but his strong scientific interest led him to take up a post with Thomas Cooke &amp; Sons of Bishophill, York, a highly respected manufacturer of astronomical and optical instruments. Despite his lack of formal training, Taylor rapidly made his mark, rising to the position of optical manager: whereas Thomas Cooke had blended good mechanical practice with artistic intuition, Taylor was to put lens making onto a firm quantitative basis while at the same time retaining an aesthetic simplicity in his approach. On 24 July 1888 he married Charlotte Fernandez (<i>b</i>. 1856/7), daughter of William Barff, wool merchant, of Liverpool. They raised a daughter, Nina Dennis Taylor, and two sons, one of whom, <a href="#cosubject_48375">Wilfred [<i>see below</i>]</a>, followed in his father's professional footsteps.<br>
+<br>Taylor's design of the Cooke triplet lens, originally in 1893, removed all aberrations; that is, all effects which caused parallel light not to be focused to a point were consistently corrected. With three lenses, each with two distinct curvatures, and two lens spacings, there were just enough degrees of freedom to achieve his purpose via what was for the late nineteenth century an algebraic extravaganza. In addition, by combining lenses of low and high refractive index, he achieved an impressive flatness of field. This revived an analytic approach to lens design in the British optical industry, which had failed to build on earlier work of Airy, Hamilton, and in particular Coddington.<br>
+<br>As well as contrasting sharply with the empiricism of his industry, Taylor's work was distinct from the more complex theoretical approaches of German opticians of the period&#151;his was a kind of minimalist approach to the aberration problem. The manufacture of Cooke triplet lenses for photography was licensed to Taylor, Taylor, and Hobson of Leicester (they were not related): the patents were drawn up in such a detailed way that it was relatively easy for others to copy the principle, but nevertheless the Cooke triplet philosophy dominated lens design for inexpensive cameras until computers began to be used for the task.<br>
+<br>Taylor's approach to optics was enshrined in his classic <span class="italic">A System of Applied Optics</span> (1906), while his short guide, <span class="italic">The Adjustment and Testing of Telescopic Objectives</span> (1901), described novel autocollimation techniques for the alignment of telescopes. The latter proved an invaluable manual for amateur and professional alike, and was still being reprinted in the 1980s. In addition Taylor made important advances in lenses for refracting telescopes, first with the achromatic triplet using an innovative glass developed at the Schott glassworks at Jena, and in the Franklin&#150;Adams telescope which was responsible for producing star maps of outstanding quality for both the northern and southern hemispheres early in the twentieth century. He also discovered that light was transmitted through a lens when there was a thin corrosion layer on it, and patented a coating technique which was the forerunner of later &#145;blooming&#146; technology. In all close to fifty patents carry his name.<br>
+<br>Taylor was a modest man, fiercely loyal to his employers, and it was not until after his premature retirement in 1915 that the impact of his lens research was fully appreciated and recognized in the awards of the Royal Photographic Society medal (1933) and the Duddell medal of the Physical Society (1934). He continued to act as consultant to Taylor, Taylor, and Hobson, and moved to Coxwold in the foothills of the North York Moors, where he pursued his hobbies of gardening, astronomy, photography, and natural history. In 1924 he received the Traill&#150;Taylor medal for services to photography, and gave the memorial lecture to the Royal Photographic Society, at the end of which he caused some astonishment by declaring that he had been a member of the Society for Psychic Research for more than eighteen years, and was inclined to believe that photography could reveal supernatural beings invisible to the unaided human eye. Although he acknowledged that some such photographs were fakes, he nevertheless found others convincing. Taylor died at The Hall, Stillington, on 26 February 1943, survived by his wife and children.<br>
+<br>Taylor is perhaps best summed up by his son Wilfred, who followed his father into Thomas Cooke &amp; Sons:<blockquote>My father was a man of encyclopaedic knowledge, who seemed always to be working out some new optical invention or formula. He could, none-the-less, put all this to one side and derive great pleasure from a country walk, cycle ride or climb. His tastes were simple and he was very self-sufficient. My mother understood him well and knew how to order the household so as to give his genius full scope. (Payne, 563&#150;4)</blockquote>
+<a name="cosubject_48375"></a><span class="headword">(Edward) Wilfred Taylor</span>  (1891&#150;1980)<span class="occ"></span>, was born at Bootham Terrace, York, on 29 April 1891, and went from Oundle School into an apprenticeship at Thomas Cooke &amp; Sons, rising to optical manager, technical director, and joint managing director along with James Simms Wilson, a post which he held from 1937 until their retirement in 1956. He played a key role in the development of the Tavistock theodolite, the first double-reading optical theodolite manufactured in Great Britain, and in the Second World War presided over a huge expansion of Cooke, Troughton, and Simms in York to meet demand for rangefinders and optical measuring tools, for which he was made CBE in 1946. In the post-war period, his key papers in phase-contrast microscopy earned him fellowship of the Royal Society in 1952. He died at Cookridge Hospital, Leeds, on 1 November 1980, and was survived by a son, Julian, and two grandchildren; his wife Winifred Mary (<i>n&eacute;e</i> Hunter) died in 1964.<br>
+<br>J. A. D. Matthew </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. McConnell, <i>Instrument makers to the world</i><i>: a history of Cooke, Troughton &amp; Simms</i> (1992) &middot; T. Smith, <em>Nature</em>, 151 (1943), 442&#150;3 &middot; T. Smith, <em>Proceedings of the Physics Society of London</em>, 55 (1943), 508&#150;11 &middot; B. O. Payne, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48376&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 27 (1981), 563&#150;77 &middot; <em>Photographic Journal</em>, 83 (1943), 160 &middot; H. D. Taylor, &#145;The future of the cinema projector; and photography as an extension of vision&#146;, <em>The Photographic Journal</em>, new ser., 48 (1924), 63&#150;90 &middot; b. cert. &middot; m. cert. &middot; d. cert. &middot; b. cert. [(Edward) Wilfred Taylor] &middot; d. cert. [(Edward) Wilfred Taylor]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48376&amp;istheme=&amp;target=Borth.%20Inst.')">Borth. Inst.</a>, Vickers Instrument archive
+   &middot;
+ University of York, department of physics, Vickers Collection Museum, artefacts
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48376&amp;istheme=&amp;target=Borth.%20Inst.')">Borth. Inst.</a>, Vickers Instruments archive, footage from Cooke, Troughton &amp; Simms [(Edward) Wilfred Taylor]</p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Payne, <i>Memoirs FRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;87 13<i>s</i>. 11<i>d</i>.: probate, 19 July 1943, <i>CGPLA Eng. &amp; Wales</i> &middot; &pound;96,071&#151;(Edward) Wilfred Taylor: probate, 3 March 1981, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. A. D. Matthew, &#145;<span class="roman"><span class="headword">Taylor,  Harold Dennis</span>  (1862&#150;1943)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/48376, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Harold Dennis Taylor (1862&#150;1943): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/48376 
+                <br />
+
+                
+
+ (Edward) Wilfred Taylor (1891&#150;1980): doi:10.1093/ref:odnb/48375<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

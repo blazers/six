@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21745;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21745-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21745-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21745#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pecham <span class="st"> [Peckham]</span>,  John</span>  (<em>c.</em>1230&#150;1292), <span class="occ">archbishop of Canterbury</span>, presumably hailed from Patcham, Sussex, since he records that he grew up near the Cluniac monastery of Lewes, to which Patcham church had been appropriated, and was probably educated there. He was quite likely a member of the family who held land at Patcham in serjeanty from tenants of the honour of Warenne. The only certain members of the family are his brother Richard and nephew Walter, whom he made rector of Tarring and canon of his college at Wingham, and who seems to have inherited the family property. Others of the same name were prominent in the diocese of Chichester and in royal service during his archiepiscopate.<h2>
+<a name="StudiesinParisandOxford"></a>Studies in Paris and Oxford</h2>Pecham later told a cardinal that he had been educated in France &#145;from tender years&#146;  (Martin, 874), which, unless it is referring loosely to his late twenties, suggests that he was in the arts faculty at Paris in the 1240s; he later wrote treatises on optics (<span class="italic">Perspectiva communis</span>) and astronomy influenced by Roger Bacon, who was lecturing in Paris at that time, although the connection may have been made when both were in the Franciscan friary in the 1260s. It may have been the reputation for scientific and mathematical pursuits of the Oxford friary, where first Grosseteste and then Adam Marsh lectured, that drew Pecham back to England and into the Friars Minor about the early 1250s: Marsh tells of the conversion in a letter to a friend, in which he describes Pecham as <i>scholaris</i>, implying that he had not yet proceeded to his MA. Pecham's <span class="italic">Canticum pauperis</span> seems to be an autobiographical account of his own conversion, from the abandonment of bodily and worldly pleasures for learning, whose various branches he then tries in turn, before coming to rest on theology and its Franciscan exponents, with their complete renunciation of material things for the love of Christ. Marsh had gone down such a road before him, and may have been the old counsellor consulted by the <i>pauper</i> in the <span class="italic">Canticum</span>.<br>
+<br>After spending his noviciate at Oxford, Pecham returned to Paris about 1257, and remained there until 1272, continuing his studies in theology to the doctorate under Bonaventure's pupils, and in 1269 becoming regent master in theology and lector at the friary. Pecham's reputation was high enough for him to be termed <i>doctor ingenuosus</i> in the next century, and he was heavily plagiarized by his pupil Roger Marston, through whom Duns Scotus drew on his work. His output, particularly his lectures and disputations (<i>quaestiones</i> and <i>quodlibeta</i>), and commentaries on Lombard's <span class="italic">Sentences</span> and some books of the <span class="roman">Bible</span>, covered the range of intellectual concerns of the later thirteenth-century university, in particular grappling with the question of how far Aristotle could be successfully integrated into a Christian theological scheme. Following Bonaventure, Pecham subordinated all learning to theology, just as he directed all human activity to the imitation of Christ through asceticism. For Pecham all thought had a typically Franciscan focus on the love of God, seen for instance in his adherence to the Augustinian doctrine of the direct divine illumination of the intellect.<h2>
+<a name="Franciscancontroversialist"></a>Franciscan controversialist</h2>Pecham thus came to lead the conservative Augustinian theological position against not only the Averroists, but also Thomas Aquinas, who returned to Paris in 1269 for a second regency at the Dominican friary. Pecham was the Franciscan spokesman during the Averroist crisis which flared up in Paris in 1269&#150;71, exposing the differences between the older theology and Aquinas's more thorough integration of Aristotle. In particular Pecham led the attack on Aquinas's doctrine of the unity of substantial form in man, which seemed to suggest that the body of Christ between death and resurrection, and in the eucharist, was wholly different from the live body, since it was activated by an entirely different form in each phase. Pecham put forward the pluralist view of forms, and his own view of the intellect, in disputation with Aquinas in early 1270, and he articulated his position in various <span class="italic">Quaestiones</span> and in his <span class="italic">Summa de esse et essentia</span> and <span class="italic">Tractatus de anima</span>. In the latter Pecham also asserted his typically Franciscan emphasis on the primacy of the will over the intellect (obedience being fundamental to Franciscan religious culture), through which he foreshadowed Duns Scotus.<br>
+<br>Pecham was also in Paris at a time of acute tension between the seculars and mendicants, which broke out again in January 1269 in an attack by the seculars on the Franciscan theory of evangelical poverty. Bonaventure (now in Paris) and Pecham co-ordinated their response in two tracts which share material, though Pecham's <span class="italic">Tractatus de paupertate</span> is the more comprehensive. He set out to prove that Christ and the apostles practised strict poverty, and that the Franciscans were their closest imitators through physical asceticism which implanted obedience in the soul and sacrificial love in imitation of Christ crucified. Both developed arguments to justify the absolute poverty of their order, whose property was vested in the pope, as no mere legal fiction, which came to be crystallized into the <i>usus pauper</i> in later controversies by Pecham's pupil Peter Olivi. The seculars' claim of their higher vocation through the cure of souls was denied, on the grounds that mendicants practised both ministry and the scripturally approved contemplative vocation.<br>
+<br>Pecham's return to Oxford by 1272 as Franciscan lector forced him to go over this ground again against the provincial of the Dominicans, Robert Kilwardby, on the eve of the latter's appointment to Canterbury. The <span class="italic">Contra Kilwardby</span>, however, couched the arguments in a caustic and bitter tone which matched the letter of Kilwardby's to which it was a reply, and thereby tended to reduce the argument to one of the relative perfection of the two orders, based on their intense competition for recruits within the university. He was presumably also in the thick of the continuing struggle against Averroism and Thomism, although none of his lectures or disputations survives from this period despite his reputation for having introduced the quodlibet to Oxford. This time Kilwardby was on his side, against his own order, although Pecham's summons to Rome to be lector at the papal university just prevented him from witnessing the archbishop's condemnation of thirty propositions, nearly half concerned with the unity of form, in March 1277.<br>
+<br>Pecham's other works are connected with the specifically mendicant task of training friars for preaching and pastoral work in their houses all over Europe. His sermons offer a complete commentary on the gospels and epistles for every Sunday of the year, in pithy and memorable form. They reflect Pecham's emphasis on the generosity of God's love, and the response of the human soul in attempting to become reintegrated from its fallen state and ascend back to God. He also collected biblical texts under various headings for use in sermons, surveying a large range of theological themes and schemes, in the <span class="italic">Collectanea bibliorum</span>, printed several times in the sixteenth century. Pecham wrote an office for the Trinity which remained in use until the Council of Trent, and various other hymns and poems, particularly focused on Christ as suffering and eucharistic sacrifice (notably <span class="italic">Ave vivens hostia</span>). <span class="italic">Philomela</span> tells the story of salvation from the creation to the passion through the last day of a dying nightingale, an analogy for the soul which is also structured by the divine office for the day, by which Pecham set much store.<br>
+<br>After Pecham had spent three years as lector at Oxford, his career moved rapidly: in 1275 he was elected prior of the Franciscan province in England, in which role he made his legendary walk barefoot to general chapter in Padua, a typically strict interpretation of the Franciscan prohibition of riding. His election brought him into closer contact with the king and magnates, while his appointment at Rome in 1277 additionally acquainted him with the machinery of papal administration, the four popes of his archiepiscopate, and many cardinals, to whom he lectured. It was while there that Nicholas III, having promoted Kilwardby to be cardinal of Porto, quashed the election of Edward I's chancellor Robert Burnell to Canterbury, and provided Pecham instead on 28 January 1279.<h2>
+<a name="Thereformingprimate"></a>The reforming primate</h2>Pecham was consecrated on the first Sunday of Lent, 19 February, and set out for Amiens in order to meet Edward I. On 23 May he was received courteously by the king and had his temporalities restored immediately, in return sending an account to the pope of Edward's negotiations with Philippe III over Gascony that put the English case. Despite the king's friendship and generosity with grants then and later, Pecham was already encountering formidable financial problems: being a friar, with no property, he had had to borrow 4000 marks from the Riccardi while in Rome, and on arrival at Dover on 4 June he found that Kilwardby had sold to the king the corn and stock on his lands, which he had to buy back for 2000 marks, and had taken valuables to the tune of 5000 marks, as well as the records of the see. Debt dogged Pecham throughout his archiepiscopate, despite the increasingly efficient management of the estates by officials and the increased revenues thus procured; in 1290 the pope granted him the first fruits of vacated benefices for three years to apply to the debts of the see, but Winchelsey still found the archbishopric heavily burdened. As well as depressing Pecham's spirit and making it harder for him to give alms generously, this also weakened his negotiating position with the king, as the first episodes of his rule were to demonstrate.<br>
+<br>Pecham had a clear idea of what he wanted to achieve at Canterbury, and immediately on landing at Dover he summoned the bishops of his province to a council at Reading for 29 June. There he surveyed the English ecclesiastical legislation of the thirteenth century (of archbishops Langton and Boniface, and the legates Otto and Ottobuono), which applied to England the great papal reforming programme of reviving, or creating, a Christian society throughout Europe, by ensuring that the ministers of the church were able to preach and minister effectively to the laity in every parish of the realm.<br>
+<br>Pecham's initial emphasis was on abuses, which distracted the clergy from their fundamental task. In particular, he claimed at Reading that he had been sent by the pope to root out the evil of pluralism, since previous legislation had not been implemented. Its aim was to prevent clerks holding more than one benefice which involved cure of souls without papal dispensation; allied problems were non-residence without dispensation, and the failure of clerks to proceed to ordination as priests. Pecham therefore initiated a new campaign of enforcement, requiring clerks to vacate all but their last-received benefice, imposing deprivation on future recipients of plural benefices, and demanding that bishops systematically investigate and list the benefices in their sees and their rectors and vicars, and report back.<br>
+<br>Pecham's other main addition to the previous legislation which was read out at the council concerned royal writs of prohibition, which ordered ecclesiastical judges to desist from hearing a particular case, a symptom of the tension between the two jurisdictions now more than a century old. The archbishop accepted that some prohibitions were legitimate, and therefore that some types of cases did fall to the secular forum; but overtly abusive prohibitions, interfering with spiritual jurisdiction, were to be rejected out of hand, as indeed were those that looked legitimate but which misrepresented the nature of the case. In either case, those whose intentions were malicious were to be excommunicated, and clerks were to be deprived. A further source of clerical grievance was the failure of royal ministers to co-operate in enforcing sanctions against excommunicates.<h2>
+<a name="RelationswithEdwardI"></a>Relations with Edward I</h2>Pecham soon ran into opposition in these efforts; on 24 October he solemnly excommunicated those who were trying to resist in many different ways the <span class="roman">statutes of Reading</span>. His problem was that he had offended the king and his clerks, because, quite apart from their likely bias in favour of royal over ecclesiastical justice, the government depended upon pluralism and non-residence to pay and reward its clerks. A further difficulty for Pecham was that some of his bishops had been pluralists themselves, and some were still at the heart of government, notably Burnell. Pecham also compounded his offence by adding to the measures for the publication of the statutes of the council an order for <span class="roman">Magna Carta</span> to be posted in all cathedral and collegiate churches, and renewed annually.<br>
+<br>Retaliation was swift: Pecham was obliged in parliament, about 10 November, publicly to withdraw the proposed publication of the charter, and three of the articles of excommunication, and to accept that none of the articles of Reading should lead to any prejudice to the king or realm. It is difficult, too, to deny entirely the possibility that the publication in this parliament of the <span class="roman">Statute of Mortmain</span>, apparently preventing the church from acquiring any more land, did not have some element of putting the archbishop in his place, although the statute had other substantial roots. Since Pecham's legislation on pluralism had the backing of a recent general council, the Second Council of Lyons, it is not surprising that Edward did not force Pecham to retract his measures in that field, but chose areas where the royal case was recognized to be stronger. But it is likely that pluralism was in the forefront of the royal ministers' minds, since they prepared at least one appeal to Rome against Pecham's strict approach, arguing the benefits to the realm of having pluralist royal clerks.<br>
+<br>In the absence of much co-operation from his suffragans Pecham had to conduct the campaign against pluralism himself. He did so in his visitation of his entire province, which he completed in seven years, sending lists of pluralists to the bishops and demanding that action be taken against them. He was also able to demonstrate his strength of purpose by refusing to confirm the election of the archdeacon of Winchester to its bishopric because of his pluralism, and standing firm in his resolve for two years until Martin IV nominated John de Pontoise. This made its point since both the refusal and the grounds for it were noticed by the chroniclers. On the other hand, Pecham was unable to do anything about the notorious Bogo de Clare, brother of his friend and tenant, Gilbert de Clare, earl of Gloucester. Despite the success he had in individual cases, therefore, he failed to change attitudes to pluralism, except perhaps in prompting clerks to procure papal licences more carefully.<br>
+<br>On prohibitions, and in defence of ecclesiastical jurisdiction in general, the clergy were more solidly behind their archbishop. During 1280, in response to the royal request for a subsidy, they drafted a list of twenty <i>gravamina</i>, to which Edward gave verbal replies in parliament on 3 November, the day Pecham issued orders for collection of a three-year fifteenth. The articles covered a wide range of jurisdictional issues, including those mentioned at Reading, and convey the sense that the royal courts were increasingly limiting the jurisdiction of the ecclesiastical, and royal officials were treating the clergy as the laity, spiritual property as temporal. After long discussions the king gave only unofficial answers, which offered reassurances of good intentions but few concrete concessions. Pecham continued to pressurize Edward by restoring virtually intact the excommunications withdrawn in 1279 to the articles of the Council of Lambeth in 1281, and afterwards he wrote to the king justifying his stance in the broadest terms. The centre of his argument was obedience to God, rather than man. It followed that ecclesiastical law was more binding than human, and secular law needed to be brought into conformity with the canons, its evil customs being abolished. The king was especially obliged to obey the church, since he derived his authority from it. A historical excursus proved that the natural condition of the church in England was immunity from the lay power, which still obtained in the Welsh church; it was only in the reigns of Henry I and Henry II that the clergy had been prevented from obeying the law of the universal church, Becket preferring death to submission. Pecham's identification with his predecessor is seen in his use of the martyrdom for his counterseal.<br>
+<br>It was not until the parliament of May&#150;June 1285 that the clergy were able to force the crown to negotiate again over these issues. A list of seventeen grievances formed the basis for discussion, some covering old ground; but two developments worsened the atmosphere and put the clergy on the defensive. The <span class="roman">Statute of Westminster II</span> evoked a further nine protests from the clergy against clauses extending royal jurisdiction into areas which the clergy argued had always been ecclesiastical. Moreover, a royal edict had limited court Christian to testamentary and matrimonial jurisdiction and cases concerning sin. On 1 July Edward ordered the clergy of Norwich to desist from hearing a wide range of cases claimed for exclusive royal jurisdiction, and instructed his justices on eyre there to investigate all breaches since the beginning of the reign and to summon offending clergy. This naturally gave rise to a further barrage of complaints, which remained unanswered. The effect of the edict would have been to deprive ecclesiastical authorities of their power to discipline their own clergy in spiritual matters and to investigate and punish cases of sin among the laity, and also of their control over ecclesiastical property. The Dunstable annalist thought Pecham led the attempt to persuade the king to withdraw this comprehensive writ of prohibition; the ringing peroration of the petition, invoking <span class="roman">Magna Carta</span>, certainly bears his stamp.<br>
+<br>In the middle of the following year the clergy finally won some satisfaction from the crown in the form of the writ <span class="italic">Circumspecte agatis</span>, which definitively and precisely listed the areas, beyond the testamentary and matrimonial, in which prohibition could not apply, and the processes and punishments which the church could freely use. The king's more accommodating attitude was confirmed in 1290 by the <span class="roman">Statute of Consultation</span>, which allowed ecclesiastical judges to consult the chancellor or chief justice as to whether a prohibition was valid, and to proceed if not. Pecham had won, through diplomacy rather than confrontation, significant recognition of the competence of ecclesiastical jurisdiction, and the issues at stake in 1285 had to some extent been resolved.<h2>
+<a name="TheproblemofWales"></a>The problem of Wales</h2>Archbishop and king were bound by their offices to take opposing views in principle, and often in practice, as Edward's outright refusal to allow Pecham to visit royal chapels demonstrated forcibly. Nevertheless, personally they always remained on good terms, and could just as easily adopt similar stances, as in Wales during the renewed war of 1282&#150;3. While Pecham desired peace, he consistently put the English case to the Welsh and demanded their submission. He subscribed wholly to the view that the Welsh were barbaric and would benefit from integration into English rule, and he equally desired the assimilation of the Welsh sees into his province. He was also instrumental in persuading his reluctant clergy to grant the king a two-year twentieth in October 1283, before the subsidy of 1280 had been completely collected. Nevertheless, he preferred a peaceful solution to violent conquest, with all its inevitable sacrilege to clerical persons and property, and he persuaded Edward to allow him to set out for Snowdon on 31 October 1282. His three days with Llywelyn attempting to mediate were doomed to failure since neither side wanted peace, and Pecham renewed his excommunication of the rebels on his return to Rhuddlan.<br>
+<br>In the wake of the conquest, in summer 1284, Pecham visited all four Welsh dioceses, to provide an ecclesiastical parallel to Edward's settlement. He hoped to subject the dioceses entirely to his authority and to reorganize them along English lines, while also preserving their traditional immunity from lay power. He was unsuccessful in the latter aim, but successfully fought off the claim of the bishop of St David's to metropolitan status, and obtained some reparation from Edward for the spoliation and devastation of churches, in return for which he exhorted the Welsh to obedience to the English crown. But what mattered most to Pecham was a religious revival, to overcome the barbarism and ignorance of clergy and people. In attempting to realize this, he was applying his fundamental objectives for his whole province, as his more purely ecclesiastical activities demonstrate.<h2>
+<a name="Thearchbishopandhissuffragans"></a>The archbishop and his suffragans</h2>Pecham applied himself to visiting all his eighteen dioceses with unremitting energy, in order to implement the programme announced publicly in councils and synods of eradicating abuses and bringing a higher quality ministry to the laity in every parish under his purview. This was most clearly announced in the canons of the Council of Lambeth, at which he laid down a detailed programme for improving the observance of the sacraments of the church by the parish clergy, especially the eucharist, baptism, and confession, and, most famously, the preaching of the clergy; in <span class="italic">Ignorantia sacerdotum</span> Pecham provided for quarterly recitation a schematized account of the essentials of the faith. Pecham's emphasis on the right use of the goods of the church (from which so much of his campaign against abuses stemmed) is equally seen in his insistence in his injunctions of 1287 for Canterbury on the clergy's keeping up alms to the poor, maintaining their churches, ornaments, vestments, and instruments in good repair, and their careful stewardship of revenues and rights, and recovery of those lost.<br>
+<br>Such burning zeal, however, nurtured in the Franciscan culture of obedience and hierarchy, was bound to meet resistance from an acutely rights-conscious clergy. Another outbreak of the long-running saga between the two archbishops as to whether York could have his cross carried erect before him through the southern province was the forerunner of portentous events to come: in autumn 1279 this resulted in violence, the cross being smashed by armed men at Rochester. Nevertheless, it erupted again several times after 1285. Pecham could undoubtedly be high-handed, both in the tone of his communication and in his actions, and his suffragans were soon resisting the intrusiveness of his visitations, even if, as both legate and metropolitan, Pecham was usually on firm legal ground. There were, however, genuine issues to be clarified as to the boundaries between diocesan and metropolitical jurisdiction, particularly with respect to the court of Canterbury. Apart from procedural inconveniences caused by its central jurisdiction, these centred on testamentary jurisdiction over those leaving goods in more than one diocese (in which the archbishops were ultimately to triumph), and the hearing of appeals from courts lower than that of the bishop. At the Easter council of 1282 the bishops presented twenty-one <i>gravamina</i> to the archbishop, who resisted their claims over visitations, but, having set up a commission to judge the jurisdictional issues, accepted many of the complaints and instructed his officials accordingly.<br>
+<br>Ironically, it was zealous prelates, who were strong advocates of the rights of their sees, as canon law required them to be, who were most likely to resist the ministrations of an archbishop who was equally defending the rights of his position. Godfrey Giffard of Worcester confronted Pecham again in the years that followed, but his position had been immeasurably strengthened by the fate of the only other bishop who Pecham had initially thought would be an allied reformer, his former pupil Thomas Cantelupe of Hereford. Indeed it was Cantelupe's very zeal that made him enemies, and thus necessitated archiepiscopal involvement; his first appeal to Rome took him out of the country in May 1280, leaving an official, Robert le Wyse, determined to stir up trouble against Pecham. When Pecham and Cantelupe finally met again in autumn 1281, relations seemed amicable, but the legacy of le Wyse's resistance and Pecham's reaction soon undermined them, and Pecham finally excommunicated first le Wyse, and then Cantelupe when he refused to publish the sentence. Thomas Cantelupe's death at Rome in August 1282 when appealing again, the miracles that began at his tomb when the conflict between Pecham and the bishops was renewed in 1287, and his subsequent canonization, inevitably made him seem the victim of Pecham's implacable aggression, and concealed the essential issues under the personal story. Pecham fell victim to the same trap because of his strong sense of betrayal and encirclement by the intrigues of his suffragans in England at the curia.<h2>
+<a name="Dealingswithmonksandfriars"></a>Dealings with monks and friars</h2>The suffragans' determination to protect their rights against a Franciscan may have been stiffened by Martin IV's <span class="italic">Ad fructus uberes</span> of 1281, which allowed friars freedom to preach and confess without the consent of bishops and which led to intense conflict between the regular and secular clergy in France. Pecham certainly encouraged such freedom, seeing the friars as a vital supplement to the ministrations of the parish clergy. His position as conservator of the privileges of his order in England, and his willingness to support particular houses of Friars Minor, certainly antagonized monks, who were required to accept enlarged mendicant premises nearby, or who became involved in quarrels over freedom of burial, one of the staple issues of mendicant controversy. Pecham's interdict on Westminster, which may in part have caused his absence from Queen Eleanor's funeral on 17 December 1290, was the result of the abbey's harbouring a Franciscan apostate.<br>
+<br>Pecham was thorough in including monasteries in his visitations, and he issued many sets of injunctions for correction, aimed at religious who neglected their offices and adopted secular lifestyles, so blurring the boundary between the cloister and the world through their frequent presence outside the convent, and the systematic intrusion of the laity within. As ever, he urged religious to keep their calling of worship at the centre of the picture, and to devote their resources as effectively as possible to that end: hence his opposition to the Benedictines' decision in 1277&#150;9 to pare down accretions to the divine office, and his restoration of the full traditional <i>opus dei</i> at monasteries he visited; hence also his attempts to replace or supplement the rule of ineffective superiors, and especially to encourage financial stability, the latter no doubt informed by his personal experience of the deleterious effects of debt on the performance of duties. His own monastery at Christ Church, Canterbury, with its centralized treasury, provided the model that he successfully encouraged others to adopt.<br>
+<br>Pecham's opposition to the foundation of a monastic house of study at Oxford was based on his deep suspicion of the growth of Thomism there. The Dominicans, led in Oxford by Richard Knapwell, had responded to the Franciscan corrections to Aquinas with their own <i>correctoria</i>, and were capturing the minds of the university; the reiteration of much of Pecham's old material by his pupil Roger Marston, Knapwell's Franciscan opponent, was hardly likely to stem the popularity of Thomism. Unity of form was once more the central issue, and Pecham highlighted the danger of its theological implications when he renewed Kilwardby's condemnations of 1277 on 29 October 1284, a procedure he adopted in part to fend off accusations that he was merely promoting rivalry between the orders. The Dominicans immediately reacted by appealing to Rome, and opened a campaign of propaganda which directed biting wit and furious invective at Pecham. Pecham's responses drew on his old polemical works but lacked their immediacy and fire, merely seeming uncomfortably extreme. Knapwell, in whose works eleven errors had been found, ignored citations and was excommunicated at Easter 1285, and his opinions, centring on unity of form, were condemned by Pecham and bishops Sutton of Lincoln, Swinfield of Hereford, and Giffard. Proceedings at Rome were, as ever, slow, and held up by the swift succession of popes, but the election of the Franciscan Nicholas IV in 1288 ensured that Knapwell would be silenced. In the longer run Thomism was irrepressible, but it was no mere obscurantism on the part of Pecham that prompted his deeply held opposition.<h2>
+<a name="Lastthings"></a>Last things</h2>Pecham's health was gradually failing in his later years, and the loss of various sections of his register makes it difficult to tell how far his activity was reduced; the flow of letters becomes very much sparser from the middle of 1285. He certainly only managed to visit a few dioceses for the second time, and latterly extreme moods and changes of mind, which began to alienate some of his previously loyal clerks, presaged his physical decline in the 1290s.<br>
+<br>Pecham did have the opportunity to apply the strictures he had imposed on other churches, particularly in the financial field, to his own foundation, when in 1287 he brought to fruition Kilwardby's project for a secular college on the archiepiscopal manor at Wingham, near Canterbury. In his statutes Pecham was characteristically careful to prescribe how the property and income of the college was to be allocated and used, and insistent on proper observance of the hours. The provost and six canons were intended to expand the archbishop's resources of patronage for his clerks, although building work was still continuing at his death.<br>
+<br>Pecham was able to exert himself to support the crusading project given renewed impetus by Nicholas IV, who imposed a six-year tithe on the clergy in 1290 on the basis of a new assessment, before the fall of Acre in May 1291 gave urgency to the process. Edward and other lords had taken the cross in the summer and autumn of 1290, and Pecham had started to grant crusading privileges to them. He personally presided at the council of his province of 13&#150;16 February 1292, which the pope had ordered so that the whole church might be consulted as to how the Holy Land should be recovered and subsequently protected, and how popular enthusiasm and finance could be raised. Nicholas died on 4 April, before the council's proctors could reach him with their answers.<br>
+<br>Pecham's last public appearance was at the consecration of the bishops of Salisbury and Exeter at Canterbury on 16 March, and thereafter his health overcame him in a long decline, at Otford and Mortlake, where he died on 8 December, in the presence of his long-serving clerical staff and two Friars Minor. Against his own preference for the London Franciscans, he was buried on the 19th at Canterbury in a wintry and ill-attended ceremony; but he insisted that his heart should be allowed to rest with the brothers of his own order. His Canterbury tomb, of grey Sussex marble, depicts him serenely, and perhaps accurately, in oak under a canopy with an early ogee arch, surrounded by his suffragans as weepers. Apparently the product of the Westminster workshop, this may have absorbed much of the &pound;5306 he is said to have left, for the accounts of his executors, the Franciscans of Paris, revealed only 5<i>s</i>. 6<i>d</i>. after paying for his will (now lost), including also his debts, legacies to his clerks, and his funeral.<h2>
+<a name="Successesandfailures"></a>Successes and failures</h2>Pecham exhibits many of the faults and the virtues of the high-medieval churchman. At the centre of his being was devotion to Christ and the imitation of the apostles, filtered through the Franciscan tradition of complete material and spiritual poverty. He continued to style himself <i>frater Johannes humilis</i> as archbishop, wore a shabby habit, and was said to have fasted for seven Lents annually, taking up most of the year. Various chroniclers noted and even approved of the Franciscans' juxtaposition of Nicholas IV with him as the sun and moon of the order. Moreover, those who came into contact with him also noted his kindness, sincerity, and humility, and his writing and poetry testify to his capacity for deep and tender feeling. Trivet described him as &#145;a zealot for his order, a notable author of poetry, pompous in manner and speech, but tender of mind and liberal of soul&#146;  (<span class="italic">Nicholai Triveti Annales</span>, 300). On this basis, he rarely lost sight of his central religious objectives, whether he was realizing them through intellectual achievements as for so much of his life, or, latterly, in administering the English friars or the whole province of Canterbury itself. His archiepiscopate stands firmly in the tradition of the reforming church dating back to the mid-eleventh century, with its twin projects of transforming society through a transformed clergy.<br>
+<br>Some of Pecham's failures in realizing these aims, however, can equally be attributed to the strength of his devotion and to his own conviction of being right. He found difficult the transition from an order where obedience and unity were fundamental, to a diverse secular church in which persuasion and tact were necessary. In pursuing reform through the dignity of his office he too often failed to have regard for the rights of others and their churches, so that his energy became overbearing and his zeal was seen as interference. His personal kindness was too often obscured by caustic rhetoric and a sharp tongue. Hence the&#151;albeit partial&#151;obituary of the monastic <span class="italic">Flores historiarum</span>: &#145;his wisdom was entirely spent before his death, and in his prosperity he scorned and despised many&#146;  (<span class="italic">Flores historiarum</span>, 3.81&#150;2). While, therefore, his dedication and commitment shine out, his success seems more equivocal. If he failed on pluralism and partially over prohibitions, it is harder to measure the effect of his visitations and restoration of the Welsh church; and <span class="italic">Ignorantia sacerdotum</span> was a gift to posterity whose fruits in the thorough Christianization of later medieval society have only recently been re-evaluated. Indeed, the future was to lie not with high-church insistence on <i>libertas ecclesie</i> against the king, but with the patient groundwork of educating the clergy and improving the laity, those things to which Pecham quietly contributed. Now that high-medieval prelates seem to be less swimming against an inexorable tide of decline than part of a long-term process which only gradually came to fruition, representatives of their order such as Pecham may be seen in a new, and rather kinder, light.<br>
+<br>Benjamin Thompson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. L. Douie, <i>Archbishop Pecham</i> (1952) &middot; <i>Registrum epistolarum fratris Johannis Peckham, archiepiscopi Cantuariensis</i>, ed. C. T. Martin, 3 vols., Rolls Series, 77 (1882&#150;5) &middot; F. N. Davis and D. L. Douie, eds., <i>The register of John Pecham</i>, 2 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21745&amp;istheme=&amp;target=CYS')">CYS</a>, 64&#150;5 (1968&#150;9) &middot; F. M. Powicke and C. R. Cheney, eds., <i>Councils and synods with other documents relating to the English church</i>, 2: <i>1205&#150;1313</i> (1964) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21745&amp;istheme=&amp;target=Ann.%20mon.')"><i>Ann. mon.</i></a>, vols. 1&#150;4 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21745&amp;istheme=&amp;target=Chancery%20records')"><i>Chancery records</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21745&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; J. S. Brewer, ed., <i>Monumenta Franciscana</i>, 1, Rolls Series, 4 (1858) &middot; H. R. Luard, ed., <i>Flores historiarum</i>, 3 vols., Rolls Series, 95 (1890) &middot; <i>F. Nicholai Triveti, de ordine frat. praedicatorum, annales sex regum Angliae</i>, ed. T. Hog, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21745&amp;istheme=&amp;target=EHS')">EHS</a>, 6 (1845) &middot; C. L. Kingsford, A. G. Little, and F. Tocco, eds., <i>Tractatus tres de paupertate</i>, British Society of Franciscan Studies, 2 (1910) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21745&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 3.1445&#150;7<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21745&amp;istheme=&amp;target=LPL')">LPL</a>, registers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> oak on marble tomb, 1292&#150;1300, Canterbury Cathedral &middot; seal, Canterbury Cathedral, archives<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> left &pound;5305 17<i>s</i>. 2&frac14;<i>d</i>., all of which was probably spent on will, debts, and tomb, as 5<i>s</i>. 6<i>d</i>. was left when executors accounted: Matthew Parker, <i>De antiquitate Britannicae ecclesiae</i> (1572); <i>DNB</i>; <i>Registrum</i>, ed. Martin, 3. iv<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Benjamin Thompson, &#145;<span class="roman"><span class="headword">Pecham ,  John</span>  (<em>c.</em>1230&#150;1292)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/21745, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Pecham (<em>c.</em>1230&#150;1292): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21745 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

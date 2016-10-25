@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 944;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/944-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/944-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=944#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Airmyn <span class="st"> [Ayreminne]</span>,  William</span>  (<em>d.</em> 1336), <span class="occ">administrator and bishop of Norwich</span>, was the son of Adam and Matilda Airmyn, and probably came from the hamlet of Airmyn, near Selby, in Yorkshire, one of a large group of men from that region to obtain prominence in government service. First recorded as an attorney in chancery in April 1300, he obtained royal presentation to benefices in July 1304 and October 1306, and a royal gift of timber through the agency of Walter Langton in June 1307. He was proctor for St Augustine's, Canterbury, at the Carlisle parliament of January 1307. In Edward II's reign, especially after the appointment of Walter Reynolds as chancellor in 1310, Airmyn became one of those most responsible for the routine work of chancery. A steady stream of ecclesiastical patronage followed, including canonries in six cathedrals. In 1312 he spent six months at the papal curia on royal business, and was granted a papal dispensation at the king's request in October. In 1316 he was specially deputed to draw up the parliament roll of the Lincoln parliament. Distinguished by its being a chronological record of parliamentary proceedings, this set a pattern that was taken up again in the 1330s. In August 1316 he succeeded his fellow Yorkshireman, Adam Osgodby, as keeper of the rolls of chancery and of the house of converts, and in later years was variously described as <i>vice cancellaries</i>, and as the king's special clerk and secretary of the chancery. In May 1317 he and two royal justices were charged with the partition of the Gloucester inheritance. In September 1319 he and his brother <script>writeSeealsoLink('../view/article/943/', "Richard Airmyn (d. 1340)")</script> were captured by the Scots at the battle of Myton; they obtained their release with a ransom of 2000 marks. In March 1321 he was one of those who negotiated a truce with the Scots. His administrative expertise led V. H. Galbraith to suggest that he is the author of the <span class="italic">Modus tenendi parliamentum</span>, which may have been written at this time.<br>
+<br>In February 1322 the king warmly commended Airmyn to the pope, while urging that the keeper of the privy seal, Robert Baldock, be promoted to the next available bishopric. Airmyn was one of those commissioned to negotiate a truce with Robert I in May 1323. In May 1324 he resigned his post as keeper of the rolls of chancery to his brother, Richard, and became keeper of the privy seal, an office he held until early 1325. On 7 January 1325 Airmyn was elected bishop of Carlisle, with support from both Edward II and Queen Isabella. The election was set aside by the papal provision of John Ross, but the pope promised to promote Airmyn in due course. Accordingly, on 19 July 1325, the day after hearing of the vacancy at Norwich, the pope provided Airmyn to that bishopric. The king, however, having determined upon the appointment of Baldock, now chancellor, angrily sequestered Airmyn's temporalities. Airmyn was accused of having obtained the see through the influence of Queen Isabella and her brother, the French king Charles IV. He was the more vulnerable to this charge in that he had been one of the envoys who had secured the terms of 31 May 1325 to end the War of St Sardos, terms viewed unfavourably with hindsight, although Edward had himself ratified the treaty in June 1325. Airmyn secured papal help in seeking to assuage the king's wrath. He had returned to England by December 1325 but did not respond to royal summonses in early 1326. The arrest of two of his brothers was ordered in March, and he soon fled abroad.<br>
+<br>Airmyn supported the queen in her invasion in September 1326, and was with her at Bristol when Prince Edward was proclaimed <i>custos</i> of the realm. He was given charge of the great seal from 30 November until Hotham's appointment as chancellor on 28 January 1327. His temporalities were restored in early December 1326, and two months later he recovered the issues which had been confiscated between December 1325 and November 1326. From 1327 to 1335 Airmyn was prominent in diplomacy. He was one of those responsible for the settlement with France in March 1327, and for the peace with Scotland in March 1328. He played a large role in 1331 in negotiating the terms of Edward III's homage to Philippe VI and in the inconclusive process of Agen, and subsequently helped arrange the marriage of the king's sister, Eleanor, to Reginald (II), count of Gueldres, which took place in 1332. From 1 April 1331 to 29 March 1332 he held office as treasurer. His personal wealth, partly derived from property concentrated in Durham, Yorkshire, and Lincolnshire, must have been great, and he was able to advance the king &pound;1000 for the Scottish wars in November 1334. He died at his house in Charing, London, on 27 March 1336, and was buried in Norwich Cathedral.<br>
+<br>M. C. Buck </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=944&amp;istheme=&amp;target=Chancery%20records')"><i>Chancery records</i></a> &middot; J. L. Grassi, &#145;William Airmyn and the bishopric of Norwich&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=944&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 70 (1955), 550&#150;61 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=944&amp;istheme=&amp;target=Fasti%20Angl.%2C%201300%3F1541')"><i>Fasti Angl., 1300&#150;1541</i></a> &middot; V. H. Galbraith, &#145;The <i>Modus tenendi parliamentum</i>&#146;, <em>Journal of the Warburg and Courtauld Institutes</em>, 16 (1953), 81&#150;99 &middot; E. Deprez, <i>Les pr&eacute;liminaires de la Guerre de Cent Ans</i> (1902) &middot; J. L. Grassi, &#145;Royal clerks from the archdiocese of York in the fourteenth century&#146;, <em>Northern History</em>, 5 (1970), 12&#150;33 &middot; F. Blomefield and C. Parkin, <i>An essay towards a topographical history of the county of Norfolk</i>, 5 vols. (1739&#150;75) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=944&amp;istheme=&amp;target=CEPR%20letters')"><i>CEPR letters</i></a>, vol. 2 &middot; [R. E. Latham], ed., <i>Calendar of memoranda rolls (exchequer) &hellip; Michaelmas 1326 &#150; Michaelmas 1327</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=944&amp;istheme=&amp;target=PRO')">PRO</a> (1968) &middot; <i>The liber epistolaris of Richard de Bury</i>, ed. N. Denholm-Young, Roxburghe Club (1950) &middot; &#145;Historia Roffensis&#146;, BL, Cotton MS Faustina B.v &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=944&amp;istheme=&amp;target=RotP')"><i>RotP</i></a> &middot; H. R. Luard, ed., <i>Flores historiarum</i>, 3 vols., Rolls Series, 95 (1890) &middot; W. Stubbs, ed., <i>Chronicles of the reigns of Edward I and Edward II</i>, 2 vols., Rolls Series, 76 (1882&#150;3)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=944&amp;istheme=&amp;target=Norfolk%20RO')">Norfolk RO</a>, episcopal register<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">M. C. Buck, &#145;<span class="roman"><span class="headword">Airmyn ,  William</span>  (<em>d.</em> 1336)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/944, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Airmyn (<em>d.</em> 1336): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/944 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

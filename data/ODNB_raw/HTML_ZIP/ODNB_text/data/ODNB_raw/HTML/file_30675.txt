@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30675;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30675-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30675-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30675#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Beilby, Sir  George Thomas</span>  (1850&#150;1924), <span class="occ">industrial chemist</span>, was born in Edinburgh on 17 November 1850, the youngest son of George Thomas Beilby MD and his wife, Rachel, daughter of the Revd Jonathan Watson, minister of Dublin Street Baptist Church, Edinburgh. He was educated at private schools and at Edinburgh University. In 1869 he joined the Oakbank Oil Company as a chemist and began his association with the Scottish paraffin shale industry. With William Young he improved the process of distillation of shale and greatly increased the recovery of ammonia (in great demand for agricultural purposes as guano reserves became exhausted); the process using continuous retorts, introduced by Beilby and Young in 1881, brought about a large increase in the yield of paraffin and ammonia.<br>
+<br>In 1890 Beilby turned his attention to the production of cyanides, to meet the new demand prompted by the invention of the McArthur&#150;Forrest process for the treatment of gold ores. He devised a process which involved the action of ammonia on a mixture of potassium carbonate and carbon, sufficient cyanide always being present to keep the mass fluid. The Cassel Gold Extracting Company, later called the Cassel Cyanide Company (of which Beilby became a director), used this process until 1906, when Beilby introduced a new process invented by Hamilton Castner, in which metallic sodium was employed. Beilby's association with Castner led him to become a director of the Castner-Kellner Alkali Company, which manufactured sodium at Runcorn and now set up new works for the production of sodium at Newcastle upon Tyne. Beilby remained closely connected with these branches of the chemical industry for the rest of his life.<br>
+<br>Beilby observed the rapid destruction of metals by ammonia at high temperature during the course of his manufacturing operations. He began a detailed series of private investigations into the flow of solids. As a result of elegant experiments with the microscope, carried out with simple laboratory equipment, he concluded that when a metal is caused to flow, for example during polishing, the normal crystalline structure is partly broken down, and a vitreous layer is formed. This theory seemed to explain the hardening of metals by cold working, with the vitreous layer forming on crystal slip-planes, thus resisting further flow along these planes and hardening the metal. Beilby's theory, expressed in his only book, <span class="italic">Aggregation and Flow of Solids</span> (1921), enjoyed support from British and American chemists but was less popular with continental scientists. Subsequent X-ray analysis suggested the formation of a vitreous layer to be much rarer than Beilby first thought.<br>
+<br>Beilby's manufacturing experience led him to take great interest in the economical use of fuel, and in his presidential address to the Society of Chemical Industry in 1899 he reviewed the subject and gave a detailed breakdown of national coal consumption. He made a report to the royal commission on coal supplies (1902&#150;4), and he was a member of the royal commission on fuel oil engines for the navy (1912&#150;13). In 1906 he made a series of important experiments in the low-temperature carbonization of coal, and later he carried out microscope studies on the cell structure and properties of coke. He was actively involved in directing scientific research during the First World War, and in 1917 he became the first chairman and director of the Fuel Research Board. It was under his direction that the fuel research station at East Greenwich was designed and erected, and in the six years that he was director of the research board attention was directed mainly to the production of oil from coal by carbonization and to a survey of British coal reserves. Beilby also introduced the term &#145;therm&#146; as a unit for measuring gas consumption in towns.<br>
+<br>Beilby was a modest man of high character. In 1877 he married Emma Clarke, daughter of the Revd Samuel Newman; they had one son and one daughter. He was keenly interested in educational matters, and from 1907 until 1923 he was chairman of the governing body of the Royal Technical College, Glasgow, to which he was also a generous benefactor. He was president of the Institute of Chemistry from 1909 to 1912 and of the Institute of Metals from 1916 to 1918. He received honorary degrees from the universities of Glasgow and Birmingham, and he was president of the chemical section of the British Association at its meeting in South Africa in 1905. He was elected a fellow of the Royal Society in 1906 and knighted in 1916.<br>
+<br>Beilby died at his home, 29 Kidderpore Avenue, Hampstead, London, on 1 August 1924. He was survived by Lady Beilby.<br>
+<br>C. H. Desch<span class="italic">, rev. </span> John Bosnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. C. H. C., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30675&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 109A (1925), i&#150;xvii &middot; private information (1937) &middot; G. T. Beilby, <i>Chemistry and practical life</i><i>: being an address delivered to the Andersonian Chemical Society of the Royal Technical College, Glasgow, on October 23rd 1914</i> (1914) [19 pp.] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30675&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1924)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1918, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30675&amp;istheme=&amp;target=NPG')">NPG</a> &middot; photograph, repro. in <i>Obits. FRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;163,689 19<i>s</i>. 1<i>d</i>.: probate, 16 Sept 1924, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. H. Desch, &#145;<span class="roman"><span class="headword">Beilby, Sir  George Thomas</span>  (1850&#150;1924)</span>&#146;, rev. John Bosnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/30675, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  George Thomas Beilby (1850&#150;1924): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30675 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

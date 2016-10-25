@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 49854;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/49/49854-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/49/49854-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=49854#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Adams family</span>  (<em>per. </em>1734&#150;1817), <span class="occ">makers of scientific instruments and globes</span>, came to prominence through <a name="cosubject_116"></a><span class="headword">George Adams senior</span>  (<em>bap. </em>1709, <em>d.</em> 1772)<span class="occ"></span>, who was baptized on 17 April 1709 in the parish of St Bride's, Fleet Street, London, the eldest surviving son of Morris Adams (<i>d</i>. 1725) and his wife, Mary (<i>d</i>. 1732). His father was a liveryman of the Loriners' Company, but was a cook by trade, with his own business in Shoe Lane. In 1724 George was apprenticed in the Grocers' Company to James Parker, mathematical instrument maker, on whose death in 1726 he was turned over to Thomas Heath for the remainder of his term. By the time he became free of the Grocers' Company in 1733, both his parents were dead. In 1734 he started his own business as a maker of mathematical instruments in Fleet Street, &#145;near the Castle Tavern&#146;, a few doors from Shoe Lane, adopting the sign of Tycho Brahe's Head. The business continued at various addresses in Fleet Street for eighty-three years.<br>
+<br>Adams's early products included navigational quadrants and orreries (astronomical models). In 1738 he moved to larger premises on the corner of Racquet Court, taking his shop sign with him. His first major publication from there, <span class="italic">Micrographia illustrata</span> (1746), was attacked by Henry Baker FRS, who accused him of plagiarism, but it served to publicize his entry into the field with a new form of portable microscope, several examples of which survive. In 1748 he succeeded William Deane as mathematical instrument maker to the Office of Ordnance, a post which he held until his death in 1772. He also succeeded Deane as instrument maker to the Royal Mathematical School at Christ's Hospital. The former appointment brought many government orders, for drawing, gunnery, and surveying instruments, for the use of the artillery and engineers, and for demonstrational equipment for the Royal Military Academy, Woolwich.<br>
+<br>During his residence in St Bride's parish Adams served his turn in most of the parish offices, becoming senior churchwarden in 1748. However, in February 1757 a fire in adjoining premises obliged him to move, and his subsequent address near Water Lane, on the other side of the street, was in the parish of St Dunstan-in-the-West. This became no. 60 when Fleet Street was numbered in July 1766. The Adams business remained there until its demise in 1817.<br>
+<br>About Christmas 1756, just before the fire, Adams was appointed mathematical instrument maker to the prince of Wales (the future George III). New forms of instrument dating from this period include a trunnion-mounted microscope and an architectonic sector. Following the death of George II in 1760, Adams became mathematical instrument maker to George III, which, although unsalaried, was the most prestigious appointment available in this field. Many of the extant instruments in the King George III collection at the London Science Museum are from his workshop. In mid-1766 he launched new 18 in. and 12 in. globes, with a <span class="italic">Treatise</span> describing their construction and use. The dedication to the king was contributed by Dr Samuel Johnson. The unusual form of mounting and relatively high price of Adams's globes drew scathing comments from Benjamin Martin, proprietor of the long-established Senex's globes, but they proved popular and many examples survive.<br>
+<br>George Adams was a liveryman of the Grocers' Company and served twice as a warden. He was twice married and had at least thirteen children, but many died in infancy. Two daughters survived from his first marriage to Ann (<i>d</i>. 1747), whose surname is unknown. The elder, Sarah (1738&#150;1812), married Robert Blunt of Charing Cross, linen draper, in 1759, and had a large family. Adams's second marriage, to Ann Dudley (1721/2&#150;1809?), took place at St Martin-in-the-Fields in 1748. It produced six daughters and three sons, two of whom survived to maturity&#151;George and Dudley. As well as his London property, George Adams senior owned an estate at Langley Marish, Buckinghamshire. He died suddenly on 17 October 1772, aged sixty-three, and was buried in St Bride's churchyard.<br>
+<br>After Adams's death the Fleet Street business was continued in all its aspects, initially by his widow, Ann, and <a name="cosubject_117"></a><span class="headword">George Adams junior</span>  (1750&#150;1795)<span class="occ"></span>. The latter, who had been apprenticed to his father in 1765, became free of the Grocers' Company in November 1772 and a liveryman in 1773. In July 1774 he married Hannah Marsham, at St Dunstan-in-the-West, Fleet Street. The ordnance appointment was lost to Jeremiah Sisson on George Adams senior's death, but the appointment to the king continued, and in 1787 George junior became optician to the prince of Wales (the future George IV) as well. Before then, about 1780, he began to receive ordnance orders as a result of Jeremiah Sisson's bankruptcy. A substantial ordnance trade developed in the build-up to the Napoleonic wars but, unlike his father, George junior did not have a monopoly in this area. Between 1785 and 1792 he supplied numerous instruments to Martinus van Marum for Teyler's Foundation at Haarlem in the Netherlands, most of which survive, and other continental institutions including the University of Coimbra, in Portugal.<br>
+<br>In the 1780s George junior began to write and publish a number of illustrated textbooks dealing with the physical sciences, in particular <span class="italic">Essay on Electricity</span> (1784), <span class="italic">Essays on the Microscope</span> (1787), <span class="italic">Astronomical and Geographical Essays</span> (1789), <span class="italic">Geometrical and Graphical Essays</span> (1791), and <span class="italic">Lectures on Natural and Experimental Philosophy</span> (5 vols., 1794). The last work had a strong religious theme, and was undertaken, Adams said, specifically to counter the atheistic approach to the subject then prevalent on the continent. Failing health caused him to move to Southampton, where he died on 14 August 1795, aged forty-five. He and Hannah had no children.<br>
+<br>George Adams senior's widow, Ann, was still alive when her son George died, leading to uncertainty about the ownership of the business. At first Hannah Adams tried to carry it on in both its bookselling and instrument-making aspects, and a barometer signed by her is known. She managed to secure the appointment of mathematical instrument maker to his majesty for herself, but she lost the important ordnance trade to her brother-in-law Dudley and after less than a year was obliged to give up. The stocks and copyrights of George junior's books were sold to W. and S. Jones of Holborn, who continued to publish edited and updated editions until 1813. The stock-in-trade at 60 Fleet Street was sold by auction in June 1796. Hannah retired to Clapham, Surrey, where she died in 1810 leaving an estate of about &pound;20,000, almost all of which went to her own blood relations.<br>
+<br>
+<a name="cosubject_49187"></a><span class="headword">Dudley Adams</span>  (1762&#150;1830), the youngest child of George senior and his second wife, was not quite ten years old when his father died. In 1777 he was apprenticed to his brother George to train as a mathematical instrument maker. Ten years later he married a widow, Margaret Sophia de Langlade, at St Marylebone parish church. To enable him to establish a separate business his mother gave him the globe plates and tools that had belonged to his father, and in mid-1788 he opened a shop at 53 Charing Cross. Here he concentrated on globe making but also sold all types of mathematical instruments. In 1794, possibly as a result of supplying some 28 in. globes for Lord Macartney's mission to China, he was appointed globe maker to George III.<br>
+<br>On the death of his brother in August 1795 Dudley immediately secured the ordnance appointment for himself. In July 1796, having ousted Hannah from 60 Fleet Street, he moved there. He seems to have been a poor businessman: in 1806 he lost the ordnance trade to Matthew Berge, Jesse Ramsden's successor. In 1810 he reissued his father's obsolete <span class="italic">Treatise on the Globes</span>, absurdly calling it the &#145;30th&#146; edition. In May 1817 he was adjudged bankrupt, and the Adams instrument business, founded in 1734, came to an end.<br>
+<br>Dudley's assets were dispersed in a series of auction sales between July and September 1817. They included the freehold premises at 60 Fleet Street and a country estate called Nutting Grove in Buckinghamshire. The sale particulars suggest that he had been living well beyond his means. By 1820 he had purchased the &#145;medico-electrical therapeutics&#146; business of the late Francis Lowndes in St Paul's Churchyard, located from 1822 at 22 Ludgate Street. He continued this until 1827 or later, publishing several tracts on the subject, such as <span class="italic">Electricity is the Fountain, the Great Vivifying Principle of Nature</span> (1820), against considerable opposition from the orthodox medical faculty. His tracts and minimal surviving correspondence indicate that during the 1820s his mental state gradually deteriorated, and it is probable that he died insane. He was buried in St Bride's churchyard, Fleet Street, on 20 March 1830, aged sixty-seven.<br>
+<br>Dudley's wife died in 1801. Guild records reveal that they had a son George, apprenticed in 1811, but as no further trace of him has been found it is presumed that he died before completing his apprenticeship. Lack of an heir may have been what caused Dudley to neglect his business, leading to his bankruptcy. A portrait of him by Ramsay Reinagle is mentioned in the will of his elder sister Isabella but has not been traced. Isabella died shortly after Dudley in 1830, when the surname Adams in this particular dynasty died out.<br>
+<br>John R. Millburn </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49854&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 65 (1795), 708&#150;9 [George Adams jun.] &middot; J. Brown, <i>Mathematical instrument-makers in the Grocers' Company, 1688&#150;1800</i> (1979) &middot; J. R. Millburn, &#145;The office of ordnance and the instrument-making trade in the mid-18th century&#146;, <em>Annals of Science</em>, 45 (1988), 221&#150;93 &middot; A. Q. Morton and J. A. Wess, <i>Public and private science</i><i>: the King George III collection</i> (1993) &middot; St Bride's, Fleet Street, registers, vestry minutes, and churchwardens' accounts, GL &middot; parish register, vestry minutes, and churchwardens' accounts, St Dunstan-in-the-West, Fleet Street, GL &middot; letters, Dudley Adams to earl of Liverpool, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49854&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 38281, fols. 27, 29, 72&#150;3 &middot; letters, Dudley Adams to Robert Peel, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49854&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 40375, fols. 275&#150;6; 40383, fols. 207&#150;8 &middot; will, TNA: PRO, PROB 11/981, sig. 348 [George Adams sen.] &middot; will, TNA: PRO, PROB 11/1265, sig. 531 [George Adams jun.] &middot; will, TNA: PRO, PROB 11/1515 [k], sig. 486 [Hannah Adams] &middot; J. R. Milburn, <i>Adams of Fleet Street, instrument makers to King George III</i> (2000) [incl. Adams catalogues and trade cards] &middot; parish register, London, St Bride's, Fleet Street [baptism, George Adams sen.], 17/4/1709 &middot; parish register, London, St Martin-in-the-Fields [marriage, George Adams sen. to Ann Dudley], 6/7/1748 &middot; parish register, London, St Bride's, Fleet Street [burial, George Adams sen.], 24/10/1772 &middot; parish register, London, St Bride's, Fleet Street [baptism, George Adams jun.], 25/6/1750 &middot; parish register, London, St Dunstan-in-the-West [marriage, George Adams jun.], 3/7/1774 &middot; parish register, London, St Dunstan-in-the-West [baptism, Dudley Adams], 5/12/1762 &middot; parish register, London, St Marylebone [marriage, Dudley Adams], 11/2/1787 &middot; parish register, London, St Bride's, Fleet Street [burial, Dudley Adams], 20/3/1830<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49854&amp;istheme=&amp;target=BL')">BL</a>, earl of Liverpool and Robert Peel, letters, MSS [Dudley Adams]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49854&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, King George III collection [George Adams sen.]
+   &middot;
+ Teylers Foundation, Haarlem, Holland, van Marum corresp. [George Adams jun.]<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. Reinagle, portrait (Dudley Adams)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> left &pound;800 specific legacies; also owned the business, two freehold properties; George Adams sen.: TNA: PRO, PROB 11/981, sig. 348 &middot; left &pound;4000 specific legacies; plus land in Essex and Surrey; book copyrights; George Adams jun.: TNA: PRO, PROB 11/1265, sig. 531; TNA: PRO, PROB 11/1515, sig. 486 [Hannah Adams] &middot; probably nil; Dudley Adams<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John R. Millburn, &#145;<span class="roman"><span class="headword">Adams family</span>  (<em>per. </em>1734&#150;1817)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/49854, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Adams family (1734&#150;1817): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/49854 
+                <br />
+
+                
+
+ George Adams senior (<em>bap. </em>1709, <em>d.</em> 1772): doi:10.1093/ref:odnb/116<br> George Adams junior (1750&#150;1795): doi:10.1093/ref:odnb/117<br> Dudley Adams (1762&#150;1830): doi:10.1093/ref:odnb/49187<br>
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/49854/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

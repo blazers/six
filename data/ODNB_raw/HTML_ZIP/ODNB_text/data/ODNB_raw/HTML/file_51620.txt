@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51620;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51620-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51620-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51620#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bury,  Charles Rugeley</span>  (1890&#150;1968), <span class="occ">chemist</span>, was born in Northfield End, Henley-on-Thames, on 29 June 1890, the first child of Charles Rugeley Bury (1849&#150;1916), a non-practising solicitor, and his wife, Aimee Gwynneth Pryse (1867&#150;1963). His mother was a direct descendant of Sir Richard Pryse of Plas Gogerddan Manor near Aberystwyth, who was created a baronet by Charles I. Her second name is a typical Welsh forename and she was very proud of her pedigree. Bury was nicknamed Dick by his nanny and this name persisted within the family. In 1895 they moved to Ellfield in Wotton under Edge in the Cotswolds. He was educated at a Leamington preparatory school and Malvern College, thence gaining an entrance scholarship to Trinity College, Oxford (1908), where he graduated in 1912 with first-class honours in chemistry. He then spent a year demonstrating in the joint Trinity&#150;Balliol chemical laboratory and during 1912/13 spent some months at G&ouml;ttingen University before being appointed assistant lecturer in chemistry in the University of Wales at Aberystwyth.<br>
+<br>Immediately the First World War started Bury volunteered for the 5th Gloucestershire regiment, was soon commissioned, and experienced a variety of active service in the western front trenches, the Middle East, and eventually as captain of an independent command which traversed Persia to the southern Caspian to secure the Baku oilfields. He suffered a skull wound at Kut in 1917 but recovered completely.<br>
+<br>After being demobilized in 1919 Bury returned to Aberystwyth to teach physical chemistry in an understaffed department heavily overcrowded with ex-service students and inadequately equipped for such numbers. In these difficult circumstances he composed his first and by far his most important publication, entitled &#145;Langmuir's theory of the arrangement of electrons in atoms and molecules&#146;, published in the <span class="italic">J. Amer. Chem. Soc.</span>, (43, 1921, 1602&#150;8). This momentous advance in understanding electronic atomic and molecular structure was written independently with no opportunity for consultation with any chemist of like interest. In this very concise paper Bury corrected Langmuir's conclusions and gave an alternative unifying summary of the chemical properties of all the elements up to uranium in terms of his new electronic structures. This version, often attributed to Niels Bohr, appeared in many subsequent chemistry texts.<br>
+<br>Bury predicted that an, as yet unknown, element of atomic number 72 should exist, and that it would not be a rare earth but would resemble zirconium. The discovery of element no. 72 (hafnium) was announced by Hevesy and Coster in <span class="italic">Nature</span> in 1923. There can be no doubt that their successful search was prompted by Bury's paper but there is no mention of the latter's prediction in their report. Another Bury prediction was that there would be a further series of elements heavier than uranium; twenty-five years later the transuranic elements were discovered.<br>
+<br>Bury's second major contribution to chemical theory, entitled &#145;Auxochromes and resonance&#146;, appeared later in <span class="italic">J. Amer. Chem. Soc.</span> (57, 1935, 2115&#150;17). By applying the concept of &#145;resonance&#146; (later termed electron delocalization) he proposed a rational electronic correlation of the effects of structural variations on the colours of diverse classes of organic dyes. The London Chemical Society rejected this paper on the ground that it &#145;had no new experimental data&#146;  (Davies, 87). However, immediately after its American publication, Bury's ideas provoked the initiation of intense research activity in dye chemistry in Britain, Switzerland, and especially at the Eastman Kodak Laboratories in the USA.<br>
+<br>The laboratories at Aberystwyth possessed little sophisticated equipment. Nevertheless, Bury showed exceptional ingenuity in devising elegant research schemes requiring little beyond precise temperature control, accurate chemical analysis, and competent use of the sensitive Beckmann thermometer. These involved accurate measurements of physico-chemical properties such as freezing points, densities, specific heats, and viscosities, as well as phase rule studies; they were the basis of his third, less spectacular, but very substantial contribution to physical chemistry, recorded in some thirty publications over two decades. By using butyric acid solutions as a model system he unravelled fundamental aspects of soap and soap&#150;acid chemistry. The intensely rancid odour of butyric acid pervading his research laboratories and lingering on clothing caused his research students occasional embarrassment in college social events and may well have terminated some budding romances.<br>
+<br>Soon after returning to Aberystwyth, Bury met Emily Frances Margaret Adams, known as Peggy, a striking golden-redhead who lectured in the agricultural botany department. They married on 11 July 1922. Their son, John (1925&#150;2000), was keenly interested in theatre design and eventually became head of design in the National Theatre. Their daughter, Anne (<i>b</i>. 1927), worked at Barclays Bank.<br>
+<br>Bury was a tall, handsome man of upright military bearing but of few words, with a rather retiring, modest personality; he never quoted his own publications to his student classes. He did not seem to enjoy lecturing but was at his best in small tutorial groups which he conducted for final-year students. These were enjoyable occasions when he relaxed completely, and his criticisms of student essays were always constructive and encouraging, occasionally spiced with his logical, dry humour. He was a very individual, markedly unconventional character, especially in dress, hairstyle, and general appearance, and his ancient cars were often the subject of humorous student pranks.<br>
+<br>An acknowledged expert on the phase rule, Bury left Aberystwyth in 1943 to become leader of the phase rule section at ICI in Billingham. On retirement from ICI in 1952 he and his wife moved to a pretty old cottage in East Dean on the South Downs. Here he enjoyed his hobby as an amateur painter of considerable merit; he donated one of his canvases to the art department at Aberystwyth.<br>
+<br>Although Bury's major papers commanded worldwide interest there was little public recognition for his work apart from his election to the council of the prestigious Faraday Society. This may partly be due to his own retiring disposition and to the fact that these papers were published in America and fourteen years apart. However, there is no record of his having expressed any disappointment or bitterness. Bury died of a stroke at his home, Walnut Tree Cottage, East Dean, Sussex, on 24 December 1968 and was buried at East Dean church.<br>
+<br>J. B. Bowen </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Davies, &#145;Charles Rugeley Bury and his contribution to physical chemistry&#146;, <em>Archive for History of Exact Sciences</em>, 36 (1986), 75&#150;90 &middot; annual reports of the University College of Wales, Aberystwyth to its court of governors, 1921&#150;41, U. Wales, archive &middot; personal knowledge (2004) &middot; private information (2004) &middot; <em>Nature</em>, 222 (1969), 805<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;94,351: probate, 6 March 1969, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. B. Bowen, &#145;<span class="roman"><span class="headword">Bury,  Charles Rugeley</span>  (1890&#150;1968)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51620, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Rugeley Bury (1890&#150;1968): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51620 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

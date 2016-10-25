@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 40808;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/40/40808-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/40/40808-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=40808#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Dyer,  Henry</span>  (1848&#150;1918), <span class="occ">engineer and educationist</span>, was born on 16 August 1848 at Muirmaden in the parish of Bothwell, Lanarkshire, the son of John Dyer, a foundry labourer born in co. Cork, and Margaret Morton. Dyer attended evening classes at Anderson's University (later Anderson's College), Glasgow, and served his apprenticeship as a student engineer under Thomas Kennedy and A. C. Kirk at James Aitken &amp; Co., Cranstonhill, Glasgow. In 1868 he won a Whitworth exhibition as a &#145;workman&#146;, and then in 1870 a Whitworth scholarship. Early in 1873, newly graduated from the University of Glasgow as a BSc, he was appointed, at the age of twenty-five, principal of the Imperial College of Engineering in Tokyo. This new institution under the authority of the ministry of public works was designed to train the first generation of modern engineers for the newly opened Japan.<br>
+<br>&#145;Dyer's College&#146;, as the Imperial College of Engineering was sometimes called in Tokyo at the time, in Toranomon, in central Tokyo, was a remarkable institution, the building and equipment of which were generously funded. Dyer, in consultation with Yozo Yamao, who had lived in Glasgow (1866&#150;8) and had worked in Napier's shipyard on the Clyde and studied at evening courses at Anderson's University, worked out a six-year course during which students alternated practical and theoretical classes. All the teaching was done in English. The first- and second-year courses, which all students attended, included English (language and composition), geography, mathematics, mechanics (theoretical and applied), physics, chemistry, and drawing (geometrical and mechanical). At the beginning of the third year each student chose to specialize in one of six options&#151;civil, mechanical, or telegraph engineering, architecture, chemistry and metallurgy, or mining and engineering.<br>
+<br>The students were almost all from the samurai class and engineering as a subject was alien; they found it difficult to comprehend the idea of getting their hands dirty. As William Ayrton, who was later professor of physics at Imperial College, London, but in the 1870s was teaching at the Imperial College of Engineering, noted, &#145;the Japanese boy is not observant&#146;  (<span class="italic">General Report</span>, 77). Notwithstanding the difficulties, most of the Japanese students were hard-working, enthusiastic, and dedicated.<br>
+<br>Dyer left the college, and Japan, in July 1882. The Japanese government was generous in its praise of him, appointed him to the order of the Rising Sun (third class), and made him honorary principal of the college. Times were changing; the Akabane engineering works was to become an Imperial Japanese Navy facility, and in 1886 the college itself was taken out of the hands of the ministry of public works and united with other colleges to become the faculty of engineering of the University of Tokyo, under the ministry of education. On his return to Glasgow, Dyer failed, both in 1883 and in 1886, in attempts to obtain the newly established chair of naval architecture in the University of Glasgow. He remained actively involved in advisory roles at Anderson's College and became an important, if unofficial, confidant and friend of the many Japanese who flocked to Glasgow at this time to study engineering technology in both the university and the college, and practical shipbuilding on the Clyde. From 1901, at Dyer's request, the court of the University of Glasgow agreed that Japanese should qualify as a foreign language for those seeking admission to the university.<br>
+<br>In 1874 Henry Dyer married Marie Euphemie Aquart Ferguson (1848&#150;1921). They had four sons, one of whom died four months after birth, and a daughter. In Glasgow Henry Dyer became a prolific writer, first of pamphlets and later of more substantial, wide-ranging works. His first major book was <span class="italic">The Evolution of Industry</span> (1895). Later his pro-Japanese stance resulted in his writing <span class="italic">Dai Nippon: the Britain of the East</span> (1905), and also <span class="italic">Japan in World Politics: a Study in International Dynamics</span> (1909).<br>
+<br>Henry Dyer died of pneumonia on 25 September 1918 at his home, 8 Highburgh Terrace, Dowanhill, Glasgow, aged seventy, and was buried at the Glasgow necropolis. He left an estate of over &pound;9000, a fine achievement for the son of an Irish labourer. His main earnings had been in Japan where for nearly a decade he was paid, as principal of the Imperial College of Engineering, the remarkably high salary of 660 yen per month.<br>
+<br>It was William John McQuorn Rankine (1820&#150;1872), then professor of engineering at the University of Glasgow, who proposed Henry Dyer to Hirobumi Ito as first principal of the imperial college. Rankine, who believed that &#145;in theoretical science the question is what are we to think? But in practical science the question is&#151;<i>what are we to do?</i>&#146;  (Rankine, 8), recommended him as one who could combine theory and practice. Henry Dyer's achievement was the introduction of high quality heuristic engineering education into Japan, a country previously committed to Confucianism and learning by rote. At home in Glasgow, his constant and eloquent advocacy of engineering education as well as his service to the Glasgow school board were highly regarded. He became DSc in 1890, and the University of Glasgow, for his services to education, honoured him with an LLD in 1910.<br>
+<br>Olive Checkland </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>O. Checkland, <i>Britain's encounter with Meiji Japan, 1868&#150;1912</i> (1989) &middot; Mitchell L., Glas., Dyer collection &middot; U. Glas., Dyer material &middot; W. J. M. Rankine, <i>Manual of applied mechanics</i> (1858) &middot; <i>Imperial College of Engineering (Kobu-Dai-Gakko), Tokei</i><i>: reports by the principal and professors for the period 1873&#150;77</i> (1877), 77 &middot; d. cert. &middot; General Register Office for Scotland, Edinburgh &middot; private information (2004)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40808&amp;istheme=&amp;target=Mitchell%20L.%2C%20Glas.')">Mitchell L., Glas.</a>, lecture notes, papers relating to Glasgow school board
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40808&amp;istheme=&amp;target=U.%20Glas.')">U. Glas.</a>, Archives and Business Records Centre
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40808&amp;istheme=&amp;target=U.%20Glas.')">U. Glas.</a>&nbsp;|&nbsp; University of Tokyo, history of the university unit<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> cartoon (with members of Glasgow corporation education committee), repro. in W. M. Haddow, <i>My seventy years</i> (1943), 66 &middot; pencil?, repro. in <em>The Baillie</em>, 84/2166 (22 April 1914)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;9147 12<i>s</i>. 8<i>d</i>.: confirmation, 24 April 1919, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Olive Checkland, &#145;<span class="roman"><span class="headword">Dyer,  Henry</span>  (1848&#150;1918)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2010 [http://www.oxforddnb.com/view/article/40808, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Henry Dyer (1848&#150;1918): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/40808 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/40808/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

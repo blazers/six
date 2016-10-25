@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 6214;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/6/6214-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/6/6214-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=6214#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Cooper,  Daniel</span>  (1816/17&#150;1842), <span class="occ">naturalist</span>, was born at 82 Blackfriars Road, Lambeth, the second son of <script>writeSeealsoLink('../view/article/39361/', "John Thomas Cooper (1790&#150;1854)")</script>, a teacher of chemistry at a private medical school and well known in London scientific circles, and his wife, Elizabeth (<i>fl</i>. 1785&#150;1840). He was intended for a medical career like two of his brothers, and was accepted for pupillage by a local physician, James Forbes Young, who shared and fostered his enthusiasm for natural history and for field botany especially. This enthusiasm led to Cooper's precocious authorship in 1836 of <span class="italic">Flora metropolitana</span>, a guide to the best places round London for botanical rarities (and for land and freshwater molluscs).<br>
+<br>That same summer Cooper was chiefly instrumental in the founding of the Botanical Society of London. A frequent contributor of papers and exhibits to its early meetings, as initial honorary curator it fell to him to realize the society's central function as an agency for the postal exchange of dried specimens for herbaria. From the thousands of these sent in a selection had to be made, after sorting and relabelling, for a return parcel proportionate in size and interest to that sent. Cooper was through inexperience unequal to this very demanding task, and put into currency as a result numerous erroneous records which his successor, H. C. Watson, was to succeed in eliminating with only limited success.<br>
+<br>Seeking to make a living as a naturalist, Cooper had meanwhile taken on numerous lecturing and writing commitments, including editing the short-lived <span class="italic">Microscopic Journal</span>, an abstracts service which he over-optimistically calculated would be rendered viable by the patronage of the recently founded Microscopical Society of London. A temporary post in the zoology department of the British Museum, assisting with its invertebrate collections, provided a further financial crutch. Having qualified as a surgeon, however, he decided to settle for the more secure and leisured existence offered by medical service in the army. Within just a few months, after joining a cavalry regiment at Leeds, phlebitis brought on by a slight injury led to his death at the barracks, at the age of only twenty-five, on 23 November 1842. He was buried at Quarry Hill church, Leeds, on 28 November. He is not known to have married.<br>
+<br>D. E. Allen </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. E. Allen, <i>The botanists</i><i>: a history of the Botanical Society of the British Isles through a hundred and fifty years</i>, St Paul's Bibliographies (1986), 11&#150;24 &middot; <em>Microscopic Journal</em> (1842), 351&#150;2 &middot; <em>Annals and Magazine of Natural History</em>, 10 (1842), 419 &middot; <em>Proceedings of the Linnean Society of London</em>, 1 (1838&#150;48), 173 &middot; J. F. Waller, ed., <i>The imperial dictionary of universal biography</i>, 3 vols. (1857&#150;63)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Museum of Holmesdale Natural History Club, Reigate, herbarium of J. A. Brewer, about 50 botanical specimens<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">D. E. Allen, &#145;<span class="roman"><span class="headword">Cooper,  Daniel</span>  (1816/17&#150;1842)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/6214, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Daniel Cooper (1816/17&#150;1842): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/6214 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

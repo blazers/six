@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25511;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25511-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25511-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25511#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Sibthorpe <span class="st"> [Sibthorp]</span>,  Robert</span>  (<em>d.</em> 1662), <span class="occ">Church of England clergyman</span>, has often been confused with namesakes, including the bishop of Limerick who died in 1649. Nothing is known of his parents or early life, and the attendance at Lincoln College, Oxford, indicated on his funeral monument, lacks clear confirmation. It was as a BA that he was ordained priest at Peterborough on 21 September 1606, and on 13 February 1608 he obtained through royal patronage the vicarage of St Giles, Northampton.<br>
+<br>Sibthorpe soon began service in the Peterborough diocesan courts, where John Lambe, whose sister he had married, was an ecclesiastical lawyer. Like Lambe, Sibthorpe had strongly ceremonialist and absolutist convictions: he detested the word-centred piety prevailing in the Jacobean church, which he stigmatized as puritan, and longed to replace it with a piety centred on sacraments and ceremonial conformity. As he attempted to impose this in 1610 the boycotting of his ministry by godly parishioners provoked a flurry of court activity. In 1615 Sibthorpe, Lambe (now chancellor of the diocese), and the controversialist David Owen again tried to impose ceremonial conformity, especially kneeling during receipt of communion, but without support from the establishment success was limited. In <span class="italic">A Counterplea to an Apostataes Pardon</span> (1618), a Shrove Tuesday Paul's Cross sermon, Sibthorpe, like Owen, called for an abandonment of toleration of nonconformity: by their disobedience to divinely ordained episcopacy puritans were damning their souls and should be punished; they should not be permitted to equivocate over taking oaths of conformity.<br>
+<br>From 1616 Sibthorpe had been serving in the cure of St Sepulchre in Northampton; in 1619, having received from Lambe formal appointment there, he resigned his St Giles living. In 1622 he relinquished his cure on receiving from the patron, William Lisle, the rectory of Brackley, and was appointed a collector of aid for the distressed ministers of the Rhine palatinate. Meanwhile he held in plurality, until he resigned it in 1627, the living of Water Stratford, Buckinghamshire, obtained from Sir Arthur Throckmorton.<br>
+<br>The accession of Charles I brought Sibthorpe's views into vogue. Around 1625 he was made a JP and gained a doctorate of divinity, but national notoriety was only achieved on 22 February 1627, when he preached in favour of payment of the forced loan at Northampton assizes. Those who were disobedient to divine right monarchy he denounced as puritan rebels and damned souls, proclaiming &#145;if Princes command anything which is against the lawes of God or Nature or impossible yet Subjects are bound to undergoe the punishment without &hellip; resistance&#146;, and &#145;he that resisteth the Prince resisteth the power and ordinance of God, and consequently shall receive damnation&#146;  (R. Sibthorpe, <span class="italic">Apostolike Obedience</span>, 1627, 13, 3). Archbishop Abbot's refusal to license such absolutist ideology for the press was a factor in his downfall, since the king clearly agreed with Sibthorpe's ideas, and in his eclipse by the faction of Bishop Laud, whose colleague Bishop George Montaigne of London licensed the sermon. Sibthorpe's rewards were a royal chaplaincy and the vicarage of Burton Latimer, Northamptonshire (8 April 1629). However, he was condemned in the parliaments of 1628 and 1629, and narrowly escaped impeachment. With Lambe he was questioned over his support for Laud in his feud with Bishop John Williams, which persisted into an abortive 1630s Star Chamber case.<br>
+<br>William Piers, bishop of Peterborough from 1630 to 1632, appointed Sibthorpe chief lecturer at Kettering, and by 1633 John Towers was suggesting that Sibthorpe replace him as dean of Peterborough. In 1634 he contributed towards Archbishop Laud's prosecution of Charles Chauncy's opposition to the altar policy. Indeed, Sibthorpe had come to regard Laud and Lambe (now dominant in the central courts) as his only protectors against a ubiquitous puritanism threatening the king, the church, and himself. However, Bishop Francis Dee's drive for conformity in Peterborough in 1637 gave Sibthorpe the chance to realize his vision of the church since, in a new departure, Dee's church survey addressed liturgical practice and the whole groundplan of parochial worship. All parishes were to possess an east end, railed altar, all clergy were to administer communion from within the rails, and all communicants were to receive there kneeling. Together with Samuel Clarke (<i>d</i>. 1641), archdeacon of Derby, Sibthorpe executed the commission with customary zeal, making Dee's success possible. He ensured that the minister (Thomas Ball) and churchwardens of All Saints', Northampton, and Miles Burkit, vicar of Pattishall, were harried for their opposition to the altar policy. The prerogative tax of ship money was seen as another test of loyalty so when Thomas Bacon, lord of the manor of Burton, defaulted over payment, Sibthorpe prosecuted him in Star Chamber. He supported the conformist cleric Richard Powell, who preached in favour of paying the tax but was accused of preaching against it by defaulters. Violent arguments broke out with Sir Richard Samwell, a godly JP who was detailed to investigate the case, but the privy council backed Sibthorpe's notion of a puritan conspiracy to undermine the tax and removed Samwell from the commission of the peace. At Brackley, Sibthorpe perceived another puritan conspiracy, led by the godly JP John Crewe, to oust him from the living and control the Wednesday lecture. He despised Crewe's sabbatarianism in attempting to brand as vagrants a group of musicians invited to play at Brackley fair, as part of the latitude permitted by the <span class="roman">Book of Sports</span>. Through Lambe and John Towers, bishop of Peterborough from March 1639, Sibthorpe secured the establishment of a heavily regulated combination lecture to be delivered only by himself and preachers approved by the bishop. Its future survival was linked, uniquely, to full performance of Laudian ceremonial by both preacher and congregation. The climax of Sibthorpe's anti-puritan paranoia came with the bishops' wars of 1639, which he regarded as &#145;Rebellio Puritanica&#146;  (Stowe MSS, 3 June 1639). When his ally, George Plowright, was pressed as a soldier by the godly deputy lieutenant Sir Rowland St John, he reported the matter via Lambe to the privy council. Again the explanation was a puritan conspiracy to ruin him, but this time the case backfired; ironically, in view of the sentiments expressed in <span class="italic">Apostolike Obedience</span>, he was advocating resistance.<br>
+<br>The Long Parliament moved swiftly against such a zealous instrument of Charles I's personal rule; according to Sir Thomas Aston, one of the four &#145;greatest Enemies to church and state that ever was&#146;  (J. Maltby, <span class="italic">Prayer Book and People in Elizabethan and Early Stuart England</span>, 1998, 163&#150;4). Sibthorpe was sent for as a delinquent by the House of Lords in December 1640 and accused by Bishop John Williams of secular absolutism and religious innovation. On 21 January 1641 the Lords removed him from the commission of the peace, although he was later given leave of absence to go to Northamptonshire. He escaped to the royalist headquarters at Oxford in 1643 and was soon sequestered by the Northamptonshire county committee. His successor at Burton Latimer was admitted on 11 June 1644. In 1646 he was granted a university licence to preach in any part of the kingdom, and he seems to have spent some time in London: his will later mentioned a Mrs Daraston of Long Acre, London, who with her husband had &#145;done mee many friendly offices in the late tymes of my trouble&#146;  (<span class="italic">Walker rev.</span>, 284). At the Restoration, Sibthorpe was reinstated. He died in April 1662 and was buried in Burton chancel on 25 April. His wife had predeceased him.<br>
+<br>J. Fielding </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. J. Fielding, &#145;Conformists, puritans and the church courts: the diocese of Peterborough, 1603&#150;1642&#146;, PhD diss., U. Birm., 1989 &middot; H. I. Longden, <i>Northamptonshire and Rutland clergy from 1500</i>, ed. P. I. King and others, 16 vols. in 6, Northamptonshire RS (1938&#150;52), vol. 12, pp. 169&#150;71 &middot; R. P. Cust, <i>The forced loan and English politics, 1626&#150;1628</i> (1987) &middot; Sibthorpe, letters to J. Lambe, 1639, Hunt. L., Stowe papers [unfoliated] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25511&amp;istheme=&amp;target=Walker%20rev.')"><i>Walker rev.</i></a>, 284 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25511&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 2.549&#150;52, 99&#150;100 &middot; V. L. Stater, &#145;The lord lieutenancy on the eve of the civil wars: the impressment of George Plowright&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25511&amp;istheme=&amp;target=HJ')"><i>HJ</i></a>, 29 (1986), 279&#150;96 &middot; Northants. RO, Peterborough diocesan records, misc. document 88<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25511&amp;istheme=&amp;target=Hunt.%20L.')">Hunt. L.</a>, Stowe MSS, letters to Sir John Lambe<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;103 9<i>s</i>.: inventory, 26 April 1662, Longden, <i>Northamptonshire and Rutland clergy</i>, vol. 12, pp. 169&#150;71<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. Fielding, &#145;<span class="roman"><span class="headword">Sibthorpe ,  Robert</span>  (<em>d.</em> 1662)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/25511, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Sibthorpe (<em>d.</em> 1662): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25511 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

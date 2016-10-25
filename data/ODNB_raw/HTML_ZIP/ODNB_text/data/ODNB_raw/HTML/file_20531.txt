@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20531;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20531-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20531-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20531#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">O'Curry,  Eugene</span> <span class="st"> [Eoghan &Oacute; Comhraidhe, Eoghan &Oacute; Comhra&iacute;]</span>  (1794&#150;1862), <span class="occ">Irish scholar</span>, was born on 20 November 1794 at Dunaha, near Carrigaholt, co. Clare, Ireland, the third son of Eoghan &Oacute; Comhra&iacute; (Eugene O'Curry), a farmer, and his wife, C&aacute;it U&iacute; Chomhraidhe (Catherine O'Curry), N&iacute; Mhadag&aacute;in (Madigan) of Dunaha.<br>
+<br>O'Curry's father had spent some time as a wandering pedlar, and had acquired a deep interest in Irish folklore and music; the fact that he possessed a number of Irish manuscripts suggests that he was literate. There is no record of O'Curry's having received a formal education, but it seems likely that his father taught him to read and write, and the Irish scholar Peter O'Connell (Peadar &Oacute; Conaill), who compiled an unpublished Irish&#150;English dictionary with the help of O'Curry's brother Malachy (Maoilsheachlainn), used to visit the house.<br>
+<br>O'Curry worked on his father's farm, and was also a schoolmaster for a time. At the age of about thirty-three he got a post in the lunatic asylum at Limerick. He spent seven years in this employment, and married Anne Broughton of Broadford, co. Limerick, on 3 October 1824. It is clear that he was an enthusiastic supporter of Catholic emancipation at this period, and he wrote a poem congratulating Daniel O'Connell on his election to parliament in 1828. A year later he sent an address and historical poem to the Royal Irish Academy, which is preserved (MS 23 H 30, 91&#150;5).<br>
+<br>O'Curry gradually established a reputation as an authority on Irish language and history, and a letter written to him by John O'Donovan in 1834 contains a request for information on the survival in Limerick of traditions relating to Muircheartach &Oacute; Briain, king of Thomond. O'Donovan had been employed since 1830 on the topographical and historical section of the Irish Ordnance Survey, and recommended that O'Curry be appointed to the staff, though he expressed anxiety that the heavy work and travel might prove too much of a burden. He was appointed in 1835, and in fact did little travelling on behalf of the survey, remaining for the most part in Dublin. In January 1840 O'Donovan married Mary Anne, Mrs O'Curry's sister.<br>
+<br>The work of this section of the Ordnance Survey was stopped in 1842, though O'Donovan continued to be paid until his death as adviser on the forms of the place names used in the maps. Between 1842 and 1844 O'Curry was mainly employed in cataloguing the Irish manuscripts in the possession of the Royal Irish Academy. After this work was completed, he supported himself by transcribing manuscripts. For example, in 1848 he transcribed the <span class="roman">Book of the O'Conor Don</span> for the Royal Irish Academy for a fee of &pound;100. In 1849 he was likewise paid &pound;100 for cataloguing the Irish manuscripts in the British Museum. It was he who transcribed the Irish manuscripts which O'Donovan edited in seven volumes between 1848 and 1851 as <span class="italic">The Annals of the Kingdom of Ireland by the Four Masters</span>.<br>
+<br>The 1850s saw an improvement in O'Curry's financial situation, as well as increased recognition by other scholars. In 1851 he was elected a member of the Royal Irish Academy, in spite of O'Donovan's fears that his strongly expressed Catholic views might prevent some of the protestant members from voting in his favour. He contributed editions of Irish texts to a number of important publications. Thus he was responsible for the translation of the <span class="italic">Rule of Columkille</span> in William Reeves's edition of <span class="italic">Primate Colton's Visitation of the Diocese of Derry</span>, published in 1850. He also provided the text and translation of the Irish poems in Reeves's &#145;Description of the Codex Maelbrighte&#146; in the <span class="italic">Proceedings of the Royal Irish Academy</span> of 1851. The songs in the first volume of George Petrie's <span class="italic">Collection of the Ancient Music of Ireland</span>, published in 1855, were mostly edited or dictated by him. He also helped Petrie with the preparation of the second volume: in September 1857 he accompanied O'Donovan, Petrie, and some members of the British Association to the Aran Islands, where they recorded the words and tunes of local songs. Reeves's 1857 edition of <span class="italic">Adamnan's Life of Columba</span> includes four poems relating to the saint which were edited and translated by O'Curry.<br>
+<br>As well as contributing to the publications of other scholars, O'Curry also published under his own name. Worthy of mention are his edition of the poem &#145;Ogum i llia uas lecht&#146; in the <span class="italic">Transactions of the Ossianic Society</span> for the year 1853, and of <span class="italic">Cath Mhuighe L&eacute;ana</span> (&#145;The Battle of Magh L&eacute;ana&#146;), which was published by the Celtic Society in 1855. A number of Irish poems were edited by him in the <span class="italic">Proceedings of the Royal Irish Academy</span>.<br>
+<br>In 1854 the Catholic university was set up in Dublin by John Henry Newman, and in May of the same year O'Curry was appointed to the professorship of archaeology and Irish history. In 1855&#150;6 he delivered a series of lectures&#151;which Newman regularly attended&#151;on the &#145;Manuscript materials of ancient Irish history&#146;. This outstanding and still valuable work was published at the expense of the university in 1861. A later series of lectures, entitled &#145;On the manners and customs of the ancient Irish&#146;, was posthumously published by W. K. Sullivan in 1873. In 1858 he published a translation of &#145;The Sick-Bed of Cuchulainn and the Only Jealousy of Eimer&#146; in <span class="italic">Atlantis</span>, the journal of the Catholic university.<br>
+<br>The transcription, editing, and translation of the Irish legal manuscripts was a massive undertaking, involving many scholars. In 1851 Dr James Henthorne Todd and Dr Charles Graves asked O'Curry to transcribe and translate a law text entitled <span class="italic">Leabhar aicle</span> from a manuscript in the library of Trinity College, Dublin. They were so impressed with the result that they submitted in February 1852 a proposal to the government for the publication of all known law texts. O'Curry was sent to catalogue and collate the legal manuscripts in the British Museum and in the Bodleian Library. The first meeting of the commission for publishing the ancient laws and institutes was held in December 1852. Graves was chosen as secretary, and O'Donovan as editor. Not surprisingly, O'Curry was unhappy with this arrangement, and refused to work as a subordinate to O'Donovan. This disagreement was resolved by appointing both as co-editors, but it soured the hitherto cordial relations between the two men. None the less, the work of transcription proceeded at a fair pace, and was finished by October 1855. O'Curry's transcription comprised 2906 pages and that of O'Donovan 2491 pages. Problems relating to editorial policy further bedevilled the project. O'Curry had hoped that the brilliant Irish scholar Whitley Stokes might be persuaded to help. However, Stokes felt that his own legal knowledge was inadequate for taking on the task. In 1859 the commissioners appointed the lawyer William Neilson Hancock as co-editor, and in 1861 they agreed that he and O'Donovan should start editing the <span class="italic">Senchas m&aacute;r</span> texts without O'Curry. The idea seems to have been that O'Curry should continue to work on <span class="italic">Leabhar aicle</span>. O'Curry refused, and urged that the principle of editorial co-responsibility should be retained. The death of O'Donovan on 10 December 1861 administered a severe blow to the project. Basic disagreements between Hancock and O'Curry persisted, and were still unresolved when O'Curry died of a heart attack, at his home, 2 Portland Street, Dublin, on 30 July 1862, leaving behind two sons and two daughters, whose mother had died earlier. He was buried three days later at Glasnevin cemetery, Dublin.<br>
+<br>
+<span class="italic">The Ancient Laws and Institutes of Ireland</span> was published between 1865 and 1901; many of the work's flaws can be attributed to the premature deaths of O'Donovan and O'Curry, who were largely responsible for establishing sound Irish scholarship. O'Curry's industry and profound learning have ensured him a prominent place in the history of Irish studies.<br>
+<br>Fergus Kelly </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. O'Curry, <i>Lectures on the manuscript materials of ancient Irish history</i> (1861) &middot; E. O'Curry, <i>On the manners and customs of the ancient Irish</i>, ed. W. K. Sullivan, 3 vols. (1873) &middot; &Eacute;. de h&Oacute;ir, <i>Se&aacute;n &Oacute; Donnabh&aacute;in agus Eoghan &Oacute; Comhra&iacute;</i> (1962) &middot; P. &Oacute; Fiannachta, ed., <i>Eoghan &Oacute; Comhrai</i><i>: saol agus saothar</i> (1995) &middot; <i>S&iacute;olad&oacute;ir&iacute;</i><i>: Eoghan &Oacute; Comhraidhe agus Se&aacute;n &Oacute; Donnabh&aacute;in</i>, Br&aacute;thair Cr&iacute;ostamhail (Baile &Aacute;tha Cliath, 1947) &middot; P. MacSweeney, <i>A group of nation-builders</i><i>: O'Donovan, O'Curry, Petrie</i> (1913) &middot; M. Tierney, &#145;Eugene O'Curry and the Irish tradition&#146;, <em>Studies: an Irish Quarterly Review</em>, 51 (1962), 449&#150;62 &middot; M. Herity, &#145;Eugene O'Curry's early life: details from an unpublished letter&#146;, <em>North Munster Antiquarian Journal</em>, 10 (1966&#150;7), 143&#150;7 &middot; T. Lee, &#145;Eugene O'Curry&#146;, <em>Limerick Field Club Journal</em>, 1/1 (1897&#150;1900), 26&#150;31 &middot; T. Lee, &#145;Eugene O'Curry&#146;, <em>Limerick Field Club Journal</em>, 1/3 (1897&#150;1900), 1&#150;11 &middot; T. Lee, &#145;Eugene O'Curry&#146;, <em>Limerick Field Club Journal</em>, 2 (1903), 177&#150;89 &middot; S. Atkinson, &#145;Eugene O'Curry&#146;, <em>Irish Monthly Magazine</em>, 2 (1874), 191&#150;210 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20531&amp;istheme=&amp;target=CGPLA%20Ire.')"><i>CGPLA Ire.</i></a> (1862)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20531&amp;istheme=&amp;target=BL')">BL</a>, catalogue of the Irish MSS in the British Museum, Add. MS 43376
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20531&amp;istheme=&amp;target=Royal%20Irish%20Acad.')">Royal Irish Acad.</a>, ordnance survey letters&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20531&amp;istheme=&amp;target=Royal%20Irish%20Acad.')">Royal Irish Acad.</a>, Brehon law commission MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> F. W. Burton, pencil, 1857, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20531&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> &middot; B. Mulrenin, portrait, repro. in de h&Oacute;ir, <i>Se&aacute;n &Oacute; Donnabh&aacute;in agus Eoghan &Oacute; Comhra&iacute;</i>, facing p. 2 &middot; photograph, repro. in Br&aacute;thair Cr&iacute;ostamhail, <i>S&iacute;olad&oacute;ir&iacute;</i>, frontispiece<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;1000: administration, 26 Aug 1862, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Fergus Kelly, &#145;<span class="roman"><span class="headword">O'Curry,  Eugene</span>   (1794&#150;1862)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/20531, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Eugene O'Curry (1794&#150;1862): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20531 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

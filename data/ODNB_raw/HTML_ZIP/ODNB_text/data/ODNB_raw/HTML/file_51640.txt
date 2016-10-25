@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51640;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51640-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51640-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51640#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Combridge,  John Theodore</span>  (1897&#150;1986), <span class="occ">mathematician and university administrator</span>, was born on 28 August 1897 at 5 Leopold Road, Brighton, the son of Daniel Thomas Combridge, a retired butcher, and his wife, Rhoda Rebecca Gardner. Educated at Brighton College (1912&#150;17), he served in France as a lieutenant in the Royal Field Artillery before entering St John's College, Cambridge, in 1919. He gained a mathematics wranglership in 1921 and entered King's College, London, in 1922, gaining the MSc with distinction in 1924. By this time he had also started as a demonstrator in mathematics (1923&#150;6) at the City Guilds Engineering College, Kensington. His lecturing career continued at King's College, London, where he served as assistant lecturer (1926&#150;9) and lecturer (1929&#150;37). On 30 December 1926 he married Norah Elizabeth Charlwood, a schoolteacher. They had three children in a happy marriage which was terminated by her sudden death in 1966.<br>
+<br>Combridge's early scholarly interest in general relativity was stimulated by contact with Arthur Eddington at Cambridge and the link continued through correspondence until 1936. His own scholarly work in mathematics was largely confined to wide-ranging and meticulous bibliography. His card index, with annotation, of some 1700 papers in general relativity, was eventually published by King's College under the title <span class="italic">Bibliography of Relativity and Gravitation Theory, 1921&#150;1937</span> (1965).<br>
+<br>In 1937 Combridge's career took a different direction when he accepted the post of assistant secretary at King's College. He played a leading part in managing the college's wartime precautions, including the evacuation to Bristol (1939&#150;43). In 1947 he was appointed registrar&#151;a new position&#151;alongside a new secretary. This division of labour, and his administrative skill, helped him also to pursue with vigour and growing influence his wider interests in the post-war development of mathematics education.<br>
+<br>In 1930 Combridge had joined the Mathematical Association, an influential organization involving secondary school and university teachers. He was soon active in the association's committee work and major report production, becoming chairman of its teaching committee (1950&#150;56). During his chairmanship the association published authoritative reports on the teaching of trigonometry (1950), calculus (1951), and higher geometry (1953), for which he acted as a writer. He later played a major part in the production of a report on the teaching of mechanics (1965). He served on the association's council, acted as a trustee, and became president (1961&#150;2) in the year of his retirement from King's College.<br>
+<br>During his early &#145;retirement&#146; Combridge continued to work tirelessly for both the association and the advancement of British mathematics education. He was an energetic chairman of the schools and industry committee (1963&#150;72), which, with sponsorship from industry, organized industrial placements for mathematics teachers, and promoted the development of &#145;numeracy&#146; in a broad sense, notably through a publication edited by Combridge, <span class="italic">Count me in: Numeracy in Education</span> (1968). He also played a significant part in the establishment of both the Joint Mathematical Council of the United Kingdom (1962) and the Institute of Mathematics and its Applications (1963).<br>
+<br>Through his work for the Mathematical Association Combridge met his second wife, another schoolteacher, Winifred Adelaide Cooke. They both contributed strongly to the work for the association's centenary in 1971; he became the unofficial historian and archivist. They married on 22 April 1972 and shared their retirement in St Albans until Winifred's death in 1986.<br>
+<br>Combridge was widely respected both at King's College and in the Mathematical Association, not only for his administrative skill but also for his unswerving loyalty, integrity, inspiring leadership, and sympathetic support for all sectors of the teaching profession. His very sharp but kind sense of humour helped to enliven many committee meetings and social gatherings. He died of old age, two months after his wife, on 10 December 1986 at 18 Alexandra Road, Watford, and was buried on 17 December at St Peter's Church, St Albans.<br>
+<br>Michael H. Price </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Bulletin of the London Mathematical Society</em>, 20 (1988), 156&#150;9 &middot; <em>Mathematical Gazette</em>, 71 (1987), 307&#150;9 &middot; biographical archive sheet, St John Cam. &middot; G. Huelin, <i>King's College, London, 1828&#150;1978</i> (1978) &middot; M. H. Price, <i>Mathematics for the multitude? A history of the Mathematical Association</i> (1994) &middot; personal knowledge (2004) &middot; b. cert. &middot; d. cert. &middot; m. certs. &middot; Mathematical Association membership lists, Mathematical Association archives, 259 London Road, Leicester<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>259 London Road, Leicester, Mathematical Association archives
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51640&amp;istheme=&amp;target=Kings%20Lond.')">King's Lond.</a>, research notes<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in <em>Mathematical Gazette</em>, 46 (1962), 179 &middot; photograph (after a photograph, repro. in <i>Mathematical Gazette</i> (1962)), repro. in <em>Bulletin of the London Mathematical Society</em>, 159<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;293,411: probate, 1987, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael H. Price, &#145;<span class="roman"><span class="headword">Combridge,  John Theodore</span>  (1897&#150;1986)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51640, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Theodore Combridge (1897&#150;1986): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51640 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

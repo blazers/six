@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13591;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13591-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13591-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13591#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Holmes,  Edward</span>  (1797?&#150;1859), <span class="occ">music critic</span>, was probably born in London in 1797, though his death certificate gives his age in 1859 as fifty-nine. At John Clarke's school, Enfield, he became friends with Keats, whose respect he won first as a fighter but subsequently for his literary taste. He was in turn influenced by the headmaster's son, Charles Cowden Clarke, who introduced them both to the music of Mozart. After a brief apprenticeship to the bookseller R. B. Seeley he lodged in Vincent Novello's house as a music student; there he met Shelley, Hazlitt, Leigh Hunt, and Charles and Mary Lamb, and musicians including Mozart's pupils Thomas Attwood and Hummel, as well as Mendelssohn and Liszt.<br>
+<br>On the foundation of the weekly <span class="italic">Atlas</span> in November 1826, Holmes became its music critic, and in the following year he set off on a continental tour that led to his first book, <span class="italic">A Ramble among the Musicians of Germany</span> (1828). Somewhat influenced by the work of Hazlitt and the Lambs, this is an individual, entertaining, and sharply observed account of his travels, which included encounters with famous musicians, such as the singers Henriette Sontag and Luigi Lablache, as well as elderly members of the Prague orchestra who had played in the first performance of <span class="italic">Don Giovanni</span>. There are also detailed specifications of the organs Holmes was able to examine. Holmes contributed to various other journals, especially the <span class="italic">Foreign Quarterly Review</span> (1829&#150;31), the <span class="italic">Monthly Chronicle</span> (1838&#150;9), the <span class="italic">Musical World</span> (1838&#150;9), <span class="italic">The Spectator</span> (from 1843), <span class="italic">Fraser's Magazine</span> (from 1848), and, from its foundation in 1845 by Novello, over many years to the <span class="italic">Musical Times</span>. From 1833 he was organist of All Saints' Church, Poplar, and later of Holloway Chapel; he also taught the piano.<br>
+<br>A second continental journey led to <span class="italic">The Life of Mozart</span> (1845). The first adequate account of Mozart in English, this still valuable book was based on such printed sources as existed in German, together with Holmes's own researches and those of Vincent Novello, as well as close study of the music. Holmes's admiration for Mozart was based on what he saw as an ideal artistic balance between elegance of form and originality of feeling, and some of his judgements (for instance, his view of <span class="italic">Idomeneo</span> as &#145;an opera of the first magnitude and complexity&#146;) were far ahead of their time. For some time his &#145;classical&#146; response to Mozart excluded appreciation of the new Romantic music, and he was reserved about Weber, resistant to some of Beethoven, and hostile to Meyerbeer. However, he lived up to his principles of empirical criticism by allowing his prejudice against Berlioz's <span class="italic">Symphonie fantastique</span> to be overcome by the experience of hearing the work at the composer's first London concert on 7 February 1848, and wrote candidly of being won over by &#145;the original and poetic effects of the music&#146;  (<span class="italic">The Atlas</span>, 12 Feb 1848). He became a friend of Berlioz, for whom he was a &#145;savant amateur de musique de mes amis&#146; (&#145;a knowledgeable music-lover among my friends&#146;; undated letter of 1855), and whose reputation he did much secure in England, both with articles and with practical support.<br>
+<br>Holmes's writings were based on sound technical knowledge, and, particularly in his essays on the masses of Haydn, Mozart, and Beethoven, he supported his arguments with copious use of music examples. However, he resisted what he saw as some of the more limiting attitudes of the musical academics of his day, and lost few opportunities to attack &#145;the crowd of heavy professors&#146;. He saw himself as a mediator between composer and public, in particular in fighting British insularity, in gaining a hearing for unfamiliar music, and in arousing his countrymen to an awareness of the greater richness of German musical life. However, he also struck blows for his contemporaries John Field and George Onslow, and was one of the first critics to argue a case for Purcell (whom he regarded as worthy of comparison with Mozart), for Restoration composers, and for the madrigalists. His style, at its best lively, colourful, and vigorous, helped to give English music criticism new intellectual respectability.<br>
+<br>In 1849 Holmes visited America, returning in the following year. On 15 July 1857 he married Louisa Sarah Webbe, granddaughter of the composer Samuel Webbe. He published a few original compositions, in particular songs. He died in London on 28 August 1859.<br>
+<br>John Warrack </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Warrack, &#145;Holmes, Edward&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13591&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a> &middot; M. Cowden Clarke, <i>The life and labours of Vincent Novello, by his daughter</i> (1864) &middot; C. Cowden Clarke and M. Cowden Clarke, <i>Reminiscences of writers</i> (1878) &middot; H. E. Rollins, ed., <i>The Keats circle</i><i>: letters and papers, 1816&#150;1878</i> (1948) &middot; A. W. Ganz, <i>Berlioz in London</i> (1950) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13591&amp;istheme=&amp;target=MT')"><i>MT</i></a>, 9 (1859&#150;61), 125&#150;6 &middot; E. D. Mackerness, &#145;Edward Holmes (1797&#150;1859)&#146;, <em>Music and Letters</em>, 45 (1964), 213&#150;27 &middot; d. cert. &middot; m. cert.<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Warrack, &#145;<span class="roman"><span class="headword">Holmes,  Edward</span>  (1797?&#150;1859)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13591, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Holmes (1797?&#150;1859): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13591 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

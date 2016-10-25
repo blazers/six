@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50385;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50385-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50385-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50385#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Paterson, Sir  Clifford Copland</span>  (1879&#150;1948), <span class="occ">engineer</span>, was born at Westfield, Cazenove Road, Stoke Newington, London, on 17 October 1879, the son of Frederick Paterson, a tanner and leather merchant, and his wife, Janette, <i>n&eacute;e</i> May. After attending a private school and, from 1892 to 1896, Mill Hill School, he studied at Finsbury Technical College for a year, and then served engineering apprenticeships with George Wailes &amp; Co. in London and Mirrlees, Watson &amp; Co. in Glasgow. In 1901 he returned to Faraday House, London, as a special student assistant in the testing department under Alexander Russell. In 1902 he was sent to Switzerland to the Maschinenfabrik Oerlikon, where he worked on the Jungfrau railway installation.<br>
+<br>In 1903 Paterson was appointed assistant (later principal assistant) of the electrotechnical and photometric divisions of the National Physical Laboratory (NPL), which had been founded in 1900. Building work on the electrotechnical laboratory did not start until 1905 and Paterson was closely involved in its design. Not only did he gain valuable experience in setting up a research laboratory, he also undertook research on subjects including photometric units and standardization. He married, on 31 May 1905 at Stamford Hill Congregational Church, Eleanor Daisy (1875&#150;1962), daughter of William Ogden, chartered accountant. They had two sons and one daughter.<br>
+<br>Paterson was deeply involved in the many committees and institutions seeking to create a national framework for science and engineering. International electrical units were being developed (work in which the NPL took a central role) and there were calls to raise the standard of engineering education and training. Paterson's first public role was linked to his research on electric lighting: in 1913 he was elected the first secretary of the international commission on illumination. He was also joint secretary of the Home Office committee on the lighting of factories and workshops, which published its report in 1915. During the First World War he was a member (later chairman) of the Board of Trade committee on ships' navigation lights and chairman of the British Engineering Standards Association committee dealing with the lamps used by the Royal Flying Corps. In 1918 he began a long service on the council of the Institution of Electrical Engineers, which he had joined in 1902. These commitments did not mean that he neglected his own research. In 1916 he was appointed OBE for his work on the Paterson&#150;Walsh electric height finder (developed with J. W. T. Walsh).<br>
+<br>In 1916 Paterson was approached by Christopher Wilson and F. W. T. Driver of the Osram Lamps works to see if he was interested in setting up a research laboratory. Paterson initially declined the offer: &#145;I was apprehensive that I might be asked to associate myself with a scheme that would make research men mere trouble-hunters about the factory&#146;  (Paterson, <span class="italic">Confidential History</span>, 6). Wilson and Driver, however, assured him that he would have the freedom to set up the laboratory on his own terms and Paterson agreed to take on the project when the war ended.<br>
+<br>By 1918 the project had grown as the works were amalgamated with the General Electric Company (GEC), which had always held an interest in the concern. The laboratories were now to cover all of GEC and the first laboratory was set up at the valve works at Hammersmith in 1919. As at the NPL, new laboratories had to be designed and built from scratch. This time Paterson was in complete charge and, drawing on his NPL experience,<blockquote>made up my mind then that if ever Providence gave me another chance of designing a laboratory it should have (1) Offices; (2) room for junk (some people regard these as synonymous); and (3) properly designed facilities for piping etc., to the various laboratories (Paterson, <span class="italic">Confidential History</span>, 10)</blockquote>In 1922 the laboratories moved to new premises at Wembley. Paterson planned all aspects of the laboratories' operation. The laboratories would be involved in solving problems raised by the factories and improving technical aspects of production and operation. They would also undertake long-term investigations that would be of commercial application in the future, as well as research into fundamental physics.<br>
+<br>Paterson became president of the Institution of Electrical Engineers in 1930 and presided over the celebrations in 1931 of the centenary of Faraday's discovery of electromagnetic induction. In his inaugural address he set out his views on research and its place in industry: &#145;The working ideal which inspires the research man is the substitution of knowledge for empiricism, and this finds as true an expression in industry as in those research institutions whose labours are furthest removed from practical utility&#146;  (Paterson, &#145;Inaugural address&#146;, 1). In 1937 he was awarded an honorary doctorate by the University of Birmingham.<br>
+<br>In 1938 Paterson was briefed on what was then termed RDF, the highly secret radar effort that would be central to Britain's success in the Second World War. From 1939 the GEC research laboratories developed and manufactured radar valves: first the VT58 valve used in anti-aircraft measures and then the VT90 used for aircraft interception (AI) and anti-surface vessel (ASV) radar. Early radar apparatus operated on metric wavelengths, but shorter wavelengths were needed for smaller, portable radio sets. The research laboratories produced 10 cm wavelengths using a magnetron (a type of electron tube) but this was superseded by the cavity magnetron developed by J. T. Randall and H. A. H. Boot at the University of Birmingham, which allowed greater control over the wavelengths produced. The Wembley laboratories were given the task of improving the cavity magnetron design and producing sets for practical use.<br>
+<br>During the war the GEC research laboratories also carried out research on VHF communications, wire production using diamond dies, artificial sapphires, camouflage, and lighting. Paterson had a hand in all aspects of the laboratories' work, from shuffling staff between research projects to bidding for government contracts, from worrying about staff sickness to taking his turn fire-watching on the roof. He held strong views on the qualities of the ideal research worker and tried to promote these in his administration of Wembley. He was ideologically opposed to trade unionism, which he regarded as promoting antagonism between workers and employers and creating a dependence on rules and legal arguments, and he was highly suspicious of an effort in 1944 to introduce trade union methods, including salary scales. His own conception was of a community of workers united by a shared interest in the application of science in industry, and led by a director who regarded it as a primary responsibility to safeguard the material interests of his colleagues. He felt that a balance between enabling individual research to flourish and promoting a community spirit was central to the organization of a research institution.<br>
+<br>The success of Paterson's approach can be judged by the GEC laboratories' results. By the end of the war they had produced over 300,000 valves and developed the technology experimentally and technically. They had adapted to changing conditions, taken on new projects, and had proved to be a vital part of the war effort.<br>
+<br>During this period Paterson represented the Institution of Engineering and Technology on the Electrical Industry Standards Committee, becoming chairman in 1940, and chaired the Science Abstracts Committee. He was president of the International Commission on Illumination, the Junior Institution of Engineers, the Electrical and Allied Research Association, the Institution of Engineers in Charge, and the Institute of Physics. He was involved in a number of other professional and scientific institutions, including the Royal Institution and the Royal Society of Arts, of both of which he was vice-president. Government committees on which he served included the inter-services technical valve committee, the engineering advisory committee, the Ministry of Transport street lighting committee, and the Ministry of Supply armaments committee. His honours included the Faraday medal in 1945, the Ewing medal in 1946, and the gold medal of the Illuminating Society of America in 1948. He was made a fellow of the Royal Society in 1942 and was knighted in 1946.<br>
+<br>Paterson's health began to fail in 1948 during an extensive tour of Australia and New Zealand. He became very ill on the return voyage and died shortly after returning to England, at the Peace Memorial Hospital, Watford, Hertfordshire, on 26 July 1948.<br>
+<br>Paterson had a profound influence on the electrical engineering industry of the mid-twentieth century, both as an administrator and as a public figure working towards establishing and improving standards. His philosophy was strongly influenced by his religious beliefs and political outlook (he was an active member of the Congregational church and of Moral Re-Armament). He envisaged an electrical engineering industry based on pure science, applied to current engineering projects and looking to the future.<br>
+<br>Anne Locker </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. W. Ryde, &#145;Clifford Copland Paterson&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50385&amp;istheme=&amp;target=Obits.%20FRS')"><i>Obits. FRS</i></a>, 6 (1949) &middot; R. Clayton and J. Algar, eds., <i>A scientist's war</i><i>: the war diary of Sir Clifford Paterson, 1939&#150;45</i> (1991) &middot; R. Clayton and J. Algar, <i>The GEC research laboratories, 1919&#150;1984</i> (1989) &middot; <em><i>Journal of the Institution of Electrical Engineers</i></em>, 95/1 (1948), 562 &middot; <em><i>Watford Observer</i></em> (1948) &middot; C. C. Paterson, &#145;Inaugural address&#146;, <em><i>Journal of the Institution of Electrical Engineers</i></em>, 69 (1930), 1&#150;10 &middot; C. C. Paterson, &#145;The engineer and the free electron&#146;, <em><i>Journal of the Institution of Electrical Engineers</i></em>, 75 (1937), 447&#150;52 &middot; C. C. Paterson, <i>A confidential history of the research laboratories</i> (1945) &middot; <em><i>Journal of the Institution of Electrical Engineers</i></em>, 70 (1931), 1383&#150;8 [account of Faraday centenary celebrations] &middot; E. Magnello, <i>A century of measurement</i><i>: an illustrated history of the National Physical Laboratory</i> (2000) &middot; W. J. Reader, <i>History of the Institution of Electrical Engineers, 1871&#150;1971</i> (1987) &middot; &#145;Famous scientist was great Christian&#146;, <em><i>Watford Observer</i></em> (1948) &middot; &#145;Stoke Newington: growth from 1870 to 1914&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50385&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Middlesex</i>, 8.151&#150;8, www.british-history.ac.uk &middot; &#145;Summarised information on Faraday House Engineering College&#146;, <em><i>Journal of the Institution of Electrical Engineers</i></em> (1971) &middot; b. cert. &middot; m. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Institution of Engineering and Technology, war diaries, SC MS 130
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50385&amp;istheme=&amp;target=BFINA')">BFINA</a>, documentary footage
+   &middot;
+ Institution of Engineering and Technology</p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> A. A. Campbell Swinton, group photograph, 1922, Institution of Engineering and Technology, London &middot; W. Stoneman, photographs, 1943, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50385&amp;istheme=&amp;target=NPG')">NPG</a> &middot; Elliott &amp; Fry, half-plate glass negative, 1947, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50385&amp;istheme=&amp;target=NPG')">NPG</a> &middot; Elliott &amp; Fry, vintage print, 1947, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50385&amp;istheme=&amp;target=NPG')">NPG</a> &middot; F. Hodge, oils, 1947, Institution of Engineering and Technology, London &middot; <br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;41,586 9<i>s</i>. 4<i>d</i>.: probate, 17 Feb 1949, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Anne Locker, &#145;<span class="roman"><span class="headword">Paterson, Sir  Clifford Copland</span>  (1879&#150;1948)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, May 2009; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/50385, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Clifford Copland Paterson (1879&#150;1948): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50385 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/50385/2009-05-01"> [Previous version of this biography available here: May 2009]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

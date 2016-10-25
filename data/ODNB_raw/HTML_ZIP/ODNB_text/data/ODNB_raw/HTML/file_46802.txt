@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 46802;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/46/46802-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/46/46802-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=46802#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Callender, Sir  Thomas Octavius</span>  (1855&#150;1938), <span class="occ">electrical engineer</span>, was born on 9 April 1855 at Clydeview, Partick, Lanarkshire, Scotland, the eldest of the ten children (five boys and five girls) of William Ormiston Callender (1827&#150;1908), a commission merchant, and his wife, Jean, <i>n&eacute;e</i> Marshall, the daughter of a Greenock tanner, whom he had married in 1854. In 1859 the family moved to Hammersmith, London, a decision most likely prompted by the collapse of the Western Bank of Glasgow, which resulted in Thomas's grandfather losing all his money. After some years, Thomas's father, then an agent for a number of Scottish textile mills, established the connection that was to make Callenders pioneers in the manufacture and laying of cables worldwide.<br>
+<br>Thomas was sent to school in Boulogne but returned to London to continue his education at the outbreak of the Franco-Prussian War in 1870. In that same year his father returned from Switzerland after visiting the asphalt deposits at Val de Travers, and set up Callender and Amos to act as agents for the Val de Travers Company of Neuch&acirc;tel to import asphalt for the extensive road-making schemes that were taking place in the City of London. In 1877, in the wake of this successful venture, William Callender obtained an interest in the import of bitumen from Trinidad for road-making and other waterproofing purposes, and decided it would be timely to take on his two eldest sons, Thomas and William, to form the firm of Callender &amp; Sons for the refining of bitumen and for asphalt paving. The company's first offices were at 150 Leadenhall Street, London, with a small refinery at Millwall, where the bitumen was landed. Thomas Callender quickly realized that importing unrefined bitumen halfway across the world was costly and a potential drag on the efficiency of the company, and he arranged that all impurities be eliminated at source. This undoubtedly contributed to the growing success of the company, which was developing numerous overseas road-making contracts. While on a business trip to St Petersburg in 1880, Callender was hugely impressed by the opera house, which was lit by Jablochoff candles, a primitive form of electric lighting. This, together with the simultaneous discovery of the incandescent lamp by Edison and Swan, persuaded Callender of the need to turn the business towards the production of large-capacity insulated cables if the revolution in electric lighting was to be exploited. His younger brother William had already successfully produced vulcanized bitumen (VB); the waterproofing and insulant technology was therefore already familiar to the company, and this prompted the elder William Callender to patent the new material in 1881, in order to begin tests on the production of insulated wire at their new factory on a 4.5 acre site in Erith, Kent.<br>
+<br>In 1882 Callender's Bitumen Telegraph and Waterproof Company was formed to finance the development of VB, with the original firm continuing alongside, providing the management for a further two years. Although the new company had only minimal experience of telegraph cables, it nevertheless managed to secure the services of Sir Samuel Canning of the Telegraph Construction and Maintenance Company, who had successfully laid the Atlantic telegraph cables in 1866, to make good any disadvantage. Over the following fourteen years the business of consolidating successes was due in large part to Callender's vision, his business acumen, and his indefatigable search for fresh orders, both at home and overseas. His skills, though, were not confined simply to commercial matters, for in the early 1880s he had invented the Callender solid system, whereby cables were laid in wooden troughs and embedded in bitumen, a development which was later used extensively for the laying of mains cables.<br>
+<br>The period between 1882 and the eventual reorganization of the company in 1896 saw the development of most of Callenders' pioneering projects. The management of the Erith works became Callender's responsibility, and under his direction many important early contracts were secured. The company supplied the VB cables for the electric lighting of the new law courts in the Strand and for the Covent Garden Opera House in 1883, as well as mains cables for the growing number of electricity supply companies. In 1891 the firm introduced an underground electric haulage system at the Abercannaid colliery, Merthyr, and in the same year received its first tramways order. It was also closely associated with the first electrified underground railway. By the late 1880s it was becoming clear that the company's activities required a much broader financial base to accommodate the increased demand for electric power. In 1896 the firm of Callender's Cable and Construction Company was created and within two years the number of contracts had grown from thirty-one to seventy, and total sales over the same period had increased from &pound;95,764 to &pound;296,946. With Callender as managing director (a position he held until his death), the company was well placed to profit from the huge expansion of the many applications of the electricity industry, from the early days of electric lighting to the creation of the national grid following the 1926 <span class="roman">Electricity (Supply) Act</span>. Indeed, the national grid was to provide Callenders with valuable business during the lean years of the depression.<br>
+<br>The number of overseas contracts increased dramatically in the period following reorganization, and in February 1904 the first of a number of major cabling projects was undertaken in India for electricity supply and tramways. India was to become one of Callenders' most important markets, and Callender, eager to maintain personal contact with important operations wherever possible, proposed setting up permanent headquarters there. At home the company undertook the electrification of London's metropolitan tramways, a seven-year scheme, which was completed in 1909. The General Post Office, meanwhile, was in the process of negotiating large telephone cable contracts, and the first of many large orders was placed with Callenders in 1913. The years 1914&#150;18 were given over to the war effort, and orders from the Admiralty went some way to compensate for the interruption to Callenders' usual supply lines from Trinidad.<br>
+<br>Callender was knighted in June 1918, and he continued to play a very active part in the management of the company over the following two decades. Even when in poor physical health he remained alert to all business opportunities. In 1930 he began discussions with the directors of British Insulated Cables on prospects for closer co-operation between the two companies, but it was not until June 1945 that the Callender board met for the last time before British Insulated Callender Cables began operations as a truly international company.<br>
+<br>Callender was a JP for the county of Kent, a member of the Institution of Electrical Engineers, and a director of a number of power companies. He died at his home, Bidborough Court, Bidborough, Tunbridge Wells, Kent, on 2 December 1938, surviving his wife, Bessie Emmeline, <i>n&eacute;e</i> Pinnock, whom he had married on 19 March 1885, by just six months. He was buried on 8 December at Erith cemetery, and a memorial service was held at St Clement Danes, Strand. His estate was shared between his only child, Thomas Ormiston Callender (1896&#150;1941), and other members of his family.<br>
+<br>Barbara Trompeter </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. M. Morgan, <i>Callender's, 1882&#150;1945</i> (1982) &middot; <em>The Times</em> (5 Dec 1938) &middot; <em>The Times</em> (9&#150;10 Dec 1938) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=46802&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; d. cert. &middot; b. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Callenders cables from 1882 [company only]<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> oils, 1932?, British Insulated Callender Cables Group, London<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;383,276 15<i>s</i>. 9<i>d</i>.: probate, 3 May 1939, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Barbara Trompeter, &#145;<span class="roman"><span class="headword">Callender, Sir  Thomas Octavius</span>  (1855&#150;1938)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/46802, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Thomas Octavius Callender (1855&#150;1938): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/46802 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 763;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/763-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/763-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=763#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ashley,  Robert</span>  (1565&#150;1641), <span class="occ">translator and book collector</span>, was born on 2 July 1565, second son of Anthony Ashley, of Damerham, Wiltshire, and Dorothy Lyte; he was the brother of <script>writeSeealsoLink('../view/article/757/', "Sir Anthony Ashley")</script> and <script>writeSeealsoLink('../view/article/70459/', "Sir Francis Ashley")</script>. At an early age he acquired fluent French under Hadrian Saravia, then a religious refugee in Southampton. At Salisbury Dr Adam Hill, sometime fellow of Balliol College, Oxford, gave Ashley leading parts in school plays performed at Wilton before the second earl of Pembroke. He matriculated from Hart Hall, Oxford, in 1580, but his tutor's discipline was too severe, and under the patronage of the Hatton family he was transferred to Magdalen College. Graduating in 1582, he was awarded a fellowship, proceeding MA in 1587. In his spare time from his duties as professor of geometry, he devoured medieval romances and became proficient in several modern languages. A popular student, he was chosen lord of misrule for the Christmas festivities of 1587. But his elder brother, Anthony, insisted on removing him to London to prepare for the legal profession. At the Middle Temple he was again chosen lord of misrule, a distinction he clearly valued. He also arranged for the publication of two translations from the French (<span class="italic">A Comparison of the English and Spanish Nation</span>, 1589, and <span class="italic">L'Uranie, ou, Muse celeste</span>, 1589, which translated du Bartas's poem into Latin), dedicated respectively to his brother's travelling companion Sir William Hatton and to Hatton's bosom friend, the soldier-diplomat Sir Henry Unton.<br>
+<br>Nevertheless Ashley soon quarrelled with his brother, abandoned his studies, and went abroad, serving as aide-de-camp to Sir Thomas Baskerville in the war in France against the Catholic league. At the end of 1591 he returned to take service with the new lord keeper, Sir Thomas Puckering, to whom he dedicated another translation from the French, <span class="italic">Of the interchangeable course, or variety of things &hellip; and the concurrence of armes and learning</span> (1594), from the original of Louis le Roy that dealt with a subject of abiding interest to him. As amanuensis to Puckering prospects were good but rewards so inadequate that in 1593 he again yielded to his brother's pressure, and resumed residence in the Middle Temple. He was called to the bar with suspicious speed in 1595 and, after Puckering's death in the following year, sought to recommend himself to his successor Sir Thomas Egerton with his only original work, a well-arranged and comprehensive essay on honour, a subject then deemed important to a cultivated English gentleman. Philosophically, it was based on Aristotle's doctrine of the golden mean, supported by anecdotes drawn exclusively from classical antiquity. Beautifully produced by a professional scribe, it remained in manuscript among Egerton's papers. In what may have been a further fruitless attempt to attract patronage, Ashley was elected to the 1597 parliament for the borough of Dorchester, but left no trace on its records.<br>
+<br>Silently abandoning hopes of a public career, Ashley spent the remainder of his long life as a bachelor in the Temple. His practice was not extensive, leaving him time to build up one of the finest private libraries of the time, &#145;procuring the principall writers in their severall languages, especially such as had opportunitie to be acquainted with the most remote and unknowne partes&#146;  (Heltzel, 354). After a humiliating rebuff from his inn in 1614, when he was rejected for a readership on the grounds of poverty, he began to compose autobiographical notes, chiefly for astrological purposes.<br>
+<br>In 1618 Ashley travelled through France and Spain with a view to meeting Robert Shirley, the Persian ambassador. In the Escorial he admired the great golden library of Arabic books. Spending &#145;the best houres of some few Weekes&#146; in the Bodleian Library, Oxford  (Heltzel, 358), he translated from the Spanish a biography by Miguel de Luna, published in 1627 as <span class="italic">Almansor the Learned and Victorious King</span>, with a dedication to King Charles, thus returning to print after an interval of thirty-three years. To house his ever-expanding library, the benchers allowed him the exclusive use of two sets of chambers for a hefty fine. In 1633 he published <span class="italic">Cochin China</span>, translated from the Italian account of this remote and unknown country by Cristoforo Borri, and dedicated to the governor of the East India Company, Sir Maurice Abbot, in the hope that it might be &#145;usefull to our Countrymen that trade and traffique in those Eastern partes&#146;. Another translation from the Italian, <span class="italic">David Persecuted</span> (from Virgilio Malvezzi's <span class="italic">Davide perseguitato</span>), was published in 1637. Ashley, who never married, signed his will on 27 September 1641, and was buried on 4 October in the Temple Church. He bequeathed all his books to the Middle Temple, with an endowment of &pound;300 for a catalogue. His 5000 volumes covered nearly every branch of learning, being particularly strong in civil and canon law, geography, history, mathematics, medicine, politics, and theology.<br>
+<br>John Ferris </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>V. B. Heltzel, &#145;Robert Ashley: Elizabethan man of letters&#146;, <em>Huntington Library Quarterly</em>, 10 (1946&#150;7), 349&#150;63 &middot; W. R. Prest, <i>The inns of court under Elizabeth I and the early Stuarts</i> (1972) &middot; G. D. Squibb, ed., <i>Wiltshire visitation pedigrees, 1623</i>, Harleian Society, 105&#150;6 (1954), 233 &middot; C. T. Martin, <i>Middle Temple records</i> (1904) &middot; W. R. Prest, <i>The rise of the barristers</i><i>: a social history of the English bar, 1590&#150;1640</i> (1986) &middot; W. Ingram, <i>A life in the brazen age</i> (1978) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=763&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201558%3F1603')">HoP, <i>Commons, 1558&#150;1603</i></a> &middot; N. Harris Nicolas, <i>Life and times of Sir Christopher Hatton</i> (1847) &middot; E. St John Brooks, <i>St Christopher Hatton</i> (1946) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=763&amp;istheme=&amp;target=STC%2C%201475%3F1640')"><i>STC, 1475&#150;1640</i></a> &middot; W. D. Macray, <i>A register of the members of St Mary Magdalen College, Oxford</i>, 3 (1901), 91&#150;7<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Middle Temple, London, MSS&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=763&amp;istheme=&amp;target=BL')">BL</a>, Sloane MSS 2131, fols. 16&#150;20
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=763&amp;istheme=&amp;target=Hunt.%20L.')">Hunt. L.</a>, Ellesmere MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;480 cash and 5000 books: will, 1641, repr. in Martin, <i>Middle Temple records</i>, vol. 2, pp. 917&#150;19<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Ferris, &#145;<span class="roman"><span class="headword">Ashley,  Robert</span>  (1565&#150;1641)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/763, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Ashley (1565&#150;1641): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/763 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

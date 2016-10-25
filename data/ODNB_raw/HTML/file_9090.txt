@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9090;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9090-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9090-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9090#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Fairfax,  Robert</span>  (1666&#150;1725), <span class="occ">naval officer</span>, was born in February 1666, and baptized on the 23rd of that month at Steeton Chapel, the second son of William Fairfax (1630&#150;1673) of Steeton and Newton Kyme in Yorkshire, and his wife, Catherine Stapleton (<i>d</i>. 1695). He was a grandson of <script>writeSeealsoLink('../view/article/9095/', "Sir William Fairfax")</script>, colonel in the parliamentary army, killed at the relief of Montgomery Castle in 1644. Robert first went to sea in 1681, in a merchant ship, the <i>Mary</i>, commanded by Captain Bushell, with whom he made two voyages to the Mediterranean. On his return in December 1685 his friends wanted him to enter the Royal Navy, but it was not until January 1688 that he was received as a volunteer on board the <i>Mary</i>, the flagship of Sir Roger Strickland. A few weeks after the accession of William and Mary, Fairfax was promoted to be lieutenant of the <i>Bonaventure</i>, commanded by Captain Thomas Hopson. In her he was present at the battle in Bantry Bay (1 May 1689) and afterwards at the relief of Londonderry (28 July). In June of the following year Hopson was relieved in the command of the <i>Bonaventure</i> by Captain Hubbard, but Fairfax, remaining in her, was present at the battle of Beachy Head on 30 June 1690. On 15 November he was promoted to command the <i>Conception</i> prize, and for the next two years was stationed at Boston, Massachusetts, cruising against French privateers. In June 1693 Fairfax was moved into the <i>Pembroke</i> (60 guns) and, returning in her to England, was appointed to command the <i>Ruby</i> (48 guns) and ordered to cruise on the coast of Ireland for the protection of trade. While on this service he captured, after a hard-fought action, the 44-gun <i>Entreprenante</i>, a larger French privateer. In recognition of this service he was promoted, on 24 December 1694, to the command of the <i>Newark</i> (80 guns) in which, and afterwards in the <i>Cornwall</i>, he was employed in convoy service in the channel, the Bay of Biscay, and on the coast of Portugal, until the treaty of Ryswick.<br>
+<br>On the death of Fairfax's elder brother (20 January 1694) he had succeeded to the Steeton and Newton Kyme estates, and on 20 November of that year he married Esther (<i>c</i>.1655&#150;1735), the sister of Captain Bushell and widow of Charles Tomlinson of Whitby. She was ten years older than Fairfax, but had befriended him in his youth, and he had continued to be deeply attached to her during her first marriage. A register ticket from this time describes Fairfax as a tall and well-set man of fair complexion, an image which corresponds with the first of three portraits painted at the ages of thirty and forty-two, and shortly before his death.<br>
+<br>In May 1699 Fairfax commissioned the <i>Severn</i>, which in the following year was one of the fleet sent under Sir George Rooke to maintain the treaty of Altona as between Denmark and Holstein. On returning from the Baltic he was appointed to the <i>Cambridge</i>, and in January 1702, on the eve of the declaration of war, was transferred to the 70-gun <i>Restoration</i>, one of the squadron which sailed under Sir John Munden in May. After failing to intercept the French squadron off Corunna, Munden and his ships returned to Spithead, and in the following autumn Fairfax was sent out to reinforce the Grand Fleet, which he joined at Vigo on 18 October, too late to share in the glory or the treasure, but in time to take part in the labour of refitting the prizes and bringing them to England. The <i>Restoration</i> was then paid off and in January 1703 Fairfax was appointed to the <i>Somerset</i>, from which in May he was transferred to the <i>Kent</i> as flag captain to Rear-Admiral Thomas Dilkes, with whom he served during the summer, most notably in the wholesale capture or destruction of French merchant ships at Granville on 26 July, a service for which Fairfax and the other captains, as well as Dilkes, received a gold medal. Early in 1704 Fairfax commissioned the <i>Berwick</i>, a 70-gun ship, in which he sailed in March to join Rooke and the Grand Fleet at Lisbon; remaining with the fleet through the summer. The <i>Berwick</i> was one of the six ships which vainly chased a French squadron off Cape Palos on 8 May, a failure for which Fairfax and the other captains were tried by court martial, but fully acquitted; and was one of the division actually engaged under George Byng at the capture of Gibraltar (23 July), for his share in which exploit &#145;the queen afterwards presented Fairfax with a silver cup and cover bearing a suitable inscription&#146;  (Markham, 181). The <i>Berwick</i> also fought in the battle of Malaga (13 August), where her masts, rigging, and sails were shattered and torn, and she had sixty-nine men killed and wounded. The fleet afterwards returned to England for the winter, and in the following February the <i>Berwick</i> was paid off at Chatham, although Fairfax was immediately appointed to the <i>Torbay</i>. In her he again went to the Mediterranean, under the command of Shovell, and participated with the fleet in the capture of Barcelona. After the capture of Monjuich the prisoners were sent on board the <i>Torbay</i> which supplied guns to arm the fort, and sailors to haul them up the hill. Her marines were landed for service in the trenches, and Fairfax commanded seven bomb vessels, whose fire cowed the garrison, and enabled the marines' approach. When the town capitulated on 4 October the season was already far advanced, and the fleet at once returned to England.<br>
+<br>In March 1706 Fairfax was appointed to the <i>Barfleur</i> as commander-in-chief in the Thames and Medway, but in May he was ordered round to Spithead to join Shovell, then preparing to carry over an expeditionary force intended to raid the coast of France. After vainly waiting for a promised Dutch squadron until the summer was past, a westerly gale forced the fleet to take shelter in Torbay, where it was detained for several weeks, and the original idea of a landing in France had to be given up. After a storm the <i>Berwick</i> sprang a leak, was found to be unseaworthy, and returned with difficulty to Portsmouth. In December Fairfax, with his ship's company, was turned over to the <i>Albemarle</i>, and during the early part of 1707 he was commander-in-chief at Portsmouth. In August, however, he was superseded, Sir John Leake having chosen the <i>Albemarle</i> as his flagship.<br>
+<br>Following the death of Sir Cloudesley Shovell (22 October 1707), a promotion of flag officers was made on 8 January 1708. Fairfax, by his seniority, was properly included, and a commission as vice-admiral of the blue was made out for him, signed by the lord high admiral, and gazetted. It was then cancelled, and Lord Dursley, who was much his junior, was, by the political interest of his family, made vice-admiral of the blue in his place, with seniority of 10 January. Fairfax, indignant at this treatment, refused all further service. The queen's consort, Prince George, obtained for him a commission as rear-admiral, and half pay equal to that of the rank which he had been deprived of; and on 20 June 1708 had Fairfax nominated a member of the council of the lord high admiral. However, the appointment came to an end with the prince's death (28 October), whereupon Fairfax retired from naval life. At a by-election in 1713 he was returned to parliament for the city of York, but lost his seat in the general election after the accession of George I. He had meantime been elected an alderman of York, and was elected lord mayor in 1715. He spent the rest of his life in these and other local duties, and in the management and development of his property. He died at Newton Kyme on 17 October 1725 and was buried in the church there, where he had been baptized sixty years before. He was survived by his wife, who died aged eighty in 1735, and by two children: a daughter who married Henry Pawson, the son of an alderman of York, and a son, Thomas, whose descendants long held the estates of Steeton, Newton Kyme, and Bilbrough.<br>
+<br>Fairfax gained a posthumous reputation arguably out of proportion to his achievements, primarily because of the chance survival of his papers (now in the National Maritime Museum) when those of many more prominent and interesting officers disappeared, and the subsequent decision by Sir Clements Markham to make these the basis of a slight and fanciful biography, published in 1885. Fairfax attracted more mixed opinions from contemporaries. The antiquarian Le Neve damned every line of his monument in Newton Kyme church, saying of Fairfax's alleged &#145;piety, courage and simplicity, the first two are generally denied, but as to the last <i>convenit inter omnes</i>&#146;, before condemning him as a parsimonious husband, a false friend, and a dishonourable hypocrite. Rather than investigating the charges, Markham dismissed them as &#145;garbage&#146; emanating from Le Neve's &#145;small mind&#146;  (Markham, 280&#150;81).<br>
+<br>J. K. Laughton<span class="italic">, rev. </span> J. D. Davies </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>NMM, Fairfax papers, MS 81/116 &middot; C. R. Markham, <i>Admiral Robert Fairfax</i> (1885) &middot; TNA: PRO, admiralty MSS, esp. ADM 1/5265, 6/424, 51/104<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9090&amp;istheme=&amp;target=Borth.%20Inst.')">Borth. Inst.</a>, log books, order book
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9090&amp;istheme=&amp;target=NMM')">NMM</a>, corresp. and papers, MS 81/116&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9090&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, Admiralty MSS, especially ADM 1/5265, 6/424, 51/104<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> M. Beale, oils, 1685, Gorhambury, Hertfordshire &middot; three portraits, <i>c.</i>1695&#150;1725; formerly in family possession, Bilbrough, 1885<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> left estates at Steeton and Newton Kyme, Yorkshire, a house in York, and a gift of &pound;50 to the poor of Steeton, Newton Kyme, and Bilbrough: Markham, <i>Admiral Robert Fairfax</i>, 277<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. K. Laughton, &#145;<span class="roman"><span class="headword">Fairfax,  Robert</span>  (1666&#150;1725)</span>&#146;, rev. J. D. Davies, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/9090, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Fairfax (1666&#150;1725): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9090 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/9090/2006-05"> [Previous version of this biography available here: May 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

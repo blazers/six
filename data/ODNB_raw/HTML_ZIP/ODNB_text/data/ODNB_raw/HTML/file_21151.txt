@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21151;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21151-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21151-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21151#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Palairet,  Elias</span>  (1713&#150;1765), <span class="occ">classical and biblical philologist</span>, was born in Rotterdam, of a French family which had taken refuge in the Netherlands following the revocation of the edict of Nantes in 1685. He studied at Leiden, where his first published work, the <span class="italic">Histoire du patriarche Joseph mise en vers h&eacute;ro&iuml;ques</span>, appeared in 1738. After ordination he became in turn preacher at Aardenburg (1741), Doornik (1749), and Tournai (by 1752), before moving to England where he became pastor of the French church at Greenwich (1755) and later of St John's Church, Spitalfields. His first philological work, <span class="italic">Observationes philologico-criticae in sacros Novi Foederis libros</span>, was published in 1752, with the addition of a four-part index for ease of reference, first to the location of scriptural passages, and then in Hebrew, Greek, and Latin. Its advertisement hailed the author as a man of rare industry and judgement as well as erudition. Palairet followed this, in 1754, with an eight-page specimen of critical thesaurus of the Greek language and, in 1755, a twenty-four-page pamphlet of philological exercises based on the books of the <span class="roman">New Testament</span>, intended to precede a revised edition of his <span class="italic">Observationes</span>. In 1756 his <span class="italic">Notes on the New Testament</span> appeared, while his correction of the <span class="italic">Ajax</span> and <span class="italic">Electra</span> of Sophocles, prepared in the same year, was published in 1758. On 8 April 1756 Palairet married Margaret Lefebure at Christ Church, Spitalfields.<br>
+<br>Palairet's work rapidly entered mainstream philological debate; several of his arguments from 1752 were refuted in the 1757 <span class="italic">Acta eruditorum Lipsiensium</span>, 451&#150;8, and by Charles-Louis Bauer in his <span class="italic">Stricturarum Periculum</span> (1760), but Palairet returned to the task in 1760 with a study of Latin ellipses based on clear principles of linguistic structure, <span class="italic">Thesaurus ellipsium Latinarum</span>, a work accompanied by a dual index of authors and phrases and regarded as his most useful publication  (<span class="italic">Nouvelle biographie g&eacute;n&eacute;rale</span>). In his preface Palairet promised a second edition, corrected and augmented, of Lambert Bos's <span class="italic">Ellipses Graecae</span> to complement his own work, but this was never completed.<br>
+<br>Palairet dedicated the <span class="italic">Thesaurus</span> to John Egerton, bishop of Bangor and, subsequently, of Durham, whose chaplain he had become after attracting notice with his preaching and pastoral work in London; this is said latterly to have included serving as preacher to the Dutch Chapel at St James's Palace, but there is no formal record of such an appointment in the memorials or admissions entries for the St James's Chapels Royal (TNA: PRO, RG4-4574 and 4575). None the less it is not unlikely that, given his ancestry, linguistic background, and continental experience, which remained defining influences throughout his career in England, he may have preached at the Dutch Chapel or had some connection with it.<br>
+<br>Palairet died at Marylebone on 2 January 1765; his philological reputation subsequently declined although Edmund Henry Barker, in the preface to his 1829 new edition of the <span class="italic">Thesaurus</span>, claimed that Palairet's work, as meritorious and useful as that of other philologists, deserved rescue from scholarly oblivion&#151;an aspiration never wholly fulfilled.<br>
+<br>T. P. J. Edlin </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>L. G. Michaud and E. E. Desplaces, eds., <i>Biographie universelle, ancienne et moderne</i>, new edn, 45 vols. (Paris, 1843&#150;65), vol. 32, p. 4 &middot; <i>Nouvelle biographie g&eacute;n&eacute;rale</i> (1862), vol. 39, p. 70 &middot; E. H. Barker, preface, in E. Palairet, <i>Thesaurus ellipsium Latinarum</i>, new edn (1829) &middot; private information (2004) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21151&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21151&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">T. P. J. Edlin, &#145;<span class="roman"><span class="headword">Palairet,  Elias</span>  (1713&#150;1765)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/21151, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Elias Palairet (1713&#150;1765): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21151 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/21151/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

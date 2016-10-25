@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 68239;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/68/68239-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/68/68239-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=68239#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Joseph <span class="st"> [<em>formerly </em>Becham; <em>later </em>Wyllys]</span>,  Robert</span>  (1500&#150;1569), <span class="occ">Benedictine monk and letter writer</span>, was probably born at Evesham, where he attended the grammar school before entering the Benedictine abbey in 1517 or 1518, when he changed his name from Becham to Joseph. In 1523 he was sent to Gloucester College, Oxford, and was recalled to Evesham in early 1529 after graduating BA. He became the abbot's chaplain, but was demoted in 1530 by the new prior to teacher of the novices. He spent his spare time manoeuvring for a return to Oxford and writing letters to monastic friends in the regions of the Severn and Avon and at his old university. In December 1532 he was permitted to return to Oxford where, in January 1533, he wrote his last two epistles. On 23 April 1535 he was granted his BTh. He was mentioned as prior of Gloucester College in December 1537 and replaced in early 1538 when he returned to Evesham, where he remained until the dissolution, when he changed his name to Wyllys, possibly the name of his mother's family. For nineteen years he was a secular priest at All Saints' Church in the former monastic precincts. In 1559 he was presented to the vicarage of Cropthorne, 3 miles west of Evesham, where he remained until his death, and where he was probably buried, in July 1569. He bequeathed his Latin books, and probably his collection of 170 letters and some Latin verses, to two priests with whom he had corresponded forty years earlier.<br>
+<br>Joseph's letter-book (NL Wales, Peniarth MS 119; published in 1967, edited by Dom Hugh Aveling and W. A. Pantin), which has survived by chance, illuminates university and monastic life just before the Reformation&#151;the entire collection dates from between 1530 and 1533. Joseph's attempts to point out when he was being ironic and playful, and his request to recipients that they return letters for copying, suggest that he was compiling a guide to letter writing for the novices under his charge, displaying his skills in rhetoric and in the composition of elegant and idiomatic Latin in the style of Erasmus. He required his correspondents to reply in Latin, and his references were from Cicero, Augustine, Virgil, Terence, Plautus, and contemporary humanists such as Erasmus and Baptista Manteanus. Little interest was shown in the scholastic theology of the middle ages&#151;Scotus was the butt of frequent jokes&#151;and little attention was paid to the more strident reforming aspects of even Erasmus's thought, such as church reform and the application of learning to a life of inner commitment to Christ. The writings of antiquity were read and imitated as models of persuasion; Joseph lectured to novice monks, displaying rhetoric and teaching appreciation of the comedies of Terence and Plautus. However, his letters also chart the erosion of the regency system within the university, as temporary public lecturers were being superseded by a more formal system of tutorials and lectures within the colleges. Joseph wrote letters on behalf of his younger relatives to the tutors whom he felt could supply them with a suitable humanist education.<br>
+<br>The core of this humanist, literary life was friendships sustained by letter writing. To his closest friend, John Feckenham of Evesham, who was also at Gloucester College, Joseph wrote: &#145;If I could not exchange letters with you my heart would break&#146;  (letter 111). Friendship and communication through letters attained for Joseph a religious significance. He remembered his friends in his daily prayers; mass was an opportunity to meditate on absent friends; and letters from a friend could be read many times, like the scriptures. Little interest was shown in this collection in rationalizing the monastic life and none in asceticism. Joseph enthusiastically endorsed Erasmus's secular ethic and frequently expressed irritation with the rituals and duties of the Evesham community when they distracted him from the joys of letter writing. By instinct conservative in religious matters, he reacted with horror to heresy while showing scant interest in doctrinal debate and merely expressed a desire to follow the custom and footsteps of &#145;our fathers&#146;  (letter 104). He was able to adapt to the dissolution of his house in 1540 by becoming a secular priest near his monastery (a vocation for which he always expressed the highest regard) because it allowed him to maintain his friendships. There was nothing of the martyr in his temperament.<br>
+<br>Joseph's letters are also of literary interest. He expressed the joys of creative writing. To John Dorell at Oxford he wrote: &#145;See how many words your little letter has given rise to. Keep writing: send whatever comes into your head&#146;  (letter 15). For Joseph this could include memories of his Oxford youth, and humorous references also abound: for instance to the quality of Westminster sausages, likened to candles. The letters attest the spread of Erasmian humanism into possibly unexpected places, and also bear witness, in the frequency with which he asks his friends to reply to his messages, and the anxiety with which he seeks reassurance that he has not offended anyone, to the sensitive temperament of their author.<br>
+<br>Jonathan Hughes </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The letter book of Robert Joseph</i>, ed. H. Aveling and W. A. Pantin, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=68239&amp;istheme=&amp;target=OHS')">OHS</a>, new ser., 19 (1967) &middot; NL Wales, Peniarth MS 119 &middot; W. A. Bruneau, &#145;Humanism and the university and the monastic life: the case of Robert Joseph, monk of Evesham&#146;, <em>British Journal of Educational Studies</em>, 20 (1972&#150;3), 282&#150;301 &middot; J. K. McConica, <i>English humanists and Reformation politics under Henry VIII and Edward VI</i> (1965) &middot; D. Knowles [M. C. Knowles], <i>The religious orders in England</i>, 3 (1959) &middot; G. Marchadour, &#145;Dom Robert Joseph: le moine inconnu d'Evesham &agrave; la veille du schisme anglican&#146;, <em>Rivista di Letteratura Moderne et Comparate</em>, 17 (1964) &middot; R. B. Dobson, &#145;The religious orders, 1370&#150;1540&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=68239&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%202%3A%20Late%20med.%20Oxf.')"><i>Hist. U. Oxf.</i> 2: <i>Late med. Oxf.</i></a>, 539&#150;79 &middot; Worcs. RO, Reg. 31, fol. 32<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=68239&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, Peniarth MS 119<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> moveable property, blankets, books; 4<i>d</i>. to every householder in his parish of Cropthorne; 10<i>d</i>. to poor of All Saints, Evesham: will, <i>Letter book</i>, ed. Aveling and Pantin, appx IV<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jonathan Hughes, &#145;<span class="roman"><span class="headword">Joseph ,  Robert</span>  (1500&#150;1569)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/68239, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Joseph (1500&#150;1569): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/68239 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

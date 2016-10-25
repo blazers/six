@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37177;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37177-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37177-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37177#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Benet,  John</span>  (<em>d.</em> 1458), <span class="occ">composer</span>, has left about twenty compositions whose style proclaims him to have been a slightly younger contemporary of John Dunstaple, perhaps a close disciple. Nothing is known of his parentage or birth and very little of his life. He may have been a vicar-choral at Lincoln Minster from 1437 to 1441. It is likely that he was the John Benet of London, clerk, who in 1443 was appointed master of the six choristers of St Anthony's Hospital in London. A John Benet, very probably the same man, was listed in 1448&#150;9 as an existing member of the Confraternity of St Nicholas, the London guild of parish clerks, to which several known composers and their wives belonged; his wife, Agnes, is also named. The indenture of 1443 suggests that Benet was by then approaching the end of his career, while a citizen's will of 1449 implies that the mastership of St Anthony's had by then become vacant. Benet apparently lived for several years more, however, for his will was proved on 4 December 1458. He does not seem to have been wealthy. He lived in the parish of St Benet Fink, London (the parish of St Anthony's Hospital), but probably died in Southwark and was buried in St Olave's, Southwark; his executors were his widow, Elena, who must have been his second wife, and John Weston.<br>
+<br>Benet's motet <span class="italic">Lux fulget ex Anglia<span class="roman">/</span>O pater pietatis<span class="roman">/[</span>Salve Thoma<span class="roman">]</span></span>, a complex large-scale composition honouring St Thomas of Hereford, has plausibly been connected with Hereford Cathedral, which was dedicated to the saint and contained his tomb. The likely occasion for the motet would seem to be the centenary in 1420 of St Thomas's canonization. Dunstaple was a canon of Hereford, and there is certainly a close stylistic relationship between his music and that of Benet, who was one of the last practitioners of a form brought to its apogee by Dunstaple, the mathematically proportioned isorhythmic motet. Three examples survive from Benet's pen; the other two are in honour of St Mary Magdalen and St Alban respectively, which may suggest connections with Magdalen College in Oxford and St Albans Cathedral.<br>
+<br>The rest of Benet's works are all settings of items from the ordinary of the mass, and include an entire five-movement mass cycle and fragments of two more. The first is not based on chant, but relies on a repeated and varying motto in the tenor, with similar beginnings to each movement in the upper voices; its authorship is sometimes allotted to Lionel Power or Dunstaple. Of the incomplete cycles, one also employs motto openings and the other is based on a tenor plainsong. Both these methods of construction were taken up by continental masters, and Benet holds an important place as one of the early creators of the mass cycle, the leading musical form of the fifteenth and sixteenth centuries. He has also left a remarkable four-voice canonic <span class="roman">Kyrie</span>.<br>
+<br>Brian Trowell<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Trowell, &#145;Some English contemporaries of Dunstable&#146;, <em>Proceedings of the Royal Musical Association</em>, 81 (1954&#150;5), 77&#150;92 [incl. work list, pp. 91&#150;2] &middot; B. Trowell and A. Wathey, &#145;John Benet's <i>Lux fulget ex Anglia&#150;O pater pietatis&#150;Salve Thoma</i>&#146;, <i>St Thomas Cantilupe, bishop of Hereford</i><i>: essays in his honour</i>, ed. M. Jancey (1982), 159&#150;80 &middot; C. Barron, &#145;The expansion of education in fifteenth-century London&#146;, <i>The cloister and the world</i><i>: essays in medieval history in honour of Barbara Harvey</i>, ed. J. Blair and B. Golding (1996), 219&#150;45 &middot; GL, commissary wills, 9171/5, fol. 263<i>v</i> &middot; B. Trowell, &#145;Benet, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37177&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a> &middot; R. Bowers, &#145;Music and worship to 1640&#146;, <i>A history of Lincoln Minster</i>, ed. D. Owen (1994), 47&#150;76<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Brian Trowell, &#145;<span class="roman"><span class="headword">Benet,  John</span>  (<em>d.</em> 1458)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/37177, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Benet (<em>d.</em> 1458): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37177 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

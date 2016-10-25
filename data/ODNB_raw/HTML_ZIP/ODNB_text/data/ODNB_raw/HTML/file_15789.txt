@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15789;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15789-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15789-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15789#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Knox,  Robert Bent</span>  (1808&#150;1893), <span class="occ">Church of Ireland archbishop of Armagh</span>, was the second son of the Hon. Charles Knox (<i>d</i>. 1825), archdeacon of Armagh, and his wife, Hannah (<i>d</i>. 1852), the daughter of Robert Bent MP, and widow of James Fletcher. He was born at Dungannon Park House, the residence of his grandfather Thomas Knox, first Viscount Northland (<i>d</i>. 1818), on 25 September 1808. Though generally thought to have been named Robert Bent, the only name given to him at baptism was Robert. He was educated at Trinity College, Dublin, graduating BA in 1829, MA in 1834, DD per lit. reg. in 1849, and BD and DD in 1858; he was also made LLD from Cambridge in 1888. In 1832 he was ordained deacon and priest by Beresford, bishop of Kilmore. On 7 May 1834 he was collated chancellor of Ardfert, and on 16 October 1841 he was collated to the prebend of St Munchin's, Limerick, by his uncle Edmund Knox (<i>d</i>. 7 May 1849), bishop of Limerick, who made him his domestic chaplain. On 5 October 1842 he married Catherine Delia (<i>d</i>. 1897), the daughter of Thomas Gibbon Fitzgibbon of Ballyseeda, co. Limerick. They had three sons, including Charles Edmond (later lieutenant-general), and two daughters, who survived him.<br>
+<br>In March 1849 Knox was nominated by Lord Clarendon to the see of Down, Connor, and Dromore, vacated by the death (2 November 1848) of Richard Mant. He was consecrated bishop on 1 May, and enthroned on 3 May at Lisburn and on 5 May at Dromore. Samuel Wilberforce, who was in Ireland in 1861, reported in his diary (26 August) some gossip which was circulating about the appointment: James Henthorn Todd described Knox as &#145;very foolish, without learning, piety, judgment, conduct, sense, appointed by a job, that his uncle should resign Limerick&#146;; the dean of Limerick, Anthony La Touche Kirwan (<i>d</i>. 1868), said that Knox &#145;used, when made to preach by his uncle, to get me to write his sermon, and could not deliver it&#146;  (Wilberforce, 25).<br>
+<br>Knox, as a whig, was not immediately popular in his diocese. Like his predecessor, he resided at Holywood, co. Down. He made no secret of his unpopular opinion that disestablishment was inevitable. He had at first hoped to build a cathedral in Belfast (to add to the three existing cathedrals of the diocese), but abandoned this extravagant plan in order to achieve the more modest aim of increasing the number of churches. The Belfast Church Extension Society was founded by him in 1862; its work enabled him to consecrate forty-eight new or enlarged churches in the diocese. Prior to disestablishment, he organized in 1862 diocesan conferences, and founded a diocesan board of missions. In the House of Lords in 1867, and before the church commission in 1868, he proposed a reduction of the Irish hierarchy to one archbishop and five bishops. He was not a man of great presence or of genial warmth, being quiet and restrained. But his pragmatism and frankness made him an able administrator and an effective speaker. His involvement with many public bodies and charities meant that he became a respected figure within the community.<br>
+<br>When the archbishop of Armagh and primate of all Ireland, Marcus Gervais Beresford, died on 26 December 1885, Knox was chosen as his successor. He left Belfast and was enthroned as archbishop of Armagh on 1 June 1886. As president of the general synod of the Irish church, his qualities of fairness and moderation came to the fore. He was active to the last, presiding at the Armagh diocesan synod a fortnight before his death. He died at the archbishop's palace, Armagh, on 23 October 1893, and was buried on 27 October in the old church (a disused ruin) at Holywood. Besides a sermon (1847), charges (1850 and 1858), and a brief address, &#145;Fruits of the revival&#146;, in Steane's <span class="italic">Ulster Revival</span> (1859), he published an <span class="italic">Ecclesiastical Index (of Ireland)</span> (1839), a valuable reference book.<br>
+<br>Alexander Gordon<span class="italic">, rev. </span> David Huddleston </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Northern Whig</em> (24 Oct 1893) &middot; <em>Northern Whig</em> (30 Oct 1893) &middot; J. R. Garstin, <i>Anglican archbishops of Armagh</i> (1900) &middot; H. B. Swanzy, <i>Succession lists of the diocese of Dromore</i>, ed. J. B. Leslie (1933) &middot; R. B. McDowell, <i>The Church of Ireland, 1869&#150;1969</i> (1975) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15789&amp;istheme=&amp;target=Burke%2C%20Peerage')">Burke, <i>Peerage</i></a> (1970) &middot; <em>Belfast News-Letter</em> (24 Oct 1893) &middot; <em>Belfast News-Letter</em> (30 Oct 1893) &middot; J. B. Leslie, ed., <i>Clergy of Connor</i><i>: from Patrician times to the present day</i> (1993) &middot; D. H. Akenson, <i>The Church of Ireland</i><i>: ecclesiastical reform and revolution, 1800&#150;1885</i> (1971) &middot; H. E. Patton, <i>Fifty years of disestablishment</i> (1922) &middot; D. Bowen, <i>The protestant crusade in Ireland, 1800&#150;70</i> (1978) &middot; R. G. Wilberforce, <i>Life of the right reverend Samuel Wilberforce &hellip; with selections from his diaries and correspondence</i>, 3 (1882), 25<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15789&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. with Lord Kimberley<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Way, oils, The Palace, Armagh, co. Armagh, Ireland &middot; lithograph, repro. in Patton, <i>Fifty years of disestablishment</i> &middot; wood-engraving (after photograph by Chancellor of Dublin), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15789&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>ILN</i> (29 May 1866) &middot; wood-engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15789&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>ILN</i> (25 June 1892)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;10,571 1<i>s</i>. 1<i>d</i>.: probate, 21 Nov 1893, <i>CGPLA Ire.</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Alexander Gordon, &#145;<span class="roman"><span class="headword">Knox,  Robert Bent</span>  (1808&#150;1893)</span>&#146;, rev. David Huddleston, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/15789, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Bent Knox (1808&#150;1893): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15789 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

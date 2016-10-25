@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17409;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17409-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17409-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17409#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">MacCullagh <span class="st"> [McCullagh]</span>,  James</span>  (1809&#150;1847), <span class="occ">mathematician</span>, was born in Landahussy, in the parish of Upper Badoney, Tyrone, Ireland, the eldest of twelve children of James MacCullagh (1777&#150;1857), farmer, and his wife, Margaret (1784&#150;1839), <i>n&eacute;e</i> Ballentine(?). While MacCullagh was still young his father left his mountain farm and the family moved to Strabane, where MacCullagh's mathematical talent first became apparent. He attended the schools of the historian the Revd John Graham and of the classicist the Revd Thomas Rolleston at Strabane in co. Tyrone. On 1 November 1824 he was admitted to Trinity College, Dublin, as a pensioner and on 1 June 1825 he was a successful candidate for a sizarship. On 24 June 1826 he took up residence in the college, where he lived until his death. He was elected a foundation scholar on 11 June 1827 and graduated a bachelor of arts on 2 March 1829.<br>
+<br>MacCullagh benefited greatly from the renaissance in mathematical education at the college initiated by Bartholomew Lloyd, and his rapid promotion owed much to the patronage of Lloyd. In June 1829 he was an unsuccessful candidate in the highly competitive fellowship examination. Following the failure of a second attempt in 1831 he sent the provost, Lloyd, a letter containing several theorems relating to a geometrical theory of rotation and to the theory of attraction. The publication in 1834 of Louis Poinsot's theory of rotary motion meant that MacCullagh's work had been superseded but his letter was published in 1844 in the <span class="italic">Proceedings of the Royal Irish Academy</span>. He competed successfully for a fellowship in 1832 and was elected a junior fellow on 18 June 1832. Shortly afterwards he was made junior assistant to the Erasmus Smith professor of mathematics and assistant to the lecturer in Greek.<br>
+<br>In the course of the eighteen years of his career MacCullagh wrote some thirty-nine papers, presented for the most part to the Royal Irish Academy and published in its <span class="italic">Proceedings</span> or <span class="italic">Transactions</span>. Most of his papers were republished posthumously, together with his lectures on the rotation of a solid body and on the attraction of ellipsoids, in <span class="italic">The Collected Works of James MacCullagh</span> (1880). His first two papers dealt with geometrical theorems on the rectification of conic sections, and with double refraction in a crystallized medium, in which context he provided a description of Fresnel's wave surface. Evidence of his profound understanding of double refraction in crystals is evident in his first major paper &#145;Geometrical propositions applied to the wave theory of light&#146; (1833). In the following years he set about trying to improve the derivation by Fresnel of the laws governing the reflection of light and to extend them to crystalline surfaces. For an ether having the same density everywhere, he assumed (unlike Fresnel) that the vibrations were parallel to the plane of polarization and (like Fresnel) that the incident transverse waves give rise only to transverse reflected and refracted waves. His theory of crystalline reflection and refraction (1835&#150;7) was identical with a theory of Franz Ernst Neumann announced in 1835 and published in 1837. In papers of 1836 MacCullagh treated the optical behaviour of quartz and the reflection of light from metals.<br>
+<br>MacCullagh's most important paper on light, &#145;An essay towards a dynamical theory of crystalline reflexion and refraction&#146;, in which he set forth equations which describe a light-bearing ether having the properties necessary to justify the assumptions he had made in earlier work on crystalline reflection, was read on 9 December 1839 (final version published 1843). In it he followed the method adopted by George Green in an 1838 investigation of the propagation of waves in a real elastic medium. Early in 1840 he was able to reconcile his theory of optical activity in quartz with his dynamical theory, and in May 1841 he gave an account of how his theory could be extended to include total reflection. In 1843 he published the results of experiments carried out in 1837 on metallic reflection with the assistance of Thomas Grubb. However, he remained sceptical as to the truth of the wave theory of light. At the British Association meeting at Manchester in 1842, where a vigorous discussion of the wave theory took place, he adopted an agnostic stance, and suggested that the theory was still lacking in physical principles.<br>
+<br>Although MacCullagh had provided a mathematical framework for the description of a wide range of optical phenomena, his work was received with scepticism. However, his dynamical theory found supporters, particularly among Anglo-Irish scientists, decades after his death. In 1880 George Francis FitzGerald provided an interpretation of his theory of reflection and refraction so as to bring it into harmony with Maxwell's electromagnetic theory. George Gabriel Stokes was particularly critical of MacCullagh's work but Joseph Larmor and Lord Rayleigh considered this judgement too harsh.<br>
+<br>Despite his preoccupation with the physical problem of the propagation of light, MacCullagh's primary talent was as a geometer. His success in developing his ether theory was due in part to his geometrical skills. He had been interested in surfaces, especially the ellipsoid and second-order surfaces, since 1829 when he first investigated the Fresnel wave surface. The ellipsoid was also relevant to his early investigations of the rotation of a solid body. The first part of his major mathematical work, &#145;On surfaces of the second order&#146; (1843), dealt with the generalization of the focus-directrix property of conic sections; the second considered various properties of second-order surfaces. Inversive geometry and the use of reciprocal surfaces had been used to good advantage both in his elucidation of the Fresnel wave surface and in his treatment of the rotation of a solid body. This idea was extended in his 1843 paper to what is referred to as the modular generation of surfaces such as the ellipsoid. As with all his mathematical writing this paper is characterized by its elegance and simplicity of style.<br>
+<br>In 1835 the chair of mathematics at Trinity College, Dublin, became vacant, and MacCullagh was appointed. He was a lay fellow of the college, and in the following year he was freed, at his own request, from the requirement to take holy orders. In the summer of 1838 the degrees LLB and LLD were conferred on him. He had previously been elected (in February 1833) a member of the Royal Irish Academy, and was now elected to the academy's council and was awarded its Cunningham medal for his paper on the laws of crystalline reflection and refraction, the presentation being made by William Rowan Hamilton on 25 June 1838. On this occasion Hamilton referred to Neumann's paper but gave priority to MacCullagh. This claim was disputed by Neumann in a letter of 8 October read at the meeting of 30 November. MacCullagh insisted on his priority in publication and the independence of his work.<br>
+<br>MacCullagh made an important contribution to the development of the school of mathematics at Trinity College, Dublin, and helped establish a geometrical bias there. He delivered a special course of lectures to the fellowship candidates and from 1837 to 1843 was an examiner at the annual fellowship examinations. He was an inspiring lecturer and of his graduate students, after 1835, twenty became fellows and a number were to make original contributions in mathematics. He was instrumental in the establishment of the school of engineering in 1841 and subsequently shared responsibility for teaching mechanics and physics to engineering students. On 4 December 1843 he was appointed Erasmus Smith professor of natural and experimental philosophy, in succession to Humphrey Lloyd, and he was allowed to substitute a course of physics lectures in place of those he had previously provided for fellowship candidates.<br>
+<br>MacCullagh's other scholarly interests included Egyptian chronology and Irish culture. He devoted much effort to building up the Royal Irish Academy's Museum of Antiquities (now part of the National Museum of Ireland) donating from his own funds for the purchase of Irish antiquities. He was awarded the Copley medal of the Royal Society in 1842, and was elected a fellow in the following year. He attended the annual meetings of the British Association for the Advancement of Science in Dublin (1835), Bristol (1836), Manchester (1842), and Cork (1843), and he travelled to the continent on at least three occasions (1840, 1842, 1846). Together with Charles Babbage he attended a scientific meeting at Turin in September 1840. He was elected to the Athenaeum in February 1842.<br>
+<br>The last months of MacCullagh's life were marked by an involvement in politics. In the general election of 1847 he decided to compete for one of the two Dublin University seats at Westminster, in opposition to the sitting members who were Oxford graduates. He was a liberal but without party affiliation or political experience, and in a constituency that was strongly tory he was inevitably an outsider: he received 374 out of 2224 votes cast, finishing last of four candidates. The Young Irelanders applauded his patriotism after his death, an obituary notice in <span class="italic">The Nation</span> (30 October 1847) describing him as a &#145;warm and ardent nationalist&#146;. It is likely, however, that he was a nationalist only in the sense that he believed Irishmen should show self-respect and promote their own national institutions. He made no pronouncements on constitutional issues.<br>
+<br>MacCullagh's powerful drive for achievement was frustrated by a series of disappointments in science and politics. His personality was characterized by excessive sensitivity, introspection, and a lack of stability. An impetuous temperament combined with suspicion or fear of plagiarism caused him to make extravagant claims on occasions. He died on the evening of Sunday 24 October 1847, being found in his college apartment with his throat cut. An inquest the next day returned a verdict of suicide. No trace of his collection of manuscript papers was found after his death. A funeral service was held in the college on 30 October and he was buried in the family vault in the graveyard of St Patrick's parish church of Upper Badoney, co. Tyrone. He is commemorated by a brass plaque in the church and by a marble tablet on the family grave erected by his sister Isabella (1823&#150;1894). Three sisters and a younger brother were dependent on him at the time of his death and an appeal to the prime minister, with the support of important academics and politicians, helped procure a civil-list pension for his sisters.<br>
+<br>James G. O'Hara </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The collected works of James MacCullagh</i>, ed. J. H. Jellett and S. Haughton (1880) &middot; B. K. P. Scaife, &#145;James MacCullagh, 1809&#150;47&#146;, <em>Proceedings of the Royal Irish Academy</em>, 90C (1990), 67&#150;106 [incl. an annotated list of publications] &middot; T. D. Spearman, &#145;James MacCullagh&#146;, <i>Science in Ireland, 1800&#150;1930</i><i>: tradition and reform</i>, ed. J. R. Nudds and others (1988), 41&#150;59 &middot; <em>Proceedings of the Royal Irish Academy</em>, 4 (1847&#150;50), 103&#150;16 &middot; <em>Abstracts of the Papers Communicated to the Royal Society of London</em>, 5 (1843&#150;50), 712&#150;18 &middot; T. D. Spearman, &#145;Mathematics and theoretical physics&#146;, <i>The Royal Irish Academy</i><i>: a bicentennial history, 1785&#150;1985</i>, ed. T. &Oacute;. Raifeartaigh (1985), 210&#150;39 &middot; T. L. Hankins, <i>Sir William Rowan Hamilton</i> (1980) &middot; R. P. Graves, <i>Life of Sir William Rowan Hamilton</i>, 3 vols. (1882&#150;9) &middot; A. J. McConnell, &#145;The Dublin mathematical school in the first half of the nineteenth century&#146;, <em>Proceedings of the Royal Irish Academy</em>, 50A (1944&#150;5), 75&#150;88 &middot; J. G. O'Hara, &#145;The prediction and discovery of conical refraction by William Rowan Hamilton and Humphrey Lloyd, 1832&#150;1833&#146;, <em>Proceedings of the Royal Irish Academy</em>, 82A (1982), 231&#150;57 &middot; <em>The Nation</em> (30 Oct 1847)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>AM Oxf., Griffiths Institute, Davidson MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17409&amp;istheme=&amp;target=BL')">BL</a>, corresp. with Charles Babbage
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17409&amp;istheme=&amp;target=TCD')">TCD</a>, corresp. with W. R. Hamilton<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> C. Moore, marble bust, exh. RA 1849, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17409&amp;istheme=&amp;target=TCD')">TCD</a> &middot; F. W. Burton, four pencil sketches, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17409&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James G. O'Hara, &#145;<span class="roman"><span class="headword">MacCullagh ,  James</span>  (1809&#150;1847)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/17409, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James MacCullagh (1809&#150;1847): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17409 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/17409/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

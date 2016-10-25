@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 6001;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/6/6001-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/6/6001-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=6001#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Columba</span> <span class="st"> [St Columba, Colum Cille]</span>  (<em>c.</em>521&#150;597), <span class="occ">monastic founder</span>, was also known by the Old Irish name of Colum Cille, meaning, approximately, &#145;Church Dove&#146;. He was the son of Fedelmid, of the royal lineage of Conall Gulban mac N&eacute;ill, and of Ethne, daughter of Mac Naue. His immediate paternal relatives were rulers in the north-west of Ireland while his wider kin group, the U&iacute; N&eacute;ill (&#145;descendants of Niall&#146;) were already emerging in the sixth century as Ireland's dominant royal dynasty. Columba thus was born into the highest rank of Irish nobility. Gartan, in Donegal, is traditionally claimed as his place of birth, but there is no documentary source earlier than the twelfth century to verify this. It may be assumed, however, that his homeland was in the north-west, among the Cen&eacute;l Conaill (&#145;the kindred of Conall&#146;), the people whose designation commemorated Columba's great-grandfather.<h2>
+<a name="Earlylife"></a>Early life</h2>The date of Columba's birth, <i>c</i>.521, is based on the known fact that he died in the year 597, aged about seventy-six. The fifth century had seen Christianity established widely in Ireland, and while it cannot be assumed that the process was complete by Columba's time, nevertheless, there seems no good reason to doubt that his family was Christian. The seventh-century life of Columba (Adomn&aacute;n's <span class="italic">Vita Columbae</span>), the main source of biographical information, makes brief mention of his foster father, a priest called Cruithnech&aacute;n, and refers also to his teachers: a master called Gemm&aacute;n in Leinster, with whom he studied as a young deacon, and a bishop called variously Findbarr, Finnio, or Uinniau. The implication is that Columba's commitment to religion began at an early age, but the life, which focuses primarily on the manifestations of sanctity in his monastic career, does not trace his progress towards this goal. In fact, while it may be inferred that he became a monk and priest, and that he may have founded monasteries in his native territory, Columba's career up to his forty-second year is unrecorded. The defining moment of his life came in that year, 563, when he left Ireland for the west coast of Scotland.<h2>
+<a name="DeparturetoBritain"></a>Departure to Britain</h2>The life of Columba states that he went to Britain in the second year following the battle of C&uacute;l Dreimne, &#145;wishing to be a pilgrim for Christ&#146;  (<span class="italic">Adomn&aacute;n's Life of Columba</span>, second preface). While the reference to the battle may have served merely as a chronological marker, the conjunction of battle and exile have long prompted speculation that they were connected. Irish sources from the tenth or eleventh century onward portrayed Columba's departure from Ireland as a penance, self-imposed or otherwise, for having instigated the battle. Annalistic accounts of the battle itself, while not contemporary, may retain a genuine record of the defeat of the king of Tara, from the southern U&iacute; N&eacute;ill, by a northern alliance which included two of Columba's relations. A reference in the life to the wrongful excommunication of Columba by an Irish synod in Tailtiu in southern U&iacute; N&eacute;ill territory has been viewed as a further significant factor in these events. Did the Tara king seek to avenge his defeat at the hands of Columba's kin by inducing clerics from his own kingdom to this act of censure? It is possible that Columba could have incurred the wrath of opponents of his royal relations. Yet there is no corroborating evidence to suggest a direct connection between battle, synod, and exile.<br>
+<br>In broader terms, however, it may be supposed that Columba's membership of the U&iacute; N&eacute;ill royal dynasty was not a negligible factor in determining the course of his career. His family's involvement in secular politics may have made a life of monastic withdrawal in his homeland increasingly difficult. Therefore, having formerly renounced his secular position, Columba may have felt compelled to further renunciation, to distancing himself from familial territory for the sake of Christ. Indeed, as early Irish secular law equated exile from community with loss of status and rights, so Irish monasticism viewed voluntary separation from home and kin as self-abnegation meriting high heavenly reward.<br>
+<br>How was the destination of Columba's exile chosen? The sources do not provide a direct answer. However, a list, dating from the early eighth century, of the twelve companions on the journey from Ireland includes an uncle, Ern&aacute;n, and two first cousins, Ba&iacute;th&eacute;ne and Cobthach, suggesting that Columba's journey was planned with the support of his kin. Moreover, the life depicts Columba soon after arrival in Britain in the company of the ruler of D&aacute;l Riata, the area of south-west Scotland colonized by Irish settlers some decades previously. This suggests, not a random sea journey, but conscious choice of an Irish overseas community, whose ruler may have had some association with Columba's royal relatives. The assertion in the Irish annals that Iona was given to Columba by Conall mac Comgaill, king of D&aacute;l Riata, is not contemporary, but it seems to be confirmed by the available evidence.<h2>
+<a name="ThefoundationofIona"></a>The foundation of Iona</h2>Columba's Scottish career thus began in the D&aacute;l Riata kingdom, which retained ties of language, culture, and politics with Ireland. His decision to settle on the small, apparently unpopulated, island of Iona, off the south-western tip of Mull, indicates that the primary focus of his pilgrimage was ascetic. The sources suggest that D&aacute;l Riata was mainly Christian at this time. But if Columba had initially sought a pastoral role within the kingdom, or a missionary role beyond, he would surely have wished his chief foundation to be closer to a centre of power and population. The earliest surviving source about Columba, a vernacular praise poem known as <span class="italic">Amra Coluim Cille</span> (&#145;The eulogy of Colum Cille&#146;), written in Ireland at about the time of his death, provides independent support for the testimony of Adomn&aacute;n's <span class="italic">Vita Columbae</span> that Columba's religious vocation was to the monastic life.<br>
+<br>However, since the island community needed outside assistance to maintain itself, especially in its early stages, Iona's intended function cannot have been as an isolated hermitage, but rather as a monastery open to visitors. Whether or not Columba's fame as a churchman had preceded him from Ireland, his reputation in D&aacute;l Riata apparently became established within a short time. The life reveals that, as well as those bringing necessary supplies, there came to Iona a constant stream of pilgrims, penitents, and aspiring monks. Was the response to his foundation greater than Columba anticipated? It certainly seems to have led to the extension of the activities of his community beyond Iona, and to the establishment of monastic foundations on other islands and on mainland D&aacute;l Riata territory. Some outlying monasteries may have served Iona in a specific way, as in the case of Campus Lunge, on the island of Tiree, where penitents who came to Iona were accommodated. Other foundations probably replicated the activity of Iona, maintaining a monastic community which served also as a focus of religious life for secular and ecclesiastical visitors.<h2>
+<a name="Columbasmonasticfamilia"></a>Columba's monastic familia</h2>A telling vignette in the life depicts Columba setting off into the wilder parts of Iona to find a place secluded from other people where he could pray alone. It encapsulates a life dedicated to following the monastic vocation, while also energetically involved in overseeing a growing ecclesiastical organization. Although Columba may have relinquished the privileges accorded by his birth, nevertheless his royal background appears to have had a formative influence on the way he governed his churches. In the case of the additional monasteries founded from Iona, he nominated a prior to administer each of these communities under his own overall authority. He visited outlying churches and constantly maintained communication with his growing <i>familia</i>. This pattern of government, wherein Iona retained primacy over its dependent churches, seems to derive from the secular Irish model of royal overlordship. It is notable, moreover, that kinship played an important role in Columba's monastic organization. Members of his extended family who had accompanied him into exile were among his first appointees to govern Iona's dependencies. The life reveals that Ern&aacute;n, Columba's uncle, was prior of the important foundation on the island of &#145;Hinba&#146;, while his cousin Ba&iacute;th&eacute;ne was in charge of Campus Lunge on Tiree. Ties of family as well as of religion thus consolidated the unity of the churches.<br>
+<br>Moreover, the umbilical connection with Ireland was not cut. Columba's Iona monastery was visited by pilgrims and churchmen from his homeland, and he is depicted in his life as sending emissaries to Ireland, and as visiting the country himself on at least two occasions. It was probably envisaged that Columba's native territory should continue to provide members of his monastic community in Scotland, yet the contact went beyond the necessities of recruitment. In fact, about two decades after his initial departure, Columba returned to Ireland to found the new monastery of Durrow in the midland region of the country. Moreover, he placed another of his relatives, Laisr&eacute;n, a monk of Iona, in charge there. It is possible that churches such as Derry and Drumhome in Columba's native northern U&iacute; N&eacute;ill territory had already been founded by him before his Iona mission but there is no evidence as to their status <i>vis-&agrave;-vis</i> Iona. It is the foundation of Durrow which emphatically links Ireland with Scotland within the monastic <i>familia</i> of Columba.<h2>
+<a name="Columbaandkings"></a>Columba and kings</h2>Columba's royal descent seems to have been as influential in the external relations of his monastic community as in its internal government. Family contacts may have facilitated his initial settlement in D&aacute;l Riata and the granting to him of Iona, yet his relationship with the ruling dynasty of D&aacute;l Riata is not the conventional relationship of beneficiary towards patrons. Rather, the Iona abbot is portrayed as actively monitoring the conduct of kingship in his adopted territory. The life of Columba tells of his prayers to ensure royal success in battle and of his concern regarding succession to the D&aacute;l Riata kingship. There may be scepticism about the historical accuracy of the <span class="roman">Old Testament</span>-influenced account of Columba's &#145;ordination&#146; of Aed&aacute;n mac Gabr&aacute;n as king of D&aacute;l Riata about 574, but it does seem credible that it had become politic for the local king to associate himself with Columba's prestige, and to receive the holy man's blessing on his inauguration. Subsequently, moreover, Columba apparently instigated a &#145;conference of kings&#146;, which brought the Scottish ruler to Druim Cett in the north of Ireland to meet &Aacute;ed mac Ainmerech, overking of the U&iacute; N&eacute;ill, who was Columba's cousin. The resulting alliance between the Scottish ruler and Columba's royal kinsman in Ireland can be attributed to the Iona abbot's status and to his unique position of influence on both sides of the Irish Sea. The meeting of kings not only formalized relations between Columba's native and adopted kingdoms, but also provided a secure environment in which his monastic endeavour might flourish.<br>
+<br>While hagiography is not historical fact, it is notable that kings, both in Ireland and in Britain, are consistently depicted in the life of Columba as subjects of saintly intervention. That Columba held that a king of his U&iacute; N&eacute;ill kin had &#145;the prerogative of monarchy over the kingdom of all Ireland predestined &hellip; by God&#146;  (<span class="italic">Adomn&aacute;n's Life of Columba</span>, bk 1, cap. 14) is literary representation, yet it finds some corroboration. For instance, historical evidence places the Iona abbot's return to Ireland to found the monastery of Durrow between the years 585 and 589. From about 587 &Aacute;ed mac Ainmerech, as king of the northern U&iacute; N&eacute;ill, had extended his dominance over his southern U&iacute; N&eacute;ill kinsmen. Thus, the timing of Columba's return to Ireland to establish the monastery of Durrow among the southern U&iacute; N&eacute;ill may be seen both as the outcome of, and as a support for, the achievement of political overlordship by his royal relatives.<h2>
+<a name="ColumbaandthePicts"></a>Columba and the Picts</h2>While Columba's closest royal contacts were in D&aacute;l Riata and in Ireland, nevertheless, his horizons extended beyond a world which was ethnically and linguistically Irish. The life states that the king of the neighbouring British kingdom of Strathclyde was Columba's friend. Moreover, Columba is represented as visiting the stronghold of the Pictish king, Brude son of Maelchon. While the life does not provide a chronological framework for narratives concerning Columba's activities in Pictland, it does indicate the likely catalyst of his first visit. He travelled beyond &#145;the Spine of Britain&#146;, the mountain boundary between D&aacute;l Riata and Pictland, after the monk Cormac had put to sea in search of a hermitage. Thus, concern to ensure the safety of monastic voyagers who might land in Pictish-dominated areas apparently impelled the Iona abbot to visit the king.<br>
+<br>It is reasonable to assume that Columba and his brethren were made aware on their travels of a need to preach Christianity to the pagan Picts. <span class="italic">Amra Coluim Cille</span> may be interpreted as declaring that &#145;he preached to the tribes of Tay&#146;  (Stokes, 164&#150;5). There are references in the life to individual conversions, and to Columba's preaching the gospel through an interpreter. Yet there is little to indicate that a large-scale mission of conversion was initiated from Iona at that time. Certainly, conversion was a prized saintly attribute, and the life of Columba includes some stock hagiographical episodes describing his confrontation with a pagan Pictish <i>magus</i>. There is, however, no historical warrant for the view that missionary activity came to dominate Columba's life. Although Bede states that Columba converted the Picts and received Iona from them, it would appear, rather, that the abbot's diplomacy, and his negotiating status as a fellow nobleman, had won from the Pictish king toleration of travelling and preaching in his territory. This tenuous <i>modus vivendi</i> did gain access to Pictland for Christian teaching, and thus paved the way for the subsequent evangelization of the kingdom.<h2>
+<a name="ColumbamonkofIona"></a>Columba, monk of Iona</h2>In a career of thirty-four years in Britain, Columba organized, travelled, and negotiated in the interests of his community. He used his influence with kings for the welfare of the church and of secular society. His activities spanned both Scotland and Ireland, as indeed did his federation of monasteries. Yet his base was Iona, and monasticism, with its daily round of prayer, work, writing, and study, remained at the core of his religious life. The Iona monastic regime of observance and work seems to have been guided, moreover, by the abbot's humanity and empathy rather than by his strict insistence on law. The life of Columba portrays his solicitude for monks who were hard-worked at the harvest and at building. It reveals his willingness to relax the fast when visitors came to the island, and his clemency toward those who came to Iona to expiate past sins. Attachment to his native land is linked with compassion, as in the story of his care for a crane from Ireland cast by buffeting winds onto the Iona shore. Certainly Columba castigated evil doing, as in the memorable portrayal of his striding out knee-deep into the water in pursuit of marauders. But his altruism is what predominates, to the extent that, having unwittingly blessed a knife, he is said to have at once prayed that it should hurt neither man nor beast.<br>
+<br>It is notable that Columba's lack of awareness that he had blessed a potentially deadly implement is attributed to his concentration on his writing. That scholarship was as important as asceticism in Columba's community is attested by the evidence of the vernacular <span class="italic">Amra</span> and of the life. In stating of Columba that &#145;he could not pass even the space of a single hour without applying himself to prayer or to reading or to writing or some other kind of work&#146;  (<span class="italic">Adomn&aacute;n's Life of Columba</span>, second preface), the life significantly adds writing to a list of activities otherwise similar to that found in the life of Martin of Tours by Sulpicius Severus (<i>d</i>. 410). The copying of books is mentioned throughout the life, and among works stated to have been copied by Columba were the <span class="roman">Psalms</span> and a book of the week's hymns.<br>
+<br>The <span class="italic">Amra</span>, in praising Columba's learning, is more specific about what he read and studied. The <span class="roman">Bible</span> is cited, in particular the <span class="roman">Psalms</span>, the books of <span class="roman">Solomon</span>, and &#145;the books of the Law&#146;. Moreover, Columba is said to have used the judgments of St Basil (<i>d</i>. 379) and to have studied Greek grammar, as well as the movement of the heavenly bodies and the course of the sea. While poetic eulogy may have idealized the range of his learned activity, nevertheless, the <span class="italic">Amra</span> testimony is sufficiently close to the period of his lifetime to reflect contemporary scholarship. Most telling among <span class="italic">Amra</span> citations is a reference to John Cassian (<i>d</i>. 435), leading interpreter of monasticism in western Christendom. That Columba's monasticism was guided by the principles of a recognized authority is consistent with other evidence that his vocation combined intellectual scrutiny with ascetic and humanitarian commitment.<br>
+<br>It was fitting that Columba should end his days among his own Iona community, after a full life of about seventy-six years. Reflecting community recollections of his last days, Adomn&aacute;n's life of Columba tells how he inspected the barn to see that his <i>familia</i> was well supplied with food, and how the monastery's horse came up to him and mourned, sensing that its master was to depart for ever. Columba's final work, the copying of a psalter, ceased at the words of the thirty-third psalm: &#145;But they that seek the Lord shall not want for anything that is good.&#146; The abbot rose to attend the midnight office as usual with the brethren, on 9 June 597, but he collapsed and breathed his last in the church, surrounded by his monks. His wish that his funeral ceremonies should not be an occasion for large crowds in Iona was granted, as a storm prevented any boat from crossing to the island during the ritual three days of obsequies. Thus, his monastic community laid Columba in the Iona earth, in a simple grave marked only by the stone which he had used for a pillow in his spartan cell. The location of this grave cannot now be identified.<h2>
+<a name="Columbasmonasticlegacy"></a>Columba's monastic legacy</h2>His gravestone was not, in any case, the sole remembrance of Columba's achievement. The organization which he had put in place ensured that his monastic <i>familia</i> continued to flourish under the leadership of Iona-based abbots of his own kin [<i>see </i><script>writeSeealsoLink('../view/article/51141/', "Iona, abbots of")</script>]. In the seventh century, as new churches in Ireland and in Pictland were added to the <i>familia</i>, an invitation from the Northumbrian ruler Oswald took Iona clerics to Lindisfarne, where a short-lived Columban presence made a substantial contribution to the Christianization of the north of England. In 697, the centenary year of Columba's death, about ninety of the most prominent ecclesiastical and secular leaders of Ireland and Scotland endorsed a law for the protection of non-combatants brought forward by Columba's Iona successor and biographer, Adomn&aacute;n. In the eighth century, further Irish enactments of a church&#150;state measure, termed <span class="italic">Lex Columbe Cille</span>, testify to the continuing influential role of Columba's community in alliance with powerful kings.<br>
+<br>From the beginning of the ninth century, however, the transmarine unity of the Columban world was put in jeopardy by the appearance of viking raiders around the Irish and British coasts. Iona was among churches severely attacked, so that Kells in the Irish midlands was founded as a refuge for Iona monks and its precious relics. By the tenth century, under the impact of the vikings, Irish and Scottish Columban churches had begun to go their separate ways. The Irish churches continued in federation under the headship of Kells, and subsequently of Derry, retaining a prominent role in the country until the mid-twelfth century. In Scotland, while individual churches retained their dedications to Columba, organizational unity does not seem to have prevailed. But Iona, although no longer at the hub of a far-flung Columban world, still managed to survive as a monastic centre, as a hallowed place of pilgrimage, and as a burial-place of kings, in this last capacity perhaps down to the end of the eleventh century. The Columban monastery was replaced by a Benedictine abbey about 1203, while in modern times the foundation of the ecumenical Iona community in 1938 has underlined the island's continued standing as a holy place.<h2>
+<a name="ThecultofColumba"></a>The cult of Columba</h2>The longevity of his monastic enterprise ensured that Columba's name remained prominent for centuries in the insular ecclesiastical world. Yet his reputation as a holy man was as important as his reputation as patron of influential churches. The composition by an Irish poet of the eulogy known as the <span class="italic">Amra</span> testifies to Columba's immediate post-mortem acclamation as a dweller of heaven. Moreover, the life of Columba compiled by Adomn&aacute;n, ninth abbot of Iona, illuminates the record of Columba's sanctification within his own community in the century after his death. Reminiscences from contemporaries, collected as formal evidence in the abbacy of S&eacute;g&eacute;ne (623&#150;52), appear to have formed the content of Iona's first hagiographical work, the <span class="italic">Liber de virtutibus sancti Columbae</span> by Cumm&eacute;ne, abbot of Iona from 657 to 669.<br>
+<br>These early reminiscences, now known only through the incorporation of Cumm&eacute;ne's work into the life of Columba, reveal the conviction that Columba's sanctity imbued all the deeds of his life. Thus, instead of spectacular miracles, mundane happenings were seen to take on the hue of the supernatural. Some decades later Adomn&aacute;n's work presents a portrayal more in keeping with the norms of Latin hagiography. The text reveals its familiarity with, for instance, Sulpicius Severus's account of Martin of Tours and Evagrius's translation of the life of Antony. Its three books, detailing prophecies, miracles, and supernatural revelations, highlight manifestations which liken Columba to the great holy men of Christendom. It would appear that Adomn&aacute;n, whose own career as churchman and royal intermediary extended through D&aacute;l Riata, Pictland, Northumbria, and Ireland, was concerned that his patron's sanctity should be acknowledged in ecclesiastical circles far beyond Iona.<br>
+<br>The life of Columba documents practical realizations of devotion to him in the century after his death. Adomn&aacute;n himself recalls the Iona community's liturgical use of the saint's tunic and books to invoke his intercession against drought and contrary winds. The hagiographer asserts also that prayers to Columba were instrumental in his own assistance. Moreover, the life provides evidence of popular, as well as of monastic, devotion to Columba, recounting how certain brigands were protected during enemy attack by songs sung in Irish in praise of the saint. The survival of two seventh-century vernacular poems of this sort reinforces the view that Columba's cult was widely established in his homeland at an early date.<h2>
+<a name="ThehagiographyofColumba"></a>The hagiography of Columba</h2>Indeed, literary evidence of Columba's posthumous reputation comes mainly from Ireland. There is continuity with his earliest memorials, in so far as books and writing figure prominently. Medieval Irish legend linked the saint's departure from Ireland with his having surreptitiously copied a book belonging to St Finnian, and thereafter roused his kinsmen to battle in defiance of the judgment of King Diarmait mac Cerbaill that &#145;to every cow belongs her calf and to every book its copy&#146;  (<span class="italic">Betha Colaim Chille</span>, 178). Having been commemorated by a vernacular poet in the <span class="italic">Amra</span>, Columba came to be viewed as a patron of poets and their defender against banishment from Ireland. Moreover, he was himself claimed as a poet. Not only were Latin hymns such as the Iona-composed <span class="italic">Altus prosator</span> fathered on him by the eleventh century, but from that time onward a considerable amount of verse in Irish became associated with his name. The themes of exile and of prophecy are prominent. As Ireland and Scotland had grown politically apart, so Columba's life in Iona was reinterpreted as a painful isolation from a homeland lovingly remembered and revisited only in imagination. The focus on prophecy in the life probably set the tone for the saint's prophetic role through which warnings of impending disaster were channelled down through the centuries.<br>
+<br>After Adomn&aacute;n's life of Columba the only significant conventional work of hagiography was an austere twelfth-century vernacular life, the product of an era of ecclesiastical reform, which drew on that earlier life and eschewed legend. In the sixteenth century, however, as an act of <i>pietas</i>, Manus O'Donnell, a Donegal chieftain of Columba's lineage, directed the production of <span class="italic">Betha Colaim Chille</span>, a vernacular life which encompassed every available earlier memorial of the saint from the seventh century. Its wealth of anecdote and verse provides the most eloquent testimony to the continuing vitality of Columba's legend and cult throughout the thousand years after his birth.<br>
+<br>It is appropriate that Manus O'Donnell should have chosen to celebrate his patron in a book, since written works not only bear witness to Columba's reputation but also constitute his most famous memorial objects. The <span class="italic">Cathach</span>, now in the Royal Irish Academy in Dublin, is a late sixth-century copy of the <span class="roman">Psalms</span>, said to have been written by the saint himself. It had been enshrined and was venerated in Columba's native Cen&eacute;l Conaill territory. Being identified with the illicit copy which provoked the battle of C&uacute;l Dreimne, the manuscript used to be borne around the host of the saint's kinsmen as they went into battle. The <span class="roman">Book of Kells</span>, &#145;the great gospel of Colum Cille&#146;, now in Trinity College Library, Dublin, seems to have been begun in eighth-century Iona, perhaps in celebration of the bicentennial of Columba's death. It was brought to Kells, Iona's daughter house, probably in the ninth century, and was venerated there until the seventeenth century. As the illumination of the gospel book combines motifs of Celtic, north British, and Christian design, it reflects and commemorates the Christian unity forged by Columba across the Irish Sea.<h2>
+<a name="ModernperceptionsofColumba"></a>Modern perceptions of Columba</h2>While we have no formal hagiographical works about Columba after the seventeenth century, the saint remained the subject of legend and folklore both in Ireland and in Scotland. Modern folklore indicates that down to recent decades he featured in traditional tales and religious sayings as a hero-figure, protector, or divine intermediary. His memory is also preserved to this day in church dedications and place names on both sides of the Irish Sea. Yet such survivals do not, in themselves, testify to a living cult. It would seem that his native Donegal is the most significant remaining place of continuous preservation of his religious commemoration. In the valley which bears his name, Glencolumbkille, in the south-west of the country, Columba's feast day, 9 June, is still marked by the performance of the &#145;turas&#146; (literally &#145;journey&#146;), in which pilgrims process along a designated route, offering prayers and seeking the saint's intercession. Alongside rare survivals of age-old devotion are contemporary refashionings of the saint. The modern Iona community may be seen as articulating Christian ideals in accordance with contemporary needs, thereby linking the island's religious past with present exigencies. Columba has also been refigured as a romanticized prototype of a lost &#145;Celtic Christianity&#146;, and therefore as embodying ideals missing from mainstream Christianity. Yet the saint's legacy has not been confined to the sphere of religion. The symbolic significance of Columba's career has been acknowledged in the naming of the &#145;Columba Initiative&#146;, a transnational initiative for the promotion of closer cultural links between Ireland and Scotland, inaugurated in 1997, the year of the celebration of the 1400th anniversary of the saint's death. Indeed, the diverse manner of celebration of this anniversary witnessed to the plurality of modern appropriations of Columba. While there were traditional and innovative religious ceremonies, the commemoration was also encouraged by secular interests, promoting cultural co-operation, conferences, heritage centres, and travel. In the modern quest for Columba's legacy, sightseeing features alongside pilgrimage, and transinsular political and cultural links draw on the symbolism of the founder of a religious institution whose influence spanned the Irish Sea.<br>
+<br>M&aacute;ire Herbert </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Adomn&aacute;n's Life of Columba</i>, ed. and trans. A. O. Anderson and M. O. Anderson, rev. edn, rev. M. O. Anderson, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6001&amp;istheme=&amp;target=OMT')">OMT</a> (1991) &middot; <i>The life of St. Columba, founder of Hy written by Adamnan</i>, ed. W. Reeves (1857) &middot; W. Stokes, ed. and trans., &#145;The Bodleian <i>Amra Choluimb Chille</i>&#146;, <em>Revue Celtique</em>, 20 (1899), 31&#150;55, 132&#150;83, 248&#150;87, 400&#150;37 &middot; W. Stokes, &#145;The Bodleian <i>Amra Choluimb Chille</i>&#146;, <em>Revue Celtique</em>, 21 (1900), 133&#150;6 [corrections and additions] &middot; <i>Betha Colaim Chille</i><i>: life of Columcille compiled by Manus O'Donnell in 1532</i>, ed. and trans. A. O'Kelleher and G. Schoepperle (1918); repr. (1994) &middot; Adomn&aacute;n of Iona, <i>Life of St Columba</i>, ed. and trans. R. Sharpe (1995) &middot; M. Herbert, <i>Iona, Kells, and Derry</i><i>: the history and hagiography of the monastic familia of Columba</i> (1988) &middot; J. F. Kenney, <i>The sources for the early history of Ireland</i> (1929); repr. (1979) &middot; A. O. Anderson, ed. and trans., <i>Early sources of Scottish history, <span class="smallcap">AD</span> 500 to 1286</i>, 2 vols. (1922) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6001&amp;istheme=&amp;target=Ann.%20Ulster')"><i>Ann. Ulster</i></a> &middot; <i>Argyll</i><i>: an inventory of the ancient monuments</i>, 4: <i>Iona</i>, Royal Commission of Ancient and Historical Monuments of Scotland (1982) &middot; F. Kelly, &#145;A poem in praise of Columb Cille&#146;, <em>&Eacute;rin</em>, 24 (1973), 1&#150;34 &middot; F. Kelly, &#145;Tiughraind Bh&eacute;c&aacute;in&#146;, <em>&Eacute;rin</em>, 26 (1975), 66&#150;98 &middot; &#145;Changing perceptions of Columba&#146;, D. E. Week, <i>The quest for Celtic Christianity</i> (2000)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> manuscript illumination (large coloured representation of saint in episcopal robes), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6001&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, manuscript copy of <i>Betha Colaim Chille</i>, sixteenth century, MS Rawlinson B 514, fol. 2<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">M&aacute;ire Herbert, &#145;<span class="roman"><span class="headword">Columba</span>   (<em>c.</em>521&#150;597)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/6001, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Columba (<em>c.</em>521&#150;597): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/6001 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

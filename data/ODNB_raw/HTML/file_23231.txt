@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23231;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23231-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23231-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23231#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Reader,  William</span>  (1782&#150;1852), <span class="occ">newspaper proprietor and topographer</span>, was born on 28 December 1782 at High Cross, near Rowington, Warwickshire, one of eleven children of William Reader (1752&#150;1808), farmer, and his wife, Mary, <i>n&eacute;e</i> White (1758&#150;1837). The young William was adopted <i>c</i>.1785 by his great-uncle the antiquarian James Kettle, minister of the Presbyterian chapel at Warwick, and his wife, Martha. After an education at the academy of the Revd John Kendall, vicar of Budbrooke, William was in 1797 apprenticed to Noah Rollason, printer&#150;proprietor of the <span class="italic">Coventry Mercury</span>. He was made a partner in 1808, and became sole proprietor on Rollason's death in 1813. In 1815 he married Elizabeth Hadley (<i>d</i>. 1870), with whom he had seven children. Admitted to the freedom of the city of Coventry in 1804, he played an active part in civic affairs, and rose in 1823 to the office of chamberlain.<br>
+<br>Reader's business, in difficulties by the 1820s, failed in 1833. Forced to sell much of his property, he moved in 1835 to Birmingham, where not only did his financial position deteriorate further but also he suffered the loss of two of his daughters; a third daughter had earlier died in Coventry. In 1837 he settled in Shoreditch, London. His fortunes never rallied, but he managed sporadically to continue collecting for his projected history of Coventry. In 1844 one of his sons died. Reader himself died on 3 October 1852 at 42 Maria Street, Shoreditch, and was buried at St John's Church, Hoxton. He was survived by his wife and by only two sons.<br>
+<br>An intense interest in his adopted city led Reader to amass material relating to Coventry's history, some of which formed the basis of articles in his newspaper and in the <span class="italic">Gentleman's Magazine</span>, to which he contributed until his death. His most successful work, <span class="italic">The History and Antiquities of the City of Coventry</span> (1810), was a popular history and guidebook which ran to several editions. He produced several other works devoted to Coventry and, like many antiquaries of the period, collected assiduously for a major work which he never quite completed: the draft of a greatly expanded history of Coventry survives in the Bodleian Library, Oxford.<br>
+<br>Reader belonged to a generation of antiquaries which differed from its seventeenth- and eighteenth-century predecessors in having an urban and commercial, rather than a gentry, background, and correspondingly wider concerns. Hence its new-fashioned interest in the history of towns, in providing guidebooks for a new, travelling, public, and in addressing a more popular market generally. Reader's collections relied heavily on printed sources, but in making use of his official position to search corporation records he made an original contribution in particular to Coventry's institutional and topographical history. While he played a part in advancing the scope of antiquarian studies, his work nevertheless was imbued with a very traditionalist political and religious sensitivity. His newspaper adopted a decidedly conservative stance, as did some of his pamphlets; the same convictions pervaded, in a less obtrusive form, his historical collections. Some of Reader's collections housed in Coventry's central library were destroyed by bombing during the Second World War; others survive in the Bodleian Library.<br>
+<br>Christopher Day </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23231&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 38 (1852), 649&#150;52 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23231&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; M. H. M. Hulton, &#145;William Reader, printer and antiquary&#146;, <em>Warwickshire History</em>, 4/5 (1980), 175&#150;88 &middot; B. J. Ronchetti, &#145;Antiquarian scholarship in Warwickshire, 1800&#150;1860&#146;, MA diss., U. Birm., 1952 &middot; parish register, Rowington, Warwickshire, 19 Nov 1782 [marriage] &middot; parish register, Rowington, Warwickshire, 7 Jan 1783 [baptism]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23231&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MSS collections for the history of Coventry<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Christopher Day, &#145;<span class="roman"><span class="headword">Reader,  William</span>  (1782&#150;1852)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/23231, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Reader (1782&#150;1852): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23231 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

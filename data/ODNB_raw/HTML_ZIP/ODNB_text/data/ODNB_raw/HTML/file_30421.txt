@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30421;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30421-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30421-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30421#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Angwin, Sir  (Arthur) Stanley</span>  (1883&#150;1959), <span class="occ">electrical engineer</span>, was born in Penzance on 11 December 1883, the son of the Revd George William Angwin, a nonconformist minister, and his wife, Lucinda Cambellock. A change of circuit brought the family nearer London, and Angwin went to school in Chatham and Rochester. He obtained a Whitworth exhibition and studied engineering at East London (later Queen Mary) College, obtaining his BSc (Eng) in 1907. His first practical experience was with Yarrow &amp; Co., shipbuilders on the Clyde, but when still in his early twenties he entered the Post Office engineering department. He was sent back to Glasgow, where he was engaged in telephone installation work. While in Scotland he raised the lowland division telegraph company of the Territorial Army which was mobilized in 1914 as the 52nd divisional signal company. Angwin commanded it in Gallipoli, Egypt, Palestine, and France, and was awarded the DSO and the MC, and was five times mentioned in dispatches. After the war he commanded the 44th (Home Counties) divisional signals and subsequently retained a close association with army signals for many years. In 1921 Angwin married Dorothy Gladys, daughter of Walter H. Back, of Exeter. There were three sons and a daughter of the marriage and they were an exceptionally united family.<br>
+<br>Angwin's identification with radio began after the war. His seniors in the Post Office recognized that they had a young engineer with knowledge of mechanical, civil, and electrical engineering, and used his ability to the full in the design and construction of the large radio stations at Leafield (Oxfordshire), Rugby, and Cairo. It was during this period that Angwin began his association with other radio engineers in the Post Office, such as George Lee, Edward Shaughnessy, and Archibald Gill. Together they built up the reputation of the engineering department's radio branch. Angwin took charge of it in 1928, and under his leadership they went on to develop the shortwave radio installations which gave Great Britain a predominating position in world telephony.<br>
+<br>In 1932 Angwin became assistant engineer-in-chief, in 1935 deputy, and in 1939, three months before the outbreak of war, engineer-in-chief. He was responsible for maintaining Post Office communications throughout the period of bombing. Furthermore, his wide knowledge of military requirements enabled him to be of exceptional assistance to the fighting services: he knew and helped to find the kind of equipment and the kind of engineers they needed. During these years of strain, which must have taxed a constitution which was never robust, those who were close to him did not once see him rattled. He continued to study calmly each problem submitted to him and, having done so, made his decision.<br>
+<br>Angwin's service in the Post Office was always in a technical capacity, but as engineer-in-chief he was also an assistant director-general and as such played an important part in shaping Post Office policies. His association and friendship with Sir Raymond Birchall, who later became director-general, and others did much to draw together the administrative and engineering sides of the Post Office.<br>
+<br>Early in 1945 Angwin accompanied Lord Reith on a tour to discuss with Commonwealth governments the future of the then privately owned Cable and Wireless Company. The trip was extremely arduous and involved flying 44,000 miles in six weeks. The government took over the company on 1 January 1947 and Angwin then retired from the Post Office to become its chairman. He had the difficult task of merging a private enterprise into a government-owned organization, but his understanding of the feelings of the staff did much to ease their resentment. He remained chairman until 1951 when, following Lord Reith's resignation, he was unanimously invited by all the Commonwealth governments concerned to become chairman of the Commonwealth Telecommunications Board. For the next five years he filled this office with distinction, furthering Commonwealth co-operation in all spheres of telecommunications. Lady Angwin did much to support her husband on his travels when, as chairman, he visited various Commonwealth countries. In 1954 he headed a delegation of the board to Australia and New Zealand. This was his last major overseas task; in 1956 he felt obliged to retire owing to ill health.<br>
+<br>Angwin was widely known in international circles. He made his name as chairman at the telecommunications conference at Madrid in 1932. Thereafter he represented the United Kingdom at international conferences at Lucerne, Lisbon, Bucharest, Cairo, Montreux, Bermuda, Moscow, and Atlantic City. His abilities as a chairman were outstanding. Despite the rival or vested interests with which delegates came to a meeting&#151;and these were many when frequency allocations were under discussion&#151;they went away feeling that his judgments had been fair. At home he was chairman of the Radio Research Board in 1947&#150;52, and was also very much in demand for government and official committees, among them the first (1934) and subsequent committees dealing with television, in the development of which he was keenly interested.<br>
+<br>Angwin was always interested in the education of young engineers, and for some years was a member of the board of studies of the University of London. He was a member of council of the Institution of Civil Engineers and of the Institution of Electrical Engineers. In the latter he was chairman of the wireless section (1931&#150;2), vice-president (1939&#150;42), and president (1943&#150;4), and was awarded the Faraday medal (1953), and made an honorary member (1956). Other honours included a fellowship of his old college, and the honorary degree of DSc (Eng) from London (1953). He was knighted in 1941, appointed KBE in 1945 and KCMG in 1957, and was awarded the Haakon VII cross of freedom for services to Norway in the Second World War.<br>
+<br>A great engineer, who did much to advance telecommunications, Angwin also held posts of high administrative responsibility. He had the rare gift of being able to inspire a team to work harmoniously together, and his staff always remembered him with affection. His counsel and kindly wisdom helped many of them round difficult corners. Angwin died at his home, 32 Guessens Road, Welwyn Garden City, Hertfordshire, on 21 April 1959.<br>
+<br>Gordon Radley<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (22 April 1959) &middot; <em>Journal of the Institution of Electrical Engineers</em>, new ser., 5 (1959), 387&#150;8 &middot; P. O. and telecommunications Board records &middot; personal knowledge (1971)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1943, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30421&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;19,076 7<i>s</i>. 4<i>d</i>.: probate, 16 July 1959, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Gordon Radley, &#145;<span class="roman"><span class="headword">Angwin, Sir  (Arthur) Stanley</span>  (1883&#150;1959)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Sept 2010 [http://www.oxforddnb.com/view/article/30421, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  (Arthur) Stanley Angwin (1883&#150;1959): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30421 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/30421/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

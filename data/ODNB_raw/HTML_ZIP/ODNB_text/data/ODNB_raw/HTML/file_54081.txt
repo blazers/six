@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 54081;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/54/54081-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/54/54081-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=54081#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Spiller,  John</span>  (1833&#150;1921), <span class="occ">chemist and inventor of photographic techniques</span>, was born on 20 June 1833, one of at least two sons of John Horatio Spiller, an architect. Educated at a private school at Crouch End, London, and the City of London School, he then entered the Royal College of Chemistry and stayed on after his coursework as a junior assistant to Professor A. W. Hoffman. At the age of twenty he assisted Dr John Percy at the Royal School of Mines in analysing British iron ores, and the results of their important work were published in the <span class="italic">Memoirs of the Geological Survey</span>. Within three years, in 1856, his growing reputation led to an appointment as an assistant chemist at the Woolwich arsenal. In 1861 he founded a department there to teach the new art/science of photography; he also lectured on the art at the Royal Military Institute and the Royal Military Repository. He left Woolwich in 1868 to join his brother's colour firm, Messrs Brooke, Simpson, and Spiller, as their chief chemist: it was the first British firm to manufacture synthetic (coal-tar) dyes. His retirement after twenty years there led to no diminishment of activity. Spiller was one of the first to embrace the volunteer movement, achieving his commission in 1859 and finally retiring in 1877 as a captain of the 26th (Kent) rifles.<br>
+<br>In spite of achievements in many areas of chemistry and geology, it is for his work in photography that Spiller is best-known. It was in his youth at the Royal College of Chemistry that he met and formed a close friendship with William Crookes. Photography was their common interest and their first experiments together started about 1850 with the calotype process. Within two years Henry Talbot's pioneering invention was beginning to give way to the new negative process of wet collodion. Although this was much more sensitive and finely detailed than the calotype process, it involved a chemically volatile glass plate which had to be exposed and processed while wet, a great limitation for field or spontaneous use. In an 1854 issue of the <span class="italic">Philosophical Magazine</span> Crookes and Spiller published their first paper on photography, on a &#145;Method of preserving the sensitiveness of collodion plates&#146;. This described how, if a deliquescent salt was incorporated to keep them sufficiently moist, the plates could be made up ahead of time, packaged in light and tight containers, used in the field, and processed at a more convenient time. This presaged the later factory-made dry plates and the <span class="italic">Art Journal</span> in 1854 rightly celebrated the improvement as one of the greatest importance.<br>
+<br>Spiller also published papers on methods of making photographs more permanent (a matter of enormous concern at the time), artificial lighting for photography, and the photography of solar eclipses. His scientific essays, of which nearly thirty were published, were dominated by photographic topics. He continued a close working relationship with Crookes until the latter embraced spiritualism in the 1870s, a development which proved a strain on the scientific beliefs which had been the basis of their association: their personal friendship, however, lasted late into their long lives.<br>
+<br>Spiller married (Caroline) Ada, the daughter of the well-known microscopist <script>writeSeealsoLink('../view/article/22818/', "Andrew Pritchard FRSE")</script>; they had a daughter and two sons. Her brother, H. Baden Pritchard, succeeded Spiller in the photographic department at Woolwich and was later an influential editor in photography and a preserver of some of the earliest history of photography. Almost four years after Ada's untimely death (in October 1873) Spiller married, on 5 June 1877, Emma Davenport, daughter of Samuel Thomas Davenport, assistant secretary of the Society of Arts; they had one son.<br>
+<br>Born at a time when the stagecoach was the most common means of travel, Spiller came of age just as the art/science of photography was coming of age as well. His activity in this field spanned seven decades of enormous change. His formal admission into the Photographic Society of London (later the Royal Photographic Society) was delayed until 1867, but he rapidly gained the distinction of being the only person ever to fill all their major offices, rising from treasurer-secretary to vice-president to president in 1874&#150;5. He was also the editor of the <span class="italic">Photographic Journal</span>, sometimes in conjunction with Pritchard and sometimes with Dr Hugh Welch Diamond, and was designated &#145;Lord Uriel of the Solar Club&#146;. Most of his photographic output primarily recorded his technical experiments in the medium, but some competent amateur pictorial work which he did about 1857 with Dr John Percy survives.<br>
+<br>Spiller, who bore an uncanny physical resemblance to Field Marshal Lord Roberts, also took an active interest in church and civic matters. He died on 8 November 1921 at his home, 2 St Mary's Road, Canonbury, London. He was survived by his second wife. Chapman Jones, his obituarist, in a 1922 issue of the <span class="italic">Photographic Journal</span>, remembered him as being &#145;of a most kindly disposition, ever ready to lend a helping hand or step into a gap that needed filling &hellip; there are &hellip; many in the chemical and photographic world who are indebted to him&#146;  (Jones, 23&#150;4). His photographs are in the Royal Photographic Society collection at the National Museum of Photography, Film and Television, Bradford, and the Gernsheim collection in the University of Texas at Austin.<br>
+<br>Larry J. Schaaf </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Wellcome L., Spiller MSS &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54081&amp;istheme=&amp;target=JCS')"><i>JCS</i></a>, 121 (1922), 748&#150;9 &middot; C. Jones, <em>Photographic Journal</em>, new ser., 46 (1922), 23&#150;4 &middot; m. cert. [J. Spiller and E. Davenport] &middot; d. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54081&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1922)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54081&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>, corresp.<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> F. Lewis, photograph, National Museum of Photography, Film and Television, Bradford, Royal Photographic Society collection<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;8815 16<i>s</i>. 8<i>d</i>.: probate, 14 Jan 1922, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Larry J. Schaaf, &#145;<span class="roman"><span class="headword">Spiller,  John</span>  (1833&#150;1921)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/54081, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Spiller (1833&#150;1921): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/54081 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 943;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/943-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/943-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=943#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Airmyn <span class="st"> [Ayreminne]</span>,  Richard</span>  (<em>c.</em>1290&#150;1340), <span class="occ">administrator</span>, came of a family that derived its name from the village of Airmyn on the River Aire in Yorkshire. Richard seems to have been a son of Adam and Matilda Airmyn and a younger brother of <script>writeSeealsoLink('../view/article/944/', "William Airmyn (d. 1336)")</script>, bishop of Norwich, although in his episcopal register the latter does not address him as such. On the other hand, Master Adam Airmyn, rector of Gargrave, later archdeacon of Norfolk, is regularly addressed as <i>carissime frater</i>. All three were trained as chancery clerks and both Richard and Adam owed much to the patronage of William, and in Richard's case to that of Robert Baldock (<i>d</i>. 1327). Richard was a clerk of the privy seal from about 1315 until 1323. Eventually he received higher wages than his colleagues, suggesting that he may have become chief clerk. In October 1318, with William Airmyn, he attended the important reforming parliament at York which confirmed the articles drawn up by Lancaster's supporters at Leake the previous August. According to the Pauline annalist William and his brother, presumably Richard, were captured by the Scots at Myton in Swaledale in 1319, a heavy ransom being paid for their release. Richard succeeded William as keeper of the rolls of chancery in 1324, an office he retained for a year. When in 1323&#150;4 the temporalities of Winchester diocese were withheld from John Stratford (<i>d</i>. 1348), Richard Airmyn was appointed one of the administrators. During November and December 1324, owing to Chancellor Baldock's absence, he acted as a temporary keeper of the great seal.<br>
+<br>Following William Airmyn's acceptance of provision to Norwich in 1325, Richard became involved in diocesan administration. He was appointed vicar-general of the diocese from Paris (20 September 1325) and shortly thereafter was deputed with his brother Adam to administer oaths of canonical obedience. At the time he held the valuable Yorkshire rectory of Kirk Ella. Such duties did not detain him long, for the following year he was succeeded as vicar-general by Adam. Edward II's growing hostility to William now affected Richard's career, and in March 1326 royal writs were issued for his and Adam's pursuit and arrest. It has been suggested that they took refuge on the continent and returned with Queen Isabella. All that is known for certain is that on 14 October 1326&#151;Bishop William having returned to Norwich&#151;Adam was reappointed vicar-general.<br>
+<br>The first keeper of the privy seal in the reign of Edward III, Richard Airmyn held office from 1 March 1327 until the following 18 February. In 1327 he was made keeper for life of the Domus Conversorum (house of converts)&#151;a domicile for converted Jews in Chancery Lane, probably already used for the storage of chancery records. He surrendered the office in 1339. But Isabella's irritation with Bishop Airmyn, on account of his alleged responsibility for the oath of homage performed to the French king by the future Edward III in 1325, may have damaged Richard's prospects, for he did not hold high office again. His administrative career nevertheless brought ecclesiastical rewards. At Edward II's request he was granted (March 1320) an annual pension of &pound;5 from Christ Church, Canterbury. The royal grant of a Lichfield prebend in 1328 proved abortive, but an expectative grace of 23 March in that year enabled him to secure collation to the chancellorship of Salisbury Cathedral (16 July 1329), a dignity held until his death, between 3 April and 9 May 1340. He also held prebends in York (from 1316), Chichester, and Lincoln, in addition to a prebendal portion in the royal chapel of Wimborne.<br>
+<br>Roy Martin Haines </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>register of Bishop William Ayrmyn, Norfolk RO, Reg. 1/2 &middot; notarial instrument, Norfolk RO, episcopal charters Box 1, no. 1228 [attesting appointment of Richard and Adam Airmyn to receive oaths of canonical obedience] &middot; &#145;Historia Roffensis&#146;, BL, Cotton MS Faustina B.v, fols. 44<i>v</i>&#150;45<i>r</i>, 55<i>v</i> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=Chancery%20records')"><i>Chancery records</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=CEPR%20letters')"><i>CEPR letters</i></a>, vol. 2 &middot; W. Stubbs, ed., &#145;Annales Paulini&#146;, <i>Chronicles of the reigns of Edward I and Edward II</i>, 1, Rolls Series, 76 (1882), 253&#150;370 &middot; J. C. Davies, <i>The baronial opposition to Edward II</i> (1918) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=Tout%2C%20Admin.%20hist.')">Tout, <i>Admin. hist.</i></a>, vols. 2&#150;3, 5&#150;6 &middot; J. L. Grassi, &#145;Royal clerks from the archdiocese of York in the fourteenth century&#146;, <em>Northern History</em>, 5 (1970), 12&#150;33 &middot; J. L. Grassi, &#145;William Airmyn and the bishopric of Norwich&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 70 (1955), 550&#150;61 &middot; <i>Hemingby's register</i>, ed. H. M. Chew, Wiltshire Archaeological and Natural History Society, Records Branch, 18 (1963) &middot; R. M. Haines, <i>The church and politics in fourteenth-century England</i><i>: the career of Adam Orleton, c.1275&#150;1345</i>, Cambridge Studies in Medieval Life and Thought, 3rd ser., 10 (1978) &middot; J. R. Wright, <i>The church and the English crown, 1305&#150;1334</i><i>: a study based on the register of Archbishop Walter Reynolds</i> (1980) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=Fasti%20Angl.%2C%201300%3F1541')"><i>Fasti Angl., 1300&#150;1541</i></a> [Lincoln; Salisbury; York; Chichester; Coventry] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=Fasti%20Angl.%2C%201300%3F1541')"><i>Fasti Angl., 1300&#150;1541</i></a> [Coventry] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=Fasti%20Angl.%2C%201300%3F1541')"><i>Fasti Angl., 1300&#150;1541</i></a> [Chichester] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=Fasti%20Angl.%2C%201300%3F1541')"><i>Fasti Angl., 1300&#150;1541</i></a> [York] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=943&amp;istheme=&amp;target=Fasti%20Angl.%2C%201300%3F1541')"><i>Fasti Angl., 1300&#150;1541</i></a> [Salisbury]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Roy Martin Haines, &#145;<span class="roman"><span class="headword">Airmyn ,  Richard</span>  (<em>c.</em>1290&#150;1340)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/943, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Richard Airmyn (<em>c.</em>1290&#150;1340): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/943 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

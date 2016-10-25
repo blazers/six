@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9333;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9333-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9333-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9333#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Fergusson, Sir  James</span>, second baronet, Lord Kilkerran  (<em>bap. </em>1688, <em>d.</em> 1759), <span class="occ">judge</span>, was baptized on 17 July 1688 at Old Machair, Aberdeen, the eldest son of Sir John Fergusson, first baronet (<i>d</i>. 1729), of Kilkerran, Ayrshire. He studied law, possibly at Leiden, and was admitted advocate in 1711. He entered parliament in 1734 as member for Sutherland and sat for that county until he was appointed a lord of session on 7 November 1735, taking the courtesy title Lord Kilkerran. He was made a lord of justiciary on 3 April 1749.<br>
+<br>Fergusson had married, in September 1726, Jean (1703&#150;1766), daughter of James Maitland, Lord Maitland. They raised a large family, among whom their eldest son, Adam, became a lawyer and MP; a daughter, Helen, was the second wife of Sir David Dalrymple, Lord Hailes, and a younger son was <script>writeSeealsoLink('../view/article/9332/', "George Fergusson, later Lord Hermand (1743&#150;1827)")</script>. It was probably this son who published in 1775 his father's <span class="italic">Decisions of the Court of Session from the Year 1738 to the Year 1752</span>, a volume much admired for its clarity, and as a model for the most useful form of law reports.<br>
+<br>Though considered to be abstemious, Kilkerran was a devotee of claret and afflicted by gout. He was nevertheless considered to be one of the ablest lawyers of his day. His knowledge was founded on a thorough acquaintance with Roman jurisprudence, and a familiarity with the best commentaries on Scots law. He died at his residence near Edinburgh on 20 January 1759.<br>
+<br>Francis Watt<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. Brunton and D. Haig, <i>An historical account of the senators of the college of justice, from its institution in MDXXXII</i> (1832), 505&#150;6 &middot; D. M. Walker, <i>The Scottish jurists</i> (1985) &middot; R. Douglas, <i>The peerage of Scotland</i>, 2nd edn, ed. J. P. Wood, 2 vols. (1813) &middot; J. Foster, <i>Members of parliament, Scotland &hellip; 1357&#150;1882</i>, 2nd edn (privately printed, London, 1882), 135 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9333&amp;istheme=&amp;target=Anderson%2C%20Scot.%20nat.')">Anderson, <i>Scot. nat.</i></a> &middot; J. Foster, <i>Collectanea genealogica</i>, 20 pts (1881&#150;5) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9333&amp;istheme=&amp;target=Irving%2C%20Scots.')">Irving, <i>Scots.</i></a> &middot; F. J. Grant, ed., <i>The Faculty of Advocates in Scotland, 1532&#150;1943</i>, Scottish RS, 145 (1944) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9333&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>NRA Scotland, priv. coll., corresp., MSS, notebooks, and personal accounts&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9333&amp;istheme=&amp;target=Hunt.%20L.')">Hunt. L.</a>, letters to earl of Loudoun<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Francis Watt, &#145;<span class="roman"><span class="headword">Fergusson, Sir  James</span>, second baronet, Lord Kilkerran  (<em>bap. </em>1688, <em>d.</em> 1759)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/9333, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  James Fergusson (<em>bap. </em>1688, <em>d.</em> 1759): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9333 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

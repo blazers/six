@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 60262;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/60/60262-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/60/60262-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=60262#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Tollet,  George</span>  (<em>d.</em> 1719), <span class="occ">mathematician and naval administrator</span>, is said to have lived to &#145;a very advanced age&#146;  (<span class="italic">St Margaret's</span>, 74), but his birth date and parentage are not known. He had at least three brothers&#151;John, Thomas, and Charles. Much evidence suggests that his brother Thomas was the composer <script>writeSeealsoLink('../view/article/67974/', "Thomas Tollet")</script> thought to have died in 1696. George Tollet was also musical, owned a violin made by Nicol&ograve; Amati, and may have composed &#145;Tollet's Ground&#146; and other works sometimes attributed to Thomas. In 1683 Tollet became a founder member of the Dublin Philosophical Society&#151;a sister organization to the Royal Society&#151;and would become one of its more active members: his experiments and presentations, as well as his correspondence with other scientists, including Edmond Halley, are often remarked upon in its minute book, which records his election to the position of treasurer on 2 November 1685. Several members of the Dublin society remained important contacts after Tollet moved to England, perhaps most notably William King (later archbishop of Dublin), with whom Tollet maintained an extensive correspondence spanning more than two decades, much of which survives in the library of Trinity College, Dublin (amid TCD, MSS 1995&#150;2008).<br>
+<br>Several of Tollet's contributions to the Dublin society's meetings involved applied mathematics&#151;he presented papers on gunnery and on longitude, for example&#151;but particularly striking, in light of his later attention to the education of his daughter Elizabeth, is his presentation of a young Irish prodigy. William Molyneux reported to Edmond Halley in a letter of 6 April 1685:<blockquote>several of our meetings have been employed by a young mathematical female in this place, bred up by one Mr Tollet, a teacher of mathematics, and a most excellent learned man in that kind. The child is not yet eleven, and yet she hath given sufficient proofs of her learning in arithmetic, the most abstruse parts, algebra, geometry, trigonometry plane and spherical, the doctrine of the globes, chronology, and on the violin plays anything almost at sight. (Gilbert, 2.177)</blockquote>She was also deemed proficient in geography and astronomy.In 1688 Tollet moved to England. Luttrell's parliamentary diary reports that Tollet was chosen secretary to the &#145;commissioners for taking the public accounts&#146; in March 1691; was made &#145;comptroller of the foreign post office in the room of Mr Brocket&#146; in May 1697; took a post at &#145;the custome house&#146; in November 1697; and in June 1700 was made &#145;secretary of the excise, worth &pound;500 per annum&#146;  (Luttrell, 2.192; 4.219, 306, 661). Not mentioned in Luttrell's diary, but noted by both Hinchliffe and Speake, is Tollet's appointment as accountant-general of Ireland, granted in December 1691.<br>
+<br>Tollet's marriage to Elizabeth Cook (1659/60&#150;1702) had taken place by at least 1690. There seems to have been considerable strife in the marriage. In a letter to William King of 24 November 1692 Tollet remarks how &#145;deeply sown&#146; is &#145;y<sup>e</sup> seed of contention&#146;  (TCD, MSS 1995&#150;2008/246). Elizabeth died at the age of forty-two on 6 February 1702, and was buried in St Martin-in-the-Fields, as her epitaph records, &#145;with two of their nine Children; a third lyeth near this grave&#146;  (Le Neve, 46). Apart from their daughter <script>writeSeealsoLink('../view/article/27502/', "Elizabeth Tollet")</script>, the poet (<i>b</i>. 11 March 1694), only two other children of the nine survived into adulthood: George (<i>b</i>. 17 Dec 1696) and Cook (<i>b</i>. 1 April 1698).<br>
+<br>A letter from Tollet to Samuel Pepys the diarist and navy official, dated 8 February 1694, is headed &#145;Office of Accounts in York Buildings&#146;, and it seems likely that Tollet had his residence as well as his office in these &#145;comfortable mansions&#146; in London  (<span class="italic">Private Correspondence</span>, 1.90, 267; 2.2). But by 1702 the family had moved to the Tower of London, and on 11 February 1702 Tollet was appointed an extra commissioner to the navy with a salary of &pound;500 per annum. It was perhaps through his work with the Navy Board that he became acquainted with that other famous diarist and navy official of the period, John Evelyn, at whose funeral in 1706 at Wotton he was a pallbearer. On 3 December 1708 George Tollet was granted a coat of arms. The Tollets' residence in the Tower continued well beyond the father's employment with the navy, which ended on 16 November 1714: the family &#145;certainly resided there&#146; in<blockquote>the early part of the reign of George I, during the imprisonment of the celebrated Robert Harley, Earl of Oxford, who, in gratitude to Mr. Tollet, for his kindness to him when in confinement, presented him with a gilt cup, with the Tower engraved upon it, which has descended as an heir loom.(Hinchliffe, 188&#150;9; will, Staffs. RO, D3272/1/22/10/1)</blockquote>For the initial part of his imprisonment in 1715 Oxford had in fact stayed at the Tollets' residence.<br>
+<br>Tollet wrote his will on 9 June 1718 in the Tower, and later that year retired to the small market town of Betley in Staffordshire to live in Betley Hall, which, with surrounding properties in Betley and Audley, he had recently purchased from Randle Egerton, esquire. He died within about a year of the move, and was buried on 5 November 1719 in St Margaret's Church, Betley. The Tollets and their descendants remained prominent in Betley and surrounding areas for nearly two centuries.<br>
+<br>Michael Londry </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>St Margaret's Church, Betley, Staffordshire</i><i>: monumental inscriptions</i>, South Cheshire Family History Society (1998) &middot; K. T. Hoppen, <i>The common scientist in the seventeenth century</i><i>: a study of the Dublin Philosophical Society, 1683&#150;1708</i> (1970) &middot; minute and register book of the Dublin Philosophical Society, 1684&#150;93, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60262&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 4811 &middot; G. Tollet, letters to W. King, TCD, Lyons collection, MSS 1995&#150;2008 &middot; J. T. Gilbert, <i>A history of the city of Dublin</i>, 3 vols. (1861) &middot; C. McNeill, ed., <i>The Tanner letters</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60262&amp;istheme=&amp;target=IMC')">IMC</a> (1943) &middot; parish register, London, St Martin-in-the-Fields, vol. 8, City Westm. AC [baptisms: George Tollet and Cook Tollet, children] &middot; E. Hinchliffe, <i>Barthomley</i><i>: in letters from a former rector to his eldest son</i> (1856) &middot; R. Speake, ed., <i>Betley</i><i>: a village of contrasts</i> (1980) &middot; J. Le Neve, <i>Monumenta Anglicana</i>, 5 vols. (1717&#150;19) &middot; <i>Private correspondence and miscellaneous papers of Samuel Pepys, 1679&#150;1703</i>, ed. J. R. Tanner, 2 vols. (1926) &middot; J. M. Collinge, <i>Navy Board officials, 1660&#150;1832</i> (1978) &middot; J. J. Howard, ed., <i>Miscellanea genealogica et heraldica</i>, 2nd ser., 3 (1890) &middot; will, 1718&#150;19, Staffs. RO, D3272/1/22/10/1 &middot; E. Hamilton, <i>The backstairs dragon</i><i>: a life of Robert Harley, earl of Oxford</i> (1969) &middot; P. W. L. Adams, ed., <i>Betley parish register, 1538&#150;1812</i>, Staffordshire Parish Registers Society (1916) &middot; G. Tollet, letter to Mr Collins, 1675, RS, MS EL. T.45 &middot; N. Luttrell, <i>A brief historical relation of state affairs from September 1678 to April 1714</i>, 6 vols. (1857) &middot; R. Ollard, <i>Pepys</i><i>: a biography</i> (1974)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60262&amp;istheme=&amp;target=TCD')">TCD</a>, letters to W. King<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> At death he possessed Betley Hall and surrounding properties in Betley and Audley, Staffordshire, and an annuity of &pound;400, the selling of which he estimated would realize &pound;8000. He bequeathed an annuity of &pound;250 to his daughter Elizabeth, and, after other specific legacies, the residue of his estate went to his eldest son, George Tollet: George Tollet's will, 1718&#150;19<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael Londry, &#145;<span class="roman"><span class="headword">Tollet,  George</span>  (<em>d.</em> 1719)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/60262, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Tollet (<em>d.</em> 1719): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/60262 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37617;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37617-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37617-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37617#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Jones,  Thomas Wharton</span>  (1808&#150;1891), <span class="occ">physiologist and ophthalmic surgeon</span>, was born in St Andrews, Fife, on 9 January 1808, the second of three sons (there were also three daughters) of Richard Jones (<i>d</i>. 1821), sometime secretary of customs for Scotland, and his wife, Margaret Cockburn of Ayton Mains, Berwickshire. Through his maternal grandmother Jones fancied he could trace a distinguished ancestry back to the Norman conquest, but he grew up in straitened circumstances, and money remained a problem throughout his life. After early education in Stirling, Dalmeny, and Musselburgh, he enrolled in arts classes at Edinburgh University in 1822. After switching to medicine, he distinguished himself, and qualified LRCS in 1827. Jones's appointment as demonstrator in the extramural anatomy school of Robert Knox coincided with the scandal of William Burke and William Hare, and Jones left Edinburgh for Glasgow in 1829. There his interests in ophthalmology and embryology were cultivated. About 1835 he moved to a practice in Cork; after an extended tour of continental universities, he settled in London in 1838.<br>
+<br>Never a particularly successful medical practitioner, Jones brought a sound scientific reputation with him. In May 1841 he was appointed lecturer in physiology at Charing Cross Hospital medical school. He had been elected FRS in 1840 and became FRCS in 1844. From 1851 to 1881 he was professor of ophthalmic medicine and surgery at University College, London, and although he influenced the earliest microscopical investigations of Joseph Lister, he never took much part in college life. Eventually he became an object of derision among medical students, who called him &#145;Mummy Jones&#146;. For many years he lived with his mother.<br>
+<br>Jones's scientific work was mostly microscopical, and included important observations on the blood circulation through capillaries, the mammalian ovum, the pathophysiology of inflammation, and the nature of the white blood corpuscles. Much of this was summarized in his &#145;State of the blood and blood-vessels in inflammation, as ascertained by experiments, injections, and observations under the microscope&#146;, his Astley Cooper prize essay (<span class="italic">Guy's Hospital Reports</span>, 1850). His <span class="italic">Failure of Sight from Railway and other Injuries of the Spine and Head</span> (1869) was a speculative attempt to apply his theories of inflammation to clinical problems.<br>
+<br>Jones was a competent eye surgeon, and his <span class="italic">Manual of the Principles and Practice of Ophthalmic Medicine and Surgery</span> (1847) reached its third edition in 1865. He published in addition shorter primers aimed at medical students and general practitioners. His views on the nature of astigmatism were important and he improved the treatment of acute glaucoma. After Hermann von Helmholtz introduced his ophthalmoscope, Jones became adept at using it, though he had earlier failed to recognize the significance of an ophthalmoscope devised by Charles Babbage.<br>
+<br>Jones was a religious man who published a treatise on natural theology and was hostile to the evolutionary work of Charles Darwin. He was saved in old age from extreme poverty by a private subscription and, on the recommendation of T. H. Huxley, a civil-list pension. This permitted him to retire in 1881 and to settle at Swiss Cottage, Ventnor, Isle of Wight, where he died, unmarried, on 7 November 1891.<br>
+<br>W. F. Bynum<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. J. Goodlea, &#145;Thomas Wharton Jones&#146;, <em>British Journal of Ophthalmology</em>, 5 (1921), 97&#150;117, 145&#150;56 &middot; C. Snyder, &#145;Charles Babbage and his rejected ophthalmoscope&#146;, <em>Archives of Ophthalmology</em>, 71 (1964), 591&#150;3 &middot; J. Hirschberg, <i>The history of ophthalmology</i>, trans. F. C. Blodi, 8a (1987) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37617&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (14 Nov 1891), 1058&#150;9; (28 Nov 1891), 1175&#150;7 &middot; V. G. Plarr, <i>Plarr's Lives of the fellows of the Royal College of Surgeons of England</i>, rev. D'A. Power, 2 vols. (1930) &middot; <em>The Lancet</em> (28 Nov 1891), 1256&#150;8<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;876 12<i>s</i>. 9<i>d</i>.: probate, 12 Dec 1891, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. F. Bynum, &#145;<span class="roman"><span class="headword">Jones,  Thomas Wharton</span>  (1808&#150;1891)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/37617, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Wharton Jones (1808&#150;1891): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37617 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

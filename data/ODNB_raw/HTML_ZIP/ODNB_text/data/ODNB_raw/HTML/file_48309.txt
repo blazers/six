@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 48309;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/48/48309-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/48/48309-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=48309#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Worcester,  John  of</span>  (<em>fl. </em>1095&#150;1140), <span class="occ">Benedictine monk and chronicler</span>, was very probably responsible for the work formerly attributed to <a href="#cosubject_9757">Florence of Worcester [<i>see below</i>]</a>. Orderic Vitalis (<i>d</i>. 1143) saw the monk John at Worcester at work on a chronicle not later than 1124, and reports that Bishop Wulfstan (<i>d</i>. 1095) had asked him to continue the world chronicle of Marianus Scotus (<i>d</i>. 1082). Like Marianus's chronicle, John's is a world history extending from the beginning of humankind to 1140. He occasionally supplemented or corrected Marianus's account of world events, but the substantial English history (from 450 to 1140) that he grafted on to Marianus, and the respect that he showed for his sources, make his chronicle particularly valuable. The backbone of his annals was a translation of one or more versions of the <span class="roman">Anglo-Saxon Chronicle</span>, and John's differences from existing vernacular witnesses are therefore of significance. He had considerable recourse to Bede's <span class="italic">Historia ecclesiastica</span> for events down to 731, and John's extensive copying of Asser's <span class="italic">Vita &AElig;lfredi</span> makes his text, as one of three surviving partial medieval witnesses to that life, of crucial importance in its reconstruction.<br>
+<br>For much of the tenth and early eleventh centuries saints' lives&#151;those of Dunstan by B, Adelard, and Osbern, of Oswald by Byrhtferth, and of &AElig;lfheah by Osbern&#151;fill in some of the gaps in the <span class="roman">Anglo-Saxon Chronicle</span>. And from the early eleventh century to the chronicle's conclusion in 1140 John's additional information is often of great interest, while after 1106 or so he departs increasingly from the one surviving version of the <span class="roman">Anglo-Saxon Chronicle</span>; and in these years, and in the later years of Henry I and the first five years of Stephen, he becomes an important contemporary source. John complemented the consular tables and lists of popes, with which Marianus had introduced his chronicle, with genealogies of English kings, brief and valuable narratives of the English kingdoms, and episcopal lists. Although it contains only occasional details about its compiler, his chronicle shows that John stayed at Winchcombe for some time (annals 1130, 1134); that he relied on the oral testimony of Grimbald, Henry I's physician, Bishop Henry de Blois, and the abbot of St Val&eacute;ry-sur-Somme (annals 1130, 1134, 1137); that he witnessed the sack of Worcester in 1139; and that his accounts of the campaigns in the west in Stephen's reign seem based on personal knowledge. The interest in celestial phenomena, which is a notable feature of his work, seems confirmed by the appearance of his distinctive hand in the Worcester copy of the <span class="roman">Tables of al-Khwarizmi</span> in Adelard of Bath's translation (Bodl. Oxf., MS Auct. F.1.9.).<br>
+<br>John's chronicle survives in five twelfth-century manuscript copies and in a single leaf from a sixth. The chief manuscript (Oxford, Corpus Christi College, MS 157) was a working copy which John himself extensively revised. He made marginal additions and rewrote some annals, he erased and rewrote the annals for 1128&#150;31, and he continued the chronicle to its present imperfect end in 1140. The other four copies, which all depend directly or indirectly on the Corpus Christi manuscript, testify to two versions of the chronicle ending in 1131. The first version is represented by Dublin, Trinity College, MS 502, and LPL, MS 42, written at Coventry and Abingdon respectively, and the second by a Bury copy, Bodl. Oxf., MS Bodley 297. Cambridge, Corpus Christi College, MS 92, which was probably begun at Abingdon and completed at Peterborough, is hybrid. The evolution of the text shows how John, during its compilation, kept in touch with contemporary history writing at Durham, Canterbury, and Malmesbury.<br>
+<br>After he had revised and continued the Oxford Corpus Christi copy, John compiled and in part transcribed a self-styled <i>chronicula</i> (Dublin, Trinity College, MS 503), which was made up of much material extracted from Corpus, MS 157, and of added information from other sources. This <i>chronicula</i> was completed at Gloucester, where interpolations were added, and the history extended to 1141. The extant complete twelfth-century copies show that the full chronicle was copied at Bury, Abingdon, and Coventry, and that a copy was taken to Peterborough. It was very popular in the twelfth and thirteenth centuries and was taken over into many other chronicles and histories, in particular into those of Walter of Coventry and Roger of Howden. The earlier editions of the chronicle by Howard, Petrie, and Thorpe, did not take Oxford, Corpus Christi College, MS 157, as their basis, and the first edition to do so, that of Weaver, was confined to the annals from 1118 to 1140. A new edition is included in the <span class="roman">Oxford Medieval Texts</span> series.<br>
+<br>
+<a name="cosubject_9757"></a><span class="headword">Florence  of Worcester</span>  (<em>d.</em> 1118), a <span class="occ">monk at Worcester</span>, is praised for his skill and industry in an obituary under the annal for 1118 in John of Worcester's chronicle. The view of the early editors that he was the author of the Worcester chronicle to 1117 or 1118, and that this was later continued by others, is no longer held for three reasons. The chronicle shows no differences in style before and after 1118; in its annals before that year it used Eadmer's <span class="italic">Historia novorum</span>, which was not completed until 1122; and John clearly had a decisive role in the making of the chronicle in its later stages. The eulogistic obituary suggested, however, that Florence had a part in the compilation of the chronicle, a role that must probably remain undetermined.<br>
+<br>P. McGurk </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Florence of Worcester, <i>Chronicon ex chronicis, ab initio mundi usque ad annum Domini 1118 deductum</i>, ed. W. Howard (1592) &middot; H. Petrie and J. Sharpe, <i>Monumenta historica Britannica</i> (1848), 522&#150;642 &middot; <i>The chronicle of John of Worcester, 1118&#150;1140</i>, ed. J. R. H. Weaver (1908) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48309&amp;istheme=&amp;target=John%20of%20Worcester%2C%20Chron.')">John of Worcester, <i>Chron</i>.</a>, vol. 2 &middot; M. Brett, &#145;John of Worcester and his contemporaries&#146;, <i>The writing of history in the middle ages</i><i>: essays presented to Richard William Southern</i>, ed. R. H. C. Davis, J. M. Wallace-Hadrill, and others (1981), 101&#150;26 &middot; A. Gransden, <i>Historical writing in England</i>, 1 (1974), 143&#150;8<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48309&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Bodley 297
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48309&amp;istheme=&amp;target=CCC%20Cam.')">CCC Cam.</a>, MS 92
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48309&amp;istheme=&amp;target=CCC%20Oxf.')">CCC Oxf.</a>, MS 157
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48309&amp;istheme=&amp;target=LPL')">LPL</a>, MS 42
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48309&amp;istheme=&amp;target=TCD')">TCD</a>, MS 502
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48309&amp;istheme=&amp;target=TCD')">TCD</a>, MS 503<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">P. McGurk, &#145;<span class="roman"><span class="headword">Worcester,  John  of</span>  (<em>fl. </em>1095&#150;1140)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/48309, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John  of Worcester (1095&#150;1140): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/48309 
+                <br />
+
+                
+
+ Florence  of Worcester (<em>d.</em> 1118): doi:10.1093/ref:odnb/9757<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

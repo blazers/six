@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 58395;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/58/58395-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/58/58395-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=58395#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Brown,  William</span>  (1881&#150;1952), <span class="occ">psychologist and psychiatrist</span>, was born on 5 December 1881 at the School House, Slinfold, Horsham, Sussex, the second son of William Brown, a schoolmaster of Northumbrian origins, and his wife, Kezia Harriett (<i>n&eacute;e</i> Evans). He attended Collyer's School in Horsham, winning a scholarship to Christ Church, Oxford, in 1899, where he took mathematical moderations in 1902 and final honours in natural science (physiology) in 1904. In the following year he added <i>literae humaniores</i> while studying psychology as a special subject under William McDougall. He spent some time in Germany as the 1906 John Locke scholar in mental philosophy before embarking on mathematical and medical studies in London. In 1910 Brown earned a DSc (and the Carpenter medal) from the University of London for pioneering work on applying Karl Pearson's statistical ideas to psychological measurement.<br>
+<br>Meanwhile, Brown held a lectureship in psychology at King's College, University of London, from 1909, becoming reader in 1914 (when he also qualified in medicine at King's College Hospital). In 1921 Brown succeeded McDougall as Wilde reader in mental philosophy, remaining in Oxford until his retirement in 1946. It was largely through his efforts, and an endowment of &pound;10,000 from one of his patients, Mrs Hugh Watts, that the Institute of Experimental Psychology, of which he was the first director (1936&#150;45), was founded in 1936, and psychology at last gained honour school status in 1946.<br>
+<br>However, serving as a Royal Army Medical Corps officer during the First World War, Brown joined a small band of fellow neuropsychologists (including McDougall, W. H. R. Rivers, and C. S. Myers) who were attempting to treat the war neuroses that afflicted large numbers of front-line troops. This experience had gradually transformed Brown from quantitative psychologist into the eclectic psychotherapist and psychiatrist of his later years. Already sympathetic to Freudian ideas, he became interested in the treatment of shell-shock by hypnotically induced abreaction while training at the Maghull Military Hospital. This technique was the bedrock of his work as neurologist to the British expeditionary force in France (1916&#150;18), as commandant of the Craiglockhart Hospital for Neurasthenic Officers (where the poets Siegfried Sassoon and Wilfred Owen had earlier been patients of Rivers) between 1918 and 1919, and also at the Maudsley Hospital. Paralleling this evolution was his steady acquisition of medical qualifications: DM (Oxford) in 1918, then MRCP and FRCP in 1921 and 1930 respectively. But the war period also changed Brown's life in more immediate and personal ways by the death of his wife, whom he had married on 29 September 1906, May Leslie Rayment English (<i>b</i>. 1880/81), daughter of Edmund English, early in 1916 and his marriage, on 19 July 1917, to a military nurse, Dorothea Mary (<i>b</i>. 1889/90), daughter of PC Edwin Stone of the Somerset constabulary. There were three children from these marriages, a son from the first, then another son and a daughter from the second.<br>
+<br>Although publishing widely on medical aspects of psychology from 1922 onwards, Brown's <span class="italic">The Essentials of Mental Measurement</span> (1911), based on his DSc thesis, had brought him to early prominence within the growing British psychological establishment, not least by sparking off a prolonged conflict with Charles Spearman. Indeed, Brown's attack on Spearman's notion of general intelligence was renewed (albeit with growing unease on Brown's part) in the later editions which were co-authored with Godfrey Thomson, an even more implacable opponent of Spearman's theories. To Spearman's public delight Brown defected to the general intelligence camp in 1932, when he published strong evidence supporting a key aspect of Spearman's theory of intelligence.<br>
+<br>By the late 1920s, however, Brown was devoting less time to academic psychology than to administrative matters in Oxford and to his burgeoning clinical practice, which included appointments at King's College Hospital, London, and at the Bethlem Royal Hospital. His writings on psychiatry now focused on grander issues such as religion and war, and on the foundations of the discipline, in <span class="italic">Mind, Medicine and Metaphysics</span> (1936), for instance, rather than on the practical concerns of his earlier professional life.<br>
+<br>Brown was active in many societies concerned with advancing psychological knowledge. He served as president of section J (psychology) of the British Association for the Advancement of Science in 1927, and of the Society for the Study of Addiction between 1935 and 1937. In the last year of his life the British Psychological Society, an organization with which he had been closely associated from as early as 1907, chose him as its president.<br>
+<br>Brown died from a coronary thrombosis on 17 May 1952 at the Berystede Hotel, Sunninghill, near Windsor, Berkshire. He was survived by his wife.<br>
+<br>P. Lovie and A. D. Lovie </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Lancet</em> (24 May 1952) &middot; <em>British Journal of Medical Psychology</em>, 26 (1953), 120&#150;22 &middot; <em>British Journal of Psychology, Statistical Section</em>, 5 (1952), 137&#150;8 &middot; <em>The Times</em> (19 May 1952) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58395&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; L. S. Hearnshaw, <i>A short history of British psychology, 1840&#150;1940</i> (1964) &middot; b. cert. &middot; m. certs. &middot; d. cert. &middot; J. B. Morrell, &#145;The non-medical sciences, 1914&#150;1939&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58395&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%208%3A%2020th%20cent.')"><i>Hist. U. Oxf.</i> 8: <i>20th cent.</i></a>, 139&#150;63 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58395&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1952)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photogravure, 1915, repro. in W. H. R. Rivers, <i>Psychology and politics</i> (1923)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;13,529 0<i>s</i>. 1<i>d</i>.: probate, 3 July 1952, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">P. Lovie, A. D. Lovie, &#145;<span class="roman"><span class="headword">Brown,  William</span>  (1881&#150;1952)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/58395, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Brown (1881&#150;1952): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/58395 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

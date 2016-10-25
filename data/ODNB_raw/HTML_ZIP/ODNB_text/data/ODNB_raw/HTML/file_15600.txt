@@ -1,0 +1,409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15600;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15600-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15600-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15600#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=15600&amp;orientation=p')"><img border="0" alt="  Thomas King (1730&#150;1805), by John Young, pubd 1803 (after Johan Zoffany, c.1780) [as Puff in The Critic by Richard Brinsley Sheridan]" onmouseover="status='  Thomas King (1730&#150;1805), by John Young, pubd 1803 (after Johan Zoffany, c.1780) [as Puff in The Critic by Richard Brinsley Sheridan]'" src="/images/article-imgs/15/15600_1_200px.jpg"></a><span class="imagecaption"><b>  Thomas King (1730&#150;1805)</b>, by John Young, pubd 1803 (after Johan Zoffany, <em>c.</em>1780) [as Puff in <i>The Critic</i> by Richard Brinsley Sheridan]</span>
+</div>
+<div class="para">
+<span class="headword">King,  Thomas</span>  (1730&#150;1805), <span class="occ">actor and theatre manager</span>, was born on 20 August 1730 in the parish of St George, Hanover Square, the son of a London merchant. He entered Westminster School at the age of six, and is probably the Thomas King on the school list in 1736. At the age of fourteen he was articled to a solicitor, but, having gained a taste for the stage as an amateur, he ran away to join a company of strolling players when he was seventeen, in the company of Ned Shuter. In later life he would say that his first company was playing at Yarmouth, and that after a very short time he transferred to one in Tonbridge, having had two days at sea in between. In summer 1748 he was performing small parts in a booth theatre at Windsor, set up by Richard Yates, a London actor, when David Garrick saw him, recognized his potential, and engaged him for Drury Lane. King stayed there, however, for two years only, playing minor roles. In summer 1749 he went with other London actors for a season at the Jacob's Wells Theatre in Bristol, where he did rather better: Hannah Pritchard was in the company, and chose him to play Benedick to her Beatrice and Rover to her Clarinda. He also had a chance at Romeo. Back in London for the winter he had slightly better parts: the Younger Brother in John Dalton's and Thomas Arne's <span class="italic">Comus</span>, and Claudio in <span class="italic">Much Ado about Nothing</span>, for instance. But following another summer in Bristol, in the autumn of 1750 he left Drury Lane for Ireland. It was nine years before he returned.<h2>
+<a name="Ireland"></a>Ireland</h2>Why King should have taken himself away from the centre of the London stage at this early point in his career is uncertain, but it turned out well. Thomas Sheridan was having a sparkling success as manager of the Smock Alley Theatre in Dublin, and under his guidance King developed his strengths as a comedian. He became a popular favourite of audiences in Dublin as well as in Cork, where he played two summers. It was in Dublin also that he developed a particular specialism in delivering prologues and epilogues&#151;a more important craft in his day than it has ever been since.<br>
+<br>Although he had gone to Dublin in the company of a Miss Cole, a dancer, King transferred his affections at some stage to Mary Baker (1730&#150;1813), another dancer, who, after experience at Covent Garden and Drury Lane, also arrived on the Dublin stage in 1750.<br>
+<br>In the summer closure of 1751 King returned to England to play at Simpson's Theatre in Bath; he went there a second time, in 1755 after Simpson himself had died, to act and to manage the theatre in what was to be its last season. This was his first experience of management, but there was to be a good deal more. Mary Baker came with him, and from this time they were partners for life, marrying in 1760. <span class="italic">The Secret History of the Green Rooms</span> (1790) claimed that Frances Barton, a young actress in the company, gave Mary grounds for jealousy during that summer. If so, it would have been for the last time. Although King was to play opposite her many times in future, when she was better known as Frances Abington&#151;most notably as Sir Peter to her Lady Teazle&#151;he found her a troublesome colleague at Drury Lane and shared Garrick's dislike of her.<h2>
+<a name="DruryLanetheGarrickyears"></a>Drury Lane: the Garrick years</h2>King was brought back to Drury Lane in October 1759, after Garrick had lost the services of his principal comedian, Henry Woodward, who had gone to Ireland with Spranger Barry to set up a new theatre. By the time of Garrick's retirement in 1776 he had become his most loyal lieutenant, as well as his closest friend within the profession. He advanced in skill and reputation, and came to be regarded as the supreme comic actor of his age. He wrote his first plays in the period: <span class="italic">Love at First Sight</span> (1763) and <span class="italic">Wit's Last Stake</span> (1768). Neither is more than run-of-the-mill.<br>
+<br>King's creation of the part of Lord Ogleby, in <span class="italic">The Clandestine Marriage</span>, by Garrick and George Colman the elder, put the seal on his pre-eminence. The part had been intended for Garrick himself, and his passing it on to King (who undertook it reluctantly) caused a breach between the authors, with serious consequences, but it gave King a huge success.<br>
+<br>Garrick capitalized on the public affection felt for King by sending him before the curtain when audiences were unruly, for instance when William O'Brien's <span class="italic">The Duel</span>, after a poor start, was announced to be repeated, in December 1772; and when Samuel Reddish failed to turn up to play on 3 March 1773. He made frequent use of his talents as a speaker of prologues and epilogues: <span class="italic">The Picture of a Playhouse, or, Bucks have at ye All</span> (1760), probably written by James Love, became the most celebrated, all-purpose epilogue of the age. Garrick also gave King a huge range of parts, both classical and new. In Shakespeare he played Parolles, Pistol, Speed, Osric, Shylock, Touchstone, Malvolio, and Cloten, as well as others after Garrick had retired. He appeared in revivals of Jonson and Wycherley. The many new parts he created for Garrick have not lasted as well as those which Sheridan later gave him: Vandercrab in Harriet Lee's <span class="italic">The New Peerage</span> now means little; and it is merely a curiosity that he had, in his first years with Garrick, a small part in Johnson's <span class="italic">Irene</span>, and that at the end of his career he played the Fool in Samuel Ireland's Shakespeare forgery <span class="italic">Vortigern</span>.<br>
+<br>In 1769 Garrick staged his three-day jubilee in Stratford upon Avon, a celebration of Shakespeare in the town of his birth, which included spectacular processions, masquerades, dinners, and fireworks, but no Shakespeare play. The climax was Garrick's reciting of a jubilee ode in a specially built rotunda before a thousand spectators. King was cast as devil's advocate, rising up to voice a mean-spirited condemnation of Shakespeare and to repeat all Garrick's enemies' criticisms of the festival, so that the ode could triumphantly refute them. Boswell, who was present, thought that this detracted from the dignity of the occasion. Others misunderstood the event entirely, believing King to be a genuine protester; but it did perhaps contribute to the rapture with which the ode was received.<br>
+<br>Because of the Stratford rain Garrick incurred losses. However, he recouped these in a stage version of the jubilee at Drury Lane in that and the following season, with great success. King had a large but different role in it. Garrick and King had one of their few differences in 1772. King, sensitive for his wife's position in the company, had noticed that his opposite number at Covent Garden, Woodward (now returned from Ireland), was paid at a higher rate than he was, and interpreted it as a want of esteem. &#145;You have been for years my chief and shall be my last theatrical connection&#146;, wrote Garrick; but he went on to reproach him, with the suspicion and sensitivity to gossip that was one of his faults, with having &#145;whisper'd about in hints and ambiguities your uneasiness, all which by circulation have partly crept into the public prints&#146;  (<span class="italic">Letters</span>, 2.823, 6 November 1772). In the hothouse atmosphere of the theatre, others saw King as one of the channels by which Garrick's suspicions of others were fed, but this was perhaps no more than the price of intimacy with him. But the affection between them was real. When Garrick retired in 1776 he sent King a gift:<blockquote>Accept a small token of our long and constant attachment to each other&#151;I flatter myself that this sword, as it is a theatrical one, will not cut love between us, and that it will not be less valuable to you for having dangled at my side some part of last winter. (<span class="italic">Letters</span>, 3.1112, 25 June 1776)</blockquote>In the last decade of his career Garrick was frequently absent through sickness or on travels, and King would be left in charge of productions, as acting manager (a role similar to but without the powers of the modern director). He was also one of Garrick's talent scouts. Most notably, Garrick sent him to Cheltenham to see the young Sarah Siddons in Nicholas Rowe's <span class="italic">The Fair Penitent</span>, and on his favourable report gave her a trial at Drury Lane in 1775. She played Portia to King's Shylock, billed as &#145;a young lady, her first appearance&#146;, but neither played well, and it was seven years before Siddons came back.<h2>
+<a name="BristolandSadlersWells"></a>Bristol and Sadler's Wells</h2>The London theatres were closed each summer from June until the middle of September, and the actors normally continued their profession elsewhere. King had had experience in management at Bath, in the 1750s, and he returned to it in Bristol in 1770. The King Street Theatre (which operated only during the summers, like other provincial theatres) had had mixed fortunes since its opening in 1766. William Powell, its first manager, died suddenly in 1769, in the height of the summer season, and his partner Charles Holland died the following December. King bought a share of the theatre and managed it during the next two seasons, bringing to it actors such as Charles Bannister and John Moody. He had problems holding the company together, however, and suffered financial losses, and in June 1771 he had a serious coach accident on the way from London. He sold his share to James Dodd the following winter.<br>
+<br>Since 1769 King had had a role in the management of the Sadler's Wells Theatre, and on giving up Bristol he bought a major share in it. Sadler's Wells, described in 1744 as a place &#145;of great extravagance, luxury, idleness and ill-fame&#146;  (Mander and Mitchenson, 246), was a resort where a wooden music house had been replaced by an unlicensed stone theatre in 1765. A summer programme of music, pantomime, acrobatic displays, and illegitimate drama had been successfully managed by Thomas Rosoman, a builder. Rosoman retired in 1772. King assumed full control and held it for ten years. He made no change of policy; he was as accomplished a showman as an actor. But under his reign the music improved, through the work of Charles Dibdin; the hazards on the roads from central London were reduced, through better policing; and audiences became more fashionable, drinking tea and good wine during the shows rather than porter. The theatre developed a taste for patriotic spectacle. King had begun to reduce his participation in Sadler's Wells in 1779, and from 1782 he was fully engaged in the management of Drury Lane, on behalf of Richard Brinsley Sheridan.<h2>
+<a name="DruryLaneunderSheridan"></a>Drury Lane under Sheridan</h2>Garrick retired in 1776 and passed over the control of the theatre to Sheridan, having sold a half share to him, his father-in-law Thomas Linley, and a certain Dr Gray. Sheridan started brilliantly, with <span class="italic">The School for Scandal</span> (1777), which gave King one of his greatest roles in Sir Peter Teazle. <span class="italic">The Critic</span> followed in August 1779, with King playing Puff, the writer of the pretentious tragedy &#145;The Spanish Armada&#146;. (There was a sly joke here, for King himself had two months previously presented at Sadler's Wells a stirring pageant about Queen Elizabeth, which had spectacularly depicted the defeat of the Armada.) In succeeding years, while becoming increasingly occupied in national politics, Sheridan was to provide two or three further scripts for the Drury Lane company, but his interest in management grew less, and his control of the theatre deteriorated. In September 1782 King agreed to take over the stage management of the theatre for him. Essentially a kind, agreeable man, he found the quarrelling of his actors and their lack of discipline very troubling&#151;and he was losing money by it. After one season he had had enough; he refused to sign on again either as actor or manager, and spent the next twelve months away from London, touring Scotland, Wales, and Ireland. His London celebrity had preceded him, and guaranteed success.<br>
+<br>King returned in 1783 and yielded again to Sheridan's charm, resuming the burden for another five years. This period was no easier than the earlier one, and ended spectacularly in 1788 with a series of public statements which expose both the general difficulties of theatre management in the period and specific failings in Sheridan as theatre licensee. The management of Drury Lane passed to John Philip Kemble, a much sterner operator. King went on tour again in 1788&#150;9. Tate Wilkinson remembers his generosity in refusing payment after a dismal house in York and playing a whole week in Leeds the following month without payment, in further recompense. On his return to London, King took the extreme step of signing for Covent Garden, and he played there during the 1789&#150;90 season. In summer 1790 he was on tour again, and was appearing in Edinburgh when John Jackson, the manager, went into hiding to escape debtors; King, with his usual goodwill, took over the management for a month.<br>
+<br>The call back to Drury Lane was strong. King returned in September 1790 and remained there until he retired. He was growing fat and suffering from gout, but he was still able to hold audiences with his old parts and still ventured on new; and he still (according to his diary) lived perpetually on the edge of exasperation with Sheridan. He gave up the stage on 22 May 1802, with a final performance of Sir Peter Teazle. A lavish presentation was made to him in the green room by Dorothy Jordan on behalf of the whole company.<br>
+<br>In his prime King was a tall, handsome man, although his nose was thought rather too long. He was at home and respected in all company; Boswell found him &#145;a genteel, agreeable man&#146; during the Stratford jubilee and was glad to breakfast with him in London a month later, and in 1783 he was elected to the Sublime Society of Beefsteaks. He was the master of the Drury Lane Theatrical Fund for a few years in succession to Garrick, though he gave this up when he took on the management of Drury Lane. He had, however, one disastrous failing: he was a heavy gambler. His wife and Garrick prevailed on him to give up the habit on one occasion, and he remained free of it for a number of years, but relapsed.<br>
+<br>Although it was his destiny to play the lieutenant to two of the geniuses of the eighteenth-century theatre, Garrick and Sheridan, King had outstanding personal qualities of his own. In an age of great actors he was among the greatest, and he created at least two roles which have remained in the permanent repertory. At a time when the theatre in various forms was the dominant mode of popular culture, he was one of the essential organizers and managers of it. In a profession where rivalries and jealousy were endemic, he comes down as a kindly reconciler.<br>
+<br>King and his wife had an ideally supportive marriage, in spite of the heavy debts his habit incurred. When he was on tour they wrote to each other almost every day. He died at his home in New Store Street, Bedford Square, London, on 11 December 1805. The whole Drury Lane company attended his funeral in St Paul's, Covent Garden, where he was buried on 20 December. His wife survived him until 30 November 1813, in some poverty because of his gambling, but relieved a little by a benefit given for her in 1806. There is no record of any children.<br>
+<br>John Levitt </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. King, &#145;Diaries&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 45136&#150;7 &middot; G. W. Stone, ed., <i>The London stage, 1660&#150;1800</i>, pt 4: <i>1747&#150;1776</i> (1962) &middot; C. B. Hogan, ed., <i>The London stage, 1660&#150;1800</i>, pt 5: <i>1776&#150;1800</i> (1968) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Highfill%2C%20Burnim%20%26%20Langhans%2C%20BDA')">Highfill, Burnim &amp; Langhans, <i>BDA</i></a> &middot; <i>The letters of David Garrick</i>, ed. D. M. Little and G. M. Kahrl, 3 vols. (1963) &middot; [J. Haslewood], <i>The secret history of the green rooms</i><i>: containing authentic and entertaining memoirs of the actors and actresses in the three theatres royal</i>, 2 vols. (1790) &middot; <i>Theatrical biography, or, Memoirs of the principal performers of the three Theatre Royals</i>, 2 vols. (1772) &middot; T. Wilkinson, <i>The wandering patentee, or, A history of the Yorkshire theatres from 1770 to the present time</i>, 4 vols. (1795) &middot; R. Jenkins, <i>Memoirs of the Bristol stage</i> (1826) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=IGI')"><i>IGI</i></a> &middot; J. Cradock, <i>Literary and miscellaneous memoirs</i>, ed. J. B. Nichols, 2nd edn, 4 vols. (1826&#150;8) &middot; R. Hitchcock, <i>An historical view of the Irish stage from the earliest period down to the close of the season 1788</i>, 2 vols. (1788&#150;94) &middot; D. Macmillan, <i>Catalogue of the Larpent plays in the Huntington Library</i> (1939) &middot; R. Mander and J. Mitchenson, <i>The theatres of London</i>, 2nd edn (1963)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=BL')">BL</a>, diaries and papers, Add. MSS 45136&#150;45138&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=V%26A%20NAL')">V&amp;A NAL</a>, corresp. with David Garrick<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Zoffany, double portrait, oils, <i>c.</i>1769&#150;1770 (with Mrs Baddeley), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Garr.%20Club')">Garr. Club</a> &middot; J. R. Smith, mezzotint, pubd 1772 (after H. D. Hamilton), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; J. Roberts, group portrait, oils, exh. RA 1779, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Garr.%20Club')">Garr. Club</a> &middot; J. Young, engraving, pubd 1803 (after J. Zoffany, <i>c.</i>1780), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; W. Daniell, soft-ground etching, pubd 1809 (after G. Dance), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; S. De Wilde, portrait, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Garr.%20Club')">Garr. Club</a> &middot; B. Wilson, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Garr.%20Club')">Garr. Club</a> &middot; attrib. B. Wilson, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Garr.%20Club')">Garr. Club</a> &middot; J. Zoffany, oils (as Touchstone), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Garr.%20Club')">Garr. Club</a> &middot; portraits, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=Harvard%20TC')">Harvard TC</a> &middot; prints, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15600&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> very little: J. Doran, <i>Their majesties servants</i> (1860)<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Levitt, &#145;<span class="roman"><span class="headword">King,  Thomas</span>  (1730&#150;1805)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2007 [http://www.oxforddnb.com/view/article/15600, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas King (1730&#150;1805): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15600 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/15600/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

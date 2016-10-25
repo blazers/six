@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1219;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1219-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1219-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1219#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ball,  Nathanael</span>  (<em>c.</em>1623&#150;1681), <span class="occ">clergyman and ejected minister</span>, was born at Pitminster, near Taunton Dean, Somerset, and later attended the school there. From Pitminster he went to Cambridge University, matriculating as a sizar from King's College at Easter 1644. He cannot, therefore, be the Nathanael Ball of St Mary Hill registered as a student at Merchant Taylors' School in 1645. Ball graduated BA in 1648 (listed under the name Balls) and proceeded MA of Pembroke College in 1660. At Cambridge he built a high scholarly reputation, especially for his facility for languages; he is reputed to have spoken French almost as a native, and according to Calamy won the respect and affection of Tillotson, the future archbishop.<br>
+<br>On 1 March 1650 Ball was approved as a minister by the Westminster assembly and in the same year the commission charged to survey church livings in Hertfordshire reported that the vicarage of Furneaux Pelham &#145;is worth &pound;35 per annum, and that Nathanael Ball is minister and pays one fifth to the wife of Dr [Henry] Hancock&#146;, the sequestered incumbent  (Urwick, 763). By 1652, Ball had settled at Barley in Hertfordshire, a vicarage earlier sequestered from Herbert Thorndike, and married Mary, daughter of Philip Parr, a neighbouring clergyman. Of their ten sons and three daughters, the first of five appearing in the Barley parish register is Nathaniel, on 17 December 1652. During the 1650s Ball is alleged to have helped in the preparation of Bishop Brian Walton's London polyglot <span class="roman">Bible</span> of 1657.<br>
+<br>In 1660 Thorndike recovered his living, and Ball was ejected from Barley. For some time he continued to live in the parish but later that year he left for Royston, &#145;a market town of great profaneness and but little religion&#146;, apparently on the invitation of a group of its parishioners; here he &#145;set up a lecture on the market day, which was blessed with great success. The trade of wickedness was spoiled there &hellip;&#146;  (Calamy, <span class="italic">Abridgement</span>, 2.363). It seems probable that he acted as curate at Royston, resigning after the <span class="roman">Act of Uniformity</span> in 1662, but remaining for some time in the town and preaching when occasion arose. He then lived for more than seven years at Little Chishill, of which parish his brother-in-law, Robert Parr, became the rector in 1662. There he acted as an evangelist, preaching also at Epping, Bayford, and Cambridge. In 1668 he was reported at Hardwick, Cambridgeshire, and on 20 January and 1 July 1669 he took part with the presbyterian Stephen Scanderet and others in two public disputes (of which the second seems to have been extremely bad tempered) with the Quaker George Whitehead. In the same year Archbishop Sheldon was informed that Ball was a teacher to a conventicle at Thaxted. On the issuing of the declaration of indulgence of 1672, Ball was described as of Nether Chishill, but he was licensed (25 May) as a &#145;general Presbyterian teacher in any allowed place&#146;  (Davids, 598). By June 1672 he was living at premises at Epping, licensed in that month as a presbyterian meeting-place, and in August was himself licensed to teach there. Calamy records that Ball lived &#145;in a small cottage of forty shillings a year rent&#146;, stressing his great labours and poverty in his last years  (Calamy, <span class="italic">Abridgement</span>, 2.365); he died of consumption on 8 September 1681, aged fifty-seven or fifty-eight, probably at Epping.<br>
+<br>At his death Ball entrusted his manuscripts to the keeping of Thomas Gouge, of St Sepulchre's, London, on whose early death they passed to another ejected minister, John Faldo. In 1683, Faldo published Ball's <span class="italic">Spiritual Bondage and Freedom</span>, dedicated to Ball's friend &#145;the right honourable and truly virtuous the Lady Archer, of Coopersail, in Essex&#146;, who &#145;did so bountifully minister to the reverend author's subsistence in his greatest straits&#146;  (sig. A3). The epistle to the reader supplies information on which Calamy based much of his own account. It describes Ball's role in his house:<blockquote>When it was a convenient time for the whole house to meet together, he came from his study, and summoning them to duty, he expounded one or two chapters, and examined his children and servants what they did remember, encouraging the diligent, reproving the negligent; which being done he called on God for them, and with them &hellip;. Duty being ended, he retired shortly upon it into his study, where he commonly abode till dinner. At every meal he preached as it were a short sermon; and thanks being returned unto God, he hastened again into his study; allowing himself no recreation, but what arose from reading, praying and instructing others. (Ball, foreword)</blockquote>As to his younger children, Ball &#145;would not indulge any of them in a sinful action. T'was his judgement that a father might wink at anything, saving sin against God. Therefore in his use of the rod he designed their good&#146;, explaining that neither he nor God took pleasure in the punishment, but &#145;that sin being bound up in the heart of the child, t'was the Lord's ordinance to drive it out, and therefore he always accompanied the rod with prayer, that &hellip; correction might be seconded with conversion, and crowned with universal reformation&#146;  (ibid.). In 1885 Alexander Gordon found it &#145;greatly to be deplored that his biblical and oriental manuscripts&#151;the laborious occupation of a lifelong student&#151;and his extensive correspondence are now lost. They are known to have been in existence in comparatively recent times&#146;  (<span class="italic">DNB</span>).<br>
+<br>Stephen Wright </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>N. Ball, <i>Spiritual bondage and freedom, or, A treatise &hellip;</i> (1683), foreword &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1219&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1219&amp;istheme=&amp;target=Calamy%20rev.')"><i>Calamy rev.</i></a> &middot; E. Calamy, ed., <i>An abridgement of Mr. Baxter's history of his life and times, with an account of the ministers, &amp;c., who were ejected after the Restauration of King Charles II</i>, 2nd edn, 2 vols. (1713) &middot; W. Urwick, <i>Nonconformity in Hertfordshire</i> (1884) &middot; T. W. Davids, <i>Annals of evangelical nonconformity in Essex</i> (1863) &middot; Mrs E. P. Hart, ed., <i>Merchant Taylors' School register, 1561&#150;1934</i>, 2 vols. (1936) &middot; R. Ludgater, G. Whitehead, and others, <i>The glory of Christ's light within expelling darkness</i> (1669)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Stephen Wright, &#145;<span class="roman"><span class="headword">Ball,  Nathanael</span>  (<em>c.</em>1623&#150;1681)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1219, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Nathanael Ball (<em>c.</em>1623&#150;1681): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1219 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

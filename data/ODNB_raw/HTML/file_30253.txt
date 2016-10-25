@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30253;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30253-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30253-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30253#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Young,  William</span>  (<em>d.</em> 1662), <span class="occ">composer and viol player</span>, was among several English musicians who gained distinction while working abroad. His English origins are unknown and documentation of his employment is sparse. Anthony Wood notes him as &#145;a great violist, bred in Rome, spent several years there&#146;  (Bodl. Oxf., MS Wood D 19(4), fol. 138<i>r</i>), which, if true, suggests that he may have been a Roman Catholic, out of tune with the puritan regime at home. By 1652 he had found employment in the household of Archduke Ferdinand Karl of Austria, count of Innsbruck (previously a governor of the Netherlands before moving to Innsbruck in 1646). He is presumed to have married; several children were born to the couple in Innsbruck and perhaps died in infancy.<br>
+<br>Between February and May 1652 Young was among several hundred people who travelled with the archduke at carnival time to the Italian cities of Mantua, Parma, Modena, Florence, and Ferrara; on the ship he is recorded as playing &#145;auf der geigen&#146;. An unnamed English musician, evidently Young, was rewarded with 100 ducats on 28 March 1654 by Emperor Ferdinand III: the reason is not indicated, but Young certainly performed for him. On 3 April following he received expenses of 64 florins after visiting Regensburg, where a new theatre had been built for opera, with the master of the chamber music, Marc' Antonio Cesti.<br>
+<br>Young's skill as a player was acknowledged by many, including Queen Kristina of Sweden, who heard him at Innsbruck in 1655. On 26 February 1656 the English traveller Robert Bargrave<blockquote>went to receive a most pleasing enterteinment of Musique from Mr William Young, Groome of the bed-chamber and cheife Violist to the Archduke, espetially on an Octo-cordal Viall, of his own Invention, apted for the Lira way of playing, farr beyond those with six strings only &hellip; (Bodl. Oxf., MS Rawl. C.799, fol. 180)</blockquote>Young was also praised by Jean Rousseau in his <span class="italic">Trait&eacute; de la viole</span> (1687).<br>
+<br>Young published two fine collections of sonatas and suites in three, four, and five parts (Innsbruck, 1653), and three parts (Innsbruck, 1659), which mix continental (Italian and German) and English traits, both in scoring and in structure; his use of the term &#145;sonata&#146; is one of the first known by an Englishman. There are many first-rate compositions by him for one and two bass or lyra viols, most of them quite demanding in technique. Young travelled to England on 26 August 1660, perhaps with a view to obtaining a place at Charles II's court, but he soon returned to Innsbruck, where he died on 23 April 1662; he was buried at the Jakobikirche there.<br>
+<br>A whole dynasty of musical Youngs flourished in the seventeenth and eighteenth centuries. <a name="cosubject_30253"></a><span class="headword">Anthony Young</span>  (<em>bap. </em>1683, <em>d.</em> 1747), <span class="occ">organist and composer</span>, was baptized on 11 February 1683 at St Margaret's, Westminster, the son of Anthony and Elizabeth Young. He was dismissed from the Chapel Royal in 1700 when his voice broke. He is presumed to have been the organist of St Clement Danes, London, by 1707 and was still there in 1743. He subscribed to the Royal Society of Musicians at its formation on 28 August 1739. His <span class="italic">Suits of Lessons</span> for harpsichord (1719) are conservative in style. His numerous songs include <span class="italic">A Collection of New Songs, for One or Two Voices</span> (1707). He died in London, and was buried on 8 May 1747. <a name="cosubject_74840"></a><span class="headword">William Young</span>  (<em>d.</em> 1670)<span class="occ"></span> is presumed to have been the son of Thomas Young of Ripon, Yorkshire, and an apprentice in the Farriers' Company from 1632 to 1640, later supervising his own apprentices. He served among the violins at court from midsummer 1660, also gaining a flautist's place from midsummer 1665. He was buried at St Margaret's, Westminster, on 5 November 1670. The compositions by &#145;William Young&#146; in English manuscripts, however, seem to be by the Innsbruck musician. <a name="cosubject_74841"></a><span class="headword">Charles Young</span>  (<em>bap. </em>1686, <em>d.</em> 1758), <span class="occ">composer of songs</span>, was the brother of Anthony Young, and was baptized on 7 October 1686 at St Martin-in-the-Fields, Westminster. He was possibly the St Paul's chorister of this name in 1698. He was organist of All Hallows Barking, Byward Street, from 21 August 1713 to his death on 12 December 1758. He was buried there on 16 December 1758. Three of his daughters were famous singers: <script>writeSeealsoLink('../view/article/672/', "Cecilia Young")</script> married Thomas Arne, <script>writeSeealsoLink('../view/article/65896/', "Isabella Young")</script> married <script>writeSeealsoLink('../view/article/15954/', "John Frederick Lampe")</script>, and <script>writeSeealsoLink('../view/article/65898/', "Esther (or Hester) Young")</script> married Charles Jones (<i>d</i>. 1780), a music seller, horn player, and flautist [<i>see under </i><script>writeSeealsoLink('../view/article/69663/', "Young family (per. c.1700&#150;1799)")</script>].<br>
+<br>Andrew Ashbee </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Rousseau, <i>Trait&eacute; de la viole</i> (Paris, 1687) &middot; W. Senn, <i>Musik und Theater am Hof zu Innsbruck</i> (Innsbruck, 1954) [documents Young at Innsbruck court] &middot; P. Evans, &#145;Seventeenth-century chamber music manuscripts at Durham&#146;, <em>Music and Letters</em>, 36 (1955), 205&#150;23 &middot; W. S. Newman, <i>The sonata in the Baroque era</i> (1959) [on musical style of the pubd collection] &middot; M. Tilmouth, &#145;Music on the travels of an English merchant, Robert Bargrave (1628&#150;61)&#146;, <em>Music and Letters</em>, 53 (1972), 143&#150;59 &middot; J. D. Shute, &#145;Anthony A Wood and his manuscript Wood D 19(4) at the Bodleian Library, Oxford: an annotated transcription&#146;, PhD diss., International Institute for Advanced Musical Studies, Missouri, 1979 &middot; G. Dodd, <i>Thematic index of music for viols</i> (1980&#150;) &middot; M. Tilmouth and P. Holman, &#145;Young, William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30253&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a>, 2nd edn &middot; O. Baldwin and T. Wilson, &#145;Young&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30253&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a>, 2nd edn &middot; A. Ashbee, ed., <i>Records of English court music</i>, 1 (1986) [Anthony and William Young] &middot; A. Ashbee, ed., <i>Records of English court music</i>, 2 (1987) [Anthony and William Young] &middot; A. Ashbee, ed., <i>Records of English court music</i>, 5 (1991) [Anthony and William Young] &middot; A. Ashbee, ed., <i>Records of English court music</i>, 8 (1995) [Anthony and William Young] &middot; A. Ashbee and D. Lasocki, eds., <i>A biographical dictionary of English court musicians, 1485&#150;1714</i>, 2 vols. (1998) [see also Anthony Young] &middot; D. Dawe, <i>Organists of the City of London, 1666&#150;1850</i> (1983) [Anthony and Charles Young] &middot; E. B. Schnapper, ed., <i>The British union-catalogue of early music printed before the year 1801</i>, 2 (1957), 1098&#150;9 [Anthony and Charles Young] &middot; J. Harley, <i>British harpsichord music</i>, 2 (1994), 103, 246 [Anthony Young] &middot; <i>The travel diary of Robert Bargrave, Levant merchant, 1647&#150;1656</i>, ed. M. G. Brennan, Hakluyt Society, 3rd ser., 3 (1999)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Landesregierungsarchiv, Innsbruck, Ferdinandeum Bibliotheca Dip. 905 [1652 trip]; Leopoldinum [box] B/63 [1652 trip]; Raitbuch der tirolischen Kammer, Jahr 1655, I.s. 788 [Regensburg trip]<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Andrew Ashbee, &#145;<span class="roman"><span class="headword">Young,  William</span>  (<em>d.</em> 1662)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/30253, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Young (<em>d.</em> 1662): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30253 
+                <br />
+
+                
+
+ Anthony Young (<em>bap. </em>1683, <em>d.</em> 1747): doi:10.1093/ref:odnb/30253<br> William Young (<em>d.</em> 1670): doi:10.1093/ref:odnb/74840<br> Charles Young (<em>bap. </em>1686, <em>d.</em> 1758): doi:10.1093/ref:odnb/74841<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

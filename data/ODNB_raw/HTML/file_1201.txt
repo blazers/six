@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1201;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1201-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1201-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1201#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Balguy,  John</span>  (1686&#150;1748), <span class="occ">Church of England clergyman and moral philosopher</span>, was born on 12 August 1686 at Sheffield, son of Thomas Balguy (<i>c</i>.1643&#150;1696), master of the Sheffield Free School for over 30 years, and his wife, Sara Hathornwhite, whom he had married on 8 June 1682. He studied under his father, his father's successor (Charles Daubuz), and Mr Drake (probably a relation), and on 3 February 1702 he was admitted as sizar to St John's College, Cambridge, his father's old college, where his tutors were William Edmondson and Robert Lambert, who later became the master. Balguy confessed to wasting two years at Cambridge reading romances, but after encountering Livy he turned to more serious work. He graduated BA in 1706 and proceeded MA in 1726. After leaving Cambridge he taught for a while at his old school, and then in 1708 became private tutor to Joseph Banks, son of Mr Banks of Scofton, Nottinghamshire, and grandfather of Sir Joseph Banks the naturalist. In 1710 he was ordained deacon and in 1711 priest by John Sharp, archbishop of York; he then entered the family of Sir Henry Liddel, of Ravensworth Castle, co. Durham, who presented him to the livings of Lamesley and Tanfield. He married Sarah Broomhead (<i>bap</i>. 1686), daughter of Christopher and Sarah Broomhead of Sheffield, on 6 June 1715, and left Sir Henry's house for one nearby called Cox Close, Lamesley. They had one son, <script>writeSeealsoLink('../view/article/1202/', "Thomas Balguy (1716&#150;1795)")</script>, whose contribution to the <span class="italic">Biographia Britannica</span> provides the principal source of detailed information about his father's life.<br>
+<br>For the first four years of his clerical career Balguy wrote a new sermon every week; he destroyed most of them (on one occasion burning 250) in order to encourage his son to follow his industrious example. His first publications were contributions to the Bangorian controversy: under the name of Sylvius he published three defences of Hoadly against Stebbing and Sherlock (1718&#150;20). Sherlock, despite being severely treated by Balguy on this occasion, recommended him to Queen Caroline for promotion and was a great admirer of his later work. Hoadly persuaded Balguy to suppress another reply to Stebbing on the grounds that the booksellers and the public were losing interest in the controversy. He also persuaded him not to print a letter to Samuel Clarke, whom Balguy greatly admired: Hoadly and Clarke were both afraid of anything being published that would prejudice Clarke's interest, though the subject of the letter was not the Trinity but purely philosophical matters.<br>
+<br>Balguy's most important publications in the fields of theology and moral philosophy were contributions to the deist controversy and the debate about the foundation of morals. He attacked Shaftesbury's <span class="italic">Inquiry Concerning Virtue</span>, despite his considerable admiration for the work, because of its dismissal of future rewards and punishments: &#145;to prescribe and preach up Virtue without a Future State, appears to me no otherwise than as a Sort of Religious Knight-Errantry&#146;  (J. Balguy, <span class="italic">A Letter to a Deist, Concerning the Beauty and Excellency of Moral Virtue</span>, 1726, 15). He was always a strong supporter of Clarke, and in <span class="italic">A Second Letter to a Deist, concerning a Late Book Entitled, &#145;Christianity as Old as the Creation&#146;</span> (1731) he took exception to what he saw as Tindal's gross misunderstanding of Clarke's supposed inconsistencies. In two important analyses of Hutcheson's moral sense theory, <span class="italic">The Foundation of Moral Goodness</span> (1728) and <span class="italic">The Second Part of the Foundation of Moral Goodness</span> (1729), the latter in the form of answers to a friend (Lord Darcy) who had defended Hutcheson, Balguy explored very effectively the problems of founding morality on instinct instead of reason: &#145;In short, acting according to <i>Instinct</i>, may be looked upon as the Infant State of <i>Virtue</i>; but acting according to <i>Reason</i>, its Maturity and Perfection&#146;  (p. 82). Balguy was described by Thomas Rutherforth, who disagreed with him, as &#145;the most candid, the clearest, and most judicious writer, that ever undertook the defence of this scheme of morality&#146;  (T. Rutherforth, <span class="italic">An Essay on the Nature and Obligations of Virtue</span>, 1744, 130), and he was cited approvingly by Richard Price, who used many of the same arguments in <span class="italic">A Review of the Principal Questions in Morals</span>.<br>
+<br>Balguy's theological writings included <span class="italic">Divine Rectitude</span> (1730), in which he argued that the Deity's first spring of action was rectitude (his respondents, Bayes and Grove, thought it benevolence and wisdom respectively), and its sequel, <span class="italic">An Essay on Redemption</span> (1741), in which he explained the doctrine of the atonement in a manner similar to that later employed by John Taylor of Norwich. He published his chief works as <span class="italic">A Collection of Tracts Moral and Theological</span> (1734), with a long dedication to his patron, Hoadly; in addition there were three collections of sermons, two of them posthumous, the fullest being that published in two volumes by his son in 1790.<br>
+<br>On 25 January 1728 Balguy was collated by Hoadly to a prebend in Salisbury, and through the friendship of Bishop Talbot obtained from the chapter of Durham (12 August 1729) the vicarage of Northallerton in Yorkshire, worth &pound;270 per annum. He probably got to know Talbot through Rundle (later bishop of Derry), and he was acquainted with the future bishops Benson, Secker, and Butler. He had many friends among Presbyterians and Quakers, especially Lord Barrington and Philip Glover, and maintained a philosophical correspondence with the latter. He remained vicar of Northallerton until his death. His son writes that his remaining in this position was his own fault for neglecting ways of recommending himself to his superiors, adding that he declined many invitations from Blackburne (archbishop of York) and Chandler (bishop of Durham). He became an invalid and withdrew from company except at Harrogate, which he frequented every season, and where he died on 21 September 1748.<br>
+<br>Isabel Rivers </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Kippis and others, eds., <i>Biographia Britannica, or, The lives of the most eminent persons who have flourished in Great Britain and Ireland</i>, 2nd edn, 1 (1778), 548&#150;52 [information provided by John Balguy&#146;s son, Thomas] &middot; J. E. B. Mayor, ed., <i>Admissions to the College of St John the Evangelist in the University of Cambridge</i>, pts 1&#150;2: <i>Jan 1629/30 &#150; July 1715</i> (1882&#150;93), 160&#150;61 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1201&amp;istheme=&amp;target=Nichols%2C%20Lit.%20anecdotes')">Nichols, <i>Lit. anecdotes</i></a>, 1.157; 3.138&#150;9, 220n.; 8.157n. &middot; H. D. Jones, <i>John Balguy</i><i>: an English moralist of the 18th century</i> (1907) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1201&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1201&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Yale U., Beinecke L., letters to his son Thomas<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Isabel Rivers, &#145;<span class="roman"><span class="headword">Balguy,  John</span>  (1686&#150;1748)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1201, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Balguy (1686&#150;1748): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1201 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

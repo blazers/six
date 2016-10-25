@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20866;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20866-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20866-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20866#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Osbern</span>  (<em>d.</em> 1103), <span class="occ">bishop of Exeter</span>, was the son of Osbern the seneschal, who was guardian of Normandy for the then Duke William. He was therefore brother of William Fitz Osbern, earl of Hereford. He went to England during the reign of Edward the Confessor, and was one of the king's chaplains, holding land at Stratton, Cornwall, at the time of Edward's death. As a royal chaplain he was present at the dedication of Westminster Abbey on 28 December 1065, and retained that position after the conquest, when he witnessed a charter to St Martin's, London, in 1068. The suggestion that he became the king's chancellor depends entirely upon a charter to St Augustine's, Canterbury, which is largely spurious.<br>
+<br>Osbern was consecrated bishop of Exeter at St Paul's, London, on 27 May 1072, by Archbishop Lanfranc. He was present as bishop at the councils held at Windsor in 1072 and London in 1075. A dispute arose between Osbern and the monks of St Nicholas's, Exeter, which he seems to have resolved after prompting from Pope Paschal II. William of Malmesbury relates with approval Osbern's preference for English rather than Norman customs. He seems to have made little impact at Exeter, since, according to Malmesbury, &#145;after the manner of ancient prelates, he was content with old buildings&#146;. The earliest building work there dates from the time of his successor. Osbern was blind for some years before his death and for this reason William of Warelwast, who eventually succeeded him, may have tried to have him deprived of his bishopric. Osbern died in the latter part of 1103, before the scheme could take effect.<br>
+<br>C. L. Kingsford<span class="italic">, rev. </span> Marios Costambeys </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Willelmi Malmesbiriensis monachi de gestis pontificum Anglorum libri quinque</i>, ed. N. E. S. A. Hamilton, Rolls Series, 52 (1870) &middot; A. Farley, ed., <i>Domesday Book</i>, 2 vols. (1783), fol. 121b &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20866&amp;istheme=&amp;target=Reg.%20RAN')"><i>Reg. RAN</i></a>, 1.22 &middot; D. Wilkins, ed., <i>Concilia Magnae Britanniae et Hiberniae</i>, 1 (1737) &middot; G. Oliver, <i>Lives of the bishops of Exeter, and a history of the cathedral</i> (1861) &middot; F. Barlow, <i>The English church, 1066&#150;1154</i><i>: a history of the Anglo-Norman church</i> (1979)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. L. Kingsford, &#145;<span class="roman"><span class="headword">Osbern</span>  (<em>d.</em> 1103)</span>&#146;, rev. Marios Costambeys, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/20866, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Osbern (<em>d.</em> 1103): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20866 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

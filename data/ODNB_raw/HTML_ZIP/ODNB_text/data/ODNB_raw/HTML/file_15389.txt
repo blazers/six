@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15389;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15389-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15389-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15389#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kennedy,  Quintin</span>  (<em>c.</em>1520&#150;1564), <span class="occ">abbot of Crossraguel and religious controversialist</span>, was the fourth of the seven sons of <script>writeSeealsoLink('../view/article/15367/', "Gilbert Kennedy, second earl of Cassillis (c.1492&#150;1527)")</script>, and his wife, Isobella Campbell, daughter of Archibald Campbell, second earl of Argyll. Possibly he was taught by George Buchanan, tutor to his eldest brother. He then matriculated at St Salvator's College, St Andrews, in 1540, and is recorded at Paris University in 1542&#150;3. Vicar of Girvan by October 1545, he was also parish clerk of Colmonell and succeeded his brother Thomas, slain at Pinkie in November 1547, as vicar of Penpont (Nithsdale). When his uncle William Kennedy, abbot of Cluniac Crossraguel and commendator of Premonstratensian Holywood, died at some point after 23 May 1547, Quintin succeeded him at Crossraguel. The Cassillis family clearly dominated the church in the Carrick division of Ayrshire: Cassillis and Dunure (seats of the family), Colmonell, and Crossraguel were all in Carrick, and the earl was bailie of Crossraguel.<br>
+<br>Quintin Kennedy's election (technically postulation, as he was not a monk though presumably a priest) was confirmed on 1 January 1548 by the father abbot of the Cluniac order in Scotland. On 1 February Kennedy was installed as abbot and acknowledged receipt of all monastic property, as it had been in the keeping of his brother <script>writeSeealsoLink('../view/article/15368/', "Gilbert Kennedy, the third earl")</script>, since Abbot William's death. On 23 April he received crown admittance to the temporalities. He also resigned his benefices at Girvan, Colmonell, and Penpont, the latter two to his brother Hugh. The evidence for his monastic status, however, is conflicting. The Crossraguel abbacy did not require Roman consistorial provision. Election and confirmation denote a regular abbot, and resigning benefices is a similar indication, but in July 1554 Julius III, at Queen Mary's petition, appointed Kennedy to be commendator of Crossraguel. The inference must be that he had never become a monk and regular abbot.<br>
+<br>During the next ten years Kennedy took little part in public life, though he attended the Scottish church council of 1549. He sat in parliament in April 1554, and in May he was recorded as setting out for France to have dealings with the bishop of Ross, who was already there as the queen's envoy. In the years between 1558 and 1563, however, he played an active part in Reformation disputes. In 1558 he published <span class="italic">Ane Compendius Tractive</span>, dedicated to his nephew, the master of Cassillis, in which he severely criticized abuses in the church, particularly the appointment of unsuitable men and even children to pastoral positions, but insisted that interpretation of scripture and all matters of faith and worship were to be decided by church authority only. The tract was influential and he also circulated a summary.<br>
+<br>The protestant John Willock preached at Ayr in the winter of 1558&#150;9 and accepted Kennedy's challenge to a disputation on the mass in early May 1559. It did not take place. Willock claimed his opponent was unpunctual, while Kennedy asserted that Willock arrived with several hundred supporters instead of the agreed twelve on each side, whereupon Kennedy refused to debate and repeated the challenge. He was absent from the church council held at that precise time but soon after was discussing with Archbishop James Beaton means of combating the protestant reformers.<br>
+<br>Kennedy did not attend the Reformation Parliament of August 1560 and plainly did not accept its enactments. He was mentioned specifically in the general assembly's complaint in December 1560 about mass still being said in Ayrshire. At this time he composed <span class="italic">Ane Litil Breif Tracteit</span> aimed at proving Christ's presence in the consecrated elements. This and two other works have survived in manuscripts dated 1561: <span class="italic">Ane Oratioune</span> to the protestant lords of congregation, warning them against being deceived by the reformed ministers; and <span class="italic">Ane Compendious Ressonyng</span>, with the theme that the mass was instituted by Christ.<br>
+<br>Kennedy was declared an outlaw for non-payment of the tax of a third of the revenues of benefices which was levied in 1561 and 1562 to finance a reformed ministry, and indeed had &#145;deforced&#146; (resisted) an official sent to uplift the tax. In June or July 1562 he was present at a secret meeting of Roman Catholics in Paisley, planning, it was said, a Catholic rising. In September came the incident for which he is best known: his three-day disputation at Maybole (Carrick) with John Knox on the eucharist. What is known about this comes from Knox's account but neither disputant was able afterwards to claim a clear victory. After a promising start, with Kennedy attempting to prove that the mass is a sacrifice because Christ is a priest according to the order of Melchizedek, the disputation declined into a somewhat sterile debate on the nature of Melchizedek's offering.<br>
+<br>At Easter 1563 there was a public celebration of Roman Catholic sacraments in Ayrshire and other western districts, in which Kennedy and Crossraguel monks were involved. Carrick remained a Roman Catholic stronghold, and Crossraguel monks all stayed Catholic. By now Kennedy's health had deteriorated badly; he had been ill the previous year and was not expected to live. He survived for a year, however, and died in July 1564, probably at Crossraguel.<br>
+<br>The only accusation to be made against Kennedy's character was John Knox's stricture that he had failed to instruct his flock. In fact Kennedy features little in contemporary sources and he published only one short tract, though three others survived in manuscript. Nineteenth-century publication of sources made him better known, and two tracts, recently rediscovered and printed, have revealed his eucharistic theology. In this area he made a real contribution. Though not an original thinker, he produced a simplification of late medieval theology, citing the fathers not at first hand but from recent works. His approach was less polemical than systematic, aimed at showing that the mass was identical with the last supper and was not a repetition of Calvary, but was rather the means whereby the fruits of Calvary were distributed. He used the concept of bloody and unbloody sacrifice a year before its appearance in the Council of Trent's decree. Kennedy's tracts add significantly to knowledge both of the Scottish Reformation and of literary sixteenth-century Scots. He attempted to bridge the gap between technical theology and its popular expression, and in doing so he used both traditional pulpit oratory and Renaissance rhetoric.<br>
+<br>G. W. Sprott<span class="italic">, rev. </span> Mark Dilworth </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Quintin Kennedy, 1520&#150;1564</i><i>: two eucharistic tracts</i>, ed. C. H. Kuipers (Nijmegen, 1964) [incl. <i>Ane litil breif tracteit</i> and <i>Ane Compendious ressonyng</i>] &middot; F. C. H. Blair, ed., <i>Charters of the Abbey of Crosraguel</i>, 2 vols., Ayrshire and Galloway Archaeological Association (1886) &middot; M. Dilworth, &#145;Scottish Cluniacs and the Reformation struggle&#146;, Scottish Church History Society [forthcoming] &middot; M. Taylor, &#145;The conflicting doctrines of the Scottish Reformation&#146;, <em>Innes Review</em>, 10 (1959), 97&#150;125 &middot; I. B. Cowan, &#145;Ayrshire abbeys: Crossraguel and Kilwinning&#146;, <em>Ayrshire Collections</em>, 14/7 (1986), 265&#150;95 &middot; Q. Kennedy, <i>Ane compendius tractive</i> (1558); repr. in <i>The miscellany of the Wodrow Society</i>, ed. D. Laing, Wodrow Society, [9] (1844) &middot; Q. Kennedy, <i>Ane oratioune in favouris of all thais of the congregatione</i>, ed. A. B. [A. Boswell] (1812); repr. in D. Laing, ed., <i>The works of John Knox</i>, 1, Wodrow Society, 12 (1846), 157&#150;65 &middot; R. Keith, <i>History of the affairs of church and state in Scotland from the beginning of the Reformation to the year 1568</i>, ed. J. P. Lawson and C. J. Lyon, Spottiswoode Society, 1 (1844), Kennedy's letters to Beaton and Willock, 1559 &middot; corresp. Kennedy&#150;Knox, 1562, printed by Knox 1563, repr. by Laing [among Knox's works]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. W. Sprott, &#145;<span class="roman"><span class="headword">Kennedy,  Quintin</span>  (<em>c.</em>1520&#150;1564)</span>&#146;, rev. Mark Dilworth, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/15389, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Quintin Kennedy (<em>c.</em>1520&#150;1564): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15389 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21096;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21096-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21096-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21096#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Page,  Thomas</span>  (1803&#150;1877), <span class="occ">civil engineer</span>, was born in London on 26 October 1803, the eldest son of Robert Page of Nags Head Court. His father was a solicitor, first in Gracechurch Street and later in Mark Lane, London. Page grew up at Romaldkirk on the banks of the Tees and was educated for a career at sea, but, at the suggestion of Thomas Tredgold, he took up civil engineering instead. After working as a draughtsman in an engineering works at Leeds he subsequently moved to the London office of the architect Edward Blore. While making a measured survey at Westminster Abbey he discovered a previously unknown passage connecting the transept to the crypt under the chapter house.<br>
+<br>In 1835 Page became an assistant engineer under I. K. Brunel on the Thames Tunnel, progressing to acting engineer in 1836 when Richard Beamish retired. He was responsible for the completion of the tunnel and of the shaft on the north bank. In 1842, in competition with Walker and Burges, Charles Barry, Colonel French and others, his design for the embankment of the Thames from Westminster to Blackfriars was recommended for adoption by the commissioners for metropolis improvements. Under Page's control the Thames Embankment office was set up within the Office of Woods and Forests to consider the various schemes and he became its consulting engineer. A dispute between the crown and the City of London corporation over rights to the bed and soil of the river, and difficulties over the coal dues, resulted in the project's being abandoned. His position as engineer to woods and forests meant that any railway scheme affecting crown property had to receive his approval, often only after incorporating revisions he had suggested. This happened on lines through the New Forest, the Old Deer Park at Richmond, and in the Home Park at Windsor.<br>
+<br>In January 1844 Page made a survey of the Thames from Battersea to Woolwich and the tidal action of the river between Sheerness and St Katharine's Dock. In 1845 he prepared plans for a central railway terminus to be constructed on reclaimed land in the Thames between Hungerford and Waterloo bridges. Connections were to be made with the Great Western Railway at Hanwell, the Eastern Counties Railway at Blackwall, and the south coast railways by a river crossing on the site of the present Blackfriars Bridge. In the same year he designed, in conjunction with Joseph D'Aguilar Samuda, a railway, to be worked by the atmospheric system, connecting the Brighton lines with the Eastern Counties Railway via a tunnel under London docks. He also prepared and deposited plans for a railway from Lincoln via Horncastle to Wainfleet, with a branch to Boston.<br>
+<br>In 1846 Page reported on the relative merits of Holyhead and Porth Dinllaen as harbours for the Irish mail service and prepared plans for the construction of docks at each. In 1847 he prepared plans for docks at Swansea. In 1848&#150;9 he designed and constructed new roads between Windsor and Frogmore, the Albert Bridge over the Thames at Datchet, and the Victoria Bridge near Old Windsor. These works included opening out a considerable area of the Home Park for public use. At the request of the government he prepared plans for the south side of the Thames between Vauxhall and Battersea bridges, involving an embankment and road (opened in 1869) along the river, the Chelsea suspension bridge across it (opened in 1858, replaced in 1936&#150;8), and the road leading to Sloane Square.<br>
+<br>In May 1854, after lengthy examination by a select committee, work started on Page's design for the Westminster new bridge. The bridge was divided longitudinally into two halves, the first half being demolished and reconstructed before the demolition and reconstruction of the second half, so that traffic on the river and across it was not interrupted. It was built without the use of coffer dams or centering and opened on 24 May, 1862. His scheme for Blackfriars Bridge was accepted by the bridge house lands committee of the City corporation, but a vote in common council selected the design by Joseph Cubitt. Page designed and constructed bridges at Lendale, York, and Thornton and produced designs for many others, including a single span across the Thames at the Tower, across the Golden Horn at Constantinople, the Rhine at Cologne (which was displayed at the 1851 exhibition), and the Danube at Budapest. He was consulted on the reclamation of land on the River Tagus at Lisbon and on the railway between Lisbon and Cintra, and in 1860 reported on the improvement of the River Nene at Wisborough, recommending widening from Peterborough to the sea. As engineering surveying officer he held courts and reported on proposed improvements for Cheltenham, Taunton, Liverpool, Falmouth, Folkestone, and Penzance. With Sir John Rennie he advised the City of London on the widening of London Bridge and the treatment of the Thames as a navigable river.<br>
+<br>Page was interested in naval matters and in 1859 investigated and published a report on the suitability of Milford Haven as a port for ocean-going steamships and as a naval arsenal. He invented a system for firing guns under water. In 1870 he read a paper to the Society of Arts proposing a tunnel in the form of a submerged tube between England and France.<br>
+<br>Described by contemporaries as a man with a large circle of friends, Page was seen as one of the last links that connected the rising generation of engineers with the heroic figures from the early years of the nineteenth century. His early architectural training was considered responsible for his ability to combine architectural beauty with engineering utility. Both his Chelsea suspension bridge and Westminster Bridge were admired for their architectural elegance, even if the latter was sometimes criticized for a lack of rigidity in the bridge deck. He died suddenly in Paris on 8 January 1877. Nothing is known of his wife, but his eldest son, G. G. Page, and his youngest son were both present at his funeral.<br>
+<br>Stanley Smith </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>memoir, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21096&amp;istheme=&amp;target=PICE')"><i>PICE</i></a>, 49 (1876&#150;7), 262&#150;5 &middot; <em>Engineering</em> (26 Jan 1877), 75 &middot; <em>The Engineer</em> (12 Jan 1877), 31 &middot; <em>The Builder</em>, 35 (1877), 70, 78 &middot; <em>The Times</em> (20 Jan 1877), 10 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21096&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21096&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Stanley Smith, &#145;<span class="roman"><span class="headword">Page,  Thomas</span>  (1803&#150;1877)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/21096, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Page (1803&#150;1877): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21096 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

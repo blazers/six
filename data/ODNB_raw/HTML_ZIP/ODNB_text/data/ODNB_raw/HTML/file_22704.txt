@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22704;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22704-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22704-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22704#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pratt,  John Henry</span>  (<em>bap. </em>1809, <em>d.</em> 1871), <span class="occ">Church of England clergyman and mathematician</span>, was baptized on 30 June 1809 at St Mary Woolnoth, London, one of two sons of <script>writeSeealsoLink('../view/article/22707/', "Josiah Pratt (1768&#150;1844)")</script>, Church of England clergyman, and his wife, Elizabeth, formerly Jowett. He was educated at Oakham School, Rutland, and entered Gonville and Caius College, Cambridge, in 1829, graduating BA in 1833 as third wrangler. He was elected to a fellowship, and proceeded MA in 1836. After taking orders he was appointed through the influence of Daniel Wilson, bishop of Calcutta, a chaplain of the East India Company in 1838. He became Wilson's domestic chaplain and in 1850 archdeacon of Calcutta. He married at Christ Church, Bhagalpur, on 6 March 1850, Hannah Mariah Brown, daughter of G. F. Brown of the Bengal civil service.<br>
+<br>While at Cambridge Pratt had been concerned with the figure of the earth as an oblate spheroid; his <span class="italic">Mathematical Principles of Mechanical Philosophy</span> was published in 1836 (and expanded in 1860 as <span class="italic">A Treatise on Attractions, Laplace's Functions, and the Figure of the Earth</span>). Taking account of the Newtonian force of attraction, and local gravitation anomalies caused by irregularities in the crust, he had produced values for the equatorial and polar diameters of the earth which were close to those accepted today. In 1847 George Everest, head of the great Indian survey, published results of a measurement of a meridian arc in which he noted a discrepancy of 5.236 seconds of arc between the value given by astronomical methods and that derived from the triangulation surveys. Everest believed the discrepancy to arise from errors of measurement, but Pratt decided to investigate the matter, and in 1854 sent a long letter to the Royal Society outlining his ideas and the method he had followed to resolve the discrepancy. He began by considering that the plumb-bobs of the astronomical and geodetic instruments were deflected from the vertical by the gravitational attraction of the mass of the nearby Himalaya mountains, but that this would disturb the vertical astronomical observations more than the horizontal readings for the triangulation. He then calculated the mass of the Himalayas, assuming a density similar to that estimated in a similar investigation in 1772 on Mount Schiehallion in Scotland, and arrived at a figure of 15.885 seconds of arc&#151;a far larger discrepancy than the Indian survey had recorded. Even when he reduced his estimates for the density and mass of the Himalayas, Pratt could not reconcile his answers with Everest's figure, and he could only suppose that the Indian arc was in some way unusual.<br>
+<br>The problem was then taken up by George Biddell Airy, astronomer royal, who considered the relative densities of an earth whose thin crust overlay a denser fluid interior. He concluded that any mountainous mass would sink through such a crust, unless it was underlain by a balancing light mass, &#145;like a raft floating on water&#146;  (Greene, 241), and so proposed the &#145;roots of mountains&#146; hypothesis, also known as &#145;Airy isostasy&#146;. In 1859 Pratt published in the <span class="italic">Philosophical Transactions</span> his own further thoughts on this subject, now known as the hypothesis of uniform depth of compensation, or &#145;Pratt isostasy&#146;. He assumed a crust between 800 and 1000 miles thick, undergoing secular cooling, and overlaying a substratum of the same material which was less dense because it was hotter. He considered that the crust would be most depressed in the coolest regions, and that the uplands represented the warmer material. Pratt had no way of testing this hypothesis, but eventually he decided that the discrepancy was not caused by the Himalayas but by the plumb-bobs of the apparatus being deflected at coastal stations by anomalously high density under the adjacent oceans. There the matter rested for some years, being revived only after Pratt's death and broadly confirmed by advances in geophysical techniques.<br>
+<br>Pratt was a conscientious pastor, &#145;one of the ablest theologians and most devoted divines &hellip; that England ever sent to India &hellip; a quiet earnest worker, solitary in his habits &hellip; a wise counsellor &hellip; and an ardent, though undemonstrative contraversialist&#146; according to his <span class="italic">Times</span> obituarist. He was elected FRS in 1866. He died of cholera on 28 December 1871, while on a visitation to Ghazipur, where he was buried the following day. Although his paper of 1855 has been used to justify his reputation as &#145;the father of isostasy&#146;, this concept is not mentioned until 1859, following the hypothesis of Airy, who himself took no further interest in the subject.<br>
+<br>Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. T. Greene, <i>Geology in the nineteenth century</i> (1982) &middot; <em>The Times</em> (1&#150;29 Jan 1872) &middot; J. H. Manheim, &#145;Pratt, John Henry&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22704&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; J. H. Pratt, &#145;On the deflection of the plumbline in India &hellip; and its modification by the compensating effect of a deficiency of matter below the mountain mass&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22704&amp;istheme=&amp;target=PTRS')"><i>PTRS</i></a>, 149 (1859), 745&#150;78 &middot; S. G. Brush, &#145;Nineteenth-century debates about the inside of the earth&#146;, <em>Annals of Science</em>, 36 (1979), 225&#150;54 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22704&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; parish register (baptism), London, St Mary Woolnoth, 30 June 1809 &middot; burial register, Ghazipur, BL OIOC, IOR N/1/138, fol. 154 &middot; <i>The journal of Bishop Daniel Wilson of Calcutta, 1845&#150;1857</i>, ed. A. Atherstone (2015)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22704&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;10,000 in England: resworn probate, May 1874, <i>CGPLA Eng. &amp; Wales</i> (1872)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Anita McConnell, &#145;<span class="roman"><span class="headword">Pratt,  John Henry</span>  (<em>bap. </em>1809, <em>d.</em> 1871)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, April 2016 [http://www.oxforddnb.com/view/article/22704, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Henry Pratt (<em>bap. </em>1809, <em>d.</em> 1871): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22704 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22704/2016-04"> [Previous version of this biography available here: April 2016]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

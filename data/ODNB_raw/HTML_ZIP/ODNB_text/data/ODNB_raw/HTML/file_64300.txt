@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 64300;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/64/64300-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/64/64300-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=64300#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Leslie,  Alexander</span>  (<em>fl. </em>1796&#150;1798), <span class="occ">radical bookseller and publisher</span>, was born in Jedburgh, moving to Edinburgh some time before 1796. Before becoming Bookseller to the Rabble, as he liked to describe himself, he was apprenticed in Edinburgh, possibly to one Andrew Leslie, shoemaker. Leslie was to claim in 1796 that he had &#145;uniformly adhered to &hellip; the glorious cause&#146; and that it was &#145;persecution&#146; which had forced him to give up his apprenticeship  (BL, Add. MS 27815, Francis Place MSS, fols. 74&#150;5), a story which, given the prevalence of such acts of persecution of radicals in the 1790s, has a strong air of credibility about it. On 29 December 1797, having set up as a &#145;patriotic bookseller&#146; in Nicolson Street, Edinburgh, he married Janet Young, daughter of Patrick Gow, a Glasgow weaver.<br>
+<br>An extant catalogue of Leslie's, taken from his shop in early 1798, shows that he stocked and distributed a wide range of radical pamphlets, songbooks, and poems. These included Jacobin classics such as Joel Barlow's <span class="italic">Advice to the Privileged Orders in the Several States of Europe</span>; Thomas Paine's major political works of the 1790s, including both parts of <span class="italic">The Rights of Man</span>; and several translations of major works of the European Enlightenment, such as Voltaire's <span class="italic">Dictionnaire philosophique</span> and Beccaria's <span class="italic">Dei delitti e delle pene</span> (<span class="italic">On Crimes and Punishments</span>). He also stocked a broad array of more populist radical works, many of which were published by the London radical bookseller Daniel Isaac Eaton. These included, for example, Eaton's famous serial publication <span class="italic">Politics for the People</span> and James Parkinson's <span class="italic">Pearls Cast before Swine, by Edmund Burke, Scraped together by Old Hubert</span> (1793) and <span class="italic">Revolutions without Bloodshed, or, Reformation Preferable to Revolt</span> (1794).<br>
+<br>Leslie played a crucial role in the dissemination of radical propaganda and tracts in Scotland between 1796 and 1798, and outside Scotland. He dealt closely with a number of important radical printers and booksellers from London, notably Eaton, but also John Smith, J. S. Jordan, John Bone, and Thomas Evans, all members of the London Corresponding Society (LCS). He also appears to have had links with Thomas Spence, the bookseller and radical land reformer. At several times during this period, he dispatched large orders of pamphlets to Eaton, Smith, Jordan, Bone, and Evans, as well as to John Ashley, at this stage secretary of the LCS. In 1796 he had written to the society offering his services as a confidential correspondent, claiming to have contacts in the west, north-east of Scotland, and in the borders. He also spoke of the eagerness for radical publications in Scotland at that time. Extracts from his daybook for 1796&#150;7 indicate that he did business with a network of radical booksellers and printers which included Edinburgh, Leith, Glasgow, Paisley, Kelso, Hamilton, Hawick, Jedburgh, Dunbar, and Newcastle, south of the border. His customers also included leading radicals from several parts of Scotland, for example, James Craigendallie and Robert Sands from Perth.<br>
+<br>As well as selling and distributing radical works printed and published in London, Leslie was joint publisher of several pamphlets with London's radical printing fraternity, further emphasizing the closeness of the connections between them. For example, John Martin's <span class="italic">A letter to the Hon Thomas Erskine, with a postscript to the Right Hon Lord Kenyon, upon their conduct at the trial of Thomas Williams</span> (1797) was published with John Smith, John Bone and Thomas Evans, and T. G. Ballard. He also published several pamphlets on his own account, including Edinburgh editions of Paine's <span class="italic">Agrarian Justice</span> and <span class="italic">A Letter to George Washington</span>, a translation of Helv&eacute;tius's <span class="italic">Catechism</span>, as well as a number of radical poems.<br>
+<br>The exact nature of Leslie's politics is hidden from full view. Radicals in these years were acutely conscious of the prudence of secrecy, given official and judicial hostility; the language they used in correspondence was deliberately elliptical. Nevertheless, as a republican and deist, Leslie was on the extremist fringe of Scottish radical opinion in this period. In one letter to a fellow radical, a weaver from Kilsyth, he referred to &#145;these cursed Brigands or Ruffians, for they are a race of Monsters that ought to be exterminate the Earth, Kings &amp; Priests have in all ages been a Curse to Mankind in Making Ruinous &amp; Bloody War&#146;  (NA Scot., JC 26/293). It seems highly likely that Leslie was also a member of the United Scotsmen, a shadowy body linked to a wider insurrectionary conspiracy embracing Ireland and England. In August 1797 a fellow radical wrote to him from Linlithgow: &#145;I think the Soceity [<i>sic</i>] in London is doing well. I hope they will give Arastockrats a Sweet very Soone&#146;  (ibid.). He was a frequent visitor to Glasgow&#151;on one trip he had got married&#151;visiting radical groups in various places <i>en route</i>. Among the pamphlets seized from his shop were two in the name of the British Union Society, a breakaway group of impatient extremists from the LCS, formed in August 1797. In 1796 he sent an order of books to Colonel Despard, who was to lead an abortive and failed insurrectionary conspiracy in 1801&#150;2.<br>
+<br>Given Leslie's prominence in Scottish radical circles, and the nature of the literature he was circulating, it is unsurprising, therefore, that he was apprehended in November 1797 as part of a wider executive crackdown against radicals in the aftermath of the militia riots and against a background of deteriorating political and military conditions in Ireland. He was charged with distributing seditious and blasphemous writings, namely Paine's <span class="italic">Rights of Man</span> and the <span class="italic">Age of Reason</span>. Admitted to bail of 600 merks (&pound;33 6<i>s</i>. 8<i>d</i>.) on 2 April 1798, he was called to appear at the high court on three occasions. On the final call, on 28 May, when Leslie failed again to appear, Lord Eskgrove handed down a sentence of fugitation and outlawry against him. He forfeited his bond of caution, and all his moveable goods were escheated to the crown.<br>
+<br>Leslie's importance to the history of Scottish radicalism in the 1790s is considerable. His brief career as a bookseller illuminates not only networks of radical communication in Britain in the years that followed the first major wave of government repression, but also some of the ideological influences shaping Scottish radical opinion in a period when, following the suppression of the British convention, it fades from clear view.<br>
+<br>Bob Harris </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>justiciary MSS, NA Scot., JC 26/293 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=64300&amp;istheme=&amp;target=ESTC')"><i>ESTC</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=64300&amp;istheme=&amp;target=BL')">BL</a>, Francis Place MSS, Add. MS 27815 &middot; H. W. Meikle, <i>Scotland and the French Revolution</i> (1912) &middot; F. J. Grant, ed., <i>Register of marriages of the city of Edinburgh, 1751&#150;1800</i>, Scottish RS, 53 (1922)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=64300&amp;istheme=&amp;target=BL')">BL</a>, Place MSS, Add. MS 27815
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=64300&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, records of high court of justiciary<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bob Harris, &#145;<span class="roman"><span class="headword">Leslie,  Alexander</span>  (<em>fl. </em>1796&#150;1798)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/64300, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Alexander Leslie (1796&#150;1798): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/64300 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

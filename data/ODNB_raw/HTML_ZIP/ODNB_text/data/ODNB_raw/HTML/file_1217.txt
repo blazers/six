@@ -1,0 +1,398 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1217;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1217-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1217-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1217#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=01217&amp;orientation=p')"><img border="0" alt="  John Ball (1818&#150;1889), by unknown photographer" onmouseover="status='  John Ball (1818&#150;1889), by unknown photographer'" src="/images/article-imgs/1/01217_1_200px.jpg"></a><span class="imagecaption"><b>  John Ball (1818&#150;1889)</b>, by unknown photographer</span>
+</div>
+<div class="para">
+<span class="headword">Ball,  John</span>  (1818&#150;1889), <span class="occ">glaciologist and politician</span>, was born in Dublin on 20 August 1818, the eldest child of <script>writeSeealsoLink('../view/article/1220/', "Nicholas Ball (1791&#150;1865)")</script>, judge and politician, and his wife, Jane (<i>n&eacute;e</i> Sherlock) of Butlerstown Castle in co. Waterford. Until the age of eleven he received little formal education, but from his earliest years he displayed a precocious interest in science. In his seventh year he was taken to Switzerland, where he was deeply affected by the view of the Alps from the Jura. Indeed, he later wrote that &#145;for long years that scene remained impressed on my mind, whether asleep or awake, and perhaps nothing has had so great an influence on my entire life&#146;  (<span class="italic">DNB</span>). The following year he began to measure the heights of hills barometrically and to construct geological sections, and before his twelfth year he had completed the manuscript of what he termed his &#145;Elements of chemistry&#146;.<br>
+<br>Ball's parents were Roman Catholics, and in 1831 he was sent to St Mary's College at Oscott near Birmingham, whence he was admitted into Christ's College, Cambridge, on 23 June 1835. That summer he participated in the Dublin meeting of the British Association for the Advancement of Science (he attended many of the association's subsequent meetings), and in Cambridge, over the next four years, he joined the classes of John Stevens Henslow in botany, and Adam Sedgwick in geology. With Henslow's family the charming Irishman became extremely popular as a chess player, at the piano, and as a vocalist. Strangely, in 1839 he achieved no higher standing than that of forty-first and last wrangler, while his religious convictions prevented his being conferred with a degree. However, Roman Catholics had since 1793 been eligible to receive degrees in the University of Dublin, and on 8 February 1840 he therefore came on to the books of Trinity College, Dublin, &#145;from Cambridge&#146;, although in the event he never took a Dublin degree.<br>
+<br>On 13 April 1840 Ball was elected a member of the Royal Irish Academy, and in Trinity term 1843 he was called to the Irish bar at the King's Inns. He never practised at the bar, and between 1840 and 1845 can have spent little time in Ireland. For much of that period he travelled in Europe, visiting the mountain regions (for which he felt a deep affinity), botanizing, and communing with kindred scientific spirits. During 1845 he was at Zermatt seeking to develop the glaciological studies pioneered by James David Forbes, but that was the year when a failure of the Irish potato crop marked the beginning of the great Irish famine, and Ball felt duty-bound to return to his distressed homeland.<br>
+<br>In April 1846 Ball became an assistant with the commissioners for administering the laws for the relief of the poor in Ireland, but ill health brought on by overwork forced his resignation in November 1847. A period of continental travel restored his constitution, and he returned to Ireland during 1849 to assume the more senior office of second poor law commissioner, a post which remained his until 1 July 1852. His substantial pamphlet <span class="italic">What is to be done for Ireland?</span> drew attention to the &#145;utter ruin which is impending over entire provinces&#146;, and appeared in two editions (1847 and 1849).<br>
+<br>While in the Dingle peninsula, co. Kerry, during 1846, Ball recognized that many of the landforms were analogous to features which he had seen being shaped by modern glacial processes within the Alps. Clearly, he reasoned, there must once have been glaciers in Ireland, and the paper on this subject which he presented to the Geological Society of Dublin on 14 November 1849 is the earliest published study of Pleistocene events within any region of Ireland.<br>
+<br>In July 1848 Ball stood, without success, as a parliamentary candidate for Sligo borough, but on 26 July 1852 he was returned (by a majority of only two votes) as the member for Carlow County. In the Commons he spoke only briefly and somewhat infrequently, but he did make his mark, and in February 1855 the prime minister, Lord Palmerston, named him as assistant under-secretary of state in the colonial department. In this office he took the opportunity to further the cause of science in several ways. His energetic representations were largely responsible for ensuring the adequate financing of the expedition led by John Palliser for the exploration of western Canada, and he was instrumental in inducing the home government to support the efforts of Sir William Jackson Hooker towards the publication of colonial floras.<br>
+<br>At the election on 11 April 1857 he was heavily defeated when he stood for Sligo County, and on 15 February in the following year he was again defeated when he contested Limerick City. His rejection in 1858 was attributed to an unpopularity among Limerick's Roman Catholic clergy arising from his friendship with such Italian liberals as Count Camillo Benso di Cavour and Quintino Sella. Although subsequently offered several parliamentary seats, he resolved henceforth, as a man of independent financial means, to devote himself exclusively to travel and to natural history.<br>
+<br>Following the foundation of the Alpine Club in December 1857 he served as its first president (1858&#150;60), and he edited <span class="italic">Peaks, Passes, and Glaciers</span>, the club's earliest publication (two editions in 1859). The three volumes of his <span class="italic">Alpine Guide</span> (first editions 1863, 1864, 1868) are classics among the literature of mountain travel. In 1856 he married Eliza Parolini, daughter of the naturalist and traveller Count Alberto Parolini (there were two sons of the marriage), and between 1861 and 1869 he lived much in Italy, where, on his wife's death about 1867, he inherited an estate near to Bassano and at the foot of the Venetian Alps. By 1863 he had crossed the main chain of the Alps forty-eight times by thirty-two different routes, being accompanied upon some of his journeys by his close friend William Edward Forster. In 1869 Ball married Julia O'Beirne, the youngest child of Francis and Winefred O'Beirne of Jamestown, co. Leitrim.<br>
+<br>Ball was fluent in several European languages and published extensively in the periodical literature of science. In the company of Joseph Dalton Hooker he visited Morocco and the Atlas Mountains between April and June 1871, and their joint work descriptive of the excursion was published in 1878. Between March and August 1882 he sailed to the Caribbean, crossed the isthmus of Panama, and completed a circumnavigation of South America via the Strait of Magellan, his account of this journey being published in 1887. During the 1880s trouble with his throat caused him to winter abroad in places such as Algeria, Tunisia, and the Canary Islands.<br>
+<br>While in the Engadine during the autumn of 1889 Ball was stricken with illness. He was taken home to London where, shortly after an operation and somewhat unexpectedly, he died at midnight on 21 October 1889 at his home, 10 Southwell Gardens, South Kensington. He was buried in the churchyard of St Thomas's at Walham Green on 25 October. Among his distinctions were the Italian order of SS Maurizio e Lazzaro (1865), fellowship of the Linnean Society (2 December 1856), fellowship of the Royal Society (4 June 1868), and honorary fellowship of Christ's College, Cambridge (3 October 1888).<br>
+<br>Gordon L. Herries Davies </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Proceedings</em> [Royal Geographical Society], new ser., 12 (1890), 99&#150;108 &middot; <em>Geological Magazine</em>, new ser., 3rd decade, 7 (1890), 47&#150;8 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a>, vol. 4 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; <em>Nature</em>, 40 (1889), 626 &middot; J. D. H. [J. D. Hooker], <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 47 (1889&#150;90), v&#150;ix &middot; F. S. Smythe, <i>British mountaineers</i> (1942) &middot; R. L. Praeger, <i>Some Irish naturalists</i><i>: a biographical note-book</i> (1949) &middot; J. D. Hooker and J. Ball, <i>Journal of a tour in Marocco and the Great Atlas</i> (1878)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=RBG%20Kew')">RBG Kew</a>, botanical papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=BL')">BL</a>, letters to Sir Austen Layard, Add. MSS 38983&#150;39119, <i>passim</i>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=BL')">BL</a>, corresp. with Lord Ripon, Add. MS 43545
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. with Lord Kimberley
+   &middot;
+ Harvard U., Arnold Arboretum, letters to Asa Grey
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=UCL')">UCL</a>, letters to Sir Francis Galton<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1217&amp;istheme=&amp;target=RBG%20Kew')">RBG Kew</a> [<i>see illus.</i>] &middot; portrait, repro. in <em>Alpine Journal</em>, 25/107 (Feb 1890)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;20,742 11<i>s</i>. 3<i>d</i>.: probate, 1889, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Gordon L. Herries Davies, &#145;<span class="roman"><span class="headword">Ball,  John</span>  (1818&#150;1889)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1217, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Ball (1818&#150;1889): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1217 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

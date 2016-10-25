@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50024;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50024-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50024-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50024#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Clyn,  John</span>  (<em>d.</em> 1349?), <span class="occ">Franciscan friar and annalist</span>, is said by John Bale and James Ussher to have been born in Leinster. There is a Clinstown near Kilkenny, and variant spellings of the surname Clyn can be found in the Kilkenny area. The same name can also be found in the Somerset area: an indenture of 1413 relating to the earl of Ormond was witnessed by a John Clyne, mayor of Bristol.<br>
+<br>Clyn is the author of the <span class="italic">Annalium Hiberniae chronicon, ad annum MCCCXLIX</span>, which is a compilation until 1332 and thereafter original. The original manuscript was at one time in the possession of Sir Richard Shee of Kilkenny and later with David Rothe, bishop of Ossory in the first half of the seventeenth century, but is no longer extant. The four main seventeenth-century transcripts state that the annals were taken from the community book of the Franciscans of Kilkenny. Although unquestionably a Franciscan annal, information regarding the order is minimal; perhaps the presence of the annal within the community book made it seem unnecessary to duplicate Franciscan material in the former. Clyn probably began writing in 1333; three transcripts agree that there was a second heading in the original manuscript at that date. From the years 1333 to 1349 each year is entered only once; and the annals also expand in detail and personal comment from that year.<br>
+<br>Nearly all that is known of Clyn is recorded in or can be deduced from the annals, or from later annotations on them. A note in Ussher's hand names Clyn as &#145;doctor&#146;; according to Sir James Ware, the seventeenth-century Irish antiquary, Dublin University created three friars doctors of divinity at an unspecified date not long after its foundation in 1320, and Clyn may have been one of these. Entries in the annals for 1331 and 1332 concerning Dublin might indicate Clyn's presence there, particularly as he does not report a chapter held in Kilkenny in 1332. According to the annals, Clyn was the first guardian of the friary of Carrickbeg, near Carrick-on-Suir, in 1336. He probably left Carrickbeg after 1338 when the donor, the earl of Ormond, died; building did not commence there until 1347. A rough seventeenth-century transcript of the annals claims that Clyn was guardian of the friary of Kilkenny.<br>
+<br>Clyn may have attended the general chapter of the Franciscans at Marseilles in 1343. Apart from his notice of a general chapter in 1313, the one at Marseilles is the only other referred to by him. There is a lack of precise dating in the annals at this period and the entries following 1343 include items concerning Fortanerius Vassali, King Robert of Jerusalem and Sicily, the plague and Tripoli prophecy in Avignon, and the rise of Cola di Rienzo (who was at Avignon in 1343). Entries like these relating to continental Europe are uncommon in the annals and might have been prompted by a journey to Marseilles in 1343.<br>
+<br>The annals are famous for a dramatic firsthand account of the black death in Ireland in 1349, during which Clyn identifies himself as the author of the annals. It has been assumed that Clyn died of plague. However, following his report of the epidemic, he has two further entries: the first reports the price of corn and ginger, the second relates the death of Fulk de la Freigne. Clyn's main interest was the military society of the area surrounding Kilkenny. He exhibits a personal knowledge of various members of the Mac Gilla P&aacute;traic family, whose later principal stronghold and residence was at Cullahill, about 10 miles from Clinstown. All the internal evidence would suggest that Clyn was a member of a knightly family, albeit of a minor rank. He reports the knightings of local military personnel and the interrelationship of a hierarchy of knights. He had a special relationship with the Freigne family and especially with Fulk, the dominant personality in Clyn's narrative. One mile from Clinstown is Foulksrath, Fulco's Rath, which was named after its earlier proprietors, the Freignes. Clyn's greatest praise in his annals is reserved for Fulk and for other members of his family, and it is with great sorrow that in his last entry Clyn reports the death of Fulk in 1349. Immediately following the notice of this death the four main manuscripts contain the words, <i>Videtur quod author hic obiit</i> (&#145;Here it seems the author died&#146;).<br>
+<br>According to Bale, Clyn also wrote <span class="italic">De regibus Anglorum</span>, <span class="italic">De custodiis provinciarum</span>, and <span class="italic">De Franciscanorum cenobeis et eorum distinctionibus</span>. Ware adds <span class="italic">Catalogum sedium episcopalium, Angliae, Scotiae et Hiberniae</span>; none of these works is known to survive.<br>
+<br>Bernadette A. Williams </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The annals of Ireland by Friar John Clyn and Thady Dowling</i><i>: together with the annals of Ross</i>, ed. R. Butler, Irish Archaeological Society (1849) &middot; TCD, Ussher MS 790, fol. 61<i>r</i> &middot; TCD, MSS 402, 574 [Clyn, guardian of Kilkenny] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50024&amp;istheme=&amp;target=Bale%2C%20Cat.')">Bale, <i>Cat.</i></a>, 1.244 &middot; <i>The whole works of Sir James Ware concerning Ireland</i>, ed. and trans. W. Harris, 3/1 (1746), 84 &middot; W. Carrigan, <i>The history and antiquities of the diocese of Ossory</i>, 2 (1905); repr. (1981), 199 &middot; E. Curtis, ed., <i>Calendar of Ormond deeds</i>, 6 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50024&amp;istheme=&amp;target=IMC')">IMC</a> (1932&#150;43), vol. 1, no. 269; vol. 3, no. 7 &middot; <i>The Red Book of Ormond</i>, ed. N. B. White (1932), 35, 68 &middot; H. G. Richardson and G. O. Sayles, eds., <i>Parliaments and councils of mediaeval Ireland</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50024&amp;istheme=&amp;target=IMC')">IMC</a>, 1 (1947), 133, 176 &middot; E. W. W. Veale, ed., <i>The Great Red Book of Bristol</i>, [pt 2], Bristol RS, 8 (1938), 207 &middot; E. W. W. Veale, ed., <i>The Great Red Book of Bristol</i>, [pt 3], Bristol RS, 16 (1951), 34 &middot; D. O. Shilton and R. Holworthy, <i>Wells city charters</i>, Somerset RS, 46 (1932), 136, 139 &middot; B. Jennings, ed., <i>Wadding papers, 1614&#150;38</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50024&amp;istheme=&amp;target=IMC')">IMC</a> (1953), 551 &middot; E. B. Fitzmaurice and A. G. Little, eds., <i>Materials for the history of the Franciscan province of Ireland, <span class="smallcap">AD</span> 1230&#150;1450</i> (1920) &middot; E. St J. Brooks, <i>Knights' fees in counties Wexford, Carlow and Kilkenny, 13th&#150;15th century</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50024&amp;istheme=&amp;target=IMC')">IMC</a> (1950), 182&#150;8<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50024&amp;istheme=&amp;target=TCD')">TCD</a>, MSS 402, 574; Ussher MS 790, fol. 61<i>r</i>
+<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bernadette A. Williams, &#145;<span class="roman"><span class="headword">Clyn,  John</span>  (<em>d.</em> 1349?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50024, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Clyn (<em>d.</em> 1349?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50024 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

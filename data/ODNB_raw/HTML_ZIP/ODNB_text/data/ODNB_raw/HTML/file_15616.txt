@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15616;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15616-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15616-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15616#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kingsford,  William</span>  (1819&#150;1898), <span class="occ">civil engineer and historian</span>, born on 23 December 1819 in the parish of St Lawrence Jewry, London, was the son of William Kingsford, innkeeper of Lad Lane, London, and his wife, Elizabeth. Educated at Nicholas Wanostrocht's Alfred House Academy in Camberwell, he shared his teacher's preference for physical pursuits over book learning. He was articled at an early age to an architect, but disliked the life and enlisted in the 1st dragoon guards at the age of seventeen. He went with his regiment to Canada in 1837, became sergeant, and in 1840 obtained his discharge, despite the fact that his colonel, Sir George Cathcart, offered to procure a commission for him.<br>
+<br>Kingsford had learned some rudimentary surveying with his regiment and on the strength of this entered the office of the city surveyor of Montreal in 1841, and in 1842 was promoted to deputy city surveyor, a post which he held until July 1845. Meanwhile, in 1844, with Murdo McIver, he founded the <span class="italic">Montreal Times</span>. He vigorously supported the constitutional party in the paper and during the election riots of 1844 in which he was a prominent vigilante. His reform opponents took revenge two years later, nearly killing him and leaving him with two scars to the head.<br>
+<br>In 1846 Kingsford returned to surveying and took temporary positions across Lower Canada, acquiring as he did so the skills of civil engineering. On 29 March 1848 he married Maria Margaret, daughter of William Burns Lindsay, clerk of the legislative assembly of the province of Canada; they had two children. In 1849 he moved to the United States, laying out building lots in Brooklyn, New York, and then in 1850 becoming assistant engineer on the Hudson River railroad, New York. In 1851 he went to Panama to work on the railway and then on the water supply for Panama City. He returned to Canada in 1852 and surveyed several stretches of track for the Grand Trunk, especially around Montreal, and helped construct Victoria Bridge across the St Lawrence at Montreal. He was chief engineer of the city of Toronto for a few months during 1855, but, when he found that his assistants' salaries were to be paid from his own, he returned to work for the Grand Trunk around Toronto until 1864. After undertaking freelance work in Canada, he went to England in 1865, where his experience and his mastery of French, German, Italian, and Spanish led to his being engaged by some English firms, including Thomas Brassey, to advise on railway construction and other commercial projects in Europe.<br>
+<br>In 1867, at the instigation of English capitalists who hoped to build the Canadian Intercolonial Railway, Kingsford returned to Canada, where he remained for the rest of his life. As the dominion resolved to build the line as a government work, he reverted to freelance civil engineering, while continuing his journalism. As a vocal Conservative he benefited when, from 1870, the department of public works was in the hands of the Liberal-Conservative ministry. He was appointed engineer in charge of the harbours of the Great Lakes and the St Lawrence. He continued in this post until 31 December 1879 when he was dismissed by Sir Hector Louis Langevin, minister of public works, ostensibly because reorganization in the department had made the post redundant. Kingsford argued that his was a professional post which should be unaffected by party politics, and the Canadian House of Commons debated the case which tested the incompatibility of the old patronage and the new professionalism. Kingsford argued his point in <span class="italic">Kingsford and Sir Hector Langevin</span> (1882) but achieved no redress beyond six months' salary.<br>
+<br>Thus, at the age of sixty, Kingsford found himself cut off from the public civil-engineering projects which gave his profession a unique standing in the new country. He turned instead to history, using material he had collected himself and that in government offices. He had already published several works on Canadian history and geography and his professional life had given him good knowledge of Canadian topography and of military matters. He set to work, following a strict daily routine which allowed him to complete the ten volumes of his <span class="italic">History of Canada</span> between 1887 and 1898. To raise the $1200 needed to produce each volume he mortgaged his house and furniture, and he and the project were saved from ruin only through the intervention of friends. The <span class="italic">History</span> was warmly received in both England and Canada: Queen's University at Kingston and Dalhousie in Nova Scotia conferred on him the degree of LLD and McGill University gave his name to a recently endowed chair of history. However, the work was criticized by academic historians in Canada, then just beginning to assert professional control over the writing of history, and a more recent judgement is that his <span class="italic">History</span> was &#145;a generally uncoordinated recapitulation of commonplaces, interrupted by irrelevant digressions and delivered in a pedestrian prose of interminable length&#146;  (<span class="italic">DCB</span>).<br>
+<br>Kingsford was a fellow of the Royal Society of Canada, to which he contributed several papers, and in 1887 helped found the Canadian Society of Civil Engineers. He died on 29 September 1898, just a few months after completing his history: his widow was granted a civil-list pension of &pound;100. As Taylor remarks in the <span class="italic">Dictionary of Canadian Biography</span>, it is a pity that Kingsford is remembered primarily as an amateur historian, when his real contribution was as a professional civil engineer.<br>
+<br>Elizabeth Baigent </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. B. Taylor, &#145;Kingsford, William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15616&amp;istheme=&amp;target=DCB')"><i>DCB</i></a>, vol. 12 &middot; C. C. Berger, <i>The writing of Canadian history</i> (1986) &middot; J. K. McConica, &#145;Kingsford and whiggery in Canadian history&#146;, <em>Canadian History Review</em>, 40 (1959), 108&#150;20 &middot; J. G. Bourinot, &#145;Bibliography of the members of the Royal Society of Canada&#146;, <em>Proceedings and Transactions of the Royal Society of Canada</em>, 12 (1894), 1&#150;79 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15616&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in <em>Transactions of the Royal Society of Canada</em>, 2nd ser., 5 (1899)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Elizabeth Baigent, &#145;<span class="roman"><span class="headword">Kingsford,  William</span>  (1819&#150;1898)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2010 [http://www.oxforddnb.com/view/article/15616, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Kingsford (1819&#150;1898): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15616 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/15616/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

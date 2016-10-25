@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 16874;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/16/16874-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/16/16874-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=16874#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=16874&amp;orientation=p')"><img border="0" alt=" Llywelyn ab Iorwerth (c.1173&#150;1240), by Matthew Paris, in or before 1259 [manuscript drawing; left, with his sons Gruffudd and Dafydd]" onmouseover="status=' Llywelyn ab Iorwerth (c.1173&#150;1240), by Matthew Paris, in or before 1259 [manuscript drawing; left, with his sons Gruffudd and Dafydd]'" src="/images/article-imgs/16/16874_1_200px.jpg"></a><span class="imagecaption"><b> Llywelyn ab Iorwerth (<em>c.</em>1173&#150;1240)</b>, by Matthew Paris, in or before 1259 [manuscript drawing; left, with his sons Gruffudd and Dafydd]</span>
+</div>
+<div class="para">
+<span class="headword">Llywelyn ab Iorwerth</span> <span class="st"> [<em>called </em>Llywelyn Fawr]</span>  (<em>c.</em>1173&#150;1240), <span class="occ">prince of Gwynedd</span>, was the son of Iorwerth Drwyndwn 
+    (Iorwerth Flatnose; <i>d</i>. <i>c</i>.1174)
+  , son of <script>writeSeealsoLink('../view/article/20979/', "Owain Gwynedd (d. 1170)")</script>, and his cousin Marared, daughter of <script>writeSeealsoLink('../view/article/17762/', "Madog ap Maredudd (d. 1160), king of Powys")</script>; according to one tradition Iorwerth was excluded from the succession to the kingship of Gwynedd because of a physical disability.<h2>
+<a name="Earlylife"></a>Early life</h2>Llywelyn was born <i>c</i>.1173, possibly at Dolwyddelan in Nant Conwy, and may have been brought up in Powys. According to Gerald of Wales he had begun to challenge his uncles <script>writeSeealsoLink('../view/article/7322/', "Dafydd ab Owain Gwynnedd")</script> and <script>writeSeealsoLink('../view/article/23457/', "Rhodri ab Owain Gwynedd")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/13971/', "Hywel ab Owain Gwynedd")</script>] at the time of Gerald's journey through Wales in 1188, when Llywelyn would have been about fifteen (although Gerald describes him as being &#145;about twelve years old&#146;); the poet Prydydd y Moch suggested that his military career had begun when he was no more than ten.<br>
+<br>In 1194, according to the Welsh chronicle <span class="italic">Brut y tywysogyon</span>, Llywelyn joined Rhodri and his cousins, the sons of Cynan ab Owain Gwynedd, in a successful bid to expel Dafydd from the eastern half of Gwynedd, leaving Dafydd with only three castles. Two poets refer to a battle near Aberconwy in which Llywelyn appears to have defeated Dafydd and in which Rhodri was also involved; this action was followed by the ejection of Rhodri from Anglesey and Prydydd y Moch mentions Llywelyn's victories at Porthaethwy and Coedana on the island. Gerald saw his success as a divine judgment, since Dafydd and Rhodri were considered by the church to be the offspring of an incestuous marriage. In 1197 Llywelyn captured Dafydd; his release was negotiated by the justiciar, Hubert Walter, and he died in exile in England in 1203.<br>
+<br>On 6 January 1199 the castle of Mold was captured from the earl of Chester's seneschal and on the same day, according to Prydydd y Moch, Llywelyn won a victory in Arfon, almost certainly over his cousin Gruffudd ap Cynan ab Owain Gwynedd; it may be significant that Llywelyn's two charters to the Cistercian abbey of Aberconwy were dated two days later. In these charters he styled himself &#145;Prince of all north Wales&#146; and dated them in the tenth year of his principate, although a recent study has suggested that they are not contemporary. Gruffudd took the Cistercian habit in the abbey and died there in 1200; in 1201 his brother Maredudd was ejected from Ll&#375;n and Eifionydd &#145;because of his treachery&#146;  (<span class="italic">Brut: Hergest</span>), thereby completing Llywelyn's conquest of Gwynedd.<h2>
+<a name="LlywelynandKingJohn"></a>Llywelyn and King John</h2>In September 1199 <script>writeSeealsoLink('../view/article/14841/', "John, the new king of England")</script>, took Llywelyn under his protection and confirmed him in the possession of his lands. John was seeking to secure a balance of power between Llywelyn and Gwenwynwyn (<i>d</i>. 1216?) of southern Powys, who had succeeded his father, Owain Cyfeiliog, in 1197; as lord of Glamorgan in right of his wife, John understood Welsh politics. In December 1199 he also took Gwenwynwyn and Gruffudd ap Cynan under his protection, although the latter's political career may have been over by that time; as Llywelyn's power increased, however, there seems to have been a desire to reach an accommodation and after negotiations a treaty was concluded on 11 July 1201. This was the first written treaty between a Welsh ruler and the king of England and in it Llywelyn and the magnates of Wales swore fealty to John and undertook to do homage to him on his return from France; the prince would retain his territorial gains and would have the choice of English or Welsh law to settle disputes over land.<br>
+<br>Llywelyn and Gwenwynwyn clashed for the first time in August 1202 when the former invaded Powys with a large army. War was averted by the intervention of mediators; the <span class="italic">History of Fouke le Fitz Waryn</span> credits Fulk (III) Fitzwarine with bringing hostilities to an end after the prince had seized Mechain and Mochnant. Llywelyn did homage to John on the latter's return from France in the summer of 1204, and it was probably in the following spring that he received a sign of royal favour when he married the king's illegitimate daughter <script>writeSeealsoLink('../view/article/14819/', "Joan")</script>. With an earlier partner, Tangwystl, the daughter of Llywarch Goch, he had had a son, <script>writeSeealsoLink('../view/article/11696/', "Gruffudd ap Llywelyn (d. 1244)")</script>, and a daughter, Gwenllian, but this relationship was not recognized by the church as a valid marriage. He was certainly seeking a politically advantageous match at this time; in April 1203 he had received a papal dispensation to marry the widow of his uncle Rhodri, a daughter of the Manx king, Ragnvald (<i>d</i>. 1229), but that marriage did not take place, nor is there any evidence to corroborate the statement in one of Innocent III's letters that he had been married to a sister of the earl of Chester. The marriage to Joan was a dynastic opportunity not to be missed; their children would be part of the European royal and aristocratic network, which would in turn elevate the Gwynedd dynasty to a higher status than the other Welsh ruling houses. John presented his son-in-law with the manor of Ellesmere, Shropshire, previously given by Henry II to Dafydd on his marriage to Emma of Anjou in 1174.<br>
+<br>Llywelyn's opportunity to assert his mastery beyond Gwynedd came in 1208 when the lands of Gwenwynwyn, prince of southern Powys, were confiscated by the king on the pretext that Gwenwynwyn had attacked the lands of one of his marcher neighbours. Llywelyn promptly moved into Powys. He then entered Ceredigion, attacking Maelgwn ap Rhys (<i>d</i>. 1231), the member of the Deheubarth lineage who was an ally of Gwenwynwyn. In spite of his opposition Llywelyn installed Maelgwn's nephews in part of the territory. Llywelyn was demonstrating his capacity to exploit the misfortunes of other Welsh dynasties and the fissures within their ranks for his own purposes. John took an indulgent view of these activities and in 1209 Llywelyn joined his campaign against William the Lion of Scotland and was at Norham on 4 August when William submitted; this was the only occasion on which a ruler of Gwynedd joined a king of England on a military expedition outside Wales.<br>
+<br>By 1210 Llywelyn was the dominant figure in Wales, but his relations with the king now deteriorated; it is possible that William (V) de Briouze had persuaded him to take advantage of John's absence in Ireland between June and August 1210, but, if so, this was an error of judgement. An army commanded by the earl of Chester invaded Gwynedd and the castle at Deganwy, demolished by Llywelyn, was rebuilt by the earl. John's triumphant return from Ireland seems to have been followed by a decision to move against the prince; in November 1210 Gwenwynwyn's lands were restored to him and the following spring all the other Welsh rulers were summoned to Chester. This involvement may have reflected an increasing fear and suspicion of Llywelyn's power of which John was able to take advantage. The first royal expedition entered north Wales in May 1211. Llywelyn fell back on the natural fortress of Snowdonia; the royal army, faced with a lack of supplies, was forced to withdraw to Chester, but in July a further expedition set out from Oswestry and in a lightning campaign swept into Gwynedd, capturing the bishop of Bangor in his own cathedral, holding him to ransom, and burning the town. Joan's intercession secured terms for Llywelyn and on 11 August 1211 he submitted to the king. He had to surrender the Four Cantrefs (the land between the Conwy and the Dee), along with the commote of Edeirnion, to hand over hostages, including his son Gruffudd, and to pay a heavy tribute of cattle and horses. He also agreed that if he and Joan had no heir his lands would pass to the crown, which suggests that their son <script>writeSeealsoLink('../view/article/7323/', "Dafydd ap Llywelyn (d. 1246)")</script> had not yet been born.<br>
+<br>This was the nadir of Llywelyn's career, but he soon recovered. The other Welsh rulers had seen John as the defender of their independence but he soon showed that he had every intention of retaining a presence in Wales by building castles. Llywelyn and Joan spent Easter 1212 with him, but by the end of June war had broken out again and now most of the Welsh rulers, including Gwenwynwyn, were on the prince's side. The Four Cantrefs, apart from the castles of Deganwy and Rhuddlan, were reconquered. John now planned a major campaign to deal with Llywelyn once and for all; he had been preparing an expedition to recover Normandy and Anjou, lost to the French in 1204, and had built up a system of alliances, including the emperor Otto IV, but this was now postponed and an army was assembled at Chester in August. Nothing came of this project, however; the king was warned, by Joan according to some sources, of a baronial plot to hand him over to the Welsh or to kidnap him. The campaign was abandoned, although some Welsh hostages were executed and there was an attempt to persuade the sons of Dafydd and Rhodri to claim lands in Gwynedd.<br>
+<br>The planned expedition to France gave this war a European dimension. Philip Augustus of France was in close touch with the pope, Innocent III, who, from his dealings with Gerald of Wales earlier in the century, knew something of Welsh affairs. Philip offered Llywelyn an alliance, sealing his letter with his golden seal, a particular mark of respect; Llywelyn's dignified answer, in which he spoke for all the Welsh rulers and undertook not to make any treaty with the English without Philip's agreement, survives in Paris. Innocent absolved Llywelyn, Gwenwynwyn, and Maelgwn ap Rhys of Deheubarth from their oaths of fealty to John, urged them to make war on him and released their lands from the interdict imposed on the English church in 1208. John's enemies saw the advantage of backing the Welsh cause.<br>
+<br>The capture of Deganwy and Rhuddlan in 1213 completed the conquest of the Four Cantrefs. Then, on 15 May 1213, John made his peace with the papacy and became a papal vassal; this meant that the Welsh no longer enjoyed papal support but on Innocent's instructions a truce was arranged which lasted through 1214. After his defeat at Bouvines on 27 July John was faced in England with growing baronial discontent and this led to attempts to secure the support of the Welsh leaders. But when civil war broke out in 1215 Llywelyn joined the barons and in May took Shrewsbury; the key figure in this alliance may have been Giles de Briouze, the bishop of Hereford, whose brother Reginald was to marry the prince's daughter Gwladus. On 15 June 1215 John was forced by the barons to grant <span class="roman">Magna Carta</span>, three articles of which related to Wales; these concerned the resolution of territorial disputes, the release of Welsh hostages, including Llywelyn's son Gruffudd, and the restoration of the charters given by the Welsh in 1211 as security for peace.<br>
+<br>The grant of the charter was followed by the renewal of hostilities, the excommunication of the king's opponents, and the baronial invitation to Philip Augustus's son Louis to take over the English throne. In December 1215 Llywelyn, accompanied by most of the Welsh rulers, invaded south-west Wales, taking Carmarthen, Cardigan, and several other castles. At an assembly of Welsh rulers at Aberdyfi in 1216 he shared out the reconquered lands among various members of the Deheubarth dynasty; this event marked his emergence as prince of Wales to all intents and purposes and the other rulers may have done homage to him. The same year saw the defection of Gwenwynwyn, persuaded by John to change sides, despite his recent homage and written pledges of loyalty; he was expelled from Powys by Llywelyn and died in exile later the same year.<h2>
+<a name="Pursuitofasettlement12161230"></a>Pursuit of a settlement, 1216&#150;1230</h2>The death of John on 15 October 1216 and the accession of the young Henry III marked the beginning of the end of the English civil war and the gradual desertion of Llywelyn's allies as they made their peace. The baronial leaders had invited him and Alexander II of Scotland to a meeting at Northampton to choose a new king, but there was no response; both rulers probably understood the potential implications of their attendance. In the summer of 1217 Llywelyn led a further invasion of south Wales which resulted in the surrender of Swansea; Haverfordwest was saved from attack by the intervention of the bishop of St David's. The civil war ended with the treaty of Lambeth on 11 September 1217; the Welsh were offered inclusion in its terms, but as these involved the surrender of all their territorial gains they were unacceptable. Further negotiations followed and at Worcester in March 1218 Llywelyn did homage to the king and his gains were confirmed; he was given the custody of Carmarthen and Cardigan until the king came of age and of southern Powys during the minority of Gwenwynwyn's sons. In the same year he made his peace with the earl of Chester.<br>
+<br>The peace of Worcester was a cessation of hostilities rather than a treaty, but it underlined Llywelyn's supremacy; he did homage on his own on behalf of all the Welsh rulers and this symbolized his main objective for the rest of his reign. He had imposed his overlordship on the other rulers; now he sought to have this overlordship recognized by the English crown in a formal treaty. He would do homage on behalf of all the rulers and they would do homage to him. When he died his successor would inherit this position and thus a treaty would create a single Welsh principality recognized by the crown.<br>
+<br>Llywelyn's other objective was to secure the undisputed succession of his and Joan's son, Dafydd. At a council at Shrewsbury in May 1220, attended by Pandulf (<i>d</i>. 1226), the papal legate, Hubert de Burgh (<i>d</i>. 1243), the justiciar, and the archbishop of Canterbury, Stephen Langton (<i>d</i>. 1228), Dafydd was recognized as his heir. This was confirmed by the pope in the summer of 1222; Llywelyn had informed Honorius III that he wished to abolish the Welsh custom whereby an illegitimate son was entitled to a share of the inheritance and that he had therefore ordained that Dafydd, his son born in wedlock, would succeed him. This meant the disinheriting of Gruffudd, but the fact that Dafydd was related through his mother to so many royal and aristocratic houses made him the natural choice. Honorius strengthened Dafydd's position further in April 1226 when he declared Joan legitimate, probably at the instance of her half-brother Henry III; in the same year the other Welsh rulers swore fealty to Dafydd and at Michaelmas 1229 he went to London and did homage to the king as his father's heir.<br>
+<br>Llywelyn was on friendly terms with Ranulf (III), earl of Chester, and in 1222 his daughter Elen married the earl's nephew and heir, <script>writeSeealsoLink('../view/article/50019/', "John the Scot")</script>. But his position was not unchallenged; the regent William (I) Marshal, earl of Pembroke, had died in 1219 and his son was making life difficult for his Welsh neighbours around his lordship of Pembroke. In August 1220 Llywelyn led an army into south Wales, ostensibly to remove local Welsh rulers from marcher lands; having done this he marched into what is now Pembrokeshire, destroyed two castles, and burned Haverfordwest. There was no immediate response, but on 15 April 1223 the earl of Pembroke returned from Ireland and took Cardigan and Carmarthen. Llywelyn sent his son Gruffudd to deal with the earl, but a battle near Carmarthen was inconclusive and Gruffudd, short of supplies, returned to Gwynedd. In September Llywelyn besieged Builth after attempts at reconciliation with the earl had failed. Hubert de Burgh now assembled an army, advanced into Wales, and began work on a new castle at Montgomery; Llywelyn raised the siege of Builth, and in October 1223 he and the other rulers submitted to the king and he agreed to relinquish the lands in Shropshire that he had occupied earlier that year.<br>
+<br>When Falkes de Br&eacute;aut&eacute;, one of John's old henchmen, defied the king in July 1224 he sought the aid of the earl of Chester and of Llywelyn. Henry III ordered Llywelyn not to receive Br&eacute;aut&eacute; and in a dignified reply the prince informed the king that, as an independent ruler, he could, like the king of Scotland, receive anyone he liked in his own lands (although he had undertaken at Worcester not to receive the king's enemies). But his relations with the crown at this time were generally good and there seems to have been some attempt to conclude a permanent agreement; Llywelyn and Henry met at Shrewsbury in September 1224 and again in August 1226, although both meetings were inconclusive. The legitimization of Joan may have been a sign of royal goodwill.<br>
+<br>On 27 April 1228 the castle and lordship of Montgomery were granted to Hubert de Burgh, who began to clear the nearby forests. The Welsh response was to besiege the castle. In August the king and Hubert set out to relieve it; Joan met Henry at Shrewsbury and arranged a truce, but at the same time some of the leading marcher lords had been summoned to Montgomery. Hubert began building a castle in Ceri; this was a threat to Llywelyn's control of the adjacent cantref of Arwystli and he moved swiftly. The royal campaign was an ignominious failure; the army had to withdraw and Henry undertook to demolish the castle in Ceri, for which Llywelyn agreed to pay him &pound;2000. One of the leading marcher lords, William (V) de Briouze, had been captured by the Welsh and a ransom of &pound;2000 was negotiated; he was released early in 1229, having agreed with Llywelyn that his daughter Isabella should marry Dafydd and that Builth should be her dowry. Llywelyn was now in an even stronger position and in 1230 he began to style himself prince of Aberffraw and lord of Snowdon, rather than prince of north Wales; the first surviving record of the use of this title is in a charter dated 1 May 1230 (Aberffraw in Anglesey was the principal seat of the kings of Gwynedd). He may have been reluctant to call himself prince of Wales until that title had been confirmed by the crown in a formal treaty.<h2>
+<a name="Warandnegotiation12301240"></a>War and negotiation, 1230&#150;1240</h2>In the spring of 1230 William de Briouze visited Llywelyn's court to make the final arrangements for the marriage. During his earlier captivity there he appears to have had an affair with Joan and they were now discovered by Llywelyn. Both were imprisoned; the king knew of this by 20 April, when he ordered Briouze's castles to be secured. On 2 May, Briouze was hanged at Crogen near Bala; Llywelyn informed his widow and his brother-in-law that &#145;the magnates of the land&#146; had insisted on the execution. There were no repercussions; Llywelyn's relations with the crown and with his marcher neighbours were unaffected and the marriage went ahead. It may have been generally felt that Briouze had received his just deserts for his abuse of Llywelyn's hospitality.<br>
+<br>The war that came in 1231 stemmed from the ambition of Hubert de Burgh, who had built up an extensive accumulation of lordships in south Wales, including Cardigan and Carmarthen, granted to him in 1229, the overlordship of Gower, and the custody of the lands of Gilbert de Clare, earl of Gloucester, who died in 1230. On the death of William de Briouze's brother-in-law the earl of Pembroke in April 1231, de Burgh was given custody of all the Briouze lands. This made him the virtual ruler of south Wales and it was regarded by Llywelyn as a serious threat. War was expected; on 20 May 1231 the sheriffs of the border counties and some marcher lords were ordered to see that no food or arms were supplied to the Welsh. On 27 May Llywelyn's representatives met the king at Worcester, but at the beginning of June war broke out, precipitated, according to one chronicler, by the execution of some Welsh prisoners. In the ensuing campaign Llywelyn burned Montgomery, Radnor, Hay, and Brecon and took the castles of Neath and Kidwelly; the Deheubarth lords Maelgwn Fychan (<i>d</i>. 1257) and Rhys Gryg (<i>d</i>. 1231) burned Cardigan and captured the castle. In late July Henry III led an army into Wales and rebuilt the castle of Painscastle, but at the beginning of winter he withdrew and on 30 November a year's truce was agreed. On 30 September the justiciar of Ireland had been ordered to summon the magnates there to join the campaign and to land in Anglesey the following summer but nothing came of this.<br>
+<br>The year 1232 saw the fall of Hubert de Burgh and the rise of Peter de Rivallis, who acquired most of Hubert's Welsh lands; the same year saw the death of Ranulf of Chester, who was succeeded by Llywelyn's son-in-law John the Scot. Another son-in-law, John de Briouze, died the same year and Peter de Rivallis was granted the custody of his lordship of Gower. In 1233 Richard Marshal, earl of Pembroke, clashed with the new regime in England and resorted to arms; Llywelyn joined him and attacked Brecon, while early in 1234 the Deheubarth lords mounted an unsuccessful attack on Carmarthen. But there were pressures for peace, led by Edmund Rich, the new archbishop of Canterbury, and on 6 March 1234 a truce was agreed at Brocton in Shropshire. This was followed by the fall of Peter de Rivallis and the rehabilitation of Pembroke who, however, died on 15 April. The pact of Middle, agreed at the Shropshire village of that name on 21 June, was a truce for two years and a return to the situation at the outbreak of the war. The truce was renewed annually until Llywelyn's death, so that while he lived there was no further war with the king.<br>
+<br>Llywelyn was still anxious to secure a permanent settlement; from 1232 onwards there is a considerable body of correspondence relating to Anglo-Welsh relations but, despite various expressions of goodwill on both sides, substantive negotiations never took place. Henry seems to have been determined not to recognize Llywelyn as prince of Wales in a formal treaty. Llywelyn was also faced with the problem of Gruffudd, who had been excluded from the succession. This was a long-standing problem; father and son had clashed in 1221, when they came close to war, and this had led to the confiscation of Meirionydd and Ardudwy, which Gruffudd had held. Relations had improved by 1223 when Gruffudd was given command of the army that faced the earl marshal's challenge, but in 1228 he was imprisoned in Deganwy, where he remained until 1234. Llywelyn appears to have granted him southern Powys, the patrimony of Gwenwynwyn, possibly to be held as an apanage; he granted lands there to the Cistercian monks of Strata Marcella in 1226.<br>
+<br>The year 1237 was particularly difficult for Llywelyn. On 2 February Joan died at Aber; she was buried at Llan-faes in Anglesey, where her husband founded a Franciscan friary in her memory. Joan had been a great support and strength to Llywelyn, especially in his dealings with her father and her half-brother. A further blow was the death in the same year of the earl of Chester, John the Scot, without an heir; according to Matthew Paris, John was poisoned by his wife, Llywelyn's daughter Elen, but there is no other evidence of this. The political implications were serious; Chester reverted to the crown, which meant that a reliable ally on Llywelyn's eastern border was replaced by the king. Matthew Paris has two other pieces of information about Llywelyn in 1237; in that year the prince suffered a stroke and he also approached Henry III to secure a treaty. Negotiations took place and Llywelyn even promised military service and to put his lands under the king's protection. His interest in such a settlement was attributed by Paris to the rivalry of Gruffudd and Dafydd, which was threatening the stability of the principality. There is no other evidence of such an offer, but there was some talk of negotiations in 1237 between the king and Dafydd, to lead to a possible settlement.<br>
+<br>By now all parties were contemplating a Wales without Llywelyn. In spring 1238 the prince summoned the other rulers to do homage to Dafydd. This came to the king's attention and on 7 March letters were sent to the rulers and to Llywelyn and Dafydd forbidding this; at the same time several leading marcher lords were summoned to meet Henry at Oxford to discuss the matter. A meeting was eventually held at the Cistercian abbey of Strata Florida on 19 October 1238 and here the assembled rulers did fealty to Dafydd but not homage; this assembly might have been the occasion of Llywelyn's effective abdication and the investiture of Dafydd as his successor, the object being to strengthen Dafydd's position in the face of an increasing threat from Gruffudd and his supporters. According to <span class="italic">Brut y tywysogyon</span> Dafydd took Powys from his brother immediately after the Strata Florida meeting; the same source claims that he imprisoned him in 1239, although Matthew Paris states that this happened after Llywelyn's death.<h2>
+<a name="Deathandlegacy"></a>Death and legacy</h2>Llywelyn ab Iorwerth died at Aberconwy Abbey on 11 April 1240, having taken the Cistercian habit on his deathbed; he was buried in the abbey. He stands out as one of the greatest rulers of independent Wales and he is remembered as Llywelyn Fawr or Llywelyn the Great; the title seems first to have been used by Matthew Paris. Having started from nothing, he ended his days as prince of Wales in all but name, having achieved this position entirely through his political and military ability. His reign saw great changes in Gwynedd, particularly in the field of native law; these were aimed at strengthening the position of the prince. The relationship of the prince of Gwynedd with the other Welsh rulers was permanently transformed; in future the only choice open to them was to be the vassals of the prince or of the king of England. The military needs of Llywelyn led to the building of castles to defend the borders of Gwynedd and the heartland of Snowdonia at Castell y Bere, Cricieth, Dolbadarn, Deganwy, and Ewloe. To provide an army for his campaigns grants of land to be held by military service were made to faithful servants, particularly to his steward <script>writeSeealsoLink('../view/article/8509/', "Ednyfed Fychan")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/77357/', "Tudor family, forebears of (per. c.1215&#150;1404)")</script>]. He was a generous patron to the church; the Cistercians of Aberconwy, Basingwerk, and Cymer benefited from his munificence and he was instrumental in refounding some native monastic communities as houses of Augustinian canons. He was also generous to the poets; the leading Gwynedd court poet, Prydydd y Moch 
+    (Llywarch ap Llywelyn, <i>fl</i>. 1180&#150;1220)
+  , composed nine poems to him and the greatest of these, the <span class="italic">Canu mawr</span> (&#145;Great Song&#146;), was probably composed in 1213 to celebrate his victories, particularly the final reconquest of the Four Cantrefs. Other poets who sang to him included Cynddelw Brydydd Mawr (<i>fl</i>. 1155&#150;1195) and Dafydd Benfras.<br>
+<br>There is little information about Llywelyn himself, though the antiquary Edward Lhwyd, writing at the end of the seventeenth century, referred to a biography of Llywelyn and Dafydd in the library of Corpus Christi College, Cambridge; its fate is unknown. Prydydd y Moch referred to his stature, but this may have been no more than one of the attributes of the ideal ruler. The same poet suggested that he cared nothing for fine clothes or gold or silver, but this could be intended to emphasize his generosity. Other poems refer to battles or campaigns for which no other evidence survives, but which must have been familiar to the poet's audience. The fate of William de Briouze suggests the response of a man who had trusted and depended on his wife.<br>
+<br>Llywelyn and Joan had one son, Dafydd, and at least four daughters. Three of the daughters married into marcher families; Gwladus's first husband was Reginald de Briouze, the father of William; after Reginald's death in 1227 or 1228 she married Ralph Mortimer (<i>d</i>. 1246) and it is through her that the modern English royal family traces its descent from Llywelyn. Elen married John the Scot, and Margaret, or Marared, married first John de Briouze, lord of Gower, and, after his death in 1232, Walter Clifford (<i>d</i>. 1263). The fourth daughter, Susanna, does not appear in the pedigrees; in November 1228 she was put by the king in the care of Nicholas de Verdon and his wife and that is the only reference to her. Tangwystl's daughter, Gwenllian, married William de Lacy and survived until 1281. According to the <span class="italic">History of Fouke le Fitz Waryn</span> and the Chester annals, Llywelyn married again some eighteen months before his death, his wife being Eva, the daughter of Fulk (III) Fitzwarine, but this is unconfirmed elsewhere. The marriages of his daughters suggest a consistent policy of creating close ties with some of his marcher neighbours in the interests of stability.<br>
+<br>Llywelyn's two aims were to secure the undisputed succession of Dafydd and to have his predominance in Wales recognized by Henry III in a formal treaty, but in both he was finally unsuccessful. Gruffudd never seems to have been reconciled to being passed over for the succession and many may have supported him as <i>mab y Gymraes</i> (&#145;the Welshwoman's son&#146;); there may have been some hostility to Joan as a daughter of the king of England, and it may be significant that she is not mentioned by any contemporary poet. Although he had brought most of native Wales under his control, everything he had achieved depended in the end on the force of his personality and the strength of his arm. There was no institutional framework to sustain it, with the result that within a month of his death Dafydd was summoned to Gloucester and forced to concede the homage of the other Welsh lords to the king. Henry III could do nothing while Llywelyn lived because of the position he had attained, but he would not allow this position to be inherited by Dafydd, nor would he recognize its permanence by treaty. In the short term Llywelyn, despite his achievements, might be said to have failed; nevertheless, his career showed what could be done by an able and ambitious Welsh ruler and he made a single Welsh principality a political possibility. During his life and largely through his efforts native Wales had changed beyond recognition.<br>
+<br>A. D. Carr </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. Jones, ed. and trans., <i>Brut y tywysogyon, or, The chronicle of the princes</i><i>: Red Book of Hergest</i> (1955) &middot; J. Williams ab Ithel, ed., <i>Annales Cambriae</i>, Rolls Series, 20 (1860) &middot; J. G. Edwards, <i>Calendar of ancient correspondence concerning Wales</i> (1935) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=Paris%2C%20Chron.')">Paris, <i>Chron.</i></a>, vols. 3&#150;4 &middot; T. D. Hardy, ed., <i>Rotuli litterarum patentium</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=RC')">RC</a> (1835) &middot; T. D. Hardy, ed., <i>Rotuli litterarum clausarum</i>, 2 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=RC')">RC</a> (1833&#150;4) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=CPR')"><i>CPR</i></a>, <i>1216&#150;1247</i><i>Close rolls of the reign of Henry III</i>, 1&#150;4, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=PRO')">PRO</a> (1902&#150;11) &middot; <i>Gwaith Llywarch ap Llywelyn, &#145;Prydydd y Moch&#146;</i>, ed. E. M. Jones and N. A. Jones (1991) &middot; J. E. Lloyd, <i>A history of Wales from the earliest times to the Edwardian conquest</i>, 3rd edn, 2 vols. (1939); repr. (1988) &middot; J. B. Smith, <i>Llywelyn ap Gruffudd, tywysog Cymru</i> (1986) [trans.: <i>Llywelyn ap Gruffudd, prince of Wales</i> (1998)] &middot; G. A. Williams, &#145;The succession to Gwynedd, 1238&#150;47&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=BBCS')"><i>BBCS</i></a>, 20 (1962&#150;4), 393&#150;413 &middot; J. B. Smith, &#145;Magna Carta and the charters of the Welsh princes&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 99 (1984), 344&#150;62 &middot; D. Stephenson, <i>The governance of Gwynedd</i> (1984) &middot; R. R. Davies, <i>Conquest, coexistence, and change</i><i>: Wales, 1063&#150;1415</i>, History of Wales, 2 (1987)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> M. Paris, manuscript drawing, in or before 1259, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=CCC%20Cam.')">CCC Cam.</a>, MS 16, fol. 132<i>r</i> [<i>see illus.</i>] &middot; stone head, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16874&amp;istheme=&amp;target=NMG%20Wales')">NMG Wales</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. D. Carr, &#145;<span class="roman"><span class="headword">Llywelyn ab Iorwerth</span>   (<em>c.</em>1173&#150;1240)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/16874, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Llywelyn ab Iorwerth (<em>c.</em>1173&#150;1240): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/16874 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

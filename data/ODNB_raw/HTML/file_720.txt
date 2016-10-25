@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 720;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/720-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/720-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=720#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Arundell,  John</span>  (<em>c.</em>1435&#150;1504), <span class="occ">bishop of Exeter</span>, was one of the two sons of Sir Renfrey Arundell and his wife, Joan Colshill. Sir Renfrey was a cadet of the important Cornish family of Arundell of Lanherne, holding property at Lanivet and elsewhere. John was educated at Oxford University from about 1453, where he graduated MA by 1461 and BTh by 1473. He pursued a career in the church, acquiring a number of prebends and parish benefices after 1459, notably the deanship of Exeter Cathedral to which he was elected about the spring of 1482, probably through support at court. In the autumn of 1483 he was closely linked with the west-country notables who rebelled against Richard III's usurpation. He was apparently indicted of treason but was pardoned by Richard in December; accordingly, he later enjoyed the favour of Henry VII who made him a commissioner for Calais in 1485, an envoy to Burgundy in 1488, and chancellor to Prince Arthur by 1493. Arundell was papally provided as bishop of Coventry and Lichfield on 3 August 1496, and was consecrated on 6 November; he was translated to Exeter by a papal bull of 8 April 1502.<br>
+<br>Arundell's episcopal registers survive in both dioceses. At Exeter he appointed as his registrar John Sextun, a Netherlander and friend of Erasmus, who wrote a preface to the register praising the bishop for his hospitality, the daily distribution of alms at his gate, his care to promote the careers of his chaplains, and the daily worship in his chapel at Exeter with vocal and instrumental music. Arundell's interest in worship also led him to improve the resources of the vicars-choral of St Chad's College, Shrewsbury, and to close a derelict hospital at Totnes, Devon, in order to benefit their counterparts at Exeter Cathedral. He died at Exeter House in the Strand, the bishop's London residence, on 15 March 1504 and was buried on the south side of the high altar at the nearby church of St Clement Danes; an annual obit mass in his memory was founded at Exeter Cathedral in 1515. There is a representation of him as a bishop on his mother's tomb in Birtsmorton church, Worcestershire.<br>
+<br>Nicholas Orme </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=720&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=720&amp;istheme=&amp;target=Fasti%20Angl.%2C%201300%3F1541')"><i>Fasti Angl., 1300&#150;1541</i></a> [Exeter] &middot; J. P. Yeatman, <i>The early genealogical history of the house of Arundel</i> (1882) &middot; G. Oliver, <i>Lives of the bishops of Exeter, and a history of the cathedral</i> (1861), 116&#150;17 &middot; <i>Holinshed&#146;s chronicles of England, Scotland and Ireland</i>, ed. H. Ellis, 3 (1808), 421 [see also <i>CPR</i>, 1483] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=720&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Shropshire</i>, 2.117 &middot; N. Orme and M. Webster, <i>The English hospital, 1070 to 1570</i> (1995), 266 &middot; The register of John Arundell, Joint RO, Lichfield, B/A/1/13, fols. 200&#150;297<i>v</i> &middot; register of John Arundell, Devon RO, Chanter XII, pt ii &middot; establishment of obit, Exeter Cathedral, dean and chapter archives, D&amp;C 484<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=720&amp;istheme=&amp;target=Devon%20RO')">Devon RO</a>, register, Chanter XII, pt ii
+   &middot;
+ Joint RO, Lichfield, register, B/A/1/13, fols. 200&#150;297<i>v</i>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> sculpture (on tomb of his mother, Joan Colshill), Birtsmorton church, Worcestershire<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Nicholas Orme, &#145;<span class="roman"><span class="headword">Arundell,  John</span>  (<em>c.</em>1435&#150;1504)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/720, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Arundell (<em>c.</em>1435&#150;1504): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/720 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

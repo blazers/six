@@ -1,0 +1,433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13498;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13498-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13498-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13498#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:273px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=13498&amp;orientation=l')"><img border="0" alt="  Edward Holdsworth (1684&#150;1746), by James Russel, 1744 [right, in armchair, with (left to right) James Russel, Mr Marlowe, William Drake, and Dr Thomas Townson]" onmouseover="status='  Edward Holdsworth (1684&#150;1746), by James Russel, 1744 [right, in armchair, with (left to right) James Russel, Mr Marlowe, William Drake, and Dr Thomas Townson]'" src="/images/article-imgs/13/13498_1_200px.jpg"></a><span class="imagecaption"><b>  Edward Holdsworth (1684&#150;1746)</b>, by James Russel, 1744 [right, in armchair, with (left to right) James Russel, Mr Marlowe, William Drake, and Dr Thomas Townson]</span>
+</div>
+<div class="para">
+<span class="headword">Holdsworth,  Edward</span>  (1684&#150;1746), <span class="occ">Latin poet</span>, was born on 6 August 1684, the son of Thomas Holdsworth (<i>d</i>. <i>c</i>.1714?), rector of North Stoneham, Hampshire. He was educated at Winchester College, where in 1694, aged only nine, he was elected to a scholarship. On 14 December 1704 he matriculated at Corpus Christi College, Oxford; in July 1705, however, he was elected a demy of Magdalen College, where he remained for the next ten years. He graduated BA on 22 June 1708, and MA on 18 April 1711.<br>
+<br>Holdsworth's most important (certainly his most celebrated) literary work was written soon after he became a BA. Dr Henry Sacheverell, Magdalen's most notorious member, is said to have encouraged its composition. This was a slightly scurrilous, and very funny, comic poem about the Welsh, entitled <span class="italic">Muscipula</span> (1709). A faulty, allegedly unauthorized, edition was rapidly followed by several correct ones, translations, and something of a literary furore. Softening the nationalistic blow, Holdsworth dedicated it to a Welsh gentleman commoner at Magdalen, Robert Lloyd: &#145;iracundioribus quibusdam vix in patriae tuae laudem confici videatur&#146; (&#145;this trifle, which to some pettish people may seem contriv'd not much to the honour of your country&#146;).<br>
+<br>The story begins in heroic style:<blockquote>
+<div>Monticolam Britonem, qui primus vincula muri<br>
+</div>
+<div>Finxit, et exiguum vexavit carcere furem,<br>
+</div>
+<div>Lethalesque dolos, et inextricabile fatum,<br>
+</div>
+<div>Musa refer.<br>
+</div>(Muse, tell of the Mountain-Briton who first caged the mouse, imposing on that little thief his deadly tricks and unavoidable death.)</blockquote>Our hero is Taffy, an eater of cheese, the Welsh national dish; while Taffy slept off a cheese feast,<blockquote>
+<div>mus audax sectatus, opinor, odores,<br>
+</div>
+<div>Quos non concoctus pingui exalavit ab ore<br>
+</div>
+<div>Caseus, accessit furtim.<br>
+</div>
+</blockquote>In the version by F. T. (1709):<blockquote>
+<div>A Mouse, said he, pursuing as I guess<br>
+</div>
+<div>The scent of undigest[ed] toasted cheese<br>
+</div>
+<div>That from my mouth she smelt, which open lay,<br>
+</div>
+<div>Crept in and made strait down my throat her way.<br>
+</div>
+<div>Whilst she was feasting there, I did awake,<br>
+</div>
+<div>And as she try'd t'escape, her fast did take<br>
+</div>
+<div>Between my teeth.<br>
+</div>
+</blockquote>Thus was the idea for the mousetrap born. Holdsworth effectively mixes elegant, vigorous Latin with gloriously low subject matter. We later meet a cat, who shares some characteristics with literary critics:<blockquote>
+<div class="indent">mentitur amorem<br>
+</div>
+<div>dum lacerare parat: varia sic arte jocosam<br>
+</div>
+<div>barbariem exercet, lepidaque tyrannide ludit.<br>
+</div> (ll. 218&#150;20)</blockquote>In Hoadly's version (1749):<blockquote>
+<div>His neck now lightly pats with hurtless paw,<br>
+</div>
+<div>Dissembling love: but ruminates the while<br>
+</div>
+<div>To tear him limb from limb. The Mouser thus,<br>
+</div>
+<div>Witty in tyranny, with various art<br>
+</div>
+<div>Wanton barbarity enjoys &hellip;<br>
+</div>
+</blockquote>Welsh pride demanded a reply. Thomas Richards of Jesus College, Oxford, rapidly produced <span class="italic">Hoglandiae descriptio</span> (1709), a satire on Hampshire (and another fine piece of Latin). Anthony Alsop, Oxford's most elegant Latin poet, and Edward Lhwyd, its most prominent Welshman, may have been involved. <span class="italic">Muscipula</span> was regularly reprinted, anthologized, and translated throughout the eighteenth century. The immediate stir caused by the poem led to four rival versions in 1709; others followed in 1712, 1715, 1718 (by Archdeacon Cobden), 1722, 1728 (published in Annapolis, Maryland), 1749 (by John Hoadly, a translation which Holdsworth greatly admired), and finally Richard Graves in 1793. Holdsworth's poem is firmly in the mock-heroic tradition, inspired by the pseudo-Homeric <span class="italic">Batrachomyomachia</span> (&#145;Battle of Frogs and Mice&#146;), a popular work in the Renaissance, as his Greek subtitle <span class="italic">Cambromyomachia</span> (&#145;Battle of the Welsh and Mice&#146;) makes clear. Holdsworth's mock-heroic poem is a significant precursor to Alexander Pope's famous <span class="italic">Rape of the Lock</span>, which first appeared just a few years later, in 1712.<br>
+<br>The fame of <span class="italic">Muscipula</span> spread to some surprising quarters. An interesting edition appeared in Florence in 1765; the anonymous Italian editor notes that he has received from England &#145;elegans quoddam ludicrum poemation manu exaratum&#146; (&#145;an elegant, humorous little poem in manuscript&#146;)&#151;clearly he was unaware that <span class="italic">Muscipula</span> had been printed many times before. He has to explain many of Holdsworth's Welsh jokes laboriously to his audience, who have probably barely heard of Wales; yet he is still greatly impressed by the poem. Holdsworth himself, on his visits to Italy, or other Englishmen on the grand tour, may have helped the poem circulate; nevertheless, it is rare to find British neo-Latin of this period being read on the continent.<br>
+<br>Holdsworth remained at Magdalen as a tutor, but rejected the opportunity to become a full fellow of the college, when his turn came in 1715, because he was not prepared to take the oath of allegiance to the new Hanoverian monarch. He therefore felt obliged to resign his post and leave the university; although he would have found many in Oxford to sympathize with him, and a few nonjurors, such as Thomas Hearne, did manage to retain some attachment to the university, it was more satisfactory to make a clean break. Holdsworth retained a strong affection for Magdalen; he planned the rebuilding of the college in the Palladian style. There have been doubts about his role, but &#145;Holdsworth's responsibility for the design &hellip; has now been fully established by letters and other documents recently discovered among the archives of Magdalen&#146;  (H. M. Colvin, in <span class="italic">Hist. U. Oxf.</span> 5: <span class="italic">18th-cent. Oxf.</span>, 840). A survey was made for his use in 1720; the fellows could finally contemplate building in 1729, when Holdsworth consulted the architect James Gibbs for help in revising the plans (the college paid Gibbs 20 guineas). The full scheme was approved, and illustrated in the 1731 <span class="italic">Oxford Almanack</span>; the college began to put it into practice in 1733. Only a single block, the majestic New Buildings, was ever completed.<br>
+<br>For the rest of his life Holdsworth acted as a private tutor to the children of nonjuring or Jacobite families, or accompanied them on their travels in Europe. He remained in close touch with his extensive family (and the legacies in his will suggest that he had sufficient private means for a comfortable existence). He knew Pope, who wrote to him in December 1737 to ask for his vote for Harte in the election for professor of poetry at Oxford  (<span class="italic">Correspondence of Alexander Pope</span>, 4.90). Holdsworth's travels encouraged his Virgilian studies. Joseph Spence declared him &#145;better acquainted with Italy as classic ground than any man&#146; then living  (Spence, <span class="italic">Polymetis</span>, quoted in <span class="italic">DNB</span>). He is said to have caught rheumatism, from which he never completely recovered, while exploring ancient drainage. He made many notes on Virgil, some incorporated in later editions. His <span class="italic">Pharsalia and Philippi</span> (1742) concentrated on explaining some contentious lines on the civil war battlefields; an expanded posthumous version  (<span class="italic">Dissertation upon Eight Verses</span>, 1749) doubles the coverage to eight lines  (<span class="italic">Georgics</span>, 2.65&#150;72). Richard Bentley had shown how an apparently minor issue could produce a great dissertation; Holdsworth was no Bentley, but a respectable scholar none the less.<br>
+<br>Holdsworth's scholarly and antiquarian interests did not, to the eighteenth-century mind, appear incompatible with his creative use of Latin verse, as the editor of his <span class="italic">Dissertation</span> (1749) asserts:<blockquote>No reader, I hope, will think it at all improper, that the Dissertation should be accompanied by the Poem [<span class="italic">Muscipula</span>]; since, as that plainly shews, how well the Author understood Virgil, this is a demonstrative proof how well he could imitate him; a faculty very rare, and greatly superior to the other. (p. xv)</blockquote>In other words, it is better to write than to comment on Latin.Holdsworth died of fever on 30 December 1746, at Lord Digby's house, near Coleshill, Warwickshire. He was buried in the church there on 4 January 1747. His friend Charles Jennens, of Gopsall in Leicestershire, placed a plain black marble stone above his grave. A more elaborate monument was erected in 1764, in a classical temple Jennens had built at Gopsall; this contained a long Latin inscription, and a statue by Roubiliac representing &#145;Religion&#146;.<br>
+<br>Holdsworth left his notes on Virgil to Jennens. &#145;I give to my dear friend Charles Jennens of Queen Square London &hellip; my interleaved Virgils with all my papers relating thereto and my pictures which now are in his custody.&#146; His will bequeathed &pound;100 to the building fund at Magdalen, towards the completion of his own architectural designs. Another &pound;100 went to &#145;my nephew Robert Downes fellow of Magdalen College &hellip; to be employed in fitting up Chambers for him in the New Buildings there&#146;. His brother Henry Holdsworth was chosen as executor; another brother, Winch Holdsworth DD, is mentioned, along with his sisters, Philadelphia Downes (who received &pound;800) and Mary Ann Taylor.<br>
+<br>D. K. Money </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>L. Bradner, <i>Musae Anglicanae</i><i>: a history of Anglo-Latin poetry, 1500&#150;1925</i> (1940) &middot; D. K. Money, <i>The English Horace</i> (1998) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13498&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; Holdsworth's will &middot; [T. Richards], <i>Hoglandiae descriptio</i> (1709) &middot; <i>The correspondence of Alexander Pope</i>, ed. G. Sherburn, 5 vols. (1956) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13498&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%205%3A%2018th-cent.%20Oxf.')"><i>Hist. U. Oxf.</i> 5: <i>18th-cent. Oxf.</i></a> &middot; R. P. Bond, <i>English burlesque poetry, 1700&#150;1750</i> (1932) &middot; U. Broich, <i>The eighteenth-century mock-heroic poem</i> (1990)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13498&amp;istheme=&amp;target=Magd.%20Oxf.')">Magd. Oxf.</a>, papers relating to buildings
+   &middot;
+ Yale U., Beinecke L., autograph draft of <i>Of the fountains of Egeria &amp; the muses</i>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> C. F. Ponzone Milanese, sketch, 1741; copy, Magd. Oxf. &middot; J. Russel, group portrait, 1744, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13498&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> [<i>see illus.</i>]<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">D. K. Money, &#145;<span class="roman"><span class="headword">Holdsworth,  Edward</span>  (1684&#150;1746)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13498, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Holdsworth (1684&#150;1746): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13498 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

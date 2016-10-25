@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15338;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15338-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15338-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15338#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kempenfelt,  Richard</span>  (1718&#150;1782), <span class="occ">naval officer</span>, was born at Westminster, the son of Magnus Kempenfelt (<i>b</i>. 1664/5, <i>d</i>. <i>c</i>.1727), a native of Sweden, and Anne Hunt (<i>b</i>. 1678/9). His father is said to have been in the service of James II and followed him to France, later returning to England where he entered the army, and gained the rank of lieutenant-colonel. In 1725&#150;6 Magnus was lieutenant-governor of Jersey; he died about 1727, and was survived by two daughters and two sons, including Richard.<br>
+<br>Richard Kempenfelt entered the navy, served in the West Indies at the celebrated taking of Portobello, and on 14 January 1741 was promoted lieutenant of the <i>Strafford</i>, then carrying his flag, by Edward Vernon. After the failure at Cartagena, Kempenfelt was moved into the <i>Superbe</i>, and again into the frigate <i>Seahorse</i>. He returned to England towards the end of 1746. In September 1748 he was appointed to the <i>Anson</i>, first with Captain Nutt, and afterwards with Captain Charles Holmes. In January 1755 he joined the <i>Lichfield</i> under the command of Captain Charles Steevens whom in April he followed to the <i>Orford</i> as first lieutenant. On 5 May 1756 he was promoted to command the fireship <i>Lightning</i>, and on 17 January 1757 he became captain of the <i>Elizabeth</i>, bearing the broad pennant of Captain Steevens, and went out to the East Indies as commodore and second in command.<br>
+<br>In the <i>Elizabeth</i>, Kempenfelt played a role in the distinguished actions of 29 April and 3 August 1758. He was then appointed to the frigate <i>Queenborough</i> in which he convoyed troops of Colonel William Draper's regiment to Madras where their prompt landing, when the French under Count Lully were on the point of assault, prevented its falling to the enemy. A few months later he rejoined Steevens, now a rear-admiral, on the <i>Grafton</i>, which he commanded in the action of 10 September 1759. On Steevens's becoming commander-in-chief, Kempenfelt accompanied him to the <i>Norfolk</i>, and took part in the capture of Pondicherry; Kempenfelt's account of the action was reprinted in the <span class="italic">Gentleman's Magazine</span> for 1846. When Steevens died Rear-Admiral Samuel Cornish hoisted his flag in the <i>Norfolk</i>; he retained Kempenfelt as his flag captain, and put him in charge of landing troops at Manila; after its capture he was detached to take possession of the Spanish naval station at Cavite, and was specially requested by Sir William Draper to act as its governor. Kempenfelt was then sent home with dispatches. After his return to the East Indies he resumed command of the <i>Norfolk</i>, and brought her to England in 1764. He is said to have spent a considerable part of the following years travelling in France and elsewhere on the continent, where he made a special study of French shipbuilding techniques.<br>
+<br>It remains unclear when Kempenfelt developed his evangelical Christian convictions, but one of his short poems was written at sea near the island of Sicily, on 20 May 1769, when he was on half pay, and his collected <span class="italic">Original Hymns and Poems</span> were published in 1777. Apart from his personal spirituality he shared a conviction, growing among officers in the fleet, that restoration of religious observances could support the structure of naval discipline. In 1779 he wrote to Admiral Charles Middleton (later Lord Barham): &#145;Don't let anyone imagine that this discipline [of daily prayers] will disgust the men and give them a dislike to the service, for the very reverse will be the consequence&#146;  (<span class="italic">Letters and Papers</span>, 1.308). Two years later he had the first consignment of bibles supplied by the Bible Society placed on board his flagship, the <i>Royal George</i>.<br>
+<br>During the dispute with Spain over the Falkland Islands in 1770 Kempenfelt commanded the <i>Buckingham</i>, which was paid off in the following year. In October 1778 he was appointed to the <i>Alexander</i>, and in April 1779 he sat as a member of the court martial on Sir Hugh Palliser. Afterwards, on the recommendation of George III as &#145;a great friend of Lord Clarendon, [and] much respected by all parties and one well qualified to heal all little breaches&#146;  (<span class="italic">Correspondence</span>, ed. Fortescue, no. 2209, 9 March 1779), Kempenfelt was appointed captain of the fleet first to Sir Charles Hardy the younger, and, in 1780, to Sir Francis Geary and Vice-Admiral George Darby. As a loyal subordinate to a succession of elderly commanders-in-chief, Kempenfelt worked to overcome the tactical limitations of the fleet which had been brought to his attention during Palliser's trial. During the crisis of 1779, when a large but inefficient Franco-Spanish fleet was in the channel and threatening invasion, Kempenfelt expressed a belief that a smaller but tactically more efficient British fleet should be able, if not to dominate the situation, at least to make invasion impossible. However, his efforts to drill the fleet met with little success, his difficulties having been increased initially by Admiral Hardy's obstinacy. Despite his extensive experiments with new signal books and his practical skill as a tactician, his ability as a theoretician who needed to overcome service conservatism to effect reform proved to be somewhat limited.<br>
+<br>On 26 September 1780 Kempenfelt was advanced to rear-admiral of the blue; he continued with Darby until towards the end of 1781 when, with his flag in the <i>Victory</i>, he was directed to put to sea in command of twelve ships of the line and some frigates, and intercept a French squadron and convoy, reported bound for the West Indies. He was instructed that the escort would consist of not more than seven ships; but when he sighted it, on 12 December, some 50 leagues to the south-west of Ushant, he found it consisting of nineteen. Every available ship had been sent, under the command of De Guichen, who was reputedly one of the most skilful tacticians in the French navy. Kempenfelt at once saw that it was impossible for him to attack such a superior force. He formed line abreast and followed the French until he noticed that their van and centre had drawn too far ahead to be any longer able to support the convoy. Turning into line ahead, he engaged the French rear and, brushing it aside, closed with the convoy, twenty of which he captured; he sank the four frigates of the close escort. Forming two divisions, one of which took the prizes in tow and the other of which covered their rear, he ran into Plymouth under a press of sail and hotly engaged by two of De Guichen's ships and a few of the transports.<br>
+<br>On Lord Howe's taking command of the fleet in April 1782, Kempenfelt hoisted his flag in the <i>Royal George</i> as one of the junior admirals, and continued with the fleet during the summer cruise. On 15 August the fleet anchored at Spithead, and was ordered to refit with all possible haste and proceed to the relief of Gibraltar. As part of this process it was necessary to give the <i>Royal George</i> a slight heel to get at a leak a few inches below the water-line. This was done on 29 August by running her guns over to the other side. While she was so heeled supply boats came alongside to transfer casks through the depressed lower gun ports; the additional weight allowed an inrush of water which immediately capsized and sank her. Besides the crew, a very large number of tradesmen, women, and children were on board; it was estimated that more than 800 lost their lives. Kempenfelt was at the time in his cabin, and died in the accident. The master, gunner, and boatswain were all ashore in violation of orders, and the carpenter had been unable to find the officer of the watch to warn him. At the court martial, however, the crew were absolved of all blame.<br>
+<br>After the conservatism of previous commanders the appointment of Earl Howe had brought a sympathetic commander with whom Kempenfelt had been able to work. Because Kempenfelt died so soon afterwards it was left to Howe to provide the fleet with a numerically based flag system capable of transmitting a rapid succession of complex tactical instructions; and it fell upon Sir Home Popham to equip it with a &#145;marine telegraph&#146; capable of two-way communication of intelligence.<br>
+<br>J. K. Laughton<span class="italic">, rev. </span> Nicholas Tracy </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Tunstall, <i>Naval warfare in the age of sail</i><i>: the evolution of fighting tactics, 1650&#150;1815</i>, ed. N. Tracy (1990) &middot; <i>Letters and papers of Charles, Lord Barham</i>, ed. J. K. Laughton, 3 vols., Navy RS, 32, 38&#150;9 (1907&#150;11) &middot; <i>The correspondence of King George the Third from 1760 to December 1783</i>, ed. J. Fortescue, 6 vols. (1927&#150;8) &middot; R. F. Johnson, <i>The Royal George</i> (1971) &middot; <em>Naval Chronicle</em>, 7 (1802), 365&#150;71 &middot; R. C. Blake, &#145;Transmission of the faith and transformation of the fleet: the religious education of the Royal Navy, 1770&#150;1870&#146;, <i>Foi chr&eacute;tienne et milieux maritimes, XVe&#150;XXsi&egrave;cle</i>, ed. A. Cabantous and F. Hildesheimer (1987)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15338&amp;istheme=&amp;target=NMM')">NMM</a>, letters to Sir Charles Middleton<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> T. Kettle, group portrait, oils, exh. Society of Artists 1768, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15338&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>; <i>see illus. in</i> Cornish, Sir Samuel, baronet (<i>c</i>.1715&#150;1770) &middot; T. Kettle, oils, exh. RA 1782, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15338&amp;istheme=&amp;target=NMM')">NMM</a> &middot; R. Earl, oils, 1783, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15338&amp;istheme=&amp;target=NPG')">NPG</a> &middot; print (after T. Kettle), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15338&amp;istheme=&amp;target=BM')">BM</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> see will, TNA: PRO, PROB 11/1095, fol. 177<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. K. Laughton, &#145;<span class="roman"><span class="headword">Kempenfelt,  Richard</span>  (1718&#150;1782)</span>&#146;, rev. Nicholas Tracy, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/15338, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Richard Kempenfelt (1718&#150;1782): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15338 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/15338/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

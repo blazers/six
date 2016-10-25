@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7639;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7639-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7639-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7639#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Digges,  Thomas</span>  (<em>c.</em>1546&#150;1595), <span class="occ">mathematician and member of parliament</span>, was the eldest son of <script>writeSeealsoLink('../view/article/7637/', "Leonard Digges (c.1515&#150;c.1559)")</script>, practical mathematician, and his wife, Bridget, daughter of Thomas Wilford of Hartridge, Kent. Digges was presumably brought up on his father's estate at Wootton, Kent, but Leonard's land and property were seized after his involvement in the Wyatt uprising of 1554. Condemned to death for high treason, Leonard was pardoned and subsequently recovered his lands, but his sons lost their right of inheritance. Thomas Digges and his younger brother James were restored in blood by act of parliament only in 1563. In the interim their father had died and Thomas Digges's education was taken over by John Dee; Digges would later refer to Dee as his &#145;revered second mathematical father&#146;  (<span class="italic">Alae seu scalae mathematicae</span>, 1573, sig. A2<i>r</i>) and Dee considered Digges as &#145;my most worthy mathematical heir&#146;  (Dee, sig. A2<i>v</i>).<br>
+<br>The combination of filial duty and the unusually mathematical nature of Digges's upbringing helps to explain the character of much of his published work. His first publication was <span class="italic">Pantometria</span> (1571), an edition of a manuscript on surveying and practical geometry by his father. Appended to this text was Digges's own contribution, <span class="italic">A Mathematicall Discourse of Geometricall Solids</span>. This was the most self-consciously advanced and novel work on geometry published in sixteenth-century England. Digges provided several hundred theorems on the properties, dimensions, and interrelations of the five regular (Platonic) polyhedra, and the final section of his text extended the enquiry to an investigation of five &#145;transformed&#146; bodies&#151;semi-regular (Archimedean) solids generated by the metamorphosis of each of the five Platonic solids.<br>
+<br>The elevated level of Digges's work was confirmed by <span class="italic">Alae seu scalae mathematicae</span> (1573), a text prompted by the appearance of the new star of 1572. Addressed to a European audience of astronomers, <span class="italic">Alae</span> was Digges's only Latin publication and offered an analysis and improvement of the mathematical and instrumental techniques available for the study of the nova. Recent radio astronomy has shown that Digges's observations were the most accurate then made. Moreover, he concluded that the new star was indeed a celestial body rather than a meteorological phenomenon, thus challenging the interpretations offered by contemporary Aristotelian natural philosophy.<br>
+<br>Digges's cosmological ambitions went beyond his claims concerning the new star. In <span class="italic">Alae</span> he condemned the &#145;monstrous&#146; planetary astronomy of Ptolemy and wrote approvingly of Copernicus  (<span class="italic">Alae</span>, sigs. A4<i>v</i>, 2A3<i>r</i>, 2A4<i>v</i>, L2<i>v</i>). But he did not wholeheartedly endorse the Copernican heliocentric system, in which the sun rather than the earth is stationed at the centre of the universe. Writing only shortly after the appearance of the new star, Digges initially hoped that its changing brightness might provide concrete observational evidence to support or modify the Copernican doctrine.<br>
+<br>Digges's hopes were frustrated, as the star simply faded from view. But he nevertheless became the first English author publicly to declare his support for Copernicus's cosmological scheme, in the 1576 edition of his father's <span class="italic">A Prognostication Everlasting</span>. As an appendix to this popular almanac, Digges included his &#145;Perfit description of the caelestiall orbes&#146;, which made Copernicus's general claims accessible to an English audience by providing a free translation of the cosmological sections of book one of <span class="italic">De revolutionibus orbium caelestium</span> (1543). Digges also added his own touches, particularly in a famous diagram which went beyond Copernicus's own scheme, by showing an infinite universe in which the stars extended indefinitely outwards from the solar system.<br>
+<br>In parallel with his innovative mathematical work of the early 1570s Digges also began a gentlemanly career of service. He was selected as MP for Wallingford in 1572 and sat at this parliament's subsequent sessions in 1576 and 1581. For the next parliament in 1584, he was returned as MP for Southampton. Over this period Digges was increasingly active, whether making speeches, sitting on committees, or consulting with the privy council. He has been identified as one of the House of Commons' &#145;men of business&#146; and he earned a reputation for speaking &#145;for the common wealth of all England, and for no private cause&#146;  (Hitchcock, last page).<br>
+<br>Digges's parliamentary work reached a peak in 1584&#150;5 when he drafted memoranda on such topics as the provision of a standing army, the oath of association, a bill on Jesuits, and the question of the succession to Queen Elizabeth. He was by then a prominent and respected figure: &#145;Digges commonly doth speak last, and therefore saith, every matter must have an end, and therefore to draw this to a conclusion&#146;  (HoP, <span class="italic">Commons</span>, 38). Outside parliament he took on other public duties. He promoted plans for a new harbour at Dover in the early 1580s and involved himself in the detailed design of this major Elizabethan technical project. He was appointed a commissioner for the harbour in 1582 and made surveyor, but delegated his responsibilities to a local deputy. His mathematical skills were also called on in 1583 when he was asked to review John Dee's proposal for reform of the calendar, prepared after the introduction of the Gregorian calendar.<br>
+<br>Rather than keep them in separate spheres, Digges sought to integrate his twin commitments to civic service and to mathematics. As early as 1576 he had included a programmatic call for the mathematical reformation of navigation along with the Copernican appendix to his father's <span class="italic">Prognostication Everlasting</span>. He subsequently spent fifteen weeks at sea, both to satisfy himself and to overcome the scepticism of experienced mariners. Digges not only proclaimed his criticisms of navigational errors to be triumphantly vindicated, but demonstrated that he could not be dismissed as merely a study-bound scholar.<br>
+<br>Digges developed his vision of the identity of the mathematician most explicitly in <span class="italic">Stratioticos</span> (1579), a text on military mathematics. He confessed that he had once been delighted with the elevated subtlety of mathematical demonstration but that, with more mature judgement, he had spent his time &#145;in reducing the Sciences Mathematical from Demonstrative Contemplations to Experimental Actions, for the Service of my Prince and Country&#146;  (<span class="italic">Stratioticos</span>, 1579, sig. A2<i>r</i>). <span class="italic">Stratioticos</span> exemplifies this self-conscious choice of role and agenda. Its first book is on arithmetic and was based on surviving manuscript material of Leonard Digges. The remaining two books are Thomas Digges's own, adapting elementary algebra for use by soldiers and providing a lengthy treatment of the qualities and roles of all the ranks of men in an army. The volume was dedicated to the earl of Leicester, and had been composed in response to hopes over the winter of 1577&#150;8 that he would lead an English force against the Spanish in the Netherlands. The last book of <span class="italic">Stratioticos</span> was evidently intended as a blueprint for a model army and, although Leicester's expedition came to nothing at the time, Digges himself visited the Low Countries in the autumn of 1578, touring and reporting on fortifications, and observing the troops.<br>
+<br>When the Netherlands crisis came to a head in the mid-1580s Digges was again exhorting Leicester to active intervention. He was appointed as both trench-master and muster-master in the expeditionary force sent over in late 1585 and, after initially busying himself surveying fortifications, concentrated wholly on the office of muster-master. Although praised for his unswerving rectitude, his attempts to check abuses in the distribution of soldiers' pay led to increasing hostility and dispute. Far removed from the textbook military prescriptions of <span class="italic">Stratioticos</span>, Digges already complained of intolerable malice in September 1586 and, when he finally received his official discharge in early 1588, he considered that the disorders and abuses plaguing the army were above his power to remedy.<br>
+<br>Digges's last years were dogged by continued and bitter wrangling over his army accounts and his position was weakened by the loss of his principal patron. While he appears to have been most closely linked with Lord Burghley in the early 1570s, by the end of the decade Digges had aligned himself with the activist and interventionist policy associated with Leicester. As well as the dedication of <span class="italic">Stratioticos</span> and the contacts leading to Digges's military service, Digges was nominated to his parliamentary seat in 1584 by Leicester; in addition, he named his eldest son Dudley after his patron. Digges also served Leicester in print, defending his reputation and military honour in both <span class="italic">A Briefe Report of the Militarie Services done in the Low Countries, by the Erle of Leicester</span> (1587) and <span class="italic">A Briefe and True Report of the Proceedings of the Earle of Leycester for the Reliefe of the Towne of Sluce</span> (1590).<br>
+<br>Despite promising books on a wide range of mathematical subjects, <span class="italic">Stratioticos</span> was Digges's last major composition. His military concerns were reflected in new editions of <span class="italic">Stratioticos</span> (1590) and <span class="italic">Pantometria</span> (1591), which both contained additions on artillery, and particularly ballistics. Digges had built once again on prior work of his father by publishing a series of questions on artillery in the first edition of <span class="italic">Stratioticos</span>. His subsequent answers and notes of 1590 and 1591 foreshadowed his projected treatise on the subject and also demonstrated how advanced mathematics could be brought to bear on urgent military matters.<br>
+<br>Despite the disappointments of his own military service, Digges still upheld the ideal of joining theory and practice in the service of the commonwealth. In presenting himself as a gentleman mathematician he became probably the most important Elizabethan promoter of mathematics as an engaged and effective worldly practice. His significance lay not only in his advocacy of novel geometry and cosmology but in shaping the tradition of practical mathematics.<br>
+<br>Digges established his country residence at Chevening in Kent and also maintained a house in London. He married Anne (or Agnes), daughter of Sir Warham St Leger, and his will lists their surviving children as <script>writeSeealsoLink('../view/article/7635/', "Dudley Digges (1582/3&#150;1639)")</script>, Margaret, Ursula, and <script>writeSeealsoLink('../view/article/7638/', "Leonard Digges")</script>. Digges died on 24 August 1595 and his will was proved on 1 September, being opposed by his brother James and by William Digges, who were excluded by codicil. He was buried in the chancel of St Mary Aldermanbury, London, where his wife erected a monument to his memory.<br>
+<br>Stephen Johnston </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. B. Easton, &#145;Digges, Thomas&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7639&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; T. Digges, <i>Pantometria</i> (1571) &middot; F. R. Johnson, <i>Astronomical thought in Renaissance England</i> (1937) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7639&amp;istheme=&amp;target=HoP%2C%20Commons')">HoP, <i>Commons</i></a> &middot; A. R. Hall, <i>Ballistics in the seventeenth century</i> (1952) &middot; J. Summerson, &#145;Dover harbour&#146;, in H. M. Colvin and others, <i>The history of the king's works</i>, 4 (1982), 755&#150;64 &middot; S. Johnston, &#145;Making mathematical practice: gentlemen, practitioners and artisans in Elizabethan England&#146;, PhD diss., U. Cam., 1994 &middot; S. Johnston, &#145;Like father, like son? John Dee, Thomas Digges and the identity of the mathematician&#146;, <i>John Dee</i><i>: interdisciplinary studies in English Renaissance thought</i>, ed. S. Clucas (2006) &middot; M. Graves, &#145;The management of the Elizabethan House of Commons: the council's men-of-business&#146;, <em>Parliamentary History</em>, 2 (1983), 11&#150;38 &middot; P. Collinson, &#145;The monarchical republic of Queen Elizabeth I&#146;, <em>Bulletin of the John Rylands University Library</em>, 69 (1986&#150;7), 394&#150;424 &middot; D. H. Clark and F. R. Stephenson, <i>The historical supernovae</i> (1977), 185&#150;6 &middot; J. Dee, <i>Parallaticae commentationis praxeosque nucleus quidam</i> (1573) &middot; R. Hitchcock, <i>A pollitique platt</i> (1580) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7639&amp;istheme=&amp;target=JHC')"><i>JHC</i></a>, 1 (1547&#150;1628), 66&#150;7, 69 &middot; Baron Kervyn de Lettenhove [J. M. B. C. Kervyn de Lettenhove] and L. Gilliodts-van Severen, eds., <i>Relations politiques des Pays-Bas et de l'Angleterre sous le r&egrave;gne de Philippe II</i>, 10 (Brussels, 1892), 794&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7639&amp;istheme=&amp;target=CSP%20for.')"><i>CSP for.</i></a>, <i>1586&#150;8</i> &middot; J. Stow, <i>A survey of the cities of London and Westminster</i>, ed. J. Strype, 2 vols. (1720), 1, bk 3, 71&#150;2 &middot; TNA: PRO, PROB 11/86, fols. 164<i>r</i>&#150;166<i>v</i>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7639&amp;istheme=&amp;target=BL')">BL</a>, plan of Dover town, castle, and harbour
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7639&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, state papers, Elizabeth I<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Stephen Johnston, &#145;<span class="roman"><span class="headword">Digges,  Thomas</span>  (<em>c.</em>1546&#150;1595)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2009 [http://www.oxforddnb.com/view/article/7639, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Digges (<em>c.</em>1546&#150;1595): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7639 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/7639/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17312;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17312-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17312-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17312#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=17312&amp;orientation=p')"><img border="0" alt="  William Henry Lyttelton (1782&#150;1837), by Sir George Hayter, 1810s" onmouseover="status='  William Henry Lyttelton (1782&#150;1837), by Sir George Hayter, 1810s'" src="/images/article-imgs/17/17312_1_200px.jpg"></a><span class="imagecaption"><b>  William Henry Lyttelton (1782&#150;1837)</b>, by Sir George Hayter, 1810s</span>
+</div>
+<div class="para">
+<span class="headword">Lyttelton,  William Henry</span>, third Baron Lyttelton and third Baron Westcote  (1782&#150;1837), <span class="occ">politician</span>, was born on 3 April 1782 in Berners Street, London, the son of <script>writeSeealsoLink('../view/article/17311/', "William Henry Lyttelton, first Baron Lyttelton of Frankley and first Baron Westcote of Ballymore (1724&#150;1808)")</script>, and his second wife, Caroline (1745/6&#150;1809), daughter of John Bristowe of Quidenham, Norfolk. Lyttelton matriculated at Christ Church, Oxford, on 24 October 1798, graduated BA on 17 June 1802, and MA on 13 December 1805, and was student from December 1800 until 1812. He was a considerable Greek scholar and a favourite of Cyril Jackson, the dean. On 5 July 1810 he was created DCL on the occasion of Lord Grenville's installation as chancellor (he had played some part in the election). He unsuccessfully contested Worcestershire in a by-election in February 1806, but was elected the next year, and represented the county until 1820 as a zealous member of the whig party.<br>
+<br>Lyttelton's maiden speech was made on 27 February 1807 in favour of the rejection of the Westminster petition; and on 16 March he brought forward a motion (rejected by forty-six votes) expressing regret at the substitution of the duke of Portland's administration for Lord Grenville's. He attacked the new ministers, especially Spencer Perceval, for raising a cry about &#145;religion&#146; and &#145;awakening the furies of bigotry and fanaticism to the manifest injury of all true religion&#146;  (Cobbett, 9.434). In opposition to most members of his party he supported the expedition to Copenhagen, but he voted with them on Whitbread's motion for the production of papers relative to it. Lyttelton felt strongly the old whig jealousy of the influence of the crown and court. In supporting Curwen's bill for the prevention of the sale of seats, he suggested that the duke of York, the late commander-in-chief, had to some degree corrupted members of parliament; and in speaking on the budget resolutions of 1808 he declared that &#145;the influence of the prerogative had increased fourfold to what it was in former times&#146;  (ibid., 11.22). Again, on 4 May 1812, in a debate on the <span class="roman">Royal Sinecure Offices Bill</span>, he asserted that &#145;it was notorious that the regent was surrounded with favourites, and as it were hemmed in by minions&#146;, and he strongly opposed a clause in the <span class="roman">Royal Household Bill</span> (19 March 1819), which awarded an extra grant of &pound;10,000 a year to the duke of York. Nevertheless, Lyttelton in 1819 thought that &#145;the revolutionary faction of the radicals ought to be opposed&#146;. In the same session, on 2 December 1819, he made a weighty speech in favour of the second reading of the <span class="roman">Seditious Meetings Prevention Bill</span>, although he blamed ministers for having made the measure necessary by want of conciliation, and thought an inquiry needful into the Peterloo massacre of 1819. Between 1816 and 1819 he actively opposed state lotteries, three times introducing unsuccessful motions against them.<br>
+<br>Lyttelton interested himself also in naval and military questions, and succeeded in obtaining an important modification of the order which deprived officers in the army of their half pay if they were unable to make affidavit that they had no other emolument or employment under the crown, and were not in possession of a certain private income. He also advocated ending the employment of child chimney sweeps, and he was a strong opponent of the property tax. He supported Sheridan's motion of 6 February 1810 against the standing order for the exclusion of strangers from the house. In the same session, on 16 February, he opposed the voting of an annuity to Wellington, whose merits he considered to be far short of those of Nelson. He spoke strongly against the <span class="roman">Aliens Bill</span> in 1816 and 1818. In 1820, short of money both for the election and for normal expenditure, he did not stand again. On the death of his half-brother, George Fulke, second baron, on 12 November 1828, he succeeded to the titles. He did not take much part in the debates of the House of Lords, but on 6 December 1831 he made a strong speech in favour of the <span class="roman">Reform Bill</span> in the debate on the address. He was appointed lord lieutenant of Worcestershire on 29 May 1833.<br>
+<br>On 3 March 1813, Lyttelton married Lady Sarah Spencer (1787&#150;1870), eldest daughter of George John, second Earl Spencer, who was a lady of the bedchamber (1838&#150;42) and governess to Victoria's children (1842&#150;50) [<i>see </i><script>writeSeealsoLink('../view/article/38715/', "Lyttelton, Sarah")</script>]. With her he had three sons: <script>writeSeealsoLink('../view/article/17307/', "George William Lyttelton")</script>, who succeeded to the title (and was Gladstone's brother-in-law), Spencer Lyttelton (1818&#150;1882), who became marshal of the ceremonies to the royal household, and <script>writeSeealsoLink('../view/article/17313/', "William Henry Lyttelton")</script>, canon of Gloucester; and two daughters, Caroline (<i>b</i>. 1816), who died unmarried, and Lavinia (1821&#150;1850), wife of Henry Glynne, rector of Hawarden. His wife died, aged eighty-two, at Hagley on 13 April 1870; her <span class="italic">Correspondence</span>, edited by Mrs Hugh Wyndham, was published in 1912.<br>
+<br>Besides his accomplishments as a Greek scholar, Lyttelton enjoyed a great reputation as a wit: for a time the <span class="italic">Letters of Peter Plymley</span> were ascribed to him before Sydney Smith's authorship of them was known. In August 1815, through his friendship with the captain, he obtained a passage on board the <i>Northumberland</i> from Portsmouth to Plymouth, and privately printed fifty-two copies of <span class="italic">An account of Napoleon Buonaparte's coming on board H.M.S. Northumberland, 7 Aug. 1815; with notes of two conversations held with him</span>; he also printed a <span class="italic">Catalogue of Pictures at Hagley</span>. He also published <span class="italic">Private Devotions for School Boys</span>; another edition, revised and corrected by his eldest son, appeared in 1869, and further editions until 1885. Lyttelton was a staunch whig, a bad speaker, and a good conversationalist. He died on 30 April 1837 at his brother-in-law's house, Spencer Park in London.<br>
+<br>G. Le G. Norgate<span class="italic">, rev. </span> H. C. G. Matthew </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17312&amp;istheme=&amp;target=HoP%2C%20Commons')">HoP, <i>Commons</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17312&amp;istheme=&amp;target=GEC%2C%20Peerage')">GEC, <i>Peerage</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17312&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 8 (1837), 83 &middot; W. Cobbett, ed., <i>Parliamentary debates, 1803&#150;20</i>, 41 vols. (1812&#150;20)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Hagley Hall, Worcestershire, diaries&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17312&amp;istheme=&amp;target=BL')">BL</a>, letters to second Earl Spencer
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17312&amp;istheme=&amp;target=Devon%20RO')">Devon RO</a>, letters to E. Copleston
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17312&amp;istheme=&amp;target=W.%20Sussex%20RO')">W. Sussex RO</a>, letters to duke of Richmond<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> G. Hayter, drawing, 1810&#150;19, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17312&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>]<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;10,000: GEC, <i>Peerage</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. Le G. Norgate, &#145;<span class="roman"><span class="headword">Lyttelton,  William Henry</span>, third Baron Lyttelton and third Baron Westcote  (1782&#150;1837)</span>&#146;, rev. H. C. G. Matthew, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/17312, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Henry Lyttelton (1782&#150;1837): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17312 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 40655;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/40/40655-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/40/40655-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=40655#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Grice,  (Herbert) Paul</span>  (1913&#150;1988), <span class="occ">philosopher</span>, was born on 15 March 1913 in Birmingham, the elder son (there were no daughters) of Herbert Grice, businessman and musician, and his wife, Mabel Felton, schoolmistress. He was educated at Clifton College, Bristol, where he was head boy and also distinguished himself in music and sports, and at Corpus Christi College, Oxford, where he was awarded first-class honours in classical honour moderations (1933) and <i>literae humaniores</i> (1935), and of which he later became an honorary fellow (1988). After a year as assistant master at Rossall School, Lancashire, and then two years as Harmsworth senior scholar at Merton College, Oxford, he was appointed lecturer and in 1939 fellow and tutor in philosophy at St John's College, Oxford, and university lecturer in the sub-faculty of philosophy.<br>
+<br>During the Second World War Grice served in the Royal Navy in the Atlantic theatre and then in Admiralty intelligence from 1940 to 1945. In 1942 he married Kathleen, daughter of George Watson, naval architect. They had a daughter and a son. By the mid-1950s he was widely recognized as one of the most original and independent philosophers in Oxford. At one time or another he taught an extraordinarily high number of those who were to become leading philosophers of the period, including Peter Strawson. He held visiting appointments at Harvard, Brandeis, Stanford, and Cornell universities, and was invited again to Harvard to deliver the William James lectures in 1967. He was elected a fellow of the British Academy in 1966. He became an honorary fellow of St John's in 1980.<br>
+<br>In 1967 Grice left Oxford for a new life in the United States, as professor of philosophy at the University of California, Berkeley. There he continued through teaching and informal discussion to influence and challenge a steadily growing group of devoted students and colleagues. He gave many distinguished lectures, seminars, and symposia at universities, conferences, and professional associations all across the country. He was elected president of the Pacific division of the American Philosophical Association in 1975, and was invited to give their Carus lectures in 1983. Near the end of his life he carefully prepared for publication <span class="italic">Studies in the Way of Words</span> (1989), which contains most of his major essays, the William James lectures, some previously unpublished papers, and a retrospective assessment. His Carus lectures and related material on the metaphysics of value appeared as <span class="italic">The Conception of Value</span> in 1991.<br>
+<br>Grice's most important and most influential work was in the philosophy of language, in particular the analysis of meaning. He proposed to define what a speaker means in saying something on a particular occasion in terms of the speaker's intentions to bring about certain effects in his audience through their recognition of those very intentions. He devised tests to reveal that many aspects of successful communication are due to the &#145;conversational implicatures&#146; carried by a speaker's utterance rather than to logical implications carried by the meaning of the expression he uses or by what, strictly speaking, he says. He endeavoured thereby to show how the meanings or semantics of many expressions in natural language are more adequately represented by the familiar structures of mathematical logic than had been widely supposed. By means of this enterprise he sought to draw clearer limits to what can be concluded about meaning, necessity, and possibility from facts about linguistic usage. In these respects his work was a major factor in the fruitful <i>rapprochement</i> between Oxford philosophy of the 1960s and the more logically oriented philosophy then flourishing in the United States. His defence of the previously discredited causal theory of perception came to serve as prototype for an analytical strategy widely deployed elsewhere. In later years he concentrated on moral philosophy and, with characteristic imagination and metaphysical boldness, on the question of the objectivity of value, which, he held, required a realistic conception of finality or teleology in nature.<br>
+<br>Though Grice thought continually about philosophy and wrote in manuscript a great deal, he published very little. This might have been thought attributable to practical inefficiency. His habits of life were in a way recklessly disorderly; the floor of his room in St John's was a dreadful litter of ashtrays, old clothes, scattered books and papers, cricket bats and balls, and (always unanswered, often unopened) correspondence. This apparent chaos was, however, deceptive. He was a man of formidable intellectual gifts, enormous energy, brooding temperament, and fiercely competitive spirit. His talents were well suited to his passions for chess, bridge, which he played for Oxfordshire for some years, and above all cricket, to which he largely devoted most of his summers while living in England. His musical talent was a more private, personal matter. His piano-playing was&#151;like his considerable prowess as a batsman&#151;fluent and forceful rather than elegant. It was understood by his friends that he was also a quite serious composer; but here, as in philosophy, he could not bring himself to think that any piece was ever really finished, and his works, it appeared, were permanently awaiting revision. That he published so little philosophy was due to this fixed idea that publication implied a claim to have got matters completely right, but a few months' further thought would always show this claim to be ill-founded.<br>
+<br>In some ways the practices of teaching in Oxford did not suit Grice. In philosophy he throve on the stimulus of dialogue and debate, question and answer, thrust and counter-thrust; a silent, respectful, note-taking lecture audience bored and depressed him. Also, in private tutorials, he could be gloomily unforthcoming with pupils whose offerings were too feeble to be challenging. The seminar was his preferred habitat. He was a shrewd master of strategy, with the capacity to hold elaborate schemes or lines of argument in his mind and to unfold them slowly and deliberately, revealing the next step only when it was needed. His methodical, increasingly gleeful demolition of opposing philosophical theories, and occasionally of his own, was a minor art form for the connoisseur. He was highly prolific in thought; he had more ideas, questions, and projects than he could ever have worked out in a dozen lifetimes. A man of strong appetites and impressive girth, he could be, when engaged, a deviously witty and highly convivial companion of fearsome endurance. Grice died in Berkeley on 28 August 1988.<br>
+<br>Barry Stroud G. J. Warnock<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>university records, U. Cal. &middot; <em>The Times</em> (30 Aug 1988) &middot; private information (1996) &middot; personal knowledge (1996)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40655&amp;istheme=&amp;target=U.%20Cal.')">U. Cal.</a>
+<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Barry Stroud, G. J. Warnock, &#145;<span class="roman"><span class="headword">Grice,  (Herbert) Paul</span>  (1913&#150;1988)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/40655, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  (Herbert) Paul Grice (1913&#150;1988): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/40655 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

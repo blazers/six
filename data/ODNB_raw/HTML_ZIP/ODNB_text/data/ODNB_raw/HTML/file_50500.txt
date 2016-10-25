@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50500;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50500-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50500-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50500#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Evans,  Stanley George</span>  (1912&#150;1965), <span class="occ">Church of England clergyman and Christian socialist</span>, was educated at Westminster City School, King's College, London, and the College of the Resurrection, Mirfield. In spite of his pastoral and intellectual gifts, after ordination in 1935, and curacies in Shepherd's Bush, Islington, and Plaistow, he spent many years in the ecclesiastical wilderness before becoming a parish priest in Dalston, east London, in 1955. There is little doubt that this was entirely due to his political views which were closely allied to those of the Communist Party. Evans married Anastasia Cecilia Nicholson and they had two daughters.<br>
+<br>In the 1930s Evans was heavily involved in opposition to fascism and supported the republican cause in the Spanish Civil War. He was one of the founders of the Russia Today group which grew into the British Soviet Friendship Society. He led many visits to the USSR and countries of eastern Europe throughout the cold-war years, and was the <span class="italic">Daily Worker</span> correspondent at the trial of Cardinal Mindszenty in 1949. He followed the Communist Party line fairly closely and preached a glowing, uncritical, sermon on the death of Stalin in 1953. However, after the Twentieth Congress of the Communist Party of the Soviet Union, and the invasion of Hungary, in 1956, he became a more open socialist, holding views akin to the socialist humanism of the New Reasoner group. He remained a Marxist in his political thinking until his death.<br>
+<br>Evans played an important role from the 1940s to the 1960s, both in his intellectual nourishment of the socialist Christian constituency, and in providing links for Christians with the USSR and the countries of the eastern bloc. He was a regular visitor to all the Warsaw pact countries, wrote a history of Bulgaria, and was the editor of the <span class="italic">New Central European Observer</span> during the 1940s. He was responsible for a whole series of small journals&#151;<span class="italic">Religion and the People</span>, which he edited from 1946 to 1957, <span class="italic">Magnificat</span>, and <span class="italic">The Junction</span> (named after Dalston Junction railway station) from 1958 until his death. The latter was subtitled &#145;a journal of Anglican realism&#146;, and it was as an Anglican realist that he wished to be known. He was the key figure in the Council of Clergy and Ministers for Common Ownership, founded in 1942, which became the Society of Socialist Clergy and Ministers, and was one of the leaders of the Christian Socialist Movement, founded in 1960.<br>
+<br>In many areas Evans was ahead of his time. He was writing on race and South Africa in 1944. In 1957 he argued that the old confessional divisions within world Christianity had become less important than the division about the nature of the kingdom of God, and its relation to the structures of this world  (Leech, &#145;Back street pastor&#146;, 188). Much of his thinking anticipated liberation theology, though the term was not used until three years after his death.<br>
+<br>In his theology Evans was traditional and orthodox, and very critical of what he saw as relativizing trends in theology and ethics. At Holy Trinity, Dalston, where he was vicar from 1955 to 1960, the life of the parish was focused on the parish eucharist and the parish meeting. Celebration and debate were seen as inseparable, heart and head were fully engaged. Evans had a strong sense of the place of liturgy in shaping the corporate identity of the Christian community. In an interview on BBC radio about 1962, he spoke prophetically and with great perception about the future possibilities for a people's liturgy. Liturgy, he pointed out, had for many centuries been separated from the people, becoming something performed above the people's heads, by clergy or choir. A central problem for the late twentieth century was the lack of a common language and a common cultural form. Most thinking about liturgy had tended to focus on the rite rather than on the production of the whole liturgical act. Evans stressed that the Christian community at worship is &#145;not ever an audience. They are an expressive community, if you like, an orchestra. The distinction between the audience and the players &hellip; does not exist in Christian liturgy. We have built up an area in which it does exist and we have destroyed Christian liturgy in doing so&#146;  (private information).<br>
+<br>In 1960 Evans became chancellor of Southwark Cathedral and the first principal of the Southwark ordination course. In a sermon delivered at Southwark Cathedral in September 1963 he argued against the seminary model of theological education, and strongly opposed the class bias in clergy selection: &#145;the idea of clergy drawn from only one class of a class-divided society is one of the most dangerous of very modern Anglican innovations&#146;  (archives of S. G. Evans, Hull University). His smallest book, <span class="italic">The Church in the Back Streets</span> (1962), is in some ways his most important. Here he confronted the crisis of the church in the inner city, which had been the context for all his ministry. Evans died in a car accident on 11 September 1965 returning from an anti-nuclear demonstration. He was declared dead at Grantham and Kesteven General Hospital, Grantham, Lincolnshire.<br>
+<br>Kenneth Leech </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. G. Evans, archives, U. Hull &middot; C. Bryant, <i>Possible dreams</i><i>: a personal history of the British Christian socialists</i> (1996) &middot; K. Leech, &#145;A prophet of revolutionary orthodoxy&#146;, <em>The Times</em> (13 Sept 1975) &middot; K. Leech, &#145;Stanley Evans: the kingdom of God in the back streets&#146;, <i>Spirituality and pastoral care</i> (1989), 95&#150;104 &middot; K. Leech, &#145;Back street pastor: the eucharistic politics of Stanley Evans&#146;, <i>The eye of the storm</i><i>: spiritual resources for the pursuit of justice</i> (1992), 183&#150;9 &middot; K. Leech, &#145;Stanley Evans: back street pastor&#146;, <em>Paragon Review</em> [Hull University Archives] (1995), 5&#150;7 &middot; A. Wilkinson, <i>Christian socialism</i><i>: Scott Holland to Tony Blair</i> (1998) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50500&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; d. cert. &middot; private information (2004) [tape of BBC radio discussion of liturgy] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50500&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1965)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50500&amp;istheme=&amp;target=U.%20Hull')">U. Hull</a>, corresp., MSS, and sermons<p></p>
+	  &nbsp;<h3>SOUND</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50500&amp;istheme=&amp;target=BL%20NSA')">BL NSA</a>, current affairs recording</p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;7046: administration, 1 Dec 1965, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Kenneth Leech, &#145;<span class="roman"><span class="headword">Evans,  Stanley George</span>  (1912&#150;1965)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50500, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Stanley George Evans (1912&#150;1965): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50500 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

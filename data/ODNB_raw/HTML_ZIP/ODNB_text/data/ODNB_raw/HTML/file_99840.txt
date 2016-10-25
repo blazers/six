@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 99840;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/99/99840-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/99/99840-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=99840#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Dalton, Sir  Howard</span>  (1944&#150;2008), <span class="occ">microbiologist</span>, was born at Woodside Nursing Home, Epsom Road, Sutton, Surrey, on 8 February 1944, the son of Leslie Alfred Dalton, lorry driver, and his wife, Florence Gertrude, <i>n&eacute;e</i> Evans. At the time of his birth registration his parents lived at 121B Manor Drive North, New Malden, Surrey. From a young age it was clear that he was a very bright boy with an inquiring mind and a scientific bent, and there were many escapades with cocktails of chemicals which marked his early interest in science. His family were extremely proud of his attending Raynes Park grammar school after passing his eleven plus examinations and he subsequently seized the opportunity to study at Queen Elizabeth College, University of London. After graduating in 1965 with a BSc in microbiology he began research with John Postgate at the world-renowned unit of nitrogen fixation at the University of Sussex, which led to his DPhil in 1968. During this time he published a number of important scientific papers in the field of microbial physiology which explained how the soil bacterium <i>Azotobacter</i> protects its nitrogenase enzyme from damage by oxygen.<br>
+<br>In 1968 Dalton moved to the USA and worked for two years as a postdoctoral fellow on the biochemistry of nitrogenase in the anaerobic bacterium <i>Clostridium</i> in the laboratory of Len Mortensen at Purdue University, Indiana. It was while he was in the USA that he met his future wife, Kira Rostislavavna De Armitt, <i>n&eacute;e</i> Rozdestvensky, five years his junior, the Russian-American daughter of Rostislav Sergevich Rozdestvensky, a college professor; she was later an employment counsellor and management consultant. They married at Lewes register office on 5 October 1971 after her divorce. While in the USA, Dalton successfully avoided the possibility of being drafted to Vietnam by his ordination, achieved through a correspondence course, into the Universal Life Church. This subsequently became a running joke, with friends frequently referring to him as the Reverend Howard Dalton, despite his being a lifelong atheist.<br>
+<br>In 1970 Dalton returned to the University of Sussex to work with Bob Bray in the department of chemistry, where he developed his interest in spectroscopy techniques to study two molybdenum-containing enzymes, nitrate reductase from <i>Aspergillus nidulans</i> and xanthine dehydrogenase from <i>Veillonella alcalescens</i>. The following year he accepted the offer of a lectureship in microbiology at the department of biological sciences, newly established by Roger Whittenbury, at the University of Warwick. Dalton and his wife, Kira, settled in the village of Radford Semele, near Leamington Spa, Warwickshire, at the start of what would become a long and highly successful tenure at the University of Warwick. He and Kira had a son and a daughter, in addition to the two sons of her earlier marriage.<br>
+<br>During his time at Warwick, Dalton established a large research group, pioneering work on two fascinating enzymes catalysing the oxidation of methane by bacteria. These remarkable enzymes, called methane monooxygenases, convert methane into methanol. Dalton and his colleagues were able to purify and characterize these enzymes at the biochemical and molecular level. This work firmly established much of the subsequent knowledge of their structure and catalytic mechanisms. Dalton was also perceptive enough to realize that these enzymes had remarkable co-oxidation properties, which stimulated a long-standing interest in biocatalysis, biotransformations, and &#145;green chemistry&#146;, using microbial oxygenases. He became a consultant for the New Jersey company Celanese and joined the scientific advisory board for the spin-out biotechnology company Celgene (formed in 1986 immediately prior to the merger of Celanese with the American Hoechst Corporation), which gave him considerable insight into the chemical and industrial aspects of microbiology, which he used to good effect in his biotransformation research.<br>
+<br>Dalton's research at Warwick gave him a high international reputation, yielded many seminal publications in a career generating well over 250 scientific papers, and opened up whole new research fields in the microbiology of one-carbon compounds. He was awarded a personal professorship at Warwick in 1983 and became chair of the department of biological sciences from 1999 to 2002. As his scientific career flourished he was elected fellow of the Royal Society in 1993, appointed president of the Society for General Microbiology from 1997 to 2000 and of the Marine Biological Association from 2007, awarded the Leeuwenhoek medal lecture at the Royal Society in 2000, and knighted in the new year's honours list in 2007.<br>
+<br>Dalton was seconded to become chief scientific adviser to the Department for Environment, Food and Rural Affairs (Defra) in 2002, a role in which he sought to instil scientific rigour into policy-making decisions. He led the scientific advisory team generating the UK contingency plan for dealing with avian influenza virus, and was instrumental in raising the profile of climate change as a significant threat, delivering lectures on this and other topics such as biofuels and genetically modified crops at many national and international meetings. He was able to observe at first hand the effects of global warming in Antarctica during a two-week visit to the British Antarctic Survey in 2006 and his great skills as a communicator were evident from his highly entertaining blog in which he described his visit.<br>
+<br>Dalton was a down-to-earth, self-effacing man, outgoing, witty, and very popular with all of his colleagues. He was extremely generous with his time and an inspirational mentor for well over a hundred PhD students and postdoctoral researchers, many of whom went on to very successful careers in academia and industry. His penetrating questions and insightful comments at national and international scientific meetings always made for lively and stimulating debate, and colleagues found that discussing science with him was always rewarding.<br>
+<br>Dalton had an immense zest for science and life in general. His extensive knowledge of Japanese garden design resulted in the creation of two fine gardens on the University of Warwick campus. He was a keen sportsman and played with distinction in the Rowington village cricket side (once, though exceptionally, taking eight for fifteen). A lifelong Spurs supporter, he was in his early days at Warwick a regular member of the biological sciences football team, aptly named &#145;Biohazard&#146;, which in the 1970s played a memorable friendly match against the Saudi Arabia national team. He also had a great passion for real tennis and was a member of Leamington Real Tennis Club where his competitive spirit, guile, and ability won him many tournaments. It was there, while playing in a friendly doubles tournament, that he suffered a heart attack on 12 January 2008; he was declared dead at Warwick Hospital later the same day. He had just returned from a month in the Gambia assisting his wife, Kira, in her extensive humanitarian work, setting up new medical centres and schools there. He was survived by her, their two children, and his two stepsons.<br>
+<br>Colin Murrell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em><i>Daily Telegraph</i></em> (15 Jan 2008) &middot; <em><i>The Times</i></em> (16 Jan 2008) &middot; <em><i>The Independent</i></em> (19 Jan 2008) &middot; <em><i>The Guardian</i></em> (25 Jan 2008) &middot; <em><i>Microbiology Today</i></em> (May 2008) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99840&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2008) &middot; personal knowledge (2012) &middot; private information (2012) &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> obituary photographs<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;601,028: probate, 10 April 2008, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Colin Murrell, &#145;<span class="roman"><span class="headword">Dalton, Sir  Howard</span>  (1944&#150;2008)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2012 [http://www.oxforddnb.com/view/article/99840, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Howard Dalton (1944&#150;2008): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/99840 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

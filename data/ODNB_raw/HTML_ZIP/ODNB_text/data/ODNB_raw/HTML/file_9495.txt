@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9495;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9495-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9495-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9495#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Fisher,  George</span>  (1794&#150;1873), <span class="occ">astronomer</span>, was born on 31 July 1794 at Sunbury, Middlesex, a son of James Fisher (<i>d</i>. 1797), surveyor, and his wife, Henrietta. One of a large family left to the care of a widowed mother, he received little early education before joining the Westminster Insurance Company at the age of fourteen. There his perseverance at mundane tasks won him the respect and rewards of his employers. His scientific aspirations had, however, been fostered by Sir Humphry Davy, Sir Joseph Banks, Sir Everard Home, and other eminent men, and he entered St Catharine's College, Cambridge, in 1816, graduating BA in 1821 and MA in 1825. His studies were interrupted by serious illness, which continued to plague him in later years, and by his appointment, on the recommendation of the Royal Society, as one of the astronomers to the Admiralty's Arctic expedition of 1818.<br>
+<br>This expedition was dispatched in response to reports from Greenland whalers of open water extending much further north than in previous years. Four ships were sent out, two in search of a north-west passage, the other two, HMS <i>Dorothea</i>, on which Fisher sailed, and HMS <i>Trent</i>, being directed to sail past Spitsbergen towards the pole, in the hope of finding a passage to the Bering Strait. Before they returned, defeated by ice and bad weather, Fisher set up an observatory to establish the correct position of Spitsbergen; he had made a series of gravity pendulum experiments there, which he used to calculate the degree to which the earth was flattened at the poles. He also measured the effect of shipboard iron on the going rate of the chronometers, a matter of vital concern to navigators. His findings were read to the Royal Society in 1820.<br>
+<br>After taking orders Fisher formally entered the Royal Navy, being appointed acting chaplain and astronomer to William Edward Parry's expedition in search of the north-west passage in 1821&#150;3. A portable observatory, embarked on HMS <i>Fury</i>, was set up, first at Winter Island, later at Igloolik, on Melville peninsula. Parry testified to the &#145;unabated zeal and perseverance&#146;  (Parry, <span class="italic">Journal</span>, xviii) with which Fisher, despite frequent illness, pursued numerous wide-ranging experiments. Those of value to navigators in high latitudes included comparative tests of compasses, and numerous observations to determine refraction when stars were observed near the horizon in very cold weather. Fisher took advantage of the extremely low temperature to measure the contraction of a series of bars of different metals, and the behaviour of various chemicals. He also measured the velocity of sound. Fisher's naval service continued in HMS <i>Spartiate</i>, 1827&#150;30, and in HMS <i>Asia</i> in 1831, posted in the Mediterranean and in Portuguese waters. In 1832&#150;3 he was assigned to HMS <i>Victory</i> at Portsmouth, after which he retired on half pay.<br>
+<br>Fisher was elected a fellow of the Royal Society in 1825, and of the Astronomical Society in 1827, where he served several times as vice-president and was a member of council from 1835 to 1863. He was elected fellow of the Royal Geographical Society in 1830 but resigned in 1840. His ideas concerning the aurora borealis were conveyed in 1834 to the Royal Society, which declined to publish them, as his paper &#145;has so few facts&#146;  (W. H. Pepys, RS, RR 1.67&#150;8), and to the British Association in Cambridge in 1835. Fisher adhered to the general belief that the aurora was an electrical phenomenon, but, like his contemporaries, had no inkling of its true origin as a stream of ionized solar particles made visible on reaching the atmosphere. He supposed that it originated in mid-atmosphere, caused by the abrupt changes in temperature and humidity above the polar ice margin, which accounted for its circumpolar distribution.<br>
+<br>In 1834 Lord Auckland, as first lord of the Admiralty, offered Fisher the choice between the living of Falstone in Northumberland or the chaplaincy and headmastership of Greenwich Hospital school. Fisher accepted the latter. About this time he married Elizabeth Alicia Woosnam; they had two daughters, the eldest of whom was the nurse <script>writeSeealsoLink('../view/article/61790/', "Alice Fisher")</script>, and a son. During Fisher's headship he raised the school from its previous low state to be the best of its kind. He wrote textbooks on algebra and geometry to introduce modern methods into the school and he planned and superintended its astronomical observatory, observing there the solar eclipse of 18 July 1860, the year in which he became principal.<br>
+<br>Fisher retired in 1863, sold many of his books, and moved to Rugby, Warwickshire, where he died at 19 Hillmorton Road on 14 May 1873. An obituarist described him as &#145;Always of a singularly childlike and contented disposition, the companionship of those dearest to him and his books were all he needed for happiness&#146;  (<span class="italic">Monthly Notices of the Royal Astronomical Society</span>).<br>
+<br>Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>NMM, Fisher MSS, FIS/7, FIS/23 &middot; <em>Monthly Notices of the Royal Astronomical Society</em>, 34 (1873&#150;4), 140&#150;44 &middot; <em>Report of the British Association for the Advancement of Science</em> (1845), sections 22&#150;5 [abstract] &middot; <em>Navy List</em> (1821&#150;33) &middot; parish register (births), St Alphege, Greenwich &middot; F. W. Beechey, <i>A voyage of discovery towards the North Pole</i> (1843), 132, 333&#150;8 &middot; W. E. Parry, <i>Journal of a second voyage for the discovery of a north-west passage from the Atlantic to the Pacific</i> (1824) &middot; W. E. Parry, <i>Appendix to Captain Parry's journal of a second voyage for the discovery of a north-west passage from the Atlantic to the Pacific</i> (1825), 1&#150;284 &middot; parish register (birth), 31 July 1794, Sunbury<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9495&amp;istheme=&amp;target=NMM')">NMM</a>, log books, journals, and papers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;1000: probate, 24 June 1873, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Anita McConnell, &#145;<span class="roman"><span class="headword">Fisher,  George</span>  (1794&#150;1873)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2014 [http://www.oxforddnb.com/view/article/9495, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Fisher (1794&#150;1873): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9495 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/9495/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,384 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1146;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1146-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1146-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1146#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:260px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=01146&amp;orientation=l')"><img border="0" alt="  Robert Bakewell (1725&#150;1795), by John Boultbee, c.1788&#150;91" onmouseover="status='  Robert Bakewell (1725&#150;1795), by John Boultbee, c.1788&#150;91'" src="/images/article-imgs/1/01146_1_200px.jpg"></a><span class="imagecaption"><b>  Robert Bakewell (1725&#150;1795)</b>, by John Boultbee, <em>c.</em>1788&#150;91</span>
+</div>
+<div class="para">
+<span class="headword">Bakewell,  Robert</span>  (1725&#150;1795), <span class="occ">stock breeder and farmer</span>, was born at Dishley Grange, Dishley (otherwise Dixley), near Loughborough, Leicestershire, on 23 May 1725. His father, also a farmer, had been born at the same place and rented a farm there of 440 acres. About 1755 Robert Bakewell, having qualified himself for experiments in husbandry and cattle breeding by visiting farms in the west of England and other parts of the country, took charge of the farm on the failure of his father's health; he succeeded to the entire management of it on his father's death in 1760.<br>
+<br>As a stock breeder Bakewell aimed at obtaining a better breed of sheep and cattle, and he succeeded in producing the new Leicester breed of sheep&#151;small-boned, barrel-shaped animals which fattened rapidly and were highly profitable, having a high proportion of meat to the less valuable parts of the carcass. Bakewell also produced the Dishley cattle, called the new Leicestershire longhorn, &#145;a small, clean-boned, round, short-carcased, kindly-looking cattle, inclined to be fat&#146;  (Culley, 26); and he produced a breed of black horses, remarkable for their strength in harness on the farm, and for their utility in the army. He was the first to carry on the trade of hiring out rams and bulls on a large scale, and he established a club, the Dishley Society, for the express object of ensuring purity of breed. By 1770 his rams fetched 25 guineas, and a few years later he was making &pound;3000 a year by their hire, deriving in one year from one particular ram, known as Two-pounder, as much as 1200 guineas. Many of the present humane notions regarding animals were anticipated by Bakewell, his stock being treated with marked kindness; even his bulls were remarkable for their obedience and docility.<br>
+<br>In Bakewell's experiments on feeding and housing stock he was as bold as in breeding. He stood first in the kingdom &#145;as an improver of grass-land by watering&#146;  (Marshall, 284 ff.); he flooded his meadows, making a canal of a mile and a quarter in length, and was able by means of irrigation to cut grass four times a year. By means of double floors to his stalls, he collected farm refuse and diluted it for liquid manure. On these accounts Bakewell received many distinguished visitors. All were shown the boats in which he carried some of his crops; his wharf for these boats; his plan of conveying his turnips about the farm by water; his teams of cows instead of oxen; his own design of plough; and his collection of animal skeletons, and carcasses (in pickle), for testing where breeds varied in bone and flesh.<br>
+<br>Bakewell's achievements as a pioneer of selective breeding were not quite so extraordinary as has been supposed. For centuries attempts had been made to improve stock by crossing it with animals that had the desired characteristics, and before Bakewell the emphasis in sheep breeding had already moved towards a concern with the carcass. Another midland breeder, Joseph Allom, had already made some progress, and in Bakewell's time there were a score of well-known breeders in the midlands alone who were engaged in the improvement of sheep. Similarly, Bakewell's experiments with cattle were based on Lancashires; this breed had already been improved by Webster of Canley, near Coventry.<br>
+<br>Bakewell's fame owed something to his farm and his horses and pigs; he received publicity from two of the leading agricultural writers of the day, Arthur Young and William Marshall, and he had an extensive correspondence and travelled widely, visiting other leading breeders and farmers. He was as lavish with his hospitality to visitors as he was niggardly in explaining his methods. (It is generally believed that the new Leicester sheep were derived from a cross between the Lincoln and Ryeland breeds.)<br>
+<br>The advantages of Bakewell's sheep were partially offset by an inferior fleece and a propensity to put on fat if not slaughtered at two years old. Consequently their mutton was &#145;too fat for genteel tables&#146; and not inviting &#145;to weak appetites&#146;, being better suited to the needs of working people  (Culley, 108). Further, the new breed was not prolific, and was unsuited to exposed terrain. Bakewell's new longhorn cattle were even more defective, putting on masses of fat but failing to yield the good milk and exhibit the fecundity of the original stock. They became obsolete within a generation, after Bakewell's death, being superseded by Charles Colling's Durham shorthorns. Even in his own county, Bakewell's sheep gave way to Lincoln and Leicester cross-breeds, which had an even greater aptitude for early fattening and less of the undesirable characteristics of the new Leicesters. However, although it disappeared as a separate breed, the new Leicester did play a major part in the improvement of British and overseas breeds of longwool sheep. Bakewell helped to lay the foundations of an important industry producing pedigree stock for home and overseas markets, and his principle of breeding &#145;in and in&#146; had an early influence in the development of the ideas of Charles Darwin.<br>
+<br>In appearance, Bakewell resembled the popular idea of the English yeoman: &#145;a tall, broad-shouldered, stout man of brown-red complexion, clad in a brown coat, scarlet waistcoat, leather breeches and top-boots&#146;  (Prothero, 184). He died at home, unmarried, on 1 October 1795, aged seventy, and was buried at Dishley. His nephew succeeded to his farm, which maintained its reputation for some years.<br>
+<br>Jennett Humphreys<span class="italic">, rev. </span> G. E. Mingay </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Thirsk, ed., <i>The agrarian history of England and Wales</i>, 6, ed. G. E. Mingay (1989), 317&#150;18, 338&#150;43, 352 &middot; J. Thirsk, ed., <i>The agrarian history of England and Wales</i>, 5/1 (1984), 100, 109, 321 &middot; J. Thirsk, ed., <i>The agrarian history of England and Wales</i>, 5/2 (1985), 578 &middot; R. Trow-Smith, <i>A history of British livestock husbandry, 1700&#150;1900</i>, 2 (1959), 26&#150;9, 36, 54&#150;64 &middot; R. Trow-Smith, <i>English husbandry</i> (1951), 156, 164&#150;6, 170 &middot; R. E. Prothero, <i>English farming past and present</i>, ed. D. Hall, 6th edn (1961), 184&#150;8 &middot; H. C. Pawson, <i>Robert Bakewell</i> (1957) &middot; G. Culley, <i>Observations on live stock</i>, 4th edn (1807), 26, 108 &middot; W. Marshall, <i>The rural economy of the midland counties</i>, 1 (1790), 270, 284&#150;5, 292&#150;493 &middot; A. Young, <i>The farmer's tour through the east of England</i>, 1 (1771), 102&#150;35 &middot; A. Young, <i>On the husbandry of three celebrated British farmers, Messrs. Bakewell, Arbuthnot and Ducket</i> (1811) &middot; A. Young, ed., <i>Annals of agriculture and other useful arts</i>, 6 (1786), 466&#150;98 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1146&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 63 (1793), 792 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1146&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 65 (1795), 969&#150;70 &middot; J. Monk, <i>General view of the agriculture of Leicestershire</i> (1794) &middot; W. Youatt, <i>On cattle</i> (1834), 192, 196, 208<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1146&amp;istheme=&amp;target=E.%20Sussex%20RO')">E. Sussex RO</a>, letters to first earl of Sheffield
+   &middot;
+ U. Newcastle, Robertson Library, letters to George Culley<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Boultbee, oils, <i>c.</i>1788&#150;1791, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1146&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; F. Engleheart, line print, pubd 1842, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1146&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. Boultbee, oils, Leicester Museum and Art Gallery &middot; oils, Offices of Royal Agricultural Society of England, London<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jennett Humphreys, &#145;<span class="roman"><span class="headword">Bakewell,  Robert</span>  (1725&#150;1795)</span>&#146;, rev. G. E. Mingay, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/1146, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Bakewell (1725&#150;1795): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1146 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

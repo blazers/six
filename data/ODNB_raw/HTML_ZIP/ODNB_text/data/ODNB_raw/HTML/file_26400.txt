@@ -1,0 +1,429 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 26400;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/26/26400-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/26/26400-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=26400#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=26400&amp;orientation=p')"><img border="0" alt="  Robert Stephenson (1803&#150;1859), by unknown photographer, c.1851" onmouseover="status='  Robert Stephenson (1803&#150;1859), by unknown photographer, c.1851'" src="/images/article-imgs/26/26400_1_200px.jpg"></a><span class="imagecaption"><b>  Robert Stephenson (1803&#150;1859)</b>, by unknown photographer, <em>c.</em>1851</span>
+</div>
+<div class="para">
+<span class="headword">Stephenson,  Robert</span>  (1803&#150;1859), <span class="occ">railway and civil engineer</span>, was born on 16 October 1803 at Willington Quay, near Newcastle upon Tyne, the only son of <script>writeSeealsoLink('../view/article/26397/', "George Stephenson (1781&#150;1848)")</script>, colliery and railway engineer, and his wife, Frances Henderson (1769&#150;1806), a farm servant. In 1804, after his father's appointment as brakesman to the West Moor colliery engine, the family moved to Killingworth, where on 14 May 1806 Stephenson's mother died of consumption.<h2>
+<a name="Earlylife"></a>Early life</h2>Stephenson's first elements of education were acquired at Tommy Rutter's village school at Long Benton. In 1814 his father, regretting his own limited education, decided that Stephenson should obtain formal instruction. As a salaried employee of the &#145;grand allies&#146;, a combination of aristocratic and gentry colliery owners, Stephenson senior had the means at his disposal and he sent his son to Bruce's academy at Newcastle upon Tyne and made him a member of the Newcastle Literary and Philosophical Society. On leaving school in 1819 Stephenson was apprenticed to Nicholas Wood, viewer of Killingworth colliery. In 1821 he assisted his father in the survey of the Stockton and Darlington Railway, and then in 1822 spent six months studying natural philosophy, chemistry, and natural history at Edinburgh University. There he met, as a fellow student, his lifelong friend and fellow engineer, George Parker Bidder, with whom he afterwards carried on much of his professional work.<br>
+<br>On leaving Edinburgh, Stephenson settled in Newcastle upon Tyne to manage Robert Stephenson &amp; Co., the famous locomotive building establishment which his father had founded there in 1823 to build stationary and locomotive engines with his partners Edward Pease, Thomas Richardson, and Michael Longridge. Within a year, however, Stephenson had left England on a three-year engagement as engineer to the Colombian Mining Association, charged with the responsibility of leading an expedition to establish gold and silver mines in the area of Santa Ana on the Magdalen River in Colombia. The reasons for Stephenson's decision to leave Newcastle are unclear, historical speculation having focused on health problems and a possible rift with his father. What is certain is that the Colombian venture was funded in part by Thomas Richardson, a wealthy Quaker financier, a shareholder in the Stockton and Darlington Railway, and partner in Robert Stephenson &amp; Co. It seems reasonable to presume, therefore, that Richardson was in some way connected with Stephenson's decision to leave.<h2>
+<a name="Railwayengineering"></a>Railway engineering</h2>Stephenson left England in June 1824, and was absent for three years, creating problems for the company. In 1827, however, deficiencies in the financial management of Robert Stephenson &amp; Co., together with poor scheduling of contracts, led to a request for him to return; on the journey home he met <script>writeSeealsoLink('../view/article/27723/', "Richard Trevithick")</script>, one of the early pioneers of steam traction, also on his way back to England, a penniless, broken man. Stephenson reached England in the midst of the controversy as to the most suitable system of traction for use on the projected Liverpool and Manchester Railway. The famous <i>Rocket</i> locomotive was eventually built under his direction at the Newcastle works; the manufacture of its innovative multitubular boiler plates gave rise to considerable difficulties before they were overcome. Most of the improvements in locomotive technology and methods of production achieved by Robert Stephenson &amp; Co. in the 1830s were due to Robert Stephenson's own engineering skill and ability. In the Rainhill locomotive trials, held in October 1829, to determine the best means of propulsion on the Liverpool and Manchester line, the <i>Rocket</i> was the outright winner, conforming fully to the Liverpool and Manchester company's engineering specifications and exceeding them generously in terms of performance.<br>
+<br>From 1827 to the early 1830s Stephenson assisted his father generally in the civil engineering of the Liverpool and Manchester line, in the Leicester and Swannington line, and in other minor lines. From 1833 onwards, however, he began to establish a reputation in railway engineering and surveying independent of his father. Indeed, immediately after the opening of the Liverpool and Manchester Railway, he took the major responsibility for surveying the line of the proposed London and Birmingham Railway. This was an ambitious project, providing for more than 100 miles of double track, traversing numerous roads and canals and entailing the construction of a sequence of complex cuttings and tunnels. Stephenson was ultimately appointed chief engineer at a salary rising from &pound;1500 to &pound;2000 per annum. Opening for traffic in 1838 (by which time the Grand Junction Railway continuing the line northwards from Birmingham was under construction), the London and Birmingham Railway was an engineering triumph: there had been substantial cost overruns in response to significant underestimates for heavy engineering works. Stephenson's success in dealing with the quicksand and ground water problems encountered in driving Kilsby Tunnel is one of the great civil engineering achievements of the early railway age. There can be little doubt that construction costs would have been higher but for Stephenson's superb organizational skills. In this respect, his detailed and precise drawings set standards for subsequent railway contracts, as did his ability to recruit assistants of the calibre of John Birkinshaw, G. W. Buck, John Crossley, Frank Forster, and T. L. Gooch. Known as the &#145;Stephensonites&#146;, they were bound to Stephenson by ties of loyalty and shared expertise.<br>
+<br>In the 1840s Stephenson joined with his father as an active participant in the &#145;battle of the gauges&#146; which was fought out in parliament, and also in the struggle between the rival advocates of the locomotive and of the atmospheric system. In both contests he deployed a powerful and clear intellect to justify the technological choices which subsequent experience demonstrated to be the right ones. From 1838 until the end of his life he was engaged on railway work, not only in Great Britain, but all over the world; railways were constructed either under his own direct supervision or under his advice which later became the trunk lines of the countries in which they were laid down. It is also pertinent to note that the principal classes of locomotive produced by Robert Stephenson &amp; Co. before 1850 became the dominant types, at least in Great Britain, where the quality of their design, construction, and performance, was of a sufficiently high order to defeat rival schools of locomotive building. Notable among Stephenson locomotives was the long-boilered engine in which all wheels were placed ahead of the firebox so that there was no restriction on its size. Unsuitable for main line express service, the type was remarkably successful in the carriage of heavy freight where a reservoir of steaming capacity could be used with advantage.<br>
+<br>By the later 1830s Stephenson had amassed a small personal fortune as a result of his professional fees as an engineer and the receipt of profits from Robert Stephenson &amp; Co. Ironically, it was the failure of a relatively obscure railway project with which he had been associated in the earlier part of the decade which very nearly resulted in his financial ruin. This was the Stanhope and Tyne Railway, completed in 1834 and linking the limestone quarries of Upper Weardale with the port of South Shields. Built on the wayleave principle (the private purchase of land) rather than via an act of parliament, the company encountered financial difficulties almost from the outset on account of high wayleave rentals and the costs of operating a line which utilized every form of motive power then known. After the projection of the Brandling Junction Railway in 1835, the Stanhope and Tyne Railway was vulnerable to substantial loss of traffic, an eventuality which occurred in 1839. By that time the latter was in a parlous financial condition and although this situation was known to Stephenson in his capacity as a shareholder, he assumed that his personal liability extended only to the amount of his fee. In December 1839, however, he received a demand for non-payment of an account by the Stanhope and Tyne company on behalf of an aggrieved creditor. On consulting his solicitor, Charles Parker, Stephenson discovered that as a shareholder in an unincorporated company, his personal liability was limitless, all the more so since he had been identified as a relatively wealthy investor in the company. In the event, the Stanhope and Tyne line and its debts were taken over by a new incorporated company&#151;the Pontop and South Shields Railway, capitalized at &pound;400,000. Stephenson himself contributed &pound;20,000, a sum obtained in part by the sale of half his interest in Robert Stephenson &amp; Co. to his father.<h2>
+<a name="Railwaybridges"></a>Railway bridges</h2>The greatest civil engineering works which Stephenson carried out were his railway bridges, constructed on a scale sufficient by themselves to guarantee his professional reputation in perpetuity. The high-level bridge over the Tyne at Newcastle and the Royal Border Bridge at Berwick were two of his earliest and most successful examples of this branch of engineering. In the design of both he was assisted by T. E. Harrison. The former, carrying two levels of decking for the railway and road traffic, traversed a 100 foot deep valley entailing the construction of four spans over the river. It comprised six bowstring truss spans each of 125 feet. Bridges of this form had been used by Stephenson on the London and Birmingham Railway. Steam hammers supplied by James Nasmyth were used for the considerable foundations rammed into the river bed. Even more impressive was Stephenson's design for the Britannia Bridge over the Conwy and the Menai Strait. This was part of the Chester and Holyhead Railway project inaugurated in 1844. Paradoxically, this railway had represented the nadir of Stephenson's civil engineering career when the Dee Bridge failed on 24 May 1847 causing fatalities. Stephenson, as engineer of the bridge, was fortunate not to be charged with manslaughter. The bridge comprised nine cast iron girders in combination with wrought iron ties, which proved a flawed design. The failure gave further impetus to the development work for the Britannia Bridge. Eventually, in response to an Admiralty requirement for a 100 foot clear passage above the river, Stephenson after much research decided upon the &#145;tubular&#146; form. This entailed the construction of wrought iron tubes to encompass the railway track itself, with the tubes themselves providing the principal source of stability. It was this type of railway bridge which would always remain inseparably connected with Stephenson's name. Assisted by Eaton Hodgkinson and William Fairbairn, his designs were carefully worked out and every step tested by experiment, including the construction of a scale model subject to testing with weights. The engineers' efforts were eventually crowned with success when the Britannia Bridge was opened for traffic on 5 March 1850. Fairbairn later claimed to have been primarily responsible for the bridge's construction, and published his own account of the project in 1849.<br>
+<br>Stephenson proposed a bridge on similar lines&#151;the great Victoria Bridge over the St Lawrence River at Montreal, which was begun in 1854 and completed in 1859 after his death. With a span of 6650 feet it was for many years the longest bridge in the world. In connection with the Alexandria&#150;Cairo railway, which featured tubular spans, Stephenson also designed swing-bridges at Benha and Birket al-Saba. For his invention of the system of tubular-plate railway bridges Stephenson was awarded the gold medal of honour by the council of the Paris Exhibition of 1855.<br>
+<br>On 17 June 1829 Stephenson married Frances (1803&#150;1842), daughter of John Sanderson of London. There were no children, and Frances died at Hampstead on 4 October 1842, aged thirty-nine. On 30 July 1847 Stephenson was elected MP for Whitby. He represented the town until his death, being re-elected in July 1852, March 1857, and April 1859. He was a high tory and protectionist, believing that the adoption of free trade was an unwarranted leap in the dark, a paradoxical view, perhaps, for a person responsible for far-reaching economic and social changes consequent upon the development of railways. He rarely spoke in the house except on railway administration and engineering matters. In the latter respect, he was an opponent in the house of the Suez Canal scheme, in the belief that although it was technically feasible it was commercially unsound. In 1830 he became a member of the Institution of Civil Engineers, and a regular contributor to its discussions. He was eventually elected president, occupying the chair during 1856 and 1857. Although he declined a knighthood, he accepted numerous foreign distinctions, including the order of Leopold from the king of the Belgians in 1841 and the grand cross of St Olaf of Norway in 1848. He was elected FRS on 7 June 1849, and on 24 June 1857 he was created a DCL of Oxford University in company with his friend I. K. Brunel and Dr Livingstone.<h2>
+<a name="Deathandburial"></a>Death and burial</h2>For an individual of prodigious talents which were acknowledged publicly in his lifetime, Stephenson was remarkably modest and, unlike his father, lacking in self-confidence. Careless of his own health and inclined to overwork, he was unfailingly kind and considerate to subordinates. As a professional engineer he surpassed his father's achievements, notably in the field of civil engineering. The works that he accomplished were on an altogether larger scale than anything connected with his father and were characterized by an approach to design and construction rooted in the scientific method of careful observation and calculation. This applied also to the development of the locomotive after the innovation of the <i>Rocket</i>. Apart from his numerous reports on professional matters, Stephenson undertook little literary work, his only important work being the article &#145;Iron bridges&#146; for the <span class="italic">Encyclopaedia Britannica</span> (8th edn, 1853&#150;60).<br>
+<br>Stephenson's health had been unsatisfactory since at least the later 1840s, perhaps accounting for an increasing tendency towards melancholy and irritability. Afflicted by Bright's disease he was advised to stop all work in 1859 and embark on a cruise in his yacht <i>Titania</i>. In September 1859 he left for Norway, but after a temporary rally he rapidly grew worse following a severe attack of jaundice and was brought back in great haste to die at his own home at 34 Gloucester Square, London, on 12 October 1859. He was buried on 22 October in Westminster Abbey, by the side of Thomas Telford. With the assent of the queen, the funeral cort&egrave;ge was permitted to pass through Hyde Park: crowds lined the route and on the Thames, Tyne, Wear and Tees, all shipping displayed flags at half-mast. In Newcastle upon Tyne the 1500 employees of Robert Stephenson &amp; Co. were allowed to march through the streets to a memorial service at the church of St Nicholas. He was mourned generally throughout the engineering world.<br>
+<br>M. W. Kirby </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Smiles, <i>Lives of the engineers</i>, new edn, 5 (1874) &middot; J. C. Jeaffreson, <i>The life of Robert Stephenson</i>, 2 vols. (1864) &middot; L. T. C. Rolt, <i>George and Robert Stephenson</i><i>: the railway revolution</i> (1960) &middot; M. Robbins, <i>George and Robert Stephenson</i>, new edn (1981) &middot; H. Davies, <i>George Stephenson</i><i>: a biographical study of the father of the railways</i>, new edn (1977) &middot; J. G. H. Warren, <i>A century of locomotive building by Robert Stephenson &amp; Co., 1823&#150;1923</i> (1923) &middot; E. L. Ahrons, <i>The British steam railway locomotive, 1825&#150;1925</i> (1927) &middot; F. G. Dawson, <i>The first Latin-American debt crisis</i><i>: the City of London and the 1822&#150;1825 loan bubble</i> (1990) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1859) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=PICE')"><i>PICE</i></a>, 19 (1859&#150;60), 176&#150;82 &middot; M. R. Bailey, &#145;Robert Stephenson &amp; Co., 1823&#150;1829&#146;, <em>Transactions</em> [Newcomen Society], 50 (1978&#150;9), 109&#150;38 &middot; R. W. Rennison, &#145;The High Level Bridge, Newcastle: its evolution, design and construction&#146;, <em>Transactions</em> [Newcomen Society], 52 (1980&#150;81), 180&#150;207 &middot; E. Clark, <i>The Britannia and Conway tubular bridges</i> (1850) &middot; W. Fairbairn, <i>An account of the construction of the Britannia and Conway tubular bridges</i> (1849) &middot; N. Rosenberg and W. G. Vincenti, <i>The Britannia Bridge</i><i>: the generation and diffusion of technological knowledge</i> (1978) &middot; S. Smith, &#145;The development and use of the tubular beam, 1830&#150;1860&#146;, <em>History of Technology</em>, 14 (1992), 100&#150;34 &middot; H. R. Hitchcock, <i>Early Victorian architecture in Britain</i>, 2 vols. (1954) &middot; C. Legge, <i>A glance at the Victoria Bridge, and the men who built it</i> (1860) &middot; O. Carter, &#145;Francis Thompson, 1808&#150;95: an architectural mystery solved&#146;, <em>Back Track</em> (April 1995), 213&#150;18<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Durham%20RO')">Durham RO</a>, report on Seaham harbour
+   &middot;
+ Institution of Mechanical Engineers, London, corresp. and papers
+   &middot;
+ Liverpool Central Library
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Man.%20CL')">Man. CL</a>, Manchester Archives and Local Studies, corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, letters relating to Conwy bridge and letters to his parents
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, papers relating to his estate&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=CUL')">CUL</a>, corresp. with Sir George Airy
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Durham%20RO')">Durham RO</a>, letters to Edward Pease
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Durham%20RO')">Durham RO</a>, corresp. with W. T. Salvin
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a>, corresp. with E. Clark
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, letters to London Midland and Scottish Railway, RAIL 1008/90&#150;91
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=U.%20St%20Andr.%20L.')">U. St Andr. L.</a>, corresp. with James David Forbes
+   &middot;
+ University of Bristol, letters to I. K. Brunel
+   &middot;
+ University of Salford, corresp. with R. Badnall<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Lucas, oils, 1845, Philosophical Institute, Newcastle upon Tyne &middot; G. Richmond, engraving, 1849, repro. in Jeaffreson, <i>Life</i> &middot; J. Lucas, oils, 1850 (with father), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a> &middot; J. Lucas, oils, 1851, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a> &middot; daguerreotype, <i>c.</i>1851, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; Maull &amp; Polyblank, photograph, 1856, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. Lucas, group portrait, oils, <i>c.</i>1857, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a> &middot; H. Harral, woodcut, 1858 (after photograph by R. Howlett), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=NPG')">NPG</a> &middot; F. Holl, stipple, 1860 (after G. Richmond), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=BM')">BM</a> &middot; H. Phillips, oils, 1866, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a> &middot; H. Hana, woodcut (after photograph by R. Howlett, 1858), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. Lucas, group portrait, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a> &middot; J. Lucas, oils, U. Newcastle, department of civil engineering &middot; C. M. Mabey, marble bust (after E. W. Wyon, <i>c.</i>1855&#150;1856) &middot; C. Manochetti, bronze statue, Euston Square, London &middot; Mayall, photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=NPG')">NPG</a> &middot; H. W. Phillips, group portrait, oils (<i>The Royal Commissioners for the Great Exhibition, 1851</i>), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=V%26A')">V&amp;A</a> &middot; D. J. Pound, line engraving (after photograph by Maya II), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=NPG')">NPG</a> &middot; prints (after photographs by Claudet, Kilburn, and Mayall), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26400&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;400,000: probate, 26 Oct 1859, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">M. W. Kirby, &#145;<span class="roman"><span class="headword">Stephenson,  Robert</span>  (1803&#150;1859)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/26400, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Stephenson (1803&#150;1859): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/26400 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/26400/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

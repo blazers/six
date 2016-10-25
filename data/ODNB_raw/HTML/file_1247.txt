@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1247;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1247-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1247-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1247#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Balmyle,  Nicholas</span> <span class="st"> [Nicholas of St Andrews]</span>  (<em>d.</em> 1319/20), <span class="occ">administrator and bishop of Dunblane</span>, first appears on record, described as master, in 1259. Balmyle may be derived from one of two places in Perthshire. Neither his date of birth nor his place of study is known. He is rarely mentioned before the 1280s and 1290s, during which time he is variously recorded as official of the archdeacon of St Andrews, vicar of Haddington, and, when he did homage to Edward I in 1296, parson of Calder-Comitis, Edinburghshire. In 1297, as the bishop's official, he was appointed by the chapter to administer the diocese during its vacancy following the death that year of Bishop William Fraser, and probably continued to do so until the new bishop, William Lamberton (<i>d</i>. 1328), returned from the continent in 1299.<br>
+<br>In the latter part of 1292 Balmyle joined the auditors for John Balliol in the Great Cause, and in 1293 he attended the king's first parliament. By 31 January 1301 he had become chancellor of Scotland, perhaps through the influence of Bishop Lamberton, who was a guardian in 1299&#150;1300. His appointment coincided with a change in the diplomatic and seal of acts of the government to re-emphasize the authority of King John: acts were again issued in John's name, not those of the guardians, and the obverse of the seal bore the king's name and title. In 1301 Balmyle was one of a delegation to Canterbury to discuss peace terms with English and French representatives; he may also have helped to draw up the brief for Baldred Bisset's diplomatic mission that year to Boniface VIII (<i>r</i>. 1294&#150;1303), two members of which were known to him as St Andrews clerics. He may have remained chancellor until 1305.<br>
+<br>When Balmyle was elected bishop of Dunblane, between January 1306 and December 1307, he was already a canon, perhaps appointed by Bishop Alpin, a former St Andrews cleric who had been auditor for King John and treasurer in his government. Robert I may have favoured the election of Balmyle as a patriot, but one of the electors, William Eaglesham, may have been acting on behalf of Lamberton, and would have known Balmyle from St Andrews. Balmyle was subsequently consecrated at the papal court at Poitiers by the bishop of Ostia.<br>
+<br>Balmyle's career illustrates the influence of St Andrews clergy in Scottish affairs. His importance lies in the key role which he played in the patriotic cause during the struggle against the English crown. His support for King John continued after 1296, when he acted as chancellor and diplomat. With the guardian John Soulis (<i>d</i>. 1321) (perhaps appointed directly by the king) and Lamberton, he constituted a government which saw the national cause as bound up with the restoration of the rightful king, and hoped to achieve it by diplomacy with papal support. Like Lamberton, Balmyle may have found it difficult to change allegiance to Robert I: although he put his seal to ecclesiastical declarations of support for Robert (in 1310 and between 1314 and 1316) and may have attended the parliament of 1309, he witnessed only six royal acts before his death, which occurred between 8 February 1319 and 30 January 1320. He and the other bishops probably saw Robert as the only man who could secure and maintain independence.<br>
+<br>Norman F. Shead </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. E. R. Watt, <i>A biographical dictionary of Scottish graduates to <span class="smallcap">AD</span> 1410</i> (1977) &middot; G. W. S. Barrow, <i>Robert Bruce and the community of the realm of Scotland</i>, 3rd edn (1988) &middot; G. W. S. Barrow, <i>The kingdom of the Scots</i><i>: government, church and society from the eleventh to the fourteenth century</i> (1973) &middot; J. Dowden, <i>The bishops of Scotland &hellip; prior to the Reformation</i>, ed. J. M. Thomson (1912), 201&#150;2 &middot; D. E. R. Watt, ed., <i>Fasti ecclesiae Scoticanae medii aevi ad annum 1638</i> [2nd edn], Scottish RS, new ser., 1 (1969) &middot; M. Ash, &#145;William Lamberton, bishop of St Andrews, 1297&#150;1328&#146;, <i>The Scottish tradition</i>, ed. G. W. S. Barrow (1974), 44&#150;55 &middot; A. Theiner, <i>Vetera monumenta Hibernorum et Scotorum historiam illustrantia</i> (Rome, 1864), 179 &middot; G. W. S. Barrow and others, eds., <i>Regesta regum Scottorum</i>, 5, ed. A. A. M. Duncan (1988) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1247&amp;istheme=&amp;target=CDS')"><i>CDS</i></a>, vols. 2&#150;3 &middot; E. L. G. Stones and G. G. Simpson, eds., <i>Edward I and the throne of Scotland, 1290&#150;1296</i>, 2 (1978), 85, 220<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Norman F. Shead, &#145;<span class="roman"><span class="headword">Balmyle,  Nicholas</span>   (<em>d.</em> 1319/20)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1247, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Nicholas Balmyle (<em>d.</em> 1319/20): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1247 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

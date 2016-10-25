@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17403;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17403-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17403-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17403#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">McCoy, Sir  Frederick</span>  (1821/2&#150;1899), <span class="occ">palaeontologist</span>, was born in Dublin, the second of three children of Simon Henry McCoy (1794/5&#150;1875), medical practitioner, and his wife, Bridget (1798/9&#150;1876). Although he initially studied for the medical profession, McCoy's consuming interest was in the natural sciences and this became his life's work. There were few periods throughout his career when he did not have some curatorial role in a natural history museum. During his late teens and early twenties he was employed to identify, arrange, and catalogue the fossil collections of the Geological Society of Dublin, the Royal Dublin Society, and Richard Griffith's geological survey of Ireland. In 1842 or 1843 he married Anna Maria (1819/20&#150;1886), daughter of Thomas Harrison, attorney, and his wife, Eliza. They had five children, only two of whom reached adulthood: Emily Mary (1842&#150;1891) and Frederick Henry (1843&#150;1887).<br>
+<br>In 1845 McCoy joined the geological survey of Ireland as an assistant field geologist. He resigned late in 1846 and was then invited by Adam Sedgwick, professor of geology in Cambridge University, to classify and catalogue the geological museum's fossil collection. This occupied him full-time until 1849 when he was appointed to the foundation chair of geology and mineralogy in Queen's College, Belfast, and made curator of its museum. During this period he returned to Cambridge each summer to complete his work for Sedgwick, who described him in a letter to Roderick Murchison, dated 6 October 1851, as &#145;an excellent naturalist, an incomparable and most philosophical palaeontologist, and one of the steadiest and quickest workmen that ever undertook the arrangement of a Museum&#146;  (Clark and Hughes, footnote to p. 194).<br>
+<br>McCoy was appointed foundation professor of natural science in the University of Melbourne in 1854 and director of the Museum of Natural and Applied Sciences in 1857, either of which would have been a full-time job for a man of lesser drive and capacity. Contemporaries described him as: &#145;strongly built and ruddy of countenance&#146;; &#145;though somewhat peppery when thwarted, he was really warm-hearted and friendly&#146;  (Scott, 34). When, in 1856, the Victorian government moved to disband the small public museum it had set up in 1854, McCoy persuaded it, against strong opposition from the Philosophical Institute, to re-establish the museum in the grounds of the university. A separate building was provided in 1862 and the public museum remained there under McCoy's stewardship until his death. He was also state palaeontologist, served on a number of royal commissions, and was an active member of many learned societies.<br>
+<br>McCoy saw museums as &#145;the most ready and effectual means of communicating the knowledge and practical experience of the experienced few to the many&#146;  (<span class="italic">The Argus</span>, 29 May 1857). Typically, he put this vision into practice by providing scale models of gold-mining tools, plant, and equipment for the enlightenment of &#145;new-chum&#146; miners making their way through Melbourne to the goldfields.<br>
+<br>Government funding for the museum was always niggardly and the governing trustees hostile. McCoy, almost single-handedly, built up the collection over four decades, mainly by trading Australia's unique flora and fauna with museums around the world. At his death, the museum contained over 500,000 specimens and was internationally recognized. McCoy was one of Australia's principal scientists of his time.<br>
+<br>As an academic McCoy was less successful and arguably his major achievement at the university was the establishment of a systematic botanic garden that was a key resource for the study of botany and medicine. McCoy lectured in chemistry, mineralogy, botany, anatomy, physiology of animals, zoology, and geology. For the first decade his lectures were well attended, but as the years went by and McCoy aged and sickened, his popularity with the students waned and they complained of irrelevance, an excess of theory, and insufficient practice in his subjects.<br>
+<br>McCoy's professional achievements were recognized and honoured widely. He was fellow of the Geological Society of London (1852), winner of its Murchison medal (1879), honorary member of the Cambridge Philosophical Society (1853), fellow of the Royal Society (1880), CMG (1886), DSc (Cambridge) <i>honoris causa</i>&#151;the first recipient (1886)&#151;and KCMG (1891); he also received a number of awards and decorations from other European countries. He wrote seminal works on the palaeontology of Ireland and of Great Britain, and the palaeontology and zoology of Victoria, Australia, and he was a prolific contributor to learned journals.<br>
+<br>Born a Roman Catholic, McCoy joined the Church of England some time between 1846 and 1854. He died of renal failure on 13 May 1899 at his home, Maritima, 45 South Road, Brighton, Melbourne, and was buried on 15 May in the Anglican section of Brighton cemetery, Melbourne. Inconclusive evidence suggests that he made a deathbed recantation.<br>
+<br>Malcolm Carkeek </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Mitchell L., NSW, McCoy correspondence, CY reel 499 &middot; Museum of Victoria, Melbourne, archives &middot; University of Melbourne archives &middot; CUL, Sedgwick MSS &middot; GS Lond. &middot; Geological Survey of Ireland, Dublin, archives &middot; G. L. Herries Davies, <i>Sheets of many colours</i><i>: the mapping of Ireland's rocks, 1750&#150;1890</i> (1983) &middot; T. W. Moody and J. C. Beckett, <i>Queen's, Belfast, 1845&#150;1949</i><i>: the history of a university</i>, 2 vols. (1959) &middot; E. Scott, <i>A history of the University of Melbourne</i> (1936) &middot; J. W. Clark and T. M. Hughes, <i>The life and letters of the Reverend Adam Sedgwick</i>, 2 vols. (1890) &middot; R. T. M. Pescott, <i>Collections of a century</i><i>: the history of the first one hundred years of the National Museum of Victoria</i> (1954) &middot; N. H. Olver and G. Blainey, <i>The University of Melbourne</i><i>: a centenary portrait</i> (1956) &middot; R. W. Home, ed., <i>Australian science in the making</i> (1988) &middot; A. Moyal, <i>A bright and savage land</i> (1986) &middot; d. cert. [Simon Henry McCoy]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Geological Survey of Ireland, Dublin, corresp. and MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17403&amp;istheme=&amp;target=GS%20Lond.')">GS Lond.</a>, corresp. and MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17403&amp;istheme=&amp;target=Mitchell%20L.%2C%20NSW')">Mitchell L., NSW</a>, corresp. and MSS, CY reel 499
+   &middot;
+ Museum of Victoria, Melbourne, corresp. and MSS
+   &middot;
+ University of Melbourne, corresp. and MSS&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17403&amp;istheme=&amp;target=CUL')">CUL</a>, department of manuscripts and university archives, Sedgwick MSS, corresp. and MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> oils, Museum of Victoria, Melbourne<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;6873: undated newspaper cutting<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Malcolm Carkeek, &#145;<span class="roman"><span class="headword">McCoy, Sir  Frederick</span>  (1821/2&#150;1899)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2010 [http://www.oxforddnb.com/view/article/17403, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Frederick McCoy (1821/2&#150;1899): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17403 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/17403/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

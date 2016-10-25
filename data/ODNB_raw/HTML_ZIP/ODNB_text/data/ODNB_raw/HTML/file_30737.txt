@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30737;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30737-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30737-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30737#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Besicovitch,  Abram Samoilovitch</span>  (1891&#150;1970), <span class="occ">mathematician</span>, was born at Berdyansk, on the Sea of Azov, on 24 January 1891, the fourth child of the family of four sons and two daughters of Samoil Abramovitch Besicovitch and his wife, Eva Ilinichna Sauskan. The family was descended from Karaite Jews, a breakaway sect who accepted the written but not the oral Jewish tradition. Samoil Besicovitch was a jeweller but, after losses by theft, he gave up his shop and became a cashier. All the children were talented and studied at the University of St Petersburg, the older ones in turn earning money and helping to support the younger. Abram Besicovitch graduated in 1912, one of his teachers having been A. A. Markov, who encouraged him to research in probability.<br>
+<br>The last university to be opened before the revolution in Russia was at Perm near the Ural Mountains, established in 1916 as a branch of the University of St Petersburg. In 1917 it became autonomous, and Besicovitch became a professor in the school of mathematics. After Soviet power was established in Perm the university developed rapidly; at the end of the summer of 1918 the Perm Physics and Mathematics Society was founded and started to publish a journal.<br>
+<br>The Russian civil war brought severe hardship in 1919. In 1917 the Japanese mathematician S. Kakeya had posed the following problem:<blockquote>Let U=AB be a unit segment in the plane. We are to move U from its original position AB so as to bring it back to its original position with its end points reversed, so that the final position is BA, and during this motion U should sweep out the least possible area.</blockquote>In the winter of 1919, when there was no fuel, Besicovitch worked on, and solved, another essentially equivalent problem. He held his feet in a box filled with straw to keep warm, and came to the conclusion that the switching of the end points of U can be done within an arbitrarily small area. On the strength of this work he was elected in 1920 to a professorship at the University of Leningrad.<br>
+<br>In the early 1920s Besicovitch was offered a Rockefeller fellowship to work abroad, but his repeated requests to accept this offer were refused by the Soviet authorities. In 1924 he made plans to leave Russia illegally. Originally it was intended that three academics, A. A. Friedmann (famous for his theory of the expanding universe), J. D. Tamarkin, another mathematician, and Besicovitch should be smuggled out together. Friedmann's wealthy father supported the operation, but Friedmann dropped out at the last minute, and died a few months later of typhoid; Tamarkin and Besicovitch crossed safely into Latvia.<br>
+<br>From Latvia, Besicovitch proceeded to Copenhagen, where he used the Rockefeller fellowship to work with Harald Bohr on almost periodic functions. While there Besicovitch visited Oxford, staying for some months in New College with G. H. Hardy who was quick to see his great analytical powers and secured for him a lectureship in the University of Liverpool for 1926. At the earliest opportunity in 1927 Cambridge appointed him a lecturer in the university, in 1928 he became Cayley lecturer, and in 1930 he was elected a fellow of Trinity College; he remained a fellow to the end of his life. He was naturalized in 1931.<br>
+<br>In 1916 Besicovitch had married a mathematician, Valentina Vitalyevna, daughter of Vitaly Doynikov, an administrator. She remained in Russia when he left. There were no children and the marriage was dissolved in 1926. A friend from Perm days, Mariya Ivanova, widow of a mathematician, Aleksandr Denisov, settled in England, and on 5 December 1928 Besicovitch married her elder daughter, Valentina Aleksandrovna, then aged seventeen. They had no family and it was the children of his friends who, throughout his life, enjoyed his affection.<br>
+<br>Besicovitch participated enthusiastically in Cambridge academic and social life. He organized his family life so that he could dine in the masculine setting of high table every evening, and drink port after dinner in the senior common room with bachelors G. H. Hardy and J. E. Littlewood and other Trinity intellectuals. As college lecturer he took a great personal interest in the undergraduates, and in the early 1940s when Winchester public school (which specialized in high-grade mathematics teaching) sent to Trinity an amazing crop of undergraduates which included Freeman Dyson, James Lighthill, and Michael Longuet-Higgins, who were joined by Tony Skyrme from Eton College, Besicovitch was heard to boast proudly that they now had several students of the calibre of Littlewood. He was elected FRS in 1934 and was Sylvester medallist of the Royal Society in 1952. He received in 1930 the Adams prize of the University of Cambridge for his work on almost periodic functions, and in 1950 the De Morgan medal of the London Mathematical Society.<br>
+<br>Throughout his life Besicovitch maintained a great interest in mathematical problems of all kinds. Over many years at Cambridge he ran, for the pleasure and benefit of undergraduates, a weekly &#145;contest problem&#146;: he read and annotated the solutions submitted and his announcement that they had provided perfect solutions encouraged several young mathematicians to develop their analytical powers. He described himself as an expert in the &#145;pathology&#146; of mathematics. If someone put forward a conjecture which Besicovitch suspected to be untrue, he would keep worrying until he had produced a counter-example.<br>
+<br>Bessi (the name by which he was affectionately known to colleagues and students) was a superb lecturer and supervisor. Even in a full lecture class he could make analysis very personal by picking out a student (without the slightest trace of malice), leading that student to give the obvious answer to a problem, and then progressing gently to a contradiction, showing that the problem was much deeper than appeared at first sight. Those who experienced him as a teacher gained a clearer and more thoughtful attitude to mathematics.<br>
+<br>Besicovitch's book, <span class="italic">Almost Periodic Functions</span> (1955), originated in his work with Harald Bohr in 1924&#150;5. He wrote more than 120 papers, shedding new light on many questions in analysis and the classical theory of functions&#151;he was more likely than many to solve problems which seemed intractable. Few mathematicians, facing such problems, can rid themselves of preconceived ideas about the nature of the solution and possible methods of obtaining it, but Besicovitch could keep an open mind and envisage unexpected results. He was a master of intricate construction which could reveal paradoxical truths. He did not strive after abstractions and generalities; he was a problem-solver, not a system-builder. His formal statements had to be in the notation of analysis; the underlying mental pictures were geometrical, often expressible in simple language. This is well illustrated by his work on fractional dimensions, which has led to the extraordinarily fruitful development of fractals in the hands of Beno&icirc;t Mandelbrot. A point having no magnitude (Euclid) is of dimension 0. A straight segment is of dimension 1; so is the circumference of a circle. The inside of a circle or the surface of a sphere has dimension 2. In 1919 Hausdorff defined dimensions of fractional order. A suitably sparse set of points on a line could have a measure of dimension (say) one half. The idea could be extended to sets of points, curves, and other figures in space.<br>
+<br>For a long time Besicovitch was the author or joint author of nearly every paper on the subject, and hence Mandelbrot decided to use the term Hausdorff&#150;Besicovitch dimension to denote the dimension of a fractal. Pathological sets of points such as Weierstrass curves which are continuous but not differentiable at all points, the set of points belonging to a random walk, sets defined by Cantor, Koch, and others, can all be assigned a fractal dimension. Neither Hausdorff nor Besicovitch dreamed that their ideas would be of practical use in the real world. It was Mandelbrot who drew attention to the many occurrences of fractals in nature&#151;shapes of coastlines, mountainous landscapes, clusters of stellar matter, turbulence, percolation, polymer chains, and so on; he initiated a new field which grew with extraordinary rapidity.<br>
+<br>Besicovitch was exceptionally gentle as an oral examiner of doctoral students, and if he saw that a student was getting into trouble with one of the other examiners he would search out a method of intervening which would put the student at his ease. Since he spoke Russian at home, Besicovitch's command of English remained stationary from his early days at Cambridge. For him the definite and indefinite articles were superfluous. His individual words were usually correct&#151;it was their assembly and arrangement which were unusual, although he always managed to convey the intended meaning correctly.<br>
+<br>Besicovitch remained very suspicious of the Soviet Union. In the early 1930s his good friend the distinguished physicist Peter Kapitza was working at the Mond Laboratory, and used to return to Russia every summer. Besicovitch disapproved strongly of these return visits, and warned Kapitza that he would go back to Russia once too often, which is exactly what happened: on one such visit the Soviet authorities refused to grant Kapitza an exit visa (but provided him with a superb laboratory and excellent facilities).<br>
+<br>&#145;A mathematician's reputation rests on his bad proofs&#146; was one of Besicovitch's surprising aphorisms. He wished to convey the idea that the originator of a result in mathematics usually establishes it by long and complicated proofs. It is later, less original workers who undertake the process of simplification. About professors at English universities he said: &#145;No one is elected to a professorship unless he has been respectable for at least three years. Once he has become respectable, he no longer produces creative work.&#146; Nevertheless, at the age of fifty-nine, in 1950, he succumbed to the temptation of succeeding J. E. Littlewood, the first holder of the Rouse Ball chair at Cambridge. A colleague remembered that on his thirty-sixth birthday Besicovitch, thinking that his own creative resources were drying up, proclaimed that he had had four-fifths of his life. Reminded of this on his appointment to the chair, Besicovitch sent a postcard in reply: &#145;numerator was correct!&#146;.<br>
+<br>After his retirement in 1958 Besicovitch remained active in teaching and research and spent eight successive years as visiting professor in the United States. He then returned to live in Trinity College. Towards his eightieth year his health failed and he died in the Evelyn Nursing Home, Cambridge, on 2 November 1970.<br>
+<br>Cyril Domb </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. C. Burkill, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30737&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 17 (1971), 1&#150;16 &middot; S. J. Taylor, <em>Bulletin of the London Mathematical Society</em>, 7 (1975), 191&#150;210 &middot; C. Domb, &#145;Of men and ideas (after Mandelbrot)&#146;, <em>Physica</em>, D, 38 (1989), 67&#150;70 &middot; B. B. Mandelbrot, <i>Fractals, form, chance and dimension</i> (1977) &middot; B. B. Mandelbrot, <i>The fractal geometry of nature</i> (1982) &middot; private information (2004) &middot; d. cert. &middot; m. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30737&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30737&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>, MS notes and additions made to the work of Piero Sraffa&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30737&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>, corresp. with Harold Davenport<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> H. A. Freeth, drawing, 1952, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30737&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a> &middot; E. Coxeter, oils, 1956, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30737&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a> &middot; portrait, repro. in Burkill, <i>Memoirs FRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;35,086: probate, 10 Jan 1971, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Cyril Domb, &#145;<span class="roman"><span class="headword">Besicovitch,  Abram Samoilovitch</span>  (1891&#150;1970)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/30737, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Abram Samoilovitch Besicovitch (1891&#150;1970): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30737 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

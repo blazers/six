@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17290;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17290-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17290-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17290#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Lyons,  Israel, the younger</span>  (1739&#150;1775), <span class="occ">mathematician and botanist</span>, was born at Cambridge, the son of <script>writeSeealsoLink('../view/article/17289/', "Israel Lyons the elder (d. 1770)")</script>. He was something of a prodigy, especially in mathematics, and Robert Smith, master of Trinity College, paid for him to attend school; however, after a few days Lyons left, saying that he could learn more on his own in an hour than at school in a day. Presumably he continued to educate himself with his father's help. He became proficient in French, Latin, and medieval English history. It is not known if Lyons remained of the Jewish faith, which would account for his not entering the university. In any event, he probably coached students privately, like his father.<br>
+<br>In 1758, before he was twenty, Lyons published a 270 page <span class="italic">Treatise of Fluxions</span>, dedicated to his patron, Smith. Such was his standing that the subscription list has 266 names, nearly all from the university; it includes eleven masters or presidents of colleges, one of them the vice-chancellor, seven professors, and six college libraries, besides the provost of Oriel College, Oxford. With his friend Michael Tyson he had been studying the local flora, resulting in his 1763 <span class="italic">Fasciculus plantarum circa Cantabrigiam nascentium</span>, of 106 plants unknown to John Ray, thirty of them also unremarked by Thomas Martyn in his <span class="italic">Plantae Cantabrigienses</span> of the same year. On the strength of his reputation Lyons was taken to Oxford in 1764 by Joseph Banks, then an Oxford undergraduate, to lecture there on botany.<br>
+<br>On 13 June 1765 Lyons was engaged, together with George Witchell, to compute the tables for the first half of 1767 for the first issue of the <span class="italic">Nautical Almanac</span>. Lyons also laid down rules and computed tables for correcting astronomical observations for the effects of refraction and parallax; these were published in 1766 in <span class="italic">Tables Requisite to be used with the [Nautical Almanac]</span>. An extended version of his tables, calculated with Thomas Parkinson and [Richard?] Williams, both of Christ's College, was edited by Anthony Shepherd and published in 1772. Further short calculations by Lyons appeared in the <span class="italic">Almanacs</span> for 1774, 1776, and 1778. Lyons's survey of Cambridgeshire, which in 1770 he proposed to publish by subscription, seems to have found insufficient support.<br>
+<br>In June 1773 an expedition sailed towards the north pole under C. J. Phipps. Appointed by the board of longitude as official astronomer, Lyons was to test chronometers by L. Kendall and J. Arnold, which he did to their satisfaction. His observations and calculations were published by Phipps in 1774. Some of his unattributed calculations were found to be in error.<br>
+<br>On his return, Lyons married, in March 1774, Phoebe Pearson, daughter of Newman Pearson of Over, Cambridgeshire, and settled in Rathbone Place, London. There he died of measles on 1 May 1775, while preparing a complete edition of Halley's works sponsored by the Royal Society. His paper on spherical trigonometry, read posthumously to the society, was printed in the 1775 <span class="italic">Philosophical Transactions</span>. Other papers appeared as the astronomical section of J. Seally's <span class="italic">Geographical Dictionary</span> (1787). According to the <span class="italic">Gentleman's Magazine</span>, Lyons was known for his extraordinary genius and extensive knowledge. Charles Hutton described him as a very extraordinary young man for parts and ingenuity, though a less favourable report described him as very debauched. His short scientific career was remarkably varied and relatively successful.<br>
+<br>Ruth Wallis </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. Hutton, <i>A mathematical and philosophical dictionary</i>, 2 vols. (1795&#150;6) &middot; C. J. Phipps, <i>Voyage towards the north pole</i> (1774) &middot; D. Howse, <i>Nevil Maskelyne</i><i>: the seaman's astronomer</i> (1989), 86, 91, 127 &middot; R. V. Wallis and P. J. Wallis, eds., <i>Biobibliography of British mathematics and its applications</i>, 2 (1986), 432 &middot; G. C. Gorham and T. Martyn, <i>Memoirs of John Martyn &hellip; and of Thomas Martyn</i> (1830), 122 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17290&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 45 (1775), 254&#150;5 &middot; S. Horsley, <i>Remarks on the observations made in the late voyage</i> (1774) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17290&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17290&amp;istheme=&amp;target=CUL')">CUL</a>, papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17290&amp;istheme=&amp;target=Linn.%20Soc.')">Linn. Soc.</a>, annotated copy of <i>Flora Anglica</i>
+   &middot;
+ Suffolk RO, Bury St Edmunds, botanical notes<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ruth Wallis, &#145;<span class="roman"><span class="headword">Lyons,  Israel, the younger</span>  (1739&#150;1775)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/17290, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Israel Lyons the younger (1739&#150;1775): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17290 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

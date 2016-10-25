@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32864;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32864-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32864-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32864#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Doodson,  Arthur Thomas</span>  (1890&#150;1968), <span class="occ">mathematician and oceanographer</span>, was born at Boothstown, near Worsley, in Lancashire, on 31 March 1890, the second son of Thomas Doodson, the manager of a cotton mill in Boothstown, who later moved to Rochdale and then to Shaw, near Oldham, and his wife, Eleanor Pendlebury, of Radcliffe, Lancashire. Doodson went to the village school and evening classes and studied as a pupil teacher before attending Rochdale secondary school and, in 1908, the University of Liverpool. He gave up the idea of teaching when he became seriously deaf and this may have led him to give up chemistry, though he was also encouraged to specialize in mathematics by Professor F. S. Carey. He gained a first-class BSc in chemistry and mathematics in 1911 and a first-class honours degree in mathematics in 1912, winning a prize for geometry.<br>
+<br>Deafness made it difficult for Doodson to get a job and he accepted a post as meter tester for Messrs Ferranti, but two years later obtained a more congenial post at the testing and standardizing department of the corporation of Manchester. In 1916 he was appointed to a post at University College, London, under Karl Pearson to do statistics but this was soon changed to ballistics for the War Office. In 1914 Doodson had been received into one of the churches of the community known as the Churches of God in the Fellowship of the Son of God, a breakaway sect from the Plymouth Brethren, and from then on his life was dominated by religion, to the exclusion of much social intercourse. It was therefore sad and paradoxical that he was obliged to work for some years on duties to which he had a conscientious objection. Nevertheless he did some impressive computations, producing tables of Riccati&#150;Bessel functions and of sines and cosines of radians. He was awarded the MSc degree of Liverpool University in 1914 and their DSc in 1919.<br>
+<br>By then Doodson had acquired an aptitude and a liking for computational problems and he started what was to be the most important collaboration of his life, with Professor J. Proudman, who had persuaded shipowners to endow a Tidal Institute at Liverpool. Proudman was its honorary director and arranged for Doodson to be its secretary.<br>
+<br>In 1919 Doodson married Margaret, daughter of J. W. Galloway, a tramways engineer, of Halifax, Yorkshire. They had a daughter, who died in 1936, and a son; Margaret died shortly after the son's birth in 1931. In 1933 Doodson married Elsie May, daughter of W. A. Carey. Doodson built up the Tidal Institute until it was recognized worldwide as an authoritative source of tidal theory, observation, and analysis. He was associate director of the institute from 1929 to 1945. Doodson's own work was mainly on the computational aspects, where his skill complemented Proudman's expertise in tidal dynamics. His engineering ability also allowed him to design and install complicated tide predicting machines in many countries. He was active in studying meteorological effects on tides and, after the Thames floods of 1928, made intensive studies of coastal flooding, adopting the word &#145;surge&#146;, and inventing many of the techniques which were used for many years in forecasting dangerously high high waters.<br>
+<br>Doodson also had administrative charge of a growing institute and was skilled at the financial aspects. He was gifted, skilled, and kind, and had a quiet sense of humour. As soon as hearing aids became available he made full use of them. His probity and accounting skills were put to good purpose by the International Union of Geodesy and Geophysics when in 1954 Doodson was made president of the finance committee. He was also the first director of the permanent service for mean sea level of the International Association of Physical Oceanography.<br>
+<br>For many years Doodson was an honorary lecturer of the University of Liverpool. In 1930 he was awarded the Thomas Gray memorial prize by the Royal Society of Arts for the benefit to navigation of his prediction of tidal currents. In 1933 he was elected fellow of the Royal Society and in 1953 an honorary fellow of the Royal Society of Edinburgh. He was appointed CBE in 1956. Doodson died at the General Hospital, Birkenhead, Cheshire, on 10 January 1968. He was survived by his second wife.<br>
+<br>H. Charnock<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Proudman, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32864&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 14 (1968), 189&#150;205 &middot; personal knowledge (1981) &middot; <em>The Times</em> (11 Jan 1968), 10d &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32864&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1969) &middot; d. cert. &middot; D. E. Cartwright, <i>Tides</i><i>: a scientific history</i> (1999)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1946, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32864&amp;istheme=&amp;target=RS')">RS</a> &middot; J. Bacon &amp; Sons, photograph, 1960, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32864&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;18,367: probate, 7 Jan 1969, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">H. Charnock, &#145;<span class="roman"><span class="headword">Doodson,  Arthur Thomas</span>  (1890&#150;1968)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/32864, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Arthur Thomas Doodson (1890&#150;1968): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32864 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 28545;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/28/28545-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/28/28545-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=28545#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Wallace,  William</span>  (1768&#150;1843), <span class="occ">mathematician</span>, was born on 23 September 1768 at Dysart, Fife, the eldest son of Alexander Wallace, a leather manufacturer, and his wife, Janet Simson. He received an inadequate school education, but was instructed in arithmetic by his father. In 1784 his family moved to Edinburgh where he was apprenticed to a bookbinder. Here, by his own industry, he mastered geometry, fluxions, and astronomy. In 1788 he attended John Robison's lectures on natural philosophy. Robison introduced him to John Playfair, who assisted him and who remained his patron thereafter. Subsequently he exchanged his occupation for that of a warehouseman in a printing office, and also took on work as a private tutor, learning Latin and French so that he could study continental mathematics.<br>
+<br>In 1794, after briefly working as a bookseller's shopman, Wallace was appointed mathematical teacher in Perth Academy on Playfair's recommendation. In the same year he married. In 1796 he submitted his first paper (on geometrical porisms) to the <span class="italic">Transactions of the Royal Society of Edinburgh</span>, and wrote the article &#145;Porism&#146; for the third edition of the <span class="italic">Encyclopaedia Britannica</span> (1801). His next paper, submitted to the Royal Society of Edinburgh in 1802, concerned the application of an ingenious method for the rectification of the ellipse to a problem of physical astronomy. This paper established Wallace's reputation as a mathematician, although it later emerged that his method had been anticipated by A. M. Legendre (1752&#150;1833), in a memoir of 1794. This induced Wallace to publish a translation of Legendre's memoir in Leybourn's <span class="italic">Mathematical Repository</span> (1809 and 1814).<br>
+<br>In 1803, following his patron's advice, Wallace applied for the office of mathematical master in the Royal Military College at Marlow (later at Sandhurst), a post obtained after hard competition. After he moved there his family increased rapidly, and he had three daughters and a son. In 1804 he was elected a fellow of the Royal Society of Edinburgh. A regular contributor of encyclopaedia articles, he submitted papers of a geometrical nature, incorporating applications to geodesy and astronomy; he also contributed several translations of French memoirs and some geometrical problems to the <span class="italic">Mathematical Repository</span>. In 1804, writing as &#145;Scoticus&#146;, he proposed for proof a problem, now known as Wallace's theorem, which states &#145;if four lines intersect each other to form four triangles by omitting one line in turn, the circumcircles of these triangles have a point in common&#146;  (<span class="italic">Mathematical Repository</span>, n.s. 1, 1804, 22). Wallace was one of those individuals who realized very early the need for a mathematical renaissance in Britain. A decade before the Cambridge reform in 1816, he and his colleague at Marlow, James Ivory, abandoned the fluxional calculus in their contributions to the <span class="italic">Repository</span>. However, Wallace considered his most significant step towards fostering mathematics to be his article &#145;Fluxions&#146; published in the <span class="italic">Edinburgh Encyclopaedia</span> in 1815&#151;the first systematic presentation of the continental calculus in Britain.<br>
+<br>In 1819 Wallace succeeded John Leslie as professor of mathematics in Edinburgh University. This position was the crowning object of his ambition and he cherished being held in high esteem by his students, such as D. F. Gregory and T. Galloway. Delight in practical applications induced him to invent, and give his name to, the eidograph, with which drawings could be copied to a larger or smaller scale, and the chorograph, a simple calculating device for cartographers to find the position of a station given the angles made to it from three points in the same plane. He superintended the erection of two observatories, one at Sandhurst and another on Calton Hill, Edinburgh, with the nearby monument to Napier, the inventor of logarithms. In 1838 he retired due to ill health, and was accorded a civil pension of &pound;300 a year. He received the degree of LLD from the university on 17 November 1838. He published two books, <span class="italic">Conic Sections</span> (1837) and <span class="italic">Geometrical Theorems and Analytical Formulae</span> (1839). He died at Edinburgh on 28 April 1843.<br>
+<br>George Stronach<span class="italic">, rev. </span> Maria Panteki </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Monthly Notices of the Astronomical Society of London</em>, 6 (1843&#150;5), 31&#150;41 &middot; M. Panteki, &#145;William Wallace and the introduction of continental calculus to Britain: a letter to George Peacock&#146;, <em>Historia Mathematica</em>, 14 (1987), 119&#150;32 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=Chambers%2C%20Scots.')">Chambers, <i>Scots</i>.</a> (1872) &middot; d. cert. &middot; A. D. D. Craik, &#145;Calculus and analysis in early 19th-century Britain: the work of William Wallace&#146;, <em>Historia Mathematica</em>, 26 (1999), 239&#150;67 &middot; A. D. D. Craik, &#145;Geometry versus analysis in early 19th-century Scotland: John Leslie, William Wallace, and Thomas Carlyle&#146;, <em>Historia Mathematica</em>, 27 (2000), 133&#150;63<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Institute of Actuaries, London, MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, notebook&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=BL')">BL</a>, Macvey Napier corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=LUL')">LUL</a>, letter to G. Peacock, A.L.483 1833
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=RS')">RS</a>, Herschel collection, HS 18: 21&#150;27
+   &middot;
+ U. Edin., New Coll. L., letters to Thomas Chalmers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Thomson, oils, <i>c.</i>1825, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=U.%20Edin.')">U. Edin.</a> &middot; A. Geddes, pencil and chalk drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=Scot.%20NPG')">Scot. NPG</a> &middot; A. Geddes, portrait, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28545&amp;istheme=&amp;target=Scot.%20NPG')">Scot. NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1725 12<i>s</i>. 0<i>d</i>.: confirmation, 1843, Scotland<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">George Stronach, &#145;<span class="roman"><span class="headword">Wallace,  William</span>  (1768&#150;1843)</span>&#146;, rev. Maria Panteki, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/28545, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Wallace (1768&#150;1843): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/28545 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

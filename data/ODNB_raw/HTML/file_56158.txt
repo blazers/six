@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56158;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56158-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56158-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56158#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Divers,  Edward</span>  (1837&#150;1912), <span class="occ">chemist</span>, was born in London on 27 November 1837 of unrecorded parents. His early education was at the City of London School where his interest in chemistry was stimulated by Thomas Hall. At the age of fifteen he came under the influence of A. W. Hofmann and W. Crookes at the Royal College of Chemistry in Oxford Street. After one year's study (1852&#150;3) Divers was briefly at the School of Mines and at John Stenhouse's laboratory in St Bartholomew's Hospital, where he came into contact with F. August Kekul&eacute; and Heinrich Buff, both products of Liebig's Giessen laboratory. In 1854 he was appointed as teaching assistant and demonstrator at the newly created Queen's College, Galway, where he studied medicine, one of the few scientific degrees then available in Ireland; he was awarded the MD degree in 1860. For the next six years he engaged in a limited medical practice, also giving public lectures on chemistry in the Galway region. He started to investigate the chemistry of oxy-salts and acids; his first paper on magnesium ammonium carbonate appeared in the <span class="italic">Journal of the Chemical Society</span> in 1862. In 1865 he married Margaret Theresa (<i>d</i>. 1897), daughter of D. G. Fitzgerald of Mayfield, co. Cork, with whom he had a son and two daughters.<br>
+<br>Realizing that the scope for undertaking investigations in chemistry was seriously restricted in Galway, Divers returned to England in 1866. He did not abandon medicine completely: in the following seven years he was successively lecturer in materia medica at Queen's College, Birmingham, in medical jurisprudence at Middlesex Hospital, and in physics at Charing Cross Hospital, as well as lecturing on chemistry at the Albert Veterinary College. These institutions provided him with the facilities to accelerate his research on inorganic chemistry and papers describing his work began to flow from his pen. The most significant, &#145;The existence and formation of salts of nitrous oxide&#146;, describing the first synthesis of hyponitrites, was published in 1871.<br>
+<br>In July 1873, on the recommendation of A. W. Williamson, Divers went to Tokyo as lecturer in general and applied chemistry at the new Imperial Engineering College at Toranomon. In the previous decade a great transformation of Japan had taken place with the overthrow of the isolationist and xenophobic Tokugawa regime and the establishment of the Meiji (Enlightenment) government. A crash programme of education was put in place to bring Japan, still largely feudal in its institutions, into line with occidental countries. The new government saw the way forward by the importation of foreign experts. Divers was one of some forty-five scientists and engineers from England, Scotland, America, and Germany recruited to achieve this aim.<br>
+<br>Divers was the first British chemist to go to Japan, where he immediately set about building laboratories on the Liebig and Hofmann models. On Henry Dyer's retirement from the Engineering College in 1882 Divers became its principal, and when the college was incorporated into the Imperial University in 1886 he was appointed professor of inorganic chemistry. His dedication to research now became paramount, even after a test-tube explosion in 1885 robbed him of sight in his right eye. Together with Japanese co-workers he published extensively in international journals on the compounds of selenium and tellurium, and many other subjects. He was elected FRS in June 1885.<br>
+<br>In recognition of his role as founder of modern chemical studies in Japan, Divers was appointed to the order of the Rising Sun, third class, in 1886, and to the order of the Sacred Treasure, second class, in 1898. On retirement in 1899 he was made emeritus professor of the University of Japan, and a bronze bust was erected on the university campus. He returned to London in 1899, but continued his chemical activity, becoming president of the chemical section of the British Association in 1902, president of the Society of Chemical Industry in 1905, and vice-president of both the Chemical Society (1900&#150;02) and the Institute of Chemistry (1905). He died, following an operation, at his home, 3 Canning Place, Palace Gate, Kensington, on 8 April 1912 and was buried at Brookwood, Surrey, on 11 April.<br>
+<br>William J. Davis </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. S. [A. Scott] and J. Sakurai, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56158&amp;istheme=&amp;target=JCS')"><i>JCS</i></a>, 103 (1913), 746&#150;55 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56158&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 88A (1912&#150;13), viii&#150;x &middot; <em>Nature</em>, 89 (1911&#150;12), 170 &middot; <em>Journal of the Society of Chemical Industry</em> (July 1931), 73 [jubilee number] &middot; T. Tezuka, <i>Twenty-five tales in memory of Tokyo's foreigners</i> (1989) &middot; H. Tuge, ed., <i>Historical development of science and technology in Japan</i> (1961) &middot; O. Checkland, <i>Britain's encounter with Meiji Japan, 1868&#150;1912</i> (1989) &middot; &#145;Inauguration of memorial bust of Dr E. Divers&#146;, <em>Chemical News</em> (28 Dec 1900), 310&#150;11<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> M. Naganuma, bronze bust, 17 Nov 1900, University of Tokyo, Japan, department of chemistry &middot; photographs, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56158&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;2121 8<i>s</i>. 6<i>d</i>.: probate, 1 May 1912, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">William J. Davis, &#145;<span class="roman"><span class="headword">Divers,  Edward</span>  (1837&#150;1912)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2011 [http://www.oxforddnb.com/view/article/56158, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Divers (1837&#150;1912): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56158 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/56158/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

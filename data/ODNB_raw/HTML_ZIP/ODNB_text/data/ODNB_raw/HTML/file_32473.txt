@@ -1,0 +1,450 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32473;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32473-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32473-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32473#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=32473&amp;orientation=p')"><img border="0" alt="Sir  John Douglas Cockcroft (1897&#150;1967), by Bassano, 1946" onmouseover="status='Sir  John Douglas Cockcroft (1897&#150;1967), by Bassano, 1946'" src="/images/article-imgs/32/32473_1_200px.jpg"></a><span class="imagecaption"><b>Sir  John Douglas Cockcroft (1897&#150;1967)</b>, by Bassano, 1946</span>
+</div>
+<div class="para">
+<span class="headword">Cockcroft, Sir  John Douglas</span>  (1897&#150;1967), <span class="occ">physicist and engineer</span>, was born on 27 May 1897 at 154 Halifax Road, Langfield, Yorkshire, the first of five sons. The Cockcrofts had been involved in the weaving industry for generations and Cockcroft's father, John Arthur Cockcroft, and mother, Annie Maude Fielden, moved from a mill at Todmorden to Birks Mill, Walsden, in 1899 where a water-wheel and steam engine were used as a source of power for spinning and weaving machinery. The training given by his father in the mill, and the machinery there, gave Cockcroft an interest in technology which affected his whole life.<h2>
+<a name="Education"></a>Education</h2>Cockcroft was educated at Todmorden secondary school from 1909 and he went with a scholarship to the University of Manchester in 1914 to study mathematics. He was taught by Horace Lamb, a decisive teacher, and attended the first-year lectures in physics by Rutherford, whose dedication to physics greatly impressed him. He volunteered for war service in 1915 and spent three years as a signaller in the Royal Field Artillery, and was twice mentioned in dispatches. This signalling experience prompted his return to Manchester in 1919, this time to the College of Technology, where he gained a first-class BScTechn. in 1920. On Professor Miles Walker's recommendation he was accepted as a college apprentice in engineering by the Metropolitan-Vickers Company. During the two years there he researched with Walker on the harmonic analysis of voltage and current wave forms at frequencies used for commercial power sources. This gained him the MScTech. in 1922, and was the subject of his first joint research paper (1925). Walker suggested that he should try to go to Cambridge and take the mathematical tripos; he won a scholarship at St John's College, and a Manchester College scholarship, and Vickers gave him a grant to encourage him &#145;to keep in touch&#146;  (autobiographical notes). In 1924 he gained a B* in part two of the tripos.<br>
+<br>On 26 August 1925 Cockcroft married (Eunice) Elizabeth, daughter of Herbert Crabtree JP of Stansfield Hall. The Crabtrees were cotton manufacturers and John and Elizabeth had known each other from childhood. Their first child, a boy, died at two years. Subsequently they had four daughters and then a son.<h2>
+<a name="CavendishLaboratory"></a>Cavendish Laboratory</h2>Miles Walker and the director of research at Vickers recommended Cockcroft to Rutherford, by then at the Cavendish Laboratory, Cambridge, and he was accepted as a research student supported by a foundation scholarship of St John's College, a state scholarship, and a further grant from Vickers. For four years he studied the behaviour of metal atoms as they were deposited by condensation on surfaces cooled by liquid air, gaining his PhD in 1928 and experience of new vacuum techniques. It was during this period that Rutherford asked him to help the Russian scientist Peter Kapitza to produce very intense magnetic fields for use at very low temperatures. Cockcroft calculated the forces created in the solenoids used to create the fields, and helped in the design of the helium liquefiers. He also helped Vickers with calculations of the magnetic fields in the huge electric machines used to generate power.<br>
+<br>In 1928 the Russian scientist G. Gamov developed a theory based on the new wave mechanics to explain why Rutherford had been able to disintegrate nitrogen atoms with alpha particles having an energy of only a few million electron volts. Cockcroft saw this calculation in December and calculated that protons of only 300 kV energy bombarding light elements such as lithium might result in disintegration. He spent 1929 building a discharge tube to accelerate protons; he energized this with the Tesla coil, and then with a transformer, but made little progress. E. T. S. Walton worked in the same room and Rutherford asked him to join Cockcroft in 1930. They constructed a higher voltage generator for 600 kV d. c., and a far higher vacuum tube in the new laboratory, and used M. Oliphant's design for the proton source. In April 1932 the proton beam was directed on to a lithium target and bright scintillations were observed. They were shown to be due to helium atoms:<table>
+<tr></tr>
+<td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
+<tr>
+<td>Li</td><td>+</td><td>H</td><td>=</td><td>He</td><td>+</td><td>he</td>
+</tr>
+<tr>
+<td>7</td><td>+</td><td>1</td><td>=</td><td>4</td><td>+</td><td>4</td>
+</tr>
+</table>By developing a high voltage high energy beam, the atom had been disintegrated, transformed, and the whole scientific world realized that a new era of nuclear physics had arrived. A supply of heavy water from Berkeley in 1933 enabled Cockcroft to use deuterons instead of protons to create even more amazing disintegrations by 1935. Different accelerators had been built elsewhere, and in 1933 Cockcroft began to persuade a somewhat unwilling Rutherford that the Cavendish Laboratory should have a cyclotron. Work started in 1937, based on E. O. Lawrence's 36 inch machine at Berkeley.<br>
+<br>Beyond the laboratory in 1933 he had been appointed junior bursar of St John's College responsible for the buildings, some of which had been neglected for years. The gatehouse of the college was partly taken down to replace roof damage and destruction by death-watch beetles; two new courts were built and rewiring done. In 1935 Kapitza was retained in Russia and Cockcroft took over direction of the Mond Laboratory; a new wing of the Cavendish Laboratory was built with the aid of the great Austin bequest and in this project Cockcroft was indispensable. In 1936 Cockcroft was elected FRS, and in 1939 he was elected to the Jacksonian professorship in natural philosophy just as he was becoming increasingly involved with efforts being made in technical fields to prepare for war with Hitler's Germany.<h2>
+<a name="Radarandatombomb"></a>Radar and atom bomb</h2>Sir H. T. Tizard spoke confidentially to Cockcroft early in 1938 about RDF, the highly secret radio technique for finding aircraft: &#145;These devices would be troublesome, and would require a team of nurses&#146;  (Cockcroft, 1948, in Oliphant and Penney, 155). Cockcroft played a major role in persuading about eighty physicists to spend a month at various coastal radar defence stations, and he also persuaded a number of leading physicists to participate. He personally took colleagues to set up radar stations in the far north, earning great respect from the admiral there who had previously been antagonistic. Some of these scientists made some of the major advances in radar and Cockcroft's part was one of his greatest contributions to the war effort. In August 1940 Cockcroft joined Tizard as his deputy on a mission to the United States to establish an exchange of defence science information. The disclosure to the Americans of the British microwave magnetron was to be of immense importance. Wherever he went in America or Canada he was welcomed by colleagues from the Cavendish Laboratory of old, and all the doors of military secrecy were opened to him.<br>
+<br>Cockcroft became chief superintendent of the Air Defence Research and Development Establishment at Christchurch in late 1940. Radar was then being applied to direct anti-aircraft gunnery upon unseen targets. Coastal defence radar and radar for combat use by the army to detect moving vehicles and tanks in the darkness were other major projects. Attempts to produce a proximity fuse for use against aircraft was nearly successful. The failure was a frustrating experience for Cockcroft.<br>
+<br>A special part of the history of the Second World War relates to a few men at the forefront of the worldwide nuclear physics community who perceived, at the beginning, the possibility of a nuclear explosive device of orders of magnitude greater than any military weapons using conventional high explosives. Cockcroft knew about these ideas and thought that Britain should make an effort to produce a nuclear explosive. However, for most of the war period he was so completely engaged in radar that his contributions were mainly advisory, until late in 1943 when his involvement sharply increased. Cockcroft's assignment was to go to Canada in 1944 and to take charge of the Montreal laboratory, and then to build the NRX heavy water reactor at Chalk River, together with associated facilities. His calm but energetic direction gave the laboratory, with its mixed British, Canadian, and French staff, a firm sense of purpose. The nuclear explosions at Hiroshima and Nagasaki brought the war to an abrupt end, but the nuclear work continued. The Canadians wanted Cockcroft to stay but he was wanted at home to direct the new establishment which was being built at Harwell for atomic energy research. Cockcroft commuted for a while and did both jobs but, as a result of high-level discussions, he moved full-time to Harwell in 1946. By this time the NRX reactor was almost complete, the laboratories were fully occupied, and the new township at Deep River was becoming a settled community.<h2>
+<a name="Atomicenergy"></a>Atomic energy</h2>Cockcroft's name and the excitement of atomic energy attracted many able people of all ages to work at Harwell, especially the young. Rapid progress was made, in spite of the shortages resulting from the war. The engineering side of atomic energy, under Christopher Hinton, and a little later the weapons side, under W. G. Penney, were also being developed at the greatest possible speed. Among many other activities a great deal of technology and design work on pressurized gas-cooled reactors made it possible in 1953 to base the production of additional plutonium on dual-purpose reactors to be built at Calder Hall. The justification was primarily military, but for the first time the vision of cheap nuclear power, so prominent in Cockcroft's mind, began to have a practical endorsement. The government decided in 1954 to take the responsibility for atomic energy from the Ministry of Supply and create the Atomic Energy Authority (AEA). Cockcroft became the first member for research, while also remaining director of Harwell. Cockcroft foresaw the need to improve British experimental facilities for high energy nuclear physics. His crucial decision and direction of construction at Harwell of the first post-war proton synchrotron by 1949 put Britain in a strong position. It secured Cockcroft and B. Lockspeiser important influence as the Conseil Europ&eacute;en de Recherches Nucl&eacute;aires (CERN), the larger European project, was developed between 1954 and 1960.<br>
+<br>Cockcroft always attached great importance to travel and to making personal contacts with scientists in other countries. When President Eisenhower addressed the general assembly of the United Nations in December 1953 he spoke about the &#145;atomic dilemma&#146;. He suggested forming the International Atomic Energy Agency. The general assembly unanimously resolved in December 1954 to hold a technical conference under the auspices of the United Nations on the peaceful uses of atomic energy. An advisory committee from seven countries was formed to help the secretary-general, Dag Hammarskj&ouml;ld, and Cockcroft was chosen as the British representative. This extraordinary conference, held at Geneva in August 1955, was a political event of outstanding importance which might have heralded the end of the cold war. Scientists from the communist countries fraternized so easily with those from the west, that, just as they shared science, they thought there must be a way to share political philosophies. Scientifically it was an enormous success. Cockcroft was able to invite I. Kurchatov, of the USSR, to give a lecture at Harwell on a subject (fusion research) which only a few months earlier was regarded as extremely secret. The second Geneva conference was held in 1958, and Cockcroft gave what was widely considered to be a masterly summary of the proceedings.<br>
+<br>Meanwhile, at Harwell and elsewhere, ideas about possible new reactor systems were proliferating. Cockcroft persuaded the AEA to set up a site at Winfrith to test experimental or small prototype reactors. He obtained European support for a joint project on a high temperature reactor (HTR) and the Organization for Economic Co-operation and Development Dragon project was agreed and put at Winfrith. Technically the helium gas cooling and the coated particle fuel behaved well and internationally the project gained a good reputation. Ultimately, however, the project came to an end because of the great cost of engineering full-scale commercial nuclear power stations.<br>
+<br>One of the special research projects in atomic energy was called CTR (controlled thermonuclear reactions) or, more briefly, fusion research. Cockcroft gathered much of the British work to Harwell and the major project was the torroidal discharge machine called ZETA. The work, and particularly the work with this machine, had its ups and downs but, in retrospect, ZETA was a major step forward in fusion research. Cockcroft was able to give a great deal of help and encouragement to the Medical Research Council in their work on radiological protection. Radioisotopes for biological and industrial uses became an important and profitable part of the work of the research group. His influence led to the creation of the Rutherford High Energy Laboratory. He was also closely concerned with the early years of CERN.<h2>
+<a name="MasterofChurchill"></a>Master of Churchill</h2>Cockcroft resigned as a full-time member of the AEA in 1959 but remained a part-time member and moved to Cambridge to become the first master of Churchill College, having been nominated by Sir Winston Churchill himself, who also insisted that the appointment of succeeding masters should be made by the crown. The concept of a new college grew from the concern of some prominent British industrialists that Britain was lagging behind the USA and the USSR in providing excellent technical education, and Lord Cherwell had pressed these views on Sir Winston. In due course Cambridge accepted the offer of finance for a college which would have nearly as many advanced scientists and fellows as undergraduates, all living in college. Churchill was gratified that this college would bear his name, and Cockcroft was about the most famous scientist or engineer in Britain at that time. Industry was completely satisfied with the choice. No better person could have been chosen. The Cockcrofts' hospitality, their international friendships among scientists, and Cockcroft's interests in all sides of industry exactly matched the purposes for which the college was formed.<br>
+<br>Cockcroft was also busy with science policy and education, defence policy, university matters, and international science. He represented Britain in the conference which in due course led to the signing of the test ban treaty relating to atomic weapons; he supported the Pugwash conferences on science and world affairs, and was their president in 1967.<br>
+<br>Cockcroft received many honorary degrees, awards, and honours, the three principal being the Order of Merit (1957), the Nobel prize for physics, jointly with E. T. S. Walton (1951), and the atoms for peace award (1961). He was appointed CBE in 1944, knight bachelor in 1948, and KCB in 1953. Cockcroft wrote few scientific papers, but from 1935 devoted his outstanding ability to organizing and administering research in science and technology. He was always generous in acknowledging colleagues, and appreciating technicians. He was deeply interested in architecture and music. He was a man of few words and his writing was minute; he never lost his temper. He and his family enjoyed relaxing at their holiday home at Cley, walking and sailing in the crisp Norfolk air. Cockcroft died on 18 September 1967 at Churchill College. On 17 October, at noon, a service of memorial and thanksgiving was held in Westminster Abbey. He was survived by his wife.<br>
+<br>T. E. Allibone </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>autobiographical notes, RS &middot; M. L. E. Oliphant and W. G. Penney, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 14 (1968), 139&#150;88 &middot; personal knowledge (2004) &middot; private information (2004) &middot; G. Hartcup and T. E. Allibone, <i>Cockcroft and the atom</i> (1984) &middot; M. Gowing, <i>Britain and atomic energy, 1939&#150;1945</i> (1964) &middot; M. Gowing and L. Arnold, <i>Independence and deterrence</i><i>: Britain and atomic energy, 1945&#150;1952</i>, 2 vols. (1974) &middot; election certificate, RS &middot; b. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CUL')">CUL</a>, corresp. relating to Cavendish laboratory&nbsp;|&nbsp; Atomic Energy Research Establishment, Harwell, papers relating to Maud committee
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. with Sir Rudolf Peierls
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp. with Sir Edward Bullard
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp. with Sir James Chadwick
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp. with Thomas Haldane
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp. with A. V. Hill
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, scientific notes by him and E. T. S. Walton
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=IWM')">IWM</a>, corresp. with Sir Henry Tizard
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=Nuffield%20Oxf.')">Nuffield Oxf.</a>, corresp. with Sir James Chadwick
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=Nuffield%20Oxf.')">Nuffield Oxf.</a>, corresp. with Lord Cherwell
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=RS')">RS</a>, corresp. with Lord Blackett
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, papers relating to Harwell, AB27
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>, corresp. with Egon Bretscher
+   &middot;
+ U. Leeds, Brotherton L., corresp. with Edmund Stoner
+   &middot;
+ University of Copenhagen, Niels Bohr Institute for Astronomy, Physics, and Geophysics, corresp. with Niels Bohr<p></p>
+	  &nbsp;<h3>SOUND</h3>&nbsp;
+	<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=BL%20NSA')">BL NSA</a>, oral history interview</p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Bassano, photograph, 1946, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; W. Stoneman, photograph, 1946, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=NPG')">NPG</a> &middot; photograph, 1951, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=Hult.%20Arch.')">Hult. Arch.</a> &middot; H. A. Freeth, chalk drawing, 1957, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=NPG')">NPG</a> &middot; R. Tollast, drawing, <i>c.</i>1964, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32473&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;41,218: probate, 3 Jan 1968, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">T. E. Allibone, &#145;<span class="roman"><span class="headword">Cockcroft, Sir  John Douglas</span>  (1897&#150;1967)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/32473, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  John Douglas Cockcroft (1897&#150;1967): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32473 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/32473/2006-05"> [Previous version of this biography available here: May 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

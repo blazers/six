@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 16877;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/16/16877-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/16/16877-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=16877#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Llywelyn Si&ocirc;n</span> <span class="st"> [Llywelyn of Llangewydd]</span>  (<em>c.</em>1540&#150;<em>c.</em>1615), <span class="occ">Welsh-language poet and copyist</span>, was born to unknown parents at Llangewydd, in Laleston, near Bridgend, Glamorgan. He was a pupil of Thomas Llywelyn of Y Rhigos, Glamorgan, and possibly of Morgan Powell, a priest at Laleston. Llywelyn Si&ocirc;n went on to play an active role in contemporary Catholic life as poet, copyist, and recusant, for which he was summoned before the courts at least six times between 1587 and 1593. As a poet, he composed in the fixed and free metres of Welsh verse, but left only fourteen poems, the quality of which compares unfavourably with that of earlier Glamorgan poetry. Known to have undergone formal instruction in the art of copying, he became one of the foremost Welsh scribes of his age and transcribed manuscripts for members of the Glamorgan gentry, having access to many major libraries. Thirteen of his manuscripts are extant: eight are collections of poetry, four of prose, and one of genealogies. The one now known as Llanover B 9 (Aberystwyth, NL Wales) is a compendium of religious verse, much of which was published in two volumes entitled <span class="italic">Hen gwndidau</span> (1914) and <span class="italic">Hopkiniaid Morganwg</span> (1909). Three characteristically long, narrow books, known as the <span class="roman">Long Book of Shrewsbury</span>, the <span class="roman">Long Book of Llywarch Reynolds</span>, and the <span class="roman">Long Book of Llanharan</span>, represent his most important writings. He preserved a number of important medieval texts and also copied the sole surviving complete version of the anonymous <span class="roman">Y Drych Cristianogawl</span>, the most valuable Welsh Roman Catholic text of the Tudor age. Although very industrious, he was not the most meticulous of copyists, and his work contains many errors. He was, however, responsible for preserving much of Glamorgan's medieval and sixteenth-century literary heritage, which was probably what led Edward Williams (Iolo Morganwg) to depict him as one of the principal shapers of Iolo's mythical Glamorgan. Llywelyn Si&ocirc;n died about 1615.<br>
+<br>Glanmor Williams </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16877&amp;istheme=&amp;target=DWB')"><i>DWB</i></a> &middot; G. J. Williams, <i>Iolo Morganwg a chywyddau'r ychwanegiad</i> (1926) &middot; G. J. Williams, <i>Traddodiad llenyddol Morgannwg</i> (1948) &middot; G. J. Williams, <i>Iolo Morganwg</i> (1956) &middot; C. W. Lewis, &#145;The literary tradition of Morgannwg down to the middle of the sixteenth century&#146;, <i>Glamorgan county history</i>, ed. G. Williams, 3: <i>The middle ages</i>, ed. T. B. Pugh (1971), 449&#150;554 &middot; C. W. Lewis, &#145;The literary history of Glamorgan from 1550 to 1770&#146;, <i>Glamorgan county history</i>, ed. G. Williams, 4: <i>Early modern Glamorgan</i>  (1974), 535&#150;639 &middot; C. W. Lewis, <i>Iolo Morganwg</i> (1995) &middot; F. H. Pugh, &#145;Glamorgan recusants in the reigns of Elizabeth I and James I&#146;, <em>South Wales and Monmouth Record Society</em>, 4 (1957), 49&#150;67 &middot; L. J. Hopkin-James and T. C. Evans, eds., <i>Hen gwndidau carolau a chywyddau</i> (1914) &middot; L. J. Hopkin-James, ed., <i>Hopkiniaid Morganwg</i> (1909) &middot; T. Parry, <i>A history of Welsh literature</i>, trans. H. I. Bell (1955)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16877&amp;istheme=&amp;target=BL')">BL</a>, Harley MS 2414
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16877&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, Cardiff MS 5.44
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16877&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, Hafod MSS 4, 20
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16877&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, Llanover MSS B 9, B 17, B 18
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16877&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, Llansteffan MSS 47, 48, 134
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16877&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, MSS 6511, 970<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Glanmor Williams, &#145;<span class="roman"><span class="headword">Llywelyn Si&ocirc;n</span> [Llywelyn of Llangewydd]  (<em>c.</em>1540&#150;<em>c.</em>1615)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/16877, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Llywelyn Si&ocirc;n [Llywelyn of Llangewydd] (<em>c.</em>1540&#150;<em>c.</em>1615): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/16877 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

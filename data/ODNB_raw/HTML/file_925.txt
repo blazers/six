@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 925;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/925-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/925-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=925#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Avison,  Charles</span>  (<em>bap. </em>1710, <em>d.</em> 1770), <span class="occ">composer and writer on music</span>, was baptized on 16 February 1710 in Newcastle upon Tyne, the fifth of nine children of Richard and Ann Avison. His early training in music presumably began at home with his father, a town wait and also practising musician. While in the service of the Newcastle merchant Ralph Jenison, MP for Northumberland from 1724 to 1741 and a patron of the arts, he continued to study; he was additionally supported by Colonel John Blathwayt (or Blaithwaite), once a director of the operatic organization the Royal Academy of Music. William Hayes and Charles Burney both indicate that he studied with Francesco Geminiani in London. Geminiani promoted Avison's career, obtaining for him offers of organist's posts in Dublin in 1733 and again in 1740, and Avison remained loyal to his methods and works.<br>
+<br>The earliest record of Avison's musical activities is for a benefit concert on 20 March 1734 in Hickford's Room, London. That year he was offered the York Minster organist's post, but he rejected it, perhaps because he already intended to return to Newcastle. On 13 October 1735 he was appointed organist of St John's Church, Newcastle, and on 20 October 1736, following the death of Thomas Powell, organist of St Nicholas's Church (later Cathedral), which possessed the largest organ in the north-east. On 15 January 1737, at All Saints, Newcastle, he married Catherine Reynolds. They had nine children, of whom three survived to adulthood: Jane (1744&#150;1773), Edward (1747&#150;1776), and Charles (1751&#150;1795).<br>
+<br>Avison probably initiated the series of subscription concerts that began in Newcastle in August 1736. Documentation is scarce, but by 1750 he was administering annual seasons of fortnightly concerts beginning in October and sometimes continuing until as late as early April; a summer series had begun by 1757. Subscriptions were 10<i>s</i>. 6<i>d</i>. in 1759, rising to 15<i>s</i>. by 1764. Avison also organized the annual concerts for race week in July and assize week in August, well established by 1750. His reputation as a composer and adapter combined with the success of the concert series to establish Avison's pre-eminence in northern English music. Although very little is known of his repertory, evidence survives that he sought to introduce his Newcastle audience to new composers: the 1751 season saw some of the first performances anywhere in Britain of work by Jean-Philippe Rameau. Surviving advertisements suggest that Avison was hostile towards competition, and other promoters who wished their series to prosper, such as John Garth in Durham, found it wisest to co-operate with him. The two series ran their concerts in alternate weeks from 1758, allowing each to share musicians and perhaps audience members. Avison also established ties with the Edinburgh musical society: Robert Bremner advertised his music publishing business in Newcastle and several Edinburgh musicians performed in the Newcastle series. Prominent London artists to appear in Newcastle included Felice Giardini; Geminiani probably visited Avison in 1760 but it is not known whether he performed.<br>
+<br>Today Avison is known primarily for his compositions and writings on music aesthetics. The former comprise orchestral and chamber pieces, along with a small number of sacred works. The orchestral works consist mainly of concerti grossi for strings and are set out in six opus numbers, ranging in date from 1740 to 1769. The chamber works include four sets of sonatas, dated from 1737 to 1764. The same prolificness is not matched in his sacred music, which includes only a verse anthem, a hymn, and a chant.<br>
+<br>Although Avison published incidental aesthetic and critical writings, he is at his most concentrated in <span class="italic">An Essay on Musical Expression</span>, first published in London in 1752, and <span class="italic">A Reply to the Author of Remarks on the &#145;Essay on Musical Expression&#146;</span>, which appeared the next year. The <span class="italic">Essay</span> addresses various aesthetic, critical, and performance-related issues in three parts, the first considering the effect of music upon the emotions and character, and the analogy between music and painting. The second discusses specific composers and their styles, and the third considers instrumental performance practice. Avison's admiration of Geminiani and Benedetto Marcello, to the detriment of Handel, sparked a highly critical response from William Hayes, then Heather professor of music at Oxford. Hayes's criticisms, published anonymously as <span class="italic">Remarks on Mr Avison's &#145;Essay on Musical Expression&#146;</span> (1753), in turn prompted Avison's <span class="italic">Reply</span>. The second edition of the <span class="italic">Reply</span>, published later in 1753, also includes <span class="italic">A Letter to the Author, Concerning the Music of the Ancients</span>, by the historian John Jortin. Avison's <span class="italic">Essay</span> is not, by his own admission, entirely his own work, but reflects the priorities of his musical circle in Newcastle and elsewhere. It included input by Dr John Brown, the Northumberland-born controversialist, the poets Thomas Gray and William Mason, John Jortin, the Newcastle bookseller Joseph Barber, and Robert Shafto, head of a prominent Newcastle family and brother-in-law of Ralph Jenison.<br>
+<br>Avison continued to organize concerts in Newcastle, as well as teach harpsichord, violin, and flute. His supremacy was challenged between 1760 and 1766 by a number of concerts directed by William Herschel, but these ended when Herschel moved to Bath. Avison's standing in Newcastle may have been maintained with the help of a literary and musical club begun by John Brown when he arrived in Newcastle as vicar in 1760. This may have been the ancestor of the Newcastle Musical Society, of which Avison is said to have been the musical director but of which there is no record until 1781.<br>
+<br>Avison died in Newcastle on 9 or 10 May 1770 and was buried in St Andrew's churchyard, Newgate Street. His son Edward took over his concerts for the next season but they ceased in 1771, perhaps because subscriptions were being diverted towards the building of new assembly rooms, eventually opened in 1777. A full series of concerts on the Avison model did not revive in Newcastle until the 1790s, and under the direction of a committee rather than a single professional musician.<br>
+<br>Avison's reputation as a theorist suffered from his rejecting Handel in favour of Geminiani, but his was not a lone voice, as the collective authorship of his <span class="italic">Essay</span> shows. Although conventional wisdom decided that his music was &#145;light and elegant, but wants originality, a consequence of his too close attachment to the style of Geminiani&#146;  (Chalmers, 189), several of his compositions remained in the nineteenth-century repertory, some adapted for religious settings, and he is among the most important English-born eighteenth-century composers. In addition, his determined promotion of the Newcastle concert series did more than enhance the cultural life of one city: it helped ensure that British music in the eighteenth century did not function exclusively within a metropolitan milieu.<br>
+<br>Bennett Mitchell Zon </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Burchell, <i>Polite or commercial concerts? Concert management and orchestral repertoire in Edinburgh, Bath, Oxford, Manchester, and Newcastle, 1730&#150;1799</i> (1996) &middot; N. L. Stephens, &#145;Charles Avison: an eighteenth-century English composer, musician and writer&#146;, PhD diss., University of Pittsburgh, 1968 &middot; N. L. Stephens, &#145;Avison, Charles&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=925&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a> &middot; J. B. Brocklehurst, &#145;Charles Avison and his <i>Essay on musical expression</i>&#146;, PhD diss., University of Sheffield, 1959 &middot; R. B. Larsson, &#145;Charles Avison: styles in musical expression in eighteenth-century British musical aesthetics&#146;, <em>Music and Letters</em>, 63 (1982), 261&#150;75 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=925&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; A. Chalmers, ed., <i>The general biographical dictionary</i>, new edn, 3 (1812), 188&#150;9<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> attrib. F. Lindo, oils, <i>c.</i>1750&#150;1775, St Nicholas's Cathedral, Newcastle upon Tyne<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bennett Mitchell Zon, &#145;<span class="roman"><span class="headword">Avison,  Charles</span>  (<em>bap. </em>1710, <em>d.</em> 1770)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/925, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Avison (<em>bap. </em>1710, <em>d.</em> 1770): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/925 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

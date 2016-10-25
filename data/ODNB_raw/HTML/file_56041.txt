@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56041;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56041-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56041-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56041#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Stein,  Leopold Siegfried</span>  (1894&#150;1969), <span class="occ">psychiatrist and speech therapist</span>, was born on 2 December 1894 in Vienna, Austria. His family were Austrian Jews. Stein was educated in Vienna and attended the university, where he studied philosophy and philology. It was during this time that his interest in semantics and speech first developed. He then studied medicine and graduated MD in 1923. Following his graduation, Stein furthered his interest in abnormalities of language and speech. He became assistant at the Viennese Ambulatorium for speech disorders and was appointed director of the clinic for speech disorders in the paediatric department of the Kaiser Franz Josef Hospital in his home city. There he specialized in ear, nose, and throat surgery.<br>
+<br>Between 1928 and 1938 Stein worked in the speech department of the Allgemeine Poliklinik in Vienna and, during this time, developed his own system of treatment for stammer. He also studied dynamic psychology under Alfred Adler. In 1933&#150;4 he lectured in speech disorders at the Municipal Pedagogical Institute in Vienna. Following the union of Austria with Germany in the spring of 1938, Stein was dismissed from the Poliklinik. The harsh treatment of Jews as a result of the Anschluss forced Stein to flee Austria. He emigrated to Britain in July 1938. This remained his home for the rest of his life; he was given British nationality in 1947.<br>
+<br>The Viennese School of Speech Therapy enjoyed international prominence and, by the time he came to England, Stein had been an eminent and active member for over twenty years. As a result of the considerable reputation that he had established in the field of speech disorders, the Tavistock Clinic in London immediately invited him to practise as an honorary speech therapist; for the next twenty years he dealt there with speech disorders of a psychological origin or those arising from disorders of the nervous system. He also introduced his treatment for stammering. Stein did not, however, simply want to graft ideas developed in Vienna onto those he found in Britain; instead he hoped to establish a new basis on which diagnostic and therapeutic techniques could be consolidated.<br>
+<br>The Second World War demonstrated the indispensability of speech therapy for those disabled through head injury and, in 1944, Stein was appointed as civilian professional adviser in speech therapy to the War Office. This allowed him to further his interest in speech disorders occurring as a result of war. In 1948 his position at the Tavistock Clinic was converted to a full psychiatric appointment, and he remained there until his retirement in 1959.<br>
+<br>Stein practised as a speech therapist in England during a period of considerable change. Initially only a few pioneers, such as Winifred Kingdon-Ward, took any interest in the subject, but by the 1950s there was widespread research undertaken by students of speech therapy and a growing interest among the medical and educational professions as well as in the general public. The work undertaken by Stein and others played an essential part in this development.<br>
+<br>Stein belonged to a number of learned societies. He was a member and one-time chairman of the Society of Analytical Psychology and a fellow and president of the International Association of Phoniatrics and Logopaedics. When the College of Speech Therapists was founded in 1945, Stein became a fellow enrolled on foundation, and he was later to become its chairman. In addition to his memberships of medico-psychological bodies, Stein was also a fellow of the Royal Anthropological Society and a member of the Philological Society.<br>
+<br>Stein was a natural linguist. After his arrival in Britain in 1938, he was quick to master English and he wrote some twenty papers and three books in his new tongue. Many of the papers were on psychological topics and two of the books considered aspects of speech disorders: <span class="italic">Speech and Voice</span> (1942) and <span class="italic">The Infancy of Speech and the Speech of Infancy</span> (1949). His best-known work was <span class="italic">Loathsome Women: a Study of Modern Witches</span> (1959); written from his experiences as a psychiatrist, it was well received both in Britain and in the United States.<br>
+<br>Throughout his life, Stein had a passion for beautiful things. Among these were, in later life, cars and, in his youth, horses. While in Vienna, he was a keen rider in the tradition of the Spanish school; he considered it a simple feat to teach a horse to count.<br>
+<br>Stein was married twice, firstly to Ella (Ellen), and secondly to Mary Williams, who, like Stein, was a distinguished Jungian and a staff member of the Tavistock Clinic; he was survived by both. Stein died at his home, 1 Hermitage Road, Edgbaston, Birmingham, on 24 May 1969.<br>
+<br>Jane H. Schofield </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Robertson and others, eds., <i>From the College of Speech Therapists to the Royal College of Speech and Language Therapists</i><i>: a history of the college, 1945&#150;1995</i> (1995) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56041&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (14 June 1969), 700 &middot; <em>Journal of Analytical Psychology</em>, 15 (1970), 95&#150;6 &middot; &#145;Forty years of training&#146;, <em>Bulletin</em> [College of Speech and Language Therapists] (1986) &middot; d. cert.<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jane H. Schofield, &#145;<span class="roman"><span class="headword">Stein,  Leopold Siegfried</span>  (1894&#150;1969)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/56041, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Leopold Siegfried Stein (1894&#150;1969): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56041 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

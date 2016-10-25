@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 667;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/667-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/667-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=667#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Armstrong,  William</span> <span class="st"> [<em>called </em>Christie's Will]</span>  (<em>fl. </em>1636), <span class="occ">border reiver</span>, was the son of Christopher Armstrong of Gilnockie, Dumfriesshire, and the lineal descendant of <script>writeSeealsoLink('../view/article/658/', "Johnnie Armstrong")</script> of Gilnockie, subject of the eponymous ballad. The tower of Gilnockie stood in the parish of Canonbie, in Annandale. He was possibly born in 1601 or 1602.<br>
+<br>Almost all of William's activities are known from Sir Walter Scott's commentary in <span class="italic">Minstrelsy of the Scottish Border</span>, which also contains the ballad &#145;Christie's Will&#146;. Virtually nothing is known of his early life, though it is conceivable that he was the William Armstrong of Sark who complained to the Scottish privy council of being wrongfully detained by English border commissioners on 20 December 1636. He seems to have established a close working relationship with John Stewart, earl of Traquair, who used his influence to free Armstrong from the tolbooth of Jedburgh, where he had been imprisoned for stealing two colts. This incident, undated in Scott's account, may have occurred between Traquair's appointment as a border commissioner in December 1635 and December 1636, when English border authorities accused him of granting special indemnities to his Armstrong and Johnstone tenants.<br>
+<br>According to subsequent legend Armstrong later returned the favour by agreeing to abduct Sir Alexander Gibson, Lord Durie, who was then presiding over the court of session in a lawsuit involving Traquair, and whose dislike of the earl was well known. Upon intercepting Durie on Leith Sands, Armstrong apparently blindfolded the judge and carried him to a tower in Annandale; the suit was supposedly concluded three months later in Traquair's favour, with Armstrong promptly freeing Durie from his confinement in the tower vault before returning him to the exact site of his original abduction. This incident, thought by T. F. Henderson to have occurred during Durie's tenure as session president (1642&#150;3), is in reality a mythical account based on the abduction of Alexander Gibson over forty years earlier when he was serving as a clerk to the council and session. In October 1601 George Meldrum of Dumbrek kidnapped Gibson before imprisoning him in various locations including Couper in Fife, Kinghorn, Leith, and, ultimately, England; his motives for kidnapping the clerk are not made clear, but in any case he had detained Gibson for no longer than eight days, and not for the hyperbolic three-month period of the Armstrong legend. At least seven decades after this event Lord Fountainhall noted that Meldrum was supposed to have abducted Gibson &#145;by the Earle of Roxbrughis hounding out who had a peek [grudge] agt him for owning some depending process agt him&#146;  (Fountainhall's notes and reports, 1584&#150;1655, NL Scot., Adv. MS 25.4.8, p. 78), though no such case is listed in court of session records; the theory of Roxburghe's involvement continued to hold currency throughout the eighteenth century. It would thus appear that Meldrum's actions somehow became popularly associated with Armstrong between the former's trial and execution in 1604 and T. F. Henderson's <span class="italic">Dictionary of National Biography</span> article of 1885.<br>
+<br>According to tradition Will Armstrong also served Traquair as a messenger to Charles I during the civil war, and at one point was involved in a daring escape from parliamentarian troops at Carlisle. Returning with a letter from the king he eluded the soldiers by launching his horse off the parapet of the Eden Bridge while the river was in full flood and swimming to safety.<br>
+<br>Christie's Will is possibly the William Armstrong whose tombstone in the churchyard of Sark, Dumfriesshire, put up by his widow Jenot (Janet) Johnstone, records his death on 10 June 1658 aged fifty-six.<br>
+<br>J. R. M. Sizer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Scott, <i>Minstrelsy of the Scottish border</i>, ed. T. F. Henderson, 2nd edn, 4 vols. (1932), vol. 1, pp. 362; vol. 4, pp. 61&#150;3, 65 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=667&amp;istheme=&amp;target=Reg.%20PCS')"><i>Reg. PCS</i></a>, 2nd ser., 6.161, 355 &middot; R. B. Armstrong, &#145;Five rubbings from sculptured monumental stones in Liddesdale&#146;, <em>Proceedings of the Society of Antiquaries of Scotland</em>, 8 (1868&#150;70), 233&#150;6 &middot; W. Forbes, <i>A Journal of the session</i> (1714), xxviii &middot; R. Pitcairn, ed., <i>Ancient criminal trials in Scotland</i>, 2, Bannatyne Club, 42 (1833), 428&#150;30 &middot; Fountainhall's notes and reports, 1584&#150;1655, NL Scot., Adv. MS 25.4.8, p. 78 &middot; abstract of the books of adjournal, 1536&#150;1669, NL Scot., Adv. MS 25.2.8, fol. 107<i>v</i>, p. 214 &middot; abridgement of the books of adjournal, NL Scot., MS 24.6.16, fol. 30<i>v</i> &middot; J. A. Armstrong, <i>Life and times of Kinmont Willie Armstrong</i> (1996), 26, 28 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=667&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=667&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. R. M. Sizer, &#145;<span class="roman"><span class="headword">Armstrong,  William</span>   (<em>fl. </em>1636)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/667, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Armstrong (1636): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/667 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

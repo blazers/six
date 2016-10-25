@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37601;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37601-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37601-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37601#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Jermyn, Sir  Thomas</span>  (<em>bap. </em>1573, <em>d.</em> 1644/5), <span class="occ">soldier and courtier</span>, was baptized on 12 February 1573 at Rushbrooke, Suffolk, the eldest son of <script>writeSeealsoLink('../view/article/47137/', "Sir Robert Jermyn (1538/9&#150;1614)")</script> of Rushbrooke Hall, a leading puritan and administrator in the county, and his wife, Judith (<i>d</i>. 1614), daughter of Sir George Blagg. Admitted a fellow-commoner at Emmanuel College, Cambridge, in 1585, he should not be confused with his cousin Thomas Jermyn (<i>d</i>. 1617) of Depden, MP for Sudbury in 1589.<br>
+<br>In 1585 Jermyn's father joined the expedition to the Low Countries of Robert Dudley, earl of Leicester, and Jermyn himself became a military follower of Leicester's stepson Robert Devereux, second earl of Essex. In September 1591 he was one of twenty-four young men whom Essex knighted in the Rouen expedition. He was with Essex in his Cadiz expedition in 1596, in Ireland in early 1597, and around the Azores in the summer and autumn of 1597. In January 1599 he raised levies in Suffolk for Ireland, and he was in Connaught by April. Early in 1600 he married Catherine, daughter of Henry Killegrew of Hanworth, Middlesex, with whom he had one daughter and four sons, including Thomas Jermyn and <script>writeSeealsoLink('../view/article/14780/', "Henry Jermyn (later first earl of St Albans)")</script>. After his marriage Sir Thomas lived in Hanworth, but the tragic accidental death of his daughter, Elizabeth, from eating a piece of bread baited with rat poison may have impelled his move from Hanworth after 1605.<br>
+<br>Jermyn avoided involvement in Essex's abortive 1601 rising. In March 1604 he was returned MP for Andover; in 1614 he succeeded to Rushbrooke Hall and, with this new dignity, was elected MP for Suffolk. From January 1621 until the Long Parliament he was repeatedly returned MP for Bury St Edmunds. In 1616 he presented William Bedell as rector of Horringer, Suffolk, probably having known him as preacher of St Mary's, Bury St Edmunds; later he was the means of Bedell's promotion to an Irish bishopric. Court service now replaced his military career. In July 1616, on the embassy of James, Lord Hay (later first earl of Carlisle), in marriage negotiations between Princess Christina and Prince Charles, he suffered a serious accidental fall which left him in France for some months after the embassy. In 1623 he was deputy lieutenant in Cambridgeshire, and in 1625, a colonel of the Suffolk regiments defending the coasts. In July 1628 he became vice-chamberlain to Queen Henrietta Maria, and on 30 March 1629 he was unsuccessfully seeking the comptrollership of the household. On 22 December 1631 he became non-resident governor of Jersey, and through the 1630s he sat on several administrative commissions. In January 1639 he finally achieved his comptrollership of the king's household. His busyness in seeking profitable office suggests little sympathy for the austere ideals of &#145;thorough&#146;: a privy councillor throughout the decade, he had no scruples in gathering a clutch of reversions for his young sons Thomas and Henry, which inhibited the king's freedom of appointment in legal, financial, and administrative offices. The younger Thomas rose through various appointments to become in 1638 groom of the bedchamber to Prince Charles, and Henry became the queen's master of the horse.<br>
+<br>The death of the lord lieutenant of Suffolk, Theophilus Howard, second earl of Suffolk, on 3 June 1640 brought Jermyn joint appointment as lord lieutenant with James Howard, the third earl; he succeeded in quelling troop unrest at Beccles and Bungay in July 1640, and during the summer was also appointed deputy lieutenant in Cornwall. In 1640 he surrendered his comptrollership to Sir Peter Wyche, reportedly for &pound;2000 compensation. He was returned to the Long Parliament for Bury with his son Thomas; however, in 1642 the younger Thomas openly joined the king at Oxford while Henry fled abroad.<br>
+<br>Jermyn showed his alarm at parliament's proceedings by retiring home, pleading ill health. Political anxieties may have been reinforced by domestic concerns. Following the death of his first wife, he had recently married again, on 17 March 1642; his second wife was Mary (<i>d</i>. 1679), daughter of Edmund Barber of Bury St Edmunds, Suffolk, and widow of Thomas Newton of Edgefield, Norfolk, with whom he was to have a son and a daughter. The House of Commons summoned him to attend in August, and in October Rushbrooke was searched for arms; in mid-November he was again summoned, accused of sending the king money and discouraging the Bury townsmen from contributing on the &#145;propositions&#146; (making a notionally voluntary loan to parliament). After offering 100 marks on the propositions he was allowed to return home, but soon disabled from sitting. In January 1644, assessed at &pound;1000, he pleaded for a mitigation; his lack of money may have been due to personal extravagance at court as much as to political troubles.<br>
+<br>Jermyn, at home both on the battlefield and at court, may be seen as a curiously neat transitional figure between his austere and deeply religious father and his extrovertly cavalier sons; his friendship with Bedell suggests a mainstream protestant piety unaffected by the Laudian theological revolution.<br>
+<br>Jermyn died, presumably at Rushbrooke, about the beginning of 1645; he was buried in Rushbrooke (where his monument remains) on 7 January 1645.<br>
+<br>Diarmaid MacCulloch </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. H. A. Hervey, ed., <i>Rushbrook parish registers, 1567 to 1850</i><i>: with Jermyn and Davers annals</i> (1903) &middot; J. J. Muskett, <i>Suffolk manorial families</i>, 3 vols. (1900&#150;11), 2.243&#150;58 &middot; G. E. Aylmer, <i>The king's servants</i><i>: the civil service of Charles I, 1625&#150;1642</i> (1961) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37601&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201558%3F1603')">HoP, <i>Commons, 1558&#150;1603</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Diarmaid MacCulloch, &#145;<span class="roman"><span class="headword">Jermyn, Sir  Thomas</span>  (<em>bap. </em>1573, <em>d.</em> 1644/5)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/37601, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Thomas Jermyn (<em>bap. </em>1573, <em>d.</em> 1644/5): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37601 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

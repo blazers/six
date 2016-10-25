@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9124;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9124-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9124-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9124#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Falkner,  Thomas</span>  (1707&#150;1784), <span class="occ">Jesuit and missionary in South America</span>, the son of Thomas Falkner (or Falconer), a Presbyterian apothecary, and his wife, Hannah (<i>n&eacute;e</i> Walker), was born at Manchester on 6 October 1707 and baptized at Manchester parish church on 12 October 1707. He was educated at Manchester grammar school. He studied medicine in London under Richard Mead, and physics and mathematics under Isaac Newton, who is said to have considered Falkner his favourite pupil.<br>
+<br>After practising as a surgeon at home, Falkner joined a slave ship of the South Sea Company in Guinea, partly to improve his own health by a sea voyage, partly on behalf of the Royal Society, which was interested in the research of Jesuit doctors in American Indian herbal medicine. Having arrived in Buenos Aires on 7 May 1730, he headed for Chile with a caravan of slaves, through Santa F&eacute;, C&oacute;rdoba, and Mendoza, to Santiago de Chile. He returned to Buenos Aires, dangerously ill, and was treated by the Jesuit Sebasti&aacute;n de San Mart&iacute;n with such kindness that he became a Catholic and sought entry into the Society of Jesus. He became a Jesuit novice of the Paraguay province in May 1732, being ordained in 1739 and professed in 1749. Having published his treatise on Indian medicines for the Royal Society, he was sent to Santiago del Estero, Tucum&aacute;n, C&oacute;rdoba, and Santa F&eacute; to further his research, and then joined an expedition to Patagonia.<br>
+<br>Although several of his manuscript scientific works are now lost, Falkner made an important contribution to introducing Enlightenment ideas into South America. In C&oacute;rdoba he introduced experiments in the natural sciences and followed Christian Wolff (1679&#150;1754) in his philosophy lectures, while in Paraguay he was looked upon as a Galenist. He spent thirty-eight years as a missionary, at first around Paraguay and in Tucum&aacute;n, and then, from 1741 until 1753, working as a missionary and doctor in the southern Pampa, notably in the reduction of Our Lady of Concepci&oacute;n. Here he assisted Father Matias Strobel in his mission to the Patagonian Indians. After an unsuccessful expedition to found a new reduction at Sierra de Volcan (Laguna de los Padres), near Mar del Plata, he returned to Buenos Aires to study Indian dialects. With Father Jos&eacute; Cardiel in August 1746 he established the reduction of Our Lady of Pilar. Since he knew the country so well, he was appointed to accompany Strobel in 1748 on an expedition as far as the Rio Negro. The Jesuits realized that his medical skills would give him superiority over native witchdoctors. Like the Indians, Falkner lived on horseflesh, and for a plate used his hat, which became so greasy that it was devoured by wild dogs while he slept. In 1751 he took charge of <i>estancias</i> in Santa F&eacute;, but continued his scientific interests. He moved to the college of C&oacute;rdoba in 1756, where he converted to Catholicism twenty British survivors from the man-of-war <i>Lord Clive</i>. In 1758 he was probably the first to occupy the new chair of mathematics at C&oacute;rdoba.<br>
+<br>In July 1767 the Jesuits were expelled from C&oacute;rdoba, and Falkner returned to England via Cadiz and Sardinia. He joined the English province of the Society of Jesus about 1771, and after a period in Lancashire acted as chaplain to Robert Berkeley (1713&#150;1804) at Spetchley Park, Worcester. There his vivid memoirs were tamed into the abridgement <span class="italic">A Description of Patagonia</span> (1774), edited by William Combe with Berkeley's help, which Charles Darwin used while on board <i>The Beagle</i>. He then became chaplain to the Beringtons at Winsley, Herefordshire, and the Plowdens at Plowden Hall, Shropshire. He died at Plowden Hall on 30 January 1784 and was buried at Lydbury North, Shropshire. Thomas Pennant, who met him at Spetchley and edited his book <span class="italic">Of the Patagonians</span> (1788), remarked that his long involvement with the Patagonian Indians had made him lose all European guile and acquire the simplicity and honest impetuosity of that people.<br>
+<br>C. W. Sutton<span class="italic">, rev. </span> Geoffrey Scott </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. Furlong, <i>Tom&aacute;s Falkner y su &#145;Acerca de los patagones&#146; (1788)</i> (Buenos Aires, 1954) &middot; R. F. Doublet, &#145;An Englishman in Rio de la Plata&#146;, <em>The Month</em>, new ser., 23 (1960), 216&#150;26 &middot; G. Furlong Cardiff, <i>Misiones y sus pueblos guaran&iacute;es</i> (1962) &middot; P. Caraman, <i>The lost paradise</i> (1975) &middot; D. Mitchell, <i>The Jesuits</i><i>: a history</i> (1980) &middot; H. Jedin and J. Nolan, eds., <i>History of the church</i>, 6 (1981) &middot; J. Kirk, <i>Biographies of English Catholics in the eighteenth century</i>, ed. J. H. Pollen and E. Burton (1909) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9124&amp;istheme=&amp;target=Gillow%2C%20Lit.%20biog.%20hist.')">Gillow, <i>Lit. biog. hist.</i></a>, vol. 2 &middot; G. Furlong, <i>Nacimiento y desarrollo de la filosofi&aacute; en el Ri&oacute; de la Plata</i> (1952) &middot; G. Oliver, <i>Collections towards illustrating the biography of the Scotch, English and Irish members, SJ</i> (1838) &middot; H. Storni, &#145;T&oacute;mas Falkner&#146;, <i>New Catholic encyclopedia</i> (1967&#150;89) &middot; E. Burton, &#145;Falkner, Thomas&#146;, <i>Catholic encyclopedia</i>, 5 (1909)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Archives of the British Province of the Society of Jesus, London, Thorpe MSS<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. W. Sutton, &#145;<span class="roman"><span class="headword">Falkner,  Thomas</span>  (1707&#150;1784)</span>&#146;, rev. Geoffrey Scott, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/9124, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Falkner (1707&#150;1784): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9124 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

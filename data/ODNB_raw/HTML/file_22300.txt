@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22300;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22300-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22300-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22300#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pinke,  William</span>  (<em>c.</em>1599&#150;1629), <span class="occ">scholar and author</span>, born in Hampshire and probably a kinsman of Robert Pinck, entered Magdalen Hall, Oxford, in 1615, graduated BA in 1619, and proceeded MA in 1622. He gained a reputation both as an accomplished scholar, skilled in Hebrew, Greek, and Arabic, and as a devout and serious man, labelled a puritan by some contemporaries. He was ordained and in 1626 published <span class="italic">An examination of those plausible appearances which seeme most to commend the Romish Church and to preiudice the reformed</span>, probably a translation from the work in French by John Cameron. Appointed philosophy reader at Magdalen, Pinke also became about this time a tutor to George Digby, later second earl of Bristol. In 1628 he was appointed a fellow of the college, but a promising career was cut short by his early death in February 1629 when, according to Wood, he was &#145;30 or thereabouts&#146;  (<span class="italic">History</span>, 3.272). He was buried in Magdalen College chapel.<br>
+<br>In dedicating to Digby a posthumous edition of Pinke's sermons, <span class="italic">The Tryall of a Christians Syncere Love unto Christ</span> (1631), William Lyford suggested that this represented &#145;but an Essay to some master peece which you might have expected, if he had lived to finish what he attempted in the Greek antiquities and observations on the Hebrew Text&#146;, yet for all the author's learning its theme was the fundamental truth of Christianity, &#145;which if it bee not first rooted in the heart, all other our conclusions and speculations in Divinitie will be but like the building a Castle in the ayre&#146;. For Pinke, &#145;the profession of Christ is the most serious business in the world&#146;, and &#145;a reall inward disposition of the soule&#146; was worth more than &#145;the formalyties of comming to Church, carrying a bible, hearing a sermon&#146;  (Pinke, 24); Christians observing the latter merely out of habit were &#145;no better than Turks or Jews&#146;. Indeed, so crucial was an informed, personal profession of faith in God that &#145;there is not a pin to choose between him that beleeves in grosse, what the Church of England beleeves, and him that beleeves as that synagogue of Satan the Church of Rome beleeves&#146;; &#145;blind, absurd implicite faith&#146; led to &#145;Protestant Popery&#146;  (ibid., 27&#150;8). Despite the potentially subversive nature of this work it was republished several times in Oxford in the 1630s; less surprisingly, it reappeared in 1657 and 1659.<br>
+<br>Charlotte Fell-Smith<span class="italic">, rev. </span> Vivienne Larminie </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Pinke, <i>The tryall of a Christians syncere love unto Christ</i> (1631) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22300&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 1.542; 2.475 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22300&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.%3A%20Fasti')">Wood, <i>Ath. Oxon.</i>: <i>Fasti</i></a> (1815), 386, 406 &middot; A. Wood, <i>The history and antiquities of the University of Oxford</i>, ed. J. Gutch, 2 (1796), 3.272 &middot; F. Madan, <i>The early Oxford press</i><i>: a bibliography of printing and publishing in Oxford, 1468&#150;1640</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22300&amp;istheme=&amp;target=OHS')">OHS</a>, 29 (1895), vol. 1 of <i>Oxford books</i><i>: a bibliography of printed works</i> (1895&#150;1931), 130, 157&#150;8 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22300&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%204%3A%2017th-cent.%20Oxf.')"><i>Hist. U. Oxf.</i> 4: <i>17th-cent. Oxf.</i></a>, 274, 468&#150;9 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22300&amp;istheme=&amp;target=BL%20cat.')"><i>BL cat.</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Charlotte Fell-Smith, &#145;<span class="roman"><span class="headword">Pinke,  William</span>  (<em>c.</em>1599&#150;1629)</span>&#146;, rev. Vivienne Larminie, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/22300, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Pinke (<em>c.</em>1599&#150;1629): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22300 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

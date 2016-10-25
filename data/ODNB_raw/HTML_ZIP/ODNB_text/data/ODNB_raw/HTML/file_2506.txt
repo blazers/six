@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2506;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2506-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2506-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2506#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Blackall,  John</span>  (1771&#150;1860), <span class="occ">physician</span>, was born in St Paul's Street, Exeter, on 24 December 1771, the sixth son of the Revd Theophilus Blackall (<i>d</i>. 1781), and his wife, Elizabeth Ley, and great-grandson of Bishop Ofspring Blackall. He was educated at Exeter grammar school, from where he matriculated on 25 May 1789 at Balliol College, Oxford. He graduated BA in 1793, MA in 1796, MB in 1797, and MD on 2 March 1801. Immediately after taking his first degree he began to study medicine at St Bartholomew's Hospital, London, and it was in its wards, while working as the clinical clerk of John Latham, that he made the observations on albuminuria which were afterwards described and enlarged in his treatise on dropsies.<br>
+<br>In 1797 Blackall settled in his native city of Exeter and on 1 June in that year he was chosen physician to the Devon and Exeter Hospital. As a young man, however, he felt eclipsed in his practice by Hugh Downman, Bartholomew Parr, and George Daniell, and in 1801 he resigned his hospital appointment and settled at Totnes. There he worked hard, often riding 60 miles a day, and built an extensive practice. His reputation increased, and in 1807 he returned to Exeter, where he was elected physician to the Devon and Exeter Hospital for the second time. In 1812 he was also appointed physician to St Thomas's Lunatic Asylum, which was later to be relocated and developed as the Exe Vale Hospital, Wonford.<br>
+<br>In 1813 Blackall published his well-known and admirable <span class="italic">Observations on the Nature and Cure of Dropsies</span>. The work almost coincided with that of William Wells, who in 1812 published a paper entitled &#145;Observations on the dropsy which succeeds scarlet fever&#146;. Richard Bright, whose name was to become attached eponymously to kidney disease, did not publish the first of his classic works on the subject until 1827. In it he paid generous tribute to Blackall. However, unlike Bright neither Wells nor Blackall had appreciated the full significance of abnormal appearances of the kidneys in those of their patients on whom post-mortem examinations had been carried out. Nevertheless, Blackall's book made clear the relation between dropsy (accumulation of serous fluid in the cavities and tissues of the body) and the presence of albumen in the urine (albuminuria). He made the important observation that mercurial drugs damaged the kidneys and caused dropsy. An appendix described a number of cases of angina pectoris, which had begun to attract attention after William Heberden's observations in 1802.<br>
+<br>Blackall was admitted a candidate of the Royal College of Physicians on 22 December 1814, and a fellow on 22 December 1815. His progress from this period was rapid and uninterrupted, and for many years he had an extensive and lucrative practice in the west of England, especially since the death of George Daniell. According to Thomas Shapter his diagnostic powers were of the highest order, and as a consulting practitioner no one more entirely won the esteem of his professional colleagues.<br>
+<br>Blackall married Laura Barnes (1773&#150;1862) on 30 August 1806, and they had four sons: John Ofspring, who was drowned in the River Exe, aged seventeen; Theophilus and Henry, who also both predeceased their father; and Thomas MD, who was to outlive him. Blackall retained his strength and faculties to an advanced age, and he did not give up private practice until he was eighty years old. He died at his home, 13 Southernhay West, Exeter, on 10 January 1860, and his burial in Holy Trinity churchyard was attended by a large body of relations and friends and the whole of the medical profession in Exeter.<br>
+<br>G. C. Boase<span class="italic">, rev. </span> Alick Cameron </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. Shapter, &#145;The late John Blackall&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2506&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (1860), 75&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2506&amp;istheme=&amp;target=Munk%2C%20Roll')">Munk, <i>Roll</i></a> &middot; P. de la Garde, <i>Address to district branch of British Medical Association, Exeter</i> (1 Dec 1871) &middot; D. Berry and C. Mackenzie, eds., <i>Richard Bright, 1789&#150;1858</i> (1992), 144&#150;6, 150, 176, 187 &middot; L. Fine and V. English, &#145;John Blackall&#146;, <em>American Journal of Nephrology</em>, 14 (1994), 371&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2506&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; Burnet-Morris Index, Westcountry Studies Library, Exeter<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> S. Cousins, mezzotint, pubd 1844 (after R. R. Reinagle), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2506&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2506&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; R. R. Reinagle, oils, <i>c.</i>1850, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2506&amp;istheme=&amp;target=RCP%20Lond.')">RCP Lond.</a> &middot; portrait (after R. R. Reinagle), Royal Devon and Exeter Healthcare NHS trust<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;60,000: probate, 21 Feb 1860, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. C. Boase, &#145;<span class="roman"><span class="headword">Blackall,  John</span>  (1771&#150;1860)</span>&#146;, rev. Alick Cameron, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/2506, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Blackall (1771&#150;1860): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2506 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

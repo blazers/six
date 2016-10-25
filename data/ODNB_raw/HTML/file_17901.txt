@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17901;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17901-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17901-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17901#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Maltby,  William</span>  (1763&#150;1854), <span class="occ">bibliographer and librarian</span>, is said to have been born in London on 17 January 1763  (<span class="italic">DNB</span>), though his baptism was not recorded until 13 February 1765 at the Old Jewry Presbyterian Church. He was the youngest of ten children of Brough Maltby (<i>bap</i>. 1719), wholesale draper of Mansion House Street, London, and Ann Dyer. The Maltbys came originally from Norwich, where several were elders of the Presbyterian church. Edward Maltby, bishop of Durham, was a first cousin, as was John Dyer Collier  (Dyce, 300), father of John Payne Collier, the editor and literary forger. Through the Brough family he was related to Thomas Secker, archbishop of Canterbury. Maltby was educated under the Revd James Pickbourne at Grove Street, Hackney, where he formed a lifelong acquaintance with the poet Samuel Rogers, a fellow pupil; he is frequently mentioned in Archibald Dyce's <span class="italic">Recollections of the Table-Talk of Samuel Rogers</span> (1856).<br>
+<br>Maltby entered Gonville and Caius College, Cambridge, but as a dissenter did not take a degree. Here he was to acquire the classical and literary tastes which lasted throughout his life. He was well versed not just in the classics, but also in the literature of France and Italy. On 23 June 1787 he was called to the bar at Gray's Inn, and practised as a solicitor in partnership with his brother, Rowland Maltby, clerk to the Fishmongers' Company (<span class="italic">Law Lists</span>). But literature was a greater lure than the law, and Maltby became a familiar figure in the literary circles of his day, particularly in company with Rogers.<br>
+<br>Following the death in 1808 of Professor Richard Porson (whom he had known socially for more than twenty years), Maltby was on 1 February 1809 appointed to succeed him as principal librarian of the London Institution. This was a society in the City for subscribers, modelled on the Royal Institution in the West End, and offered lectures, particularly on scientific subjects, and an extensive reference library. Porson was better known for his fondness for the bottle than for books, but Maltby was in his natural element there as a book lover. He assiduously attended the major book auctions and made many large additions to the library. By 1811 the institution (founded only in 1806) already held 12,000 volumes. He had an extraordinary memory and knowledge of books, and was a fount of wisdom on bibliographical matters. Visiting Rome in 1821 Rogers wrote: &#145;I never pass a bookseller's shop here but I think of M[altby]&#146;  (Clayden, 1.329).<br>
+<br>Twice Maltby was responsible for the removal and rearrangement of the books. The first occasion was in 1811, when the institution moved from its original home in Old Jewry to King's Arms Yard, Coleman Street. These premises were always too small, and in 1819 the institution removed to a new building in the recently laid out Finsbury Circus. He assisted in the compilation of the original catalogue, printed in 1813, as well as in the first volume (1835) of the new edition. The institution grew slowly and suffered a number of crises in its management, but its heart was always the library, whose development into a major reference library was entirely due to Maltby's labours.<br>
+<br>From the beginning the assistant librarian of the London Institution had been William Upcott, the autograph collector. When he was asked to resign in 1834 following unspecified complaints  (London Institution minute books), Maltby (then aged seventy-one) expressed his desire to retire at the same time if he could keep his apartments. This was granted, and he was awarded a pension of &pound;100 per annum. He died at the London Institution on 5 January 1854 and was buried at Norwood cemetery, where a memorial was erected by Rogers. He was unmarried. Although Maltby had a reputation for his willingness to communicate his great knowledge of books to others&#151;he was masterly at literary and classical quotations&#151;he never published a single book himself. His sole contribution to literature was his memoir of Porson, published as &#145;Porsoniana&#146; in Dyce's <span class="italic">Table-Talk</span>.<br>
+<br>K. A. Manley </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17901&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 41 (1854), 209&#150;10 &middot; <i>Recollections of the table-talk of Samuel Rogers</i>, ed. A. Dyce (1856) &middot; R. W. Frazer, <i>Notes on the history of the London Institution</i> (1905) &middot; P. W. Clayden, <i>Rogers and his contemporaries</i>, 2 vols. (1889) &middot; parish registers &middot; law lists &middot; London Institution, managers' minutes, GL &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17901&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17901&amp;istheme=&amp;target=GL')">GL</a>, London Institution archives<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">K. A. Manley, &#145;<span class="roman"><span class="headword">Maltby,  William</span>  (1763&#150;1854)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/17901, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Maltby (1763&#150;1854): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17901 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 41105;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/41/41105-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/41/41105-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=41105#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Goad,  Charles Edward</span>  (1848&#150;1910), <span class="occ">cartographer and civil engineer</span>, was born on 15 March 1848 at High Street, Camberwell, Surrey, the second son of Charles Goad, plumber, of London, and his wife, Caroline Ann (<i>n&eacute;e</i> Vogel). He was educated locally and became an associate of arts of the newly created University of Oxford local examinations board. He moved to Canada in 1869 and was employed until 1873 as an engineer in the construction of the Toronto, Grey, and Bruce Railway. Without formal qualifications, his &#145;on-the-job&#146; training in engineering and surveying stood him in good stead. He worked for the Montreal Northern Colonial Railway in building a line from Montreal to Ottawa, and in 1876 was appointed chief engineer of the Halifax and Cape Breton Railway.<br>
+<br>Goad's most significant work was his series of insurance surveys of cities in Canada, Great Britain, and elsewhere. In 1875 he realized that fires, which were destroying many buildings and even entire city districts, created a demand for street maps and detailed plans showing the width of streets and delimiting every building. Fire insurance companies needed to know details of construction, building materials (and hence flammability), and the exact size of buildings; the nature of the water-works system and the location of fire appliances; and the spatial concentration of policy holders so as to limit a company's losses in the event of a conflagration.<br>
+<br>The Charles E. Goad Company was established in Montreal in 1875. With teams of surveyors he mapped streets and measured each building in detail, noting its use and room arrangement, the thickness of the walls, construction material, type of roof, and location of doors and windows. The first city to be mapped was Levis, Quebec, but insurance companies were slow to buy Goad's plans and he continued to work for the Halifax Railway. In 1881 he started a magazine, <span class="italic">The Insurance Society</span>, in which he quoted statistics to prove the high profits earned by companies which used his plans. His impressive advertising had its effect, and in 1885 he moved to Toronto. An advertisement of 1884 indicated his diversity: &#145;Railway Surveys, Estimates and Construction, Corporation, and Water Works, Real Estate Plans and Street Profiles, Insurance Surveys, Diagrams and Views&#146;. Over the next decade he extended his series of large-scale insurance plans to more than 1300 places in Canada.<br>
+<br>In 1885, with the company firmly established in Canada, Goad returned to Britain and in London opened what was to become, after his death, the company's head office. The Goad fire insurance plans were first produced for towns and cities within the British Isles in 1886, and within ten years the central parts of all the major towns and industrial districts were covered. The large-scale plans (1:3600) depict, by means of colour and symbol, impressive information on land use and building construction. London became the hub of Goad's extending international involvement with plans produced for France and Denmark, Egypt and Turkey, the West Indies, Venezuela, Chile, and South Africa. The plans contributed significantly to the development of fire insurance procedures and London's primacy in that business, and Goad's London office was strategically located at 56 Crouch Hill, near the head offices of the major London insurers, in the City. Insights into Goad's fine organizational skills, his achievements in developing and standardizing survey, cartographic, and reprographic techniques, and his methods of gaining access to various buildings, are afforded by the company's correspondence books, in the British Library. Letters between Goad and Bram Stoker, author of <span class="italic">Dracula</span>, are revealing. In 1886 Stoker, then manager of the Lyceum Theatre in London, refused access to a Goad surveyor intent upon undertaking internal surveys and drawings of the Lyceum. Goad wrote immediately threatening the possibility of &#145;exorbitant insurance premiums&#146;. Stoker quickly acquiesced and allowed the detailed internal inspection to proceed.<br>
+<br>In 1877 Goad married Caroline Madeleine (<i>d</i>. 1941), a Montreal woman of French-Canadian extraction; they had three sons and one daughter. A man of wide interests and considerable vitality, Goad was a member of the American Society of Civil Engineers, the Canadian Society of Civil Engineers, the London chamber of commerce, the Engineers' Club of New York, a fellow of the Statistical Society of London, and a life fellow of the Imperial Institute. He used his engineering skills to drain the swamps that then characterized Toronto Island and the present park on the island owes much to his ingenuity and vision. During his later years, accompanied by his family, he would spend winters on his plan business in London and summers in Toronto.<br>
+<br>Goad was well-built and bearded, and of above average height. He was a respected family man in Toronto and London society, an active freemason, an Anglican, and a long-time member of St Thomas's Church, Toronto. He died following a paralytic seizure at his home, 80 George Street, Toronto, on 10 June 1910 and was buried in the family vault at Mount Pleasant cemetery, Toronto. His three sons continued the London-based business that survived as an independent operation until 1974.<br>
+<br>Gwyn Rowley </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. J. Hayward, <i>Fire insurance plans in the national map collection / Plans d'assurance-incendie de la collection nationale de cartes et plans</i> (Ottawa, 1977) &middot; G. Rowley, <i>British fire insurance plans</i> (1984) &middot; H. J. Morgan, ed., <i>The Canadian men and women of the time</i> (1898) &middot; &#145;Charles E. Goad dead&#146;, <em>The Globe</em> [Toronto] (11 June 1910), 8 &middot; private information (2004) &middot; b. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=41105&amp;istheme=&amp;target=BL')">BL</a>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Rowley, <i>British fire insurance plans</i> (1984), vi<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1717 10<i>s</i>.: confirmation, 21 Jan 1911, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Gwyn Rowley, &#145;<span class="roman"><span class="headword">Goad,  Charles Edward</span>  (1848&#150;1910)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/41105, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Edward Goad (1848&#150;1910): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/41105 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/41105/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

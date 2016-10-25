@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 49478;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/49/49478-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/49/49478-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=49478#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Necker,  Louis Albert</span>  (1786&#150;1861), <span class="occ">geologist</span>, was born on 10 April 1786 in Geneva, eldest son of Jacques Necker (<i>d</i>. 1825), professor of botany and magistrate in Geneva, and Albertine (1764&#150;1841), daughter of Horace Benedict de Saussure (1740&#150;1799). As well as the famous alpine geologist and naturalist as grandfather on his mother's side, Necker's family included several other distinguished members, notably the famous novelist and authoress Madame de Sta&euml;l. Geneva provided a fertile, highly cultured background for his early education, his schooldays finishing in 1800. He then pursued a course of higher studies for four years, probably at the academy in Geneva. In July 1803, with his father, he made his first journey into the Alps.<br>
+<br>Already conversant with mineralogy and geology, Necker arrived in Scotland, aged twenty, in 1806 in order to continue his studies at the University of Edinburgh. He thus became one of several visiting students, including Richard Griffith (1784&#150;1878), from Dublin, to attend the classes of Robert Jameson (1774&#150;1854), professor of natural history from 1804. Jameson had studied briefly under A. G. Werner in Freiburg and established the Wernerian Natural History Society in Edinburgh in 1808, to promulgate Werner's teaching on the classification and origin of rocks.<br>
+<br>The young, sociable Louis Necker was soon introduced to many of the leading figures in Edinburgh society at that time&#151;such as John Playfair, Sir James Hall, Lord Webb Seymour, and others who had been associated with James Hutton (1726&#150;1797) in the Royal Society of Edinburgh, founded in 1783. Hutton had first communicated his theory of the earth to that society in 1785 and thus Necker was ideally placed to take full advantage of the opposing Huttonian (Plutonist) and Wernerian (Neptunist) schools of thought in Edinburgh. The energetic Necker embarked on a series of tours throughout Scotland while based in Edinburgh. Beginning in the winter of 1806&#150;7, he explored the coast of Fife, the islands of the Forth, and the coast of Berwickshire as far as St Abb's Head. In May 1807 he spent some time in Arran, being persuaded by the field evidence of Hutton's ideas on the origin of granite, namely that granite had crystallized out of a fluid state by means of fusion. In August that year he travelled as far as Staffa and first visited the Isle of Skye, to which he was later to return permanently.<br>
+<br>On 9 April 1808 Jameson read a paper to his newly formed society in Edinburgh, &#145;On colouring geognostical maps&#146;. No evidence exists that Jameson himself ever made such maps; Hutton, in his extensive travels, amassed a collection of specimens but made no geological map, although his friend John Clerk of Eldin illustrated the localities they visited together. Necker's unique achievement, based largely on his own tours, was to construct the earliest known geological map of the whole of Scotland. This he presented to the newly formed Geological Society of London on 4 November 1808. Hand-coloured and based on Thomas Kitchin's 1778 map of Scotland at about 12&frac12; miles to the inch, the &#145;Explanation&#146; of the rock divisions used employs both Huttonian and Wernerian principles. Unfortunately, the accompanying memoir has not survived and the map itself lay in almost complete obscurity until 1939 when it was printed in colour and published for the Edinburgh Geological Society. Although riddled with errors and omissions, it is nevertheless a remarkable document.<br>
+<br>Necker returned to Geneva to occupy the chair of mineralogy and geology from 1810. The journal of his Scottish tours was eventually published there in three volumes in 1821, as <span class="italic">Voyage en &Eacute;cosse et aux &Icirc;les H&eacute;brides</span>. He continued making extensive tours and published several other works. In 1832, Necker accompanied J. D. Forbes (1809&#150;1868), the pioneer Scottish glaciologist, on his first alpine tour, the two becoming close friends. Necker had never married, and the death of his mother on 13 April 1841 affected him deeply. He settled in Portree on the Isle of Skye for the last twenty years of his life, maintaining his wide range of scientific interests, especially in making barometrical observations. He died on 20 November 1861, aged seventy-five, at Portree, and was buried in the old churchyard there.<br>
+<br>Norman E. Butcher </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>V. A. Eyles, &#145;Louis Albert Necker, of Geneva, and his geological map of Scotland&#146;, <em>Transactions of the Edinburgh Geological Society</em>, 14/2 (1948), 93&#150;127 &middot; J. D. Forbes, <em>Proceedings of the Royal Society of Edinburgh</em>, 5 (1862&#150;6), 53&#150;76 &middot; NA Scot., SC 29/44/11/258&#150;60<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait (aged twenty; after miniature, 1806), repro. in Eyles, &#145;Louis Albert Necker&#146;, pl. 6<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;2112 6<i>s</i>. 2<i>d</i>.: confirmation, 16 Dec 1862, NA Scot.,SC 29/44/11/258&#150;60<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Norman E. Butcher, &#145;<span class="roman"><span class="headword">Necker,  Louis Albert</span>  (1786&#150;1861)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/49478, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Louis Albert Necker (1786&#150;1861): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/49478 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

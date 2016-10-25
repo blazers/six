@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7303;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7303-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7303-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7303#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Davison,  John</span>  (1777&#150;1834), <span class="occ">theologian</span>, was born on 28 May 1777 at Morpeth, Northumberland, the eldest son of John Davison and his wife Mary. He was brought up at Durham, to which his father, a schoolmaster, had moved shortly after his birth, and was educated there, either at the grammar school or the cathedral school. In 1794 he proceeded to Christ Church, Oxford, where in 1798 he gained both a Craven scholarship and his BA. In 1800 he was elected a fellow of Oriel College, shortly afterwards becoming a private tutor outside the university. He was ordained in 1803. In 1810 he returned to Oxford as one of the tutors at Oriel, and served occasionally as public examiner and Whitehall preacher until November 1817, when Lord Liverpool presented him to the vicarage of Sutterton, near Boston in Lincolnshire. In 1818 the bishop of Durham, Shute Barrington, appointed him rector of Washington, near Gateshead. On 20 July 1819 he married Mary, daughter of Robert Thorp, elder brother of Charles Thorp: they had four sons and six daughters. In 1824 he became prebend of Sneating in St Paul's Cathedral, and in 1826 Lord Liverpool appointed him a prebendary of Worcester Cathedral and subsequently rector of Upton upon Severn.<br>
+<br>Davison was the theological scholar of the early <script>writeSeealsoLink('../view/theme/45620', "Noetics")</script>, the group of Anglican clergymen at Oriel College, Oxford, who defended Christianity on the grounds of its reasonableness. It is perhaps significant that he was the tutor of Renn Dickson Hampden, the theologian of the later Noetics whose controversial Bampton lectures Davison both read and approved. However, unlike Hampden, he achieved neither notoriety nor university office; the consequence is that he has been unjustly forgotten.<br>
+<br>Davison's earliest publications were occasional contributions to the <span class="italic">Quarterly Review</span> which began to appear after his return to Oriel. Like his fellow Noetics, Davison did not confine himself to religious themes. In 1811 he supported Edward Copleston in his defence of an educationally reformed Oxford University against the calumnies of the <span class="italic">Edinburgh Review</span>. He recognized the importance of educating country gentlemen in the performance of their duties by giving them a broadly based Christian education through the medium of the classics, so that they should have some better pursuit than that of partridges. Like Richard Whately, he also supported educating the poor by preaching in favour of National Society schools: there was, he believed, no necessary connection between knowledge and insubordination. Again like Richard Whately, although no liberal (in his dialogue between the Christian and the Reformer, published in 1819, he was on the side of the anti-radical Christian), he supported the whig Sir Samuel Romilly's campaign for the abolition of capital punishment for minor property offences.<br>
+<br>In Davison's <span class="italic">Considerations on the Poor Laws</span> (1817), his principal publication of this period, he advocated the strengthening of relief for the infirm and the gradual abolition of automatic relief for the able-bodied over the course of a decade: such relief encouraged dependence and denied a man his self-respect. Abolition was possible on the assumption that able-bodied persons were capable of acting responsibly by making provision for themselves in good times to tide them over the bad. In the case of manufacturing workers, this would be by savings, and in the case of agricultural labourers, by cultivating smallholdings and other sources of income. Although some provision for the destitute would be required, this would be supplied by the rich making voluntary donations to a fund to assist the poor. However, independence had its limits: although not opposed to free trade, in his <span class="italic">Letter to Mr Canning</span> of 1826 Davison opposed the sudden abolition of duties on the importation of silk, which had caused misery to the domestic industry.<br>
+<br>Davison's principal works of theological scholarship did not appear until after he had become a parish priest. The chief of these&#151;much admired by his Oriel colleagues, Thomas Arnold and John Henry Newman, among others&#151;were his Warburtonian lectures on prophecy (1824), which were characteristically Noetic. They emphasized the primacy of revealed religion in view of the insufficiency of natural religion, and considered prophecy as one of the evidences of Christianity. They also endorsed the Noetic theme that such evidences were adapted to the minds of those to whom they were addressed, and thus presented the reader with difficulties and mysteries just as the natural world did. The novelty of the work lay in its discussion of the progressive nature of revelation, a doctrine which influenced Davison's fellow Noetic, Baden Powell, and in Davison's view that prophecy was a preparatory revelation of Christianity, the principal age of prophecy having passed. The polemic was obvious: it was a scholarly attack both on the prophetic interpretation of contemporary political events by millenarian evangelicals and on the advocates of rational religion.<br>
+<br>These themes were continued in Davison's work on the origins of primitive sacrifice (1825), a subject touched on in the earlier work. He attacked the evangelical Archbishop Magee's view that primitive sacrifice was divinely ordained, at the same time as he contended that this did not undermine the divine nature of the doctrine of the atoning power of blood as stated in the Mosaic law. This was a wholly new doctrine, and an instance of the progressive nature of revelation that he had outlined in his earlier work. He expressly attacked Unitarians for denying the doctrine of the atonement. According to him, such a denial was possible only if they also ignored or disputed the divine inspiration of the <span class="roman">Bible</span>.<br>
+<br>Davison did not enjoy good health at Upton, the preferment that his theological writings had obtained, and in January 1834 became ill enough to have to move to Cheltenham, where he died on 6 May of the same year. He was buried in the chancel of Worcester Cathedral.<br>
+<br>W. G. Blaikie<span class="italic">, rev. </span> Richard Brent </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Davison, <i>Remains and occasional publications</i> (1841) &middot; R. Brent, <i>Liberal Anglican politics</i><i>: whiggery, religion, and reform, 1830&#150;1841</i> (1987) &middot; P. Corsi, <i>Science and religion</i><i>: Baden Powell and the Anglican debate, 1800&#150;1860</i> (1988) &middot; H. Hampden, ed., <i>Some memorials of Renn Dickson Hampden</i> (1871)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Keble College, Oxford, corresp. with John Keble
+   &middot;
+ Oriel College, Oxford, letters from John Keble<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. G. Blaikie, &#145;<span class="roman"><span class="headword">Davison,  John</span>  (1777&#150;1834)</span>&#146;, rev. Richard Brent, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2014 [http://www.oxforddnb.com/view/article/7303, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Davison (1777&#150;1834): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7303 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/7303/2007-10"> [Previous version of this biography available here: October 2007]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

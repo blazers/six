@@ -1,0 +1,226 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15511;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15511-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15511-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15511#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kidd,  John</span>  (1775&#150;1851), <span class="occ">physician</span>, was born in St James's, Westminster, on 10 September 1775, one of three sons of John Kidd, captain of a merchant ship, the <i>Swallow</i>, and his wife, Beatrice, daughter of Samuel Burslem, vicar of Etwall, near Derby. After attending school at Bury St Edmunds, Kidd obtained a king's scholarship at Westminster School in London in 1789. His abilities both attracted the attention of the headmaster, Dr William Vincent, and earned him a place at Oxford upon the &#145;golden election&#146;: he matriculated at Christ Church on 30 May 1793. He graduated BA in 1797 (MA in 1800), and in the same year embarked upon a four-year course of study in medicine at Guy's Hospital, London, as a pupil of Sir Astley Cooper. In 1801 he returned to Oxford and graduated BM, and took up a lectureship in chemistry. He was to remain in Oxford for the rest of his life.<br>
+<br>Kidd's most enduring legacy was his contribution to science education. Appointed first Aldrichian professor of chemistry at Oxford in 1803, he took an active part in defining a role for the natural sciences at a time when they seemed to be further marginalized by the priorities of examination reforms. Convinced that the seventeenth-century &#145;dawn&#146; of the sciences had returned to Oxford, he vehemently opposed critics who suggested otherwise. When the <span class="italic">Encyclopaedia Britannica</span> of 1817 suggested that Oxford was deficient in scientific studies, Kidd responded with <span class="italic">An Answer to a Charge Against English Universities Contained in the Supplement to the Edinburgh Encyclopaedia</span> (1818). This included the &#145;syllabus of a course of lectures on chemistry&#146; that he had published ten years earlier. Offering twenty-six to thirty lectures on Tuesday, Thursday, and Saturday evenings during the Michaelmas and Lent terms, Kidd asserted that his course in chemistry was one of the most comprehensive in the country. Nevertheless, throughout his career he argued for &#145;no more than an ancillary role for the physical and experimental sciences&#146;  (J. Kidd, <span class="italic">An Answer to a Charge Against English Universities</span>, 1818, 7&#150;8): they were meant to complement divinity, classics, and mathematics within the rubric of a respectable education in the liberal arts.<br>
+<br>Kidd maintained this conciliatory approach to the sciences through an appeal to natural theology. Consequently, when he extended the scope of his chemistry lectures to include mineralogy and geology, he firmly yoked these subjects to theology and history by defining them as the explication of the antediluvian world. His <span class="italic">Outlines of Mineralogy</span> (1809) and <span class="italic">A Geological Essay on the Imperfect Evidence in Support of a Theory of the Earth</span> (1815) represented the seeds of an Oxford school of geology driven by diluvial theory. A founder member of the Geological Society of London (1807), Kidd lectured on mineralogy and geology to William Buckland, J. J. and W. B. Conybeare, Charles Daubeny, and W. J. Broderip, among others, in the Ashmolean Museum's &#145;subterranean classroom&#146;. In addition he contributed numerous rocks and minerals to the museum's collections.<br>
+<br>On 13 January 1805 Kidd married Isabella, daughter of the Revd Sewington Savery of St Thomas's, Southwark. They had four &#145;droll little daughters something like&#146; Kidd  (Tuckwell, 61). They settled first in St Michael's Street, Oxford, and later moved to 37 St Giles'. For a brief interval around 1817, Kidd and his family also took up residence in the basement of the Ashmolean Museum. A captain of the Oxford Loyal Volunteers in 1803, Kidd soon became an active member of the community and of the university. He attained his DM on 20 January 1804 and was elected unanimously as physician to the Radcliffe Infirmary in 1808. In 1812 he donated 30 guineas towards the construction of the Radcliffe Lunatic Asylum; and he was present when the foundation stone was laid nine years later. Remembered as a physically small man, he was often spotted about the streets of Oxford wearing a spencer, a tail-less greatcoat. &#145;Dr Kidd &hellip; a man in all things straight-forward and anti-humbug, was the first Medical Doctor in Oxford who rejected the wig and large-brimmed hat, and never, I believe, carried a gold-headed stick&#146;  (Cox, 133).<br>
+<br>Enjoying a steady ascent within his chosen career, Kidd was elected Lee's reader of anatomy in 1816. His relatively frequent requests gained him some notoriety within the Lee Trust. At his behest the trustees bought the first two microscopes in the university; and in 1819 he acquired two Florentine wax models for his lectures in human and comparative anatomy. Admitted a candidate on 31 March 1817, he was elected a fellow of the Royal College of Physicians of London on 16 March 1818. Upon the retirement of Sir Christopher Pegge, Kidd next became regius professor of medicine at the University of Oxford and resigned the Aldrichian professorship of chemistry. The Tomlin's praelectorship in anatomy, the Aldrichian professorship in anatomy and physiology, and the mastership of the Ewe Elm Hospital were all attached to the regius chair. This combination of appointments netted Kidd an annual income of &pound;466 18<i>s</i>. 10<i>d</i>.<br>
+<br>Published as <span class="italic">An introductory lecture to a course in comparative anatomy, illustrative of Paley's natural theology</span> (1824), Kidd's inaugural lecture as regius professor continued his campaign to locate science within a liberal education. Ostensibly responding to a request by Charles Lloyd, professor of divinity, Kidd sought to demonstrate that comparative anatomy could be subsumed within religious education. Much of this lecture was recycled when he was asked to be one of the eight authors of the <span class="roman">Bridgewater Treatises on the Power, Wisdom, and Goodness of God as Manifested in the Creation</span> (1833&#150;6). Regarded as perhaps the weakest, his contribution, <span class="italic">On the Adaptation of External Nature to the Physical Condition of Man</span> (1833), was characterized as &#145;but a moderate thousand pounds' worth&#146;  (<span class="italic">The Spectator</span>, 6, 1830, 360). Responding to the perceived threat of transmutationist theories Kidd sought to demonstrate the natural superiority of man to all other animals. He did not, however, provide a Paleyite, rational argument. &#145;Professing to address those only who believe in revealed as well as natural religion&#146;  (Kidd, <span class="italic">On the Adaptation of External Nature</span>, x), he preached to the converted.<br>
+<br>With the added pressures of his multiple appointments Kidd resigned as physician to the Radcliffe Infirmary on 8 March 1826. Nevertheless, he played a leading role in organizing the official response to the visitation of cholera in Oxford in 1832. In June of the same year he played a major role in the meeting at Oxford of the British Association for the Advancement of Science. The following month he attended the inaugural meeting of the Provincial Medical and Surgical Association at the Worcester Royal Infirmary. In April 1834 Kidd gave evidence before the parliamentary select committee on medical education. The architect of a new statute for medical degrees at Oxford (passed in 1833), he was a notable proponent of medical reform. As his <span class="italic">Observations on Medical Reform</span> (1841) and <span class="italic">Further Observations on Medical Reform</span> (1842) demonstrated, however, he espoused a Burkean approach. &#145;Genuine Reform&#146;, he declared, &#145;is genuine &#147;Conservatism&#148;&#146;  (Kidd, <span class="italic">Observations on Medical Reform</span>, 3). He suggested that Oxford and Cambridge should relinquish their licensing powers so that they could play an active part in any future national licensing body. Similarly he attempted to build bridges between the Oxford medical faculty and provincial general practitioners to ensure the university a role in the profession at large. He delivered this message as president of the third annual meeting of the Provincial Medical and Surgical Association. Held at Oxford in July 1835, the meeting assembled in the Radcliffe Library to which Kidd had been appointed librarian in the previous year. In 1836 he added Harveian orator to his list of distinguished achievements.<br>
+<br>Kidd's reputation as a teacher, however, suffered a serious blow at the hands of Carl Gustav Carus, physician to the court of Saxony. In his <span class="italic">England und Schottland im Jahre 1844</span> (1845; translated into English as <span class="italic">The King of Saxony's Journey through England and Scotland in 1844</span> in 1846), Carus declared that Kidd had become as antiquated as the objects which surrounded him in his Vesalian anatomy theatre. Kidd resigned the Lee's readership in March 1845. By this time the novelty and vitality of his teaching was waning. But throughout the 1820s his comparative anatomy lectures had consistently attracted audiences of approximately thirty persons. Within the sciences his lectures were second only in popularity to those delivered by William Buckland. Although many of his publications were underpinned by his pedagogical commitment to natural theology, Kidd produced surprisingly secular scientific publications for non-university contexts. His Royal Society paper &#145;On the anatomy of the mole-cricket&#146; (1825) was almost entirely shorn of any reference to natural theology. A largely descriptive morphological and physiological study of an insect, it represented an early British contribution to a specialist branch of entomology. In addition Kidd produced papers on saltpetre (1814) and naphthalene (1821) for the <span class="italic">Philosophical Transactions</span>, and a paper on the quantity of blood in animals for the <span class="italic">Edinburgh Philosophical Journal</span> (1825). He was elected a fellow of the Royal Society on 28 March 1822, and a fellow of the Linnean Society in 1835.<br>
+<br>Although he no longer taught actively in the University of Oxford after 1845, Kidd continued as regius professor of medicine and as Radcliffe librarian until his death. By the time of the royal commission of 1850, however, he had become much less optimistic about Oxford's ability to be an effective medical school. After a long period suffering from heart disease he died in the wake of several hours of an acute illness on 17 September 1851 at his home, 37 St Giles', Oxford, aged seventy-six. He was buried in St Giles' churchyard. He bequeathed his home to Christ Church as the official residence of Lee's reader of anatomy.<br>
+<br>J. F. M. Clark </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Munk%2C%20Roll')">Munk, <i>Roll</i></a>, vol. 3 &middot; J. Welch, <i>The list of the queen's scholars of St Peter's College, Westminster</i>, ed. [C. B. Phillimore], new edn (1852) &middot; H. M. Vernon and K. D. Vernon, <i>A history of the Oxford Museum</i> (1909) &middot; A. G. Gibson, <i>The Radcliffe Infirmary</i> (1926) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%205%3A%2018th-cent.%20Oxf.')"><i>Hist. U. Oxf.</i> 5: <i>18th-cent. Oxf.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%206%3A%2019th-cent.%20Oxf.%20pt%201')"><i>Hist. U. Oxf.</i> 6: <i>19th-cent. Oxf. pt 1</i></a> &middot; G. V. Cox, <i>Recollections of Oxford</i> (1868) &middot; W. Tuckwell, <i>Reminiscences of Oxford</i> (1900) &middot; R. T. Gunther, <i>Early science in Oxford</i>, 1: <i>Chemistry, mathematics, physics and surveying</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=OHS')">OHS</a>, 77 (1923); 3 (1925); 11 (1937) &middot; J. M. Edmonds, &#145;Kidd, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>, 7.363&#150;6 &middot; N. A. Rupke, <i>The great chain of history</i><i>: William Buckland and the English school of geology, 1814&#150;1849</i> (1983) &middot; J. R. Topham, &#145;&#147;An infinite variety of arguments&#148;: the <i>Bridgewater treatises</i> and British natural theology in the 1830s&#146;, Phd diss., University of Lancaster, 1993 &middot; A. V. Simcock, <i>Robert T. Gunther and the old Ashmolean</i> (1985) &middot; I. Loudon, <i>Medical care and the general practitioner, 1750&#150;1850</i> (1986) &middot; A. H. T. Robb-Smith, <i>A short history of the Radcliffe Infirmary</i> (1970) &middot; &#145;Select committee on medical education&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1834), 13.307&#150;19, no. 602 &middot; <em>The Times</em> (18 Sept 1851) &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, Radcliffe Science Library, letters and papers as Radcliffe librarian
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, notebook relating to the history of Ewelme Hospital&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Oxf.%20U.%20Mus.%20NH')">Oxf. U. Mus. NH</a>, letters to F. W. Hope<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> chalk drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Christ%20Church%20Oxf.')">Christ Church Oxf.</a> &middot; pencil and chalk drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15511&amp;istheme=&amp;target=Oxf.%20U.%20Mus.%20NH')">Oxf. U. Mus. NH</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. F. M. Clark, &#145;<span class="roman"><span class="headword">Kidd,  John</span>  (1775&#150;1851)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2007 [http://www.oxforddnb.com/view/article/15511, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Kidd (1775&#150;1851): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15511 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/15511/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

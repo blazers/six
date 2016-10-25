@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 39101;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/39/39101-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/39/39101-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=39101#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Alfonsi,  Petrus</span>  (<em>fl. </em>1106&#150;1126), <span class="occ">scholar and translator of scientific works</span>, was born in northern Spain, to Jewish parents. He was baptized a Christian on 29 June 1106 in Huesca, Aragon, with the names of the apostle on whose feast day the baptism took place and of his godfather, Alfonso I of Aragon (<i>r</i>. 1104&#150;34). To his contemporaries he was sometimes known as Petrus Ebreus, but Petrus Alfonsi and Petrus Alfonsus are the forms of his name commonly found in modern scholarship, though the manuscripts favour Alfunsus, Anfulsus, Anfusus, or Anfus (all with -f- or -ph-) and also Amdefunsus, for the second element. Until his baptism, according to his own testimony and that of another Jewish scholar from Huesca, Abraham bar Hiyya, Alfonsi had been a prominent member of the Jewish community of Huesca, a city which, until its capture in 1096, had been in Islamic territory. His educational and cultural background, therefore, was in secular sciences of ultimately Greek origin, but read in Arabic, and in the Hebrew scriptures. It was this background that put him in a unique position to impart the knowledge of Arabic science to a European audience. Although he addresses &#145;all the Peripatetics in France&#146; in a letter in which he advertises his teaching skills, the only country in which his presence is attested is England. The belief that he was &#145;a doctor of king Henry I of England&#146; rests on the evidence of just one fourteenth-century manuscript of his <span class="italic">Disciplina clericalis</span>  (CUL, MS Ii.6.11). More secure is the evidence of a work on the times when the moon's orbit crosses that of the sun, which is entitled &#145;The opinion of Peter the Hebrew, surnamed Anphus, concerning the Dragon, which the lord Walcher, prior of the church of Malvern translated into Latin&#146;, and which refers in its text to conversations between Alfonsi and Walcher  (Bodl. Oxf., MS Auct. F.1.9, fol. 96).<br>
+<br>Prior Walcher died in 1135 and the presence of Alfonsi in the west country in the years before that date might have been a contributing factor to the remarkable efflorescence of Arabic science in that region from the 1120s onwards. One example of this is the knowledge (for the first time in the Latin West) of a complete set of astronomical tables. The mid-ninth-century tables (<i>Zij</i>) of al-Khwarizmi were translated by Alfonsi and included the starting date (or radix) of 1 October 1116. No integral version of Alfonsi's translation appears to have survived, for at an early date some chapters from a version by Adelard of Bath were added to, or replaced, Alfonsi's canons (rules for using the tables). Adelard's own version of the tables (without Alfonsi's chapters) includes the date 1126, and it is clear that the one version is closely related to the other, though this relationship is obscured by the several variant versions given by the manuscripts. In any case, these versions bear witness to a close association between Alfonsi and Adelard in the west country (where Adelard was writing) and the lively interest in astronomy in that area: probably Alfonsi was one of the &#145;magistri&#146; in &#145;Arabum studia&#146; to whom Adelard expresses his debt. It is possible that he subsequently returned to Spain, but so far it has proved impossible to identify Alfonsi with any certainty in Iberian records.<br>
+<br>Petrus Alfonsi wrote two major literary works. The first is the <span class="italic">Dialogi</span>, a set of twelve conversations between Alfonsi's new Christian self and his old Jewish self, Moses, in which his purpose is to justify his conversion to Christianity. His criticisms of Judaism are backed up by copious references to the <span class="roman">Talmud</span> and the work quickly became, and remained, a popular work for Christian apologists and missionaries dealing with Judaism, and, through its description of Jewish mystical ideas, had an influence on Joachism and the Christian cabbala. But the <span class="italic">Dialogi</span> also explores what Islam has to offer (here Alfonsi uses the Arabic text of the <span class="italic">Apologia</span> of Pseudo-al-Kindi, which was later to be translated by Pedro de Toledo) and digresses quite widely, and explicitly, on medical, astronomical, and cosmological topics. The second work is the <span class="italic">Disciplina clericalis</span>, an equally popular collection of proverbs, exemplary tales, and animal fables, loosely strung together to provide an education for a &#145;gentleman&#146; (including table manners), and taken from Arabic and Hebrew sources. This was translated into European vernaculars several times and influenced Boccaccio and Chaucer.<br>
+<br>The digressions in the <span class="italic">Dialogi</span> point to Alfonsi's principal interest in medicine and astronomy. No medical work of his survives and it is rather as a teacher of astronomy that he advertises himself in his letter to the peripatetics of France. Here he claims astronomy as the culmination of the seven liberal arts, which he classifies differently from Boethius and the main Latin tradition, throwing out grammar and logic and substituting medicine and necromancy. He gives as an example of his competence in astronomy a portion of his introduction to the astronomical tables of al-Khwarizmi.<br>
+<br>Other works have been attributed to Petrus Alfonsi. One which was probably correctly attributed, but is no longer extant, is &#145;three books of dialogues of which the first is about the seven arts, the second about religions, [religious] laws and faiths, and the third about man's advantage [<i>humanum proficuum</i>]&#146;, mentioned in the late fourteenth-century <span class="italic">Catalogus scriptorum ecclesiae</span> of Henry Kirkestede  (R. H. Rouse, ed., &#145;Catalogus de libris authenticis et apocryphis&#146;, PhD diss., Cornell University, 1963, 221). The third book is also cited by Peter of Cornwall in the late twelfth century. But the <span class="italic">Liber Marii de elementis</span>, whose author refers to a book of his own called <span class="italic">De proficuo humano</span>, is probably not by Alfonsi, but rather by the Marius Salernitanus who was a teacher of Gottfried of Viterbo (<i>d</i>. 1192&times;1200). Similarly the <span class="italic">Liber ysagogarum Alchorismi in artem astronomicam</span>, attributed in one manuscript to &#145;magister A&#146; and featuring the table of eras from Alfonsi's translation of al-Khwarizmi's <i>Zij</i>, is probably not by Alfonsi but rather by another Jewish scholar, Avendauth.<br>
+<br>In spite of strenuously denying his Jewishness in the <span class="italic">Dialogi</span>, Alfonsi had the typical interests of Jewish scholars of his time: in theology on the one hand, and in astronomy, astrology, and other mathematical topics on the other. By being one of the first Jewish scholars to transfer this knowledge into a Christian context, he has an important place in the history of culture.<br>
+<br>Charles Burnett </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>CUL, MS Ii.6.11 &middot; Bodl. Oxf., MS Auct.F.1.9 &middot; M.-J. Lacarra, <i>Estudios sobre Pedro Alfonso de Huesca</i> (1996) &middot; J.-M. Mill&aacute;s Vallicrosa, &#145;La aportaci&oacute;n astron&oacute;mica de Pedro Alfonso&#146;, <em>Sefarad</em>, 3 (1943), 65&#150;105 [incl. edns of <i>Sententia Petri Ebrei</i> and &#145;Letter to the Peripatetics of France&#146; with preface to trans. of al-Khwarizmi's <i>Zij</i>] &middot; J. Tolan, <i>Petrus Alfonsi and his medieval readers</i> (1993) [incl. edn of &#145;Letter to the Peripatetics of France&#146;] &middot; C. Burnett, &#145;The works of Petrus Alfonsi: questions of authenticity&#146;, <em>Medium Aevum</em>, 66 (1997), 42&#150;79 [incl. edn of the preface to al-Khwarizmi's <i>Zij</i>] &middot; P. Sj. van Koningsveld, &#145;La <i>Apologia</i> de Al-Kindi en la Espa&ntilde;a del siglo XII: Huellas toledanas de un &#147;animal disputax&#148;&#146;, <i>Estudios sobre Alfonso VI y la reconquista de Toledo: actas del II Congreso Internacional de Estudios Moz&aacute;rabes</i> [Toledo 1985], 3 (Toledo, 1989), 107&#150;29 &middot; <i>Der Dialog des Petrus Alfonsi</i><i>: seine &Uuml;berlieferung im Druck und in den Handschriften: Textedition</i>, ed. K.-P. Mieth (Berlin, 1982) &middot; P. Alfonsi, <i>Disciplina clericalis I</i><i>: Lateinischer Text</i>, ed. A. Hilka and W. S&ouml;derhjelm, Acta Societatis Scientiarum Fennicae, 38/4 (1911) &middot; O. Neugebauer, ed. and trans., <i>The astronomical tables of al-Khw&#257;rizm&#299;</i> (1962)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39101&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Auct. F.1.9
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39101&amp;istheme=&amp;target=CUL')">CUL</a>, MS Ii.6.11<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Charles Burnett, &#145;<span class="roman"><span class="headword">Alfonsi,  Petrus</span>  (<em>fl. </em>1106&#150;1126)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/39101, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Petrus Alfonsi (1106&#150;1126): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/39101 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/39101/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

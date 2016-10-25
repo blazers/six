@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32753;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32753-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32753-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32753#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Dawson,  George Mercer</span>  (1849&#150;1901), <span class="occ">geologist and anthropologist</span>, was born in Pictou, Nova Scotia, on 1 August 1849, the son of <script>writeSeealsoLink('../view/article/7351/', "Sir John William Dawson (1820&#150;1899)")</script>, geologist, and Margaret Ann Young Mercer (<i>b</i>. 1829/30). His father became principal of McGill College in 1855, and the young Dawson attended Montreal high school in 1858. Tuberculosis of the spine (Pott's disease), which left him with some permanent physical disabilities, then confined his schooling to home. Nevertheless, from 1868 to 1869 Dawson studied at McGill, and in 1870 published a paper on the geographical distribution of foraminifers he had dredged for at Gaspe.<br>
+<br>In 1869 Dawson travelled to England and enrolled at the Royal School of Mines, Kensington, where the intensive scientific training included fieldwork with the Geological Survey. Although his father remained notoriously anti-Darwinian, Dawson's studies with Thomas Huxley encouraged a modern evolutionary approach. Graduating with distinction and awards in 1872, he returned to Canada, where he taught at Morrin College, Quebec, before joining the international boundary survey from Lake of the Woods to British Columbia in 1874.<br>
+<br>Dawson's <span class="italic">Report</span> (1875) established him as a brilliant field geologist, and guided future railway building and settlement in western Canada. He illuminated metamorphic and glacial influences upon Pleistocene structures; turned attention to Cretaceous formations, fossiliferous and younger than the Precambrian Shield of central Canada; added hundreds of specimens to the Kew and British Museum collections; mapped Tertiary lignites as crucial fuel sources; and documented locust invasions.<br>
+<br>Dawson reaffirmed his remarkable ability to observe and extrapolate over vast expanses of complex terrain when he joined the geological survey of Canada (GSC) in 1875. Through arduous initial explorations in British Columbia and the Red, Assiniboine, Souris, Skeena, and Peace River regions, he related the British Cretaceous to the American Laramie formations. He also linked metamorphism in Canada to volcanic activity elsewhere. While retaining the older hypothesis that drifting icebergs best explained western Canada's surficial geology, Dawson gradually admitted evidence of continental ice sheets, especially in British Columbia. To significant theoretical accomplishments he added invaluable inventories of natural resources in these lands.<br>
+<br>In British Columbia, Dawson also conducted important anthropological groundwork. He advocated education and even assimilation of indigenous peoples to prevent their outright extinction. A visit to the Queen Charlotte Islands in 1878 reinforced Dawson's appreciation of Haida culture as highly evolved. The shocking contrast of their diminishing population prompted rich ethnological appendices to his geological report (1879), with warnings that Haida concepts of property demanded government consideration. Further pioneering researches in ethnology brought appointments by the British Association for the Advancement of Science, to direct studies of north-western tribes in 1884 and to chair an ethnological survey of Canada in 1897.<br>
+<br>Dawson also discovered fossil evidence of dinosaurs near Lake of the Woods in 1874, and subsequently along Red Deer River (Alberta). As his anthropological collections called for a national repository that became the Canadian Museum of Civilization, his palaeontological collections grew into the department of vertebrate palaeontology of the National Museum of Natural Sciences. Meanwhile, his geological fieldwork proceeded apace along the Bow and Belly rivers, and into the Rocky and Selkirk mountain ranges. His enthusiasm for exploitation of Albertan coal inspired both entrepreneurs and the House of Commons standing committee on immigration and colonization. Numerous authoritative publications included a cumulative geological map (1887); a study of the mineral wealth of British Columbia (1889), encouraging lode mining in the cordilleras; and an eloquent plea for continued exploration and mapping in Canada (1890).<br>
+<br>In 1887 Dawson led a survey into the Yukon territory, long rumoured to harbour placer gold deposits. When glacial patterns supported these hopes, he delineated access routes and a location for the disputed Alaska boundary. Dawson's report sold out two editions, and was widely believed to have heralded the gold rush in the Klondike, which his survey had not actually reached. Dawson City was accordingly named for him in 1898.<br>
+<br>Dawson's remarkable field achievements multiplied his administrative responsibilities. He became an assistant director of the GSC in 1883, then acting director while A. R. C. Selwyn travelled abroad in 1885&#150;6. Honours included fellowship in the Royal Society of London and the Geological Society of London's Bigsby medal in 1891; appointment as CMG for aiding Britain in the Bering Sea dispute in 1892; several honorary doctorates; the associate editorship of the <span class="italic">Journal of Geology</span> (Chicago); and the presidency of the Royal Society of Canada in 1893. He succeeded Selwyn as director of the GSC in 1895.<br>
+<br>Dawson's accession fulfilled a long-time ambition. While the GSC's morale and public image required refurbishing, he also hoped to emphasize detailed mapping. The election of Wilfrid Laurier's Liberal government in 1896 and the Klondike gold rush instead intensified public expectations of mineral resources. Like Selwyn, Dawson heeded both scientific and economic calls, suffering criticism for failing to increase funding while his own honours continued to pour in. In 1897 he presided over the geological section of the BAAS in Toronto, led a transcontinental geological excursion by rail, and won the Royal Geographical Society's gold medal. In 1898 he became vice-president of the Canadian Institute of Mining, and in 1900 president of the Geological Society of America.<br>
+<br>Allegedly a chain-smoker, Dawson succumbed to bronchitis, dying at Victoria Chambers, Ottawa, on 2 March 1901, shocking many who took his awesome accomplishments for granted; he was buried in Montreal. Although the GSC's internal rivalries and structural difficulties remained unresolved, he had raised the institution to new scientific heights. Eloquent tributes fitted the indefatigable explorer whose work laid the foundation for immense wealth and economic expansion in Canada's new century.<br>
+<br>Suzanne Zeller </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Globe</em> [Toronto] (4 March 1901) &middot; H. M. Ami, <em>Ottawa Naturalist</em> (May 1901), 43&#150;52 &middot; R. W. Shannon, <em>The Commonwealth</em> (March 1901), 50 &middot; W. J. M. [W. J. McGee], <em>American Anthropologist</em>, new ser., 3 (1901), 159&#150;63 &middot; F. D. Adams, <em>Bulletin of the Geological Society of America</em>, 13 (1902), 498&#150;509 &middot; B. J. Harrington, <em>Proceedings and Transactions of the Royal Society of Canada</em>, 2nd ser., 2 (1902), section 4, pp. 183&#150;92 &middot; M. Reeks, <i>Register of the associates and old students of the Royal School of Mines</i> (1920) &middot; P. R. Eakins, &#145;George Mercer Dawson, 1849&#150;1901, citizen and scientist&#146;, <em>Proceedings of the Geological Association of Canada</em>, 23 (1971), 19&#150;23 &middot; A. H. Land, &#145;G. M. Dawson and the economic development of western Canada&#146;, <em>Canadian Public Administration</em>, 14 (1971), 236&#150;55 &middot; J. van West, &#145;George Mercer Dawson: an early Canadian anthropologist&#146;, <em>Anthropological Journal of Canada</em>, 14/4 (1976), 8&#150;12 &middot; M. Zaslow, <i>Reading the rocks</i><i>: the story of the geological survey of Canada</i> (1975) &middot; R. A. Richardson and B. H. MacDonald, <i>Science and technology in Canadian history</i><i>: a bibliography of primary sources to 1914</i> (1987) &middot; H. J. Morgan, ed., <i>The Canadian men and women of the time</i> (1898)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Geological Survey of Canada, Ottawa, <i>Reports of progress</i> and director's letter-books
+   &middot;
+ McGill University, Montreal<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, McCord Museum of Canadian History, Montreal, Notman Photographic Archives; repro. in G. Woodcock, <i>Faces from history</i> (1973), 15 &middot; photographs, Geological Survey of Canada, Ottawa<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Suzanne Zeller, &#145;<span class="roman"><span class="headword">Dawson,  George Mercer</span>  (1849&#150;1901)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/32753, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Mercer Dawson (1849&#150;1901): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32753 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 98422;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/98/98422-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/98/98422-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=98422#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=98422&amp;orientation=p')"><img border="0" alt="  Jesse Cooper Dawes (1878&#150;1955), by unknown photographer" onmouseover="status='  Jesse Cooper Dawes (1878&#150;1955), by unknown photographer'" src="/images/article-imgs/98/98422_1_200px.jpg"></a><span class="imagecaption"><b>  Jesse Cooper Dawes (1878&#150;1955)</b>, by unknown photographer</span>
+</div>
+<div class="para">
+<span class="headword">Dawes,  Jesse Cooper</span>  (1878&#150;1955), <span class="occ">sanitary inspector</span>, was born at Hall Street, Blakenhall, Wolverhampton, Staffordshire, on 21 October 1878, the son of James Cooper Dawes, tinplate worker, and his wife, Elizabeth, <i>n&eacute;e</i> Belcher. He received his early education and his subsequent training in public cleansing in Wolverhampton. He served in Greetland and then York where, on 2 March 1910, he married Alice Gertrude Clarke, a 29-year-old elementary schoolmistress, daughter of Joseph Thomas Pallister Clarke, a civil engineer. In 1911 Dawes was appointed chief sanitary inspector and cleansing superintendent at Keighley, Yorkshire, a position he held for the next ten years.<br>
+<br>Dawes played a central role in Britain's &#145;refuse revolution&#146;  (Luckin) of the late nineteenth and early twentieth centuries. In fact he was one of the first to suggest such a phenomenon: &#145;Public Cleansing has undergone a revolution in recent years and now calls for a high degree of technical skill if it is to be carried out in an efficient, cleanly and economical manner&#146;  (Dawes, <span class="italic">Report of an Investigation</span>). Before about 1870 refuse collection in Britain was sporadic, and relied principally on <i>ad hoc</i> provision of service by private contractors. As part of the extension of service industries and the revolution in government, management of household and trade waste increasingly became the province of a phalanx of municipal technocrats&#151;borough engineers, medical officers of health, and cleansing superintendents. In the first instance this shift to professionalization and municipalization of waste was closely allied to the emergent technology of refuse destructors or incinerators. Dawes embarked on his career in public cleansing just as the initial enthusiasm for incinerators began to wane. In Keighley he established a reputation for his work in slum clearance and salvage recovery. During the First World War recovery of materials from domestic and trade waste became increasingly important, and Dawes travelled throughout Britain, encouraging local authorities to salvage. In 1916 he was seconded to the Department of Supply as assistant director of national salvage and in 1918 he assumed the post of chief technical adviser to the National Salvage Council, which was chaired by the secretary of state for war, Lord Derby. His services to the nation were acknowledged when he was appointed OBE at the end of the war.<br>
+<br>On the formation of the Ministry of Health in 1919 Dawes was appointed the department's inspector of public cleansing and salvage. His subsequent election as president of the Institute of Cleansing Superintendents (established in 1898) in 1924 (and subsequently in 1930, 1931, 1932, 1945, and 1946) confirmed his pre-eminent position in waste management. In 1923 he was also elected a member of the Institution of Mechanical Engineers. As the Ministry of Health's inspector of public cleansing and salvage he advised local authorities and presided over public inquiries related to local authority applications for loans for purchase of land, vehicles, plant, and buildings in aid of public cleansing.<br>
+<br>In Keighley Dawes had embraced &#145;controlled tipping&#146; (called &#145;sanitary landfill&#146; in the USA), which had been introduced in 1915 by Ernest Call, Bradford's cleansing officer, as an alternative to refuse incineration. In 1922 Dawes introduced the Ministry of Health's &#145;tipping precautions&#146;, a code of practice that provided public support for controlled tipping. He thereby played a pivotal role in the early institutionalization of controlled tipping within British waste management regimes. He further rationalized waste management practices through the introduction of a costing system for local authorities in 1926. A year earlier, in 1925, a deputation from London county council had requested the Ministry of Health to investigate public cleansing in London. This resulted in Dawes's exhaustive exploration of the subject, and culminated in his influential <span class="italic">Report of an Investigation into the Public Cleansing Service in the Administrative County of London</span> (1929). Popularly known as the Dawes report, it articulated the guiding principles of Dawes's approach for the remainder of his career, and left a lasting legacy in British waste management for the rest of the twentieth century. He contended that public cleansing must be sanitary and economically efficient. He decried indiscriminate burning and dumping of refuse, and promoted centralization of services that encompassed separation, pulverization, and controlled tipping. He acknowledged that suburban growth both compounded and highlighted the deficiencies of refuse dumps surrounding urban areas like London. In this respect he reserved special condemnation for South Hornchurch, &#145;the worst refuse dump in Britain and by far the biggest&#146;  (Dawes, <span class="italic">Report</span>, 30). Moreover, he depicted dumps such as this as constituting a &#145;disfiguring and damaging environment&#146; (ibid.).<br>
+<br>As chairman of the International Association for Public Cleansing from 1928 to 1935 and president of the first International Conference on Public Cleansing, held in London in 1931, Dawes reiterated the importance of public cleansing in terms of hygiene, amenity, and cost. In the four years before 1930 he had attended three conferences and exhibitions of German public cleansing services, and he concluded: &#145;taking England as a whole it is, probably, better cleaned than any other European country and &hellip; the work is being done at a much lower average cost than elsewhere&#146;  (TNA: PRO, HLG 51/3). Furthermore, he actively promoted the international conference as a potential showcase for British refuse collection vehicles. This was indicative of his broad commitment to all facets of effective public cleansing. As chairman of the British Standards Committee he sought to define the specifications for the most effective dustbin, with a smooth interior, tight-fitting lid, and an absence of corners. The international scope of his interests was confirmed by his acceptance of an invitation by the Maltese government to advise them on their public cleansing in 1936.<br>
+<br>Dawes became president of the Sanitary Inspectors' Association (forerunner of the Chartered Institute of Environmental Health) in 1938 and retained this position until 1952. He was the first local government officer from the sanitary and cleansing services to hold the presidency. With the declaration of war in 1939 he was seconded to the directorate of salvage and recovery within the Ministry of Supply, as deputy director and then director, to build on his work for the National Salvage Council in the First World War. Among other things the National Salvage Council had introduced &#145;modern refuse disposal plants&#146;. These were incinerator plants that were modified to include separation and salvage. Under Dawes's guidance Britain had continued to pursue salvage during the inter-war years, and in 1940 he declared that the nation had derived more salvage from domestic waste since the First World War than all other continental European countries combined. Nevertheless, he argued that too often valuable raw materials continued to be discarded: in 1939 he spearheaded the distribution of a &#145;salvage circular&#146; to 2000 local authorities, imploring them to modify collection of refuse to retrieve such recyclable goods as paper, metal, rags, and foodstuffs. Dawes's contribution to the promotion of wartime salvage helped to achieve the reuse and recycling of 7,500,000 tons of materials between 1939 and 1946. His wartime contribution was acknowledged when he was appointed CBE in 1947.<br>
+<br>Dawes transferred to the Ministry of Housing and Local Government in 1948, and remained there in a part-time capacity until his retirement in 1951. Through his various prominent roles, his considerable number of publications, and his addresses he garnered enormous respect in the field of waste management. A contemporary recalled:<blockquote>Everyone trusted Dawes, he was reliable, his advice was sound, he had no axe to grind, he was there to help and he knew just when and how that help could be applied. We all had such faith in him, no wonder he could hold a Conference spellbound when he addressed it. (H. A., <span class="italic">Public Cleansing and Salvage</span>, 404&#150;5)</blockquote>His international reputation was equally impressive: in 1949 he became technical consultant to the World Health Organization in matters of refuse collection and disposal, and undertook an investigation of provisions in the USA. He toured European countries in 1951 in his capacity as honorary chairman of the OEEC's technical assistance mission; and in the same year he provided a survey and report on refuse disposal services in the city of Trieste.<br>
+<br>Dawes found time in the years following his retirement to pursue his interests in football, bowls, and gardening. While pruning a tree, he fell and broke his ankle. He never fully recovered from the shock of this injury, and died from pneumonia in Edgware General Hospital, Hendon, London, on 10 June 1955. Perhaps ironically, Dawes, the great proponent of controlled tipping, was cremated. A memorial service was held at Harrow on 14 June 1955. The Chartered Institution of Wastes Management continues to acknowledge his legacy through the annual award of a travelling scholarship in his name.<br>
+<br>J. F. M. Clark </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. C. Dawes, <i>Report of an investigation into the public cleansing service in the administrative county of London</i> (1929) &middot; J. C. Dawes, &#145;The progress of the municipal salvage scheme&#146;, <em><i>Public Cleansing</i></em> (May 1940), 274&#150;8 &middot; J. C. Dawes, &#145;Presidential address: some lessons from the war&#146;, <em><i>Public Cleansing and Salvage</i></em> (July 1946), 550&#150;4 &middot; J. C. Dawes, &#145;Refuse utilisation in Great Britain during the past seven years&#146;, <em><i>Public Cleansing and Salvage</i></em> (Nov 1947), 116&#150;25 &middot; <em><i>Municipal Engineering</i></em>, 132 (17 June 1955), 746 &middot; H. A., <em><i>Public Cleansing</i></em>, 45 (1955), 404&#150;6 &middot; M. Gandy, <i>Recycling and the politics of urban waste</i> (1994) &middot; L. Herbert, <i>The history of the Institute of Wastes Management</i> (1998) &middot; B. Luckin, &#145;Pollution in the city&#146;, <i>The Cambridge urban history of Britain</i>, ed. M. Daunton, 3 (2000), 207&#150;28 &middot; J. Scanlan, <i>On garbage</i> (2005) &middot; A. Tanner, &#145;Dust-O! Rubbish in Victorian London, 1860&#150;1900&#146;, <em><i>London Journal</i></em>, 31 (2006), 157&#150;78 &middot; J. F. M. Clark, &#145;&#147;The incineration of refuse is beautiful&#148;: Torquay and the introduction of municipal refuse destructors&#146;, <em><i>Urban History</i></em>, 34 (2007), 255&#150;77 &middot; T. Cooper, &#145;Challenging the &#147;refuse revolution&#148;: war, waste and the rediscovery of recycling, 1900&#150;1950&#146;, <em><i>Historical Research</i></em>, 81 (2007), 710&#150;31 &middot; M. Riley, &#145;From salvage to recycling: new agendas or same old rubbish?&#146;, <em><i>Area</i></em>, 40 (2008), 79&#150;89 &middot; International Conference on Public Cleansing, 1931, TNA: PRO, HLG 51/3 &middot; b. cert. &middot; m. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Herbert, <i>History</i>, 30 &middot; photograph, Chartered Institution of Wastes Management [<i>see illus.</i>]<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;34,350 19<i>s</i>. 5<i>d</i>.: probate, 3 Sept 1955, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. F. M. Clark, &#145;<span class="roman"><span class="headword">Dawes,  Jesse Cooper</span>  (1878&#150;1955)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, May 2009 [http://www.oxforddnb.com/view/article/98422, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Jesse Cooper Dawes (1878&#150;1955): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/98422 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

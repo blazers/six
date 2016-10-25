@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 885;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/885-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/885-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=885#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Aubert,  Alexander</span>  (<em>bap. </em>1730, <em>d.</em> 1805), <span class="occ">merchant and astronomer</span>, was born at Austin Friars, London, and baptized on 11 May 1730 at St Peter-le-Poer, Old Broad Street, London, the second of seven children and eldest of the four sons of Claude Aubert (1692&#150;1774), merchant, of Austin Friars, and his wife, Mary Dorothy, daughter of the Revd James Gilbert, king's chaplain. Claude Aubert, originally of Crest, Dauphin&eacute;, had fled France following the revocation of the edict of Nantes. Alexander was educated at Cheam Academy, Surrey, before spending six or seven years among other members of the Aubert family who had sought exile in Geneva. There, in 1744, the sight of a comet sparked his lifelong interest in astronomy. In the course of his mercantile training at Geneva, briefly at London, then at Leghorn and Genoa, Aubert became fluent in French and Italian. He then spent three years on his grand tour in Italy, was in Rome for the jubilee of 1750, and aged twenty-one was taken into partnership with his father. The following year he was elected a director of the London Assurance Company (of which he was later a governor).<br>
+<br>On 31 December 1768 at St Matthew, Bethnal Green, Middlesex, Aubert married Sarah Clarke, with whom he had at least two daughters and a son, Alexander (<i>d</i>. 1798), who also became a merchant in Shoreditch, London, and may also have worked in France. It is uncertain whether Aubert's wife and daughters predeceased him or parted company from him: certainly they were not mentioned in Aubert's will, and he was considered to have died a bachelor. He was elected to the Royal Society in 1772 and joined its dining club, to which he invited a stream of eminent foreign visitors. His portly figure owed much to his hospitality and enjoyment of good living. He was elected a fellow of the Society of Antiquaries in 1774, and received a diploma of membership of the Imperial Academy of St Petersburg in 1773, or in 1793&#151;sources differ.<br>
+<br>Supported by his inheritance and a dependable income from the London Assurance Company, Aubert was able to indulge his passion for astronomy. In 1771 he built an observatory at his country house at Loampit Hill, Deptford, which he fitted out with fine instruments, many by John Bird (<i>d</i>. 1776), whose executor Aubert later was, and from whom he inherited a clock. At Austin Friars he had observed the transit of Venus in 1769; from Deptford he observed the transit of Mercury in 1786, and sent his report to the Royal Society. Aubert's knowledge of mechanics led to his appointment as a trustee, and in 1787 as chairman, for the completion of Ramsgate harbour. John Smeaton was the engineer for this project, and on one occasion he and Aubert descended together in a diving bell to examine the foundations of the pier. Aubert also revised for publication Smeaton's account of the building of the Eddystone lighthouse.<br>
+<br>In 1788 Aubert bought Highbury House, Islington, London, for 6000 guineas, and settled there with two of his sisters. He set about improving the 74 acre estate with its orchards, hothouses, pastures, and outbuildings for livestock, carriages, and brewing. When the church of St Peter-le-Poer was rebuilt, Aubert kept its redundant tower clock as a feature near the house. With Smeaton's help, a tall observatory wing, with a flat roof for accommodating telescopes, was added to the house. Here Aubert created the finest private observatory of its day. A stone pillar rose from ground to roof, supporting the delicate instruments, which were undisturbed by any movement of the building itself. The lower floors were fitted out as workshops, with lathes and a profusion of hand tools. Many of Aubert's instruments were acquired at the sales of notable professionals and virtuosi. John Brown, a Scottish visitor, noted in his diary:<blockquote>Sunday 18th April 1802, walked to Mr Aubert's observatory near Islington and saw with pleasure all his excellent instruments and his observatory most admirably contrived. His transit is on stone pillars and St Paul's is his meridian mark. The transit is by Dollond, 44 inch focus, treble object glass of four inches diameter, of those telescopes he has several made by old [John] Dollond &hellip; His quadrant seems an excellent one made by Bird 4 ft radius fixed on a stone pillar reflecting telescopes are very numerous and said to be excellent, some of them seven feet long and nine inches in aperture. There is one very short in proportion to its length and thus called Dumpy, made by Short &hellip; 7 or 8 feet long which from its being mounted in a particular manner for use, is perhaps the best, it is nine inches aperture [this was Short's only Cassegrain; like the 44 inch Dollond, it had formerly belonged to Topham Beauclerk (<i>d</i>. 1788)]. An equatorial which was made by Ramsden for General Roy and purchased by Mr Aubert &hellip; is seen capitally mounted on a stone pillar under a moveable cupola contrived by Mr Smeaton, the cupole is nine feet diameter &hellip; (NL Scot., MS 1867, 34)</blockquote>When the French Revolution threatened corresponding unrest in England, various local societies were founded to combat sedition. Aubert formed the Loyal Islington Volunteers in 1797, being commissioned as lieutenant-colonel commandant; they were disbanded in 1801. Among his other duties, Aubert acted as senior esquire to Sir John Blaqui&egrave;re at his installation, and was a governor of St Thomas's, Guy's, and Christ's hospitals. He held a commission of lieutenancy for the City in 1793. While staying with his friend John Lloyd of Wigfair, St Asaph, Flintshire, Aubert visited a nearby glassworks, where he became overheated, caught a chill on leaving, and died at Wigfair on 19 October 1805. His body was returned for interment in the chancel of St Mary's, Islington, on 5 November. The sale of Aubert's extensive collection of books and instruments fetched well over &pound;3000.<br>
+<br>A. M. Clerke<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. Aubert, &#145;Alexander Aubert, FRS, astronome, 1730&#150;1805&#146;, <em>Notes and Records of the Royal Society</em>, 9 (1951&#150;2), 79&#150;95 &middot; J. Nelson, <i>The history, topography and antiquities of the parish of St Mary Islington</i> (1811); repr. as <i>The history of Islington</i> (1980), 14, 137&#150;47 &middot; sale of Alexander Aubert's books and instruments (1806) [sale catalogue, Sothebys, London, July 1806] &middot; W. Kitchiner, <i>Practical observations on telescopes</i>, 3rd edn (1818), 16, 108 &middot; NL Scot., MS 1867 &middot; parish register, London, St Peter-le-Poer, 11 May 1730 [baptism] &middot; will, TNA: PRO, PROB 11/1315 [A. Aubert, son] &middot; private information (2004) &middot; private information (2012) [C. Gordon Clark]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=885&amp;istheme=&amp;target=RAS')">RAS</a>, letters to William Herschel<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Chapman, stipple (after S. Drummond), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=885&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=885&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=885&amp;istheme=&amp;target=RSRoyal%20Society%2C%20London')">RS</a>; repro. in <em>European Magazine</em> (1798) &middot; Chapman, engraving (after Drummond), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=885&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. M. Clerke, &#145;<span class="roman"><span class="headword">Aubert,  Alexander</span>  (<em>bap. </em>1730, <em>d.</em> 1805)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2012 [http://www.oxforddnb.com/view/article/885, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Alexander Aubert (<em>bap. </em>1730, <em>d.</em> 1805): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/885 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/885/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

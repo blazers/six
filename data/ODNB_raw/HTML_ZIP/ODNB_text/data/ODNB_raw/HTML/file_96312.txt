@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 96312;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/96/96312-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/96/96312-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=96312#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Johnston,  George</span>  (1855&#150;1945), <span class="occ">engineer</span>, was born at West Linton, Peebleshire, on 3 August 1855, the third child of James Aitchison Johnston, the United Presbyterian minister of West Linton, and his wife, Janet, <i>n&eacute;e</i> Fulton. His mother came from Glasgow and in 1861 his father accepted the call to be minister of the congregation at Springburn in the east end of the city, the home of Neilson &amp; Co.'s locomotive works. By the age of fifteen he was an apprentice engineer at the works where he was later joined by his younger brother Hugh Fulton Johnston. He took Professor John Thomson's classes in civil engineering and mechanics and office and field work in engineering at the University of Glasgow in 1878.<br>
+<br>In 1882 with William John Menzies, a fellow engineer from Balornock near Glasgow, Johnston established the firm of Menzies and Johnston, taking over the Plantation Engine Works to manufacture his &#145;simplex doughing machine&#146; that he patented early in 1884 (1884 no. 1). This device divided the dough to form loaves. Menzies left the partnership in 1886 when Johnston renewed and elaborated his patent (1886 no. 16115). Menzies and Johnston reportedly helped design machinery for making custard powder and corn flour for the Paisley firm of Brown and Polson and equipment for producing pan drops or Scots mints probably for their inventor James Ross of Edinburgh.<br>
+<br>Menzies and Johnston was wound up in 1890 when Johnston embarked on a new venture in partnership with Joseph Brown of the Plantation Starch Works, with whom he had patented apparatus for vacuum drying distillery waste products for use either as cattle feed or manure (1889 no. 9850). In agreement with Distillers Company Ltd, they formed a company, Scottish Grains Ltd, with outside capital to exploit the patent and to sell its products. Describing himself now as a consulting engineer, Johnston also turned his attention to textile machinery, patenting in 1890 &#145;driving fastenings for drying machines&#146; (no. 21072), and returned to his initial specialism in locomotives.<br>
+<br>During 1894 Johnston was invited to trial the mechanical steam tram car that he had designed on the Glasgow Tramways, which the council was in process of taking over from a private contractor. The experiment ended in failure when the vehicle caught fire in George Square. He now switched his interest to the internal combustion engine as a means of propulsion and travelled to the continent to examine as many models as he could. By early 1895 he had acquired one of the first automobiles to arrive in Scotland, a Panhard-Levassor chassis with a Daimler engine. He was convinced that in existing designs &#145;both motor and gearings were far from perfect&#146;  (<span class="italic">The Scotsman</span>, 13 Nov 1895) and that he could design a better car with much less vibration and discomfort to the passengers. To assist him design and build his car in a workshop at his father's manse at Mosesfield he enlisted the assistance of two engineers, his young cousin Norman Osborne Fulton and Thomas Blackwood Murray.<br>
+<br>Within months of Johnston, Fulton, and Murray getting together in the workshop at Mosesfield in 1895, their &#145;Benzoline&#146; or petrol &#145;dog cart&#146;, the first to be built in the United Kingdom, was ready for road trials. In November 1895, at midnight, to the astonishment of passers-by, Johnston drove it at 12 miles an hour on a 20 mile journey across Glasgow. Belatedly on 22 January 1896 he was charged with contravening the <span class="roman">Locomotive Act</span> by driving his &#145;horseless carriage&#146; during prohibited hours along Buchanan Street, then the main shopping thoroughfare. He patented his design (1895 no. 20865). In February 1896 he drove his dog cart an unprecedented 110 miles over rough roads from Glasgow to beyond Ayr and back at an average speed of 8 miles an hour. Towards the end of 1895 Johnston coined the term Mo-Car in an address to a meeting of the Edinburgh Association of Science and Arts  (<span class="italic">Cycling</span>, 4 April 1896, 191).<br>
+<br>Meanwhile Johnston continued to work for Scottish Grains and formed a partnership with Murray as consulting electrical engineers with the telegraphic address of Mo-Car. They won financial backing from the Glasgow engineer Sir William Arrol and the Paisley threadmaker Archibald Coats to form the Mo-Car Syndicate to exploit their patent rights and to build dog carts with a works in Yates Street, Camlachie. They began tentatively to manufacture their dog carts in 1896, which sold for between &pound;300 and &pound;500. Apart from building cars the partners designed a motorized tramcar incorporating their patent springs to &#145;reduce vibration&#146; (1896 no. 11367) and improvements in the design of engines (1896 no. 185850) which, in 1897, they tried unsuccessfully to persuade Glasgow Corporation to adopt. By then Fulton and Murray were becoming impatient with Johnston, whom they regarded as kindly but an incompetent businessman, and without Johnston the pair went on to establish the Albion Motor Car Company in 1899.<br>
+<br>Scottish Grains went bankrupt in 1898 and at the same time the Mo-Car Syndicate was converted into a limited company with a capital of &pound;40,000 and Sir William Arrol as chairman and Johnston as managing director. On 9 May 1901 the works in Yates Street was completely destroyed by fire along with all the machinery, cars under construction and drawings. It was estimated that the loss was more than &pound;10,000. Within a week the Coats family had come to the rescue with the offer of vacant premises in the Underwood Mills in Paisley. Nevertheless the Mo-Car Syndicate was not back in business until the spring of 1902 by which time Albion had left them behind. The following year the syndicate was able to enter a dog cart and one of its six-seater carriages in the Glasgow to London motor car race, coming eighth and fourteenth respectively and gaining non-stop certificates. In 1903, four dog carts, one with a female driver, completed the run from Lands End to John O'Groats. Despite this the syndicate was not a financial success. In 1905 William Beardmore, the Glasgow ironmaster, bought the business for &pound;14,500 and relaunched it as the Arrol&#150;Johnston Car Co., ironically without either Arrol or Johnston. Their cars were redesigned by the new manager, the legendary motor racer J. S. Napier. An Arrol&#150;Johnston vehicle secured victory in the inaugural TT race on the Isle of Man in 1905.<br>
+<br>In partnership with a cousin, Robert Thomson, and one of his employees, Thomas Wardell, Johnston set up his own Johnston car company with premises in Bridgeton in the east end of Glasgow. The new firm was to build a 54 horsepower eight-cylinder car for the top end of the market and to exploit four new patents taken out in 1904 and 1905 for improvements in lubrication, connecting rods, ignition gear and throttle valves. The partners had financial backing from James MacKeggie and Thomas Semple junior in Glasgow and James Brown, a Canadian. Before production could begin the All-British Car Company of Bridgeton was formed in 1906 to acquire the business with the support of the earl of Roseberry, Thomas Dunlop, a leading Glasgow shipowner, and George Macmillan of the Edinburgh tea merchants A. Melrose &amp; Co. Some &pound;80,000 was raised through public subscription and George Johnston signed a ten year contract. No sooner had the company been launched than &#145;great demand sprang up for London omnibuses&#146; and a contract was signed with John Goode, a London &#145;motor car dealer and bus financier&#146; to supply 250 chassis. To finance production the All-British Car Company exhausted all its capital and borrowed &pound;27,000 against the personal guarantees of the directors, as it proved impossible to raise further capital in the market. When his negotiations for new bus routes failed, Goode reneged on the contract. In the circumstances, at the end of 1907 the directors had no alternative but to liquidate the company which had liabilities of &pound;76,000 and assets of just &pound;12,000.<br>
+<br>Johnston was personally declared a bankrupt on 31 December 1907. As he ruefully explained at his examination, he had sunk all his money on &#145;experiments and inventions&#146; which &#145;did not turn out very well&#146;  (NA Scot., CS 318/65/115). Although he blamed his financial difficulties on the failure of the All-British Car Company, he could offer no adequate explanation as to where the &pound;44,000 he had been paid for the business had disappeared.<br>
+<br>Johnston left the country in 1910 to become the manager of the newly formed West Mexican Mines Ltd. This had been set up with a capital of &pound;470,000 by the Glasgow architect and property developer John Campbell McKellar to buy mines at Bufa de Ore and La Fortuna in Chihuahua from the Rosario Mines Company of Arizona. With the very unsettled political situation in Mexico, this was not a good time to be speculating in Mexican minerals. Johnston was hired to use his engineering knowledge and ingenuity to develop new methods of extraction. This he seems to have achieved, since the West Mexican Mines remained open while others failed, but an error in registering claims for compensation with the Mexican government forced Johnston to return home, where he fell on his family for support. He spent the last years of his life in Edinburgh, apparently experimenting with hydroponics in the bathroom. He never married. He died at Limefield House, Main Street, Gilmerton, Edinburgh, on 30 November 1945.<br>
+<br>Michael S. Moss </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>K. G. Robbins, &#145;George Johnston&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=96312&amp;istheme=&amp;target=DSBB')"><i>DSBB</i></a>, 1.262&#150;3 &middot; National Records of Scotland, BT2/6130; CS 318/65/115 &middot; d. cert.<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael S. Moss, &#145;<span class="roman"><span class="headword">Johnston,  George</span>  (1855&#150;1945)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, May 2013 [http://www.oxforddnb.com/view/article/96312, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Johnston (1855&#150;1945): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/96312 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

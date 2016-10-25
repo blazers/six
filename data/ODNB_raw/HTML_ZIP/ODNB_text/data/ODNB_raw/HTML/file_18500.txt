@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18500;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18500-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18500-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18500#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Medley,  John</span>  (1804&#150;1892), <span class="occ">bishop of Fredericton</span>, was born on 19 December 1804, in Grosvenor Place, London, the home of his father, George Medley (who died while his son was still young), and his wife, Henrietta, who, having greatly influenced her son's choice of vocation, was killed in a carriage accident at Oldridge, near Exeter, in September 1844. Medley graduated from Wadham College, Oxford, in 1826, in which year he married, on 10 July, Christina Bacon. They had five sons and two daughters before her death from tuberculosis in 1841; her effigy was placed in the chancel of St Thomas's Church, Exeter.<br>
+<br>Medley was ordained deacon in 1828 and priest in 1829, and served as curate of Southleigh, Devon, from 1828 to 1831; he was perpetual curate of St John's, Truro, from 1831 to 1838, and vicar of St Thomas's, Exeter, from 1838 to 1845. In 1842 he was made a prebendary of Exeter Cathedral. He assisted in the translation of the <span class="italic">Homilies of St John Chrysostom on the Corinthians</span> (1838), and at the request of his friends he published a volume of his sermons in 1845. At Lambeth Palace on 4 May 1845 he was consecrated bishop of Fredericton, New Brunswick, Canada, and on 11 June 1845 he was installed as the first bishop of the new diocese in the parish church there. This church served as his pro-cathedral until the cathedral church, Christ Church Cathedral, begun in that year, was completed and consecrated in 1853.<br>
+<br>John Medley embodied the Tractarian understanding of the episcopate. From its beginning he was an active supporter of the Oxford Movement and a close friend of John Keble, E. B. Pusey, and W. E. Gladstone. With his appointment to the see of Fredericton he became the first Tractarian bishop and was able to put into practice his understanding of the role of a bishop in the life of the church. His views had already been expressed in <span class="italic">The Episcopal Form of Church Government</span>, which he had published in 1835. The charges that he delivered to his clergy in the course of his episcopate reflect a deep understanding of the work of the priest, and of his view of the bishop as shepherd. In spite of his argumentative nature, by perseverance he was able to unite a divided diocese and to gain the respect and support of the majority of those who served under him. Although he was a vocal supporter of Catholic principles, as his sermons and writings demonstrate, he showed tolerance towards his opponents.<br>
+<br>Medley sought to improve the standard of worship in the diocese and used his cathedral to reflect his understanding of the uses of music and ritual in public worship. The hymns that he wrote reflected his scholarship and are a testament to his musical ability: although no longer in general use, his settings of the canticles were revived for the celebrations in 1995 of the 150th anniversary of the founding of the diocese. In his sermons he spoke out against the materialism of the age. His own simple life reflected a devotion to the principle of charity: it was his sincerity as much as his scholarship that swayed the opposition to his understanding of the church and churchmanship.<br>
+<br>Medley's interest in church architecture dated at least from his time as vicar of St Thomas's, Exeter. He was supported by the Camden Society, Cambridge, in his building projects both in his Canadian parish and in his diocese. The cathedral, modelled on St Mary's, Snettisham, and St Anne's Chapel, Fredericton (begun in 1846 and consecrated in 1847), the precursor of which he had built as St Andrew's, Exeter, were to serve as examples of design for his diocesan churches. In these and other projects he was assisted by the architects Frank Wills and William Butterfield, and the impact which these two churches were to have on Canadian ecclesiastical architecture was profound. Because of the lack of experienced craftsmen and of stone for building, Medley supported the development of a type of wooden structure, in Gothic style. Within his lifetime the Gothic revival, its roots in Fredericton, had swept North America, its influence extending to secular as well as ecclesiastical design throughout the continent.<br>
+<br>Over twenty years after the death of his first wife, Medley married Margaret Hudson (<i>d</i>. 26 Feb 1905), of Exeter, on 16 June 1863, at Campobello island, New Brunswick. He was elected metropolitan of Canada in January 1879, and in 1889 he attended the Lambeth conference, causing an uproar by speaking against the <span class="roman">Public Worship Regulation Act</span> of 1874 and in favour of the ritualists. He died on 9 September 1892 at his home, Bishop's Cote, 97 Church Street, Fredericton, and was buried outside Christ Church Cathedral, on 13 September, having served as bishop for forty-seven years.<br>
+<br>David E. Mercer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Q. Ketchum, <i>The life and work of the Most Reverend John Medley</i> (1893) &middot; J. Medley, &#145;Annals of the see, 1845&#150;1892&#146;, Christ Church Cathedral Archives &middot; A. G. Finley, &#145;New Brunswick's Gothic revival: John Medley and the aesthetics of Anglican worship&#146;, PhD diss., no. 4532, University of New Brunswick, Harriet Irving Library, Fredericton, New Brunswick &middot; E. R. Fairweather, &#145;A Tractarian patriarch&#146;, <em>Canadian Journal of Theology</em>, 6/1 (1960), 15&#150;24 &middot; M. Ross, &#145;Medley, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18500&amp;istheme=&amp;target=DCB')"><i>DCB</i></a>, vol. 12 &middot; L. N. Harding, <i>Citizens with the saints</i> (1994) &middot; J. Medley, <i>Sermons</i> (1845) &middot; J. Medley, <i>The episcopal form of church government</i> (1835) &middot; C. Headron, &#145;Unpublished correspondence between John Medley and E. B. Pusey&#146;, <em>Journal of Canadian Church Historical Society</em>, 16<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Christ Church Cathedral Archives&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18500&amp;istheme=&amp;target=BL')">BL</a>, Gladstone MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18500&amp;istheme=&amp;target=LPL')">LPL</a>, letters to Cecil Wray
+   &middot;
+ New Brunswick Legislative Library, letters to Sir Edmund Walken Hunt
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18500&amp;istheme=&amp;target=Sheff.%20Arch.')">Sheff. Arch.</a>, letters to the Gatty family<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Bridges, oils, 1847, Wadham College, Oxford; on loan to diocese of Fredericton, New Brunswick, 1994 &middot; marble tomb effigy, Christ Church Cathedral, Fredericton, New Brunswick &middot; photograph (in old age), repro. in Ketchum, <i>Life</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;4470 4<i>s</i>. 1<i>d</i>.: resworn probate, Feb 1894, <i>CGPLA Eng. &amp; Wales</i> (1892)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David E. Mercer, &#145;<span class="roman"><span class="headword">Medley,  John</span>  (1804&#150;1892)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/18500, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Medley (1804&#150;1892): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18500 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

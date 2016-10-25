@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30756;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30756-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30756-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30756#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Alexander,  (Conel) Hugh O'Donel</span>  (1909&#150;1974), <span class="occ">chess player and cryptanalyst</span>, was born in Cork on 19 April 1909, the eldest of four children of Conel William Long Alexander (1879&#150;1920), professor of engineering at University College, Cork, and his wife, Hilda Barbara Bennett (1881&#150;1964), of Birmingham. On his father's death the family moved to Birmingham, where he attended King Edward's School. After winning the British boys' championship in 1926, he was soon recognized as one of the future hopes of British chess.<br>
+<br>In 1928 Alexander went up to King's College, Cambridge, on a mathematics scholarship. By 1931 he was playing on top board for Cambridge, winning eleven games in succession. In 1932 he came second in the British championship. He left Cambridge with a first in 1931, but without the star indicating special distinction and so did not get a fellowship. This he rightly attributed to playing too much chess. However, Professor G. H. Hardy described him as the only genuine mathematician he knew who did not become a professional mathematician. Alexander married Enid Constance Crichton (1900&#150;1982), daughter of Ronald William Neate, sea captain, on 22 December 1934. They had two sons (the elder of whom, <script>writeSeealsoLink('../view/article/76963/', "Sir Michael O'Donel Bjarne Alexander (1936&#150;2002)")</script>, was British ambassador to NATO from 1986 to 1992).<br>
+<br>From 1932 to 1938 Alexander taught mathematics at Winchester and made his name in international chess. He played with success for England in the biennial international team tournaments, rising to first board at Buenos Aires in 1939. He came equal second with Paul Keres ahead of some of the world's best players at the Hastings Christmas congress in 1938 and won the British championship in the same year. He then became head of research in the John Lewis Partnership, London.<br>
+<br>In February 1940 Alexander joined Hut 6 (army and air force Enigma) at the Government Code and Cypher School (GCCS) at Bletchley Park, and he was quickly placed in charge of a watch. He moved to Hut 8 (naval Enigma) in March 1941, as deputy head under Alan Turing. Documents captured in the spring led to breakthroughs which enabled Hut 8 to solve the main Kriegsmarine cipher, codenamed Dolphin by GCCS, from August onwards.<br>
+<br>Alexander was outstanding at a Bayesian probability system invented by Turing, called Banburismus, which he considerably improved. Banburismus made the production of operationally useful decodes possible by greatly reducing the number of tests on the &#145;bombes&#146; (high-speed key-finding aids), which were in very short supply until mid-1943. On Trafalgar day (21 October) 1941, with Turing and two colleagues, he made a very unconventional, but successful, appeal direct to Winston Churchill for some junior clerks, who &#145;for some mysterious reason seemed to be scarcer than University mathematicians&#146;  (Alexander, 30); without them, the breaking of Dolphin was being delayed for about twelve critical hours each day.<br>
+<br>Alexander became head of Hut 8 about November 1942, when Turing was in America, but had been the <i>de facto</i> head for some time, since Turing was uninterested in administration. Alexander transformed Hut 8 into a highly efficient instrument for delivering decodes speedily to Hut 4 (naval section). He was &#145;a quite splendid head of Hut 8&#146;  (private information, S. Wylie) and &#145;a model manager [who] treated us cryptographers as colleagues and was remarkably tolerant of our foibles&#146;  (private information, R. Noskwith). But he also led the way in many technical developments, such as using U-boat short signals as &#145;cribs&#146; (probable plain text, needed for bombe &#145;menus&#146;), which solved a potentially catastrophic crisis in mid-March 1943, at the height of the battle of the Atlantic. Stuart Milner-Barry, from Hut 6, found him &#145;an ideal colleague&#146; who &#145;always took the broadest view of the issues involved&#146;  (private information, S. Milner-Barry).<br>
+<br>When the US navy code-breaking unit, OP-20-G, assumed responsibility for breaking Shark (the Atlantic U-boats' cipher) at the end of 1943, Alexander undertook a range of tasks, mainly on machine ciphers. He played a major role, with OP-20-G, in solving traffic on the complex Coral cipher machine (JNA 20) used by Japanese naval attach&eacute;s. Deciphered Coral signals from the Japanese naval mission in Germany yielded vital intelligence, especially on technical developments such as the advanced high-speed type XXI and XXIII U-boats and German jet aircraft. He was also chairman of an important committee dealing with a rewirable reflecting rotor (&#145;D&#146;) for Enigma, which the Luftwaffe introduced in January 1944, and maintained a watching brief on Hut 8.<br>
+<br>Alexander formally transferred to the naval section in October 1944, to carry out research on the principal Japanese naval code, JN 25, which was something of an anticlimax after the excitement of naval Enigma. Although GCCS was largely left to tackle virtually obsolete versions of JN 25, which OP-20-G, being the leader in this area, decided to bypass, Alexander still put his best into the work, and devised new Bayesian scoring methods to counter the increasing complexities of the code. In mid-1945 he spent about six weeks as the head of the code-breaking section of HMS <i>Anderson</i> in Colombo, where he helped to accelerate the supply of signals intelligence for the Eastern Fleet and to improve morale.<br>
+<br>Much is owed to Alexander and the Hut 8 code-breakers. Although without intelligence from naval Enigma the Kriegsmarine would still have been defeated in the long run, the cost in human life in the global conflict would have been even more terrible than it was.<br>
+<br>Alexander returned to John Lewis in late 1945 but, realizing that cryptanalysis was his true vocation, joined the Government Communications Headquarters (GCHQ) (as GCCS became) in mid-1946. He was promoted to head of section H (cryptanalysis) in 1949 and, refusing promotion, remained in that post until his retirement. He promoted several new cryptanalytic techniques, and was a strong advocate of GCHQ's massive investment in computers. In chess, he was first at Hastings in 1946&#150;7 and joint first with the grand master of the USSR, David Bronstein, in Hastings in 1953. But gradually his work lessened his participation in chess.<br>
+<br>GCHQ was very reluctant to let him go until 1971, when he was two years over retirement age. The National Security Agency (NSA), GCHQ's United States counterpart, held him in such high esteem that it then tried hard to recruit him. Fortunately, although tempted, he declined. The director of NSA recalled that he had already made a &#145;monumental&#146; contribution to Anglo-American work on signals intelligence  (private information, N. Gayler), and to this crucial part of &#145;the special relationship&#146; between Britain and the United States.<br>
+<br>On retiring from GCHQ Alexander concentrated on writing about chess. He wrote several excellent books, and was chess correspondent of the <span class="italic">Sunday Times</span>, the <span class="italic">Financial Times</span>, the <span class="italic">Evening News</span>, and <span class="italic">The Spectator</span>. A chess amateur all his life, had it not been for the war he might well have aspired to the world championship title. Mikhail Botvinnik (the world champion from 1948 to 1963, except for two brief periods) considered that &#145;with his urge for overcoming and taming opposition, with his enthusiasm for uncompromising struggle, Alexander pioneered the way for British players to modern, complicated and daring chess; chess players will never forget him&#146;  (private information).<br>
+<br>Alexander was that rarest of men: a superbly skilled cryptanalyst who was also an excellent manager. He also combined a razor-keen intelligence with considerable energy and enthusiasm. His exceptional technical skills, and his gifts of leadership, man management, and administrative ability, made him an inspiring head of both Hut 8 at Bletchley and section H in GCHQ. He became an almost legendary figure to the intelligence communities of Great Britain and the USA. He was appointed OBE (1946), CBE (1955), and CMG (1970). Hugh Alexander was a most vivid and attractive personality, who delighted his friends with his gaiety, humour, and warmth. A magnificent talker, he loved to argue but was ever ready to see his opponent's point of view. Alexander died at Cheltenham on 15 February 1974 and was buried at Solihull.<br>
+<br>Harry Golombek<span class="italic">, rev. </span> Ralph Erskine </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>private information (2004) [M. Alexander, son; R. Noskwith; S. Wylie] &middot; R. Erskine, &#145;Kriegsmarine short signal systems&#151;and how Bletchley Park exploited them&#146;, <em>Cryptologia</em>, 23/1 (1999), 65&#150;92 &middot; R. Erskine, &#145;Naval Enigma: the breaking of Heimisch and Triton&#146;, <em>Intelligence and National Security</em>, 3/1 (1988), 162&#150;83 &middot; H. Golombek, <i>The encyclopedia of chess</i> (1977) &middot; F. H. Hinsley and others, <i>British intelligence in the Second World War</i>, 2 (1981) &middot; S. Milner-Barry, &#145;Memoir&#146;, in H. Golombek and W. R. Hartson, <i>The best games of C. H. O'D. Alexander</i> (1976), 1&#150;9 &middot; P. S. Milner-Barry, &#145;&#147;Action this day&#148;: the letter from Bletchley Park cryptanalysts to the prime minister, 21 October 1941&#146;, <em>Intelligence and National Security</em>, 1/2 (1986), 272&#150;6 &middot; C. H. O'D. Alexander, &#145;Cryptographic history of work on the German naval Enigma&#146;, TNA: PRO, HW 25/1 &middot; personal knowledge (1986) &middot; private information (1986) &middot; A. P. Mahon, &#145;The history of Hut Eight&#146;, TNA: PRO, HW 25/2 &middot; history of Japanese code JNA 20 Coral, National Archives and Records Administration, College Park, Maryland, Historic Cryptographic Collection, RG 457, no. 4424 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30756&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1974)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>National Archives and Records Administration, College Park, Maryland, Crane Naval Security Group files, RG 38
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30756&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, Government Code and Cypher School: directorate, Second World War policy papers, HW 14<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;15,722: probate, 1 April 1974, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Harry Golombek, &#145;<span class="roman"><span class="headword">Alexander,  (Conel) Hugh O'Donel</span>  (1909&#150;1974)</span>&#146;, rev. Ralph Erskine, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2008 [http://www.oxforddnb.com/view/article/30756, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  (Conel) Hugh O'Donel Alexander (1909&#150;1974): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30756 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/30756/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

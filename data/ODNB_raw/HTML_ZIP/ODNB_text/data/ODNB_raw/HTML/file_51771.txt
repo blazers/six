@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51771;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51771-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51771-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51771#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Butlin,  Kenneth Rupert</span>  (1897&#150;1965), <span class="occ">microbiologist</span>, was born on 3 November 1897 in Kettering, Northamptonshire, the son of Walter Isaac Butlin (<i>d</i>. <i>c</i>.1933), footwear manufacturer and later insurance agent, and his second wife, Sarah Jane. He was educated at nearby Oundle School and, after serving with the special brigade Royal Engineers in the First World War, he took first-class honours in chemistry (in 1921) from Trinity College, Cambridge. After five years in Argentina working on the fermentation of sugar for manufacturing rum he spent three years studying vinegar fermentation for a Birmingham company. While at Birmingham, Butlin married, on 27 July 1928, Helen Mary, daughter of Benjamin John Fletcher, principal of Birmingham Art College, and his wife, Mary Joan, <i>n&eacute;e</i> Reynolds. They later had one son, Martin.<br>
+<br>In 1929 Butlin joined a research group at the Royal Navy cordite factory at Holton Heath, where he worked under A. C. Thaysen studying practical microbiological problems. In 1933 the group moved to the Chemical Research Laboratory, Teddington. Butlin's earliest research papers concerned the acetic acid bacteria, agents of vinegar formation; his 1936 review of these organisms remained definitive into the 1960s. During the Second World War, together with the rest of the Teddington group, he turned his attention to ways of producing <i>Candida utilis</i>, an edible yeast, thus converting waste molasses into food protein. The project gave him valuable experience of the large-scale production of microbes and involved an early use of continuous culture. When the war ended Thaysen and some of the staff took the food yeast project to the West Indies for development, and the microbiological research effort at Teddington was left to Butlin with two experimental officers, now investigating the corrosion of iron and steel by bacteria. This common and economically costly process is largely due to sulphate-reducing bacteria, and Butlin's small team rapidly established itself as a leading authority in this area.<br>
+<br>About 1948 the director of the Chemical Research Laboratory, Patrick Linstead, perceiving the broader potential of chemical microbiology, initiated an expansion of Butlin's microbiology section. Basic research on sulphate-reducing bacteria was strengthened, new topics were introduced into the research programme, and, in 1950, Butlin was authorized to accept responsibility for a few hundred bacterial cultures of industrial importance which the medically orientated National Collection of Type Cultures proposed to discard, so founding the National Collection of Industrial Bacteria.<br>
+<br>In the early 1950s Butlin's team became an independent microbiology group within the laboratory, dedicated to the study of bacteria of industrial and economic importance. The group remit was to tackle such strictly practical topics as the control of water pollution in waterlogged clay and gravel pits, leaching of metal ores by bacteria, bacterial spoilage of petroleum, and the feasibility of producing sulphur on an industrial scale with the aid of sulphur bacteria (the latter project, which involved a newsworthy trip to some north African sulphur lakes to seek appropriate bacteria, received immense publicity at its outset because Britain's post-war industrial recovery was being delayed by a world shortage of native sulphur). It also conducted more fundamental research, though still with a practical background, including the mechanisms of microbial oxidation of phenols, the mechanism of the methane fermentation, the continuous culture of anaerobic bacteria, and the basic biochemistry of sulphate-reducing bacteria.<br>
+<br>By 1958 Butlin's group had become the major British research unit in economic microbiology, and it led the world in fundamental knowledge of sulphate-reducing bacteria. Yet late that year the Department of Scientific and Industrial Research, the laboratory's funding body, decided to disband Butlin's group. The reasons were multiple, including administrative economy, a sense that the laboratory was an inappropriate home for such research, poor economic prospects for the sulphur production project, and, arguably, elements of professional jealousy. Despite protests from microbiologists and industrial scientists in Britain and abroad, disbandment went ahead in 1959 and Butlin was compulsorily retired from the scientific civil service. He subsequently undertook consultancy work and continued to attend scientific meetings; the Society for General Microbiology paid him the rare compliment of making him an honorary member.<br>
+<br>Butlin was a pioneer of what later came to be called biotechnology: his conviction that the diverse chemical proclivities of microbes made them extremely important to society, not only for industrial production but also for society's civic infrastructure, conditioned his research outlook and informed his writings.<br>
+<br>Butlin was a friendly, cultured man who enjoyed opera, travel, good food, wine, and companionship. Colleagues and friends often remarked on his infectious capacity to enjoy life: even quite solemn occasions would take on the character of a party or convivial gathering in his company. Because of his pronounced stammer (which disappeared when he sang) others gave oral presentations such as seminars or lectures on his behalf. He deplored poor scientific writing, and the literary standard of his papers and, perforce, those of his research group, was high. Butlin died of kidney failure at his home, 44D Hampton Road, Teddington, Middlesex, on 1 October 1965, and was cremated at Feltham crematorium; his ashes were interred at Sapperton, Gloucestershire. He was survived by his wife.<br>
+<br>John R. Postgate </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. R. Postgate, <em>Journal of General Microbiology</em>, 45 (1966), 1&#150;8 [incl. bibliography] &middot; <em>The Times</em> (2 Oct 1965), 10 &middot; <em>Nature</em>, 208 (1965), 31 &middot; personal knowledge (2004) &middot; private information (2004) [M. Butlin] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51771&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1965)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Postgate, &#145;Kenneth Rupert Butlin&#146;<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;4561: probate, 15 Nov 1965, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John R. Postgate, &#145;<span class="roman"><span class="headword">Butlin,  Kenneth Rupert</span>  (1897&#150;1965)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51771, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Kenneth Rupert Butlin (1897&#150;1965): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51771 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

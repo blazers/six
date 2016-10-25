@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7692;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7692-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7692-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7692#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ditton,  Humphry <span class="st"> [Humphrey]</span></span>  (1675&#150;1714), <span class="occ">mathematician</span>, was born on 29 May 1675, in Salisbury, the only son of Humphry Ditton, gentleman, and Miss Luttrell of Dunster Castle, near Taunton, Somerset. He did not receive a university education; although his father was an ardent nonconformist Ditton was educated under a Dr Olive, a clergyman of the established church. Afterwards, and at his father's wish, he became a dissenting preacher at Tunbridge Wells, Kent, where he married a Miss Ball. After his father's death and in poor health he gave up the ministry. In 1706 he was appointed, through Isaac Newton's influence, as the first mathematics teacher at the New Mathematical School established in that year at Christ's Hospital, London. The school was discontinued as a failure after his death.<br>
+<br>Ditton's original mathematical work appeared mainly in two articles in the <span class="italic">Philosophical Transactions of the Royal Society</span>. The first was on tangents of curves deduced from the theory of maxima and minima (vol. 23, 1703). The second was on optics, and dealt with the reflection of light (vol. 24, 1705); this was republished in the <span class="italic">Acta Eruditorum</span> of Leipzig and in the <span class="italic">Memoirs</span> of the Academy of Science at Paris. However, Ditton's main work in mathematics was not in original research but in producing textbooks and expository articles. Newton had recommended him for the post at Christ's Hospital after being impressed with his contributions to John Harris's <span class="italic">Lexicon technicum</span> (1704) and with his textbooks, <span class="italic">The General Laws of Nature and Motion &hellip; being a Part of the Great Mr Newton's Principles</span> (1705) and <span class="italic">An Institution of Fluxions &hellip; According to the Incomparable Sir Isaac Newton</span> (1706). In 1709 Ditton corrected and added to Joannes Alexander's <span class="italic">A Synopsis of Algebra</span>, which was intended for the use of the students at Christ's Hospital. His main remaining mathematical works were on perspective and on the shape assumed by a fluid between two contiguous glass plates. As well as teaching his students he also lectured publicly on mathematics in London at the Marine Coffee House in 1710, and in 1712 assisted at courses in experimental philosophy which were organized by the Hauksbees.<br>
+<br>Ditton's most important theological work was <span class="italic">A Discourse Concerning the Resurrection of Jesus Christ</span>, an event which he attempted to prove by taking a mathematical, deductive approach. The first of its four editions appeared in 1712 and it was also translated into French and German. It contained an appendix about the nature of thought, where he argued that thought could not be produced from matter and motion. He was, however, unable to complete his response to the various criticisms that this work received before his death. A diary of his religious meditations was published in the <span class="italic">Gospel Magazine</span> (September 1777, 393&#150;403; December 1777, 437&#150;41).<br>
+<br>Ditton is best remembered for his pamphlet <span class="italic">A New Method for the Discovery of Longitude at Sea</span> (1714), on which he collaborated with William Whiston. With the rapid expansion of British overseas trade the problem of determining a ship's longitude at sea was becoming acute. In May 1714 a number of sea captains and London merchants petitioned parliament to establish a prize for the discovery of a suitable method. A committee was set up to consider proposals and to consult technical experts including Newton, Halley, Cotes, and Samuel Clarke. A prize was offered varying from &pound;10,000 to &pound;20,000 depending on the degree of accuracy that a workable method achieved. The solution proposed by Whiston and Ditton was to establish a network of ships at known positions from which a rocket or cannon would be fired. From the difference in time between seeing the flash and hearing the sound of its explosion a seafarer could calculate the meridian distance from the signalling ship and (if the latitude of the passing ship were known) would be able to calculate its longitude. Newton was unenthusiastic about the proposal although he recognized that it had some merit in limited circumstances. The idea was submitted to the board of longitude but was subsequently rejected; indeed, it was widely ridiculed as useless for practical purposes, by Jonathan Swift among others. The preface to the German translation of his <span class="italic">Discourse Concerning the Resurrection</span> suggests that Ditton developed a further method for determining longitude. Raphael Levi, a student of Leibniz, maintained that Ditton had corresponded with Leibniz about his invention of a clockwork mechanism which Leibniz had apparently approved of for use on land, although he doubted its usefulness at sea because of the motion of the ship. Ditton died on 15 October 1714, and was buried two days later at Christchurch Newgate.<br>
+<br>Raymond Flood </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7692&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; A. Kippis and others, eds., <i>Biographia Britannica, or, The lives of the most eminent persons who have flourished in Great Britain and Ireland</i>, 2nd edn, 5 (1793) &middot; W. Trollope, <i>A history of the royal foundation of Christ's Hospital</i> (1834) &middot; E. G. R. Taylor, <i>The mathematical practitioners of Tudor and Stuart England</i> (1954); repr. (1967) &middot; R. S. Westfall, <i>Never at rest</i><i>: a biography of Isaac Newton</i> (1980) &middot; W. Whiston, <i>Memoirs of the life and writings of Mr William Whiston</i><i>: containing memoirs of several of his friends also</i>, 2nd edn, 2 vols. (1753) &middot; parish register, London, Christchurch Newgate, 17 Oct 1714, GL [burial]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Raymond Flood, &#145;<span class="roman"><span class="headword">Ditton,  Humphry </span>  (1675&#150;1714)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/7692, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Humphry Ditton (1675&#150;1714): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7692 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

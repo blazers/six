@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 99981;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/99/99981-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/99/99981-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=99981#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Knowles,  Jeremy Randall</span>  (1935&#150;2008), <span class="occ">chemist</span>, was born on 28 April 1935 at 1 Murray Road, Rugby, Warwickshire, the younger son of Kenneth Guy Jack Charles Knowles (1908&#150;1988), schoolmaster, and his first wife, Dorothy Helen, <i>n&eacute;e</i> Swingler. His father subsequently taught economic history at University College, Nottingham, before taking a post at the Institute of Economics and Statistics in Oxford; while there he published seminal statistical works on strikes and on wage patterns in industry in the UK.<br>
+<br>From 1948 to 1953 Knowles was educated at Magdalen College School, Oxford. For the next two years he did national service as a pilot officer in the Royal Air Force, working primarily as a radar controller. He was the Sir Louis Stuart exhibitioner at Balliol College, Oxford, where he read chemistry from 1955 to 1959 and was taught by R. P. Bell, W. A. Waters, and R. J. P. Williams, all fellows of the Royal Society. He was awarded a first-class degree, having written his undergraduate thesis on the role of hyperconjugation in aromatic substitution. He continued his research in the Oxford laboratory of the physical organic chemist Richard O. C. Norman, receiving his DPhil degree in 1961 for a thesis on intramolecular effects in aromatic systems. This work was completed while Knowles was a Harmsworth senior scholar of Merton College and lecturer at Christ Church, Oxford. On 30 July 1960 he married Jane Sheldon Davis (<i>b</i>. 1938), daughter of Herbert John Davis, professor of English literature at Oxford and a noted authority on Swift. They had three sons, Sebastian (<i>b</i>. 1961), Julius (<i>b</i>. 1963), and Timothy (<i>b</i>. 1965).<br>
+<br>In 1961&#150;2 Knowles took leave for six months to work with the organic photochemist George S. Hammond at the California Institute of Technology. There extensive discourse with J. Bryan Jones, who like Knowles was an Oxford DPhil and who was doing postdoctoral work on enzymes, made the allure of these biological catalysts overwhelming. On returning to Oxford as a fellow of Wadham College, Knowles focused his attention on the glycolytic enzyme triosephosphate isomerase. He realized that the simple reaction that it catalysed facilitated detailed characterization. In the early 1970s he subjected triosephosphate isomerase to sixteen experiments, each employing isotopes of hydrogen in a distinct but incisive manner. The ensuing data, which were interpreted in collaboration with the Oxford physical chemist W. John Albery and reported in a series of eight papers in 1976, led to the elucidation of the first free energy profile for an enzyme-catalysed reaction. Surprisingly the energy of each enzyme-bound intermediate was comparable, as was the energy of each flanking transition state. This equanimity led Knowles and Albery to anoint triosephosphate isomerase as a &#145;perfect&#146; enzyme and led to penetrating insights about the evolution of enzymatic catalysis.<br>
+<br>Extended time at Illinois in 1962, Yale in 1969 and 1971, and Harvard in 1973 enticed Knowles to move to the United States. He joined the faculty at Harvard University in the autumn of 1974. Along with his Harvard colleagues Konrad E. Bloch and Frank H. Westheimer he established the roots of biological chemistry on that campus. In 1979 he was named the Amory Houghton professor of chemistry and biochemistry. At Harvard he continued to make broad and seminal contributions to chemical enzymology. His work on &#946;-lactamases, their inhibition, and their localization spanned the realms of organic chemistry and microbiology. Fascinating enzymatic mechanisms were revealed in the shikimic acid pathway of plants and microbes, and intellectual seeds were planted for &#145;green&#146; chemistry. Phosphoryl groups, chiral by virtue of oxygen isotopes, were synthesized, and the stereochemical consequences of their transfer were discerned by clever mass spectrometric and phosphorus-31 NMR spectroscopic methods. This work provided the first direct evidence (in 1982) for pseudorotation in the reaction of a phosphate monoester and (in 1988) of monomeric metaphosphate, which had long been sought as a solvated species.<br>
+<br>A decade after triosephosphate isomerase, proline racemase provided a coda, along with more notable discoveries. In a series of seven papers in 1986 Knowles and Albery revealed the consequences of &#145;oversaturation&#146;, a regime in which catalysis is limited by the interconversion of distinct unliganded forms of the enzyme. They also described an elegant kinetic isotope experiment that reveals, without ambiguity, whether a reaction proceeds in a stepwise or concerted manner. By 1991 thirty years of rigorous analyses had convinced Knowles that enzymic catalysts were &#145;not different, just better&#146;. Though most renowned as an enzymologist, he made landmark contributions to other aspects of biological chemistry. In 1968 he and Frederic M. Richards deduced the mechanism and products of chemical crosslinking by glutaraldehyde. In 1972 he developed the method of photoaffinity labelling.<br>
+<br>These accomplishments led to Knowles becoming a fellow of the Royal Society (1977), the American Academy of Arts and Sciences (1982), and the American Philosophical Society (1988); a foreign associate of the National Academy of Sciences (1988); and a trustee of the Howard Hughes Medical Institute (1988). He was awarded the Davy medal of the Royal Society (1991); the Prelog medal of the Eidgen&ouml;ssische Technische Hochschule in Z&uuml;rich (1989); the Bader award, Repligen award, and Nakanishi award of the American Chemical Society (1989, 1993, and 1999 respectively); and the Robert A. Welch award in chemistry (1995). He was an honorary fellow of Balliol and Wadham colleges, Oxford, and a recipient of honorary degrees from the University of Edinburgh and the Eidgen&ouml;ssische Technische Hochschule. He was the Newton&#150;Abraham visiting professor at Oxford in 1983&#150;4. He was appointed CBE in 1993. In 2008 the Royal Society of Chemistry established the Jeremy Knowles award &#145;to recognise and promote the importance of inter- and multi-disciplinary research between chemistry and the life sciences&#146;.<br>
+<br>In 1991 Knowles accepted an offer to become the dean of the faculty of arts and sciences, one that he had declined in 1983, and he closed his research laboratory. Intellectual sensitivity, born of genuine appreciation for the full spectrum of academic disciplines, made him especially well suited for this new challenge. Integrating extraordinary intellectual acuity with polished charm, eloquence, and wit, he was able to restore financial equilibrium to Harvard while renewing its expansion and renovation. He served in University Hall until 2002, and returned again as interim dean from 2006 to 2007, following a period of turbulence in the university.<br>
+<br>Having transformed both chemical enzymology and Harvard University, Knowles died on 3 April 2008 at his home in Cambridge, Massachusetts, following a prolonged struggle with prostate cancer. On 12 April he was buried in the Mount Auburn cemetery on a hillside that affords a panoramic view of Harvard. On 30 May, a memorial service filled the Memorial Church on the Harvard campus. He was survived by his wife, Jane, and their three sons.<br>
+<br>Ronald T. Raines </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em><i>Chemistry in Britain</i></em> (1973), 283&#150;4 &middot; J. R. Knowles, &#145;Enzyme catalysis: not different, just better&#146;, <em><i>Nature</i></em>, 350/6314 (1991), 121&#150;4 &middot; <em><i>The Harvard Crimson</i></em> (16 Oct 1991); (3 June 1997); (4 April 2008) &middot; D. E. Hansen, &#145;Jeremy R. Knowles: the evolution of an enzymologist&#146;, <em><i>Bioorganic Chemistry</i></em>, 23/4 (1995), 303&#150;39 &middot; <em><i>Boston Globe</i></em> (6 April 2008) &middot; <em><i>Daily Telegraph</i></em> (9 April 2008) &middot; <em><i>The Times</i></em> (22 April 2008) &middot; <em><i>ACS Chemical Biology</i></em>, 3/5 (May 2008), 262&#150;4 &middot; <em><i>The Biochemist</i></em>, 30/3 (June 2008), 46&#150;7 &middot; <em><i>Nature Chemical Biology</i></em>, 4/6 (June 2008), 325 &middot; <em><i>Harvard Magazine</i></em> (July&#150;Aug 2008) &middot; <em><i>Harvard Gazette</i></em> (14 May 2009) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99981&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 56 (2010), 171&#150;87 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99981&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2008) &middot; personal knowledge (2012) &middot; b. cert. &middot; m. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99981&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, papers relating to Oxford Enzyme Group<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> obituary photographs<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ronald T. Raines, &#145;<span class="roman"><span class="headword">Knowles,  Jeremy Randall</span>  (1935&#150;2008)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2012 [http://www.oxforddnb.com/view/article/99981, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Jeremy Randall Knowles (1935&#150;2008): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/99981 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

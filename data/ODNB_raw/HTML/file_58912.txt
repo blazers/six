@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 58912;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/58/58912-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/58/58912-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=58912#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kettlewell,  (Henry) Bernard Davis</span>  (1907&#150;1979), <span class="occ">ecological geneticist and entomologist</span>, was born on 24 February 1907 in Howden, Yorkshire, the only son of Henry Kettlewell, a merchant, and his wife, Kate Davis. He received his education at Old College, Windermere, and then at Charterhouse School, in Surrey (1920&#150;24). He read medicine and zoology at Gonville and Caius College, Cambridge (1926&#150;9) and then did clinical training at St Bartholomew's Hospital, London, qualifying as a medical practitioner (MB BChir) in 1935. In the following year he married Hazel Margaret Wiltshire, the daughter of Sir Frank Wiltshire, the town clerk of Birmingham. The marriage was close and affectionate and they had two children.<br>
+<br>During the Second World War Kettlewell worked as a doctor and anaesthetist in and around London but in the late 1940s, perhaps with the approach of the National Health Service, he decided to give up the further practice of medicine. The family emigrated to South Africa in 1949, where for three years Kettlewell carried out extensive field research into locust control at Cape Town University while at the same time amassing a large collection of Lepidoptera which he later presented to the British Museum. (In time his contributions would form an essential part of the national Rothschild&#150;Cockayne&#150;Kettlewell Collection, a major resource for the study of natural variation and inheritance.)<br>
+<br>Kettlewell's South African experiences marked the beginning of a pattern in his scientific life which seemed to suit both his professional interests and his personality, which was outgoing and full-blooded; this led him to engage in sometimes maddening but good-natured controversy with his peers when he fairly thought a point to be of scientific importance. He undertook early research expeditions to the Belgian Congo, to Mozambique, to the Kalahari, and to South Africa's Knysna Forest, where he continued to assemble vast amounts of information about insects, particularly moths.<br>
+<br>From early manhood Kettlewell had an unusual combination of talents and habits which served him well in his chosen profession. He devised and carried out field experiments and collection techniques (&#145;mark&#150;release&#150;recapture&#146;) which were admirable for their ingenuity and requirements for diligence. An example of his rare combination of skills occurred when he was able to prove, by means of radioactive testing, that a moth he had caught had been affected by a particular nuclear test explosion. His principal hobbies (shooting, growing hybrids, and devising novel lobster traps) suggest that his different personality traits were intertwined whether at work or at play and that he was constantly seeking to join facts and theories wherever he roamed.<br>
+<br>In 1952 Kettlewell returned to England (typically for him, by driving the entire Cape Town to Alexandria part of the journey), in order to accept a Nuffield Foundation research post in the genetics laboratory at Oxford University, working under his friend Edmund Brisco Ford, whom he had met in 1937 while both were at an ecological site. Oxford was to be Kettlewell's base for the rest of his life. From the end of the 1950s until 1974 he maintained close connections with the Oxford department of zoology, while carrying on an extensive scientific correspondence with hundreds of other leading evolutionists and entomologists throughout the world. Between 1965 and 1974 he was also closely involved with the Iffley Graduate Society (from 1966 Wolfson College).<br>
+<br>While he continued to work at Oxford with sustained energy Kettlewell also travelled abroad numerous times to give lectures to professionals and to lay persons alike, wrote more than sixty articles for specialist journals (such as <span class="italic">Heredity</span>) and for those intended for a broader public (such as <span class="italic">Nature</span> and <span class="italic">Scientific American</span>), made a number of pioneering films about insects and evolution, and wrote a very readable book about Darwin (with Sir Julian Huxley), in the now familiar format of the scientific illustrated biography, written by experts for the public. Meanwhile he was writing scholarly works which were considered to be classics by his peers, notably a paper in 1959 written around a theme he called &#145;Darwin's missing evidence&#146;, providing elegant proof of the reversal of melanism when pollution in an area became diminished and thus showing the force of natural selection in the presence of inheritable variations.<br>
+<br>Kettlewell's fame steadily grew and he obtained medals and awards as diverse as the USSR's Darwin medal (1959), the Czechoslovakian Mendel medal (1965), and a doctoral degree from Oxford. He was tireless in his pursuit of first-hand knowledge, undertaking expeditions to Alaska, Ecuador, Iceland, the South Caspian, Madeira, and St Kitts, as well as visiting Brazil and lecturing frequently in the United States and Canada.<br>
+<br>Kettlewell's scientific importance will always rest principally upon his pioneering work in industrial melanism, including aposematic melanism, in which the <i>Biston betularia</i> peppered moth was the principal object of his studies and experiments. As early as 1955 (and again in 1965), by a series of painstaking field experiments, involving tens of thousands of observations, he was able to prove that those moths which did not match their ecological backgrounds were much more likely to be taken by birds. He understood that enhanced viability was probably based not just upon natural behavioural selection but upon some underlying genetic, pre-adaptive mechanism. He left unresolved the central question of how dominance modifiers could be maintained in a population in the absence of melanic polymorphism, except by mutation. This question anticipated the later unresolved dialogue between the proponents of neutral molecular random drift evolution (Motoo Kimura, in Japan) and those who still favoured neo-Darwinistic selectionism.<br>
+<br>In 1973 Kettlewell's life's work was brought together in his principal published work, <span class="italic">The Evolution of Melanism: the Study of a Recurring Necessity</span>, in which he meticulously narrates his evidence, his reasoning, and his conclusions, starting with possible biblical references to colouring as a sign of inedibility (and hence likelihood to survive) and ending with his latest experiments done in the field and even with the dietary preferences of his household cat. He was able to carry out the most difficult and extensive experiments under the watchful eyes of his peers and produce stately expositions of his findings, but was also gifted at devising everyday examples of proof, meaningful to anyone.<br>
+<br>
+<span class="italic">The Evolution of Melanism</span>'s thought-provoking subtitle was a characteristic reminder that nature is constantly evolving and that the search for evidence and understanding requires continuous study, to be approached with the vigour, diligence, partisan commitment, and open imagination exemplified by Bernard Kettlewell. Like that other great truant from medicine, Charles Darwin, Kettlewell's results, as well as his methods, illustrate the related propositions that there need not be a barrier between the gifted amateur and the specialized academic and that important and lasting science is done by those who can combine the best elements of those seemingly opposite approaches. Kettlewell died at his home, the vicarage, Steeple Aston, near Oxford, on 11 May 1979, possibly from an accidental overdose of medication to relieve pain from an injury sustained during an experiment. He was survived by his wife and son.<br>
+<br>Geoffrey V. Morson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Kettlewell archive, <a target="_new" href="/public/jumpto.jsp?url=http://www.wolfson.ox.ac.uk%2Flibrary%2Farchives%2FKettlewell">www.wolfson.ox.ac.uk/library/archives/Kettlewell</a> &middot; J. Turner, &#145;Kettlewell, Henry Bernard Davis&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58912&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>, suppl., 17.469&#150;71 &middot; C. A. Clarke, &#145;H. B. D. Kettlewell&#146;, <em>The Caian</em> (1979&#150;80), 73&#150;5 &middot; H. B. D. Kettlewell, <i>The evolution of melanism</i><i>: the study of a recurring necessity</i> (1973) &middot; J. Hooper, <i>Of moths and men</i><i>: the untold story of science and the peppered moth</i> (2002) &middot; M. Salmon, <i>The Aurelian legacy</i><i>: British butterflies and their collectors</i> (2000) &middot; H. B. D. Kettlewell and J. Huxley, <i>Darwin and his world</i> (1965) &middot; <em>Daily Telegraph</em> (25 May 1979), 19 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58912&amp;istheme=&amp;target=WWW')"><i>WWW</i></a>, <i>1971&#150;80</i> &middot; S. Jenkins-Jones, &#145;Henry Bernard Davis Kettlewell&#146;, <i>Hutchinson dictionary of scientists</i> (1996), 268 &middot; H. B. D. Kettlewell, &#145;Darwin's missing evidence&#146;, <em>Scientific American</em>, 200 (1959), 48&#150;53 &middot; R. Lewin, <i>Patterns in evolution</i><i>: the new molecular view</i> (1997), 87&#150;105 &middot; J. Venn and others, eds., <i>Biographical history of Gonville and Caius College</i>, 5: <i>Admissions from 1911 to 1932</i> (1948) &middot; J. Venn and others, eds., <i>Biographical history of Gonville and Caius College</i>, 7: <i>Admissions from 1957 to 1972</i> (1978) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58912&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1979) &middot; N. Tinbergen, &#145;Happy moments with Bernard Kettlewell&#146;, <i>Lycidas</i>, 7 (1978&#150;9), 58&#150;60 [house magazine for Wolfson College, Oxford]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58912&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. and papers
+   &middot;
+ Wolfson College, Oxford&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58912&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. with Edmund Brisco Ford
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58912&amp;istheme=&amp;target=NHM')">NHM</a>, Rothschild&#150;Cockayne&#150;Kettlewell national collection of lepidoptera
+   &middot;
+ Rice University, Houston, Woodson Research Center, corresp. with Sir Julian Huxley
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=58912&amp;istheme=&amp;target=U.%20Lpool%20L.')">U. Lpool L.</a>, corresp. with Sir Cyril Ashley Clarke
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>University of York, Shetland work (Granada TV)
+   &middot;
+ Wolfson College, Oxford, Kettlewell archive</p>
+	  &nbsp;<h3>SOUND</h3>&nbsp;
+	<p>Wolfson College, Oxford, Kettlewell archive</p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, probably Wolfson College, Oxford, Kettlewell archive; repro. in <i>Lycidas</i>, 7 (1978&#150;9), 58<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;54,618: probate, 13 June 1979, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Geoffrey V. Morson, &#145;<span class="roman"><span class="headword">Kettlewell,  (Henry) Bernard Davis</span>  (1907&#150;1979)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/58912, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  (Henry) Bernard Davis Kettlewell (1907&#150;1979): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/58912 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

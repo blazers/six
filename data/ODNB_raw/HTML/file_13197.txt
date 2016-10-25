@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13197;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13197-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13197-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13197#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ware,  Samuel  Hibbert-</span>  (1782&#150;1848), <span class="occ">antiquary and geologist</span>, eldest son of Samuel Hibbert, linen yarn merchant, of Manchester, and Sarah, daughter of Robert Ware of Dublin, was born in St Ann's Square, Manchester, on 21 April 1782. He was educated at a private school (<i>c</i>.1792) and at the Manchester Academy (<i>c</i>.1795) under Dr Thomas Barnes. He had little taste for his father's business, and turned to literary pursuits, writing prologues for the Manchester theatres, election squibs for his friend Colonel Hanson, a pamphlet on commercial credit, and some doggerel verse. On 23 July 1803 he married Sarah, daughter of Thomas Crompton of Bridge Hall, Bury, Lancashire; they had three children before she died in 1822.<br>
+<br>From 1809 to 1813 Hibbert held a lieutenant's commission in the 1st Royal Lancashire militia. After his father's death in 1815 he went to Edinburgh, and took the degree of MD in 1817 at the university with a dissertation entitled &#145;De vita humana&#146;, but he never practised. He lived in Edinburgh many years, and enjoyed the friendship there of Sir Walter Scott, Sir David Brewster, and others, as well as taking part in the work of the learned societies there. He had in 1805 been elected a member of the Manchester Literary and Philosophical Society, and contributed papers to its meetings.<br>
+<br>In 1817 Hibbert visited Shetland, where he discovered &#145;chromate of iron&#146; and undertook a geological survey of the country. For this discovery the Society of Arts awarded him in 1820 the Iris gold medal. In Shetland he also discovered what he described as &#145;native hydrate of magnesia&#146;. In 1822 he published his <span class="italic">Description of the Shetland Islands</span>, in which he described the local geology and antiquities.<br>
+<br>Hibbert contributed various papers to the Society of Antiquaries of Scotland, of which he was secretary from 1823 to 1827, with responsibility for obtaining contributions for meetings and preparing them for publication. He remained an active member of the society, editing volumes and helping run the museum, under what were sometimes difficult conditions. A paper on &#145;Spectral illusions&#146;, read by Hibbert before the Royal Society of Edinburgh, led to his <span class="italic">Sketches of the philosophy of apparitions, or, An attempt to trace such illusions to their physical causes</span> (1824), which ran to a second edition (1825). This provoked an anonymous reply in <span class="italic">Past Feelings Renovated</span> (1828), which aimed to &#145;counteract &hellip; any sentiments approaching materialism&#146; aroused by Hibbert's essay. In 1824, at the request of the Manchester Literary and Philosophical Society, Hibbert delivered at Manchester a course of lectures on geology, and in 1827 a further course for the Manchester Royal Institution.<br>
+<br>On 8 January 1825 Hibbert married Charlotte Wilhelmina (<i>d</i>. 1835), widow of William Scott, receiver of customs in the Isle of Man, and daughter of Lord Henry Murray. They had three children. She accompanied him on many of his tours of Scotland and the continent, and executed drawings for his papers. He and his family also spent two or three years abroad, chiefly visiting the volcanic districts of France, Italy, and northern Germany, and he published a <span class="italic">History of the Extinct Volcanoes of the Basin of Neuwied on the Lower Rhine</span> (1832) on his return to Edinburgh.<br>
+<br>In 1833&#150;4 Hibbert published his chief antiquarian work, <span class="italic">The History of the Foundations in Manchester</span> (3 vols., vol. 3 being in two parts). He described Christ's Hospital, Chetham's Hospital, and the free grammar school, using in part material compiled by the Revd J. Creswell. The architect John Palmer and the biographer William Robert Whatton also contributed to the work.<br>
+<br>Hibbert left Edinburgh in 1835, and, after living for a time at York, settled on a small paternal estate at Hale Barns, near Altrincham, Cheshire. In 1837 he assumed by royal licence the surname and arms of Ware, as representative of Sir James Ware, the historian of Ireland. In 1842 he married his third wife, Elizabeth Lefroy, daughter of Captain Anthony Lefroy. He was a member of the first council of the Chetham Society, and edited one of its early volumes, <span class="italic">Lancashire Memorials of the Rebellion in 1715</span> (1845). His last work was <span class="italic">The Ancient Parish Church of Manchester and why it was Collegiated</span> (1848), the manuscript of the final part of which was lost after his death. This work is often referred to as the final volume of his earlier <span class="italic">History</span>.<br>
+<br>Hibbert-Ware died at Hale Barns on 30 December 1848 of bronchitis, from which he had suffered for several years. He was buried at Ardwick cemetery, Manchester. Hibbert-Ware's eldest son, Titus Herbert (1810&#150;1890), was called to the bar in 1844, and published <span class="italic">Precedents of Conveyances</span> (1846). His second son, Dr William Hibbert, an army surgeon, died in Afghanistan in 1839.<br>
+<br>C. W. Sutton<span class="italic">, rev. </span> Elizabeth Baigent </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. C. H. Hibbert Ware, <i>The life and correspondence of the late Samuel Hibbert Ware</i> (1882) &middot; <em>Manchester Guardian</em> (3 Jan 1849), 6 &middot; C. R. J. Currie and C. P. Lewis, eds., <i>English county histories</i><i>: a guide</i> (1994) &middot; A. S. Bell, ed., <i>The Scottish antiquarian tradition</i> (1981) &middot; D. Brewster, <i>Account of the native hydrate of magnesia, discovered by Dr Hibbert in Shetland</i> (1821)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13197&amp;istheme=&amp;target=JRL')">JRL</a>, family and personal corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13197&amp;istheme=&amp;target=Man.%20CL')">Man. CL</a>, Manchester Archives and Local Studies, corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13197&amp;istheme=&amp;target=NHM')">NHM</a>&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13197&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, letters to David Laing
+   &middot;
+ U. Newcastle, Robinson L., letters to Sir Walter Trevelyan
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13197&amp;istheme=&amp;target=U.%20St%20Andr.%20L.')">U. St Andr. L.</a>, corresp. with James David Forbes<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. W. Sutton, &#145;<span class="roman"><span class="headword">Ware,  Samuel  Hibbert-</span>  (1782&#150;1848)</span>&#146;, rev. Elizabeth Baigent, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/13197, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Samuel  Hibbert-Ware (1782&#150;1848): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13197 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

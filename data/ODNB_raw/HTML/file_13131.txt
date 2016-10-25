@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13131;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13131-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13131-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13131#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Heslop,  Thomas Pretious</span>  (1823&#150;1885), <span class="occ">physician</span>, was born in Bermuda, the son of Thomas Heslop, a Scottish officer of the Royal Artillery, and his wife, formerly Miss Owen, a native of Dublin. He was apprenticed to his uncle, Dr Thomas Underhill, of Tipton, Staffordshire, and then continued his medical studies at Trinity College, Dublin, in 1844; he also attended courses at some of the minor Irish medical schools. In 1847 he went to the University of Edinburgh, where he took, among other courses, midwifery with J. Y. Simpson. Heslop left Edinburgh in 1848 having graduated MD, his thesis being &#145;On morbid conditions of the heart occurring during fever&#146;.<br>
+<br>Heslop then went to Birmingham, where he spent the rest of his life. He was appointed house physician to Birmingham General Hospital in 1848, and he held this office until 1852, when he left to enter private practice in Temple Row. A shortage of patients, however, induced him to lecture on physiology at Queen's College, Birmingham, from 1853 to 1858, and to act as physician to the Queen's Hospital from 1853 to 1860. He resigned from the former after objecting to William Sands Cox's administration of the college, and from the latter in consequence of conflicts in the management of the hospital. During his time at the hospital Heslop had nevertheless had the opportunity of experimenting with certain iron salts, the results of which were the subject of his first publication, a pamphlet entitled <span class="italic">Suggestions Relative to the Employment of the Tincture of Sesquichloride in Puerperal Peritonitis, Iritis, and Allied Disorders</span> (1858). The following year Heslop became a member of the Royal College of Physicians, of which he was made a fellow in 1872. In 1870 he was persuaded to serve a second term of office at Queen's Hospital, where he occupied the position of senior physician until 1882.<br>
+<br>Throughout his life Heslop also undertook several significant acts of charity. His first was the establishment in 1861 of the Free Hospital for Children, of which he remained a medical officer. He had founded the hospital with C. E. Mathews after recognizing Birmingham's excessive infant mortality levels and becoming convinced that the diseases of children could not be adequately treated in general hospitals. A decade later, in 1871, the Women's Hospital also came into existence through his initiative. A third foundation, the Skin and Lock Hospital, was established in 1880 at Heslop's expense. He was a member of the William Dudley Trust and an active participant in the Birmingham health lectures, opening the series with a paper entitled <span class="italic">Ways and Means of Health</span> (1883). His other publications include, <span class="italic">On the Present Rate of Remuneration of the Medical Officers to Sick Assurance Societies</span> (1867), and <span class="italic">The Realities of Medical Attendance on the Sick Children of the Poor in Large Towns</span> (1869), both of which he read before branches of the British Medical Association.<br>
+<br>Heslop's interest in education was made clear in the address <span class="italic">A Glance at the History and Prospects of Education</span> while president of the Harborne and Edgbaston Institute in 1882. Soon after arriving in Birmingham, Heslop had established the Midland Medical Society, and along with George Yates he was one of its honorary secretaries. At a later date he founded and managed the Birmingham Philosophical Society. His most important educational work, however, was done as a governor of King Edward's School, and as chairman of Mason College (of which he had been appointed a trustee in 1873). From the opening of the college until 1884 Heslop occupied the position of chairman of the educational committee; he became bailiff in 1884 and also president of the council, an office he retained until his death. In his final years he helped to establish the institution's library, providing it with 11,000 books, including several complete sets of scientific and literary periodicals.<br>
+<br>Heslop died as a result of heart disease, on 17 June 1885, while travelling &#145;on the High Road coming to Braemar from Glenshee&#146;  (death cert.). His body was transported to Dublin, where it was buried alongside that of his mother, on 20 June. Heslop bequeathed &pound;100 to both the Queen's Hospital and the Free Hospital for Children, Birmingham, and a more substantial sum to Mason College.<br>
+<br>Jonathan Reinarz </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Birmingham Daily Post</em> (18&#150;20 June 1885) &middot; E. W. Vincent, <i>The University of Birmingham</i><i>: its history and significance</i> (1947) &middot; R. K. Dent, <i>Old and new Birmingham</i><i>: a history of the town and its people</i>, 3 vols. (1879&#150;80) &middot; J. A. Langford, ed., <i>Modern Birmingham and its institutions</i><i>: a chronicle of local events, from 1841&#150;1871</i>, 2 vols. (1873&#150;7) &middot; <em>The Lancet</em> (27 June 1885) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13131&amp;istheme=&amp;target=Munk%2C%20Roll')">Munk, <i>Roll</i></a> &middot; J. T. J. Morrison, <i>William Sands Cox and the Birmingham medical school</i> (1926) &middot; d. cert. &middot; U. Edin. L. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13131&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13131&amp;istheme=&amp;target=U.%20Birm.')">U. Birm.</a>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13131&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, special collections division<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> bust, <i>c.</i>1886, U. Birm. L., Heslop Room<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;10,492 4<i>s</i>. 9<i>d</i>.: resworn probate, May 1886, <i>CGPLA Eng. &amp; Wales</i> (1885)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jonathan Reinarz, &#145;<span class="roman"><span class="headword">Heslop,  Thomas Pretious</span>  (1823&#150;1885)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13131, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Pretious Heslop (1823&#150;1885): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13131 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

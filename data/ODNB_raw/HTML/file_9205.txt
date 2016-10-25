@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9205;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9205-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9205-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9205#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Faulkner,  George</span>  (1703?&#150;1775), <span class="occ">printer and bookseller</span>, was probably born in 1703: the previously accepted birth date of 1699 has been superseded by a note in Faulkner's own hand recently discovered in the British Library  (Egerton MS 201, fol. 6). Faulkner's father is reported to have been a butcher and a member of the established church, while his mother has been distantly linked with Viscount Thomas Dillon's family.<h2>
+<a name="Earlyyears"></a>Early years</h2>Faulkner received a rudimentary education under the care of the Revd Dr Lloyd, reportedly the most eminent Irish schoolmaster of the time, between about 1710 and 1716. About 1717 he was apprenticed to the printer and bookseller of Cork Hill, Dublin, Thomas Hume. He seems to have served the typical seven-year term before setting up his own shop at some time in 1724. He was made free of the city in 1728 and sworn free of the Guild of St Luke the same year. Evidence from his imprints and from Wilson's <span class="italic">Dublin Directory</span> (1760&#150;1837) reveal his business as operating at a succession of Dublin locations: Pembroke Court, Castle Street (1725&#150;August 1726); Christchurch Yard (August 1726&#150;1728); pamphlet shop opposite the Tholsel, Skinner Row (January 1729&#150;May 1730); pamphlet shop in Essex Street (May 1730&#150;62); Blind Quay, at the corner of Parliament Street (1763&#150;5); and Parliament Street (1766&#150;75). From 1726 he was in business with the bookseller and printer James Hoey, but the two separated when Faulkner moved to his new shop in Essex Street in 1730.<br>
+<br>From his earliest days in the trade Faulkner's commitment to a Dublin shop appears to have been unsettled: despite the responsibilities of his new business, he seemed more anxious to be working in the London trade, making at least two extended visits to England during the late 1720s. Having palmed off on Hoey the responsibilities of publishing the twice-weekly <span class="italic">Dublin Journal</span>, Faulkner spent at least the first six months of 1726 and much of 1729 in London, employed at the shop of William Bowyer sen. (from whom he would later purchase secondhand type and ornaments for his Dublin shop). Here he also began a lifelong acquaintance with the younger Bowyer, with whom he later shared many copyrights. In September 1730 he was back in London, where he experienced two major events: before leaving Dublin for London, he had suffered an injury to his shin which, foolishly neglected, turned gangrenous and required the amputation of his leg; and while in London he also married the widow Mary Taylor (1707/8&#150;1755).<h2>
+<a name="PrintingSwift"></a>Printing Swift</h2>Despite Faulkner's printing a Dublin edition of Swift's <span class="italic">Drapier Letters</span> under the title <span class="italic">Fraud Detected, or, The Hibernian Patriot</span> in 1725, hard evidence is lacking to determine whether any relationship existed between the author and printer at this point. Nor is it clear whether the dean interceded with his London friends on Faulkner's behalf while both were in London in 1726, or during Faulkner's subsequent visits in the decade. However, Faulkner's relationship with Swift had certainly begun to jell by 1730 when, in partnership with Bowyer, he printed Swift's <span class="italic">A Vindication of Lord Carteret</span>. Also, except for the period from September 1730 to May 1731 when Faulkner was again in London, the content of his <span class="italic">Dublin Journal</span> shows a growing affiliation with Swift. When Faulkner printed &#145;Queries&#146;  (<span class="italic">Dublin Journal</span>, Feb 1732) from Swift's <span class="italic">Considerations upon Two Bills Relating to the Clergy</span>, he was ordered into custody by the House of Lords and, upon begging forgiveness, was reprimanded and released. His courage won Swift's favour, and the dean's subsequent correspondence with Pope implies a growing friendship with the printer.<br>
+<br>On 9 February 1733 Faulkner issued proposals for publishing Swift's <span class="italic">Works</span> in four volumes by subscription. When the news reached London and vexed Benjamin Motte, who had published Swift's <span class="italic">Miscellanies</span> the previous year, Swift, despite his obvious co-operation in producing Faulkner's edition, initially proved false to his new friend by attempting to dissociate himself from the work when writing to his London contacts. As late as 30 August 1734, in a letter to the earl of Oxford, Swift claimed the edition was &#145;against my Will&#146;, and that he would have nothing more to do with the printer unless he published something &#145;offensive&#146; or &#145;unworthy&#146; and then &#145;he will have cause to repent it&#146;  (<span class="italic">Correspondence</span>, 4.248). Swift seems to have forgotten that six months earlier his letter to Oxford had begun: &#145;The Bearer Mr. Faulkner, the Prince of Dublin Printers&#146;  (ibid., 4.222). Faulkner's own version of Swift's involvement in the preparation of the edition seems more credible. In each morning session, Faulkner reports, he read the text before Swift and his two manservants. When Swift had any doubt of the meaning, he would ask the servants for their understanding and amend until they got it perfectly. In this manner, Faulkner says, Swift revised every sheet of the first seven volumes  (<span class="italic">Prose Works</span>, 13.202&#150;3).<br>
+<br>With the appearance of the edition on 7 January 1735, however, Swift proved the Irish patriot. When Motte attacked Faulkner for pirating his property, Swift wrote a fiery letter to the London bookseller on 25 May 1736, defending Faulkner, raising his voice on behalf of Dublin booksellers against the &#145;cruel Oppressions of this Kingdom by England&#146;, and claiming that if he were a Dublin bookseller he would &#145;reprint London Books, and run them to any Town, in England that I could&#146;  (<span class="italic">Correspondence</span>, 4.493). Despite Swift's advocacy, Motte gained an injunction against the sale of Faulkner's edition in London on the following 28 November. Swift had also come to Faulkner's defence three months earlier in a letter to Bishop Josiah Hort, the printing of whose <span class="italic">New Proposal for the Better Regulation of Quadrille</span> found Faulkner summoned to the House of Commons on 3 March 1736 upon a libel complaint by Sergeant Bettesworth. Faulkner spent five days in Newgate and supposedly, in lieu of fees, paid the officers with copies of his edition of Swift. On 12 May Swift wrote to Hort, detailing Faulkner's suffering as a result of the publication, rebuking the bishop for his insisting that the printer must run the hazard, and exhorting the bishop to recompense the printer for his troubles. Faulkner remained Swift's printer for the rest of the dean's life and acquired some of the author's unpublished pieces in the years before his own death.<h2>
+<a name="Success"></a>Success</h2>The sale and reputation Faulkner had gained from the edition of Swift's <span class="italic">Works</span> seems to have confirmed his commitment to his Dublin shop; his protracted stays in London now dwindled to shorter annual visits. Over the next few years, he advertised 200 London books as sold at his shop (1735); he printed an Irish edition of Pope's <span class="italic">Works</span> (1736); reprinted an edition of Richardson's <span class="italic">Pamela</span> (1741); was active in the Dublin Society; became a church warden at St Werburgh's (1743) and a founding member of the Physico-Historical Society (1744), whose purpose was the study of Irish history and resources; undertook the largest work yet to be published in Dublin, <span class="italic">The Universal History</span> (1744&#150;6); and, shortly after Swift's death, conducted a subscription for a monument to mark the dean's grave.<br>
+<br>In 1745 Faulkner began a lifelong friendship with Philip Dormer Stanhope, fourth earl of Chesterfield, recently appointed lord lieutenant of Ireland. Although ambiguous in his appreciation of the printer, the noble patron of letters was naturally attracted to Faulkner's bookshop, dined often at the proprietor's table, and, late in life, wrote favourably of his literary ability and other virtues. The story of Faulkner's refusal of a knighthood offered by Chesterfield, although it does the printer credit, became the source of much public embarrassment when a clergyman and friend named Stevens published anonymously <span class="italic">Chivalrie, No Trifle</span> (1746), a satiric dialogue in which a disappointed lady fantasizes about the delights accruing from the title and harasses Sir George until he reverses his decision.<br>
+<br>In October 1747 Faulkner took on the son of his sister Elizabeth, Samuel Smith, as an apprentice. By 1758 Smith was publishing independently from his uncle's shop, issuing such works as the third edition of Sterne's <span class="italic">Tristram Shandy</span> in 1760. In 1757 Smith visited Robert Dodsley in London on Faulkner's behalf; in 1762 he subscribed for fourteen sets of Faulkner's edition of Swift's <span class="italic">Works</span>; but in the 1770s he seems to have yielded his role in Faulkner's shop to his cousin Thomas Todd, who eventually inherited the business.<br>
+<br>Faulkner's energy and enterprise continued to build his fortune and reputation as both printer and publisher. By 1748 he was able to list 1000 titles in stock, some by well-known native sons of Ireland. Faulkner had issued Henry Brooke's drama <span class="italic">Gustavus Vasa</span> in 1739 and <span class="italic">The Farmer's Letter to the Protestants of Ireland</span> in 1745, to which he would add <span class="italic">The Interests of Ireland Considered</span> (1759), and <span class="italic">The Tryal of the Cause of the Roman Catholics</span> (1762). His liberal theology emerged in his publication of two works by the Arianist Irish bishop Robert Clayton, the controversial <span class="italic">Essay on the Spirit</span> (1753) and the <span class="italic">Vindication of the Histories of the Old and New Testament</span> (1753), a work he shared with Bowyer. He also reprinted Bishop George Berkeley's <span class="italic">The Querist</span> (1750), <span class="italic">A Miscellany</span> (1752), and <span class="italic">A Word to the Wise, or, An Exhortation to the Roman Catholic Clergy of Ireland</span> (1752).<h2>
+<a name="Setbacks"></a>Setbacks</h2>However, the 1750s also brought Faulkner further embarrassments and personal blows. In November 1751, although he had sold 300 copies of <span class="italic">Remarks on the Life and Writings of Dr. Jonathan Swift</span> by John Boyle, fifth earl of Orrery, in a single week, Faulkner anticipated well the criticism he would receive for this indiscreet publication when writing to Orrery on 30 November: &#145;I am likely to be hanged, drawn and quartered for printing and publishing this Libel against my best Friend and Benefactor&#146;  (<span class="italic">Prince of Dublin Printers</span>, 39). His liberal politics brought more discomfort. While his constant round of dinner parties was partly intended to mitigate the hostilities between subscribers to the patriot and the court parties, his friendship with Lord Chesterfield and his description in the <span class="italic">Dublin Journal</span> of &#145;modern patriotism&#146; as consisting of &#145;eating, drinking, and quarrelling&#146; earned him the wrath of the earl of Kildare and his patriot followers. Patriot satirists characterized Faulkner in various pamphlets as &#145;Sir Tady Faulkner, printer in petto to the Court Party&#146;. Further, the financial instability of Ireland in 1754, as well as that of his own business, caused additional anxiety. Recounting the numerous daily bankruptcies in Dublin, Faulkner wrote to Orrery that if bookselling did not improve, he &#145;must quit business, go to London &hellip; and beg your Lordship's protection&#146;  (ibid., 44&#150;5). Personally, Lady Fortune was no kinder. On 13 January 1755 Mary, his beloved wife of twenty-five years, died aged forty-seven and was buried in the Cabbage Garden graveyard. In March the same year, during a violent storm, Faulkner suffered several fractures when struck by a sign falling from its second-floor mooring.<br>
+<br>Faulkner's luck in a particular quarter of the London trade was no different. When, in January 1741, he had joined George Ewing to reprint Samuel Richardson's London edition of <span class="italic">Pamela</span>, he opened another troublesome chapter in his relationship with a London counterpart, although Richardson would not make an issue of the &#145;piracy&#146; until a dozen years later. In the interim, the additional income to be gained from Dublin reprints prompted Richardson to contract with Faulkner in August 1748 for the Dublin edition of <span class="italic">Clarissa</span>, an arrangement that went fairly smoothly. In July 1753 Richardson contracted with Faulkner for a Dublin edition of <span class="italic">Sir Charles Grandison</span>. However, early the following month Faulkner was compelled to write to Richardson to complain that he had received only four sheets of the text while four other Dublin printers had received much more and were preparing to issue their own editions. Richardson responded by accusing Faulkner of collusion, and the other Dublin booksellers of bribing his servants to obtain these sheets. Richardson then dismissed two suspected journeymen (including Thomas Killingbeck, a former Faulkner employee) and continued to turn a deaf ear to Faulkner's explanations of Dublin trade protocol and his offer to surrender any interest in the publication. Supported by Samuel Johnson and David Garrick and the London press, Richardson's anger with the Dublin trade finally resulted in <span class="italic">An Address to the Public</span> on 1 February 1754, a pamphlet he distributed gratis to the public and later included in the last volume of <span class="italic">Grandison</span>, in which he detailed the facts in the case and arraigned Faulkner as the primary culprit.<br>
+<br>Richardson's rancour over the affair seems to have continued unabated. Three years later, when Faulkner, as a long-time member of the Dublin Society for Promoting Husbandry and Other Useful Arts, was invited to describe the society's work at a meeting of its fledgeling London counterpart, the Society for Promoting Arts, Commerce, and Manufactures (of which Richardson was a member), his presentation was thought of such interest that at the end of the meeting he was proposed as a corresponding member of the society. However, when his election was held at the opening of the society's next meeting on 23 February 1757, Faulkner became the first person in its three-year history to be blackballed.<h2>
+<a name="LondonandDublin"></a>London and Dublin</h2>One pleasure that delighted Faulkner in the late 1750s was the rural &#145;villa&#146; he had apparently recently acquired. Writing to Samuel Derrick on 16 November 1758, he said a recent party that included the actor Henry Woodward and his wife were &#145;in Raptures at my Gardens, Improvements and Serpentine River&#146;. He exulted that his villa had become a &#145;Receptacle for the Literati and all Men of Genius in every Profession, some of whom have written Poems, and others have drawn Plans and Perspective Views of my little farm with all the adjacent Beauties&#146;  (<span class="italic">Prince of Dublin Printers</span>, 51&#150;3). The exact location of this villa is unclear.<br>
+<br>In 1760, commenting on Faulkner's popularity during his annual visits to London, Chesterfield wrote: &#145;he is become so great and considerable a man here in the republic of letters &hellip; I have been able to get him to dine with me but twice&#146;  (Stanhope, 3.364). Detailing Chesterfield's observation, Faulkner's letters from London to Samuel Derrick during the first half of 1761 abound with accounts of dinners and dates with a cross-section of fashionable London society. Such celebrity played into the hands of Samuel Foote, who, the following year, acted a successful parody of the lisping, one-legged printer as Peter Paragraph in his farcical <span class="italic">Orators</span> at the Haymarket Theatre, London. Chesterfield suggested that Faulkner instigate a suit against the comedian and offered his services, but Faulkner procrastinated until Foote brought the farce to his own soil, acting the piece at Smock Alley Theatre, Dublin, in October 1762. Supposedly, Faulkner paid his employees' entrance to the d&eacute;but with directions to disrupt the performance, although the plot failed. None the less, he brought a libel suit and gained a favourable decision from Judge Robinson. The small fine imposed on Foote, however, did not compensate for the local ridicule Faulkner endured as a result of the comedian's lifelike portrait. True to character, Faulkner capitalized on his embarrassment by publishing his own edition of the farce (1762) and, years later, must have enjoyed some satisfaction when Foote lost his own leg.<br>
+<br>Other events of the 1760s reflect both Faulkner's frustrations and his successes with his fellow Dubliners. Although he was elected warden to the Guild of St Luke in 1764, his attempts to become master in 1766, 1769, and 1772 failed. In 1767, vexed with the piracy of Lyttelton's <span class="italic">History of the Life of King Henry the Second</span> (which Faulkner probably had from James Dodsley, the publisher of the London edition), Faulkner printed in the <span class="italic">Dublin Journal</span>  (2 June) a heated denunciation of the &#145;Malignity, Hatred, Envy and Malice&#146; of some Dublin booksellers whose piratical practices had robbed him and others of their rightful property and at the same time were threatening to undermine the local trade. Although Faulkner, when elected sheriff in May 1767, escaped service by claiming weak health and paying a &pound;10 fine, he seemed to relish the citizens' appreciation when they elected him an alderman of the city on 16 November 1770.<h2>
+<a name="Finalyears"></a>Final years</h2>On 22 May 1770 Faulkner's curious penchant for making himself the butt of humour prompted him to print in the <span class="italic">Dublin Journal</span> an advertisement for a new periodical called the <span class="italic">Monstrous Magazine</span>, published by his sometime collaborator George Ewing and inscribed to the author of widely derided plays and poetry, Faulkner's alderman friend Gorges Edmond Howard. Not only did this gesture provoke a protracted quarrel between Faulkner and the offended Howard, but Robert Jephson fanned the fire to the delight of the town by writing a series of epigrams published in the <span class="italic">Dublin Mercury</span> and, the next year, two satirical verse epistles parodying the two adversaries, all of which were passed off as the work of Faulkner and Howard themselves.<br>
+<br>Although plagued by gout, which took him to Bath in April 1770, Faulkner finished the last years of his career in relative peace. With his nephew Thomas Todd largely at the reins during the period, Faulkner's shop turned out some significant publications: a twenty-volume edition of Swift's <span class="italic">Works</span> (1772), the completion of Lyttelton's <span class="italic">History of King Henry the Second</span> (1773), Chesterfield's <span class="italic">Letters to his Son</span> (1774), and in the following year the first edition of <span class="italic">Ogygia Vindicated</span>, written in 1686 by the Irish historian Roderic O'Flaherty, edited by Charles O'Conor, the friend that the patriot Faulkner had long urged to write a history of Ireland.<br>
+<br>Faulkner died in Dublin on 30 August 1775, his death supposedly brought on by a respiratory affliction aggravated while dining, ten days earlier, with friends in a newly painted suburban tavern; he was buried in the Cabbage Garden, at the foot of Cathedral Lane. Childless, Faulkner left his business and property to Thomas Todd, who for the previous five years had been publishing independently at Faulkner's Parliament Street shop. Todd assumed his uncle's surname, gained an appointment as printer to the city, and carried on the business until his death in 1793. Faulkner's will, dated 17 May 1770 and proved on 18 September 1775, mentions his nephews Thomas Todd and Samuel Smith, Smith's wife Frances and daughter Mary, his half-brother Samuel Faulkner, and nieces and cousins; Mary Anne Faulkner, the printer's niece and adopted daughter, had become a singer in London and the mistress of George Montagu, earl of Halifax, who had been viceroy of Ireland from 1761 to 1763.<h2>
+<a name="Character"></a>Character</h2>Beginning in the month after his death, an anonymous two-part memoir in successive issues of the <span class="italic">Hibernian Magazine</span> described Faulkner as &#145;something under the middle size&#146; but with a &#145;large body&#146;, &#145;manly&#146; features, and a &#145;pleasing though grave&#146; countenance. The account lauds Faulkner as &#145;transcendently eminent; as a citizen, of approved probity in his dealings, generous and hospitable &hellip; as a shopkeeper, courteous and obliging to every rank; as a husband, relation, friend, affectionate, tender, social and entertaining&#146;  (p. 570). Such varnished public accounts are tempered, however, by the candid commentary of those who knew Faulkner in company. Recounting a dinner he attended at Faulkner's house, the playwright Richard Cumberland reported that Faulkner had a &#145;solemn intrepidity of egoism&#146; and that he was &#145;pre-eminently and by preference the butt and buffoon of the company&#146;, but that he could retaliate with &#145;left-handed thrusts as few could parry&#146;. Inclined to affect the gallant, Cumberland says, Faulkner claimed that he lost his leg while fleeing from an enraged husband  (Cumberland, 174).<br>
+<br>However, Faulkner was a complex character whose flaws were offset by many virtues. His often-mentioned charity to the poor and the distressed is illustrated by his donation of dozens of loaves of bread and bags of coal to the prisoners in Marshalsea in July 1769. In his will he bequeathed sums of &pound;10 to &pound;100 to more than a dozen hospitals, almshouses, and schools. Although an Anglican, he was of a liberal disposition, counting as a close friend and correspondent the Catholic Charles O'Connor, with whom he sympathized for the repressed condition of Catholics in Ireland. Although of no faction, as a founding member of the Physico-Historical Society he was a strong Irish patriot. In his <span class="italic">Dublin Journal</span> he incessantly pleaded the cause of Irish manufactures and strongly opposed the union of English and Irish parliaments. Most of all, he liked people, particularly those of wit and intelligence, and his house was famous for a constant round of elaborate dinners and entertaining company from all ranks. As expressed in a letter to O'Connor, his goal was &#145;to make all the World Friends and Agreeable to each other, and &hellip; to cure all Prejudices, and make the World happy&#146;  (<span class="italic">Prince of Dublin Printers</span>, 111).<br>
+<br>During his fifty-year career Faulkner raised himself head and shoulders above the rest of the Dublin trade. His publishing output, including solo and collaborative productions, was the &#145;largest of the century&#146;  (Pollard, 202). He was well known for the number of apprentices he trained and for the journeymen he employed. Contrary to received opinion about the eighteenth-century Irish book trade, many of his reprints of London editions were undertaken in agreement with their British authors and publishers, who ate and drank with Faulkner during his annual London visits. Although perhaps exaggerated, Faulkner's claim that all of his copyrights were &#145;obtained in the fairest Manner from different Authors and Proprietors in Great Britain and Ireland, at much Trouble and Expence&#146;  (<span class="italic">Dublin Journal</span>, 2 June 1767) has gained strength from recent research and distinguishes him from most of his Dublin contemporaries. Knowing the value of the Irish market, the Bowyers (who owed him at least twenty-seven publications) and the Dodsleys (who shared many works with Faulkner), as well as Lockyer Davis, Lacey Hawes, Charles Hitch, Andrew Millar, Samuel Richardson, James Rivington, and Paul Vaillant, all recognized the advantages of dealing with Faulkner. Swift's early epithet for Faulkner, the Prince of Dublin Printers, turned out to be prophetic.<br>
+<br>James E. Tierney </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Pollard, <i>A dictionary of members of the Dublin book trade 1550&#150;1800</i> (2000), 198&#150;206 &middot; R. Munter, <i>A dictionary of the print trade in Ireland, 1500&#150;1775</i> (1988), 96&#150;8 &middot; T. Gilbert, <i>A history of the city of Dublin</i>, 3 vols. (1854&#150;9); repr. (1972); 2, pp. 30&#150;53 &middot; &#145;Authentic memoirs of the late George Faulkner, esq.&#146;, <em>Hibernian Magazine</em> (Sept 1775), 503&#150;5; (Oct 1775), 566&#150;71 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <i>Prince of Dublin printers</i><i>: the letters of George Faulkner</i>, ed. R. E. Ward (Lexington, Kentucky, 1972) &middot; I. Ehrenpreis, <i>Swift</i><i>: the man, his works and the age</i>, 3 vols. (1962&#150;83), vol. 3 &middot; <i>The correspondence of Jonathan Swift</i>, ed. H. Williams, 5 vols. (1963&#150;5), vols. 4&#150;5 &middot; <em>Dublin Journal</em> (1726&#150;75) &middot; P. D. Stanhope, <i>Miscellaneous works</i> (1777) &middot; R. Cumberland, <i>Memoirs of Richard Cumberland written by himself</i>, 2 vols. (1806&#150;7) &middot; C. O'Connor, &#145;George Faulkner and the Irish Catholics&#146;, <em>Studies: Irish Quarterly Review</em>, 28 (1939), 485&#150;500 &middot; S. Richardson, <i>The case of Samuel Richardson, of London, printer</i> (1753) &middot; A. C. Elias, &#145;The first printing of Orrery's <i>Remarks on Swift</i> (1751)&#146;, <em>Harvard Library Bulletin</em>, 25 (1977), 310&#150;21 &middot; K. Maslen, &#145;George Faulkner and William Bowyer: the London connection&#146;, <em>Long Room</em>, 38 (1993), 20&#150;30 &middot; C. Coogan and R. E. Ward, &#145;Literary piracy in the eighteenth-century book trade: the cases of George Faulkner and Alexander Donaldson&#146;, <em>Factotum: Newsletter of the XVIIIth-Century Short Title Catalogue</em>, 17 (Nov 1983), 23&#150;35 &middot; J. E. Tierney, &#145;More on George Faulkner and the London book trade&#146;, <em>Factotum: Newsletter of the XVIIIth-Century Short Title Catalogue</em>, 19 (Oct 1984), 8&#150;11 &middot; R. C. Cole, <i>Irish booksellers and English writers, 1740&#150;1800</i> (1983) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=Nichols%2C%20Lit.%20anecdotes')">Nichols, <i>Lit. anecdotes</i></a>, 208&#150;9 &middot; <i>The prose works of Jonathan Swift</i>, ed. H. Davis and others, 16 vols. (1939&#150;74) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=BL')">BL</a>, Egerton MS &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 27995 &middot; Harvard U., Orrery papers, MS English 218.5 &middot; V&amp;A NAL, 14.6 &middot; will, TNA: PRO, PROB 11/1032, sig. 507<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=Royal%20Irish%20Acad.')">Royal Irish Acad.</a>, B1.1&#150;B1.2&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=Library%20of%20Birmingham')">Library of Birmingham</a>, Robert Dodsley letter-book
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=BL')">BL</a>, Egerton MS 201
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=Harvard%20U.')">Harvard U.</a>, Orrery papers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Sharp, line engraving, repro. in P. D. Stanhope, <i>Letters from Lord Chesterfield to Alderman Faulkner, Dr. Madden</i> (1777) &middot; W. Sharp, line engravings (after Irish school, <i>c.</i>1750), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9205&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a>; repro. in <i>Works of Lord Chesterfield</i> (1777) &middot; engraving, repro. in <em>Hibernian Magazine</em> (Oct 1775), 566 &middot; portrait; formerly in possession of Dr Thomas Leland, 1766<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James E. Tierney, &#145;<span class="roman"><span class="headword">Faulkner,  George</span>  (1703?&#150;1775)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2013 [http://www.oxforddnb.com/view/article/9205, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Faulkner (1703?&#150;1775): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9205 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/9205/2009-10"> [Previous version of this biography available here: October 2009]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 42215;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/42/42215-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/42/42215-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=42215#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Canterbury,  Michael</span>  (<em>fl. </em>1275&#150;1321), <span class="occ">master mason</span>, appears to have been a native of Canterbury, where he is first recorded as master mason to the cathedral priory. In 1275/6 and 1277 the treasurer of the priory paid him wages and travel expenses for his work on the new &#145;prior's house&#146; (in reality a row of high-quality stone-built houses for rent) in Cheapside, London, to the north of the church of St Mary-le-Bow. In 1290, and in other years which cannot be fixed, he was renting from the priory several properties in the Northgate parish of the city. Most of Michael Canterbury's later documented works were in or near London, but that he continued to be active in Canterbury is suggested by his purchase of a messuage there in 1293 and by the existence in and around the city of several works of <i>c</i>.1292&#150;1308 which are in his style, including the tomb of Archbishop John Peckham (<i>d</i>. 1292), the choir enclosure and chapter house (<i>c</i>.1304), all at the cathedral, and the chancel of Chartham church (of which the cathedral priory was rector), in progress by 1294.<br>
+<br>The London &#145;prior's house&#146; may well have served to advertise Canterbury's work to Edward I, for by Michaelmas 1291 he was making the penultimate and second most costly of the series of great crosses built to the memory of Queen Eleanor, that which stood in Cheapside barely a stone's throw from St Mary-le-Bow. No doubt the Cheapside cross was in its turn a recommendation to further employment by the king, for in April 1292 work started on Canterbury's most important commission, St Stephen's Chapel in Westminster Palace. Although building advanced very rapidly on what was clearly a high-priority project, it was halted by the financial crisis of 1297 and was not to be resumed until 1320. The 1292&#150;7 campaign encompassed the ground-floor chapel of St Mary and the lower parts of the walls of the main upper chapel, and also generated many hundreds of worked stones which were carefully stored for eventual use. It seems likely, therefore, that the chapel was completed essentially to Canterbury's designs.<br>
+<br>Despite its simple format and relatively small size, St Stephen's was the most complex and innovatory design of its time. Much of the formal repertory of the English Decorated style, and indeed of European late Gothic architecture generally, was pioneered here, including lierne vaults, curvilinear tracery patterns, and walls treated as tabernacle-work. The principle underlying the formal complexity&#151;that of treating the two interiors and the exterior of the chapel as a means of generating three highly contrasted &#145;modes&#146; or styles&#151;was grasped by only a handful of leading early fourteenth-century English architects. One of its earliest and most sophisticated applications is on a work almost certainly by Michael Canterbury himself, the gatehouse of St Augustine's Abbey, Canterbury, whose crenellations received royal licence in 1308. Here the three modes of St Stephen's Chapel have their counterparts on a single fa&ccedil;ade: the heavy supporting mode of the lower chapel on the storey containing the entrance arch; the tabernacle-clad treatment of the interior of the upper chapel on the niche-encrusted first floor; and the flat linear mode of the lateral exterior elevations on the uppermost parts of the octagonal turrets, which are themselves modelled on the corner turrets of St Stephen's. In its overall form, though not in its rich treatment, the St Augustine's gatehouse is the prototype of the kind of structure built at the entrance to many ambitious domestic and collegiate complexes from the fourteenth to the sixteenth centuries. Canterbury's work as a designer of tomb architecture is likely to have included the two most ambitious English funerary monuments of <i>c</i>.1300, those of Edmund Crouchback, earl of Lancaster (<i>d</i>. 1296), at Westminster, and Bishop William of Louth (<i>d</i>. 1298) in Ely Cathedral.<br>
+<br>Documentary evidence for Canterbury's later years is sparse. In 1306 he prepared Wolvesey Palace, Winchester, for the lying-in of Queen Margaret and in 1315 he had charge of building a wall round Eltham Manor in Kent. Although not strictly a royal project, the works at the London Dominicans, where Canterbury is mentioned in 1312 heading a team of twenty-four masons, were almost certainly patronized by Edward II, who occasionally resided there. Possibly a London citizen since the 1270s, Canterbury was serving in 1313 as one of the city's sworn surveyors of masons' work and in March 1316 he was a member of a commission of masons appointed to oversee paving in the city. He is last heard of at Michaelmas 1321, when he received a robe in his capacity as master mason of St Stephen's Chapel.<br>
+<br>
+<a name="cosubject_42215"></a><span class="headword">Thomas Canterbury</span>  (<em>fl. </em>1323&#150;1335), <span class="occ">master mason</span>, may have been the son of Michael Canterbury, who was married to a woman named Mary. Thomas was master mason at St Stephen's from 1323 until the cessation of work early in 1326, and again from 1332 to 1335. For unspecified works at the chapel of the London Guildhall he was paid &pound;6 17<i>s</i>. in 1332. His authorship of one of the two earliest works of Perpendicular architecture&#151;the first phase of the remodelling of the eastern parts of St Peter's Abbey (now the cathedral) at Gloucester, the south transept of <i>c</i>.1331&#150;7&#151;is suggested by its formal indebtedness to St Stephen's and by the involvement of the king. The probability that Thomas Canterbury died in or soon after 1335 also favours the attribution, for the next phases of work, the choir and presbytery built <i>c</i>.1337&#150;60, were clearly designed by a different architect.<br>
+<br>Christopher Wilson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Harvey and A. Oswald, <i>English mediaeval architects</i><i>: a biographical dictionary down to 1550</i>, 2nd edn (1984), 45 &middot; H. M. Colvin, ed., <i>The history of the king's works</i>, 6 vols. (1963&#150;82), vol. 1, pp. 207, 483&#150;4, 510&#150;12, 514; vol. 2 &middot; C. Wilson, &#145;The origins of the Perpendicular style and its development to <i>c</i>.1360&#146;, PhD diss., U. Lond., 1980, 28&#150;111 &middot; J. H. Harvey, &#145;The origin of the Perpendicular style&#146;, <i>Studies in building history</i>, ed. E. M. Jope [1961], 134&#150;65, esp. 141&#150;50, 161&#150;2 &middot; H. M. Chew and W. Kellaway, eds., <i>London assize of nuisance, 1301&#150;1431</i><i>: a calendar</i>, London RS, 10 (1973), 42, no. 205<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Christopher Wilson, &#145;<span class="roman"><span class="headword">Canterbury,  Michael</span>  (<em>fl. </em>1275&#150;1321)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/42215, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Michael Canterbury (1275&#150;1321): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/42215 
+                <br />
+
+                
+
+ Thomas Canterbury (1323&#150;1335): doi:10.1093/ref:odnb/42215<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

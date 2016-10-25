@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37602;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37602-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37602-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37602#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Smith,  Frederick John  Jervis-</span>  (1848&#150;1911), <span class="occ">physicist</span>, was born on 2 April 1848 in Taunton, Somerset, the only child of Frederick Jeremiah Smith, prebendary of Wells, a wealthy philanthropist and educational reformer, and his wife, Anne, daughter of John Glover, gentleman, of Taunton. He was educated privately and, from 1868, at Pembroke College, Oxford, where he read classics but was awarded only a pass degree, graduating BA in 1872. After a time at Wells Theological College he was ordained deacon in 1877 and became his father's curate at St John's Church, Bishop's Hull, near Taunton. He was ordained priest in 1880. He married, in 1874, Annie Eyton, the second daughter of Thomas Taylor, physician, of Taunton, formerly of Adelaide. They had one son.<br>
+<br>Smith's main interest was mechanics, his natural talent in which was encouraged by the engineer W. E. Metford. His first patent was taken out in 1875; he constructed dynamometers which won a medal at the 1878 Paris Exhibition, and in 1879 he invented the liquid microphone. Although succeeding his father as vicar of St John's in 1885, he resigned two years later to pursue a scientific career. He had been invited to establish a mechanical laboratory at Trinity College, Oxford, where he became Millard lecturer in experimental mechanics (and later engineering) in October 1885. Equipped at Smith's own expense, the Millard Laboratory opened in January 1886. Smith's course, based on that taught in London by Alexander B. W. Kennedy, was open to the entire university, a fact recognized in 1888 when he was made university lecturer in mechanics.<br>
+<br>Smith's own research flourished in its new setting, generating eleven patent applications in the years 1888&#150;99. One speciality was the measurement of high-speed events, such as explosions and gunshots, using his tram chronograph, invented in 1888. This led to his appointment by the home secretary to a commission on explosions of compressed gas cylinders (1895&#150;6). In 1897 he used the chronograph to measure the speed of a vehicle in an Oxford street, and presented the results in court. He also experimented with photography, and did significant early work with X-rays from 1896, and with radio waves from 1897.<br>
+<br>On 14 February 1897, on the centenary of the great naval victory of his distant kinsman Admiral John Jervis, earl of St Vincent, Smith changed his name by deed poll to Jervis-Smith. After failing to be appointed to Oxford's new chair of electrical physics in 1900, he worked to achieve similar recognition for engineering. In 1905 a diploma was created, and in 1907 the university finally decided to establish a chair of engineering science. It was not, however, intended for Jervis-Smith, and in April 1908 he retired.<br>
+<br>In retirement Jervis-Smith continued his experiments and compiled a book, <span class="italic">Dynamometers</span> (1915), which was completed posthumously by his friend C. V. Boys. Jervis-Smith's other interests were world travel, anthropology, and music; he was an accomplished organist and pianist. He held the medal of the Royal Humane Society for saving a person from drowning. He was elected FRS in 1894, and in 1898 received an honorary MA from the University of Adelaide. After six months of illness Jervis-Smith died at his home, Battramsley House, near Boldre, Hampshire, on 23 August 1911. He was survived by his wife.<br>
+<br>A. V. Simcock<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. V. Boys, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37602&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 88A (1912&#150;13), iv&#150;vi &middot; <i>Men and women of the time</i> (1899) &middot; <em>The Times</em> (5 Sept 1911) &middot; <em>The Times</em> (21 Sept 1911), 9a &middot; <em>The Times</em> (3 Nov 1911), 11b &middot; MHS Oxf., Museum MSS 29, 62 and 89 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37602&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1911)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37602&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>, corresp. and papers&nbsp;|&nbsp; Inst. ET, archive, letters to Sir William Henry Preece<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Maull &amp; Fox, photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37602&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;37,957 17<i>s</i>. 5<i>d</i>.: resworn probate, 31 Oct 1911, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. V. Simcock, &#145;<span class="roman"><span class="headword">Smith,  Frederick John  Jervis-</span>  (1848&#150;1911)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/37602, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Frederick John  Jervis-Smith (1848&#150;1911): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37602 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/37602/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

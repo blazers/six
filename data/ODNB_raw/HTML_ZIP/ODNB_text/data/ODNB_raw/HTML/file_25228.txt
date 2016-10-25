@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25228;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25228-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25228-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25228#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Sharpe,  Edmund</span>  (1809&#150;1877), <span class="occ">architect and engineer</span>, was born on 31 October 1809 at Brook Cottage, Brook Street, Knutsford, Cheshire, the only son of Francis and Martha Sharpe. He was educated locally, then at Dr Burney's school at Greenwich, Sedbergh School, and St John's College, Cambridge, where he graduated BA in 1833 and proceeded MA in 1836. In 1832 he was awarded a Worts travelling fellowship, which he devoted to the study of architecture, mainly in France and Germany, with a particular interest in Romanesque and early Gothic work. In 1835 he settled in Lancaster and practised as an architect for fifteen years. On 27 July 1843 he married Elizabeth Fletcher (<i>d</i>. 1876), sister of John Fletcher. They had three sons and two daughters.<br>
+<br>Sharpe, along with his partner from 1845 (and former pupil), E. G. Paley, erected nearly forty new churches. Early on he often favoured a simplified Romanesque style, but the most famous works are a pair of all-terracotta Gothic churches at Lever Bridge, Bolton (1842&#150;5), commissioned by his father-in-law, and Rusholme, Manchester (1845&#150;6). He also undertook secular buildings, the most ambitious being Capernwray Hall, Lancashire (1844&#150;7), the remodelling of Hornby Castle, Lancashire (1847&#150;8), and Ince Hall, Cheshire (1847&#150;9).<br>
+<br>Sharpe's vigorous involvement in civic improvements established his reputation far beyond architecture: &#145;our excellent friend and fellow townsman&#146; the <span class="italic">Lancaster Gazette</span> called him as early as 1840  (17 October 1840). A lifelong tory, he was elected to Lancaster council in 1841 and served as mayor for the year 1848&#150;9, when he led the way for major sanitary improvements. In 1850 he purchased the Phoenix foundry in Lancaster and in 1851 withdrew from architecture, although the name Sharpe and Paley was retained by Paley until early 1856. From the 1830s he had been active in promoting railways and in 1856 he went to live at Coed-y-Celyn, near Betws-y-coed, Caernarvonshire, where he organized the building of the Conwy&#150;Llanrwst Railway. In 1859 he was appointed JP for Lancashire, and for Denbighshire. From 1863, when the Conwy valley line opened, until 1866 Sharpe lived abroad, constructing a horse-drawn tramway in Geneva and the Perpignan&#150;Prades railway in south-west France. Although he acquired iron mines and property there, in 1867 he returned to Lancaster.<br>
+<br>Throughout his life Sharpe was an enthusiastic and profound student of medieval architecture, and he published several works on the subject, of which the first was <span class="italic">Architectural parallels, or, The progress of ecclesiastical architecture in England during the twelfth and thirteenth centuries</span> (1848). This was followed by: <span class="italic">Decorated Windows: a Series of Illustrations of the Window Tracery of the Decorated Style</span> (1849); <span class="italic">The Seven Periods of Architecture</span> (1851), in which he advocated a new system of nomenclature for the successive styles of medieval work; <span class="italic">The Mouldings of the Six Periods of British Architecture</span> (1874); <span class="italic">The Architecture of the Cistercians</span> (1874); and several others. His minor publications were numerous. In 1875 Sharpe received the gold medal of the Royal Institute of British Architects (he became a fellow in 1848) for his architectural writings. He was also a member of the Archaeological Institute of Great Britain and Ireland and contributed many papers to the proceedings of both organizations. In 1869 he joined the Architectural Association, which, during the next few years at his suggestion and under his guidance, made annual excursions for the study of Gothic architecture in Britain and France. An account of the last of these, <span class="italic">A Visit to the Domed Churches of Charente &hellip; in 1875</span>, with a memoir of Sharpe and a complete list of his publications, was drawn up and printed by the association in 1884 as a memorial. While collecting material for further writings, Sharpe died at Milan, after a brief illness, on 8 May 1877; he was buried at Lancaster cemetery.<br>
+<br>F. M. O'Donoghue<span class="italic">, rev. </span> Geoffrey K. Brandwood </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Jolley, &#145;Edmund Sharpe (1809&#150;77): a study of a Victorian architect&#146;, MA diss., U. Lpool, 1966 &middot; &#145;Mr Edmund Sharpe&#146;, <em>Lancaster Guardian</em> (3 Jan 1910) &middot; &#145;Memoir&#146;, <i>A visit to the domed churches of Charente, France, by the Architectural Association in the year 1875 &hellip;</i> (1884), i&#150;xiv &middot;  [Lancaster newspapers] (1836&#150;1914) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25228&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25228&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1877) &middot; private information (2004) [John M. Hughes]<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> likeness, repro. in <em>Lancaster Guardian</em> &middot; woodcut, repro. in <em>The Builder</em> (1870), 1026<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;14,000: probate, 22 Aug 1877, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">F. M. O'Donoghue, &#145;<span class="roman"><span class="headword">Sharpe,  Edmund</span>  (1809&#150;1877)</span>&#146;, rev. Geoffrey K. Brandwood, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/25228, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edmund Sharpe (1809&#150;1877): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25228 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

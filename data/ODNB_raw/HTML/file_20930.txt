@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20930;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20930-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20930-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20930#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Oswiu <span class="st"> [Oswy]</span></span>  (611/12&#150;670), <span class="occ">king of Northumbria</span>, permanently united the rival kingdoms of Bernicia and Deira into Northumbria over the course of his twenty-eight year reign, which culminated in the Synod of Whitby. Bede describes him as the seventh overlord who held the <i>imperium</i> south of the Humber. He was a younger son of <script>writeSeealsoLink('../view/article/8908/', "King &#198;thelfrith")</script> of Bernicia.<h2>
+<a name="Exileandearlylife"></a>Exile and early life</h2>Following his father's death in battle about 616 against Eadwine of Deira, who became king of both regions, Oswiu was exiled at the age of five and taken to Scotland and Ireland together with his brothers, including Eanfrith and <script>writeSeealsoLink('../view/article/20916/', "Oswald")</script>, who became kings before him, and perhaps four others, named as Oslac, Oswudu, Oslaf, and Offa in text E of the <span class="roman">Anglo-Saxon Chronicle</span>. A sister, <script>writeSeealsoLink('../view/article/8426/', "&#198;bbe")</script>, later became abbess of Coldingham.<br>
+<br>Doubts have been raised whether &AElig;thelfrith's queen, Acha, who was a member of the Deiran royal family and King Eadwine's sister, was really Oswiu's mother, since with the approval of Bishop &Aacute;ed&aacute;n Oswiu subsequently married Eadwine's daughter, <script>writeSeealsoLink('../view/article/8392/', "Eanfl&#230;d")</script>, who would have been his first cousin. A late source, the <span class="italic">Vita Oswini</span>, describes him as a bastard. This may help to explain his difficulties in assuming control of Deira, despite the success of his brother Oswald in ruling both kingdoms.<br>
+<br>Oswiu had probably been in exile for seventeen years, from the age of five until he was about twenty-one, when in 633 his brother Eanfrith regained the kingship of Bernicia for a year before his death at the hands of the British king Cadwallon, who had overthrown Eadwine. The subsequent victory of his brother Oswald over Cadwallon at the battle of Heavenfield in 634 gave Oswald control of both kingdoms. During this time Oswiu became a fluent Irish speaker and he and Oswald were baptized as Christians, either in Ireland or on Iona (the island of the monastery of St Columba off the west coast of Scotland), and this was to mould his religious outlook until the Synod of Whitby in 664. At this same period exiled Bernician princes, including Oswald, are recorded as fighting on behalf of their Irish hosts, and it is likely that Oswiu was among them. Subsequently he is one of the few English kings whose deeds are noted in the Irish annals.<br>
+<br>Probably during his period of exile in Ireland (although this may have occurred later) Oswiu fathered a child, <script>writeSeealsoLink('../view/article/306/', "Aldfrith")</script> (who was to become king of Northumbria in 686), apparently through a relationship with a princess of the U&iacute; N&eacute;ill dynasty, named as F&iacute;n in later genealogies. By Bede's standards this child was illegitimate, but Irish law required only that the father acknowledge the child. Aldfrith was later famed as a scholar in Irish sources, but was not apparently welcome in England until he became king, possibly because of the resentment of Oswiu's subsequent male offspring.<br>
+<br>Oswiu seems to have legally married twice, although this is not apparent from Bede. In the <span class="italic">Historia Brittonum</span> he is said to have married Rhiainfellt, daughter of Rhwyth, the son of Rhun. Elsewhere in the same source Rhun is described as a son of Urien of Rheged. Rheged was a British kingdom, apparently in the area of Carlisle, and it is likely that Oswiu married a princess of this kingdom as part of his brother King Oswald's expansionist policy before his death in 642. Two of Oswiu's known children, his son <script>writeSeealsoLink('../view/article/286/', "Alchfrith")</script> and his daughter Alhfl&aelig;d, were of marriageable age in the early 650s, and Alchfrith fought beside him in 655. They therefore cannot have been the children of King Eadwine's daughter Eanfl&aelig;d (<i>b</i>. 626), also mentioned in the <span class="italic">Historia Brittonum</span>, whom Oswiu married, probably between 643 and 645, after he had become king. Rhiainfellt appears to be the first queen commemorated in the <span class="italic">Liber vitae</span> of Lindisfarne and Durham, although the identification of her name has been doubted.<h2>
+<a name="ThewarwithPendaandthestruggleforDeira"></a>The war with Penda and the struggle for Deira</h2>Oswiu became king in 642, at the age of about thirty, after Oswald was slain by the armies of Penda of Mercia in alliance with the British, at a place recorded by Bede as &#145;Maserfelth&#146;; this has been identified as possibly Oswestry in what is now Shropshire. Oswald's body was ritually dismembered by the pagan Penda and the head and arms were displayed on stakes. A year after his brother's overthrow King Oswiu came with an army and retrieved the undecayed limbs, which he took back to Bernicia. The head was buried in the cemetery at Lindisfarne and an arm and hand enshrined in the chapel of the royal palace at Bamburgh. Through dying in battle fighting a pagan king, Oswald had received a martyr's death and his brother's actions laid the basis for his subsequent cult and sanctification.<br>
+<br>The first thirteen years of Oswiu's reign were dominated by the struggle with Penda, who continually attacked Bernicia, and is once recorded by Bede as ravaging right up to the walls of Bamburgh. Initially, Oswiu's position appears to have been greatly weakened, and he seems to have been driven back into his heartland of Bernicia. He was apparently unable to assert his authority over the extensive area in southern England which Oswald had ruled, and Deira returned to the control of Eadwine's dynasty through a cousin, <script>writeSeealsoLink('../view/article/20927/', "Oswine (d. 651)")</script>, who is recorded by Bede as an attractive and popular king, and a friend of &Aacute;ed&aacute;n of Lindisfarne, who acted as bishop for both kingdoms despite the split.<br>
+<br>The obstacle presented by Oswine to the revival of his fortunes was the first occasion on which Oswiu's capacity for ruthless political directness became apparent. He sent to Kent for Eadwine's daughter, Eanfl&aelig;d, and married her. Four children were subsequently born to this union, and the eldest son, <script>writeSeealsoLink('../view/article/37384/', "Ecgfrith")</script>, eventually succeeded to both kingdoms in 670. But the marriage does not seem to have increased Oswiu's personal support in Deira, so in 651 he raised an army against Oswine, who dispersed his own troops and went into hiding; he was subsequently murdered at Oswiu's instigation. This hard-headed approach did not win the support of his wife, who persuaded him to found a monastery at Gilling in recompense for the death of her kinsman, nor of the Deiran nobility, who were still not prepared to accept him as king, nor of Bede, who admired Oswine's humility. Oswine was replaced as king of Deira by Oswald's son Oethelwald, possibly at Oswiu's instigation, but Oethelwald was soon following an independent line, hostile to his uncle, in co-operation with Penda.<br>
+<br>Oswiu seems to have attempted to deal initially with Penda by promoting family ties with the Mercian royal dynasty, and by trying to detach Penda's subordinates from his sphere of influence by persuading them to accept Christianity, while Penda himself remained pagan. Most successfully, he persuaded Penda's son <script>writeSeealsoLink('../view/article/21682/', "Peada")</script> to become Christian as the price of marrying his daughter Alhfl&aelig;d; similarly, Oswiu's own son Alchfrith married Penda's daughter Cyneburh. Oswiu also persuaded Sigeberht (the Good), king of the East Saxons and a personal friend, to become Christian. Both Peada and Sigeberht were persuaded to accept baptism in Oswiu's territory, near Hexham, from his own bishop, Fin&aacute;n of Lindisfarne, in 653, and Oswiu himself probably stood godfather.<h2>
+<a name="ThebattleoftheWinwdandNorthumbriansupremacy"></a>The battle of the &#145;Winw&aelig;d&#146; and Northumbrian supremacy</h2>It is likely that Penda took these as provocative acts and attacked Bernicia as a result. Oswiu was driven to the north of his territories; probably at Stirling he was forced to pay a huge tribute to Penda and his British allies, recorded in British sources as the &#145;Restitution of Iudeu&#146;. Oswiu was also forced to let his son Ecgfrith, who was then aged ten, be taken hostage to Penda's court. Despite this humiliating compromise, a subsequent offer of tribute was refused by Penda, who was determined to destroy Bernicia, according to Bede. Oswiu, who was now about forty-three, and his son Alchfrith were forced to give battle in the face of daunting odds. In addition to thirty legions thirty times his strength ranged against him (an appropriately biblical number), his nephew Oethelwald of Deira had allied with Penda. In desperation Oswiu therefore pledged twelve estates to the church, and also his one-year-old daughter <script>writeSeealsoLink('../view/article/8622/', "&#198;lffl&#230;d")</script>, in a request for divine aid against the pagan.<br>
+<br>Bede records that battle was joined near the River &#145;Uinuaed&#146; (&#145;Winw&aelig;d&#146;) on 15 November 655. This has not been identified but appears to have been in the area of &#145;Loidis&#146; where the campaign was concluded. This is assumed to be Leeds, in the southern part of Deira, although earlier commentators suggested a site in southern Scotland. In the <span class="italic">Historia Brittonum</span> the site is named as &#145;in campo Gai&#146;. Despite his superiority of numbers, some of Penda's allies, including Oethelwald, appear to have deserted him, and he and much of his army were slaughtered or drowned in the swollen river. Oswiu beheaded him, probably in revenge for the mutilation of his brother. The earliest manuscript of Bede's <span class="italic">Historia ecclesiastica gentis Anglorum</span> is unclear at one point, but John Prestwich showed that it is probably Penda himself, rather than the East Anglian king &AElig;thelhere, who is described as the author of the war.<br>
+<br>In fulfilment of his vow before the battle, Oswiu did indeed give twelve estates for the founding of monasteries, six in Bernicia and six in Deira, one of which was used for the founding of Hartlepool, where his infant daughter &AElig;lffl&aelig;d was sent initially, in fulfilment of his other pledge, into the care of Abbess Hild, a Deiran princess and cousin of the queen. Another was at Whitby, where Hild and &AElig;lffl&aelig;d subsequently moved and where Oswiu himself was eventually buried. But Bede seems to contrast wryly the twelve estates promised before the battle with the twelve little estates actually given  (Mayr-Harting, 99), although James Campbell has argued that Bede's word, <i>possessiunculis</i>, is a technical term meaning a single settlement rather than being deliberately dismissive  (Campbell, <span class="italic">Essays</span>, 96, 112).<br>
+<br>Bede, however, is rather grudging in his treatment of this victory and Oswiu in general; but later authors such as Alcuin recognized it as a major turning point in the triumph of Christianity among the Anglo-Saxons. Oswiu had secured his southern frontier, Bernicia and Deira were now free from pagan attack, and Mercia was under Northumbrian control for three years and became Christian, despite the subsequent revolt of the Mercian nobles who installed Penda's son Wulfhere as king. During this period Oswiu ruled the northern part of Mercia directly, and placed his son-in-law Peada in charge of the southern part until he was apparently assassinated through the machinations of his wife, Oswiu's daughter Alhfl&aelig;d. This high-handed treatment, reminiscent of the murder of Oswine, may have provoked the revolt which re-established Mercian independence in 658. Although this period of Northumbrian power south of the Humber was fairly brief, it allowed Bede to recognize Oswiu as successor to the overlordship enjoyed by Oswald and five previous kings, in a famous passage later reused in the <span class="roman">Anglo-Saxon Chronicle</span> under the year 829, where the term <i>bretwalda</i> first appears.<br>
+<br>Oswiu does not seem to have attempted to reimpose control over Mercia after Wulfhere became king, but instead turned his attention to the northern border of his kingdom, in the area which is now Scotland. Shortly before Oswiu's victory at the River &#145;Winw&aelig;d&#146;, Talorcan, son of his brother Eanfrith and a Pictish princess, had become king of the Picts, possibly at Oswiu's instigation. Talorcan died in 657, but Bede notes in two places that Oswiu subjected the Picts to Northumbrian domination and forced them to pay tribute, and it is probable that Oswiu took the offensive in the early 660s following his nephew's death. Oswiu may at this point have been acting in alliance with the Irish in western Scotland, among whom he was brought up, although with the death of his former patron it appears that he made these people tributary as well. It has been claimed that for this brief period in the late 650s Oswiu had wider power in Britain than any king until James I.<h2>
+<a name="TheSynodofWhitbyandecclesiasticalpolitics"></a>The Synod of Whitby and ecclesiastical politics</h2>Oswiu had been supported at the battle of the River &#145;Winw&aelig;d&#146; by his son Alchfrith. Oswiu installed him as sub-king, apparently in Deira in succession to his traitorous nephew Oethelwald, who is not heard of again. In the early 660s, however, Alchfrith began following a different ecclesiastical policy to his father, who remained a supporter of the Columban church based at Lindisfarne and Iona. Having initially given Ripon to Irish monks, he ejected these in favour of the Roman party spearheaded by Wilfrid. Deiran separatism was associated with the Canterbury-backed mission of Paulinus which had introduced Christianity during Eadwine's reign. Oswiu's wife Eanfl&aelig;d, Eadwine's daughter, had been baptized by Paulinus and brought up in Kent, and retained a circle of ecclesiastical advisers who followed the practices of the Roman church. At this period, therefore, owing to the attacks of those such as Wilfrid who wished to see the English church brought more closely in line with orthodox practice and papal authority, the Columban mission was being marginalized and its influence in England diminished.<br>
+<br>Oswiu was therefore faced with behaviour by his son and co-ruler which increasingly challenged his authority, and by the rise of a centralizing movement which threatened to exclude him from influence in Deira, and in most other English kingdoms, as well as forgoing the spiritual and material support of the papacy as the heirs of St Peter. Bede famously claimed that there was a split in the royal household over the date of Easter, with Oswiu's court following Columban practice and thus celebrating Easter early, while the queen and her supporters were still fasting in Lent; but this absurd situation had already happened fourteen times in the twenty-two years of the marriage of Oswiu and Eanfl&aelig;d, and it is clear that it was the increasing political pressure on Oswiu that required the situation to be resolved.<br>
+<br>A synod of the Northumbrian church was therefore convened at Whitby in 664, possibly instigated by Alchfrith and supposedly under the joint authority of both kings, but Oswiu chaired the debate and made the final decision. Despite his personal affection for the spokesman of the Columban party, Colm&aacute;n, bishop of Lindisfarne, Oswiu accepted the Roman method for calculating Easter. In doing so he outmanoeuvred his son, for his acceptance was based on the supremacy of St Peter over St Columba, rather than on the patronizing arguments for the dismissal of the Columban case put forward by Alchfrith's champion, Wilfrid. Wilfrid's biographer, unlike Bede, records that Oswiu smiled when he made his choice.<br>
+<br>The fruits of this decision can be seen in a letter of 667 from Pope Vitalian in Rome in response to a letter sent by Oswiu, apparently acting in concert with the king of Kent, to propose a new archbishop of Canterbury. Up to this point the church and rulers of Northumbria do not seem to have recognized the authority of Canterbury, nor felt themselves able to influence such appointments. The pope addresses him as &#145;King of the Saxons&#146;, praises him, welcomes his embrace of orthodoxy, and prays for the extension of his rule throughout Britain, as well as sending a generous selection of relics to him and his queen and promising to send a bishop as he had requested. This letter must have been an extremely gratifying reward for Oswiu's new position.<br>
+<br>The downside of this acceptance of Rome's authority emerged with the appointment of Theodore of Tarsus as the new archbishop of Canterbury. Following the Synod of Whitby and Colm&aacute;n's departure to Ireland, Oswiu had appointed Tuda as bishop of Lindisfarne for Bernicia and had allowed Alchfrith to install Wilfrid at York, apparently as a separate bishop for Deira. But Tuda died of the plague and Wilfrid went abroad for consecration. In his absence Oswiu appointed Ceadda (Chad) to be bishop of both kingdoms, with his see at York. This seems to have been prompted by a final rebellion by Alchfrith against his father, who had denied him permission to go to Rome with Benedict Biscop, possibly fearing the opportunity for undue influence with the pope. Alchfrith is not heard of again, and it is probable that Wilfrid stayed away so as not to be caught up in his downfall. Oswiu, however, who was now at last unchallenged ruler of the united kingdom of Northumbria, unwisely allowed Ceadda to be consecrated to Wilfrid's see by the bishop of the West Saxons and two unorthodox British bishops. As a result Archbishop Theodore, when he arrived in Northumbria in 669, deposed Ceadda and reinstated Wilfrid as bishop of the whole kingdom, including the conquered territories to the north.<br>
+<br>Surprisingly, as with the Mercian revolt of 658, Oswiu seems to have been prepared to accept this humiliation, and to accept Wilfrid too, since Bede records that he offered Wilfrid a considerable gift to escort him to Rome. Oswiu was now aged fifty-eight and ill, and this was probably intended to be his final pilgrimage, perhaps in response to Pope Vitalian's letter. Wilfrid, however, refused and Oswiu died on 15 February 670, to be succeeded as king of all Northumbria by his son Ecgfrith. He was buried in St Peter's Church at Whitby, which had become the mausoleum of the Deiran royal family, and where his daughter &AElig;lffl&aelig;d would later succeed Hild as abbess. This was a fitting end to his struggle to amalgamate the two kingdoms and by the time that Alcuin wrote, at the end of the next century, he was acclaimed as one of the heroes of the church of York.<br>
+<br>Oswiu was the father of at least seven children, with three different women. As shown above, the rebellious Alchfrith and Peada's murderous wife, Alhfl&aelig;d, were probably both children of the British princess Rhiainfellt. Eanfl&aelig;d, the Deiran princess whom he married at the beginning of his reign when she was about eighteen, had two sons, Ecgfrith, who eventually succeeded to both kingdoms following his father's death in 670, and &AElig;lfwine, who was killed fighting the Mercians in 679. Oswiu and Eanfl&aelig;d also had two daughters, &AElig;lffl&aelig;d, who was dedicated by her father to the church before the battle of the &#145;Winw&aelig;d&#146; and became joint abbess of Whitby in 680 together with her mother, and <script>writeSeealsoLink('../view/article/20909/', "Osthryth")</script>, who after her father's death married King &AElig;thelred of Mercia and promoted the cult of her uncle Oswald. Aldfrith, Oswiu's son with the Irish princess F&iacute;n, attained the Northumbrian throne after his half-brother Ecgfrith was killed in 686, despite his illegitimacy, partly through the efforts of his half-sister &AElig;lffl&aelig;d. Oswiu's dynasty thus controlled the Northumbrian throne until the beginning of the next century.<br>
+<br>D. J. Craig </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=Bede%2C%20Hist.%20eccl.')">Bede, <i>Hist. eccl.</i></a>, 3.14&#150;15, 21&#150;2, 24&#150;5, 28&#150;9; 4.1, 3, 5 &middot; Nennius, <i>&#145;British history&#146; and &#145;The Welsh annals&#146;</i>, ed. and trans. J. Morris (1980) &middot; E. Stephanus, <i>The life of Bishop Wilfrid</i>, ed. and trans. B. Colgrave (1927) &middot; &#145;Historia abbatum auctore Baeda&#146;, <i>Venerabilis Baedae opera historica</i>, ed. C. Plummer, 1 (1896), 364&#150;87 &middot; Alcuin, <i>The bishops, kings, and saints of York</i>, ed. and trans. P. Godman, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=OMT')">OMT</a> (1982) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=ASC')"><i>ASC</i></a>, s.a. 617, 641, 650, 654, 656, 667, 670 [text E] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=Ann.%20Ulster')"><i>Ann. Ulster</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=John%20of%20Worcester%2C%20Chron.')">John of Worcester, <i>Chron</i>.</a> &middot; H. Sweet, ed., <i>Liber vitae</i>, <i>The oldest English texts</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=EETS')">EETS</a>, 83 (1885), 153&#150;66 &middot; J. Raine, ed., &#145;Vita Oswini regis deirorum&#146;, <i>Miscellanea biographica</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=SurtS')">SurtS</a>, 8 (1838), 1&#150;59 &middot; N. J. Higham, <i>The convert kings</i><i>: power and religious affiliation in early Anglo-Saxon England</i> (1997), 225&#150;77 &middot; D. P. Kirby, <i>The earliest English kings</i> (1991) &middot; B. Yorke, <i>Kings and kingdoms of early Anglo-Saxon England</i> (1990) &middot; K. H. Jackson, &#145;On the northern British section in Nennius&#146;, <i>Celt and Saxon</i><i>: studies in the early British border</i>, ed. N. K. Chadwick (1963), 20&#150;62 &middot; H. Moisl, &#145;The Bernician royal dynasty and the Irish in the seventh century&#146;, <em>Peritia</em>, 2 (1983), 103&#150;26 &middot; M. Miller, &#145;The dates of Deira&#146;, <em>Anglo-Saxon England</em>, 8 (1979), 35&#150;61 &middot; H. Mayr-Harting, <i>The coming of Christianity to Anglo-Saxon England</i>, 3rd edn (1991) &middot; R. Abels, &#145;The council of Whitby: a study in early Anglo-Saxon politics&#146;, <em>Journal of British Studies</em>, 23/1 (1983&#150;4), 1&#150;25 &middot; J. Campbell, &#145;The first Christian kings&#146;, <i>The Anglo-Saxons</i>, ed. J. Campbell (1982), 45&#150;69 &middot; J. Campbell, <i>Essays in Anglo-Saxon history</i> (1986) &middot; A. P. Smyth, <i>Warlords and holy men</i><i>: Scotland, <span class="smallcap">AD</span> 80&#150;1000</i> (1984) &middot; D. P. Kirby, &#145;&hellip; per universas Pictorum provincias&#146;, <i>Famulus Christi</i>, ed. G. Bonner (1976), 286&#150;324 &middot; J. O. Prestwich, &#145;King &AElig;thelhere and the battle of the Winwaed&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 83 (1968), 89&#150;95 &middot; N. Brooks, <i>The early history of the church of Canterbury</i><i>: Christ Church from 597 to 1066</i> (1984) &middot; A. H. Smith, <i>The place-names of the West Riding of Yorkshire</i>, 7, English Place-name Society, 36 (1962) &middot; P. Wormald, &#145;Bede, the &#147;Bretwaldas&#148; and the origins of the &#147;gens Anglorum&#148;&#146;, <i>Ideal and reality in Frankish and Anglo-Saxon society</i>, ed. P. Wormald, D. Bullough, and R. Collins (1983), 99&#150;129 &middot; D. P. Kirby, &#145;Northumbria in the time of Wilfrid&#146;, <i>Saint Wilfrid at Hexham</i>, ed. D. P. Kirby (1974), 1&#150;34 &middot; J. M. Wallace-Hadrill, <i>Bede's Ecclesiastical history of the English people</i><i>: a historical commentary</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=OMT')">OMT</a> (1988) &middot; J. M. Wallace-Hadrill, <i>Early Germanic kingship in England and on the continent</i> (1971) &middot; K. Harrison, &#145;The reign of King Ecgfrith of Northumbria&#146;, <em>Yorkshire Archaeological Journal</em>, 43 (1971), 79&#150;84 &middot; S. Wood, &#145;Bede's Northumbrian dates again&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20930&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 98 (1983), 280&#150;96<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">D. J. Craig, &#145;<span class="roman"><span class="headword">Oswiu </span>  (611/12&#150;670)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/20930, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Oswiu (611/12&#150;670): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20930 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

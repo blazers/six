@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17924;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17924-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17924-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17924#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Manderston <span class="st"> [Manderstown]</span>,  William</span>  (<em>c.</em>1485&#150;1552), <span class="occ">philosopher and logician</span>, was born in Haddington, east of Edinburgh, and was educated at the University of Glasgow, where he matriculated in 1503 and graduated BA in 1506. By 1507 he had matriculated at the University of Paris and was attached to the Coll&egrave;ge de Montaigu, where he lived with other Scots including John Mair, George Lokert, and David Cranston. He graduated MA in 1510, and eight years later became a bachelor of medicine.<br>
+<br>Manderston's name first appears in connection with a publication in 1516, when he was one of the two editors of the index of Lokert's edition of the fourteenth-century writings on physics by Jean Buridan, Judaeus Thimon, and Albert of Saxony. In the following years he published three books. The first, in 1517, was <span class="italic">Tripartitum</span>, a three-part work on the principles of logic, dedicated to Andrew Forman, archbishop of St Andrews. This was followed a year later by <span class="italic">Bipartitum</span>, a two-part work on moral philosophy whose first edition likewise was dedicated to Forman. His last book, published in 1522, was on the theologically important topic of future contingent propositions&#151;in particular, propositions about future human acts. Like many medieval theologians Manderston investigated such propositions because he was interested in the question of whether God's certain foreknowledge of our future free acts implied that those acts were bound to be performed and were therefore not, after all, free.<br>
+<br>Manderston rose to become a professor at the Coll&egrave;ge de Ste Barbe in Paris. His servant in the college was George Buchanan, who would in due course be recognized as one of the great Latinists of the age. Buchanan had attended St Andrews University while Mair was working there, and had followed Mair to Paris. During this period Manderston was also the teacher of Patrick Hamilton, who within the decade became the first martyr of the Scottish Reformation.<br>
+<br>In 1525 Manderston was elected rector of the University of Paris. His rectorship was a troubled one, for around the time of the election the anti-Lutheran theologian J&eacute;r&ocirc;me de Hangest accused Manderston of plagiarizing him in the <span class="italic">Tripartitum</span>. Whatever the justice of the claim, and whatever the precise reason for Hangest's animosity towards Manderston, the latter left France and did not return. It has been suggested that Mair's departure from France at about the same time was a by-product of that same accusation. The loss to Paris was a gain for Scotland. Manderston left Paris early in 1528, the year in which his former pupil, Patrick Hamilton, was burned at St Andrews for his Lutheran beliefs. In 1530 Manderston was elected rector of the University of St Andrews. The rectorship was solely an administrative position, but Manderston continued to teach, for in 1536 he is described as lecturer <i>in actu</i>, and it was expected that he would be appointed mediciner (lecturer in medicine) at St Mary's College in the university. Two years later he was granted tax exemption in light of his work for the common good of the university. In 1540 he and Mair jointly founded a bursary in theology at St Salvator's College, and in 1546 he founded a bursary in arts.<br>
+<br>Manderston died in 1552, some time before 16 May in that year, when arrangements were made for services for his soul in the parish church of Cupar in Fife. He had been one of the leading Scottish intellectuals of his age. His work on logic, and perhaps even more his work on moral philosophy, repay close study. In particular Manderston offers many illuminating insights into the nature of human action and into the determinants of moral goodness, and he pays special attention to the question of whether it is possible to perform a morally good act without God's grace. Like his friend and colleague John Mair, Manderston dedicated his life to the maintenance of the old order in the church and in the universities; it was his pupil Patrick Hamilton who represented the new.<br>
+<br>Alexander Broadie </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Broadie, <i>The circle of John Mair</i> (1985) &middot; A. Broadie, &#145;William Manderston and Patrick Hamilton on freewill and grace&#146;, <em>Innes Review</em>, 37 (1986), 25&#150;35 &middot; J. K. Farge, <i>Biographical register of Paris doctors of theology, 1500&#150;1536</i> (1980) &middot; H. Eli&eacute;, &#145;Quelques ma&icirc;tres de l'universit&eacute; de Paris vers l'an 1500&#146;, <em>Archives d'Histoire Doctrinale et Litt&eacute;raire du Moyen &Acirc;ge</em>, 18 (1950&#150;51), 193&#150;243 &middot; J. Durkan, &#145;The school of John Major: bibliography&#146;, <em>Innes Review</em>, 1 (1950), 140&#150;57<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Alexander Broadie, &#145;<span class="roman"><span class="headword">Manderston ,  William</span>  (<em>c.</em>1485&#150;1552)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/17924, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Manderston (<em>c.</em>1485&#150;1552): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17924 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/17924/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

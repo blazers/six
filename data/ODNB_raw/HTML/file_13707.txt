@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13707;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13707-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13707-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13707#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hooper,  Robert</span>  (1773&#150;1835), <span class="occ">physician and medical writer</span>, son of John Hooper of Marylebone, was born in London and educated by Dr William Rutherford of the academy at Uxbridge. After a course of medical study in London Hooper was appointed apothecary to the Marylebone workhouse infirmary, where he made an extensive collection of anatomical preparations. He entered Pembroke College, Oxford, on 24 October 1796, graduated BA in 1803, and MA and MB in 1804. Some difficulty&#151;instigated, it is said, by members of the Royal College of Physicians who would not &#145;tarnish its hallowed walls with the flame of the workhouse laboratory&#146;  (<span class="italic">Lancet</span>, 494)&#151;prevented his proceeding DM at Oxford, but he was created MD of St Andrews University on 16 December 1805, and admitted LRCP in London on 23 December 1805. After settling in Savile Row, he lectured there on the practice of medicine for many years to large classes.<br>
+<br>Hooper built an extensive practice and was a prolific writer, and his books had a large sale. His writings include <span class="italic">Observations on the structure and economy of plants; to which is added the analogy between the animal and vegetable kingdoms</span> (1797), and <span class="italic">A compendious medical dictionary, containing an explanation of the terms in anatomy, physiology, surgery</span> (1798), of which numerous American editions were issued. The edition of 1811 was issued as a new edition of John Quincy's <span class="italic">Lexicon medicum</span>, a work of long-standing repute which had gone through thirteen editions and had been largely copied by Hooper. Subsequent editions bore the title <span class="italic">Lexicon medicum, or, Medical Dictionary</span>, without reference to Quincy. <span class="italic">The anatomist's vade mecum, containing the anatomy, physiology, and morbid appearances of the human body</span> (1798) was published in America in Boston in 1801 and 1803. Other works were <span class="italic">Anatomical plates of the bones and muscles, reduced from Albinus, for the use of students and artists</span> (1802), <span class="italic">The London Dissector</span> (1804), and <span class="italic">The physician's vade mecum, containing the symptoms, causes, prognosis, and treatment of diseases</span> (1809).<br>
+<br>Hooper retired from practice in 1829, having made a fortune, and lived at Stanmore, Middlesex. He died from a disease of the bladder in Bentinck Street, Manchester Square, London, on 6 May 1835. He left a fine collection of paintings, part of the estate bequeathed to his brothers.<br>
+<br>G. T. Bettany<span class="italic">, rev. </span> Michael Bevan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13707&amp;istheme=&amp;target=Munk%2C%20Roll')">Munk, <i>Roll</i></a> &middot; <em>The Lancet</em> (11 July 1835), 493&#150;4 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13707&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13707&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 3 (1835), 667 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13707&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 4 (1835), 670<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> attrib. P. Reinagle, oils, <i>c.</i>1813, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13707&amp;istheme=&amp;target=RCP%20Lond.')">RCP Lond.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> wealthy; owned fine collection of paintings<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. T. Bettany, &#145;<span class="roman"><span class="headword">Hooper,  Robert</span>  (1773&#150;1835)</span>&#146;, rev. Michael Bevan, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/13707, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Hooper (1773&#150;1835): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13707 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 38021;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/38/38021-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/38/38021-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=38021#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Stringer,  Moses</span>  (<em>d.</em> 1714), <span class="occ">chemical physician and master of mines</span>, was one of the eleven children of Richard Stringer of Loughborough, Leicestershire. He practised paramedically before leaving the Newcastle under Lyme area in 1690 and obtaining a medical licence at Chester in July 1691. Stringer was admitted a member of the Society of Mineral and Battery Works in December 1692 and of the Society of Mines Royal in June 1693. After studying chemistry and medicine under Benjamin Woodroffe, principal of Gloucester Hall, Oxford (later refounded as Worcester College), in 1692, he taught chemistry and experimental philosophy there until about 1696, by which time he was working at his refineries in the High Peak, Derbyshire.<br>
+<br>In March 1698 Stringer was settled in the Strand, London, and he published a congratulatory poem to Peter the Great on the tsar's arrival in England, together with accounts from the <span class="italic">Protestant Mercury</span> of his dramatic cure of a person bitten by a viper and his spectacular experiments with metals and minerals for the tsar at the Deptford manor house belonging to John Evelyn. In his 1699 pamphlet, <span class="italic">English and Welsh Mines and Minerals Discovered</span>, &#145;M. S.&#146; advocated to the House of Commons the employment of the poor for profitable mining. The following year he moved to Hugh's Court, Blackfriars, considerably extending the premises with a large laboratory and foundry.<br>
+<br>In 1701 the Admiralty ordered a squadron to the West Indies, commanded by John Benbow, to carry out the first recorded naval therapeutic trials of two chemical medicines invented by Stringer to combat scurvy and fevers. Admiral Sir Cloudesley Shovell may also have used them in the Mediterranean. Three editions of Stringer's tract, <span class="italic">Variety of Surprising Experiments</span> (1703, 1705, and 1707), supplemented by three published open letters to Woodroffe (in 1704 and 1707), evince his skill in devising these and other chemico-mineral medicines along Paracelsian lines.<br>
+<br>
+<span class="roman">State Papers</span> and other sources indicate that Stringer ran a large foundry business, owned ships for exporting and importing metals and ordnance, and planned to set up a company for colonizing West Indian islands. The societies of Mines Royal and of Mineral and Battery Works, incorporated in 1568, had become virtually moribund by 1695. Stringer, whose book <span class="italic">Opera mineralia explicata</span> (&#145;By M. S., M. D.&#146;, 1713) presents a detailed history of the societies, played a decisive part in preserving their records, salvaged by Sir Isaac Newton, and in renewing their rights and charters. They amalgamated under him as mineral master general in 1709&#150;10. He persuaded the bishop of London to be a governor and Newton to become a deputy governor. Sir Christopher Wren helped build a new meeting-room above Stringer's laboratory in Blackfriars. Robert Boyle was one of several distinguished members of the societies.<br>
+<br>Stringer's titles of chemist and physician to King William and chemist, physician, and mineralist to Queen Anne in some of his publications were probably honorary designations. A controversial character, he was incarcerated in the Fleet prison on three occasions. In January 1713 Stringer issued an advertisement to scotch rumours of his death occasioned by the demise of the empiric William Salmon in Blackfriars.<br>
+<br>Stringer was married by 1692. He and his wife, Mary, had at least seven children. He died intestate at Blackfriars in 1714.<br>
+<br>John H. Appleby<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. H. Appleby, &#145;Moses Stringer, <i>fl</i>. 1695&#150;1713: iatrochemist and mineral master general&#146;, <em>Ambix</em>, 34 (1987), 31&#150;45 &middot; L. Loewenson, &#145;People Peter the Great met in England: Moses Stringer, chymist and physician&#146;, <em>Slavonic and East European Review</em>, 37 (1958&#150;9), 459&#150;68 &middot; W. Rees, <i>Industry before the industrial revolution</i>, 2 (1968), 658&#150;65 &middot; Register of the Mineral and Battery Works, 1620&#150;1713, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=38021&amp;istheme=&amp;target=BL')">BL</a>, Loan MS 16/2 &middot; Register of the Mines Royal, 1654&#150;April 1709, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=38021&amp;istheme=&amp;target=BL')">BL</a>, Loan MS 16/3<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John H. Appleby, &#145;<span class="roman"><span class="headword">Stringer,  Moses</span>  (<em>d.</em> 1714)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/38021, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Moses Stringer (<em>d.</em> 1714): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/38021 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

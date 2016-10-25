@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22874;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22874-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22874-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22874#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pulleyne <span class="st"> [Pullain]</span>,  John</span>  (<em>c.</em>1517&#150;1565), <span class="occ">preacher and Church of England clergyman</span>, was reputedly born in Yorkshire. He was educated at Oxford, graduating in 1540 and proceeding MA in 1544, and ordained successively deacon on 20 November 1550 and priest on 29 March 1551 to the title of Christ Church. His evident enthusiasm for protestantism won him patronage at the heart of the Edwardian regime: in 1553 he was appointed rector of St Peter Cornhill, an important posting in an influential London city church. He was also at some point serving as chaplain to the duchess of Suffolk, a stalwart of the protestant inner circle during Edward's reign who would become a beacon of constancy during the Marian reaction.<br>
+<br>After the accession of Mary, Pulleyne remained in England. He was forced to vacate his living at St Peter Cornhill early in 1554 (though formally deprived only in February 1555), but departed only as far as Essex. Here, it was reported to Edmund Bonner, bishop of London, a considerable congregation of protestants had gathered, served by a number of ministers including &#145;Master Pulleyne, otherwise called Smith&#146;  (Byford, 29). It was alleged that Pulleyne and another minister, &#145;William, the Scot&#146; (probably Pulleyne's former curate at St Peter Cornhill), often travelled to the continent to see the duchess of Suffolk. No doubt assisted by such strategic intervals abroad Pulleyne was able to maintain his clandestine ministry for much of Mary's reign, both in Colchester and in London, where he is recorded as conducting Easter communion at his house in Cornhill using the Edwardian prayer book in both 1555 and 1556. But soon the dangers of such high-profile service to the protestant community became too great, and in 1557 Pulleyne was forced to withdraw abroad more permanently; the arrival of a child may also have played a part in this decision. With his wife, Joan (<i>n&eacute;e</i> Wilbore), and their daughter Faith he made for Geneva, where he arrived, via Strasbourg and Basel, in June. He received a warm welcome in Knox's congregation, which elected him in December a deacon of the church&#151;a sure sign of the high respect in which he was held even in this distinguished company. In Geneva Pulleyne became heavily involved in the project to develop an English metrical psalter, and the eleven new psalms added for the second edition of the <span class="italic">Psalms in English</span> (1558) contained two by Pulleyne. He was also reputed to have been a collaborator on the English <span class="roman">Geneva Bible</span>.<br>
+<br>On Mary's death Pulleyne lingered in Geneva long enough to sign the letter of December 1558 urging the exiles to avoid contention over superfluous ornaments. By spring 1559, though, he was back in Colchester: there, with local encouragement, he soon began to preach. His sermons were outspoken and uncompromising, and at a time when unauthorized preaching was still forbidden, and he himself was unbeneficed, they soon attracted official disapproval. In April 1559 Pulleyne was arrested and brought to face the privy council in London. The charge revealed that his sermons had included an inflammatory denunciation of those who compromised with Catholicism under Mary, and had taken a tough Calvinist line on swearing, fornication, and other moral offences. Notwithstanding this unhelpful precipitancy, Pulleyne had friends both locally and at court, and this assured him an important role in the new Elizabethan regime. He was sufficiently well thought of for Cecil to have included him on a list of those marked for high office in July 1559: that this was only weeks after his arrest and appearance before the privy council indicates the radicalism of Cecil's thinking in these months. Equally important, local Colchester opinion was firmly behind him. In August 1559 the electors of Colchester's north ward voted for Pulleyne to be their headsman&#151;an important gesture of support, given that the Yorkshire-born Pulleyne was technically not qualified for the post. These expressions of local opinion may have been decisive in the decision to name Pulleyne as archdeacon of Colchester, rather than the episcopal rank for which he had first been considered. Pulleyne was, in effect, to be the superintendent of a region known for its precocious loyalty to protestantism. This was a decision in which the new bishop of London, Edmund Grindal, seems heartily to have concurred, although the initiative was probably Cecil's: Pulleyne was instituted by royal visitors before Grindal's formal enthronement.<br>
+<br>In Colchester Pulleyne proved an enthusiastic leader of the town's reformation, though apparently somewhat to the detriment of his wider responsibilities in the deanery. In 1561 thirteen of the fifteen livings in the deanery were vacant, a position substantially unaltered two years later. His outspoken sermons continued to inspire and provoke in equal measure. He was not afraid either to address mundane moral issues (one complainant grumbled &#145;he did love to make many sermons of beerpots&#146;) or to publicly shame individual offenders; a meeting in the house of the apothecary Simon Smyth in January 1562 heard their host complain that Pulleyne &#145;made his last sermon &hellip; against him and none other&#146;  (Byford, 41). But Pulleyne was also an innovator. Colchester's livings were poor, and it proved difficult to replenish the ranks of the parochial ministry after the last of the Marian incumbents had resigned in September 1559. To make good this deficiency Pulleyne appointed &#145;readers&#146; from among the ranks of the protestant godly. From this beginning he harassed the mainly conservative town aldermen into voting funds for the maintenance of the preaching ministry. A further reflection of his experiences in Geneva was the institution of twenty-five overseers of church attendance, charged with keeping the streets free of unlawful work or play on the Sabbath. Pulleyne died in 1565, some time before 16 July, and was survived by his wife, Joan. In addition to his archdeaconry he was also a prebendary of Wenlocksbarn in St Paul's (12 September 1561) and rector of Copford, Essex (8 March 1560), a valuable crown living to which he had been advanced on the recommendation of Grindal. His wife was granted letters of administration in the archdeaconry on 16 May 1566; these she renounced, so on 6 February 1568 letters were regranted to her brother Nicolas Wilbore (a prominent Colchester citizen) during the minority of her children.<br>
+<br>Andrew Pettegree </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Byford, &#145;The birth of a protestant town: the process of reformation in Tudor Colchester, 1530&#150;1580&#146;, <i>The Reformation in English towns</i>, ed. P. Collinson and J. Craig (1998), 23&#150;47 &middot; P. Collinson, <i>Archbishop Grindal, 1519&#150;1583</i><i>: the struggle for a reformed church</i> (1979) &middot; B. Usher, <i>William Cecil and episcopacy</i> [forthcoming] &middot; R. A. Leaver, <i>Goostley psalmes and spirituall songes</i> (1991) &middot; C. H. Garrett, <i>The Marian exiles</i><i>: a study in the origins of Elizabethan puritanism</i> (1938) &middot; J. W. Martin, <i>Religious radicals in Tudor England</i> (1989), 135&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22874&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 4.466 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22874&amp;istheme=&amp;target=Fasti%20Angl.%2C%201541%3F1857')"><i>Fasti Angl., 1541&#150;1857</i></a> [St Paul's, London]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Andrew Pettegree, &#145;<span class="roman"><span class="headword">Pulleyne ,  John</span>  (<em>c.</em>1517&#150;1565)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22874, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Pulleyne (<em>c.</em>1517&#150;1565): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22874 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

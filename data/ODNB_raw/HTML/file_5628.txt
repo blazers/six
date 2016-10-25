@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5628;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5628-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5628-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5628#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Clerke,  Gilbert</span>  (<em>bap. </em>1626, <em>d.</em> <em>c.</em>1697), <span class="occ">mathematician and theologian</span>, was born at Uppingham, Rutland, and baptized there on 19 March 1626. He was a son of John Clerke, headmaster of Uppingham School. He was educated at Geddington, Northamptonshire, and from 1637 at Oundle School. In 1641 he entered Sidney Sussex College, Cambridge; he graduated BA in 1644&#150;5 and took his MA in 1648, when he was elected to a fellowship. He was the first fellow of Sidney to be nominated as proctor, serving in 1652&#150;3. He took Presbyterian orders in 1651, but in 1655 resigned his fellowship and left Cambridge because of religious scruples. He later claimed to have been one of those who introduced the teaching of mathematics and of the new philosophy at Cambridge.<br>
+<br>Clerke's earliest published writings, <span class="italic">De plenitudine mundi</span> (1660) and <span class="italic">Tractatus de restitutione corporum</span> (1662), reveal that he was a convert to Descartes's philosophy. They defend the Cartesian theory of matter, concentrating on Descartes's denial that a vacuum might exist in nature. Clerke criticized the alternative theories of Bacon, Ward, and especially Hobbes, whose linguistic critique of Descartes and denial of the reality of the spring of air he derided. Although he was familiar with Torricelli's findings and with Boyle's air-pump experiments (which indicated the existence of a vacuum), he believed that these exemplified the action of a subtle ether that could penetrate glass and that filled all space. In the <span class="italic">Tractatus</span> he was nevertheless also critical of Boyle's Jesuit opponent Francis Line (Linus).<br>
+<br>
+<span class="italic">Tractatus de restitutione corporum</span> was dedicated to Sir Justinian Isham, second baronet, a pupil of Clerke's father who became his patron during the 1660s. After leaving Cambridge, Clerke moved eventually to a moated house, Bleakhall, outside Loddington, Northamptonshire, which he filled with elegant objects, and where he established a small pipe works. This was a short distance from the Isham estate at Lamport, where Clerke was a frequent visitor, acting as mathematical tutor to the Isham children. Between 1677 and 1683 he lived chiefly at Lamport, managing the estate for his former pupils Sir Thomas Isham, third baronet, and Sir Justinian Isham, fourth baronet, during their long absences abroad and in London. He was an efficient steward, who warned of the dangers posed by youthful profligacy. With the Ishams, Clerke pored over accounts of reflecting telescopes in the Royal Society's <span class="italic">Philosophical Transactions</span> and experimented with one of Morland's speaking trumpets. At Lamport he observed the comet of 1681, and made precise calculations of latitude that were later used by Morton to establish the boundaries of Northamptonshire. In 1682 he published <span class="italic">Oughtredus explicatus</span>, an edition of Oughtred's <span class="italic">Clavis</span>, dedicated to Sir Justinian Isham, fourth baronet. This edition, which was criticized by John Collins, represented the culmination of work begun by Clerke in the early 1660s. He advised local gentlemen on the manufacture and setting up of dials, the subject of his <span class="italic">Astronomica specimina</span> (1682) and <span class="italic">The Spot-Dial</span> (1687).<br>
+<br>Clerke shared the Ishams' interest in cases of witchcraft and spirit possession. His account of a haunted house near Daventry in 1658 was later included by Glanvill and More in <span class="italic">Saducismus triumphatus</span> (1681); subsequently he investigated disturbances at Brixworth and Bowden. He remained sceptical about the true causes of such phenomena, and was critical of the treatment of the children who were said to have been bewitched at Bowden in February 1673. In 1681 he corresponded with Richard Baxter on subjects raised by Baxter's disputes with Stillingfleet, expressing his sympathy for the writings of Socinus and discussing the nature of the Trinity, the atonement, and original sin. He stressed his independence in religion, writing that he could neither subscribe to the <span class="roman">Thirty-Nine Articles</span> nor to Socinus's opinions concerning the Trinity. These matters were taken up in the anonymous <span class="italic">Tractatus tres</span> (1695), to which Clerke contributed the first two treatises. He was concerned to demonstrate the pre-eminence of God the Father, arguing that the interpretation of the Trinity found in the Nicene creed was a result of the corruption of Christianity by Platonism. He suggested elsewhere that this corruption had been predicted in the books of <span class="roman">Daniel</span> and <span class="roman">Revelation</span>.<br>
+<br>Clerke was not an original theologian but relied heavily on the writings of Sandius and Zwicker. The theologian George Bull argued that he had misrepresented Clement of Alexandria. At his brother's invitation, Clerke moved from Lamport to Stamford Baron, Northamptonshire, about 1683. There he continued to teach and practise mathematics, one of his pupils being the young William Whiston. Clerke was among the first readers of Newton's <span class="italic">Principia</span>, and wrote to its author in 1687 to criticize the book's obscure terminology. From his brother he inherited an estate at Luffenham, Rutland, worth &pound;40 a year. He is thought to have died about 1697.<br>
+<br>Scott Mandelbrote </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The diary of Thomas Isham of Lamport (1658&#150;81)</i>, ed. G. Isham, trans. N. Marlow (1971) &middot; DWL, R. Baxter MSS &middot; J. Glanvill, <i>Saducismus triumphatus, or, Full and plain evidence concerning witches and apparitions</i>, trans. A. Horneck, pt 2 (1681), 263&#150;8 &middot; <i>The correspondence of Isaac Newton</i>, ed. H. W. Turnbull and others, 2 (1960), 485&#150;500 &middot; R. Nelson, <i>The life of Dr George Bull</i> (1713), 497&#150;510 &middot; G. Bull, <i>Some important points of primitive Christianity</i>, ed. R. Nelson, 3 vols. (1713), 3.915&#150;1064 &middot; J. Morton, <i>The natural history of Northamptonshire</i> (1712), 2 &middot; W. Whiston, <i>Memoirs of the life and writings of Mr William Whiston</i><i>: containing memoirs of several of his friends also</i> (1749) &middot; J. Bridges, &#145;Collections on Northamptonshire&#146;, Bodl. Oxf., MS Top. Northants. f. 1, 65 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5628&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; G. M. Edwards, <i>Sidney Sussex College</i> (1899), 136 &middot; S. P. Rigaud and S. J. Rigaud, eds., <i>Correspondence of scientific men of the seventeenth century</i>, 1 (1841), 470&#150;74 &middot; parish register, Uppingham, 19 March 1626, Leics. RO [baptism] &middot; <i>The grounds and occasions of the controversy concerning the unity of God</i> (1698), 17<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5628&amp;istheme=&amp;target=DWL')">DWL</a>, Baxter MSS
+   &middot;
+ Massachusetts Institute of Technology, Cambridge, Burndy Library, Newton MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5628&amp;istheme=&amp;target=Northants.%20RO')">Northants. RO</a>, Isham MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> over &pound;40 p.a.; also estate at Luffenham, Rutland: Nelson, <i>Life of Dr. George Bull</i>, 510<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Scott Mandelbrote, &#145;<span class="roman"><span class="headword">Clerke,  Gilbert</span>  (<em>bap. </em>1626, <em>d.</em> <em>c.</em>1697)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/5628, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Gilbert Clerke (<em>bap. </em>1626, <em>d.</em> <em>c.</em>1697): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5628 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32319;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32319-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32319-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32319#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Case,  Thomas</span>  (1844&#150;1925), <span class="occ">philosopher and college head</span>, was born in Liverpool on 14 July 1844, the second son of Robert Case, a stockbroker there and later in London, and his wife, Esther, daughter of Alexander MacMillan. From Rugby School, where he earned a reputation for his intellectual, cricketing, and footballing skills, he entered in 1863 Balliol College, Oxford, where he obtained first classes in classical moderations (1865) and <i>literae humaniores</i> (1867). He was elected in 1869 fellow of Brasenose College. Pressed by his father, he joined the stock exchange for a year, but, claiming that Aristotle had spoiled his nerve for money-making, he returned to Oxford in 1870. In that year he married Elizabeth Donn Bennett (<i>b</i>. 1848), daughter of the composer <script>writeSeealsoLink('../view/article/2131/', "Sir William Sterndale Bennett")</script>; they had two sons and one daughter.<br>
+<br>Invited by Jowett, who had just been elected master, Case joined the staff of Balliol College and lectured on Aristotle's <span class="italic">Ethics</span>, ancient history, and logic. Later he became lecturer at Corpus Christi College and in 1876, although Jowett wished to retain him, was persuaded to become a tutor of that college, adding Plato, English moral philosophy, Bacon, and Mill to his repertory. From 1883 to 1889 he also taught at Christ Church. In 1889, on the death of Henry William Chandler, Case was elected Waynflete professor of moral and metaphysical philosophy and fellow of Magdalen College. In 1904 he succeeded Thomas Fowler as president of Corpus Christi College; he held the two posts until 1910, when he resigned the professorship. He was elected an honorary fellow of Magdalen in 1914. In 1924, resigning the presidency, he retired to Falmouth.<br>
+<br>Case was a realist philosopher at a time when the idealist school dominated British thought. As an undergraduate at Balliol College, surrounded by idealist influences, Case was initially drawn to idealism. The prominent idealist T. H. Green was a tutor at Balliol; the college also attracted students who were especially interested in speculative philosophy. But he began to move away from idealism; Aristotle, Bacon, and Newton engaged his attention much more than Plato, Kant, or Hegel. He decided to take up a position at Corpus Christi College primarily because he wished to develop an independent philosophy and he felt that the Balliol milieu was not conducive to this ambition. By 1877, when he published <span class="italic">Realism in Morals</span>, Case had parted company with the idealists, maintaining that they failed to understand the dualism of human nature and underestimated the power of physiological instincts to shape mind and spirit. Describing the position developed in this essay as &#145;realism without materialism&#146;, Case defined realism as &#145;the theory that things really exist whether we know them or not&#146;  (<span class="italic">Realism in Morals</span>, 1877, 5). He sought to disentangle realism from materialism by arguing that realism was consistent with Christian theology. In this he was much influenced by Aristotelian natural theology. The moral act was not produced solely by strong desires or instincts, Case stated, but also by a consideration of what is good; human will, therefore, moderated human desires. Although this seems similar to a utilitarian explanation of moral conduct, Case rejected utilitarianism and instead believed that Christianity and its creed of duty were the most binding moral force in society.<br>
+<br>This position was developed much more fully in <span class="italic">Physical Realism</span>, published in 1888. In this book Case explored the implications of recent physiological research for theories of knowledge and moral philosophy. He argued here that metaphysics ought to begin with the objects of scientific knowledge; the sense data provided by science enabled the philosopher to infer the nature of an insensible and imperceptible world. He was very much opposed to what he called the &#145;Kantian fashion&#146; of doubting the possibility of a complete knowledge of things: &#145;But truth is not in this parlous condition; it only requires us to compare our judgements with things known&#151;a condition practical enough&#146;  (&#145;Scientific method as mental operation&#146;, <span class="italic">Lectures on the Method of Science</span>, ed. T. B. Strong, 1906, 24).<br>
+<br>Case intended to write a second volume of <span class="italic">Physical Realism</span> which would have applied physics and physiology to knowledge of time and space, motion, and causation, but this project was never realized. He wrote articles on &#145;Metaphysics&#146;, &#145;Aristotle&#146;, and &#145;Logic&#146; for the eleventh edition of the <span class="italic">Encyclopaedia Britannica</span>, but most of his energies were expended on the duties of teaching, college and university administration, and on his many and varied interests.<br>
+<br>A &#145;laughing philosopher&#146; of genial and at times even rollicking temper, who understood young men, and was keen for their advancement, Case was an excellent tutor. He taught H. H. Asquith, Charles Gore, Alfred Milner, L. T. Hobhouse, and J. Cook Wilson, later Wykeham professor of logic. Students recalled in particular his lectures on Aristotle and Bacon. He was an authoritarian and forceful president, prompting college tutors to unite against what they regarded as an invasion of their own affairs.<br>
+<br>&#145;I am not a tory, I am what I always was, a Palmerstonian liberal&#146;, Case said in his seventieth year. As such he opposed alike Liberal changes and tory concessions in church, state, and university. Believing in &#145;never doing anything by law if it could be done by voluntary means&#146;, he opposed such forms of state &#145;interference&#146; as state funding for the university and industrial legislation  (Case, 1927, 24). He was also opposed to trade unionism. His notable letters to <span class="italic">The Times</span> punctuated his campaigns, especially those against the admission of women to Oxford and against the abolition of compulsory Greek. Both were &#145;thirty years wars&#146;, finally determined against him in 1920. His supporters, in 1911, after a signal success in the Greek question, presented him with two silver-gilt Homeric cups. Of the proposal to admit women to certain examinations for the bachelor's degree, Case wrote in 1884:<blockquote>Finding that women cannot come up to the standard of men, the University will gradually have to reduce the standard of men to that which can be attained by women &hellip; Still more disastrous will be the effect on the life of Oxford, which is not only a place of learning, but a school of manliness. (Case, <span class="italic">Letters</span>, 33)</blockquote>Young men would learn to like what young women like, &#145;light literature and the art of conversation at tea-parties&#146;  (ibid., 34). He was also distressed by plans in 1890 to admit women to examinations for the degree of bachelor of medicine, on the grounds that if women were to investigate &#145;those delicate matters which are of the very essence of medicine&#146; in the company of young men, the moral well-being of the university would be compromised  (Case, &#145;Objections&#146;, 5). Case's last letters to <span class="italic">The Times</span> (1919&#150;22) criticized Einstein's theory of relativity.<br>
+<br>Case's skill in architecture was shown in the restoration of the hall roof at Magdalen, where he materially assisted G. F. Bodley, in that of the spire and pinnacles of St Mary's, where he strove to control Thomas Graham Jackson, and in the new lodgings at Corpus Christi. A good pianist, his knowledge and taste in music were full and keen down to about the period of Mendelssohn. He loved the old English anthems and glees, and himself published two volumes of songs. His acquaintance with Shakespeare was exhaustive, and he was an ardent admirer of Nelson and a collector of Nelsoniana. He was a distinguished cricketer and played in the Oxford eleven from 1864 to 1867 as well as excelling in other games.<br>
+<br>Beside playing, and writing on, cricket, Case persuaded the university, in the teeth of opposition, to admit that and other games into the university park, and was a most popular and efficient treasurer of the university cricket club.<br>
+<br>As well as being a benefactor himself&#151;he restored the east window of the hall at Magdalen and rebuilt the lodgings at Corpus&#151;Case showed an astonishing power of attracting to his college large gifts from others. While some believed that Case's opposition to idealism was vindicated by the new realists of the early twentieth century, the realism that Case expounded, which looked back to the natural philosophy of the eighteenth century and was characterized by a rapidly outdated understanding of the connection between physiology and the mind, failed to engage the attention of contemporary realists  (<span class="italic">The Times</span>, 2 Nov 1925).<br>
+<br>Case died of heart failure at his home, Tredourva, Falmouth, on 31 October 1925, at the age of eighty-one. His funeral was held at Corpus Christi, the college to which he had been so closely affiliated for almost fifty years, and he was buried on 4 November in Wolvercote cemetery, near Oxford.<br>
+<br>S. M. den Otter </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32319&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; T. Case, <i>Letters to The Times, 1884&#150;1922</i>, ed. R. B. Mowat (privately printed, Oxford, 1927) &middot; <em>The Times</em> (2 Nov 1925) &middot; <em>The Times</em> (5 Nov 1925) &middot; T. Case, &#145;Objections to the proposed statute for admitting women to examinations for the degree of bachelor of medicine&#146;, 1890, Bodl. Oxf., GA Oxon. 8<sup>o</sup>455 (6) &middot; T. Case, &#145;To the electors of the Waynflete professorship of moral and metaphysical philosophy: an application&#146;, 1898, Bodl. Oxf., GA Oxon 4<sup>o</sup>430 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32319&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%208%3A%2020th%20cent.')"><i>Hist. U. Oxf.</i> 8: <i>20th cent.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32319&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1925)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32319&amp;istheme=&amp;target=Magd.%20Oxf.')">Magd. Oxf.</a>, letters and sketches<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> E. Walker, photograph, 1910, repro. in Mowat, ed., <i>Letters to The Times</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;45,235 16<i>s</i>. 2<i>d</i>.: probate, 2 Dec 1925, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">S. M. den Otter, &#145;<span class="roman"><span class="headword">Case,  Thomas</span>  (1844&#150;1925)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/32319, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Case (1844&#150;1925): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32319 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

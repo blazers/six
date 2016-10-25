@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37178;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37178-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37178-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37178#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bennet,  Abraham</span>  (<em>bap. </em>1749, <em>d.</em> 1799), <span class="occ">Church of England clergyman and natural philosopher</span>, was baptized in Taxal, Cheshire, on 20 December 1749, the son of Abraham Bennet, schoolmaster, of Whaley Lane, Cheshire, and his wife, Ann Fallowes of Cheadle. He appears to have been the eldest child, with at least one brother, William. On 5 April 1774 he married Jane Fallowes (presumably related to his mother's family); they had two sons and six daughters. In September 1775 he was ordained in London and appointed to Derbyshire curacies, first at Tideswell, and the next year at Wirksworth at a doubled annual stipend of &pound;60, where he remained for the rest of his life; Bennet also taught at Wirksworth grammar school. He became domestic chaplain to the duke of Devonshire at nearby Chatsworth, and perpetual curate at Woburn and librarian there to the duke of Bedford. For the last three years of his life he also held the living of Fenny Bentley in Derbyshire.<br>
+<br>Bennet maintained links with local natural philosophers, including Josiah Wedgwood at Etruria, Joseph Priestley at Birmingham, and Erasmus Darwin at Derby, who encouraged him to begin a weather diary to record atmospheric electricity, a principal interest of Darwin and other electrical experimenters such as Priestley and Benjamin Franklin. In September 1786 Bennet sent Priestley an account of an electrometer (soon published in the <span class="italic">Philosophical Transactions of the Royal Society</span>) that could detect such electricity using the repulsion of thin gold leaves in an earthed glass bottle, 5 inches high, with a flat brass cap. Atmospheric electricity could be gathered by putting a candle on the cap or connecting it to a kite during lightning storms. This robust device, used in Birmingham, Etruria, and London, proved popular. In December 1786 Bennet described using the electrometer with marble and metal plates to condense electricity in the manner set out in 1782 by Alessandro Volta. Such an instrument had been outlined by Darwin in 1778 before it received a fuller treatment in Volta's paper.<br>
+<br>In May 1787 Bennet published extracts from his electro-meteorological diary in the <span class="italic">Transactions</span>, along with a detailed account of his new device to make weak atmospheric electricity detectable by repeated doubling using brass plates as condensers. He gathered atmospheric electricity from a candle flame (or, if it was raining, from an umbrella handle) onto a Leyden jar, then brought the jar indoors to charge the electrometer cap. After earthing a varnished brass plate on the cap, Bennet would lift it off the electrometer with an insulating mahogany handle, making the leaves in the electrometer separate. Then he would bring the plate into contact with another varnished plate, earth the latter, and separate them, giving a charge to the second plate of the same sign and size as that initially given to the top of the electrometer. Touching this plate to the electrometer cap while the first plate also sat on it and was grounded doubled the initial charge on the cap. The agile Bennet could double the charge twenty times in about forty seconds. Darwin lauded Bennet's process to Franklin in May 1787, and in 1788 the natural philosopher William Nicholson of London mechanized the process, using a winch to turn a metal disc round a central metal ball. Bennet claimed he had been on the point of mechanizing his own apparatus when Nicholson announced his scheme to the Royal Society.<br>
+<br>In 1789 Bennet was elected a fellow of the society. With support from Darwin, Wedgwood, and Priestley, he published at Derby new accounts of what became known as Bennet's electrometer and doubler in <span class="italic">New Experiments on Electricity</span> (1789). He endorsed the French theory that atmospheric electricity stemmed from the evaporation of water through solar heat. Following trials in the 1770s by the natural philosopher Georg Lichtenberg of G&ouml;ttingen, Bennet worked on &#145;adhesive electricity&#146;, making dust figures on the surface of an electrified resin cake. The expert potter Wedgwood helped Bennet to fix these figures by covering the cake with powdered enamel, then baking it, thus potentially allowing the effects of atmospheric electricity on such figures to be recorded. In autumn 1789 Bennet worked with Darwin to test whether iron filings became more magnetic when mixed with dilute sulphuric acid, and whether inflammable air were magnetic. In both cases Bennet decided in the negative. For these experiments he suspended a magnetic needle within a glass jar from a spider's thread, a sensitive device that could also be used to detect wind currents. He published his results in the <span class="italic">Transactions</span> in early 1792. In November 1795 Bennet sent an account of an earthquake to the Royal Society, and suggested an electrical cause of such phenomena. In December 1795 he signed a Derby petition against Jacobinism and in support of the war with France. He died in Wirksworth after a severe illness, and was buried on 9 May 1799.<br>
+<br>Simon Schaffer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Bennet, <i>New experiments on electricity</i> (1789) &middot; A. Bennet, &#145;Description of a new electrometer&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37178&amp;istheme=&amp;target=PTRS')"><i>PTRS</i></a>, 77 (1787), 26&#150;34 &middot; A. Bennet, &#145;An account of a doubler of electricity&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37178&amp;istheme=&amp;target=PTRS')"><i>PTRS</i></a>, 77 (1787), 288&#150;96 &middot; <i>The letters of Erasmus Darwin</i>, ed. D. King-Hele (1981) &middot; J. L. Heilbron, <i>Electricity in the 17th and 18th centuries</i><i>: a study of early modern physics</i> (1979) &middot; A. Bennet, &#145;A new suspension of the magnetic needle&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37178&amp;istheme=&amp;target=PTRS')"><i>PTRS</i></a>, 82 (1792), 81&#150;98 &middot; <em>Derby Mercury</em> (23 May 1799) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37178&amp;istheme=&amp;target=IGI')"><i>IGI</i></a> &middot; P. Elliott, &#145;Abraham Bennet&#146;, <em>Notes and Records of the Royal Society</em>, 53 (1999), 59&#150;78<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Derby Local Studies Library<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> oils, St Mary's Church, Wirksworth, Derbyshire<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Simon Schaffer, &#145;<span class="roman"><span class="headword">Bennet,  Abraham</span>  (<em>bap. </em>1749, <em>d.</em> 1799)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/37178, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Abraham Bennet (<em>bap. </em>1749, <em>d.</em> 1799): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37178 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

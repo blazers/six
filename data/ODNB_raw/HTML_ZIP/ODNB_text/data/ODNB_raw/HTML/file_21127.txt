@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21127;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21127-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21127-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21127#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pagula <span class="st"> [Paull]</span>,  William</span>  (<em>d.</em> 1332?), <span class="occ">canon lawyer and theologian</span>, probably came from Paull, near Hull, Yorkshire. Granted letters dimissory by Archbishop Greenfield of York on 24 November 1313, he was instituted as perpetual vicar of the church of Winkfield, near Windsor Forest, Berkshire, just inside the boundary of Salisbury diocese, on 5 March 1314, during the episcopate of Simon Ghent (<i>d</i>. 1315). He was ordained into the priesthood by Archbishop Walter Reynolds (<i>d</i>. 1327) in Canterbury Cathedral on 1 June 1314.<br>
+<br>Pagula seems to have been intermittently in residence at Winkfield during the early years of his vicariate. Perhaps already a master in 1314, he received a doctorate in canon law at Oxford, possibly as late as 1323 but probably by 1319&#150;20. Thereafter Pagula devoted himself primarily to his parish. The subject matter of his chief writings, as well as specific references within them, indicate considerable familiarity with the conditions of rural parishioners and clergy, especially in the Windsor Forest region.<br>
+<br>Pagula was licensed as penitentiary for Reading deanery on 8 March 1322, an appointment possibly later extended to the whole of Berkshire. But although he was made a canon of St Paul's, London, about 1323, there is no evidence that he sought or was granted further ecclesiastical preferment. He was still vicar of Winkfield in 1326, but seems to have been succeeded in that post by Master John Lavyngham in November 1332. Since records make no mention of Pagula after the latter date, he probably died in the summer or autumn of 1332.<br>
+<br>Pagula's literary productions encompassed a broad range of topics. His <span class="italic">Oculus sacerdotis</span>, a manual of pastoral theology, deals comprehensively with the matters that ought to fall within the &#145;view&#146; of the parochial clergy. The <span class="italic">Oculus sacerdotis</span> represents an elaboration of the programme of pastoral instruction imposed by the Council of Lambeth in 1281 for the Canterbury province. The work is composed of three parts: the <span class="italic">Pars oculi</span>, dealing with confessional practice; the <span class="italic">Dextra pars oculi</span>, concerned with the teaching of morals; and the <span class="italic">Sinistra pars oculi</span>, which addresses matters of dogma. The <span class="italic">Dextra pars</span> and <span class="italic">Sinistra pars</span> have been dated on internal and external evidence to 1320&#150;23, while the <span class="italic">Pars oculi</span> was written after 1326 but probably before 1328.<br>
+<br>The readership and influence of the <span class="italic">Oculus sacerdotis</span> were extensive. Fifty manuscripts of it survive, and it is often mentioned in church registers and in the wills of priests. Later in the fourteenth century an abbreviated version was produced under the title <span class="italic">Pupilla oculi</span> by John Burgh (<i>fl</i>. 1370&#150;1386), chancellor of Cambridge University, and in that form it was printed at least three times between 1510 and 1518.<br>
+<br>In addition to the <span class="italic">Oculus sacerdotis</span> Pagula compiled a substantial tract on the responsibilities and station of the clergy entitled the <span class="italic">Summa summarum</span>, which was also probably completed between 1320 and 1323. Comprising five books and about 350,000 words, the <span class="italic">Summa summarum</span>, cast in question and answer form, was designed to enumerate the duties pertaining to each office in the ecclesiastical hierarchy, ranging from the parochial clergy to the upper echelons. The <span class="italic">Summa summarum</span> enjoyed a wide readership, attested by the eleven manuscripts presently known.<br>
+<br>Even more ambitious than the <span class="italic">Summa summarum</span>, however, was Pagula's <span class="italic">Summa praelatorum</span>, a treatise approaching 700,000 words written as a definitive source book for parish priests. The <span class="italic">Summa praelatorum</span> contains, among other features, a large collection of church statutes relevant to parish affairs, and an extensive set of sermon themes for every Sunday, feast day, and special occasion within the liturgical year. Dated to 1320&#150;23, the <span class="italic">Summa praelatorum</span> clearly did not enjoy the popularity of Pagula's other theological writings, as only a single (and incomplete) manuscript has been identified.<br>
+<br>Pagula later formed excerpts from the <span class="italic">Summa praelatorum</span> into the much briefer <span class="italic">Speculum religiosorum</span>, a handbook that concentrates on the rudiments of canon law necessary for pastoral care. Although the <span class="italic">Speculum religiosorum</span> incorporates some new material, it demonstrates no awareness of important developments in ecclesiastical legislation from the mid-1320s. Thus, it was most likely compiled soon after the <span class="italic">Summa praelatorum</span> and the <span class="italic">Dextra pars oculi</span>, to which it also refers, and certainly before 1325&#150;6. The <span class="italic">Speculum religiosorum</span> is known to exist in ten manuscripts, suggesting a broader audience than was achieved by the <span class="italic">Summa praelatorum</span>.<br>
+<br>Near the end of his career at Winkfield (and possibly of his life) Pagula turned his pen to political affairs. He has been conclusively identified as the author of two recensions of a <i>speculum regis</i> treatise, addressed to Edward III, which defends the right of the king's subjects, especially the peasantry, to refuse royal prises and purveyance. The first version, sometimes known as the <span class="italic">Epistola ad regem Edwardi III</span>, has been dated on internal evidence to 1331, while the second was evidently completed the following year. Both tracts warn Edward III that his soul is endangered by permitting the theft of his subjects' goods, and foretell the loss of his kingdom if he does not reform his administration. Pagula advises the king to curtail his expenditures, pay his debts, and care for the churches and poor of the realm.<br>
+<br>The origins of Pagula's complaints against Edward are obscure. He claims to have witnessed personally the exploitative practices of royal officials in the Windsor Forest area, and to be among those who fear the coming of Edward's entourage. But purveyance records do not indicate any exactions in the region during or immediately before 1331&#150;2. Moreover, the language and grievances of the <span class="italic">Speculum regis</span> closely resemble a document dating to 1316 which is quoted in the <span class="italic">Vita Edwardi secundi</span>. It is possible that Pagula adapted and revised an earlier work (either by himself or another) directed against Edward II, in order to express renewed dissatisfaction about royal conduct.<br>
+<br>Cary J. Nederman </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>L. E. Boyle, &#145;A study of the works attributed to William of Pagula&#146;, DPhil diss., U. Oxf., 1956 &middot; L. E. Boyle, &#145;The <i>Oculus sacerdotis</i> and some other works of William of Pagula&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21127&amp;istheme=&amp;target=TRHS')"><i>TRHS</i></a>, 5th ser., 5 (1955), 81&#150;110 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21127&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21127&amp;istheme=&amp;target=Tanner%2C%20Bibl.%20Brit.-Hib.')">Tanner, <i>Bibl. Brit.-Hib.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21127&amp;istheme=&amp;target=Bale%2C%20Index')">Bale, <i>Index</i></a> &middot; L. E. Boyle, &#145;William of Pagula and the <i>Speculum regis Edwardi III</i>&#146;, <em>Mediaeval Studies</em>, 32 (1970), 329&#150;36 &middot; L. E. Boyle, &#145;The <i>Summa summarum</i> and some other English works of canon law&#146;, <i>Second International Congress of Medieval Canon Law</i> [Boston 1963], ed. S. Kuttner and J. J. Ryan (1965), 415&#150;56 &middot; C. J. Nederman and C. J. Neville, &#145;The origins of the <i>Speculum regis Edwardi III</i> of William of Pagula&#146;, <em>Studi Medievali</em>, 3rd ser., 38 (1997), 317&#150;29<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Cary J. Nederman, &#145;<span class="roman"><span class="headword">Pagula ,  William</span>  (<em>d.</em> 1332?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/21127, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Pagula (<em>d.</em> 1332?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21127 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

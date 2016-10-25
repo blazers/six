@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 53609;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/53/53609-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/53/53609-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=53609#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Gilbert,  Joseph</span>  (1732?&#150;1820/21), <span class="occ">seaman and hydrographer</span>, was baptized on 1 June 1732 in Kirton in Holland, near Boston, Lincolnshire, the eighth and youngest child of John Gilbert (<i>bap</i>. 1697, <i>d</i>. 1782), farmer, and his wife, Elizabeth (<i>bap</i>. 1695, <i>d</i>. 1759), daughter of Thomas and Elizabeth Armstrong of Bicker. Nothing is known of Gilbert's early life, except that soon after he was born his father moved from Kirton to Freiston, about 6 miles to the north-east. On 16 November 1758 at Freiston he married Frances Plant (<i>d</i>. 1784).<br>
+<br>It is not known at what age Gilbert went to sea, but from 1764 to 1769 he was master of HMS <i>Guernsey</i> (32 guns), one of the ships engaged under Hugh Palliser in the hydrographical survey of the coasts of Newfoundland and Labrador which consolidated the reputation of James Cook and which for over a century served as a model of hydrographical accuracy under the most adverse conditions. Gilbert River and Gilbert Lake in Labrador (lat. 52&deg;41'N, long. 56&deg;10'W) still bear witness to Gilbert's part in this great work; some of his charts, together with those of Cook, Michael Lane, and others, were engraved and published by Thomas Jefferys, later reappearing in <span class="italic">The North American Pilot</span> (1775).<br>
+<br>Gilbert subsequently became master of HMS <i>Pearl</i> (32 guns), in which he surveyed Plymouth Sound in 1769  (BL, Maps M.T.11.h.1(8)), and of HMS <i>Asia</i> (64 guns), until at the unusually advanced age of forty he was selected by Cook to serve as master of the <i>Resolution</i> on his second great Pacific voyage (1772&#150;5). Cook thought highly of Gilbert both as a seaman and as a surveyor and draughtsman, paying tribute particularly to his judgement (&#145;whose judgement and assiduity in this [surveying] as well as every other branch of his profession is exceeded by none&#146;; letter to Philip Stephens, secretary to the Admiralty, 22 March 1775; TNA: PRO, ADM 1/1610) and named after him Gilbert Isle (lat. 55&deg;20'S, long. 71&deg;15'W), a small island off Tierra del Fuego, &#145;the most desolate coast I ever saw&#146;  (<span class="italic">Journals</span>, 2.589&#150;90), although a compliment was presumably intended. During the voyage, Gilbert produced not only a terse log  (TNA: PRO, ADM 55/107), but many finely executed charts, as well as a number of charming watercolour drawings and perspective views. Perhaps the most vivid is on the largest scale, a chart of the Pacific and Southern oceans showing the track of the <i>Resolution</i>  (NMM, G201, 3/4 (HO A859)), but Gilbert's charts of Table Bay and Dusky Sound  (TNA: PRO, ADM 55/107) are better evidence of his skill as a hydrographer.<br>
+<br>On his return to England, Gilbert was rewarded with the gift of Cook's watch and, on the recommendation of Palliser, with the position of master attendant at Sheerness Dockyard, whence he soon moved, briefly to Woolwich, and then to the more prestigious equivalent position at Portsmouth, where he served from 1776 to 1791. This was a period of great change and modernization in the dockyards and Gilbert earned praise from the controller of the navy, Sir Henry Martin, for his &#145;diligence and activity&#146;  (NMM, Portsmouth Dockyard records F/18, 1783). His last post, a promotion, was as master attendant at Deptford from 1791 until 1803. He then retired, with his unmarried daughter Frances (<i>b</i>. 1764), to Fareham, Hampshire. Surviving letters of this period show him as a touchingly humble man in affectionate awe of his learned nephew, the Congregational minister Revd Joseph Gilbert.<br>
+<br>Joseph and Frances Gilbert had at least four children, all born in Freiston. Two further children, Matthew and Barzena, born to Frances in 1774 and 1775 while her husband was in the south seas were illegitimate. Gilbert's eldest child, George (1759&#150;1786), sailed with Cook on his third voyage and produced a journal (now in BL, Add. MS 38530) which supplements that of Cook himself; having served as a lieutenant in the West Indies, he died of smallpox on the threshold of a promising naval career. Joseph Gilbert's second son, Richard (1767&#150;1845), also entered the navy, apparently retiring as a post captain; Richard Gilbert's daughter Emma married the writer John Doran. Joseph Gilbert died, a man of modest affluence, probably at Fareham, aged eighty-eight or eighty-nine, and was buried at Fareham on 20 January 1821.<br>
+<br>Robin Taylor Gilbert </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. David, R. Joppien, and B. Smith, eds., <i>The charts and coastal views of Captain Cook's voyages</i>, 2: <i>The voyage of the Resolution and Adventure, 1772&#150;1775</i> (1992) &middot; T. Jefferys, <i>A collection of charts of the coasts of Newfoundland and Labradore drawn from the original surveys taken by James Cook and Michael Lane, surveyors, Joseph Gilbert, and other officers in the king's service</i> (1770) &middot; T. Jefferys, <i>The North American pilot for Newfoundland, Labradore, the Gulf and River St Lawrence drawn from original surveys taken by James Cook and Michael Lane, surveyors, and Joseph Gilbert</i> (1775) &middot; R. J. B. Knight, <i>Portsmouth dockyard papers, 1774&#150;1783</i><i>: the American war</i> (1987) &middot; <i>The journals of Captain James Cook</i>, ed. J. C. Beaglehole, 4 vols. in 5, Hakluyt Society, extra ser., 34a, 35, 36a&#150;b, 37 (1955&#150;74), vols. 2&#150;3 &middot; J. A. Rupert-Jones, &#145;Five fellow workers of Captain Cook&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53609&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 152 (1927), 111&#150;15 &middot; parish registers of Aswarby, Bicker, Kirton in Holland, and Freiston, Lincolnshire, and of Fareham, Hampshire &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53609&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 56 (1786), 352 [George Gilbert] &middot; unpublished correspondence, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53609&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; private information (2004) &middot; J. C. Beaglehole, <i>The life of Captain James Cook</i> (1974) &middot; &#145;Doran, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53609&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; will, TNA: PRO, PROB 11/1639<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53609&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 15500, 38530, Maps M.T.11.h.1
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53609&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, MSS, ADM 55/107, 1/1610&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53609&amp;istheme=&amp;target=NMM')">NMM</a>, Portsmouth dockyard records, F/18; G201, 3/4 (H.O. A859)<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> see will<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Robin Taylor Gilbert, &#145;<span class="roman"><span class="headword">Gilbert,  Joseph</span>  (1732?&#150;1820/21)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/53609, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Joseph Gilbert (1732?&#150;1820/21): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/53609 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/53609/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

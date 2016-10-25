@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5902;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5902-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5902-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5902#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Colgan,  John</span>  (1592?&#150;1658), <span class="occ">hagiographer</span>, was born in the parish of Donagh, co. Donegal. Little is known of his background and early years: it is not clear whether a reference in a 1607 letter of George Montgomery, Church of Ireland bishop of Derry, to John MacColgan, son of the rector of Donagh, and a skilled student of law at Glasgow and speaker of both Irish and Latin, is to the same man. By 1615 at the latest he had left Ireland for the continent and, having been ordained about 1618, entered the Franciscan order at St Anthony's College, Louvain, on 26 April 1620. He continued his theological studies there under Father Robert Chamberlain and Father Thomas Fleming. It is very likely he subsequently taught scholastic philosophy at Aachen before being appointed lector of theology at Mainz in 1628. He returned to Louvain some time before June 1634, when he was stated to have been novice master at St Anthony's. Already in the early 1620s when he had just entered Louvain, Father Hugh Ward, Brother Michael O Cleirigh, and Father Patrick Fleming were engaged in collecting and editing Irish historical and, in particular, hagiographical materials and Colgan's correspondence in the 1620s suggests interests in this work, although his activities in the field are only vaguely known before 1635. In November that year Father Ward died and Colgan succeeded him as professor of theology at Louvain and as director of this work.<br>
+<br>Under Colgan the project crystallized into a plan for a seven- or eight-volume work. The first volume from this proposed scheme went to the press on 24 November 1643, and appeared in 1645 as <span class="italic">Acta sanctorum veteris et maioris Scotiae, seu, Hiberniae sanctorum insulae</span>. It comprised 270 lives, containing the lives of all saints whose feast days fell in the first three months of the year, with the exception of Brigid and Patrick. It is in the preface to <span class="italic">Acta sanctorum</span> that Colgan uses the title annals of the four masters for the annalistic compilation of Michael O Cleirigh and collaborators, <span class="italic">Ann&aacute;la R&iacute;oghachta &Eacute;reann</span>, and it is by this title that this illustrious work has since been known. <span class="italic">Acta sanctorum</span> was actually the third volume of the projected scheme. The first was to have consisted of the &#145;sacred and profane history of the country, its kings, the Irish apostolate abroad etc&#146; and never appeared. The second projected volume was published two years after <span class="italic">Acta sanctorum</span>, and was the occasion for the casting of a new set of Irish type: <span class="italic">Triadis thaumaturgae</span> was a collection of sources for the lives of Patrick, Brigid, and Columcille. According to Father Luke Wadding, the fourth projected volume, containing the lives of the saints for the next three months of the year, was in the press soon after. However, it never appeared. The cost of publishing seems to have been the crucial issue. The two published volumes owed their appearance to, respectively, Hugh O'Reilly, archbishop of Armagh, and Thomas Fleming, Colgan's former tutor and then archbishop of Dublin. Various appeals were made but it is likely that a lack of patrons for the remaining volumes proved a fatal stumbling block.<br>
+<br>In June 1651 Colgan was appointed commissary of the three Irish Franciscan colleges of Louvain, Prague, and Vielan. However, complaining of severe ill health, he asked to be relieved of the position the following February. He also declined a request from his order to write a reply to Father Zacharius Borenius's stricture of the Franciscan observants. In 1655 he published a short work on John Duns Scotus which revolved around the hotly disputed question of his nationality and that of all those to whom the term <i>scotus</i> had been applied.<br>
+<br>Colgan died at St Anthony's College, Louvain, on 15 January 1658. A printed obituary notice survives in the Franciscan Library, Killiney. At his death Colgan is believed to have left several volumes of the hagiographical project completed in manuscript. Father Thomas Sheeran took charge of the work but in the years before his own death in 1673 he managed to see only Thomas Sheeran's <span class="italic">Vita S. Rumoldi</span> and Patrick Fleming's <span class="italic">Collectanea sacra</span> through the press. Colgan's unpublished work appears to have been extant in the mid-eighteenth century but does not seem to have survived the dispersal of the Louvain archives after the French Revolution.<br>
+<br>A contemporary assessment of Colgan may be taken from the comments of Nicholas Verunlaeus, historiographer to the king of Spain and a professor at Louvain, in the preface to <span class="italic">Acta sanctorum</span>:<blockquote>Well have you merited, O most learned Colgan, of heaven and earth, of your country and the whole world. Others of your fellow countrymen have arisen in these times to vindicate in arms the Catholic religion. &hellip; You vindicate the saints of your country with your pen. &hellip; Your glory will be that you restore her saints to the Island of Saints, that the church accepts them, and that the world acknowledges them. &hellip; With infinite labour you have brought their lives to light, with incredible industry, you have described them, now with immense study and work you make them available. (O'Donnell, 26)</blockquote>Three centuries later it was evident that &#145;no writer on this subject during the last three hundred years, however eminent, has or could have dealt with the subject without continual reference to him&#146;  (Jennings, &#145;Introduction&#146;, iv). Ludwig Bieler's 1958 assessment was that, while <span class="italic">Acta sanctorum Hiberniae</span> had been succeeded by the work of Charles Plummer, <span class="italic">Triadis thaumaturgae</span> had yet to be superseded, despite the faults modern scholars might find with it. With regard to the Patrician materials Bieler's 1971 <span class="italic">Four Latin Lives of St Patrick: Colgan's &#145;Vita secunda, quarta, tertia and quinta&#146;</span> now provides such a successor, although the <span class="italic">Triadis</span> sections on Brigid and Columcille remained unchallenged at the end of the twentieth century.<br>
+<br>Mihail Dafydd Evans </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. O'Donnell, ed., <i>Father John Colgan, O.F.M., 1592&#150;1658</i><i>: essays in commemoration of the third centenary of his death</i> (1959) &middot; B. Jennings, introduction, in <i>The Acta sanctorum Hiberniae of John Colgan</i> (1948) &middot; B. Jennings and C. Giblin, eds., <i>Louvain papers, 1606&#150;1827</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5902&amp;istheme=&amp;target=IMC')">IMC</a> (1968) &middot; W. Reeves, &#145;Colgan's works&#146;, <em>Ulster Journal of Archaeology</em>, 1 (1853), 295&#150;302 &middot; <i>Four Latin lives of St Patrick</i><i>: Colgan's &#145;Vita secunda, quarta, tertia and quinta&#146;</i>, ed. L. Bieler (1971) &middot; B. Jennings, <i>Michael O Cleirigh, chief of the four masters, and his associates</i> (1936) &middot; C. P. MacDonnell, &#145;Notice of some of the lives which seem to have been ready, or in preparation, for the continuation of the <i>Actae sanctorum Hiberniae</i> at the death of Colgan&#146;, <em>Proceedings of the Royal Irish Academy</em>, 7 (1857&#150;61), 371 &middot; C. Graves, &#145;Manuscripts of the celebrated John Colgan, preserved at St Isidore's Rome: with a note by C. P. MacDonnell on a lost work of Colgan&#146;, <em>Proceedings of the Royal Irish Academy</em>, 6 (1853&#150;7), 95 &middot; B. Cunningham, &#145;The culture and ideology of Irish Franciscan historians at Louvain, 1607&#150;1650&#146;, <i>Ideology and the historians</i>, ed. C. Brady (1991), 11&#150;30 &middot; P&aacute;draig &Oacute; S&uacute;illeabh&aacute;in, &#145;Litir &oacute; Bhonarent&uacute;r &Oacute; Conchoblair, OFM, cluig Se&aacute;n Mac Colg&aacute;in, OFM&#146;, <em>Catholic Survey</em>, 1 (1951&#150;3), 130&#150;32 &middot; obituary notice, Franciscan Library, Killiney, co. Dublin<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Biblioteca Apostolica Vaticana, Vatican City, Biroiani Lat 96
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5902&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, Rawl. MS B. 487
+   &middot;
+ Franciscan Library, Killiney, co. Dublin, MS F. 2; Gaelic MS A 16; MS Section F; Gaelic MS A 34
+   &middot;
+ St Isidore's College, Rome<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> E. di Como, fresco, <i>c.</i>1670, St Isidore's College, Rome; repro. in Jennings, <i>Introduction</i>, frontispiece &middot; pencil and watercolour drawing (after Fra Emmanuello da Como), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5902&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Mihail Dafydd Evans, &#145;<span class="roman"><span class="headword">Colgan,  John</span>  (1592?&#150;1658)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/5902, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Colgan (1592?&#150;1658): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5902 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50238;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50238-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50238-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50238#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Beauchamp,  John</span>, first Baron Beauchamp of Powick  (<em>c.</em>1400&#150;1475), <span class="occ">nobleman and administrator</span>, was the son and eventually the heir of Sir William Beauchamp of Powick in Worcestershire (<i>c</i>.1370&#150;<i>c</i>.1421) and his wife, Katherine Usflete (<i>d</i>. after 1436). Sir William had been a royal retainer under Richard II, Henry IV, and Henry V, and, on his death, John followed him into the king's service, receiving an annuity of &pound;40 and the designation &#145;king's servant and esquire&#146; from Henry V on 18 December 1421. The family's handful of manors in the south-west midlands seem to have been shared between his mother and an elder brother, Walter.<br>
+<br>During the 1420s Beauchamp served under the duke of Bedford in France: he was captain of Pont de l'Arche in 1422&#150;9, lieutenant of Rouen Castle in 1429, a participant in the Maine&#150;Anjou campaigns, and a counsellor to the duke and member of his household. About the time of Henry VI's visit to France for his coronation, in 1430&#150;32, however, he seems to have taken up a permanent post within the king's domestic establishment. Some time before October 1432 he became one of four king's carvers, receiving an annual wage of &pound;40. Before 1434 he married Margaret Ferrers (who made her will in January 1487 or 1488). On 28 October 1434, and presumably in recognition of his landlessness, he was granted the custody of a manor in his home county of Worcestershire. When the king began to make grants on his own authority, in 1436&#150;7, Beauchamp joined other household men in reaping the benefits: his royal pensions reached a total of &pound;140 plus two tuns of Gascon wine per annum.<br>
+<br>The death of his distant relative Richard Beauchamp, earl of Warwick, seems to have been the first major turning point in John Beauchamp's career. In May 1439 he was appointed to the panel controlling the Warwick estates, and in the following November he became a feoffee for the dowager countess. It seems likely that his position in the royal household lay behind his inclusion in these grants, though his close links with Sir Ralph Boteler&#151;another grantee, another household man, and Beauchamp's own cousin&#151;must also have been a factor. Together, these two set about filling the regional vacuum left by Warwick's death, drawing large parts of the earl's retinue into a new connection, focused on their interests in Worcestershire and Gloucestershire and Boteler's offices at Kenilworth. Beauchamp was probably landless until the mid-1440s, but his power was underwritten by a series of royal offices given him in 1439: the constableship of Rhuddlan in north Wales, joint custody (with Boteler) of the Forest of Dean, and a place on the Gloucestershire bench.<br>
+<br>During the following decade Beauchamp's importance grew. In 1439 or 1440 he rose up the household ladder to become master of the king's horse. Three years later, he joined the feoffees for the king's colleges at Cambridge and Eton, and in 1445 he became a knight of the Garter. At about the same time he seems to have inherited his father's estates, with their centres at Powick and at Alcester in Warwickshire (he bought the other half of the latter manor in 1444), and, by about the middle of the decade, the Boteler&#150;Beauchamp connection had become the major power in the west midlands. On the death of the short-lived Henry Beauchamp, successively earl and duke of Warwick, in June 1446, Sir John felt sufficiently confident to launch a claim for the earldom of Warwick itself. While the powerful interests clustered around Henry's female heirs assured the failure of the initiative, Beauchamp was able to exact a handsome price for his acquiescence (finally secured in November). Amid a series of grants made in 1446&#150;7, including his father's old office of constable of Gloucester and the post of justice of south Wales, he was on 2 May 1447 elevated to the peerage as Lord Beauchamp of Powick, with annuities worth a further &pound;55 to help maintain his estate.<br>
+<br>Beauchamp had done well out of the royal service in the 1440s, but he emerged unscathed&#151;even enhanced&#151;from the crisis of 1449&#150;50 which brought nemesis to so many of his colleagues. In the wake of the <span class="roman">Act of Resumption</span> of 1450, from which he was exempted, he picked up a clutch of valuable custodies: the New Forest, the Isle of Wight, and the earldom of Pembroke. On 22 June 1450 he succeeded the hated Lord Saye and Sele as treasurer of England. How Beauchamp escaped the critical backlash of these years is hard to know: the evidence suggests that he was one of those most continuously about the king in the previous decade, and he remained in this position during the years that followed. One possible reason is that he was little involved in the controversial diplomacy of the 1440s; another, that his standing at the centre was matched by real power in the west midlands (even if this power had been composed with central help). In any event, it need not be assumed that he owed his appointment as treasurer to any association with the critics of the regime: as Cade and others protested, the post-Suffolk establishment was made up mainly of the same people as before.<br>
+<br>Beauchamp's tenure at the treasury lasted two years, during which policy was probably determined less by the treasurer than by the conflicting designs of parliament and the recipients of royal patronage. Beauchamp himself seems to have done well out of his office: although one chronicle describes him as having been expelled from the treasury (on 15 April 1452), he departed with a reward of &pound;400, for his service during this &#145;moost troublouseust season&#146;  (TNA: PRO, E404/68/103), and secured repayment of some &pound;528 owed to him with little difficulty. Between 1450 and 1453 he remained a central figure in the household, under the duke of Somerset, but avoided implication in the duke's more partisan activities, being chosen as a plausible mediator between the government and York's renegade agent Sir William Oldhall, for example. Beauchamp maintained a low profile during the crisis of 1453&#150;4: he stayed at Henry VI's side during the latter's madness, and was allotted a place as one of two &#145;barons&#146; of the household in the Yorkist ordinances of November 1454.<br>
+<br>If his appointment as a councillor on 21 February 1455 was intended to enlist Beauchamp as an ally of Somerset, it did not succeed: he attended the council sporadically (as he had done before) but he played no part in the fighting at St Albans a few months later. A poem of 1458 identified Beauchamp as a member of the royalist party, but this is almost certainly to be explained by his long-standing place in the household (where he became steward at some point in the second half of 1457). There is no evidence that he ever fought for Lancaster, and he attended both a council meeting and a chapter of the Garter during the winter of 1460&#150;61, when the king was under Yorkist control. At the end of 1460 he lost his stewardship, but he was reinstated as a feoffee for the royal colleges, so there is little to suggest that the new regime was hostile towards him. What he did in the difficult early months of 1461 is unknown, but it is unlikely that he gave much serious consideration to the armed struggle on behalf of his former master: Edward IV clearly anticipated loyalty when he placed Beauchamp on a Worcestershire commission of array in August, and a few months later approved his petition for exemption from the <span class="roman">Act of Resumption</span> of 1461. In February 1462 Beauchamp received a pardon, and in October of that year an exemption from the obligations of office and attendance, on the grounds of his great age.<br>
+<br>So it was that, with the downfall of Henry VI, Beauchamp went into retirement rather than opposition. In the midlands he and Boteler lost their former influence, and if the latter risked participation in the rebellions of 1469&#150;71, the former apparently went to ground, failing to help either king against his enemies. Beauchamp had yielded up his place in politics to his son Richard long before his death between 9 and 19 April 1475. He was buried a few miles from Powick, in the Dominican friary, Worcester.<br>
+<br>John Watts </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. Carpenter, <i>Locality and polity</i><i>: a study of Warwickshire landed society, 1401&#150;1499</i> (1992) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50238&amp;istheme=&amp;target=Chancery%20records')"><i>Chancery records</i></a> &middot; R. A. Griffiths, <i>The reign of King Henry VI</i><i>: the exercise of royal authority, 1422&#150;1461</i> (1981) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50238&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201386%3F1421')">HoP, <i>Commons, 1386&#150;1421</i></a>, 2.158&#150;63 &middot; J. Watts, <i>Henry VI and the politics of kingship</i> (1996) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50238&amp;istheme=&amp;target=GEC%2C%20Peerage')">GEC, <i>Peerage</i></a>, new edn, 2.46&#150;7 &middot; D. A. L. Morgan, &#145;The house of policy: the political role of the late Plantagenet household, 1422&#150;85&#146;, <i>The English court</i><i>: from the Wars of the Roses to the civil war</i>, ed. D. R. Starkey and others (1987), 25&#150;70 &middot; N. H. Nicolas, ed., <i>Proceedings and ordinances of the privy council of England</i>, 7 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50238&amp;istheme=&amp;target=RC')">RC</a>, 26 (1834&#150;7), vols. 4&#150;6 &middot; J. Anstis, ed., <i>The register of the most noble order of the Garter</i>, 2 vols. (1724) &middot; J. Stevenson, ed., <i>Letters and papers illustrative of the wars of the English in France during the reign of Henry VI, king of England</i>, 2 vols. in 3 pts, Rolls Series, 22 (1861&#150;4) &middot; A. G. Little, &#145;The black friars, Worcester&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50238&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Worcestershire</i>, 2.167&#150;8 &middot; exchequer, exchequer of receipt, warrants for issues, TNA: PRO, E404 &middot; <i>Itineraries [of] William Worcestre</i>, ed. J. H. Harvey, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50238&amp;istheme=&amp;target=OMT')">OMT</a> (1969) &middot; N. H. Nicolas, ed., <i>Testamenta vetusta</i><i>: being illustrations from wills</i>, 2 vols. (1826)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> probably over &pound;500 p.a.; incl. property in Gloucestershire, Alcester, Warwickshire, and elsewhere: HoP, <i>Commons, 1386&#150;1421</i>; <i>Chancery records</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Watts, &#145;<span class="roman"><span class="headword">Beauchamp,  John</span>, first Baron Beauchamp of Powick  (<em>c.</em>1400&#150;1475)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/50238, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Beauchamp (<em>c.</em>1400&#150;1475): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50238 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/50238/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

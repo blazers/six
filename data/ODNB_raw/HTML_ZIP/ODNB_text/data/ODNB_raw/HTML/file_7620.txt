@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7620;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7620-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7620-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7620#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Dickson,  Samuel</span>  (1802&#150;1869), <span class="occ">physician</span>, studied medicine at Edinburgh (where he attached himself to Robert Liston in anatomy and surgery), and at Paris, qualifying at the Edinburgh College of Surgeons in 1825. Having obtained a commission as assistant surgeon in the army, he went to India to join the 30th regiment of foot at Madras. During five years' service in India he acquired a large surgical experience. When cholera broke out there, he bled his patients, and most of them died. After this he began to express doubts about the value of bloodletting. In 1829 he published his <span class="italic">Report on the Endemic Cholera of his Majesty's 30th Regiment, 1828&#150;29</span>. On his return home he graduated MD at Glasgow University in 1833, and began private practice, first at Cheltenham, and afterwards in Mayfair, Westminster.<br>
+<br>In 1836 Dickson published <span class="italic">The Fallacy of the Art of Physic</span>, in which he gave an unqualified condemnation of bloodletting. Arguing both theoretically and from clinical experience, he believed that all remedies acted solely by altering temperature, and that other measures were more effective than bloodletting at doing this. He later called his alternative system &#145;chrono-thermalism&#146;. Dickson's two main themes, opposition to antiphlogistic measures and the value of chrono-thermalism, were embellished but largely unrevised in most of his subsequent writings. Although he wished his opposition to bloodletting to be his main message, this was largely overlooked by the medical profession. Instead, they condemned Dickson's books for their fiery polemics against organized medicine.<br>
+<br>In Dickson's later works, such as <span class="italic">Fallacies of the Faculty, with the Principles of the Chrono-Thermal System</span> (1839), his tirades against the profession became more extreme and more personal. This led to scathing reviews by the medical press. Some of Dickson's other books that cover similar ground include <span class="italic">The unity of disease analytically and synthetically proved, with facts subversive of the received practice of physic</span> (1838); <span class="italic">The Destructive Art of Healing, or, Facts for Families</span> (1853); <span class="italic">London Medical Practice and its Shortcomings</span> (1860); and <span class="italic">Memorable Events in the Life of a London Physician</span> (1863). In 1850 Dickson started a monthly journal, <span class="italic">The Chrono-Thermalist, or, People's Medical Inquirer</span>, which was written by him alone. This ran for twenty-two months. He also produced a poem, <span class="italic">Physic and its Phases, or, The Rule of Night and the Reign of Wrong</span> (1857).<br>
+<br>Dickson's <span class="italic">What Killed Mr Drummond&#151;the Lead or the Lancet?</span> (1843) used the accidental shooting of Sir Robert Peel's private secretary, Edward Drummond, as a platform to air Dickson's views against bloodletting. Dickson (calling himself &#145;an old army surgeon&#146;) claimed that &#145;every successive bleeding brought the unfortunate gentleman nearer the grave&#146;  (Bryan, 25). Again, the medical press largely ignored these views, apart from alluding to &#145;clamours and boastings by ignorant and discreditable charlatans&#146;  (ibid.).<br>
+<br>Despite such criticism, Dickson's books did find a definite market: <span class="italic">The Fallacies</span> went through five London editions by 1845. Dickson's chief following was in the United States, where the Penn Medical College of Philadelphia was founded to teach Dickson's doctrines. There a staff of ten professors spoke of &#145;the system for which we are indebted to that mastermind, Samuel Dickson of London&#146;  (Abrahams, 176). That Dickson's attacks on the profession were resented is reflected in his career. By 1850 he had practised in London for twelve years, but belonged to no medical society, faculty, or hospital.<br>
+<br>By the early 1850s most patients were being treated with stimulants, rather than antiphlogistic measures. In his later works Dickson claimed that these changes were a direct result of his calls for reform. These claims were ignored. As the practice of bloodletting disappeared, so Dickson's arguments became irrelevant. Later works reflect Dickson's feeling that he had become a victim of a professional conspiracy. Among those he attacked were the queen's attendants and Sir Benjamin Brodie. He also began to argue that other leaders of medicine, such as Paget, were plagiarizing his ideas.<br>
+<br>Dickson was perhaps the first and surely the most vehement British physician of his generation to condemn bloodletting openly and completely. However, his arguments relied too heavily on personal opinion and sweeping generalizations to be the driving force behind changes in therapeutics. Dickson died at his home, 12 Bolton Street, Mayfair, on 12 October 1869, leaving a widow, Eliza. His obituaries reflect the bitterness felt towards him within the medical profession. The <span class="italic">Medical Times and Gazette</span> described him as a man of &#145;moderate ability&#146; with a &#145;talent for abuse which he exercised to an unlimited extent&#146;  (<span class="italic">Medical Times and Gazette</span>, 23 Oct 1869, 502).<br>
+<br>The character of Dr Sampson in Charles Reade's 1863 novel, <span class="italic">Hard Cash</span>, was based on Dickson.<br>
+<br>Tim O'Neill </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. S. Bryan, &#145;Dr Samuel Dickson and the spirit of chrono-thermalism&#146;, <em>Bulletin of the History of Medicine</em>, 42 (1968), 24&#150;42 &middot; S. Dickson, <i>Memorable events in the life of a London physician</i> (1863) &middot; <em>London and Provincial Medical Directory</em> (1869&#150;70) &middot; H. Abrahams, <i>Extinct medical schools of nineteenth-century Philadelphia</i> (1966), 176 &middot; <em>Medical Times and Gazette</em> (23 Oct 1869), 502 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7620&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1869)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;3000: probate, 22 Nov 1869, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Tim O'Neill, &#145;<span class="roman"><span class="headword">Dickson,  Samuel</span>  (1802&#150;1869)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/7620, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Samuel Dickson (1802&#150;1869): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7620 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

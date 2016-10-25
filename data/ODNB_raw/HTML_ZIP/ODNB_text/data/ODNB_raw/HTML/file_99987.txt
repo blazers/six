@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 99987;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/99/99987-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/99/99987-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=99987#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Laing, Sir  John William</span>  (1879&#150;1978), <span class="occ">builder and civil engineering contractor</span>, was born on 24 September 1879 at 21 Newcastle Street, Carlisle, the third but only surviving son of John Laing (1842&#150;1924) and his wife, Sarah, <i>n&eacute;e</i> Wood (1845&#150;1924). His father was the son of James Laing (1818&#150;1882), who had founded the family construction business in 1848. Laing received his primary education in Carlisle and Sedbergh and then attended Carlisle grammar school. He was brought up in a strict religious environment, his parents having joined the congregation of the Carlisle Brethren following their marriage in 1874. He joined the family firm in January 1895 at the age of fifteen and served a three-year apprenticeship as a bricklayer and mason. In 1902 he went to work on the company's first major civil engineering contract&#151;the construction of a reservoir at Uldale in Cumberland&#151;and spent some two years with a navvy gang of 200 men which gave him a good understanding of the construction labourer. On 28 September 1910 Laing married Beatrice Harland (1885&#150;1972), the daughter of a chartered accountant from Stockton-on-Tees; they had two sons. The Harland family also belonged to the Brethren movement and became strongly linked to the Laing family with the preparation of the Laing company's annual reports and the marriage of Laing's sister to Beatrice's brother.<br>
+<br>By 1908 Laing had taken over the firm's management and two years later became the sole proprietor on the retirement of his father. He was a pioneer in perceiving the importance of accurate costing and control of performance during construction and he introduced work-study methods. The First World War saw great expansion of the Laing company, largely due to government contracts. During this period Laing undertook a contract for Barrow in Furness corporation which brought him up against unforeseen and costly natural hazards and led to a law suit, which he won. His Christian commitment was strengthened at this time and he drew up a financial plan for giving away on a graduated system anything from one-eighth to one-third of his income.<br>
+<br>Laing was deeply interested in experimental building work and developed in 1919 his own system of <i>in situ</i> concrete housing construction. This helped overcome the post-war shortage of skilled labour and it was patented as Easiform in 1924 when it featured at the Palace of Housing at the 1924&#150;25 Wembley British Empire Exhibition. Another development of the same period was a suspended patent fireproof flooring method known as Ferrobrick. A tendering and costing system which he developed was one of the finest of its time in the industry, and he believed that the key to sound contract financing was accuracy of estimating and labour productivity.<br>
+<br>Laing exercised a benevolent paternalism over his workers and in 1922 he introduced a scheme for employee shares. These were frequently purchased in instalments but were sometimes given as part of the distribution of company profits and they had to be returned on leaving the company's employment. A &#145;pupils' scheme&#146;, started in 1924, was a form of indenture training for grammar or public school leavers, and this was later to incorporate training for professional qualifications. Laing was respected by his employees for his absolute integrity. Productivity bonuses and payments for time lost by wet weather were introduced well ahead of the industry generally. Long-service employees were always found employment during slack periods and he built up a stable and loyal workforce. A charitable trust for employees was started in 1932 and this was followed by the first holidays-with-pay scheme within the industry in 1934.<br>
+<br>In the late 1920s, at a time of decline in the construction market, Laing launched into speculative private house building, particularly in the Greater London area. His company had built up sufficient resources to be able to finance the development of both shopping and factory precincts where they did not already exist near to his new estates. His advocacy of owner-occupation was very significant at the time; his house specification and building standards were high so his houses were more expensive than some others on the market, but they still sold readily.<br>
+<br>Laing supported the foundation of the National House Builders' Registration Council, formed in 1937, which registered builders and guaranteed their houses. His estates were always carefully planned with preserved trees and shrubs lining road verges. He, along with others, promoted a builders' pool system, an arrangement with the building societies which reduced the cash deposits required for mortgages. A visit to Russia in 1935 had a profound influence on his practical thinking. The great blocks of Russian flats with their communal kitchens and facilities were contrasted unfavourably with his own housing estates where each house possessed its own gardens and kitchen.<br>
+<br>At this time the company began to grow as a result of the award of government military contracts, and because of the urgency of these, the normal lengthy procedures of competitive tendering were impractical and they had to be negotiated. Laing had always disliked the cost-plus type of contract which had been extensively used during the First World War. He considered it to be inefficient, destructive of enterprise, and open to questionable practice. The company already had a long association with the Air Ministry which had led to a relationship of mutual respect and Laing was able to negotiate a &#145;target&#146; form of contract. A target cost would be set and if the actual cost of labour and material proved to be less than this figure the contractor was paid cost and profit, plus a sliding-scale bonus based on the savings; if he exceeded the target, he was penalized.<br>
+<br>The Second World War brought a tremendous expansion of the firm, which constructed fifty-four airfields, the underground headquarters of RAF Bomber Command at High Wycombe, munitions factories, and sections of the D-day Mulberry harbour. Laing reached sixty-five in 1944 but as his two sons were serving in the forces he carried on running the business alone. He also served as a consultant to the wartime government and sat on several committees. After the war, and confronted with a chronic housing shortage, Laing launched his company into Easiform construction again, supporting it with a research and development programme. The company's rapid growth continued and, despite his characteristic reluctance to delegate, he slowly transferred the firm's management to his sons, <a href="#cosubject_101418">(William) Kirby [<i>see below</i>]</a> and <a href="#cosubject_99987">(John) Maurice [<i>see below</i>]</a>. Financial and management decentralization was to follow and the business was converted into a public limited company in 1952. The Laing family and their charitable trust held sufficient ordinary shares in the company to retain control.<br>
+<br>Laing finally retired as chairman in 1957 and became the company's life president. In that year his company was awarded the so-called &#145;power and the glory&#146; contracts&#151;Berkeley nuclear power station (decommissioned in 1989) and the rebuilding of Coventry Cathedral (consecrated in 1962). The following year the company won the contract for the first 55 miles of the M1, a new activity in which it became a national leader and which derived from its wartime airfield construction experience. For his services to the industry, Laing was appointed CBE in 1951 and knighted in 1959.<br>
+<br>To the end of his life Laing, supported by his wife, remained a generous benefactor of evangelical Christian enterprise. In 1922 he gave nearly 40 per cent of his personal ordinary shares in the company to a Brethren charitable holding foundation, the Steward's Company Ltd. This applied its income to missionary, evangelistic, and poor relief work. A wide range of Christian international organizations benefited from Laing's support, including the London Bible College, the British and Foreign Bible Society, the Missionary Aviation Fellowship, Fact and Faith films, and the Billy Graham crusades. Paternalistic and dominating, Laing gained a reputation for straightness in his personal and business dealings. Pursuit of efficiency and quality and close personal control marked his business style, as did his policy of extensively ploughing back profits; his frugality was expressed in his preference for the works canteen or sandwiches instead of an expensive restaurant. He also worked immensely hard, enjoyed physical fitness and held a simple, bold Christian faith until his death, aged ninety-eight, at 8A Wellington Place, Westminster, London on 11 January 1978. He was buried on 16 January 1978 in Paddington new cemetery.<br>
+<br>Laing's elder son, <a name="cosubject_101418"></a><span class="headword">Sir (William) Kirby Laing</span>  (1916&#150;2009), <span class="occ">industrialist</span>, was born on 21 July 1916 at 42 St James's Road, Carlisle. He was educated at St Lawrence College, Ramsgate, a strongly Christian school, and Emmanuel College, Cambridge, where he read engineering. On graduation in 1937 he joined the family business, becoming a director in 1939. On 8 July that year he married Joan Dorothy Bratt (1916&#150;1981), daughter of Eric Cecil Bratt, company director. They had three sons. He joined the Territorial Army before the outbreak of the Second World War. His attempts to volunteer for active service were initially unsuccessful, as he was assigned to work with his company on aerodromes, temporary hospitals and housing, and barrage balloon sites. He eventually succeeded in transferring to active service in 1943, and served for the remainder of the war with the Royal Engineers, in Italy and France. On demobilization he rejoined the company, working initially on the property development side. He succeeded his father as chairman of John Laing &amp; Son in 1957, and led the company through a time of sustained expansion, its flagship projects including the Bullring shopping centre in Birmingham and the Calder Hall and Berkeley nuclear power stations. Kirby Laing and his more extrovert brother, Maurice, formed an effective partnership, Kirby focusing more on property and on international building projects and Maurice on domestic ones. Kirby, who was knighted in 1968, stepped down as chairman in 1976 to make way for his brother, but he remained a director. In 1978, concerned by the possibility of the nationalization of construction companies should the Labour Party win the next election, Maurice restructured the company into separate property and construction divisions, and invited Kirby to become chairman of Laing Properties. This was initially highly successful under his chairmanship, which lasted until 1987, but three years later it was the victim of a hostile takeover by P&amp;O, which made a good deal of money for the family's charitable trusts but which both brothers saw as destroying the Laing heritage.<br>
+<br>Kirby Laing was a notable benefactor and philanthropist, and in 1972 he had started the Kirby Laing Foundation, which supported a wide range of charitable projects, with a particular focus on medical research, youth development, ancient churches, and Christian outreach. He was a communicant of the Church of England. In 2006 the Whitefield Institute was renamed the Kirby Laing Institute for Christian Ethics in recognition of his support. He was president, <i>inter alia</i>, of the Institution of Civil Engineers (1973&#150;4), to whose proceedings he contributed a number of papers, the council of the Royal Albert Hall (1979&#150;92), and the Smetonian Society (1988). He was a member of the Royal Fowey Yacht Club, and was also a keen fly fisher. Following his first wife's death, on 20 September 1986 he married (Mary) Isobel Lewis, <i>n&eacute;e</i> Wray, radiologist, daughter of Edward Chapman Wray, research chemist, and widow of Cledwyn B. Lewis. He died on 12 April 2009 and was survived by her and by the three sons of his first marriage. A memorial service was held at St Margaret's, Westminster, on 1 September 2009.<br>
+<br>Sir John Laing's younger son, <a name="cosubject_99987"></a><span class="headword">Sir (John) Maurice Laing</span>  (1918&#150;2008), <span class="occ">industrialist</span>, was born on 1 February 1918 at the same house as his brother, and also educated at St Lawrence College, Ramsgate. He joined John Laing &amp; Son Ltd in 1935, initially as a costing clerk and then an apprentice builder, but took his first managerial role in 1938 and became a director of the business in 1939. On 20 March 1940 he married Hilda Violet Richards (<i>b</i>. 1918), a library assistant, and daughter of William Tom Steeper Richards, schoolmaster; they had one son, John (<i>b</i>. 1959). Meanwhile in 1941 (against his father's wishes, and despite being in a reserved occupation) he enlisted in the RAF, with which he served for the remainder of the Second World War, including as a glider pilot during the crossing of the Rhine. On demobilization he returned to the family firm, becoming deputy chairman in 1966 and succeeding his brother, Kirby, as chairman in 1976, holding that position until his retirement in 1982.<br>
+<br>Though he left the Brethren for the Church of England, he was deeply influenced by his Christian faith, served as president of the London Bible College (1993&#150;9), and continued his father's policies of benevolent paternalism in employee relations. He undertook a wide range of outside appointments, most notably as a director of the Bank of England (1963&#150;80) and as president of the British Employers' Confederation (1964&#150;5), and, following the latter's merger with the Federation of British Industries and the National Association of British Manufacturers, first president of the Confederation of British Industry (1965&#150;6). He was knighted in 1965. He was a keen sailor, serving as admiral of the Royal Ocean Racing Club (1976&#150;82) and president of the Royal Yachting Association (1983&#150;7), and was deeply interested in complementary medicine, funding the Centre for Complementary Medicine at the Peninsula Medical School in Exeter, founded in 1993. He also gave extensively to environmental and development projects in the developing world. He died in London on 22 February 2008 and was survived by his wife and son.<br>
+<br>Alan Thorpe </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Coad, <i>Laing</i><i>: the biography of Sir John Laing CBE (1879&#150;1978)</i> (1979) &middot; D. J. Jeremy, &#145;Laing, Sir John William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99987&amp;istheme=&amp;target=DBB')"><i>DBB</i></a> &middot; G. Harrison, <i>Life and belief in the experience of John W. Laing</i> (1954) &middot; <i>Teamwork</i><i>: the story of John Laing and Son Ltd</i> (1950) &middot; <i>Serving a nation at war, 1939&#150;1945</i><i>: a review of the building and civil engineering work of John Laing and Son Ltd</i> (Laing &amp; Co., 1946) &middot; <i>Building and engineering works</i><i>: John Laing and Son Ltd</i> (Laing &amp; Co., 1937) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99987&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1978) &middot; b. cert. &middot; m. cert. &middot; d. cert. &middot; b. cert. [Beatrice Harland] &middot; d. cert. [Beatrice Harland] &middot; private information (2004) &middot; <em><i>The Guardian</i></em> (25 Feb 2008) &middot; <em><i>The Independent</i></em> (26 Feb 2008) &middot; <em><i>The Times</i></em> (29 Feb 2008); (5 March 2008); (11 March 2008); (24 March 2008); (24 May 2008) &middot; <em><i>Daily Telegraph</i></em> (19 March 2008) &middot; <em><i>Times Higher Education Supplement</i></em> (19 May 2008) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99987&amp;istheme=&amp;target=Burke%2C%20Peerage')">Burke, <i>Peerage</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99987&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2008) &middot; b. cert. [Maurice Laing] &middot; m. cert. [Maurice Laing] &middot; <em><i>The Times</i></em> (15 April 2009); (2 Sept 2009) &middot; <em><i>Daily Telegraph</i></em> (15 April 2009) &middot; <em><i>The Guardian</i></em> (30 April 2009) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99987&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2009) &middot; b. cert. [Kirby Laing] &middot; m. certs. [Kirby Laing]<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> A. R. M. Todd, oils, exh. RA 1949, repro. in Coad, <i>Laing</i>, jacket [<i>see illus.</i>] &middot; obituary photographs (Sir (John) Maurice Laing) &middot; obituary photographs (Sir (William) Kirby Laing)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;74,592: probate, 17 March 1978, <i>CGPLA Eng. &amp; Wales</i> &middot; &pound;4,569,134&#151;Maurice Laing: probate, 6 Aug 2008, <i>CGPLA Eng. &amp; Wales</i> &middot; &pound;6,571,007&#151;Sir (William) Kirby Laing: probate, 28 Aug 2009, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Alan Thorpe, &#145;<span class="roman"><span class="headword">Laing, Sir  John William</span>  (1879&#150;1978)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2013 [http://www.oxforddnb.com/view/article/99987, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  John William Laing (1879&#150;1978): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/99987 
+                <br />
+
+                
+
+Sir (William) Kirby Laing (1916&#150;2009): doi:10.1093/ref:odnb/101418<br>Sir (John) Maurice Laing (1918&#150;2008): doi:10.1093/ref:odnb/99987<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/99987/2012-09"> [Previous version of this biography available here: September 2012]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

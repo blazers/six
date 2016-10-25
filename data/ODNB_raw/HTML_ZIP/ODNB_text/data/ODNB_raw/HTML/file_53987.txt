@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 53987;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/53/53987-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/53/53987-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=53987#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">MacAlpine <span class="st"> [McAlpine]</span>,  Neil</span>  (1786&#150;1867), <span class="occ">lexicographer</span>, was born in Kilchoman, island of Islay, the son of Dugald McAlpine, a house carpenter, and his wife, Betsy, <i>n&eacute;e</i> McAlpine. After attending university and theological college (probably in Edinburgh) he spent much of his life as a parochial schoolmaster at Kilmeny in Islay, having failed to secure a charge either before or after the Disruption of 1843. During the famine of 1846 he arranged for a boatload of food to be brought to Islay, and thereby incurred the wrath of the landlord, John Ramsay; as a consequence he lost his teaching post, and had to survive on a salary of &pound;5 a year as registrar of his parish, and latterly on parochial benefit. MacAlpine died, unmarried, on 14 December 1867 at Kilmeny. John F. Campbell, the Islay folklore collector, described him in 1860 as &#145;a clever eccentric man&#146;  (Mackechnie, 1.53).<br>
+<br>MacAlpine is remembered for his Gaelic&#150;English dictionary, entitled <span class="italic">The Argyleshire Pronouncing Gaelic Dictionary</span>, which was first published in Edinburgh in 1832 and was still in print in the 1970s. It was intended for use in schools (the Gaelic schools network, begun in 1811, had expanded greatly by the middle years of the century). It is an intelligent culling of existing works, such as Armstrong's 1825 dictionary and the <span class="italic">Highland Society Dictionary</span> (1828), with new input especially from Islay usage, but also from other sources, notably from Allan Ross, a Lewis colleague who worked for a time in Islay. MacAlpine quotes Skye, Lochaber, Harris, and Perthshire usages, and specific printed sources, gives imitated pronunciations throughout in a fairly consistent way, and provides a good range of examples of usage. An English&#150;Gaelic section was compiled about 1845 by John Mackenzie, who was unduly critical of MacAlpine, but who justifiably remarks that MacAlpine's work &#145;has the merit of being the first to present a Dictionary divested of antiquated Irishisms&#146;  (preface to <span class="italic">Dictionary</span>, 1934 edn, x).<br>
+<br>Derick S. Thomson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Mackenzie, preface, in N. MacAlpine, <i>Pronouncing Gaelic dictionary</i>, new edn (1934) &middot; J. Mackenzie, preface, in N. MacAlpine, <i>An English-Gaelic dictionary</i><i>: being part second of the pronouncing Gaelic dictionary</i> (1853) &middot; J. Mackechnie, ed., <i>Catalogue of Gaelic manuscripts in selected libraries in Great Britain and Ireland</i>, 1 (1973), 34, 53 &middot; d. cert.<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Derick S. Thomson, &#145;<span class="roman"><span class="headword">MacAlpine ,  Neil</span>  (1786&#150;1867)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/53987, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Neil MacAlpine (1786&#150;1867): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/53987 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

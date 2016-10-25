@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1303;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1303-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1303-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1303#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Banks,  Thomas Christopher</span>  (1765&#150;1854), <span class="occ">genealogist</span>, was the eldest child of Thomas Banks, a gentleman pensioner. He claimed a relationship to the Banks family of Whitley; on his mother's side, he claimed descent from the Nortons of Barbados. He studied law, and on the strength of his genealogical knowledge offered his services as an agent in cases of disputed inheritance. From 1813 to 1820 he practised at 5 Lyon's Inn, London, and subsequently he took an office, called the Dormant Peerage Office, in John Street, Pall Mall. Although he specialized in cases based on the weakest of claims (which he strengthened with largely fanciful pedigrees), some of his published works were well researched and accurate.<br>
+<br>
+<span class="italic">The Manual of the Nobility</span>, his first publication, appeared in 1807. The same year he brought out the first volume of the <span class="italic">Dormant and Extinct Baronage of England</span>; a second volume followed in 1808, and a third in 1809. The work drew heavily on Sir William Dugdale's <span class="italic">Baronetage of England</span> (1675&#150;6). In 1812 he published the first volume of a corresponding work on the <span class="italic">Peerage</span>, which was never completed. The same year he edited, in one volume, reprints of Sir William Dugdale's <span class="italic">Ancient Usage in Bearing &hellip; Arms</span> (first published in 1682), Dugdale's <span class="italic">Discourse Touching the Office of Lord High Chancellor</span>, with additions, together with Sir William Segar's <span class="italic">Honores Anglicani</span> (1590). In 1825 he brought out <span class="italic">Stemmata Anglicana, or, A Miscellaneous Collection of Genealogy</span>. The second part contained an account of the ancient and extinct royal families of England, re-embodied from the <span class="italic">Extinct Peerage</span>. In 1837 this was republished as a fourth volume of the <span class="italic">Dormant and Extinct Baronage of England</span>, and continued down to January 1837, with corrections, appendices, and index.<br>
+<br>In 1812 Banks published the first of his pamphlets in support of spurious claims to peerages under the title <span class="italic">An Analysis of the Genealogical History of the Family of Howard</span>. In 1815 the pamphlet was republished with the more exciting title <span class="italic">Ecce homo, the Mysterious Heir, or, Who is Mr Walter Howard? An Interesting Inquiry Addressed to the Duke of Norfolk</span>. A third edition appeared in 1816. In the same year another pamphlet appeared, entitled <span class="italic">The Detection of Infamy</span>, written anonymously by Banks on behalf of Thomas Drummond, of Biddick, claimant to the estates of the earl of Perth. During the next twenty-five years he continued to take on similar cases. In the late 1820s he undertook the case of Alexander Humphrys, who laid claim to the earldom of Stirling. He wrote several pamphlets in support of Humphrys's cause and travelled to North America (1826&#150;8) and Ireland (1828&#150;9) to search for evidence. Banks gave proof of his own personal faith in the claims of Humphrys by allowing the pretendant, in accordance with rights conferred on the first earl of Stirling by King James, to create him a baronet, and by accepting from him (in anticipation) a grant of 6000 acres of land in Nova Scotia. When the documents on which Humphrys founded his claims were discovered to be forgeries, Banks ceased to make use of his own title. While the Stirling case was still in progress, Banks published the imaginary discovery of another unrecognized claim to a peerage, under the title of a <span class="italic">Genealogical and historical account of the earldom of Salisbury, showing the descent of the Baron Audley of Heleigh from the William Longesp&eacute;, earl of Salisbury, son of King Henry II by the celebrated fair Rosamond</span>. In 1844 he published, in two parts, <span class="italic">Baronia Anglica concentrata</span>.<br>
+<br>Banks was a knight of the holy order of St John. During his later years he resided near Ripon, Yorkshire; he died at Greenwich, Kent, on 30 September 1854.<br>
+<br>T. F. Henderson<span class="italic">, rev. </span> Michael Erben </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 43 (1855), 206&#150;8 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=BL')">BL</a>, corresp. and genealogical papers, Add. MSS 24855, 27585, 33981&#150;33982, 35649
+   &middot;
+ Cardiff Central Library, corresp., notes, and pedigrees
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=NHM')">NHM</a>, family corresp. [copies]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=S.%20Antiquaries%2C%20Lond.')">S. Antiquaries, Lond.</a>, drafts and papers relating to bastardy
+   &middot;
+ Yale U., Beinecke L., MS essays ready for publication&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=BL')">BL</a>, letters to Sir Joseph Banks, Add. MSS 33981&#150;33982
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, Montagu MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, letters to Sir Thomas Phillipps and others
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1303&amp;istheme=&amp;target=Lincs.%20Arch.')">Lincs. Arch.</a>, letters mainly to James Gunman and G. R. P. Jarvis<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">T. F. Henderson, &#145;<span class="roman"><span class="headword">Banks,  Thomas Christopher</span>  (1765&#150;1854)</span>&#146;, rev. Michael Erben, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/1303, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Christopher Banks (1765&#150;1854): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1303 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

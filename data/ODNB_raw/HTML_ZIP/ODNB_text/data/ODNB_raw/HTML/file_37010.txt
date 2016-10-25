@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37010;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37010-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37010-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37010#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Woods,  Donald Devereux</span>  (1912&#150;1964), <span class="occ">microbiologist</span>, was born at Ipswich on 16 February 1912, the elder son of Walter James Woods, builder and decorator of Ipswich, and his wife, Violet Mabel Cobb. Woods was educated at Northgate School, Ipswich, and became a scholar at Trinity Hall, Cambridge; he graduated in 1933 with first-class honours in parts one (1932) and two (1933) of the natural sciences tripos. He remained at Cambridge with a Beit memorial fellowship and took his PhD in 1937. From 1933 to 1939 he worked in association with Marjory Stephenson at Cambridge and under her influence became interested in the metabolic processes of bacteria. In 1939 he joined the Medical Research Council's unit for bacterial chemistry as a Halley-Stewart research fellow, working at the Middlesex Hospital, London. In the same year he married Alison Lillian, daughter of George William Halls, agricultural engineer; they had one daughter.<br>
+<br>From 1940 to 1946 Woods was engaged in war work at the chemical defence research establishment at Porton Down, Wiltshire. At the end of that period he became reader in chemical microbiology in the biochemistry department of the University of Oxford under Professor Rudolph A. Peters, and in 1951 he became a fellow of Trinity College, Oxford. He was elected a fellow of the Royal Society in 1952. In 1955 he was appointed to the first chair in chemical microbiology in the United Kingdom&#151;the Iveagh professorship, endowed by Arthur Guinness, Son &amp; Co.<br>
+<br>Woods's major impact on his branch of science was made in a paper (published in 1940) which was prepared when he was working in the unit directed by Paul Fildes at the Middlesex Hospital. At that time sulphonamide drugs had become established as the first really effective chemotherapeutic agents for use against bacterial infections. Fildes's group was concerned with the substances essential for the growth of pathogenic bacteria, and one of its lines of attack was to analyse animal and vegetable extracts for the essential components. Sulphanilamide was known to inhibit bacterial growth quantitatively and the inhibition was prevented, also quantitatively, by extracts of yeast and other organisms. Woods set out to discover the anti-sulphanilamide factor in yeast extracts and, within four months, he had shown that it was p-aminobenzoic acid. Woods had been trained at Cambridge as a biochemist and, recognizing the similarity of the chemical structures of p-aminobenzoic acid and sulphanilamide molecules, he suggested that the drug could be acting as an inhibitor of an enzyme bringing about some essential metabolism of p-aminobenzoic acid. The idea rapidly received support by the identification of p-aminobenzoic acid in various biological complexes and the demonstration that it formed part of the molecule of folic acid, a substance essential to the functioning of a variety of enzymes important in biosynthetic reactions.<br>
+<br>This demonstration by Woods&#151;that a chemical analogue of an &#145;essential metabolite&#146; could become a useful drug&#151;appeared to open up a direct approach to the rational development of chemotherapeutic agents by structural modification of other metabolites. Woods was unable to follow this approach himself since he was engaged, for the next six years, in war work. During this period others confirmed the accuracy of his predictions, though it was many years before any &#145;metabolite analogues&#146; which were effective for the clinical treatment of infections were discovered&#151;mainly because the nature of the selective action of sulphanilamide was not understood at this time and because the majority of analogues proved to be non-selective <i>in vivo</i>.<br>
+<br>When Woods returned to academic life in 1946, p-aminobenzoic acid had been established as the biosynthetic precursor of folic acid and he devoted much of the rest of his research career to elucidating the nature and functions of folic acid in its various forms. During this time a series of young research workers worked under his guidance and many of these later became leading investigators in other laboratories and universities. Woods was a dedicated teacher and had a gift not only for exposition but also for enlisting and maintaining the interest of a large number of collaborators, young and old. In 1953 he delivered the first Marjory Stephenson memorial lecture to the Society for General Microbiology; this lecture provides a delightful account both of his work at that time and of his approach to the problems of chemical microbiology. Woods was invited to give the Leeuwenhoek lecture to the Royal Society in 1964, but he died in the Radcliffe Infirmary, Oxford, on 6 November 1964, before he could deliver it. His wife survived him.<br>
+<br>E. F. Gale<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Journal of General Microbiology</em>, 9 (1953) &middot; E. F. Gale and P. Fildes, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37010&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 11 (1965), 203&#150;19 &middot; private information (1981) &middot; personal knowledge (1981) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37010&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1964)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37010&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37010&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>, corresp. with Henry McIlwain<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1952, repro. in <i>Memoirs FRS</i>, 11 (1965)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;3120: administration, 18 Dec 1964, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">E. F. Gale, &#145;<span class="roman"><span class="headword">Woods,  Donald Devereux</span>  (1912&#150;1964)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/37010, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Donald Devereux Woods (1912&#150;1964): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37010 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23200;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23200-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23200-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23200#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Adams <span class="st"> [<em>later </em>Rawson]</span>, Sir  William</span>  (1783&#150;1827), <span class="occ">oculist</span>, was born at Stanbury, Morwenstow, Cornwall, on 5 December 1783, the youngest son of Henry Adams (<i>d</i>. 1811) and his wife, Demaris (1736/7&#150;1788), daughter of Simon and Anne Cottle. He bore the name Adams throughout his professional life until, shortly before his death, he took his wife's surname of Rawson. Adams began his medical training as assistant to John Hill, a surgeon at Barnstaple, and about 1805 went to London to complete his education at St Thomas's and Guy's hospitals. The London Infirmary in Charterhouse Square for curing diseases of the eye had recently been established by John Cunningham Saunders, the demonstrator in anatomy at St Thomas's; Adams attended his demonstrations and assisted him in the surgical operations at the infirmary. In 1807 he was elected MRCS and shortly afterwards moved to Exeter. There he helped to establish the West of England Infirmary for curing eye disease on the lines of the institution at which he had been trained in London, and practised as the surgeon there. From 1807 to 1810 he lived and worked for the most part in Exeter and Bath, but he claimed to have operated successfully also in Dublin and Edinburgh. In 1810 he returned to London to establish a practice there. His subsequent career seems to have been extraordinarily active both in his profession of oculist and in other, sometimes surprising, fields. But often his actions provoked controversy, and he had enemies.<br>
+<br>At this time Egyptian ophthalmia (a conjunctival disease, principally trachoma) was a serious and widespread problem in Europe, following Napoleon's Egyptian campaign: many soldiers had been dismissed from the army as blind from this cause, and the disease spread rapidly to the civilian population throughout Europe. Although the London Infirmary already existed to treat the ophthalmia, Adams proposed the founding of another similar institution exclusively for the treatment of the military pensioners. In 1813 he encouraged the belief that he had discovered a cure for the complaint, although his enemies claimed that the discovery had been made by John Vetch. Adams performed several operations in the hospital for seamen at Greenwich, and controversy raged for several years over whether they had been successful, and on the originality of his treatment. Other operations by him, well publicized at the time, are reported to have been helpful or harmful in about equal measure.<br>
+<br>Nevertheless Adams was successful in his profession at this time, being made surgeon and oculist-extraordinary to the prince regent and to the dukes of Kent and Sussex, and he was knighted in 1814. In 1817 an ophthalmic institution was established for him in part of the York Hospital at Chelsea, but was found to be inconvenient for the purpose. Instead, from 1817 to 1821 he gave free treatments at Regent's Park (in a building then used as a hospital, although he had himself originally built it for the manufacture of steam guns). Adams pressed a claim for public money to support this institution, being strongly supported in this by Lord Palmerston, and following a report by a select committee parliament voted him &pound;4000. The post of ophthalmic surgeon to the army was created for him, at a salary of &pound;1500, which greatly offended the military surgeons.<br>
+<br>Adams married Jane Eliza, fourth daughter and coheir of Colonel George Rawson, MP for Armagh; they had five children. In 1825 Adams inherited a considerable sum of money from his wife's family, and in compliance with the will of Colonel Rawson's widow, changed his name by royal licence to Rawson. He invested much of this money in silver mines in Mexico and other South American mines, encouraging his family and friends to do likewise. Many Mexican mines had lain derelict since the years of revolution after 1810, and needed investment to bring them back into production. When he lost heavily on these ventures Rawson published two pamphlets on the state of mining in the region, one with a letter to the directors of the Anglo-Mexican Mine Association, complaining that share prices fluctuated in response to inaccurate statements put out regarding the likely yields from these mines, the other a letter to George Canning. He died at his house, Upper Gloucester Place, Dorset Square, London, on 4 February 1827 and was buried in St John's Wood cemetery five days later.<br>
+<br>W. P. Courtney<span class="italic">, rev. </span> J. M. Tiffany </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Duke-Elder, <i>System of ophthalmology</i>, 8/1 (1965), 260&#150;61 &middot; E. T. Collins, <i>The history and traditions of the Moorfields Eye Hospital</i><i>: one hundred years of ophthalmic discovery and development</i>, 1 (1929); facs. edn (1974), 30 &middot; G. Cantrell, <i>A history of the Exeter Eye Infirmary</i> (1985) &middot; G. Gorin, <i>History of ophthalmology</i> (1982), 73&#150;4 &middot; J. Hirschberg, <i>The history of ophthalmology</i>, trans. F. C. Blodi, 8a (1987), 92&#150;106 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23200&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 97/1 (1827), 187 &middot; W. Rawson, <i>The present operations &hellip; of the Mexican Mine Associations analysed</i> (1825) &middot; W. Rawson, <i>The actual state of the Mexican mines and the reasonable expectations of the shareholders of the Anglo-Mexican Mine Association</i> (1825)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Suffolk RO, Ipswich, letters to Mrs English<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. P. Courtney, &#145;<span class="roman"><span class="headword">Adams , Sir  William</span>  (1783&#150;1827)</span>&#146;, rev. J. M. Tiffany, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/23200, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  William Adams (1783&#150;1827): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23200 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

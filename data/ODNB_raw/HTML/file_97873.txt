@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 97873;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/97/97873-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/97/97873-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=97873#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Phipson,  Wilson Weatherley</span>  (1838&#150;1891), <span class="occ">engineer</span>, was born in Ladywood, Birmingham, on 31 August 1838, the third son and third of six children of Samuel Ryland Phipson (1803&#150;1887), merchant, and his wife, Ellen Emma Elizabeth (1813&#150;1899), daughter of a Captain Lamb. The Phipson family were prominent Unitarians, at the centre of Birmingham literary circles. They were also talented musically: his mother was an accomplished singer, while his elder brother Thomas Lamb Phipson (1833&#150;1908), who later became a chemist, was a virtuoso violinist. His father was financially ruined by the collapse, in 1847, of the North of England Joint Stock Bank, of which he was both a depositor and a shareholder with unlimited liability, and took the family to Belgium, where the cost of living was lower.<br>
+<br>In Brussels Phipson became a student pupil of Dr Van Hecke who had invented a new method for ventilating and heating hospitals, which was shown to be effective and economical. About 1854 he entered the &Eacute;cole Imp&eacute;riale des Ponts et Chauss&eacute;es in Paris, the French school of engineering, and after completing three years' study he joined Van Hecke in Paris where he worked on the Necker and Beaujon hospitals and then accompanied him to the Netherlands, where similar systems were fitted in government buildings. His musical accomplishments helped to gain him entry into high society on the continent; as well as excelling at the piano he had a fine tenor voice, and several of his musical compositions were published.<br>
+<br>After returning about 1859 to England, where the family lived at the Cedars, Putney, London, Phipson promoted the engineering importance of the new Van Hecke heating and ventilating systems for hospitals. They combined efficient ventilation with uniform warming in an economical way that depended on careful control of the supply of air and heat. Fresh air was propelled along an air channel by means of a patented fan, and warmed and moistened in a warming chamber before being distributed over the building in controlled volumes. In summer the air was cooled. He presented a paper to the Metropolitan Association of the Medical Officers of Health in November 1861 describing the benefits of this system. In 1862, at his own cost, he demonstrated to the lords of the Admiralty at Portsmouth dockyard a new form of ventilation below decks to improve the living conditions for the crews on board warships. Through business contacts of his father he gained his first design commission, the installation at Baron Rothschild's private house in Piccadilly, and later the premises of Rothschild's bank in the City of London. The success of his systems soon interested leading architects and his business then thrived. He opened his first office, at 1 Salisbury Street, Strand, London.<br>
+<br>Phipson became an associate of the Institution of Civil Engineers in 1869 and was elected a full member of the institution in 1878. On 28 May 1867 he married Elizabeth Humberstone Newcombe (1845&#150;1892), the daughter of a solicitor. They had no family, so he adopted and educated one of his wife's nieces.<br>
+<br>During his productive period from the 1860s until his death Phipson was responsible for installing his heating and ventilation systems in a large number of prestigious building projects, including the Royal Albert Hall (1868), the University of Glasgow (1869), the Natural History Museum (1872), Alexandra Palace (1874), London Aquarium (1875), Mount Stuart House, Isle of Bute (1877), Cardiff Castle (1881), and Birmingham town hall (1890). The latter, his final project, was to remedy the town hall's poor ventilation in advance of the city's triennial musical festival. He worked with and became the friend of many distinguished architects.<br>
+<br>The number of contracts in which Phipson was involved placed such demands on his time that he often spent many nights away sleeping in a Pullman railway coach. In the final month of his life he travelled 3000 miles to supervise his works and attend consultations. His professional services were also in demand as an arbitrator. Latterly he complained of the highly competitive nature of contracting, which drove down prices to the extent that he lost money on some of the projects he undertook.<br>
+<br>An active member of the Surrey rifle volunteers, Phipson was popular in society, despite &#145;his somewhat abrupt, boisterous manner&#146; which, his memoirist explained, &#145;had been acquired by the daily contact of rough artisans&#146;  (<span class="italic">Memoir</span>, 17). He died suddenly of heart failure at his home, 40 Charlwood Road, Putney, London, on 21 October 1891 and was buried in Putney cemetery in the same grave as his father.<br>
+<br>F. J. Ferris </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Wilson W. Phipson MInstCE</i><i>: a memoir</i> (1892) &middot; B. Roberts, <i>Wilson Weatherley Phipson</i><i>: Victorian engineer extraordinary, 1838&#150;1891</i> (2006) &middot; &#145;Metropolitan Association of the Medical Officers of Health&#146;, <em><i>The Lancet</i></em> (30 Nov 1861), 535 &middot; <em><i>The Times</i></em> (25 Sept 1862), 12; (30 Sept 1862), 10; (17 Jan 1863), 12 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97873&amp;istheme=&amp;target=PICE')"><i>PICE</i></a>, 55/1 (1878&#150;9), 124&#150;43, 144&#150;74; 71/1 (1882&#150;3), 140&#150;43; 97/3 (1888&#150;9), 230&#150;32; obituary volume, 108/1 (1891&#150;2), 406&#150;8 &middot; Institution of Civil Engineers, certificate of associate membership, 12 Jan 1869; certificate of membership, 26 Feb 1878 &middot; <em><i>Birmingham Daily Mail</i></em> (27 Oct 1891) &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Chartered Institution of Building Services Engineers, heritage group
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97873&amp;istheme=&amp;target=U.%20Glas.')">U. Glas.</a>, Archives and Business Records Centre&nbsp;|&nbsp; Birm. CA, contract drawings (municipal buildings)
+   &middot;
+ Cardiff Castle, contract drawings (Castell Coch)
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97873&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, contract drawings (Mount Stuart House)
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97873&amp;istheme=&amp;target=U.%20Glas.')">U. Glas.</a>, contract drawings<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;4331 16<i>s</i>. 0<i>d</i>.: resworn probate, July 1892, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">F. J. Ferris, &#145;<span class="roman"><span class="headword">Phipson,  Wilson Weatherley</span>  (1838&#150;1891)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, May 2009 [http://www.oxforddnb.com/view/article/97873, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Wilson Weatherley Phipson (1838&#150;1891): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/97873 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

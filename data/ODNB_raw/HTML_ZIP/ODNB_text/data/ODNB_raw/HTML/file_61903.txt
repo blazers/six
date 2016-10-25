@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 61903;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/61/61903-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/61/61903-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=61903#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Willes,  Edward</span>  (1694&#150;1773), <span class="occ">bishop of Bath and Wells and cryptanalyst</span>, was born at Bishop's Itchington, Warwickshire, on 6 March 1694, the son of John Willes (1647/8&#150;1700), rector of that parish, and his wife, Anne, daughter of Sir William Walker of Oxfordshire. The judge <script>writeSeealsoLink('../view/article/29443/', "Sir John Willes")</script> was his brother. Educated at Oriel College, Oxford, Willes graduated BA (1712), MA (1715), and BD and DD (1726).<br>
+<br>Willes had two interlacing careers, as an ecclesiastic and as the king's chief &#145;decypherer&#146;, both important, both conscientiously fulfilled, but he has been described as &#145;the only man in history to use crypto-analytic talents to procure ecclesiastical rewards&#146;  (Kahn, 170). He had first learned his decoding skills at Oxford from the brilliant young William Blencowe, Queen Anne's decipherer; there he stayed after graduation to perfect his expertise. In May 1716 his competence, coupled with whig credentials proven in violent clashes with Oxford tories, made him a suitable candidate as decipherer to George I, with a salary of &pound;200 a year. He worked both at home and in the secret office, where duties were enveloped &#145;in clouds and thick darkness&#146; and demanded &#145;very active, laborious and incessant exertion&#146;  (Cassan, 168n.).<br>
+<br>Fluent in Latin, French, Spanish, and Swedish, Willes soon established widespread fame as a highly skilled, meticulous decipherer. In 1716 he intercepted pro-Jacobite messages between Georg Heinrich von G&ouml;rtz, a wily Swedish diplomat, and Count Karl Gyllenborg, his ambassador in London. Willes cracked the code and translated 300 pages of cipher. In January 1717, despite protesting that he enjoyed diplomatic immunity, Gyllenborg was arrested for conspiracy. The government rewarded Willes with the valuable living of Barton in the Clay, Bedfordshire (1718&#150;30). More was to follow. Between 1719 and 1722 he decoded communications between Bishop Francis Atterbury of Rochester and Jacobites abroad. In the ensuing trial Willes was a prime witness, whom Atterbury himself ruthlessly cross-examined. The bishop was convicted and banished. This major coup earned Willes further promotion, a canonry at Westminster (1724&#150;43), followed by the deanery of Lincoln (1730&#150;43), held <i>in commendam</i> with the two prebends of Weston Paynshall (1730&#150;37) and Milton Ecclesia (1737&#150;44). With a salary now of &pound;500 a year his work as government agent in the 1734 Bedfordshire election yielded yet more fruit, including the livings of Bonsall, Derbyshire, and the recently created St John's, Westminster.<br>
+<br>An acknowledged master decipherer, was Willes equally conscientious in his clerical responsibilities or, as Kahn and others infer, merely a political hack looking for ever wealthier preferments? Despite his frequent attendance at the House of Lords, recent research reveals such innuendoes to be false. Though granted the living at Barton for political services he was no absentee; he made the rectory his home, he brought up his family there, and he even purchased its manorial rights, still retained by his family into the late nineteenth century. Furthermore he regularly and conscientiously fulfilled his duties as canon of Westminster and as dean of Lincoln. At Lincoln he worked to heal disputes between bishop's and archdeacons' officials. He was also active with his cathedral's Oxfordshire peculiars, such as Banbury. In June 1738, for example, he planned, with Bishop Secker of Oxford, for a confirmation there. On 2 February 1719 he married Jane (<i>bap</i>. 1695, <i>d</i>. 1771), daughter of Henry White of Oxford, a draper, and they had five sons and four daughters.<br>
+<br>Though apparently in line for a bishopric as early as 1736, Willes realized the impossibility of coping simultaneously with that and the secret office. He refused elevation until 1742, when his eldest son, Edward, was experienced enough to reduce some of the burden. In that year Willes was consecrated bishop of St David's. Nor was his promotion to the wealthier bishopric of Bath and Wells in the following year the result of manoeuvring, for he was the compromise candidate after the first choice had proved politically unacceptable and another had refused.<br>
+<br>Despite help in the secret office from three of his sons&#151;Edward (from 1742), Francis (from 1752), and William (from 1758)&#151;coded missives still arrived at Wells for deciphering during Willes's long episcopate. Nor was he averse to nepotism in the diocese; three of his family, a son and two sons-in-law, became archdeacons of Wells. However, in his episcopal duties, as in the secret office, he was punctilious. He held most of his ordinations (sixty-four out of sixty-seven) in Bath and Wells, not in London, as did some contemporaries. Visitations too, except in old age, he carried out regularly in person. He began restoring the bishop's palace at Wells but had the redundant one at Banwell demolished so that its materials could be used for a school and the local church. Willes died at his London home, near Berkeley Square, on 24 November 1773 and was buried on 1 December in Westminster Abbey.<br>
+<br>William Marshall </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Gibson, &#145;An eighteenth-century paradox: the career of the decipherer-bishop, Edward Willes&#146;, <em>British Journal for Eighteenth-Century Studies</em>, 12 (1989), 69&#150;76 &middot; S. H. Cassan, <i>The lives of the bishops of Bath and Wells</i>, 2 (1829), 166&#150;70 &middot; D. Kahn, <i>The codebreakers</i> (1966), 171&#150;4 &middot; diocesan records presentation MSS, Lichfield RO &middot; bishops' registers, Lincs. Arch., 37&#150;8 &middot; dean and chapter act books, Lincs. Arch., A/3/14 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=61903&amp;istheme=&amp;target=IGI')"><i>IGI</i></a> &middot; J. Le Neve, <i>Fasti ecclesiae Anglicanae</i>, 1.148, 305; 2.36, 188, 232 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=61903&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; G. Hennessy, <i>Novum repertorium ecclesiasticum parochiale Londinense, or, London diocesan clergy succession from the earliest time to the year 1898</i> (1898), 174 &middot; R. M. Hatton, <i>Charles XII of Sweden</i> (1968), 438&#150;9 &middot; R. M. Hatton, <i>Diplomatic relations between Great Britain and the Dutch republic, 1714&#150;1721</i> (1950), 147&#150;9 &middot; K. Ellis, <i>The Post Office in the eighteenth century</i><i>: a study in administrative history</i> (1958), 128&#150;30 &middot; A. P. Jenkins, <i>The correspondence of Thomas Secker, bishop of Oxford, 1737&#150;1758</i> (1991), 4.130&#150;31 &middot; D. M. Barratt, ed., <i>The probate records of the bishop and archdeacon of Oxford, 1516&#150;1732</i>, 1 (1981), ix &middot; W. Gibson, <i>The achievement of the Anglican church, 1689&#150;1800</i><i>: the confessional state in eighteenth-century England</i> (1995)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=61903&amp;istheme=&amp;target=NRA')">NRA</a>, memoranda and corresp.<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Faber junior, mezzotint, 1750 (after T. Hudson), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=61903&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=61903&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; T. Hudson, Bishop's Palace, Wells<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">William Marshall, &#145;<span class="roman"><span class="headword">Willes,  Edward</span>  (1694&#150;1773)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/61903, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Willes (1694&#150;1773): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/61903 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

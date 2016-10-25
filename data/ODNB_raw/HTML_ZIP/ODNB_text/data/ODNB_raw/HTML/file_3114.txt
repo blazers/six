@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 3114;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/3/3114-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/3/3114-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=3114#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Boyd,  Robert</span>  (1808&#150;1883), <span class="occ">physician and asylum superintendent</span>, was born in Ireland. He was educated at Edinburgh University, graduating MD in 1831. He became a member of the Royal College of Surgeons in 1830. In 1836 he was elected a licentiate of the Royal College of Physicians, London, and in 1852 became a fellow. Boyd's early medical career is unclear, but it is likely that he was involved in hospital medicine as he published a number of articles in the 1830s in <span class="italic">The Lancet</span>, <span class="italic">Medical Gazette</span>, <span class="italic">Edinburgh Medical Journal</span>, and the <span class="italic">Provincial Medical and Surgical Journal</span>. By 1836 he appears in the records of the Marylebone guardians as an assistant apothecary at the workhouse infirmary, and would seem to have worked his way up becoming successively house surgeon and, in 1840, resident physician. He took a special interest in the pauper lunatics who were housed in a specialist ward within the workhouse.<br>
+<br>Boyd was an important pioneer of the care of the insane in workhouses at a time when official policy was to move parish paupers into county asylums. In the absence of sufficient space in the county asylum at Hanwell he demonstrated that it was possible to run an effective lunatic ward within a workhouse infirmary setting, thus obviating the need to move patients far away from their local area. This post also provided plentiful opportunities for general clinical experience. In 1840 for example he applied to the board of guardians for permission to use a small room adjoining the boys' bathroom for the purpose of trying scientific experiments. In a later paper on tumours of the brain Boyd commented that he had been present at 1039 post-mortems at Marylebone. During the 1840s he was also listed as a lecturer in medicine, and by this period had married Isabella (<i>b</i>. 1814), herself from Ireland, and together they had two sons and four daughters.<br>
+<br>In 1849, as a result of his experience at Marylebone workhouse, which contained almost 2000 inmates, Boyd became superintendent and physician to the new county asylum at Wells, in Somerset, a post he held until 1868. This post provided an ideal opportunity for Boyd to further his keen interest in pathological medicine. Like many superintendents, though, he found the bureaucratic aspects of the job, and opposition to local initiative from the central lunacy commission, frustrating. In 1859 for example he and the county asylum visiting magistrates petitioned the commissioners unsuccessfully for permission to create a special asylum for epileptic patients, who constituted over 13 per cent of all inmates at Somerset. He wanted further specialist facilities created for other categories of mentally ill people so that their illnesses could be studied more carefully. From 1869 until 1875 Boyd was living in Bolton Row, Mayfair, in private practice, but he then became proprietor and physician of Southall Park private asylum.<br>
+<br>Boyd was interested in medical politics and was a member of the Medico-Psychological Association. In 1870 he was elected president and took the opportunity to remind members of the importance of workhouse infirmaries as a source of learning in morbid anatomy and insanity for students. Unlike many hospitals which had selective admission criteria, workhouses took patients with most diseases. This might well have applied to patients with general paralysis of the insane about whom he wrote a landmark article the following year, identifying that it was as much a disease of the general nervous system as of the brain. Using evidence from 924 deaths at Somerset Asylum, of whom 162 (18 per cent) had the disease, Boyd did 155 post-mortems, establishing a 4:1 ratio of men to women, and finding evidence of similar changes in the spinal cord and brain. In 1873 Boyd's commitment to pathological medicine led him to support a move to remove Henry Maudsley from the editorship of the <span class="italic">Journal of Mental Science</span>. Maudsley's degenerationist ideas and pessimism had led him to denigrate colleagues' research and the resulting treatments. When Harrington Tuke was made president that year Boyd proposed that editorship of the association's journal should become a function of the presidency which would have ousted Maudsley from a position in which he had been able to promote his ideas.<br>
+<br>Like most asylum superintendents Boyd published annual reports with statistics of the establishments he managed, but he also contributed a number of other important papers to the literature of pathology and psychological medicine. He produced sixteen articles for the <span class="italic">Journal of Mental Science</span> including &#145;Statistics of pauper insanity&#146;, &#145;Diseases of the nervous system&#146;, and &#145;Treatment of the insane poor&#146;, several of which were related to mental health policy. His earlier medical papers included pioneer work on comparative measurement of the weight of different body organs at different ages, and more especially of the brain.<br>
+<br>Boyd, like most Victorians, had a range of private interests. He was a fellow of the Zoological Society and pursued antiquarian studies. In the 1860s he corresponded with the Revd George Gordon, an old university friend, on the subject of Roman coins and pottery. Boyd had a robust and powerful physique, was reserved and taciturn in nature, and in speech was steady, weighing his words carefully. He was a popular man, noted for his kindness, and his general regard for patients. On 14 August 1883, together with one of his sons, Captain William Boyd, two patients, and the cook, he tragically lost his life in a fire at his private asylum, while going back into the building to save the inmates.<br>
+<br>Nick Hervey </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3114&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (18 Aug 1883), 353 &middot; directors and guardians' minutes, Marylebone, LMA, P89/MRY 1/523&#150;529 &middot; <em>The Lancet</em> (25 Aug 1883), 352&#150;3 &middot; <em>Medical Registers</em> (1848&#150;83) &middot; d. cert. &middot; census returns, 1881 [Robert Boyd and Isabella Boyd]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Elgin Museum, Elgin, Moray, letters to George Gordon<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;7456 1<i>s</i>.: probate, 13 Sept 1883, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Nick Hervey, &#145;<span class="roman"><span class="headword">Boyd,  Robert</span>  (1808&#150;1883)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/3114, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Boyd (1808&#150;1883): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/3114 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

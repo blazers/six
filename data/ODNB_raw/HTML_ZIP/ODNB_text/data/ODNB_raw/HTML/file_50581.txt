@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50581;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50581-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50581-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50581#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Otterbourne,  Thomas</span>  (<em>fl. </em><em>c.</em>1340&#150;1346), <span class="occ">historian</span>, is thought to have been a member of the Franciscan order. He has sometimes been confused with his namesake, <script>writeSeealsoLink('../view/article/20937/', "Thomas Otterbourne (fl. 1420)")</script>. A man of that name was sixty-fifth lector in divinity at Oxford <i>c</i>.1340, had graduated DTh at Oxford by September 1343, and was licensed to hear confessions in the archdeaconry of Durham by Bishop Bury on 21 September 1343. From his name, and the diocese in which he was licensed, he was probably a native of north-east England.<br>
+<br>Otterbourne's historical importance lies in his probable authorship of the continuation from 1297 of a Franciscan chronicle, now lost, but known in the sixteenth century as the chronicle of Richard of Durham. This chronicle was the source on which the Lanercost chronicler drew for much of his material; indeed, the Lanercost chronicle, which survives in only one manuscript, BL, Cotton MS Claudius D.vii, is in large part an adaptation of Richard of Durham's chronicle. In all probability the author of the Anonimalle chronicle of St Mary's Abbey, York, also made use of the continuation of Richard of Durham's chronicle. The evidence for Otterbourne's authorship of that continuation is provided by Sir Thomas Grey (<i>d</i>. 1369). In the prologue to his <span class="italic">Scalacronica</span> Grey states that he had made use of a chronicle by Thomas Otterbourne, a Franciscan friar and Oxford doctor of divinity. Although Grey does not say that Otterbourne had lived in Carlisle, it is unlikely that there were two Franciscan chroniclers writing in the far north of England at much the same time, and on the basis of Grey's evidence modern scholars have identified the author of the continuation of Richard of Durham with Otterbourne.<br>
+<br>The section of what is now the Lanercost chronicle from 1297 to 1346 was written by an author interested in the history of the north of England in the first half of the fourteenth century, who shows particular knowledge of events in and around Carlisle. He gives a vivid account of the siege of Carlisle by the Scots in 1315, and a detailed and sympathetic description of the treason and execution of Andrew Harclay, earl of Carlisle, early in 1323. The warden of the Franciscan house in Carlisle heard Harclay's confession before his execution. His knowledgeable accounts of military matters have led to suggestion that the author may have been a knight before entering the Franciscan order. He writes about national politics in Edward II's reign from a pro-baronial standpoint, and shows little respect for Edward II, criticizing him for pursuing in his youth &#145;pointless and trivial occupations unsuitable for the son of a king&#146;  (<span class="italic">Chronicon de Lanercost</span>, 236). He also shows an interest in the history of the Franciscan order, and he observes, in discussing the deposition of Edward II, that Queen Isabella held the order in high regard.<br>
+<br>Anthony Tuck </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Stevenson, ed., <i>Chronicon de Lanercost, 1201&#150;1346</i>, Bannatyne Club, 65 (1839) &middot; <i>Scalacronica, by Sir Thomas Gray of Heton, knight</i><i>: a chronical of England and Scotland from <span class="smallcap">AD</span> MLXVI to <span class="smallcap">AD</span> MCCCLXII</i>, ed. J. Stevenson, Maitland Club, 40 (1836) &middot; V. H. Galbraith, ed., <i>The Anonimalle chronicle, 1333 to 1381</i> (1927) &middot; W. R. Childs and J. Taylor, eds., <i>The Anonimalle Chronicle, 1307 to 1334</i><i>: from Brotherton collection MS 29</i>, Yorkshire Archaeological Society, 147 (1991) &middot; J. S. Brewer, ed., <i>Monumenta Franciscana</i>, 1, Rolls Series, 4 (1858) &middot; A. Gransden, <i>Historical writing in England</i>, 2 vols. (1974&#150;82) &middot; A. G. Little, &#145;The authorship of the Lanercost chronicle [pt 1]&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50581&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 31 (1916), 269&#150;79 &middot; H. Summerson, <i>Medieval Carlisle</i><i>: the city and the borders from the late eleventh to the mid-sixteenth century</i>, 2 vols., Cumberland and Westmorland Antiquarian and Archaeological Society, extra ser., 25 (1993) &middot; J. Taylor, <i>English historical literature in the fourteenth century</i> (1987)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50581&amp;istheme=&amp;target=BL')">BL</a>, Cotton MS Claudius D.vii<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Anthony Tuck, &#145;<span class="roman"><span class="headword">Otterbourne,  Thomas</span>  (<em>fl. </em><em>c.</em>1340&#150;1346)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50581, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Otterbourne (<em>c.</em>1340&#150;1346): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50581 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

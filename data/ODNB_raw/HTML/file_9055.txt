@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9055;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9055-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9055-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9055#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Fatio,  Nicolas, of Duillier</span>  (1664&#150;1753), <span class="occ">mathematician and natural philosopher</span>, was born at Basel on 16 February 1664, the second son and seventh child of Jean-Baptiste Fatio (1625&#150;1708) and his wife, Catherine (<i>d</i>. 1692), daughter of Gaspard Barbaud.<h2>
+<a name="Abroadeducation"></a>A broad education</h2>Fatio was educated initially at home, where he learned Latin and Greek, and later at Geneva, where he was enrolled at the academy from 1678 to 1680 and learned some Hebrew, as well as following courses in philosophy, mathematics, and astronomy, probably under the direction of Jean-Robert Chouet. Disagreement between his father, who intended him for the church, and his mother, who wished him to serve in a protestant court in Germany, allowed Fatio to choose his own course. He applied himself to natural philosophy, and was not yet eighteen when he wrote to Jean Dominique (Giandomenico) Cassini about the rings of Saturn, the size of the sun and the moon, and their distance from the earth. With the help of Chouet and of the Abb&eacute; Nicaise, Fatio was able to travel to Paris in order to work together with Cassini. He stayed there between spring 1682 and October 1683, and witnessed Cassini's first observations of zodiacal light. Fatio carried out further work on this phenomenon during 1684, after his return to Geneva, and located its position in the plane of the ecliptic. His modifications to Cassini's ideas were first reported by Chouet in <span class="italic">Les Nouvelles de la R&eacute;publique des Lettres</span> (March 1685), and published in full as <span class="italic">Lettre &agrave; Monsieur Cassini touchant une lumi&egrave;re extraordinaire qui paro&icirc;t dans le ciel depuis quelques ann&eacute;es</span> (Amsterdam, 1686). He was keen to point out that the light that he and Cassini had observed need not be a transient phenomenon, but might be as old as creation, and was aware of the difficulty of resolving his findings about the refraction of the sun's light with Cartesian theory.<br>
+<br>Fatio's notebooks from this period demonstrate the precocious range of his interests in astronomy, mathematics, optics, fortification, and medicine, and his awareness of the work of Galileo and Descartes. They show him designing observatories, scientific instruments, and machines; studying the anatomy of the eye; describing insects; and devising remedies. Although they anticipated some of the philosophical concerns that continued to occupy Fatio for much of the rest of his life, they indicate his desire at this stage to place the study of nature within an orthodox and rational theological context. In addition to the scientific activities testified to by his notebooks, Fatio undertook a survey of Mont Blanc, along with his elder brother, <a href="#cosubject_9055">Jean-Christophe [<i>see below</i>]</a>, taking trigonometrical measurements of the mountain between July and September 1685.<br>
+<br>While staying in Geneva during 1684 and 1685, Fatio became acquainted with Fenil, a renegade Piedmontese count who shared with him the secret of a plan that he had made to win back the favour of Louis XIV, whom Fenil had offended. This involved a daring plot to seize William, prince of Orange, by means of a raiding party that would land on the beach at Scheveningen, where the prince habitually took the sea air unguarded, kidnap him, and spirit him away in a boat to Dunkirk. Fearing for the life of the prince, and, no doubt, seeing an opportunity for patronage, Fatio resolved in the spring of 1686 to travel to the Netherlands in the company of Gilbert Burnet, whose acquaintance he had already made in Geneva, in order to give warning of the scheme. Between them, Burnet and Fatio duly convinced William and the states of Holland of the reality of the threat, so that a permanent guard was placed around the prince. Concrete rewards for Fatio's action were slow in coming, though his name was canvassed for a post at the University of Leiden and in connection with a planned mathematical professorship for the instruction of the nobility and gentry of Holland.<h2>
+<a name="AcquaintancewithIsaacNewton"></a>Acquaintance with Isaac Newton</h2>Despite delays in finding a suitable position, Fatio's journey to the Netherlands was not entirely without fruit for him. While he was there he oversaw the publication of his letter to Cassini, and cultivated the acquaintance of Christiaan Huygens. Prompted by the receipt of several publications by Ehrenfried von Tschirnhaus, Huygens encouraged Fatio to begin work on the problem of calculating the tangents of curved lines, on which subject Fatio published an article in the <span class="italic">Biblioth&egrave;que Universelle et Historique</span> in April 1687, initiating an exchange with Tschirnhaus. At the end of the spring, Fatio left for England, where, in June 1687, he attended a number of meetings of the Royal Society, to which he was introduced on the authority of Henri Justel. There he picked up rumours of a new book, Isaac Newton's <span class="italic">Principia</span>, which he soon communicated to Huygens, remarking that &#145;ils m'ont reproch&eacute; que j'&eacute;tois trop Cartesien, et m'en fait entendre que, depuis les meditations de leur auteur, toute la physique &eacute;toit bien chang&eacute;e&#146; (&#145;they have reproached me with being too Cartesian, and made me to understand that, following the meditations of their author, all physics has been completely altered&#146;; letter to Huygens, 14 June 1687, <span class="italic">Christiani Hugenii aliorumque seculi XVII virorum celebrium exercitationes mathematicae et philosophicae ex manuscriptis in bibliotheca academiae Lugdono-Batavae</span>, ed. P. J. Uylenbroek, 2 vols., The Hague, 1833, 2.99).<br>
+<br>During the winter of 1687, Fatio retreated to Oxford, where he made the acquaintance of Edward Bernard, Savilian professor of astronomy, for whom he wrote an account of the bronze seal located in the temple of Solomon  (<span class="roman">1 Kings</span> 7:23&#150;6). The following year, Fatio was again in London, earning money by acting as a tutor, and on 2 May 1688 he was admitted as a fellow of the Royal Society. By now, he had corresponded extensively with Huygens on the subject of Newton's theories of gravity, and on 26 February 1690 he read his own account of the cause of gravity to the Royal Society. Fatio was thus already in contact with a number of English virtuosi, and was able to strengthen his reputation during Huygens's visit to London in the summer of 1689. He was also beginning to receive limited patronage from several leading whig politicians, notably John Hampden, as might be expected given his services to the house of Orange. With Hampden he worked to secure the employment of Swiss guardsmen, formerly in the pay of Louis XIV, in English and later in Dutch service. On 10 July 1689 Fatio joined Huygens and Hampden in recommending Newton for the headship of a Cambridge college, reinforcing his acquaintance with the author of the <span class="italic">Principia</span>. For a while, Fatio continued to regard Huygens as his intellectual patron, and helped to distribute presentation copies of his <span class="italic">Trait&eacute; de la lumi&egrave;re</span> in England in 1690. However, when he returned to England in the autumn of 1691, after a stay in the Netherlands as a tutor to Hampden's nephew, his friendship with Newton came to predominate.<br>
+<br>Fatio was Newton's closest friend in the eighteen months prior to the latter's breakdown in the summer of 1693, which, though it is unlikely to have been provoked by the intensity of their relationship, certainly led to a cooling between them. The two men collaborated extensively on alchemical investigations, and Fatio was able to introduce Newton to a range of literature in French, which he translated for him. Newton was certainly interested in Fatio's ideas about a mechanical cause of gravity, even if he later disparaged them in conversation with David Gregory, and he permitted Fatio free access to his mathematical papers. As a result, Fatio was able to communicate a list of corrections to the <span class="italic">Principia</span> to Huygens, who sent them in turn to Leibniz, who allowed Johann Groening to publish them in 1701. Fatio had been one of the first attentive readers of the <span class="italic">Principia</span>, and, as early as March 1690, he had intended to add corrections from Newton's manuscripts to those that he had himself made in his own copy of the book. By the end of 1691, Fatio had despaired of convincing Newton to undertake a new edition of the work himself but entertained the thought of producing a corrected, folio version, with Newton's help, over the next two to three years. He appears to have worked extensively on this project between November 1691 and April 1692, intending to add a preface to the <span class="italic">Principia</span> that would explain Newton's system of gravity, perhaps through the application of his own ideas.<br>
+<br>Newton also helped Fatio to develop his interests in biblical criticism, especially in the interpretation of the language of prophecy. He offered him financial support as well, and encouraged him to come to live in Cambridge, in order to mend his health. Yet Fatio, who was always proud of his own standing as a natural philosopher, was careful not to allow the relationship to become completely one-sided. He continued to seek academic preferment outside England, notably in Amsterdam, and to resist inducements that would have made him in effect Newton's amanuensis. By the summer of 1694, Fatio had found another patron, and was living at Woburn Abbey as a tutor to the duke of Bedford's son Wriothesley Russell, a position for which he had sought the backing of his friend John Locke. He remained in the duke of Bedford's service for some time, accompanying his pupil in his studies at Oxford and, 1697&#150;8, in the Netherlands.<h2>
+<a name="Otherpracticalendeavours"></a>Other practical endeavours</h2>By 1693 Fatio had also begun a long association with the watchmakers Peter and Jacob Debaufre, and showed a pendulum watch with a spiral spring of their manufacture at the Royal Society on 1 November. Together with the Debaufres, Fatio pioneered techniques for drilling precious stones, particularly rubies, and applying them to watch and clock mechanisms, for which he won a patent (no. 371) in 1704. Newton tested the accuracy of one of Fatio's watches, and its susceptibility to cold, in December that year. The watches were exhibited at the Royal Society in March 1705, and advertised as being accurate enough to determine latitude at sea. Opposition from the Clockmakers' Company, however, prevented the extension of Fatio's patent beyond its initial fourteen years.<br>
+<br>Fatio pursued other natural philosophical and practical endeavours alongside his activities as a tutor. Influenced by John Evelyn's translation of the writings of Jean de la Quintinie, Fatio explored the effects of the use of sloping surfaces to maximize the sun's heat for plants growing upon them. He directed the building of such a sloping wall for fruit trees at Belvoir Castle, and, in 1697, composed the text of <span class="italic">Fruit-Walls Improved</span> (1699). Here he remarked on changes in the weather since 1683, which he attributed to a decline in the incidence of sunspots and the consequent dispersal of a mist between the sun and the earth. Fatio's interest in the physical processes by which the sun's heat could be transmitted was linked to his earlier explanations of zodiacal light, to his ongoing work on the cause of gravity, and to his later investigations, in the years around 1705, of the paths of comets and the nature and prophetic interpretation of the aurora borealis. For all of these phenomena Fatio offered a mechanical explanation in terms of the motion of tiny particles and their effects, yet he was also influenced by Newton's ideas about the importance of comets and other celestial bodies in providing nourishment to the earth. In particular he believed that God had constructed nature as a self-sustaining system, which demonstrated his general providence, an idea that also informed Fatio's work on the reduction of the effects of friction in clock movements and his long-standing interest in perpetual motion machines.<br>
+<br>A companion to <span class="italic">Fruit-Walls Improved</span> was Fatio's <span class="italic">Lineae brevissimi descensus investigatio geometrica duplex</span> (1699), a discussion of the attempts made to solve the problem of determining the curve linking any two points, not in the same vertical line, along which a body would most quickly descend from the higher to the lower point. The brachistochrone problem was originally posed in June 1696 by Johann Bernoulli, and was solved almost immediately by Leibniz, the marquis de l'H&ocirc;pital, and, most successfully, Newton. In his book Fatio, as well as drawing attention to the significance of his own progress towards the calculus in 1687, stressed Newton's priority in reaching a full understanding of the technique, thus criticizing the claims of Leibniz. Along with several others, Fatio had pressed Newton to publish his work on the calculus throughout the 1690s; now he initiated a long-running controversy over priority. The first exchanges took place in the <span class="italic">Acta Eruditorum</span>. There, in 1699, Bernoulli reviewed Fatio's book in a hostile manner; the following year, Leibniz attacked Fatio's interpretation of the history of the invention of the calculus; finally, in 1701, the editors printed an abbreviated reply by Fatio to his critics. The debate continued in letters between Fatio and Jakob Bernoulli, in which Fatio also passed on his ideas about gravity. Fatio's final contribution to the controversy came in a letter to his brother concerning the solid of least resistance, which was published in the Royal Society's <span class="italic">Philosophical Transactions</span> in 1713.<h2>
+<a name="Morecontinentaljourneys"></a>More continental journeys</h2>Fatio travelled to Switzerland in 1699, and remained at Duillier, where he was reconciled to his father, until 1701. There he worked on his theory of gravity, refining his ideas about the effect that streams of fast-moving minute particles might have on larger bodies that were mainly composed of empty space. He also surveyed the mountains around Lake Geneva in company with his brother, Jean-Christophe, and deepened his knowledge of the prophetic texts of the <span class="roman">Bible</span>. Following his return to England, he lived in London, working as a mathematical tutor in Spitalfields, where, in the summer of 1706, he encountered the Camisard, or French, prophets Durand Fage, Jean Cavalier, and Elie Marion. Fatio attended their assemblies and began acting as one of their scribes, recording during their periods of inspiration their words and actions, which carried a millenarian message of impending destruction and judgment. He reported on the motives and activities of the French prophets to both David Gregory and Newton.<br>
+<br>The French prophets aroused the suspicion of the more orthodox refugee churches in London, and various attempts were made to suppress their activities. These came to a head on 4 July 1707 with the trial at queen's bench of Fatio, Marion, and Jean Daud&eacute;. On 22 November a second jury convicted the men of publishing a seditious work, and on 1 and 2 December they were paraded before the mob on the scaffold at Charing Cross. The duke of Ormond, to whose brother, the earl of Arran, Fatio had once been tutor, ensured that guards protected them from excessive injury. In March 1708 Fatio participated in the French prophets' mission to Colchester, and, in June 1711, he finally left London as one of their emissaries to the continent, seeking to establish a new series of protestant alliances and to warn of the coming apocalyptic struggle. He and his accomplices travelled to Berlin, and thence to Halle and Vienna. On a second mission in 1712&#150;13 they visited Stockholm, Prussia, Halle, Constantinople, Smyrna, and Rome.<br>
+<br>Fatio then remained in the Netherlands for some time, completing accounts of the missions that he had undertaken with his companions and of the prophecies that had accompanied them. Several of these were published, in French and Latin, in 1714. Afterwards, he returned to London, where he continued to communicate material to the Royal Society, and to work on meteorological phenomena that could be assimilated to his prophetic schemes. In 1717 he gave a series of papers on the precession of the equinoxes and on climatic change. By the spring of that year he had moved to Worcester. He passed the remainder of his life in that city and nearby at Madresfield.<br>
+<br>Fatio continued to work on perpetual motion and to design watches (including one for Richard Bentley) in collaboration with Benjamin Steele. He also pursued his interests in alchemy and medicine, in conjunction with Francis Moult, and communicated his discovery of a salt that he hoped would prove to be &#145;the true Niter of the Ancients&#146; to the younger Francis Hauksbee in 1737  (BL, Add. MS 28536, fol. 238). He developed his ideas on the use of jewelled watches to find latitude at sea in <span class="italic">Navigation Improv'd</span> (1728), hoping to extend his work to longitude, and vainly seeking royal patronage for it. He advised John Conduitt on the design of Newton's monument in Westminster Abbey, and composed in Latin <span class="italic">Ecloga</span> (1728) on Newton and his system, which returned to some of the themes of his own theory of gravity. He came to believe that his own work on gravity, on solar parallax, and on the relative sizes of the planets of the solar system corrected and surpassed that of Newton. In 1736 he published a series of articles in the <span class="italic">Present State of the Republick of Letters</span> and the <span class="italic">Gentleman's Magazine</span> on the proper interpretation of the poetry of the <span class="roman">Psalms</span> and their translation. From 1737 to 1738 the <span class="italic">Gentleman's Magazine</span> carried a series of letters from Fatio about his ideas in astronomy. Throughout this period, he continued to maintain contact with associates of the French prophets&#151;for example founding the unsuccessful York Buildings Company with some of them about 1730&#151;and to record and interpret dreams and providences. He died at Worcester, and was buried there in the church of St Nicholas on 28 April 1753.<br>
+<br>His elder brother, <a name="cosubject_9055"></a><span class="headword">Jean-Christophe Fatio of Duillier</span>  (1659&#150;1720)<span class="occ"></span>, was born at Belfort in 1659, and on 14 October 1708 married Catherine Gassaud (<i>d</i>. 1752). He assisted Nicolas's natural philosophical investigations in and around Geneva, and corresponded extensively with him about gravity. He was elected a fellow of the Royal Society on 3 April 1706, and published an account of an eclipse of the sun, observed at Geneva on 12 May of that year, in the <span class="italic">Philosophical Transactions</span>. He made observations of the moon and of extremes of climate, which his brother communicated to the Royal Society. From 1709 to 1710 he worked on a map of Geneva and the surrounding area, and by 1712 had begun composing a philosophical treatise on matter, extension, void, and God. He managed his estates at Duillier, and a press and bookshop that his father had established there and in Geneva. He was skilled in mechanics, surveying, and mathematics, but, his father having neglected his education, knew only a little Latin. He died at Geneva on 18 October 1720.<br>
+<br>Scott Mandelbrote </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. A. Domson, <i>Nicolas Fatio de Duillier and the prophets of London</i> (1981) &middot; H. Schwartz, <i>The French Prophets</i><i>: the history of a millenarian group in eighteenth-century England</i> (1980) &middot; B. Gagnebin, ed., &#145;De la cause de la pesanteur: m&eacute;moire de Nicolas Fatio de Duillier pr&eacute;sent&eacute; &agrave; la Royal Society le 26 f&eacute;vrier 1690&#146;, <em>Notes and Records of the Royal Society</em>, 6 (1948&#150;9), 105&#150;60 &middot; journal books, RS, vols. 7&#150;14 &middot; W. Seward, ed., <i>Anecdotes of some distinguished persons</i><i>: chiefly of the present and two preceding centuries</i>, 2nd edn, 4 vols. (1795&#150;6), vol. 4, pp. 419&#150;42 &middot; <i>&#338;uvres compl&egrave;tes de Christiaan Huygens</i>, ed. Soci&eacute;t&eacute; Hollandaise des Sciences, 22 vols. (1888&#150;1950), vols. 9&#150;10, 20&#150;22 &middot; <i>The correspondence of Isaac Newton</i>, ed. H. W. Turnbull and others, 2&#150;7 (1960&#150;77) &middot; Biblioth&egrave;que Publique et Universitaire, Geneva, Fatio MSS, MSS fran&ccedil;ais 601&#150;610 &middot; Biblioth&egrave;que Publique et Universitaire, Geneva, Jallabert MSS, 41 and 47 &middot; W. G. Hiscock, <i>David Gregory, Isaac Newton and their circle</i> (1937) &middot; <i>Reasons of the English watch and clockmakers against the bill to confirm the pretended new invention of using precious and common stones about watches, clocks, and other engines</i> [1704] &middot; RS, MS 64 &middot; J.-A. Galiffe, <i>Notices g&eacute;n&eacute;alogiques sur les familles Genevoises</i>, ed. A. Galiffe, 2nd edn (1908), 4.193&#150;4 &middot; V. Green, <i>The history and antiquities of the city and suburbs of Worcester</i>, 2 (1796), 94 &middot; C. Le Fort and others, eds., <i>Le livre du recteur</i><i>: catalogue des &eacute;tudiants de l'Acad&eacute;mie de Gen&egrave;ve, de 1559 &agrave; 1859</i> (Geneva, 1860), 170 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 28536<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Biblioth&egrave;que Publique et Universitaire, Geneva, MSS, MS fran&ccedil;ais 601&#150;10
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 4163, 28536
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=DWL')">DWL</a>, MSS 24.33&#150;34
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=RS')">RS</a>, MS 64&nbsp;|&nbsp; Biblioth&egrave;que Nationale, Paris, Nicaise corresp., MS Nouvelles Acquisitions Fran&ccedil;aises 4218
+   &middot;
+ Biblioth&egrave;que Publique et Universitaire, Geneva, MSS Jallabert 41, 47
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=BL')">BL</a>, MSS Sloane 4043, 4055
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Locke c.8
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Rawl. letters 109
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=Kings%20Cam.')">King's Cam.</a>, MS Keynes 96
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9055&amp;istheme=&amp;target=RS')">RS</a>, MS Boyle letters, vol. 3<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> pastel drawing, Biblioth&egrave;que Publique et Universitaire, Geneva, Switzerland [<i>see illus.</i>]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Scott Mandelbrote, &#145;<span class="roman"><span class="headword">Fatio,  Nicolas, of Duillier</span>  (1664&#150;1753)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, April 2016 [http://www.oxforddnb.com/view/article/9055, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Nicolas Fatio of Duillier (1664&#150;1753): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9055 
+                <br />
+
+                
+
+ Jean-Christophe Fatio of Duillier (1659&#150;1720): doi:10.1093/ref:odnb/9055<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/9055/2016-04"> [Previous version of this biography available here: April 2016]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

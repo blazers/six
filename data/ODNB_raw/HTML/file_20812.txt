@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20812;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20812-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20812-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20812#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Orderic Vitalis</span>  (1075&#150;<em>c.</em>1142), <span class="occ">Benedictine monk and historian</span>, was the son of Odelerius d'Orl&eacute;ans, son of Constantius, and of an English mother. His childhood was passed in or near Shrewsbury, but he was sent aged ten to become an oblate monk in the Norman monastery of St Evroult where he spent the rest of his life, and where he was given the name of Vitalis. He ordinarily referred to himself as Vitalis the Englishman, though he is known to historians as Orderic Vitalis. His great work, the <span class="italic">Ecclesiastical History</span>, completed in 1141, is of exceptional value for the history of the Anglo-Norman world.<br>
+<br>Orderic was born near Shrewsbury on 16 February 1075 and was baptized at Atcham, on 4 April 1075, by a priest who gave the child his own name, Orderic. His father, Odelerius, had come to England as a chaplain influential in the service of Roger de Montgomery, earl of Shrewsbury from 1074 to 1094, and successfully urged on his master the foundation of Shrewsbury Abbey. Odelerius was firmly committed to the cause of Benedictine monasticism. He gave generously to the new abbey, and both his second son, Benedict, and Odelerius himself became monks there, while his third son, Everard, was a tenant of the abbey. At the age of five Orderic, the eldest son, was sent to school in Shrewsbury to be taught by an English priest, Siward, and then, aged ten, was sent by his father in 1085 to the monastery of St Evroult, which had been refounded in 1050. In the deeply felt epilogue to his <span class="italic">Ecclesiastical History</span> Orderic wrote of never having seen his father again and having left his country, family, and friends for exile, ignorant of French. He never mentioned his mother, presumably because he was troubled by his father's having been a married clerk.<br>
+<br>Orderic was tonsured on 21 September 1085, ordained subdeacon on 15 March 1091, deacon on 26 March 1093, and priest on 21 December 1107. When he laid down his pen in 1141 he had spent fifty-six years in St Evroult, never holding administrative office, though he probably came to be in charge of the library. He made occasional journeys, on one occasion to Crowland where he spent five weeks, and it may have been then that he visited Thorney and Worcester. He visited Cambrai, was almost certainly present at the Council of Rheims in 1119, and attended the general chapter at Cluny in 1132. The chief formative influences on Orderic were the teaching of Jean de Rheims, his master in the abbey school whom he so deeply respected, and above all his own extensive reading and work as an accomplished scribe copying manuscripts. From 1095 to <i>c</i>.1114 he was learning his craft as a historian. He compiled the annals of St Evroult from 1095, and he made his own copy of the <span class="italic">Gesta Normannorum ducum</span> of William of Jumi&egrave;ges, revising it, adding an account of the Normans in southern Italy, and virtually rewriting the narrative of the Norman conquest of England, quietly correcting the bias of a work that had originally been dedicated to William the Conqueror. Orderic also made his own copy of Bede's <span class="italic">Ecclesiastical History of the English People</span>, a work that had the deepest influence on Orderic's outlook and ambitions as a historian, and which may well have led Orderic to call his own major work the <span class="italic">Ecclesiastical History</span>.<br>
+<br>In its final form the <span class="italic">Ecclesiastical History</span> consists of thirteen books which occupied Orderic for over quarter of a century, from <i>c</i>.1114 to 1141. Its structure is complex. It began as what Orderic called &#145;a little work&#146; on the history of St Evroult from its refoundation <i>c</i>.1050, commissioned by Roger du Sap, abbot from 1091 to 1123. It was designed, like so many such works, to provide a record of the founders, benefactors, abbots, and properties of the house. At an early point Orderic glanced at the possibility of a great history centred on William the Conqueror and his family, regretfully dismissing it as unsuitable for a cloistered monk. But even within book 3, the first to be written, Orderic suddenly took up the story of the Norman conquest without apology or explanation. Orderic spent at least ten years on book 3, but under Abbot Warin des Essarts (1123&#150;37) the pace of his work was quickened and its scope widened. By <i>c</i>.1130, in books 4, 5, and 6, Orderic had combined the history of his abbey with the story of Norman achievements down to 1083. In seven further books he dealt with events of his own lifetime down to 1141, writing rapidly and at times in a mood of exhilaration, as when he described himself as having left the subject of St Evroult and having &#145;surveyed the wide kingdoms of the world as one caught up in a trance, flying hither and thither&#146;  (Ordericus Vitalis, <span class="italic">Eccl. hist.</span>, 4.337). Elsewhere he described his own part of the world, as distinct from the kingdom of Jerusalem, as Italy, Gaul, Spain, England, and Flanders. The structure of the history was further modified and sometimes enlivened by digressions such as that on the history of the archbishops of Rouen, the legend of the Turkish princess who organized the release of Bohemond from captivity, the prophecies of Merlin, Spanish history, and a judicious treatise on the new monastic orders. At a late stage books 1 and 2 were compiled in order to convert the whole work into a universal history beginning with the birth of Christ.<br>
+<br>Orderic's expressed aims were unexceptionable and sincere. He was, he told his readers, concerned with the simple truth, impartial between English and Normans, looking for no rewards from victors or vanquished, and while he would have preferred edifying subject matter, he had to recognize that miracles had ceased and that his task was to describe the follies, fashions, and disputes of men as they were and not as he would have had them be. It is easy to criticize his practice. He copied earlier writers extensively, had no consistent principles of selection or arrangement, and was remarkably careless of chronology, even of events in his own lifetime. But his history remains of inestimable value for the range, variety, and volume of the information he acquired, and above all for his knowledge and understanding of the lay aristocracy of his day, often expressed in the many imaginary speeches and dialogues he composed.<br>
+<br>When Orderic wrote the very moving epilogue to his work in 1141, shortly before he died, his ordered Anglo-Norman world had disintegrated after the death of his hero, Henry I, the architect of peace and justice. He had been unable to bring himself to record what he regarded as the useless proceedings of the Lateran Council of 1139. Perhaps this sense of the end of an era partly explains the virtual neglect of Orderic's history until it was printed by Duchesne in 1619. But if Orderic was unlucky in failing to attract the readers for whom he had hoped, he was fortunate in the survival of his own autograph manuscripts for all but books 7 and 8, for which there is an incomplete twelfth-century transcript by a Caen scribe. In the mid-nineteenth century justice was at last done in the great edition of the <span class="italic">Ecclesiastical History</span> by A. Le Pr&eacute;vost, assisted by L. Delisle. In the second half of the twentieth century M. Chibnall made this the basis of her own edition, a definitive work of outstanding scholarship, especially effective in relating Orderic to the varied beliefs, prejudices, and passions of his age. One result of the revival of interest in Orderic was the erection of a statue to him in 1912 on the site of the church in St Evroult. Another, some scholars have suggested, was that Orderic has been allowed too much influence on the interpretation of the past, since he had almost single-handedly created a Norman &#145;myth&#146;, imposing on the evidence his thesis of the unity of the Normans and their destiny as a conquering and colonizing people. Orderic himself, it may be surmised, would have been gratified by the statue, but dismayed by the charge that he, an Englishman and a conservative of a compassionate temperament, had been a propagandist for men whose cruelties and oppressions he had so often condemned.<br>
+<br>J. O. Prestwich </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20812&amp;istheme=&amp;target=Ordericus%20Vitalis%2C%20Eccl.%20hist.')">Ordericus Vitalis, <i>Eccl. hist.</i></a> &middot; M. Chibnall, <i>The world of Orderic Vitalis</i> (1984) &middot; <i>The Gesta Normannorum ducum of William of Jumi&egrave;ges, Orderic Vitalis, and Robert of Torigni</i>, ed. and trans. E. M. C. van Houts, 1, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20812&amp;istheme=&amp;target=OMT')">OMT</a> (1992) &middot; A. Gransden, <i>Historical writing in England</i>, 1 (1974) &middot; R. H. C. Davis, <i>The Normans and their myth</i> (1976) &middot; G. A. Loud, &#145;The <i>Gens Normannorum</i>&#151;myth or reality?&#146;, <em>Anglo-Norman Studies</em>, 4 (1981), 104&#150;16<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. O. Prestwich, &#145;<span class="roman"><span class="headword">Orderic Vitalis</span>  (1075&#150;<em>c.</em>1142)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2006 [http://www.oxforddnb.com/view/article/20812, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Orderic Vitalis (1075&#150;<em>c.</em>1142): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20812 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/20812/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

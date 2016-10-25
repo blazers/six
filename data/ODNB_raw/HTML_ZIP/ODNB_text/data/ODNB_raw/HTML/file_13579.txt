@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13579;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13579-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13579-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13579#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Holman,  James</span>  (1786&#150;1857), <span class="occ">traveller</span>, was born in Exeter, Devon, on 15 October 1786, the fourth child of John Holman, a chemist and druggist of Fore Street, Exeter. Like his brother William he entered the navy, as a first-class volunteer on the <i>Royal George</i> on 7 December 1798. From September 1799 to April 1805 he served in the <i>Cambrian</i> on the home and North American stations and then on the <i>Leander</i> and the <i>Cleopatra</i>, of which last frigate he was appointed lieutenant on 27 April 1807. From October 1808 to November 1810, when he was invalided, he served on the <i>Guerri&egrave;re</i> off the coast of North America. He was invalided out at the age of twenty-four, after it had become clear that his severely incapacitating rheumatism recurred each time he was exposed to cold wet conditions. He became totally blind not long afterwards for reasons which are not clear.<br>
+<br>On 29 September 1812 Holman was appointed a naval knight of Windsor, which provided him with a modest stipend but required his residence with other disabled lieutenants at Windsor and his attendance at twice daily services. Finding life at Windsor tedious, he managed to convince the authorities that the terms of the endowment allowed leave of absence both for study (he attended lectures of the University of Edinburgh from 1813 to 1818) and for travel to recruit his health. His first trip, from 1819 to 1821, took him to familiar parts of Europe, and set a pattern for later journeys. He travelled largely alone and inexpensively, often walking alongside a wagon or carriage to which he tied himself with a string for security. His amiable manner elicited kindness from strangers, friends, and acquaintances, and he was received in well-to-do households. On his return he published in 1822 an account of his journey, which attracted considerable notice because of his blindness.<br>
+<br>Holman's subsequent journeys were ever more adventurous and increasingly taxed the patience of the Windsor authorities. His second journey, from 1822 to 1824, was intended as a circuit of the globe, an achievement he resolved on when he first went to sea. He reached Irkutsk in Siberia, but was thence hustled westwards and dumped outside Russia's western borders, perhaps because the authorities did not want him to see the extent of Russian activity on the Siberian and American north-west coasts. After recovering from this ordeal and publishing an account in 1834, he determined to complete his circuit of the globe and reached Africa, Asia, Australasia, and America, describing his travels in a four-volume work. His last journeys were through Iberia, the Balkans and into Turkey, and, separately, to Scandinavia. In 1826 he was elected fellow of the Linnean Society of London and founding fellow of the Raleigh Club, the forerunner of the Royal Geographical Society, and the next year of the Royal Society.<br>
+<br>While preparing his autobiography and remaining travel notes for publication Holman died at his lodgings, 11 Crutched Friars, near the Minories, London, on 28 July 1857. He left his manuscripts to a literary friend, Robert Bell, who had helped him compile his earlier works, but they were never published.<br>
+<br>Holman was particularly vulnerable to the charge levied against all travellers, namely that his works were the product of the imagination. Not only was he, being blind, dependent on others for information about what he visited, he habitually wrote only very brief notes while travelling (using a writing aid called a noctograph), committing much material to his memory, which Jerdan described as &#145;indelible&#146;  (Jerdan, 263). He tried to turn his disability to his advantage claiming, &#145;I am compelled to adopt a more rigid and less suspicious course of inquiry [than sighted travellers], and to investigate analytically, by a train of patient examination, suggestions, and deductions, which other travellers dismiss at first sight; so that, freed from the hazard of being misled by appearances, I am the less likely to adopt hasty and erroneous conclusions&#146;  (<span class="italic">Voyage round the world</span>, 5). John Dundas Cochrane, the pedestrian traveller, who attacked him in print in the <span class="italic">Monthly Magazine</span> of 1824, was unpersuaded, but was probably actuated by the wish to undermine competition from a rival travel writer. Roberts claims him as &#145;the world's greatest traveller&#146; because of the distances he covered and the remoteness of the places he reached. Contemporary documents, however, make clear that he was elected to learned societies not so much for the contribution his travels made to learning, but because he was a &#145;most cheerful and agreeable companion&#146;  (<span class="italic">Zoology</span>, xxx). Nonetheless his works have recently been republished in print and electronically because of interest in the remote parts he reached, particularly in China and Africa.<br>
+<br>Elizabeth Baigent </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Holman, <i>A narrative of a journey undertaken in the years 1819, 1820, and 1821</i> (1822) &middot; J. Holman, <i>Travels through Russia</i> (1825) &middot; J. Holman, <i>A voyage round the world</i>, 4 vols. (1834&#150;5) &middot; J. Roberts, <i>A sense of the world</i><i>: how a blind man became history's greatest traveller</i> (2006) &middot; W. Jerdan, &#145;James Holman: the blind traveller&#146;, <i>Men I have known</i> (1866), 256&#150;67 &middot; <em><i>Zoology: Proceedings of the Journal of the Linnean Society of London</i></em>, 3 (1859), xxvi&#150;xxx &middot; J. Holman, <i>Holman's voyage to Old Calabar</i>, ed. D. C. Simmons, American Association for African Research, 2 (1959) &middot; C. R. Markham, <i>Some account of the Geographical Club</i>, 6th edn (1905) &middot; C. R. Markham, <i>The fifty years' work of the Royal Geographical Society</i> (1881) &middot; N. H. Robinson, <i>The Royal Society catalogue of portraits</i> (1980) &middot; J. Wilson, <i>Biography of the blind, or, The lives of such as have distinguished themselves as poets, philosophers, artists, etc.</i>, 4th edn (1838) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13579&amp;istheme=&amp;target=OByrne%2C%20Naval%20biog.%20dict.')">O'Byrne, <i>Naval biog. dict.</i></a> &middot; d. cert. &middot; census returns, 1851<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> G. Chinnery, oils, 1830, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13579&amp;istheme=&amp;target=RS')">RS</a> &middot; W. Brockedon, chalk drawing, 1834, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13579&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. R. Jackson, mezzotint, pubd 1849 (after J. P. Knight), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13579&amp;istheme=&amp;target=BM')">BM</a> &middot; R. Cooper, stipple (after Fabrioni), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13579&amp;istheme=&amp;target=NPG')">NPG</a> &middot; E. Finden, stipple (after T. Wageman), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13579&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Elizabeth Baigent, &#145;<span class="roman"><span class="headword">Holman,  James</span>  (1786&#150;1857)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2008 [http://www.oxforddnb.com/view/article/13579, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Holman (1786&#150;1857): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13579 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/13579/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

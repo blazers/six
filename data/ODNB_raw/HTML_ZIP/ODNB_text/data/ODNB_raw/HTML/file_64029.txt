@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 64029;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/64/64029-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/64/64029-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=64029#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Oughton,  Thomas</span>  (<em>b. </em>1660), <span class="occ">ecclesiastical lawyer and legal writer</span>, born on 13 September 1660 in the parish of Holy Trinity Church, Coventry, Warwickshire, was the son of Thomas Oughton (<i>d</i>. 1695), registrar of the court of delegates, and his wife, Issable. The younger Oughton was a deputy registrar of the same court until about 1720, and remained on the list of proctors until about 1740.<br>
+<br>Oughton achieved a lasting reputation for his treatise on procedure in the ecclesiastical courts&#151;a work that had an unfortunate history. As early as 1713 Oughton completed a manuscript entitled <span class="italic">Processus judiciarius</span>, which he handed over to a printer; but the entire stock and also, it seems, the copy were destroyed by fire. Oughton then set about the painful task of rewriting the lost book, which occupied him for a further fifteen years. It finally appeared in 1728, in two volumes, under a new title, <span class="italic">Ordo judiciorum</span>, which the author borrowed from that of a book by the sixteenth-century Italian procedural writer Roberto Maranta. Dedicated to the judges and advocates of Doctors' Commons, the treatise began with a detailed account of the civilian profession and its customs. The author then described the procedure of the church courts, which still used Latin for both the written documents and the oral proceedings.<br>
+<br>Only a few years after the first edition, parliament abolished the use of Latin in all the courts, a change which was not reflected in the second edition (1738) but which nevertheless seems not to have diminished the status of Oughton as the principal guide to the ecclesiastical courts before the nineteenth-century reforms. Sir William Scott said in 1820 that Oughton and Godolphin were &#145;the oracles of our practice&#146;  (<span class="italic">Phillimore's Reports</span>, 3.329). An attempt was made in 1831 to render Oughton's treatise more widely accessible by translating a considerable part of it into English. The new edition by James Thomas Law, chancellor of Lichfield and Coventry, was printed as <span class="italic">Forms of Ecclesiastical Law, or, The Mode of Conducting Suits in the consistory Courts</span>, and it enjoyed a second edition in 1844. It included material inserted at the appropriate points from other authors, rendering further recourse to the Latin proceduralists largely unnecessary for practical purposes. Nothing is known about Oughton's family life, or when and where he died.<br>
+<br>J. H. Baker </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>P. G. S. [P. G. Stein], &#145;Oughton, Thomas&#146;, <i>Biographical dictionary of the common law</i>, ed. A. W. B. Simpson (1984) &middot; J. H. Baker, <i>Monuments of endlesse labours</i><i>: English canonists and their work, 1300&#150;1900</i> (1998), 89&#150;94 &middot; <i>Phillimore's reports</i>, 3 (1820), 329 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=64029&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. H. Baker, &#145;<span class="roman"><span class="headword">Oughton,  Thomas</span>  (<em>b. </em>1660)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/64029, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Oughton (<em>b. </em>1660): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/64029 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 99931;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/99/99931-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/99/99931-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=99931#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Higman,  Graham</span>  (1917&#150;2008), <span class="occ">mathematician</span>, was born at 18 Lee Street, Louth, Lincolnshire, on 19 January 1917, the second of three sons of Joseph Higman (1876&#150;1954), Methodist minister, and his wife, Susan Mary Ethel, <i>n&eacute;e</i> Ellis (1885&#150;1951). His grandfather William Higman (1830&#150;1907) was also a Methodist minister, and president of the United Methodist Conference in 1890.<br>
+<br>Higman was educated at Sutton Secondary School, Plymouth, and at Balliol College, Oxford, where his undergraduate tutor and later (after he had taken firsts in both his mathematical moderations and his finals) his DPhil research supervisor was J. H. C. (Henry) Whitehead. Although Whitehead was best known as a topologist the work that Higman did developed into pure algebra, and his later famous, and famously unpublished, thesis was written on the subject of units in group-rings. During the Second World War as a conscientious objector he worked first as a lecturer at a technical college in Essex, and then as a meteorologist. On 29 July 1941 he married Ivah May Treleaven (1917&#150;1981), a secondary school teacher, and daughter of a Methodist minister; his father, Joseph Higman, and her father, Woodman Treleaven, officiated at the marriage at the Methodist Chapel in Keswick. They had five sons and one daughter.<br>
+<br>After the war Higman was recruited as a lecturer at Manchester University by the great department-builder M. H. A. (Max) Newman. There he met many like-minded colleagues, in particular B. H. Neumann, with whom and with whose wife Hanna he wrote a much-cited paper about infinite groups. This was the paper that introduced the Higman&#150;Neumann&#150;Neumann (HNN) extension, and used it to spectacular effect to solve a number of open problems in what was then still the infant theory of infinite groups. At Manchester he also got to know Alan Turing, whose ideas about logic and computability he later used in a beautiful way to identify the finitely generated subgroups of finitely presentable groups (groups that can be described using finitely many generators and finitely many relations between those generators). His result was later widely known as Higman's embedding theorem.<br>
+<br>In 1955 Higman returned to Oxford as reader in pure mathematics and tutor at Balliol in succession to Henry Whitehead, who had been elected to the Waynflete chair of pure mathematics. In 1958 he was elected a fellow of the Royal Society, and on Whitehead's death in 1960 he was again elected his successor and moved from Balliol to a fellowship of Magdalen: &#145;brewed in Balliol, matured in Magdalen&#146;, as Whitehead said of himself, and Jack de Wet, tutor at Balliol, extended to Higman. He supervised innumerable research students, gave innumerable lectures on algebra, and introduced mathematical logic into the Oxford curriculum. He was a demanding lecturer in the classical style (with rapid delivery, small writing on the blackboard, his back to the audience, and fluent and elegantly grammatical sentence construction), who, however, ensured that the content of what he had to say was always of such importance that for those who learned how to understand his lectures there were great mathematical riches to be gained. He was awarded the London Mathematical Society's Berwick prize (1962) and De Morgan medal (1974), and the Royal Society's Sylvester medal (1979).<br>
+<br>Higman was one of a trio of three great British group-theorists. They inhabited the London&#150;Oxford&#150;Cambridge triangle, albeit at different times: William Burnside (1852&#150;1927) worked in London (at the Royal Naval College, Greenwich), Philip Hall (1904&#150;1984) in Cambridge, and Higman in Oxford. There is a direct connection in that one of Higman's most influential papers about finite groups was written jointly with Hall on the so-called Burnside problem. Not only did their contribution make a major step forward in the study of the problem but also, serendipitously, the techniques of the Hall&#150;Higman paper turned out to be of very great importance in the study of finite groups and, in particular, in the search for finite simple groups.<br>
+<br>Higman had a long and successful life. He was a complex character. As a colleague he was capable of treating mathematicians less able than himself with disdain or with direct and hurtful comments on their work. As a supervisor of research students he was frightening until the student discovered that, when bearded in his den and asked direct questions, he would treat the student with great respect and provide detailed advice tailored to the ability of the student. Although himself quite a difficult man to have an easy friendship with, he was a great success in his work for the Samaritans; he was also a great success in the congenial post-seminar meetings in the pub, where his astonishing grasp of ornithology, his deep love of poetry (especially that of Yeats and R. S. Thomas), and his gift for solving devilish crosswords emerged perhaps against his will. He owned neither a radio nor a television.<br>
+<br>Higman remained true to his Methodist roots. He was admitted a local preacher in 1936 and served the Methodist community for sixty-five years, giving his last address in 2001. He was not always well understood by his congregation. In the 1960s his mathematical research students, many of whom called him Uncle Graham in a friendly way (but never in his earshot), had a story that he had preached a Christmas day sermon in one of the villages near Oxford and had omitted to make any mention of the Christmas story. His address at the memorial service for Ivah was, however, a model for what such sermons should be. He survived her for another twenty-seven years, continuing to live in Oxford, though latterly at the Albany nursing home in Headington, following the onset of Parkinson's disease. He died of aspiration pneumonia at the John Radcliffe Hospital, Oxford, on 8 April 2008.<br>
+<br>Peter M. Neumann </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em><i>The Independent</i></em> (8 May 2008); (14 May 2008) &middot; <em><i>Daily Telegraph</i></em> (27 May 2008) &middot; <a target="_new" href="/public/jumpto.jsp?url=http://www-history.mcs.st-and.ac.uk%2FBiographies%2FHigman.html">www-history.mcs.st-and.ac.uk/Biographies/Higman.html</a>,  accessed on 18 March 2011 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99931&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2008) &middot; personal knowledge (2012) &middot; private information (2012) &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> obituary photographs<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;844,781: probate, 29 Oct 2008, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Peter M. Neumann, &#145;<span class="roman"><span class="headword">Higman,  Graham</span>  (1917&#150;2008)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2012 [http://www.oxforddnb.com/view/article/99931, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Graham Higman (1917&#150;2008): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/99931 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

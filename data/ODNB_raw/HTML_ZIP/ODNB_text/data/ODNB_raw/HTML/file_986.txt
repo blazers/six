@@ -1,0 +1,415 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 986;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/986-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/986-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=986#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=00986&amp;orientation=p')"><img border="0" alt="  Edward Backwell (c.1619&#150;1683), by unknown engraver, pubd 1797" onmouseover="status='  Edward Backwell (c.1619&#150;1683), by unknown engraver, pubd 1797'" src="/images/article-imgs/0/00986_1_200px.jpg"></a><span class="imagecaption"><b>  Edward Backwell (<em>c.</em>1619&#150;1683)</b>, by unknown engraver, pubd 1797</span>
+</div>
+<div class="para">
+<span class="headword">Backwell,  Edward</span>  (<em>c.</em>1619&#150;1683), <span class="occ">goldsmith and banker</span>, the son of Barnaby Backwell of Leighton Buzzard, Bedfordshire, a yeoman, was apprenticed in 1635 to Thomas Vyner, a leading goldsmith. He became free of the Goldsmiths' Company in 1651, of which he was to be prime warden in 1660.<h2>
+<a name="Earlyfinancialdealings"></a>Early financial dealings</h2>Like his master, Backwell was actively involved in credit finance during the time of the English republic. He also dealt in the former crown property that was put on the market; having bought the park at Hampton Court under the Commonwealth, he sold it back to the state at a profit under the protectorate. He was engaged in bullion transactions as early as 1650 and helped Vyner to handle captured Spanish plate in 1657. However, he was most active as treasurer for the Dunkirk garrison from the time of the town's capture and establishment as an English base on the continent in 1658, and this probably provided him with a natural transition from his role as a disbursing official and credit financier in the service of the republic to a similar position under the restored monarchy in 1660. He continued to manage the affairs of Dunkirk, although jointly with the more committed royalist financier Sir John Shaw, until after its sale to France in 1662, when he handled the bullion payments made by Louis XIV to Charles II. He also acted jointly with Sir Thomas Vyner in providing money for the supply of the royal household, and with the latter's nephew Sir Robert Vyner in handling bullion brought in for coinage at the Royal Mint, both Vyners having also already been involved in bringing over the French money received for Dunkirk.<br>
+<br>Backwell was elected an alderman of the City shortly before the Restoration, early in 1660, but paid the customary large fine of &pound;720 in the following year in order to be excused from continuing to serve. It is not clear whether this had any political or religious significance. It is indicative of Backwell's importance, or at least of his ceaseless activity, that he is mentioned more often than any other financier of the 1660s in Samuel Pepys's <span class="italic">Diary</span>. In January 1664 Pepys expressed himself strongly (in his famous naval white book, not in the diary) of the opinion that Backwell was profiteering at the crown's expense by asking 4<i>s</i>. and 7<i>d</i>. for each &#145;piece of eight&#146; which he delivered, when the clerk of the acts had a merchant friend who would supply them at 4<i>s</i>. and 6&frac12;<i>d</i>. each. &#145;This is the unhappy posture of the King's credit. And the effect of making use but of one or two men&#146;, so Pepys reflected  (<span class="italic">Samuel Pepys and the Second Dutch War</span>).<br>
+<br>But all was not plain sailing for Backwell during these years. When he was on a confidential mission to Antwerp on the crown's behalf in the summer of 1665 his head clerk (who had been an under-officer in the exchequer with Pepys back in 1659&#150;60) succumbed to the plague when in charge of the London office. In Backwell's absence this led to a temporary crisis of confidence in his creditworthiness and a run on his bank's resources, from which he had to be rescued by the crown largely with the help of Sir Robert Vyner, to whose assistance Backwell in turn rallied during another liquidity crisis in 1667&#150;8. Both in his own capacity, by having advanced credit to the crown through numerous of its agents, and as the recipient of many reassigned Treasury orders for payment on future revenues, Backwell was inevitably one of those hardest hit by the stop of exchequer (December 1671&#150;January 1672). As a result of this measure, taken to avert general bankruptcy, and to allow expenditure to continue in preparing for the Third Anglo-Dutch War, all hypothecated payments on incoming revenues were to be frozen for one year; this was later extended for a second year, by the end of which time the dates by which the hypothecated payments should have been made had all passed. When the crown reviewed its obligations to the bankers, initially in 1674, Backwell was reckoned to be owed a total of nearly &pound;296,000 (principal, plus interest due since January 1672). This was less than the amount owed to Sir Robert Vyner (by then a baronet), whose uncle Sir Thomas, Backwell's old master, was not involved (having died in 1665), but it was more than that owed to any other goldsmith, and a very considerable sum, equivalent to about one-quarter of the crown's annual peacetime income; for this he was to receive a 6 per cent annuity, amounting to &pound;17,759 13<i>s</i>. 8<i>d</i>., in order to help him meet his obligations to his own creditors. The crown sought to give the letters patent, reissued in 1677, empowering the annuity payments to Backwell, Vyner, and the other goldsmith bankers, who had been the direct sufferers from the stop, the additional legal force of a statute; but a bill which had passed the Lords in 1678 failed in the Commons.<h2>
+<a name="Crownagent"></a>Crown agent</h2>Meanwhile the extent to which Backwell continued to act as a private banker after 1672 is doubtful; he is not named in a 1676&#150;7 pamphlet listing the bankers. He did, however, continue actively as a financial agent of the crown, and had already been rewarded early in 1671 by his appointment, jointly with his son John, as comptroller of customs in the port of London, the duties of which he performed by deputy. Along with Vyner he completed a four-year term as a commissioner of the customs and farmer of the customs revenues in 1671, so as comptroller he was not thereafter having to cross-check on his own activities as a farmer; he and Vyner were not members of the new syndicate, which offered to undertake the next and abortive farm, the failure of which led instead to the institution of direct management by salaried commissioners. While he was on a special mission to the Netherlands in 1674, trying to collect what the United Provinces and their allies owed Charles II, as the price of England abandoning their French ally and making a separate peace, Backwell made an ambitious, it might be said audacious, proposal to the lord treasurer, Lord Latimer, shortly to become earl of Danby. This was to the effect that he should &#145;buy&#146; the first &pound;5 million to be yielded by the new impost on wines and vinegar, due to be raised over the years 1674&#150;8, for which he was to give &pound;430,000, although of this he was actually to pay only &pound;150,000 within the following ten months; the remaining &pound;280,000 was to be written off as the debt which was owed him by the king (on which he offered to forgo further interest as from that midsummer). The correspondence is frustratingly one-sided, Danby's replies to Backwell not being known to have survived; but when, not surprisingly, the offer was not taken up, Backwell seems to have become convinced that the lord treasurer had turned against him, due to the promptings of some secret enemy, whom Backwell perhaps unwisely identified in a later letter as the merchant financier Sir John Banks, who had indeed prudently moved his own bank account away from Backwell and from Vyner to another goldsmiths' partnership before the 1672 financial crisis. Backwell did collect some of the money owing to the king by the Dutch, but his relations with the still dominant Danby may well have been damaged by this curious episode.<br>
+<br>In 1676 an informer reported that Backwell had been seen calling on the duke of Buckingham, one of the leading opposition peers, at his house just outside London. By contrast with Vyner, who was eventually bankrupted by the actions of some of his private creditors against him, Backwell's bankruptcy in 1682 seems to have been precipitated by the crown's action against him in respect of money which he allegedly owed from his dealings with Sir George Carteret as treasurer of the navy many years earlier (1660&#150;67), and following his death the next year payment of the 6 per cent annuity was stopped. Eventually a private act of parliament in favour of his creditors, and their heirs and executors, was passed in 1698, in the parliamentary session preceding the passage of a similar measure for Vyner's creditors. Under the terms of this act, a minority of one-third or less of the creditors, measured by their numbers and by the amounts which they were owed, was obliged to accept any agreement made with Backwell's own heirs and executors by a two-thirds majority, or else forfeit any claims whatever on his estate&#151;statute thus being employed to prevent the possibility of any future legal actions. Some of his family did survive as Buckinghamshire landowners, albeit on a modest scale; one branch even added to their estates, although as absentees living in London. But the male lines all died out before the end of the eighteenth century, and Backwell's descendants in the female line finally sold up during the early twentieth century. Unlike the case with the Vyners, some of his family did continue as City financiers.<h2>
+<a name="Bankingactivities"></a>Banking activities</h2>Backwell's activities as a banker are very fully, yet also incompletely, documented. A series of large ledgers descended to one of his grandsons, who married into the Child family; these records then passed to Child's Bank, then to Glyn Mills, and subsequently into the possession of the Royal Bank of Scotland. They constitute the earliest known systematic archive of any British bank, antedating even those of Hoare and Child, and have therefore been of much interest to historians of banking and finance. The account books of the scriveners Robert Abbott, Robert Clayton, and John Morris, it is true, go back to an earlier date, in so far as these can be equated with bankers' cash ledgers. There is one general letter-book with entries running from the 1650s to the 1670s, sometimes misleadingly described as &#145;the Dunkirk ledger&#146; because it begins with items about Backwell as paymaster for Dunkirk under the Cromwellian protectorate. It also contains a record of the full establishment for the garrison and ancillaries shortly after the Restoration, when the annual cost was calculated to be over &pound;113,000, an absurdly large amount in relation to Charles II's total revenue at that time, and ample justification for the sale of Dunkirk to France the following year.<br>
+<br>A less expected item to find is the full, lengthy text of the 1667 agreement made between all the incoming farmers of the hearth tax or chimney money, since Backwell was not one of them; however, Sir Robert Vyner, while notionally only one of the ten parties to this complex agreement, was clearly the power behind the whole undertaking, and Backwell may have felt it necessary to have the full facts about this partnership recorded because some of those involved, including of course Vyner himself, were currently banking with him. In general this volume illustrates his relations with the crown, both before and after the stop of the exchequer. The other nine surviving volumes are ledgers more properly so-called. They run from 1663 to 1672, with a gap in 1664 and another in 1665; it is clear from internal references, and from the alphabetical numbering of the volumes, that the series must have originated before 1663 (possibly even going back to the early 1650s), and must have continued after March 1672. They are basically records of debit and credit transactions with the system of internal balancing of the entries having been changed at some stage in 1665.<br>
+<br>As with the other goldsmith bankers of the time, Backwell had among his clients many individuals who reassigned to him their orders guaranteed on future royal revenues after this system was implemented in 1665&#150;6, although it is impossible to calculate what proportion such items constitute of the total private side of his business. Use has been made of the ledgers (chiefly of the continuous part of the series covering 1666&#150;72) in order to calculate the scale of his advances to the crown, and the effect on his business of Sir George Downing's system of Treasury orders, devised to increase the crown's short-term credit, and their reassignability to third parties. More recently the use of computers has made it possible to construct day-to-day cashflow tables and diagrams for Backwell's relations with the other goldsmith bankers among his clients, and (separately) with Sir Robert Vyner. One or two special factors served to increase Backwell's potential vulnerability. Besides the crisis in his affairs, already noted, back in 1665, it has been suggested that the destruction of his City premises in the great fire of 1666 led him to abandon altogether his original trade as a goldsmith and to concentrate wholly on banking and government service. He lacked Vyner's continuing commitment to the craft through the latter's position as the king's goldsmith.<br>
+<br>Although there is some disagreement as to how far Backwell was &#145;the bankers' banker&#146; in the sense of providing clearing arrangements between others engaged in the business, he certainly had very active dealings with several, both individuals and partnerships; in the absence of comparable records for his contemporaries (except Vyner's fragmentary ledger of September&#150;October 1666), we can only surmise or infer the extent to which he was unusual, or even unique, as a bankers' banker. For the general historian of the period, lacking the skills and application of the cliometrician, the transactions in his ledgers may be classified as follows: those with, first, other bankers, including his involvement in the foreign exchanges and the bullion market; second, royal office-holders, most notably receivers and paymasters, but also those serving abroad as diplomats; and, third, others ranging, if not from dustmen to dukes, at least from men and women of sub-gentry or plebeian status to royalty and the top ranks of the peerage. The largest numbers of individual entries are recorded with the other bankers, several of whom were also to be involved in the stop and its complicated aftermath. By contrast the largest total amounts of actual issues and receipts, and of obligations for future out-payments and in-payments due, relate to various branches of royal revenue and expenditure&#151;for example, in 1663&#150;4, the farm of the London excise, the customs farmers, and Stephen Fox as a disbursing official. However, the largest numbers of different individuals come from the third category, although these generally contain fewer entries per client, and are for amounts of smaller value. To complicate matters, some people appear in more than one capacity: thus Samuel Pepys had a private account with Backwell (as can be verified from his <span class="italic">Diary</span>), but also dealt with the banker in his capacity as treasurer for the garrison of Tangier. Fox too is represented in both capacities.<h2>
+<a name="Domesticandpoliticallife"></a>Domestic and political life</h2>Backwell was twice returned as MP for Wendover, Buckinghamshire, in 1673. On the first occasion the election was voided because the writ had been improperly issued; on the second he was again unseated after being accused of bribing the electors. He sat for the same constituency in all three of the Exclusion Parliaments of 1679&#150;81, but is recorded as having taken an active part in only the first of these, serving on various committees and reportedly opposing the exclusion from the succession of James, duke of York. Nothing is known of him in the sittings of 1680 and 1681. It has been suggested that he used his privilege as an MP to protect himself against his creditors. He also served as a common councilman of London in 1676&#150;81, which was unusual for someone who had been chosen as an alderman many years before. His eldest son sat in parliament for Wendover in James II's parliament of 1685 and after the revolution of 1688.<br>
+<br>Backwell married his first wife, Sarah, the daughter of a London merchant called Brett, by 1653; they had one son, John, who was involved with his father in both banking and office-holding. He married, secondly, by 1662, Mary, the daughter of Richard Leigh or Lyse; she is the lady who appears in Pepys's <span class="italic">Diary</span>. By the time of her death in November 1669 they had three sons and two daughters; his son Leigh was apprenticed to his father in 1682, but disappears from the Goldsmiths' records after Backwell's death the following year. In January 1666 a warrant was drawn for him to be made a baronet, but this was never implemented. Either he declined the honour, or it was opposed, conceivably on account of either his humble origins or his Cromwellian past, though neither of these factors kept others from acquiring knighthoods, baronetcies, or even peerages under the restored monarchy.<br>
+<br>Backwell died abroad in the Netherlands; his body was embalmed, and was buried in St Mary Woolnoth in the City on 13 June 1683, but exhumed on 20 October 1685 in order to be reburied at Tyringham in Buckinghamshire, where he had earlier gained control of the estate belonging to his son's father-in-law, Sir William Tyringham, an impoverished ex-cavalier. Although Backwell had made his will in 1679, it was not proved until after the passage of the act to satisfy his creditors in 1698. He left property in Buckinghamshire to his eldest son, in Huntingdonshire and the City to his second son, and further London properties to his third and fourth sons. Noting that everything left to the three younger ones was already mortgaged for the payment of his debts, he bequeathed to them jointly the large annuity granted by letters patent in 1677. His solitary bequest otherwise was a &pound;40 annuity to a female relative. The will is unusual in lacking any religious prologue and in providing for no other legacies, either personal or philanthropic. Initially Backwell's brother and all four sons were made executors; a codicil of 1683 altered this to the second and fourth sons only. The only known visual representation of Backwell is a particularly fine life-size contemporary engraving in the possession of the Goldsmiths' Company; the inscription is of a later date, but small details confirm the portrait's authenticity.<br>
+<br>For the historian, Backwell is important as far and away the best documented banker of his time. The relationship of the goldsmiths of the 1660s and 1670s to the later development of banking and the new system of public credit established in the 1690s remains open to debate. As this brief account has sought to show, the history of banking after the Restoration is inseparable from that of public, alias royal, finance, which in turn cannot be separated from the general political history of the time.<br>
+<br>G. E. Aylmer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a> &middot; J. M. S. Brooke and A. W. C. Hallen, eds., <i>The transcript of the registers of &hellip; St Mary Woolnoth and St Mary Woolchurch Haw &hellip; 1538 to 1760</i> (1886) &middot; &#145;The Dunkirke affaire&#146;, <em>Three Banks Review</em>, 30 (1956), 40&#150;50 &middot; M. P. Ashley, <i>Financial and commercial policy under the Cromwellian protectorate</i> (1934) &middot; A. B. Beaven, ed., <i>The aldermen of the City of London, temp. Henry III&#150;[1912]</i>, 2 vols. (1908&#150;13) &middot; C. D. Chandaman, <i>The English public revenue, 1660&#150;1688</i> (1975) &middot; D. K. Clark, &#145;Edward Backwell as a royal agent&#146;, <em>Economic History Review</em>, 9 (1938&#150;9), 45&#150;55 &middot; A. Heal, ed., <i>The London goldsmiths, 1200&#150;1800</i><i>: a record of the names and addresses of the craftsmen, their shop-signs and trade-cards</i> (1935) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=HoP%2C%20Commons')">HoP, <i>Commons</i></a> &middot; J. K. Horsefield, &#145;The &#147;stop of the exchequer&#148; revisited&#146;, <em>Economic History Review</em>, 2nd ser., 35 (1982), 511&#150;28 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=Pepys%2C%20Diary')">Pepys, <i>Diary</i></a> &middot; D. Mitchell, &#145;Innovation and the transfer of skill in the goldsmiths' trade in Restoration London&#146;, <i>Goldsmiths, silversmiths and bankers</i>: <i>innovation and the transfer of skill, 1550 to 1750</i> [London 1993], ed. D. Mitchell (1995), 5&#150;22 &middot; G. O. Nichols, &#145;English government borrowing, 1660&#150;1688&#146;, <em>Journal of British Studies</em>, 10/2 (1970&#150;71), 83&#150;104 &middot; F. G. Hilton Price, <i>A handbook of London bankers</i>, enl. edn (1890&#150;91) &middot; S. F. Quinn, &#145;Banking before the bank: London's unregulated goldsmith-bankers, 1660&#150;1694&#146;, PhD diss., University of Illinois, 1994 &middot; S. Quinn, &#145;Balances and goldsmith-bankers: the co-ordination and control of inter-banker clearing in seventeenth-century London&#146;, <i>Goldsmiths, silversmiths and bankers</i>: <i>innovation and the transfer of skill, 1550 to 1750</i> [London 1993], ed. D. Mitchell (1995), 53&#150;76 &middot; R. D. Richards, &#145;A pre-Bank of England English banker&#151;Edward Backwell&#146;, <em>Economic History</em>, 1 (1926&#150;9), 335&#150;55 &middot; R. D. Richards, <i>The early history of banking in England</i> (1929) &middot; H. G. Roseveare, &#145;The advancement of the king's credit, 1660&#150;1672: a study in economic, political and administrative history based mainly on the career of Sir George Downing, knight and baronet&#146;, PhD diss., U. Cam., 1962 &middot; H. G. Roseveare, <i>Government, financial policy and the money markets in late 17th-century England</i> (1926); later pubn (Italy, 1981) &middot; H. Roseveare, <i>The financial revolution, 1660&#150;1760</i> (1991) &middot; W. A. Shaw, ed., <i>Calendar of treasury books</i>, 1&#150;9, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=PRO')">PRO</a> (1904&#150;31) [incl. introductions by W. A. Shaw] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Buckinghamshire</i>, vol. 4 &middot; J. R. Woodhead, <i>The rulers of London, 1660&#150;1689</i> (1965) &middot; <i>Samuel Pepys and the Second Dutch War</i><i>: Pepys's navy white book and Brooke House papers</i>, ed. R. Latham, Navy RS, 133 (1995), 3 [transcribed by W. Matthews and C. Knighton]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=BL')">BL</a>, letters, Add. MS 19402
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=Parl.%20Arch.')">Parl. Arch.</a>, Box 17, no. 628; 9&#150;10 William III, no. 88
+   &middot;
+ Royal Bank of Scotland, London, group archives, ledgers, and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, exchequer of receipt, E.403/2510, 3034; E.406/20&#150;1; E.407/33&#150;4, 119&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=BL')">BL</a>, Egerton MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> engraving, 1660?, Goldsmiths' Hall &middot; engraving, pubd 1797, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=BM')">BM</a> [<i>see illus.</i>] &middot; stipple, pubd 1797 (after engraving), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=NPG')">NPG</a> &middot; line print (on Dutch plate), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=986&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> technically a bankrupt for about a year before he died; held estates in Buckinghamshire and elsewhere: will<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. E. Aylmer, &#145;<span class="roman"><span class="headword">Backwell,  Edward</span>  (<em>c.</em>1619&#150;1683)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/986, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Backwell (<em>c.</em>1619&#150;1683): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/986 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/986/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

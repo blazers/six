@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 39123;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/39/39123-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/39/39123-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=39123#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Anna</span>  (<em>d.</em> 654?), <span class="occ">king of the East Angles</span>, became king after the Mercian king Penda invaded and killed King Ecgric and the former king, Sigeberht. Anna was the son of Eni, brother of <script>writeSeealsoLink('../view/article/23265/', "R&#230;dwald")</script>, an earlier ruler of the East Angles. His accession must have taken place at some point after Penda gained power in Mercia (probably in 632); later Ely sources indicate that Anna became king in 635 or 636, but this information may not be reliable. Almost nothing is known of his reign, except that for three years he sheltered Cenwalh, the West Saxon ruler driven out of his kingdom by Penda about 642, and that he was a generous patron to the monastery founded in Burgh Castle by the Irishman Fursa.<br>
+<br>Two of Anna's daughters made important marriages, which may reflect political alliances: the better-known, <script>writeSeealsoLink('../view/article/8906/', "&#198;thelthryth")</script>, married first the ruler of the South Gyrwe (a Middle Anglian people) and later <script>writeSeealsoLink('../view/article/37384/', "King Ecgfrith of Northumbria")</script>, while her sister <script>writeSeealsoLink('../view/article/25150/', "Seaxburh")</script> became the wife of <script>writeSeealsoLink('../view/article/39239/', "King Eorcenberht of Kent")</script>. Both these women were later venerated as saints, after having been successive abbessess of the house at Ely founded by &AElig;thelthryth. A third daughter, &AElig;thelburh, became abbess of the Frankish monastery at Faremoutiers-en-Brie, as did Anna's stepdaughter, S&aelig;thryth. Later sources mention a fourth daughter, named Wihtburh, said to have been a nun at Ely; she was originally buried at East Dereham and then translated to Ely where a cult developed. From the reference to a stepchild, the daughter of Anna's wife, it would seem that the king had married a widow; her identity is unknown and the suggestion that she was Hereswith, sister of Hild, abbess of Whitby, is based on a misconception.<br>
+<br>Anna was remembered more for his Christian behaviour and saintly progeny than for his actions as king. Like his predecessors, he was killed during an invasion of East Anglia by Penda of Mercia, probably in 654. Later Ely sources place this event in the nineteenth year of his reign, and state that he was buried at Blythburgh in Suffolk.<br>
+<br>S. E. Kelly </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39123&amp;istheme=&amp;target=Bede%2C%20Hist.%20eccl.')">Bede, <i>Hist. eccl.</i></a>, 3.7&#150;8, 18&#150;19; 4.19 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39123&amp;istheme=&amp;target=John%20of%20Worcester%2C%20Chron.')">John of Worcester, <i>Chron</i>.</a>, 92, 98, 104, 108, 228 &middot; E. O. Blake, ed., <i>Liber Eliensis</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39123&amp;istheme=&amp;target=CS')">CS</a>, 3rd ser., 92 (1962), 12&#150;19 &middot; F. M. Stenton, &#145;The East Anglian kings of the seventh century&#146;, <i>Preparatory to &#145;Anglo-Saxon England&#146;</i><i>: being the collected papers of Frank Merry Stenton</i>, ed. D. M. Stenton (1970), 394&#150;402<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">S. E. Kelly, &#145;<span class="roman"><span class="headword">Anna</span>  (<em>d.</em> 654?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2013 [http://www.oxforddnb.com/view/article/39123, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Anna (<em>d.</em> 654?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/39123 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/39123/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

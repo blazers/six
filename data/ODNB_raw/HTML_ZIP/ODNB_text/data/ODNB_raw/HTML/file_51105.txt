@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51105;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51105-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51105-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51105#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Haffkine,  Waldemar Mordecai Wolff</span> <span class="st"> [<em>formerly </em>Vladimir Aronovitch Chavkin]</span>  (1860&#150;1930), <span class="occ">zoologist and bacteriologist</span>, born Vladimir Aronovich Chavkin in Odessa, Russia, on 15 March 1860, was the son of Aaron and Rosalie Chavkin (<i>d</i>. <i>c</i>.1866), members of a Jewish merchant family formerly of Landsberg. Shortly after his mother's death, which occurred when Haffkine was only six, the family moved to Berdyansk, 300 miles from Odessa, where his father found employment as a schoolteacher. After early education at home and at the county school in Berdyansk, in 1872 Haffkine entered the <i>Gymnasium</i> at Berdyansk. Here he excelled in both sports and academic subjects, showing a particular aptitude for natural sciences&#151;the subject he later chose to study at Novorossiysk (later Odessa) University from 1879 to 1883. During his time at Odessa, Haffkine came under the formative guidance of the zoologist and pioneer of immunology Ilya Mechnikov, with whom Haffkine was later to collaborate. He also became active in politics, joining a populist-socialist revolutionary organization called Narodnaya Volya (&#145;Will of the people&#146;).<br>
+<br>Haffkine remained at Odessa until 1888, obtaining a position in the Zoological Museum, but since he refused to be baptized into the Christian faith there was no prospect of his ever obtaining a university professorship in Russia. Indeed, a series of pogroms against Jews in southern Russia&#151;some of which affected Haffkine personally&#151;induced him to emigrate to Switzerland; his mentor, Mechnikov, had left for Paris earlier that year. Haffkine remained in Geneva for one year, where he taught at the university medical school. In 1889 he joined Mechnikov at the Institut Pasteur, though in the junior capacity of assistant librarian. However, he was able here to pursue his interest in the hereditary characteristics of unicellular organisms, and published work on the protozoan <i>Paramecium</i> in the <span class="italic">Annals de l'Institut Pasteur</span>.<br>
+<br>While at the institute Haffkine became interested in bacteriological research and particularly in immunization against cholera. In 1892 he published a brief paper in which he demonstrated that immunity could be induced in animals by inoculating them with attenuated cholera bacilli. By July he had conducted successful experiments on human subjects, including himself, thus raising the possibility of preventing one of the most dreaded diseases of the nineteenth century. News of Haffkine's work spread quickly and soon came to the notice of Lord Dufferin, a former viceroy of India. Dufferin wrote to the secretary of state for India requesting that Haffkine be permitted to pursue his studies in what was regarded by many as the &#145;home&#146; of the disease.<br>
+<br>Haffkine arrived in Calcutta in 1893. After injecting himself and four Indian doctors, he was able to induce some villagers in the cholera belt of Bengal to come forward for inoculation. Encouraged by his early success he set off on an expedition through northern India which was to last almost two and a half years. However, he met with far more opposition than he had anticipated, not only from the Indian population, which was often suspicious of Western medicine, but also from the Indian Medical Service (IMS), whose members were dubious about the efficacy of his inoculation (which was then, as now, far from completely effective). Medical scepticism was reinforced by racial prejudice and Haffkine's Jewish-Russian origins made him doubly suspect in the eyes of the Anglo-Indian establishment. While touring the North-Western Provinces Haffkine was denounced by some newspapers as a Russian spy. He found that his only true friend and supporter in India was the health officer of Calcutta, W. J. Simpson, who had achieved almost pariah status in Calcutta through his trenchant criticisms of both the government and the Indian-dominated municipal corporation.<br>
+<br>Despite the limited success of mass inoculation in India, Haffkine was persuaded to continue, and tens of thousands were inoculated before his work was interrupted in 1896. But while he received support at the highest level, there remained considerable antipathy towards him and his methods. This became evident when he was called upon to investigate the plague epidemic which swept India following its first appearance in Bombay in the summer of 1896. Haffkine established a plague laboratory at Grant Medical College, Bombay, and began to work on a vaccine to prevent the disease using the same immunological principles which underlay his inoculation against cholera. This time, however, Haffkine found that immunity could be conferred by using killed bacilli, rather than merely attenuated ones&#151;a method which was subsequently to be used by Almroth Wright in his inoculation against typhoid. By December the vaccine was ready, and Haffkine's success in immunizing rats against the disease was published in a scientific paper in the following year. By January 1897 Haffkine was confident enough to test the vaccine on himself, and in the coming months successful trials were conducted in prisons and among Indian volunteers. Advocates of inoculation were also cheered by the report of the Indian plague commission, in 1900, which concluded that Haffkine's inoculation &#145;can and does exercise an immune effect&#146; and that there had been no sign of any serious side-effects.<br>
+<br>However, the report of the plague commission did little to reassure sceptics that the vaccine was safe and effective. Even those who admitted its efficacy warned against relying too heavily on inoculation, and continued to urge more general sanitary reforms. They pointed out, quite reasonably, that it was not feasible to inoculate the entire population of India in time to prevent the spread of the disease. There was also considerable hostility among Indians to the idea of inoculation and initial reservations deepened after November 1902 following a tragic incident in the village of Malkowal in the Punjab, where 19 out of 107 villagers developed tetanus after inoculation and later died. A commission appointed by the government of India found that the vaccine had been infected before the bottles had reached Malkowal, which led many to conclude (rather too readily) that this had occurred at Haffkine's laboratory.<br>
+<br>The Malkowal incident left Haffkine a disappointed if not broken man. He left India in 1904 with the controversy still hanging over him, though Simpson&#151;now editor of the <span class="italic">Journal of Tropical Medicine</span>&#151;and prominent bacteriologists in London had taken up the cudgels on Haffkine's behalf. Firm evidence against Haffkine and the Bombay laboratory was not found, and in 1907 he was invited to return to India. This he did, but cut a solitary and unhappy figure until retiring in 1914. The remainder of his life was spent in Europe, and he lived in Paris until moving to Lausanne, two years before his death. He died there aged seventy on 25 October 1930. Although not by upbringing a religious man, Haffkine had become a devout Orthodox Jew in later life and had contributed generously to the endowment of Jewish schools in eastern Europe. Never fully recognized during his lifetime, his contribution to health care in India was nevertheless memorialized in 1925 when the government of Bombay renamed the plague laboratory as the Haffkine Institute&#151;a name it retained to the end of the century.<br>
+<br>Mark Harrison </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. A. Waksman, <i>The brilliant and tragic life of W. M. W. Haffkine</i> (1964) &middot; M. Harrison, <i>Public health in British India</i><i>: Anglo-Indian preventive medicine, 1859&#150;1914</i> (1994) &middot; I. J. Catanch, &#145;Plague and the tensions of empire&#146;, <i>Imperial medicine and indigenous societies</i>, ed. D. Arnold (1988) &middot; D. Arnold, <i>Colonizing the body</i><i>: state medicine and epidemic disease in nineteenth-century India</i> (1993) &middot; G. H. Bornside, &#145;Waldemar Haffkine's cholera vaccines and the Ferran&#150;Haffkine priority dispute&#146;, <em>Journal of the History of Medicine and Allied Sciences</em>, 37 (1982), 399&#150;422 &middot; I. L&ouml;wy, &#145;From guinea pigs to man: the development of Haffkine's anticholera vaccine&#146;, <em>Journal of the History of Medicine and Allied Sciences</em>, 47 (1992), 270&#150;309 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51105&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1931)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Hebrew University, Jerusalem
+   &middot;
+ National Archives of India, New Delhi, government of India sanitary and medical records
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51105&amp;istheme=&amp;target=RS')">RS</a>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <i>c.</i>1890, repro. in Waksman, <i>Brilliant and tragic life</i> &middot; photograph, 1894, repro. in W. J. R. Simpson, <i>Cholera in Calcutta in 1894 and anti-choleraic inoculation</i> (1894) &middot; photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51105&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;170 6<i>s</i>. effects in England: administration, 6 Nov 1931, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Mark Harrison, &#145;<span class="roman"><span class="headword">Haffkine,  Waldemar Mordecai Wolff</span>   (1860&#150;1930)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51105, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Waldemar Mordecai Wolff Haffkine (1860&#150;1930): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51105 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9444;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9444-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9444-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9444#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Finch,  William</span>  (<em>d.</em> 1613), <span class="occ">merchant</span>, was a native of London and a servant to Master Johnson in Cheapside. He was agent to an expedition sent in 1607 by the East India Company, under captains Hawkins and Keeling, to treat with the Mughal emperor of India, Jehanghir, known to the English as the great Mughal. On 24 August 1608 Hawkins and Finch landed at Surat in the <i>Hector</i>, the first vessel to display the English flag on the Indian coast. Although they were violently opposed by the Portuguese, Finch obtained permission to dispose of the goods they had brought, even though the natives, under Portuguese incitement, were chary of dealing with the English. Finch, ill with the flux, remained in Surat, and Hawkins proceeded to Agra alone. In a letter of 12 July 1609 Finch gave Hawkins an accurate, if cautious, estimate of the capacity of the Indian market in commodities such as broadcloths, kerseys, quicksilver, tin, ivory, coral, and sword blades. He also listed the Indian cloths that would yield most profit in the markets of the Levant and the Barbary coast, and be of use in England for fine quilts and wall hangings.<br>
+<br>Finch joined Hawkins at Agra on 14 April 1610, but refused tempting offers to attach himself permanently to the service of Jehanghir. For at least six months (February&#150;August 1610) Finch was in Lahore, a city second only to Agra in importance in the Mughal empire. Then, on an expedition to Bayana later in the same year, he dared to outbid the agent of the emperor's mother for a supply of indigo, so compromising Hawkins's position at the Mughal court. The two men quarrelled, and Hawkins confiscated the indigo which Finch wanted to move by caravan to Aleppo. Finch, disillusioned about the possibility of establishing English trade in India, decided to return to England and made his way overland to Baghdad, where he died in August 1613 from drinking infected water. His journal was later forwarded to the East India Company and was printed by Purchas; it gave valuable descriptions of Agra and the routes from Agra to Surat and from Lahore to Kabul and Srinagar, gleaned from his own travels or from diligent enquiry of others.<br>
+<br>James Burnley<span class="italic">, rev. </span> Basil Morgan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Foster, <i>Early travels in India, 1583&#150;1619</i> (1921), 122&#150;87 &middot; K. N. Chaudhuri, <i>The English East India Company</i><i>: the study of an early English joint-stock company</i> (1965) &middot; F. C. Danvers and W. Foster, eds., <i>Letters received by the East India Company from its servants in the east</i>, 6 vols. (1896&#150;1902), vol. 1 &middot; M. E. Wilbur, <i>The East India Company</i> (1945) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9444&amp;istheme=&amp;target=CSP%20col.')"><i>CSP col</i>.</a>, vols. 2&#150;3<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James Burnley, &#145;<span class="roman"><span class="headword">Finch,  William</span>  (<em>d.</em> 1613)</span>&#146;, rev. Basil Morgan, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/9444, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Finch (<em>d.</em> 1613): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9444 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

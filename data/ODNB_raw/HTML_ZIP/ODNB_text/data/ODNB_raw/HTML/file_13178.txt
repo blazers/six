@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13178;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13178-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13178-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13178#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Heytesbury,  William</span>  (<em>d.</em> 1372/3), <span class="occ">logician and natural philosopher</span>, was probably born in Wiltshire. He was educated at Oxford, and was a fellow of Merton College in 1330. He was active in college life: in 1337 or 1338, for instance, he travelled with a colleague from Oxford to his college's church at Ponteland in Northumberland, and the record of their journey shows that they covered 246 miles in seven or eight days, at an average speed of over 30 miles a day, and also provides details of their food and drink, the fodder bought for their horses, and the cost of crossing the rivers of Trent and Ouse. In 1338/9 Heytesbury was college bursar. In 1341 he was named a Queen's College foundation fellow, but he was still a fellow of Merton in 1348. Records from the same year show that he was a doctor of theology. He was chancellor of the university probably from Whitsun 1370 to Whitsun 1372, and possibly also earlier, from 1352 to 1354. Outside Oxford he held a variety of ecclesiastical benefices, mainly in Kent, though he was also canon of Salisbury and of Chichester. His longest association seems to have been with Ickham, Kent. He first became rector there in 1354, and it was in Ickham church that he requested burial, in a will drawn up in December 1372 and proved on 5 February 1373. He travelled outside England at least once, for in 1349&#150;50 he was imprisoned in France &#145;by the king's adversaries&#146;  (<span class="italic">CClR, 1349&#150;1354</span>, 152), probably while on his way to the papal court in Avignon.<br>
+<br>No theological writings by Heytesbury are known, but he was an extremely successful writer of textbooks in logic and natural philosophy. Readers particularly admired his extensive use of sophisms&#151;puzzle cases (often quite bizarre) designed to test the validity of logical principles&#151;and his main contribution was his application of this procedure to natural philosophy. Along with the other &#145;Oxford calculators&#146; or <script>writeSeealsoLink('../view/theme/95034', "Merton calculators")</script> (notably Richard Swineshead, Thomas Bradwardine, and John Dumbleton), Heytesbury was instrumental in developing the logic of continua and infinite divisibility, and in applying quantitative analysis to such qualities as heat and colour. Although Heytesbury mainly used the techniques of supposition theory and propositional analysis to solve his sophisms, he none the less helped prepare the way for the wider application of mathematics to the physical world.<br>
+<br>Heytesbury's three main works are the <span class="italic">Regulae solvendi sophismata</span>, the <span class="italic">Sophismata</span>, and <span class="italic">De sensu composito et diviso</span>. The <span class="italic">Regulae</span>, written in 1335 for the use of first-year logic students, contains separate chapters on insolubles (semantic paradoxes); the epistemic terms <i>scire</i> and <i>dubitare</i>; the supposition or reference of relative pronouns; the terms <i>incipit</i> and <i>desinit</i>; maxima and minima; and the three categories of place, quantity, and quality (these being the categories in which motion occurs). Thirty-three manuscripts which contain all or part of the <span class="italic">Regulae</span> are known, and there are three early printed editions (1481, 1491, 1494). Apparently only partial adaptations of the work were used in England in the later fourteenth and fifteenth centuries. The work <span class="italic">Termini qui faciunt</span> is an adaptation of chapter 2, and <span class="italic">De terminis relativis</span> of chapter 3. One version of the latter is by Richard Lavenham, and another was printed as part of the <span class="italic">Libellus sophistarum ad usum Cantabrigiensium</span> (1497, 1501&#150;2, 1510, 1524). An adaptation of chapters 2&#150;5, <span class="italic">De probationibus conclusionum</span>, possibly by Heytesbury himself, survives mainly in Italy and was twice printed there, once separately (Pavia, 1483), and once as part of the large Venice edition of 1494. The <span class="italic">Regulae</span> was particularly popular in Italy. The Paduan logician Gaetano da Thiene wrote a full commentary which was printed in 1483, and which formed part of the edition of 1494. Mesino de' Codroncho and Angelo da Fossombrone, who both wrote in Bologna at the end of the fourteenth century, commented on parts of chapter 6, as did Bernardus Tornius. These commentaries all appeared in the edition of 1494, and Angelo's commentary, of which a separate edition had appeared in 1482&#150;3, was printed with Gaetano's in the volume of 1483.<br>
+<br>Heytesbury's other main works were also more popular in Italy than in England, though an epitome of the <span class="italic">Sophismata</span> was prepared at Merton College in 1388. The <span class="italic">Sophismata</span> was included with the three Italian editions of the <span class="italic">Regulae</span>, and Gaetano da Thiene's commentary on the <span class="italic">Sophismata</span> was printed along with his commentary on the <span class="italic">Regulae</span> in 1483 and 1494. Partial commentaries were written by Gaetano's contemporaries, Simon de Lendenaria (printed 1494) and Paolo da Pergola. <span class="italic">De sensu composito et diviso</span> (printed with the <span class="italic">Regulae</span> in 1491 and 1494) was the subject of three Italian commentaries printed together in 1500, and of a fourth by Benedetto Vettori (Bologna, 1504).<br>
+<br>Heytesbury's other works include a treatise on consequences, printed in 1517 along with treatises by Richard Feribrigge and Ralph Strode, and known in England mainly through an adaptation by Robert Alyngton called <span class="italic">Iuxta hunc textum</span>. This adaptation was printed in both the Oxford and Cambridge versions of the <span class="italic">Libelli sophistarum</span>. The <span class="italic">Sophismata asinina</span>, known in four versions, is an early collection of sophisms each of which proves the claim &#145;Tu es asinus&#146; (&#145;You are an ass&#146;). The <span class="italic">Termini naturales</span>, a beginner's text on definitions and divisions in natural philosophy, is known in several adaptations, including one by John Garisdale. Finally there are the brief <span class="italic">Casus obligatorii</span> and the <span class="italic">De propositionibus multiplicibus</span>. Two separate works on insolubles have been attributed to Heytesbury, but one is an anonymous reworking of his text and the other is by John Venator. <span class="italic">De veritate et falsitate propositionum</span>, also attributed to Heytesbury, is in fact by Henry Hopton.<br>
+<br>In the fifteenth century Heytesbury's work was found on the official curriculum in many European universities, including Erfurt, Leipzig, Padua (1496), and Vienna. However, his most enthusiastic readers were in Italy, as the history of commentary and printing shows.<br>
+<br>E. J. Ashworth </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13178&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a> &middot; E. J. Ashworth and P. V. Spade, &#145;Logic in late medieval Oxford&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13178&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%202%3A%20Late%20med.%20Oxf.')"><i>Hist. U. Oxf.</i> 2: <i>Late med. Oxf.</i></a>, 35&#150;64 &middot; P. V. Spade, &#145;The manuscripts of William Heytesbury's <i>Regulae solvendi sophismata</i>: conclusions, notes and descriptions&#146;, <em>Medioevo</em>, 15 (1989), 271&#150;313 [includes list of 33 manuscripts containing the <i>Regulae</i>, list of 3 incunabula edns, list of spurious manuscripts, bibliography] &middot; J. A. Weisheipl, &#145;Repertorium Mertonense&#146;, <em>Mediaeval Studies</em>, 31 (1969), 174&#150;224 [incl. list of Heytesbury MSS] &middot; C. Wilson, <i>William Heytesbury</i><i>: medieval logic and the rise of mathematical physics</i> (1956); repr. (1960) &middot; J. North, &#145;Natural philosophy in late medieval Oxford&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13178&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%202%3A%20Late%20med.%20Oxf.')"><i>Hist. U. Oxf.</i> 2: <i>Late med. Oxf.</i></a>, 65&#150;102 &middot; <i>Guillaume Heytesbury &#145;Sophismata asinina&#146;</i><i>: une introduction aux disputes m&eacute;di&eacute;vales</i>, ed. F. Pironet (Paris, 1994) &middot; T. H. Aston, &#145;The external administration and resources of Merton College to circa 1348&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13178&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%201%3A%20Early%20Oxf.%20schools')"><i>Hist. U. Oxf.</i> 1: <i>Early Oxf. schools</i></a>, 311&#150;68 &middot; L. M. de Rijk, &#145;<i>Logica Oxoniensis</i>: an attempt to reconstruct a fifteenth century Oxford manual of logic&#146;, <em>Medioevo</em>, 3 (1977), 121&#150;64 &middot; J. A. Weisheipl, &#145;Ockham and some Mertonians&#146;, <em>Mediaeval Studies</em>, 30 (1968), 163&#150;213 &middot; J. D. North, &#145;Astronomy and mathematics&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13178&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%202%3A%20Late%20med.%20Oxf.')"><i>Hist. U. Oxf.</i> 2: <i>Late med. Oxf.</i></a>, 103&#150;74 &middot; W. Heytesbury, <i>On maxima and minima</i><i>: chapter 5 of rules for solving sophismata, with an anonymous fourteenth century discussion</i>, ed. and trans. J. Longeway (1984) &middot; W. Heytesbury, <i>On &#145;insoluble&#146; sentences</i><i>: chapter one of his rules for solving sophisms</i>, trans. P. V. Spade (1979) &middot; N. Kretzmann and E. Stump, trans., <i>Logic and the philosophy of language</i> (1988), vol. 1 of <i>The Cambridge translations of medieval philosophical texts</i> [incl. trans. of works by Heytesbury] &middot; E. J. Ashworth, &#145;Traditional logic&#146;, <i>The Cambridge history of Renaissance philosophy</i>, ed. C. B. Schmitt and others (1988), 150 &middot; A. Maier&ugrave;, <i>Terminologia logica della tarda scolastica</i> (1972), 35&#150;8, 601&#150;6 &middot; D. Buzzetti, &#145;Linguaggio e ontologia nei commenti di autore Bolognese al <i>De tribus praedicamentis</i> di William Heytesbury&#146;, <i>L'insegnamento della logica a Bologna nel XIV secolo</i>, ed. D. Buzzetti, M. Ferriani, and A. Tabarroni (1992), 579&#150;604 &middot; E. J. Ashworth, &#145;The <i>Libelli sophistarum</i> and the use of medieval logic texts at Oxford and Cambridge in the early sixteenth century&#146;, <em>Vivarium</em>, 17 (1979), 134&#150;58 &middot; Paul of Pergula, <i>&#145;Logica&#146; and &#145;Tractatus de sensu composito et diviso&#146;</i>, ed. M. A. Brown (1961), xii &middot; <i>Tractatus Gulielmi Hetisberi de sensu composito et diviso</i>, ed. J. M. Mapellus (Venice, 1494)<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">E. J. Ashworth, &#145;<span class="roman"><span class="headword">Heytesbury,  William</span>  (<em>d.</em> 1372/3)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/13178, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Heytesbury (<em>d.</em> 1372/3): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13178 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/13178/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

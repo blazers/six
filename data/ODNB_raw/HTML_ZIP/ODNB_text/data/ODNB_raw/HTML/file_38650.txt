@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 38650;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/38/38650-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/38/38650-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=38650#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ball,  (Walter William) Rouse</span>  (1850&#150;1925), <span class="occ">educationist and historian</span>, was born at 81 New Bond Street, London, on 14 August 1850, the only son of Walter Frederick Ball, oilman, and his wife, Mary Anne Rouse. He went to University College School and then University College, London, where he gained the degree of MA and won a gold medal for mathematics. In 1870 Ball went up to Trinity College, Cambridge. He graduated BA in 1874, as second wrangler and first Smith's prizeman. He was elected a fellow of his college in 1875, and proceeded MA in 1877. In 1876 he was called to the bar (Inner Temple) and practised briefly as an equity draftsman and conveyancer. At the invitation of Trinity College he returned to Cambridge as a lecturer (from 1878) and tutor (from 1880) in mathematics, positions he occupied until 1905. He was, from 1891, also director of mathematical studies. On 1 September 1885 he married Alice Mary (1851/2&#150;1919), daughter of William Snowdon Gaid.<br>
+<br>From 1878, for the rest of his life, Ball devoted his principal energies and attention to Trinity College, its students, finances, boat club, and history. In addition to his teaching duties he gave particular attention to the university chess club (representing Cambridge in early matches against Oxford graduates), to the Trinity College boat club (of which he wrote a detailed history), and to the history of the college (of which he wrote several general and specialized histories). He also represented the university on the Cambridge borough council.<br>
+<br>Ball wrote several histories and monographs about the history of mathematics. He also wrote the comprehensive <span class="italic">Mathematical Recreations</span> (2nd edn, 1892) which had reached its 13th edition by 1987 and which is probably the work for which he will be generally remembered. It deals with mathematical puzzles and problems, such as cryptanalysis, map colouring, and the calculation of the position of shuffled playing cards, as well as other imaginative mathematical problems associated with magic tricks. Ball's other popular mathematical publications relate to such diverse subjects as Chinese tangrams, indigenous Japanese mathematics, string figures, the mathematics of Pythagoras, early calculus, magic squares, mazes, and chess board problems, as well as scholarly articles on cubic curves and the number theories of Marin Mersenne.<br>
+<br>In 1893 Ball wrote a seminal <span class="italic">Essay on Newton's &#145;Principia&#146;</span> in which, following a suggestion in 1838 by Stephen Peter Rigaud, he was probably the first person to set forth a detailed plan explaining the need for a variorum edition of the work, which he hoped to carry forward himself. In fact, this would have been a massive undertaking even for a man of Ball's energy and abilities and it was a task ultimately completed only well into the twentieth century by teams of scholars (led by I. Bernard Cohen, Herbert W. Turnbull, and Derek T. Whiteside in their respective scholarly editions of the Newton papers). Nevertheless, Ball's plan was a notable exception in an age disinclined towards such projects and did lead to him reprinting what was, in his day, the fullest text of the correspondence between Newton and Robert Hooke and between Newton and Edmond Halley.<br>
+<br>Ball was popular with his students and he spared no effort to extend them hospitality (even building a billiard room and squash racket court in his house for their use) and kept in touch with many of them for the rest of his life. He was equally close to his colleagues at Trinity College and counted among his close friends J. J. Thomson, the discoverer of the electron and fellow boat club enthusiast.<br>
+<br>Ball died at his home, Elmside, 49 Grange Road, in Cambridge, on 4 April 1925. He was commemorated in Cambridge by a Rouse Ball lectureship in mathematics (established three years before his death), which has been awarded over the years to Albert Einstein (1932), Wolfgang Pauli (1949), and Paul Dirac (1969), among others. Since 1925 there have also been at Cambridge a Rouse Ball professorship of English law and a Rouse Ball professorship of mathematics, both endowed under the generous terms of Ball's will.<br>
+<br>Rouse Ball made no significant original contribution to mathematics but his long and effective teaching career, his numerous and often reprinted mathematical works for a broad reading public, together with his total devotion to Trinity College, combine to provide strong evidence of a generous, energetic, and inquisitive man who gave his own utmost to his science and to friends and colleagues.<br>
+<br>Geoffrey V. Morson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (6 April 1925) &middot; J. J. Thomson, <em>Cambridge Review</em> (24 April 1925), 341&#150;2 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=38650&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; <em>The Trinity Magazine</em> [magazine of Trinity College, Cambridge], 6 (June 1925), 53&#150;4 &middot; W. W. R. Ball, <i>Mathematical recreations and essays</i>, ed. H. S. M. Coxeter, 13th edn (1987) &middot; W. W. R. Ball, <i>An essay on Newton's &#145;Principia&#146;</i> (1893) &middot; <i>Historical register of the University of Cambridge</i>, 11 vols. (1917&#150;91) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=38650&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; H. M. Innes, ed., <i>Fellows of Trinity College, Cambridge</i> (1941) &middot; J. R. M. Butler, <i>Henry Montagu Butler</i><i>: master of Trinity College, Cambridge, 1886&#150;1918</i> (1925) &middot; D. E. Smith, <i>History of mathematics</i>, 2 vols. (1958) &middot; I. B. Cohen, <i>Introduction to Newton&#146;s &#145;Principia&#146;</i> (1971) &middot; <i>The mathematical papers of Isaac Newton</i>, ed. D. T. Whiteside, 8 vols. (1967&#150;80), vol. 1 &middot; D. Gjertsen, <i>The Newton handbook</i> (1986) &middot; W. W. Rouse Ball and J. A. Venn, eds., <i>Admissions to Trinity College, Cambridge</i>, 5 vols. (1911&#150;16) &middot; Trinity Cam., Ball MSS, <i>c</i>.1910&#150;<i>c</i>.1923 &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=38650&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>, photograph album and portrait collection<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <i>c.</i>1875, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=38650&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;38,038 3<i>s</i>. 7<i>d</i>.: probate, 19 Aug 1925, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Geoffrey V. Morson, &#145;<span class="roman"><span class="headword">Ball,  (Walter William) Rouse</span>  (1850&#150;1925)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/38650, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  (Walter William) Rouse Ball (1850&#150;1925): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/38650 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

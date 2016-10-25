@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23118;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23118-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23118-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23118#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Randolph,  Francis</span>  (1752&#150;1831), <span class="occ">Church of England clergyman</span>, was born at Bristol on 29 December 1752, the son of George Randolph, a Bristol doctor. He was king's scholar at Eton College in 1771 and was admitted at King's College, Cambridge, in 1772. He graduated BA (1777) and MA (1780) and was a fellow of the college from 1775 to 1787. He was made DD at Lambeth in 1795 and at Dublin in 1806. Having taken holy orders he held an impressive range of clerical posts. He was appointed vicar of Broad Chalke, Wiltshire, in 1786 and rector of Chenies, Buckinghamshire, in 1788; he was also rector of Aston until 1804, when he obtained the rectory of Watton, Hertfordshire. In addition to these posts he was English teacher to the duchess of York at the court in Bavaria and chaplain to the duke of York; he was prebendary of Bristol from 24 December 1791. Among his patrons was Francis Russell, fifth duke of Bedford, who in 1817 presented him to the living of St Paul's, Covent Garden; in the same year he was appointed vicar of Banwell, Somerset. He was a proprietor of Laura Chapel, Bathwick, Bath, which had sittings for one thousand people and opened in 1796.<br>
+<br>In 1788 Randolph published a letter to William Pitt on the slave trade, in which he advocated partial and progressive emancipation. He gained fame as a theologian by contributing to the Socinian controversy. His tract <span class="italic">Scriptural Revision of Socinian Arguments, in a Letter to Dr Priestley</span> (1792) prompted a response from Benjamin Hobhouse; Randolph rejoined with a vindication of his <span class="italic">Scriptural Revision</span> in 1793. In 1800 he published a collection of sermons.<br>
+<br>Randolph became embroiled in scandal when, in August 1795, he was entrusted with some letters of the princess of Wales to carry to Brunswick but, being prevented from going, he sent them back by coach from London to the princess at Brighton. They were lost on the way. Lady Jersey was accused in the press of having intercepted them and of sending some of them to Queen Charlotte, whom they supposedly maligned. In 1796 the earl of Jersey published the correspondence between Randolph and Lady Jersey in an attempt to clear his wife's name. However, the princess was unconvinced and her friends suggested that Randolph had been promised a bishopric for parting with the papers. Thomas James Mathias published several satirical pieces on the incident.<br>
+<br>In 1808 Randolph issued <span class="italic">A Few Observations on the State of the Nation</span>, addressed to the duke of Bedford, in which he revived a plan propounded by Richard Watson, bishop of Llandaff, for a redemption of the national debt. Randolph, who was married, died at his prebendal house, Bristol, on 14 June 1831 and was buried in the churchyard of Bristol Cathedral. In the north aisle of Banwell church there is a mural tablet to his memory.<br>
+<br>G. Le G. Norgate<span class="italic">, rev. </span> Emma Major </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23118&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23118&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 101/1 (1831), 648 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23118&amp;istheme=&amp;target=ESTC')"><i>ESTC</i></a> &middot; G. B. Villiers, fourth earl of Jersey, <i>The correspondence between the earl and countess of Jersey and the Rev Dr Randolph</i> (1796) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23118&amp;istheme=&amp;target=Allibone%2C%20Dict.')">Allibone, <i>Dict.</i></a>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Downman, chalk drawing, 1777, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23118&amp;istheme=&amp;target=FM%20Cam.')">FM Cam.</a> &middot; W. Bradley, portrait &middot; T. G. Lupton, engraving (after W. Bradley)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. Le G. Norgate, &#145;<span class="roman"><span class="headword">Randolph,  Francis</span>  (1752&#150;1831)</span>&#146;, rev. Emma Major, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/23118, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Francis Randolph (1752&#150;1831): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23118 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

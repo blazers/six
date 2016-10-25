@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7301;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7301-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7301-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7301#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Davison,  James William</span>  (1813&#150;1885), <span class="occ">music critic</span>, was born on 5 October 1813 in London, the son of James Davison (<i>d</i>. 1858) and his wife, the actress and singer <script>writeSeealsoLink('../view/article/7304/', "Maria Rebecca Davison, n&#233;e Duncan (1780x83&#150;1858)")</script>. He was given his first lessons in singing and the piano by his mother, and was then educated at University College School. Abandoning plans for the bar, he went to the Royal Academy of Music, where he studied the piano with W. H. Holmes and composition with George Macfarren. He wrote some orchestral music (including an overture that was played at a concert of the Society of British Musicians), some piano music (notably a duet overture, <span class="italic">Fortunatus</span>), and songs, especially settings of Keats and Shelley. However, he soon abandoned composition for criticism. His first writings appeared in the <span class="italic">Musical Magazine</span>. He was founder and first editor of the weekly <span class="italic">Musical Examiner</span> (1842&#150;4), later merged into the <span class="italic">Musical World</span>, which he edited for the rest of his life. In 1846 he became music critic of <span class="italic">The Times</span>, a post he retained until 1879. Other journals to which he contributed included the <span class="italic">Saturday Review</span>, the <span class="italic">Pall Mall Gazette</span>, and (until 1884) <span class="italic">The Graphic</span>. His further activities included writing programme notes for the concerts at St James's Hall, where in 1844 he persuaded Louis Jullien to improve the content of the programmes; he also wrote notes for Charles Hall&eacute;'s recitals. His only book was <span class="italic">An Essay on the Works of Frederic Chopin</span> (London, n.d. [1849]). He was one of the founder members of the Purcell Society (1876).<br>
+<br>For many years Davison wielded an almost despotic sway as a critic. He was not a highly educated or cultured writer, though his style was terse and energetic. He was celebrated for his attachment to Sterndale Bennett and Mendelssohn, whose popularity in Victorian England owed much to his advocacy, and was personally acquainted with Rossini, Auber, Spohr, Meyerbeer, and Hal&eacute;vy. He was also, unexpectedly for so conservative a critic, one of the first to recognize the merits of Berlioz, including as a conductor, and did much to champion him in England; with Liszt and D'Ortigue, he was the only person outside Berlioz's family to be addressed as &#145;tu&#146;. However, he was bitterly hostile to Schumann, Gounod, Liszt, Wagner, and Brahms, and initially even to Schubert, all of whom he regarded as dangerous innovators, not least because they seemed to threaten the composers whose cause he espoused. He thought Spohr &#145;a dream&#151;an ideal being&#146;, and that &#145;a more overrated man never existed&#146; than Schubert. He once wrote: &#145;Robert Schumann has had his innings, and been bowled out&#151;like Richard Wagner. <span class="italic">Paradise and the Peri</span> has gone to the tomb of the <span class="italic">Lohengrins</span>.&#146; He moved in literary as well as musical circles, numbering Dickens, Thackeray, and Th&eacute;ophile Gautier among his friends. Sir George Grove, another friend, wrote that &#145;his knowledge and his extraordinary memory were as much at the service of his friends as the keen wit and humour&#151;often Rabelaisian enough&#151;with which he poured them forth. He was very much of a Bohemian.&#146; On 12 May 1859 he married Arabella Goddard, who had been his pupil since 1850; they had two sons, Henry, who wrote his father's memoirs, <span class="italic">From Mendelssohn to Wagner</span> (1912), and Charles. Latterly he suffered from ill health, and went to live first in Malvern, then in Margate, where he died on 24 March 1885.<br>
+<br>Davison's wife, <a name="cosubject_53592"></a><span class="headword">Arabella Goddard</span>  (1836&#150;1922), <span class="occ">pianist</span>, was born at St Servan, near St Malo, France, on 12 January 1836, the daughter of Thomas Goddard. At the age of four she played in her village, and went to Paris to take lessons from Fr&eacute;d&eacute;ric Kalkbrenner when she was six. She studied further with Lucy Anderson, and in 1844, at the age of eight, played before another of Mrs Anderson's pupils, Queen Victoria, and in the same year published <span class="italic">Six Waltzes</span> for piano. She made her d&eacute;but at the Grand National Concerts at Her Majesty's Theatre on 23 October 1850. She was then recommended by Sigismond Thalberg, who had given her some lessons, to study interpretation with J. W. Davison, and also had composition lessons with George Macfarren. Much influenced by Davison, she was one of the first to study and perform Beethoven's late works, playing his B[flat] sonata, op. 106, from memory at a concert of the Quartet Association at Willis's Rooms on 14 April 1853; and on 11 May she performed Sterndale Bennett's third piano concerto at the New Philharmonic Concerts. She then toured Germany and Italy, playing Mendelssohn's D minor concerto at the Leipzig Gewandhaus in October 1855.<br>
+<br>Back in England, her stature now widely recognized, Goddard played Bennett's concerto at the Philharmonic Society on 9 June 1856, and also performed at the Crystal Palace and at the Monday Popular Concerts. In 1857 and 1858 she played all Beethoven's late sonatas (opp. 106 to 111), as well as a wide repertory of new music, and in 1859 gave his &#145;Eroica&#146; symphony as a piano solo at the Bradford festival; she also appeared at festivals in Leeds (1858), Birmingham (1861&#150;70), and Gloucester (1865). She married Davison on 12 May 1859. From 1873 to 1876 she toured America, Australia, and India; before leaving, she gave a farewell concert in March 1873, accompanying some of the most distinguished soloists of the day as well as playing solos. She virtually retired in 1880, though her last concert was with Sims Reeves on 21 March 1882; she was given a benefit concert at St James's Hall on 9 March 1890. The latter part of her life was lived at Tunbridge Wells in failing health and comparative obscurity. She died in Boulogne on 6 April 1922.<br>
+<br>John Warrack </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>From Mendelssohn to Wagner</i><i>: being the memoirs of J. W. Davison, forty years the music critic of The Times</i>, ed. H. Davison (1912) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7301&amp;istheme=&amp;target=Brown%20%26%20Stratton%2C%20Brit.%20mus.')">Brown &amp; Stratton, <i>Brit. mus.</i></a> &middot; <em>The Times</em> (26 March 1885) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7301&amp;istheme=&amp;target=Grove%2C%20Dict.%20mus.')">Grove, <i>Dict. mus.</i></a> &middot; [S. Morison and others], <i>The history of The Times</i>, 2 (1939), 65, 443, 594 &middot; <i>Correspondance g&eacute;n&eacute;rale</i><i>: Hector Berlioz</i>, ed. P. Citron, 3 (Paris, 1978) &middot; <i>Correspondance g&eacute;n&eacute;rale</i><i>: Hector Berlioz</i>, ed. P. Citron, 4 (Paris, 1983) &middot; A. W. Ganz, <i>Berlioz in London</i> (1950) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7301&amp;istheme=&amp;target=MT')"><i>MT</i></a>, 26 (1885), 221 &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7301&amp;istheme=&amp;target=News%20Int.%20RO')">News Int. RO</a>, papers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;3651 5<i>s</i>. 8<i>d</i>.: resworn administration, July 1885, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Warrack, &#145;<span class="roman"><span class="headword">Davison,  James William</span>  (1813&#150;1885)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/7301, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James William Davison (1813&#150;1885): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7301 
+                <br />
+
+                
+
+ Arabella Goddard (1836&#150;1922): doi:10.1093/ref:odnb/53592<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

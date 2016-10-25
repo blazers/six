@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20897;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20897-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20897-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20897#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Oscytel <span class="st"> [Oskytel]</span></span>  (<em>d.</em> 971), <span class="occ">archbishop of York</span>, was at least partly Danish by origin, and belonged to a powerful Anglo-Danish landowning family in the east midlands. His name is Anglo-Scandinavian; one of his two identifiable kinsmen, Abbot Thurcytel of Bedford, had a Danish name, while the other, Oswald, bishop of Worcester (961&#150;92) and archbishop of York (971&#150;92), was a nephew of Archbishop Oda of Canterbury (942&#150;58), whose father, a Dane, had come to England in the <i>micel here</i> (great army) of 865. Oscytel, Thurcytel, and Oswald all owned land in the east midlands and the fens, and Oda was also influential there. Oscytel owned land at Beeby, Leicestershire, which he granted on his deathbed to &AElig;thelwold, bishop of Winchester, probably to endow Ely; &AElig;thelwold later gave it to Oscytel's kinsman Thurcytel in exchange for land at Doddington and &#145;Waeremere&#146;. It can be presumed that Oscytel, as has been argued in the case of his kinsman Oswald, owed his promotion to the episcopate to the backing of his powerful family network and not to the patronage of courtiers. In the middle of the tenth century the Wessex dynasty, still uninfluential in the east midlands, would have found it advantageous to establish good relations with a powerful local family of partly Danish origin.<br>
+<br>Oscytel's date of birth is not known, though it is unlikely to have been later than <i>c</i>.920; likewise nothing is known of his education or his early career in the church, though an &#145;Oscetel circweard&#146; (sacrist or treasurer), who may perhaps be identifiable with him, occurs in a witness list of 949; the church where he was a dignitary is not stated. By 951 Oscytel was bishop of Dorchester, a diocese corresponding to the early Anglo-Saxon see of Leicester, and probably, in Oscytel's day, extending over the newly formed shires of Oxfordshire, Buckinghamshire, Hertfordshire, Bedfordshire, Cambridgeshire, Huntingdonshire, Northamptonshire, Leicestershire, and, almost certainly (though this has never before been acknowledged), Nottinghamshire; the see of Lindsey, later to be added to Dorchester, was a separate entity in Oscytel's lifetime. His predecessor, &AElig;thelwald, occurs for the last time in 949, and the <span class="roman">Anglo-Saxon Chronicle</span> (texts B, C, s. a. 971) says that Oscytel had been bishop for twenty-two years by the time of his death in 971. This entry also states that he was made archbishop of York in the time of Eadred (<i>d</i>. 955), which would be chronologically impossible as Archbishop Wulfstan of York did not die until 26 December 956, but which might be a garbled reference to his original consecration as bishop of Dorchester, which is mentioned immediately beforehand.<br>
+<br>Oscytel first occurs as bishop subscribing charters in 951, though he only did so frequently from 955. King Eadred, who died at the end of that year, bequeathed &pound;400 to him and gave him a third share of 2000 gold mancuses to distribute within his diocese. During 956 and 957 Oscytel's name can be found in the subscription lists to the overwhelming majority of King Eadwig's charters, but from 958 he is to be found subscribing Edgar's. This change in allegiance followed Edgar's assumption of kingship in Mercia and Northumbria in 957, though probably not immediately. Both Eadwig and Edgar gave Oscytel estates in Nottinghamshire, Eadwig granting him Southwell in 956 and Edgar granting him Sutton in 958. Eadwig's charter, though dated 958, has the correct indiction for 956 and is subscribed by Edgar as Eadwig's brother, not as king. The text of the charter describes Oscytel as bishop, but he appears in the subscription list as archbishop: perhaps the date and the subscription list were altered at York subsequently. Edgar's charter is dated 958 and describes Oscytel as bishop. It is likely that both grants were made to Oscytel as bishop of Dorchester to strengthen his position in the extreme north of his diocese, and that it was only subsequently that Oscytel transferred them to the estates of the archbishopric of York&#151;a move which evidently led to Nottinghamshire becoming part of the archdiocese of York, a change in diocesan boundaries which is described nowhere in contemporary sources but which can easily be assumed to have happened as a result of Oscytel's pluralism. He may well have been responsible for establishing (or refounding on a larger scale) the church of Southwell as a powerful minster community, to provide him with a point from which he and later archbishops of York could spread their influence in Nottinghamshire.<br>
+<br>Oscytel became archbishop of York perhaps as late as the end of 958 or in 959, since he witnessed no genuine charters as archbishop earlier than 959. It has usually hitherto been assumed that he succeeded his predecessor Wulfstan immediately after the latter's death, but there may well have been a vacancy while Edgar tried to secure his political authority in the north. The Ramsey chronicle states that Oscytel went to Rome to collect his pallium, but no other source records this and the Ramsey chronicler may have assumed that he did so because his younger kinsman and eventual successor at York, Oswald, subsequently did. Oscytel probably retained control of the see of Dorchester even after his promotion to York, for the <span class="italic">Liber Eliensis</span> refers to him simply as bishop when describing him bequeathing his land at Beeby to Bishop &AElig;thelwold of Winchester. It also shows him acting as bishop of Dorchester in a dispute concerning stolen charters for Horningsea in Cambridgeshire which erupted in Edgar's reign, possibly after 959. Oscytel's pluralism was uncanonical, but politically expedient both for himself, since he must have wanted to maintain his ties with the area where his family was powerful, and for Edgar, who wanted to ensure that no archbishop of York would be tempted to follow Wulfstan's example in defying West Saxon claims to hegemony in the north. Oscytel was certainly loyal to Edgar and witnessed many of his charters. He was also loyal to his own family. In 958 when Oswald returned to England to join Oda's household, only to learn of the latter's death, Oscytel welcomed him and recommended him to his friends, especially Dunstan. Moreover, it is likely that he gave at least moral support to Oswald in his foundation of Ramsey Abbey, and just possibly to Thurcytel in his refoundation of Crowland. His bequest to &AElig;thelwold, which was doubtless intended for the latter's abbey at Ely, suggests that irrespective of family considerations he was generally in favour of the new monastic establishments in the fens, all lying in his diocese of Dorchester. Oscytel died on 31 October 971 at Thame, a manor of the bishops of Dorchester, and his body was taken to Bedford for burial by his kinsman Thurcytel, who was abbot there. He was succeeded at York by Edwald, who, however, resigned shortly afterwards, leaving the coast clear for Oswald, while Leofwine, bishop of Lindsey, took over the diocese of Dorchester.<br>
+<br>Julia Barrow </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. A. O'Donovan, &#145;An interim revision of episcopal dates for the province of Canterbury, 850&#150;950 [pt 1]&#146;, <em>Anglo-Saxon England</em>, 1 (1972), 23&#150;44, esp. 38&#150;9 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20897&amp;istheme=&amp;target=AS%20chart.')"><i>AS chart.</i></a>, S 550, 554, 557, 569, 574, 581&#150;3, 587&#150;8, 590&#150;4, 596&#150;8, 600&#150;01, 603&#150;4, 606&#150;13, 615&#150;16, 619&#150;22, 624, 628, 630, 633&#150;5, 637&#150;8, 641, 643, 646, 649, 659, 661, 663, 669, 673&#150;5, 677, 679&#150;85, 687&#150;90, 695&#150;6, 698&#150;703, 705&#150;12, 714, 716&#150;20, 722&#150;4, 726, 731, 733&#150;5, 737&#150;9, 741, 744&#150;5, 748, 750, 752, 754, 757&#150;9, 762&#150;3, 767&#150;9, 771&#150;3, 776, 778&#150;9, 806, 808&#150;9, 833, 1214, 1291, 1294, 1515, 1574, 1662 &middot; D. Whitelock, &#145;The dealings of the kings of England with Northumbria in the 10th and 11th centuries&#146;, <i>The Anglo-Saxons</i><i>: studies in some aspects of their history and culture presented to Bruce Dickins</i>, ed. P. Clemoes (1959), 70&#150;88 &middot; J. Raine, ed., <i>The historians of the church of York and its archbishops</i>, 3 vols., Rolls Series, 71 (1879&#150;94), vol. 1, pp. 404, 420; vol. 2, p. 340 &middot; D. Whitelock, &#145;The conversion of the eastern Danelaw&#146;, <i>Saga book of the Viking Society for Northern Research</i>, 12 (privately printed, London, 1937&#150;45), 159&#150;76, esp. 170, 173&#150;5 &middot; A. Wareham, &#145;St Oswald's family and kin&#146;, <i>St Oswald of Worcester</i><i>: life and influence</i>, ed. N. Brooks and C. Cubitt (1996), 46&#150;63 &middot; W. Farrer and others, eds., <i>Early Yorkshire charters</i>, 12 vols. (1914&#150;65), vol. 1, nos. 2&#150;3 &middot; E. O. Blake, ed., <i>Liber Eliensis</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20897&amp;istheme=&amp;target=CS')">CS</a>, 3rd ser., 92 (1962), 96, 105&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20897&amp;istheme=&amp;target=ASC')"><i>ASC</i></a>, s.a. 971 (texts B, C) &middot; F. M. Stenton, &#145;The founding of Southwell Minster&#146;, <i>Preparatory to &#145;Anglo-Saxon England&#146;</i><i>: being the collected papers of Frank Merry Stenton</i>, ed. D. M. Stenton (1970), 364&#150;70 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20897&amp;istheme=&amp;target=John%20of%20Worcester%2C%20Chron.')">John of Worcester, <i>Chron</i>.</a>, 422, s.a. 972 &middot; <i>Willelmi Malmesbiriensis monachi de gestis pontificum Anglorum libri quinque</i>, ed. N. E. S. A. Hamilton, Rolls Series, 52 (1870), 247&#150;8 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20897&amp;istheme=&amp;target=Symeon%20of%20Durham%2C%20Opera')">Symeon of Durham, <i>Opera</i></a>, 2.127 &middot; W. D. Macray, ed., <i>Chronicon abbatiae Rameseiensis a saec. x usque ad an. circiter 1200</i>, Rolls Series, 83 (1886), 24&#150;5, 43 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20897&amp;istheme=&amp;target=Ordericus%20Vitalis%2C%20Eccl.%20hist.')">Ordericus Vitalis, <i>Eccl. hist.</i></a>, 2.340&#150;42<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Julia Barrow, &#145;<span class="roman"><span class="headword">Oscytel </span>  (<em>d.</em> 971)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/20897, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Oscytel (<em>d.</em> 971): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20897 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

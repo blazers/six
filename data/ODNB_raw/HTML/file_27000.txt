@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27000;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27000-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27000-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27000#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Taubman,  Matthew</span>  (<em>d.</em> 1690?), <span class="occ">poet and satirist</span>, of whose early life nothing is known, worked as laureate for the lord mayor of London's inauguration from 1685 until 1690. His earliest printed texts, <span class="italic">The Courtier's Health</span> (1682?) and <span class="italic">An heroick poem to his royal highness the duke of York on his return from Scotland &hellip; with some choice songs and medleyes on the times</span> (1682), betray a close observation of recent political events. The latter sought to legitimize the royal succession with repeated references to the duke's heritage and achievements:<blockquote>
+<div>You, Sir, are both the heavn's and Oceans care,<br>
+</div>
+<div>Whose Gods in your protection claim a share;<br>
+</div>
+<div>Who from devouring Deeps, as him before,<br>
+</div>
+<div>Did in your life, our lives and hopes restore.<br>
+</div> (ll. 5&#150;8)</blockquote>Written in the fragile aftermath of the Popish Plot when the stability of social order was threatened by the actions of dissenters and cabals, Taubman's collection of <span class="italic">Loyal Poems and Satyrs upon the Times, since the Beginning of the Salamanca Plot</span> (1685) is punctuated by familiar themes of parentage and inheritance. Acting as an editor, he dedicates the verses to the gentlemen of the &#145;Loyal Club at the Dog in Drury Lane&#146;, implying that his earlier works had received an unenthusiastic literary reception  (sig. A2<i>v</i>).<br>
+<br>Following the death of Thomas Jordan later in the same year, Taubman became responsible for producing a series of annual civic festivities to mark the mayoralities of Sir Robert Jefferys (<span class="italic">London's Annual Triumph</span>, 1685, for which he received a payment of &pound;10 out of a total budget of expenditure of &pound;473), Sir John Peake (<span class="italic">London's Yearly Jubilee</span>, 1686), Sir John Shorter (<span class="italic">London's Triumph, or, The Goldsmiths Jubilee</span>, 1687), Sir John Chapman (<span class="italic">London's Anniversary Festival</span>, 1688), and Sir Thomas Pilkington (<span class="italic">London's Great Jubilee</span>, 1689). J. G. Nichols speculated that Taubman's apprenticeship for this post could be traced back to a broadside dated 1659 and initialled &#145;M. T.&#146; (<span class="italic">The Cities New Poet's Mock Show</span>, now held in the British Library), which attacked the previous year's pageant conceived in honour of Sir John Ireton  (Nichols, 107&#150;8, 115). Heralded by the <span class="italic">London Gazette</span> as created &#145;to express the benefits the city enjoys of peace and plenty under his Majesties happy government&#146;, the entertainments represented a sequence of visually stunning ratifications of the capital's wealth, status, and influence, while providing simultaneous opportunities for the validation of sovereignty and for London's governing factions to promote the triumph of popular will. Full textual descriptions, introduced by two panegyrical dedications to the monarch and to the sponsoring company, were printed to perpetuate these effects: &#145;Nor is the Book the least Addition to the Luster of this Day, which is read by those who see not the Pageantry; and when all the rest is over, remains a lasting and visible Monument to Posterity&#146;  (M. Taubman, &#145;Preface&#146; to <span class="italic">London's Yearly Jubilee</span>, 1686). Within the pageants themselves, themes of loyalty, peace, harmony, obedience, industry, sanctioned authority, and watchfulness reverberate, culminating in 1689, when Sir Thomas Pilkington, a &#145;leading Presbyterian&#146; and whig dissenter who had twice been imprisoned for his actions in protecting London's privileges, was installed as lord mayor. Taubman's civic rituals were shot through in this year with strong libertarian, populist references:<blockquote>When Arbitrary Force, and the Lawless Usurpation had Unreasonably Imposed upon us New Lords, and New Laws, contrary to the Practice, and known Customs, of this City. Then did You, in Defence of our Just Rights and Liberties, stand in the Gap, and Bravely Oppos'd the Violence of the Impetuous Torrent. (M. Taubman, <span class="italic">London's Great Jubilee</span>, sig. A2<i>r</i>)</blockquote>This pageant was revived on 9 November 1761. It is assumed that Taubman died in 1690. There were no civic festivities that year, and Elkanah Settle inherited his post in 1691.<br>
+<br>Taubman's son <a name="cosubject_27000"></a><span class="headword">Nathaniel Taubman</span>  (<em>d.</em> 1716) took orders and became a <span class="occ">chaplain in the Royal Navy</span>, accompanying the British squadron in Mediterranean campaigns in 1708&#150;9. His experiences formed the basis of <span class="italic">Memoirs of the British fleets and squadrons in the Mediteranean, anno 1708 and 1709 &hellip; to which is annexed, a cursory view of Naples</span> (1710), which was dedicated to Edward, earl of Orford, and to Sir Edward Whitaker &#145;for his Generous and Kind Regard to Chaplains serving at Sea in general, and for Favours to the Author in particular&#146;  (p. 121). In 1710 he was appointed on a five-year contract as chaplain to the English factory at Leghorn (although the opposition from the Inquisition prevented Taubman from leaving England until October 1711) and on 14 November he obtained the degree of MA from Pembroke College, Oxford. In 1716 he printed <span class="italic">A funeral sermon [on Ecclesiastes 7: 1] preach'd in the chapel belonging to the British Society of Merchants at Leghorn; &hellip; occasion'd by the death of &hellip; B. Kennet, D.D., some time their minister</span>, as a delayed tribute to his predecessor. Taubman also produced a volume of verse, <span class="italic">Virtue in Distress, or, The History of Mindana</span>, &#145;a faint Imitation of Dryden's Knight's Tale from Chaucer&#146;  (sig. [A1<i>r</i>]) in 1706. Latin and English verses were also appended to <span class="italic">Memoirs of the British Fleets and Squadrons</span>  (pp. 131, 190&#150;94). He died in 1716.<br>
+<br>Elizabeth Haresnape </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27000&amp;istheme=&amp;target=BL%20cat.')"><i>BL cat.</i></a> &middot; H. Ellis and F. Douce, <i>A catalogue of the Lansdowne manuscripts in the British Museum</i>, 2 vols. (1812&#150;19) &middot; <i>Index of manuscripts in the British Library</i>, 10 vols. (1984&#150;6) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27000&amp;istheme=&amp;target=Wing%2C%20STC')">Wing, <i>STC</i></a> &middot; M. Taubman, <i>An heroick poem to his royal highness the duke of York on his return from Scotland</i> (1682) &middot; M. Taubman, <i>London's anniversary festival&hellip;for Sr. John Chapman</i> (1688) &middot; M. Taubman, <i>London's annual triumph</i> (1685) &middot; M. Taubman, <i>London's great jubilee restor'd</i> (1689) &middot; M. Taubman, <i>A description of the several pageants, exhibited on the 29th day of October, 1689, being the day on which the late Sir Thomas Pilkington, knt. entered for a second time on his mayoralty</i> (1761) &middot; M. Taubman, <i>London's triumph, or, The Goldsmiths jubilee</i> (1687) &middot; M. Taubman, <i>London's yearly jubilee</i> (1686) &middot; M. Taubman, <i>Loyal poems and satyrs upon the times, since the beginning of the Salamanca plot, written by several hands</i> (1685) &middot; N. Taubman, <i>A funeral sermon [on Ecclesiastes 7:1] preach'd in the chapel belonging to the British Society of Merchants at Leghorn&hellip;occasion'd by the death of&hellip;B. Kennet, D. D., some time their minister</i> (1716) &middot; N. Taubman, <i>Memoirs of the British fleets and squadrons in the Mediteranean, anno 1708 and 1709&hellip;to which is annexed, a cursory view of Naples</i> (1710) &middot; N. Taubman, <i>Virtue in distress, or, The history of Mindana</i> (1706) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27000&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27000&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201660%3F90')">HoP, <i>Commons, 1660&#150;90</i></a> &middot; J. G. Nichols, <i>London's pageants</i><i>: 1, Accounts of fifty five royal processions and entertainments in the City of London, 2, A bibliographical list of lord mayors pageants</i> (1831) &middot; W. Hone, <i>The every day-book, or, The guide to the year</i>, 1 [1859], 671 &middot; J. P. Malcolm, <i>Londinium redivivum, or, An antient history and modern description of London</i>, 2 vols. (1802&#150;7), 2.45&#150;7 &middot; K. Sharpe, &#145;&#147;So hard a text?&#148;: images of Charles I, 1612&#150;1700&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27000&amp;istheme=&amp;target=HJ')"><i>HJ</i></a>, 43 (2000), 383&#150;406 &middot; G. S. De Krey, &#145;Political radicalism in London after the Glorious Revolution&#146;, <em>Journal of Modern History</em>, 55 (1983), 585&#150;617 &middot; J. K. Wood, &#145;&#147;A flowing harmony&#148;: music on the Thames in Restoration London&#146;, <em>Early Music</em>, 23 (1995), 553&#150;81 &middot; M. Burden, &#145;&#147;For the lustre of the subject&#148;: music for the lord mayor's day in the Restoration&#146;, <em>Early Music</em>, 23 (1995), 586&#150;91 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27000&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Elizabeth Haresnape, &#145;<span class="roman"><span class="headword">Taubman,  Matthew</span>  (<em>d.</em> 1690?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/27000, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Matthew Taubman (<em>d.</em> 1690?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27000 
+                <br />
+
+                
+
+ Nathaniel Taubman (<em>d.</em> 1716): doi:10.1093/ref:odnb/27000<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

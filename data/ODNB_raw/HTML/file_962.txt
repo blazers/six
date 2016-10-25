@@ -1,0 +1,441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 962;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/962-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/962-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=962#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=00962&amp;orientation=p')"><img border="0" alt="  Charles Babbage (1791&#150;1871), by Antoine Claudet, c.1847&#150;51" onmouseover="status='  Charles Babbage (1791&#150;1871), by Antoine Claudet, c.1847&#150;51'" src="/images/article-imgs/0/00962_1_200px.jpg"></a><span class="imagecaption"><b>  Charles Babbage (1791&#150;1871)</b>, by Antoine Claudet, <em>c.</em>1847&#150;51</span>
+</div>
+<div class="para">
+<span class="headword">Babbage,  Charles</span>  (1791&#150;1871), <span class="occ">mathematician and computer pioneer</span>, was the first son born to Benjamin Babbage (<i>d</i>. 1827), a well-to-do London banker, and Elizabeth (Betsy, Betty) Plumleigh Teape (<i>d</i>. 1844). Confusion has surrounded both the year and place of Babbage's birth. This confusion is not an invention of modern historiography but dates back to the last century since when Babbage is variously cited as having been born in Totnes, Teignmouth, or London, in either 1791 or 1792. The date of birth has been consistently recorded as 26 December, and as the records of St Mary's Newington in London date his baptism as 6 January 1792, his year of birth was evidently 1791. The location of the church makes it likely that Charles was born at his father's house in Crosby Row, on what was to become Walworth Road in Southwark, London. Both parents were natives of Totnes and from well-known Devon families. Charles was one of four children: two brothers, born in 1794 and 1796, did not survive infancy; his sister, Mary Anne, was born in 1798 and outlived him.<h2>
+<a name="Education"></a>Education</h2>Babbage's schooling was unsystematic and fractured by illness. After a violent fever at the age of about ten he was sent from London to Devon to recuperate. He was placed at a school in Alphington in the care of a clergyman who had instructions to administer a programme of tuition that would not tax the feeble boy, a mission, Babbage wryly recalled, which the clergyman &#145;faithfully accomplished&#146;  (Babbage, <span class="italic">Passages</span>, 1864, 10). When sufficiently recovered he was placed in a small school in Enfield for about three years. He was especially struck by a treatise on algebra, <span class="italic">Ward's Young Mathematician's Guide</span>, which he found in the school library. His interest in mathematics was already evident and he went so far as to institute early morning self-study sessions with a schoolfellow before formal classes began. He later passed into the care of a clergyman near Cambridge for a few years and finally, before going to Cambridge University, spent some time in Totnes, where he was instructed in classics by an Oxford tutor. &#145;Being passionately fond of algebra&#146;  (Babbage, <span class="italic">Passages</span>, 1864, 26) he spent his leisure reading what mathematical works came to hand. By the time he went to Cambridge he was already a moderately accomplished mathematician having studied Woodhouse's <span class="italic">Principles of Analytical Calculation</span> (1803), Lagrange's <span class="italic">Th&eacute;orie des fonctions analytiques</span> (1797), <span class="italic">Analytical Institutions</span> (1748) by the Italian mathematician Marie Agnesi, and other works on fluxions.<br>
+<br>Babbage entered Trinity College, Cambridge, in April 1810 and migrated to Peterhouse in 1812. He was a spirited undergraduate and relished the company of his friends. He played chess, participated in all-night sixpenny whist sessions, and missed lectures and chapel to go sailing on the river with his friends. He formed a close and enduring friendship with <script>writeSeealsoLink('../view/article/13101/', "John Herschel")</script>, son of the astronomer William Herschel, who had entered St John's College in 1809. Babbage espoused and advocated radical views: he admired Napoleonic France (with which Britain was still at war), decried the unquestioned acceptance of doctrine exemplified by the inflexible religious context of university life, and lamented the lack of receptivity to continental theories in mathematics. From his pre-university reading he was already conversant with the different notations used in differential calculus by Newton, Leibniz, and Lagrange, and looked forward, as a new undergraduate, to having his curiosity and mathematical puzzlements illuminated by his tutors. In this he was disappointed. Disaffected with the set curriculum he preferred instead a programme of study of his own which favoured the works of foreign mathematicians.<br>
+<br>As a spoof on the dogmatism of <span class="roman">Bible</span> societies he produced rough proposals for a society for translating a work on calculus by the French mathematician Lacroix. The hypothetical society would promulgate the use of Leibniz's d-notation in preference to the orthodoxy of Newton's dot-notation favoured by the Cambridge dons. Edward Bromhead was shown an outline of the parodic scheme and this was converted into a serious proposal for the formation of a society for the promotion of analysis and the reform of mathematics. The <script>writeSeealsoLink('../view/theme/95963', "Analytical Society")</script> was formed in 1811 and survived until 1817. Prominent among its leaders were Babbage, John Herschel, and George Peacock. The society published a mathematical work in 1813, <span class="italic">Memoirs of the Analytical Society</span>. The preface and first paper &#145;On continued products&#146; were written by Babbage, and were followed by two papers by Herschel. The role of the Analytical Society in the incipient movement to reform Cambridge mathematics by ending its isolation from continental mathematics is undeniable, but success was not immediate and the extent of the society's impact on the analytical movement is still debated.<br>
+<br>Babbage was Peterhouse's &#145;crack man&#146; and he was expected to excel in the final Senate House mathematics examinations. However, he graduated without honours, receiving a &#145;poll&#146; degree in 1814 and his MA in 1817. In the public disputations that were a part of the procedure to pre-classify candidates according to ability he attempted to defend the proposition that God was a material agent. The moderator regarded this thesis as blasphemous and dismissed Babbage out of hand. It is unclear whether this was the cause of Babbage not sitting the final examinations or whether he chose not to. Either way his failure to win honours put paid to any immediate hopes he may have had of a Cambridge fellowship and he left Cambridge in 1814. In later life Babbage recalled his student years with warmth devoid of rancour.<h2>
+<a name="Familylife"></a>Family life</h2>Babbage married Georgiana Whitmore on 2 July 1814 in Teignmouth, Devon. After several temporary residences the couple made their home in London at 5 Devonshire Street, Portland Place, towards the end of 1815. Georgiana bore at least eight children of whom four survived childhood: Benjamin Herschel (named after Babbage's father and Babbage's friend John Herschel); Dugald Bromhead (named after Dugald Stewart, professor of moral philosophy at Edinburgh, and Edward Bromhead); <a href="#cosubject_51593">Henry Prevost Babbage [<i>see below</i>]</a>; and Georgiana (<i>d</i>. 1834). Babbage had no paying post and the couple lived for the most part on a modest but comfortable annual income of &pound;450 of which &pound;300 was an allowance from his father. In 1827 Babbage suffered a series of personal tragedies: his wife (in her mid-thirties), his father, and two of his children (his second son Charles and a newborn son) all died. Taking Richard Wright, one of his workmen, as a travelling companion, Babbage embarked on a recuperative tour of the continent which lasted from October 1827 to November 1828. He travelled extensively, met prominent scientists, and visited workshops and craftsmen as part of his study of the techniques and machinery of manufacture. During this time the two younger children, Dugald and Henry, were cared for in the household of their late mother's sister, Harriet Isaac, near Worcester, while Herschel and Georgiana stayed in the family home in Devonshire Street cared for by Babbage's mother. Once returned to London, Babbage moved to 1 Dorset Street, Manchester Square, which remained his home until his death. His mother maintained a family base in nearby Devonshire Street and relieved him of the care of the children. His only daughter, Georgiana, died in 1834 in her teens. His mother, whom he adored, was a source of practical and moral support; his relationship with his father, whom on occasion he described as stern, intemperate, and critical, was less happy. On his father's death in February 1827 Babbage inherited a sizeable estate worth about &pound;100,000. He did not remarry. His mother died on 5 December 1844 in her eighties.<h2>
+<a name="Scientificworkandreform"></a>Scientific work and reform</h2>Once settled in London, Babbage rapidly established himself on the scientific scene. He was energetic, polymathic, and inventive. He delivered a series of twelve general lectures on astronomy at the Royal Institution in 1815 and became a fellow of the Royal Society in 1816. He participated in the foundation of the Astronomical Society in 1820 serving as one of its first secretaries (1820&#150;24), vice president (1824 and 1825), foreign secretary (1827&#150;9), and member of council (1820&#150;28 and 1830&#150;33); he was presented with the society's gold medal in 1824 for his work on his calculating engine. Babbage was active in the British Association for the Advancement of Science (BAAS) and served as one of its trustees (1832&#150;8). He successfully instituted a committee for statistical activities at the association's annual meeting in Cambridge in 1833. This was formalized into the statistical section of the BAAS in 1835 and also led to the foundation of the Statistical Society of London in 1834. His participation in the activities of scientific societies declined as the analytical engine increasingly dominated his attention from the mid-1830s. He was elected as Lucasian professor of mathematics at Cambridge in 1828 and occupied this coveted chair until 1839 though he gave no lectures and was rarely resident. In his seventies he wrote of the deep gratitude he still felt for the honour conferred on him by Cambridge, commenting, perhaps not without bitterness, that the Lucasian chair was the only honour he received in his own country. Babbage stood as a Liberal candidate for the two-member seat of Finsbury in the general election of 1832 and again in the by-election of 1834. He was defeated on both occasions&#151;though doing well in 1832&#151;and surrendered further political ambition.<br>
+<br>Babbage's first publication (&#145;On continued products&#146;, 1813) was the first of some dozen mathematical papers which dominated his published output until 1822. His writings on mathematics show a preoccupation with iterative procedures and the importance of appropriate notational representation to generalizing solutions. His major work was &#145;An essay towards the calculus of functions&#146;, which appeared in two parts in the <span class="italic">Philosophical Transactions of the Royal Society</span> in 1815 and 1816. Despite its originality this work was not pursued by others and he appears to have left no direct lasting mathematical legacy. In all Babbage was the author of at least eighty-three published papers and six full-length monographs between 1813 and 1868. His published scientific work is wide-ranging and includes writings on chess, barometric observation, calculating engines, the distribution of births between the two sexes, notation, geology, ciphers, machine tools, solar eclipses, lighthouses, submarines, occulting telegraphs, and statistics. Many of his miscellaneous scientific papers were short and sometimes insubstantial. However, the diversity of the topics is impressive even in an age in which polymathy was not unusual. Mathematical tables were a special interest. He was a connoisseur and collector of printed mathematical tables and a fastidious analyst of tabular errors. His own <span class="italic">Table of Logarithms</span> (1827) involved nine separate stages of checking and was generally considered the most reliable of his day. Babbage was an inveterate inventor and experimenter and delighted in instruments and mechanical contrivances. He constructed the first known ophthalmoscope in 1847 for examining the interior of the eye. He showed it to a well-known ophthalmic surgeon, Thomas Wharton Jones, who regarded it indifferently, an act subsequently regarded by a historian as a &#145;monumental folly&#146;. Credit for the invention went to Hermann von Helmholtz four years later. In the late 1860s Babbage pioneered pressure die-casting techniques in the quest for a cheap means of producing repeatable parts for his calculating engines. Some of his cast parts date from at least as early as 1868, some twenty years before any other authenticated production.<br>
+<br>Babbage's full-length works reflect his broader preoccupations with scientific and industrial life, political economy, and philosophy. His most successful work was <span class="italic">On the Economy of Machinery and Manufactures</span> first published in 1832. The book ran to four editions between 1832 and 1835 and was translated into six European languages. <span class="italic">Economy</span> was a product of a conscientious and detailed survey of factories and workshops in England and on the continent prompted by the demands for precision in the construction of his first calculating engine. The work is not a thesis on macroeconomic theory but an encyclopaedic record of craft, manufacturing, and industrial processes, as well as an analysis of the domestic organization of factories. He advocated the decimalization of currency, foresaw the role of tidal power as an energy source, and predicted the exhaustion of coal reserves, later commenting that if posterity failed to find a substitute for coal then it deserved to be frostbitten. <span class="italic">Economy</span> was a turning point in economic writing and firmly established Babbage as a leading authority of the industrial movement.<br>
+<br>Babbage was a vociferous critic of the scientific establishment. His <span class="italic">Reflections on the Decline of Science in England</span> (1830) was a scathing and sarcastic attack on the Royal Society and on the conduct of its officers, whose personal and professional probity he pointedly impugned. It was a broadside of outrage and insult and he argued more to protest than to persuade. Babbage's declinist views were shared by others though he was alone in the vehemence of their public expression. His friend Herschel, to whom he showed a draft, wrote that if he (Herschel) could do so with impunity he would give Babbage &#145;a good slap in the face&#146;  (Morrell and Thackray, 48). <span class="italic">Decline</span> gave a decisive boost to the movement to reform organized science though the nature and vigour of the assault was viewed by many of Babbage's contemporaries as ill considered. It also soured his relationship with the scientific establishment. He wrote to the duke of Somerset in 1835 flatly informing him that since its publication he had &#145;never attended the Royal Society nor even indirectly taken any part in its affairs&#146;  (Babbage to the seventh duke of Somerset, 3 Dec 1835, Bulstrode MSS, CBS).<br>
+<br>
+<span class="italic">The Ninth Bridgewater Treatise</span> (1837), though fragmentary in parts, is Babbage's most philosophically rewarding work. Eight <span class="roman">Bridgewater Treatises</span> were officially commissioned under the terms of the will of the eighth earl of Bridgewater. The purpose of the essays was to close the widening rift between rational science and natural theology. Babbage's <span class="italic">Ninth</span> was a supernumerary offering, not an official commission. In it he argued against William Whewell's assertion that scientific and religious modes of thought were incompatible and that mathematicians and mechanists were therefore disqualified from theological debate. This was anathema to Babbage, who set out to reconcile rational science with deism. One of Babbage's more intriguing arguments involved an explanation of miracles. He argued that just as programmed discontinuities in a sequence of numbers generated by his calculating engine were not a violation of computational rule, so, by analogy, miracles in nature were not a violation of natural law but a manifestation of a higher law&#151;God's law, as yet undiscovered. In the pre-Darwinian decades there was major scientific opposition between uniformitarians who held that geological changes and by implication natural law were essentially gradual, and catastrophists who posited that extreme and comparatively sudden phenomena were responsible for geological discontinuities. Babbage visited the Temple of Serapis at Pozzuoli in 1828 and the geological speculations in his <span class="italic">Treatise</span> were based on observations he made there. His position was essentially allied to the views of the geologist Charles Lyell, a leading advocate of the uniformitarian doctrine.<br>
+<br>The Great Exhibition of 1851 was the largest industrial manufacturing spectacular yet staged. Babbage's exclusion from the organization of the event was for him an incomprehensible affront to his self-perception as an elder statesman of the industrial movement. In <span class="italic">The Exposition of 1851, or, Views of the Industry, the Science and the Government of England</span> (1851) he vented his grievances by alleging weakness and incompetence on the part of the exhibition's commissioners. The book includes pitiful passages on solitude, and the despair to which his efforts, personal sacrifices, and lack of recognition had at times reduced him. The work is ungracious in its treatment of others. But it does provide a rare insight into the darker moments of Babbage's struggles and is, despite its title, emotionally more revealing than his overtly autobiographical work, <span class="italic">Passages from the Life of a Philosopher</span> (1864). <span class="italic">Passages</span> is a rambling, colourful, anecdotal account of Babbage's life and work. It is unusual by the conventions of autobiography in that it contains little introspection and few details of its author's personal life. Babbage's wife, Georgiana, is not mentioned and Babbage refers once and only obliquely to the blackest single year of his life, 1827, during which four members of his immediate family died. The chapter on the &#145;abominable nuisance&#146; of street musicians is often cited in evidence of Babbage's reputation for eccentricity. He despaired at repeated interruption of his work by street disturbance and campaigned tirelessly for legal reforms, attracting, on occasions, public ridicule. His autopsy report, which came to light in 1983, raises the intriguing possibility that Babbage's acute sensitivity to noise was due to a medical condition involving cochlear degeneration caused by arterial disease. <span class="italic">Passages</span> remains a rewarding and entertaining volume, rich in mischief, self-parody, and false modesty. Babbage was offered the position of director and actuary of the fledgeling Protector Life Assurance Company with the prospect of an annual income of &pound;2500, a substantial improvement on his father's grudging allowance. He spent several months studying the life assurance business and computed a new set of life tables. The venture was abandoned the day before its scheduled launch on 1 July 1824. Babbage used his actuarial knowledge as the basis for a small popular work, <span class="italic">A Comparative View of the Various Institutions for the Assurance of Lives</span> (1826). The book was not intended for the professional actuary but for the general populace unwary of the pitfalls of conveniently misrepresented benefits. It was, at least in part, a work of consumer protection with Babbage self-cast as champion of the expos&eacute;.<h2>
+<a name="Calculatingengines"></a>Calculating engines</h2>It is on the invention of automatic calculating engines that Babbage's posthumous fame largely rests. For all his other interests it is the engines, their design and construction, that dominated his working life. In later years he was reminded by a friend of the occasion of the first dawning of the idea to calculate mathematical tables by machine. The event supposedly occurred in 1812 or 1813 while Babbage was an undergraduate at Cambridge. The account is probably apocryphal. A more credible account of the genesis episode is that given closer to the event by Babbage himself. The occasion was a meeting in 1821 with Herschel during which they set about checking some newly computed astronomical tables. Dismayed by the errors Babbage exclaimed &#145;I wish to God these calculations had been executed by steam&#146;  (Buxton, 46). By May 1822 Babbage had completed a small experimental version of his difference engine, so called because of the mathematical principle on which it was based, the method of calculating finite differences. Following the favourable recommendation of the Royal Society in May 1823, and the advocacy of influential supporters, Babbage secured government financial backing for his proposal to construct a larger, fully engineered machine, Difference Engine no. 1. In June 1823 in a private interview with the chancellor, F. J. Robinson, he was granted &pound;1500 from the Civil Contingency Fund to prosecute the venture. No written record appears to have been made of the meeting and the nature and extent of the government's commitment is obscure. For his part Babbage consistently maintained that he had been officially commissioned &#145;to complete and to bring to perfection an engine for the construction of numerical tables&#146;  (TNA: PRO, T 52/111, fol. 1) with the full expectation that requisite funds would be forthcoming.<br>
+<br>Babbage engaged the engineer Joseph Clement and a period of concentrated work ensued. During Babbage's extended travels between 1827 and 1828 the project was entrusted to John Herschel. On his return the project was hindered by fitful funding difficulties. Repeated applications were made to the Treasury and the advice of the Royal Society was sought on two further occasions. Royal Society reports delivered in 1829 and 1831 were both favourable and the Treasury advanced further tranches of money. Babbage had Clement assemble a small section of the engine as a demonstration piece. The assembly, which worked impeccably, represented about one-seventh of the whole machine and was ready towards the end of 1832. This section of Difference Engine no. 1, transferred to the Science Museum, London, in 1862, is the first known automatic calculator and ranks among the most celebrated icons in the prehistory of computing. In March 1833 Clement halted work following an argument with Babbage over compensation for transferring the project from Clement's works near the Elephant and Castle to specially built fireproof workshops adjacent to Babbage's house. The physical construction of the engine was never resumed. At the time that Clement downed tools almost all the parts (about 12,000) for the calculating section of the engine were complete but unassembled. Some of these were later cut up or melted down by Babbage for reuse in the analytical engine, some were used by Henry Prevost, Babbage's youngest son, after his father's death, and the rest were consigned to the melting pot. An estimated 12,000 parts for automatically printing and stereotyping results remained unmade. After the last payment to Clement in August 1834 the government's outlay had totalled &pound;17,478. The collapse of the project after a decade of design and development was the central trauma in Babbage's scientific life. He was never fully reconciled to the dismal outcome.<br>
+<br>A desultory and unsatisfactory correspondence between Babbage and successive governments ensued. In 1842 he pressed for an interview with the politically beleaguered prime minister, Sir Robert Peel. By that time Babbage had invented the more sophisticated analytical engine and had conceived of a simpler difference engine. He had planned to propose to Peel a new financial basis for funding the construction of his new engine designs. The proposals were intended to allow the government to fulfil what Babbage regarded as its binding commitment to fund an engine to completion and at the same time relieve the Treasury of the full burden of so doing. The meeting with Peel, which took place on 11 November 1842, was unfortunate. They argued and Babbage stormed out (&#145;if those are your views, I wish you good morning&#146;; 11 Nov 1842, BL, Add. MS 37192, fol. 189), his new proposals undisclosed. Between 1847 and 1849 Babbage designed Difference Engine no. 2, an elegant and more efficient version of its predecessor. Plans were offered to the government in 1852 but with no result. (In a twentieth-century sequel, the calculating section of Difference Engine no. 2 was completed at the Science Museum, London, in 1991, the bicentennial anniversary of Babbage's birth.) Despite Babbage's impassioned advocacy for his engines, experts disagreed about the utility and cost benefits of producing mathematical tables by mechanical means. George Biddell Airy, astronomer royal from 1835 to 1881, <i>de facto</i> scientific adviser to government, and official arbiter of the utility of calculating engines, when consulted by the Treasury in 1842, pronounced Babbage's difference engine to be &#145;useless&#146;  (CUL, RGO 6/427, fol. 65).<br>
+<br>Babbage's standing as the first pioneer of computing relies less on his difference engines than on his conception and design of the analytical engine. The most creatively active period of development occurred between 1834 and summer 1836, by which time the essential principles of the analytical engine had been established. He continued to work on improved designs until 1846 and then intermittently from the mid-1850s until his death. Unlike the difference engine, which was a fixed-function calculator, the analytical engine was conceived as a general-purpose machine capable of calculating virtually any mathematical function. It had a repertory of the four basic arithmetical functions (addition, subtraction, multiplication, and division) and was programmable&#151;that is, it could be instructed to perform any of these operations in any sequence. The machine was to be programmed using punched cards, a technique borrowed from the Jacquard loom, where it was used to control the patterns of woven thread. The analytical engine could be instructed to repeat the same sequence of operations a specifiable number of times (a process later called looping or iteration) and was capable of choosing alternative actions depending on the value of a result (conditional branching). A landmark in the development of the design was the internal organization of the machine: Babbage separated the section which stored numbers (the &#145;store&#146;) from the section which processed numbers (the &#145;mill&#146;). He made no serious attempt to construct a full-scale analytical engine until 1857 and his efforts were sporadic and inconclusive. Apart from a few small test assemblies, all that survived in mechanical form is an experimental section of the mill under construction at the time of his death.<br>
+<br>Babbage published little on the conception and design of either of his engines. However, others did&#151;notably Dionysius Lardner, who published in 1834 a long and sometimes bumptious article on Difference Engine no. 1, and Ada Augusta, countess of Lovelace, daughter of Lord Byron. Lovelace translated a paper on the analytical engine by the Italian engineer Luigi Menabrea (later prime minister of Italy) following a visit by Babbage to Turin in 1840. Working in close collaboration with Babbage she added copious notes of her own and her &#145;Sketch of the analytical engine&#146; was published in 1843. While the originality of Lovelace's technical contribution to the &#145;Sketch&#146; has been questioned it remains the most penetrating and articulate contemporary account of Babbage's most celebrated invention. Babbage, indebted to her for her expository role, addressed her in correspondence as &#145;my dear and much admired interpreter&#146; (Babbage to Lovelace, 9 Sept 1843, transcript and facsimile in B. A. Toole, <span class="italic">Ada: the Enchantress of Numbers</span>, 1992, 236). The major record of Babbage's work on calculating engines was deposited in a substantial manuscript archive at the Science Museum, London. The archive includes some 500 large design drawings and twenty &#145;Scribbling books&#146; which record, with little concessionary explanation, the evolution of his ideas.<h2>
+<a name="Deathandlegacy"></a>Death and legacy</h2>Babbage died on 18 October 1871 at his house, 1 Dorset Street, Manchester Square, London, and was buried six days later in Kensal Green cemetery, London. His last days were disturbed by the din of organ grinders and street nuisances outside his house. A post-mortem examination conducted seventeen hours after death cited the evident cause of death as &#145;suppuration of the kidney&#146;. The first published biography of Babbage referred to him in its title as the &#145;Irascible genius&#146;  (Moseley). The sharpness of this image remains unsoftened by subsequent scholarship.<br>
+<br>Babbage bequeathed his workshop, drawings, and remaining engine parts to his youngest son, <a name="cosubject_51593"></a><span class="headword">Henry Prevost <span class="st"> [Henry Provost]</span> Babbage</span>  (1824&#150;1918)<span class="occ"></span>, who continued to work on the engines; his efforts were conscientious but without the inventive inspiration of his father. Henry was born on 16 September 1824 and after attending Bruce Castle School, Tottenham, Middlesex, from 1831 to 1834 he entered University College School, in 1835, and University College, London, in 1840. He graduated in 1842. On his father's insistence Henry and his brother Dugald attended the workshop and drawing office at Dorset Street several times a week. It was here in his teens that Henry learned workshop skills and mechanical drawing from Babbage's workmen. The brothers also attended several of Babbage's celebrated Saturday soir&eacute;es which were frequented by the social, scientific, and literary &eacute;lite. Henry sailed for India as a military cadet in April 1843 and retired with the rank of major-general in 1874. He was married in India on 17 February 1852 to Mary (Min or Minnie) Bradshawe. He twice returned to England on furlough: the first lasted from May 1854 to November 1856 during which he involved himself in his father's engine pursuits; the second stretched from March 1871 to November 1873, during which time he was present at his father's death. He returned from India in 1875 to settle in Bromley, Kent, where he lived for ten years, moving to Cheltenham in 1885. In November 1854 he met Georg and Edvard Scheutz, the Swedish father and son who were in London to promote a difference engine of their own, the construction of which had been stimulated by Lardner's account of Babbage's machine published in 1834. Babbage had devised a mechanical notation, an elaborate system of notational symbols used to identify parts of his machines and describe their interrelated motions. After viewing the Scheutzes' difference engine, exhibited at Somerset House in April 1855, Henry produced the mechanical notations for the Swedish machine. These were exhibited, pasted on calico, at the British Association meeting in Glasgow in September that year, in Paris the following month, and at the Institution of Civil Engineers in May 1856. In later years Henry attempted to interest others in the notation but the technique was almost completely ignored. Henry sold the contents of his father's workshop in March 1872 but kept some tools, a few lathes, and a planing machine. He retained a workman called Wight and engaged another (Doncaster) to progress a large four-function calculator designed as part of the mill of the analytical engine. In retirement he worked sporadically on the mill, which he assembled in the workshop of R. W. Munro. In 1910 the device calculated and printed the first twenty-two multiples of pi to twenty-eight places though not without error. Henry compiled a large volume of papers, <span class="italic">Babbage's Calculating Engines</span>, published in 1889. This consists primarily of selections of his father's published work on the design and history of the machines and papers by others, as well as some material by Henry himself. He assembled five or six small demonstration pieces from unused parts of Difference Engine no. 1. These he sent to the universities of London, Cambridge, Manchester, and Harvard, USA. He died at Mayfield, Lansdown Place, Cheltenham, on 29 January 1918. In the late 1930s the Harvard model, offered in 1896, came to the attention of Howard Aiken, an early pioneer of electronic computing who drew attention to Babbage's work in the early years of the electronic age. Despite Henry's efforts to keep his father's work alive the direct influence of Babbage's work on the electronic computer is tenuous. Even so, the late twentieth century saw a significant revival of interest in this remarkable Victorian.<br>
+<br>Doron Swade </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Campbell-Kelly, ed., <i>The works of Charles Babbage</i>, 11 vols. (1989) &middot; C. Babbage, <i>Passages from the life of a philosopher</i> (1864); new edn with introduction, ed. M Campbell-Kelly (1994) &middot; A. Hyman, <i>Charles Babbage</i><i>: pioneer of the computer</i> (1982); repr. (1984) &middot; B. Collier, <i>The little engines that could've</i><i>: the calculating machines of Charles Babbage</i> (1990) &middot; <i>Memoirs and correspondence of Major-General H. P. Babbage</i> (1910) &middot; M. Moseley, <i>Irascible genius</i><i>: a life of Charles Babbage, inventor</i> (1964) &middot; H. W. Buxton, <i>Memoir of the life and labours of the late Charles Babbage</i>, ed. A. Hyman (1988) &middot; J. M. Dubbey, <i>The mathematical work of Charles Babbage</i> (1978) &middot; A. G. Bromley, &#145;The evolution of Babbage's calculating engines&#146;, <em>IEEE Annals of the History of Computing</em>, 9 (1987), 113&#150;36 &middot; H. W. Becher, &#145;Radicals, whigs and conservatives: the middle and lower classes in the analytical revolution at Cambridge in the age of aristocracy&#146;, <em>British Journal for the History of Science</em>, 28 (1995), 405&#150;26 &middot; <i>Babbage's calculating engines</i>, ed. [H. P. Babbage] (1889); repr. with introduction by A. G. Bromley (1982) &middot; A. A. Lovelace, &#145;Sketch of the analytical engine&#146;, <em>Scientific Memoirs</em>, 3 (1843), 666&#150;731 &middot; D. Lardner, &#145;Babbage's calculating engine&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=EdinR')"><i>EdinR</i></a>, 59 (1834), 263&#150;327 &middot; M. Campbell-Kelly, &#145;Charles Babbage's table of logarithms&#146;, <em>IEEE Annals of the History of Computing</em>, 10 (1988), 159&#150;69 &middot; M. Lindgren, <i>Glory and failure</i>, trans. C. G. McKay (1987); [2nd edn] (Cambridge, MA, 1990) &middot; D. Swade, <i>Charles Babbage and his calculating engines</i> (1991) &middot; M. Campbell-Kelly, &#145;Charles Babbage and the assurance of lives&#146;, <em>IEEE Annals of the History of Computing</em>, 16 (1994), 5&#150;14 &middot; J. Morrell and A. Thackray, <i>Gentlemen of science</i><i>: early years of the British Association for the Advancement of Science</i> (1981) &middot; W. W. R. Ball, <i>A history of the study of mathematics at Cambridge</i> (1889) &middot; H. Barton, &#145;Pressure diecasting in the eighteen-sixties: Charles Babbage's use of the technique on his &#147;calculating engine&#148;&#146;, <em>Diecasting and Metal Moulding</em> (May&#150;June 1972), 14&#150;15 &middot; D. Swade, <i>The cogwheel brain</i><i>: Charles Babbage and the quest to build the first computer</i> (2000) &middot; d. cert. [Henry Prevost Babbage] &middot; C. Babbage, letters to seventh duke of Somerset, CBS, Bulstrode papers &middot; TNA: PRO, T 52/111 &middot; CUL, R 606/427 &middot; A. G. Bromley, &#145;Babbage's analytical engine plans 28 and 28a&#151;the programmer's interface&#146;, <em>IEEE Annals of the History of Computing</em>, 22/4 (2000), 5&#150;19<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=BL')">BL</a>, corresp. and papers, Add. MSS 37182&#150;37205
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=CUL')">CUL</a>, corresp., notebooks, and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>, papers
+   &middot;
+ SML, papers, notebooks, and drawings; social diary and diplomas
+   &middot;
+ U. Cam., scientific periodicals library, papers
+   &middot;
+ Wanganui Regional Museum, New Zealand, literary MSS and papers&nbsp;|&nbsp; Birr Castle, Offaly, archives, letters to Lord Rose and Lady Rose
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, letters to William Somerville and Mary Somerville and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=CBS')">CBS</a>, letters to duke of Somerset
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=Ransom%20HRC')">Ransom HRC</a>, corresp. with Sir John Herschel
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=RAS')">RAS</a>, letters to the Royal Astronomical Society
+   &middot;
+ Royal Library of Belgium, Brussels, letters to A. Quetelet
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=RS')">RS</a>, corresp. with Sir John Herschel
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=RS')">RS</a>, letters to Sir John Lubbock
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=Scott%20Polar%20RI')">Scott Polar RI</a>, letters to Sir John Franklin
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=U.%20St%20Andr.%20L.')">U. St Andr. L.</a>, corresp. with James Forbes<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> watercolour miniature, 1813 (paired with portrait of his fianc&eacute;e, Georgiana), repro. in Swade, <i>Charles Babbage</i>; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=priv.%20coll.private%20collection')">priv. coll.</a> &middot; J. Linnell, engraving, 1832, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a> &middot; J. Linnell, stipple, pubd 1833, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; R. C. Roffe, engraving, 1833, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a> &middot; S. Laurence, drawing, <i>c.</i>1835&#150;1837, repro. in Swade, <i>Charles Babbage</i>; priv. coll. &middot; W. Brockedon, chalk drawing, 1840, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=NPG')">NPG</a> &middot; S. Laurence, oils, <i>c.</i>1845, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=NPG')">NPG</a> &middot; A. Claudet, daguerreotype, <i>c.</i>1847&#150;1851, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; photograph, 1847&#150;51, repro. in Swade, <i>Charles Babbage</i>; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=priv.%20coll.private%20collection')">priv. coll.</a> &middot; H. Claudet, photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=962&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;40,000: double probate, Dec 1872, <i>CGPLA Eng. &amp; Wales</i> (1871)<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Doron Swade, &#145;<span class="roman"><span class="headword">Babbage,  Charles</span>  (1791&#150;1871)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2009 [http://www.oxforddnb.com/view/article/962, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Babbage (1791&#150;1871): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/962 
+                <br />
+
+                
+
+ Henry Prevost Babbage (1824&#150;1918): doi:10.1093/ref:odnb/51593<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/962/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

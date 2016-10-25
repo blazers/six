@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13228;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13228-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13228-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13228#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Higgins,  Bryan</span>  (<em>c.</em>1741&#150;1818), <span class="occ">medical practitioner and chemist</span>, was born in Sligo, Ireland, the son of Bryan Higgins (<i>d</i>. 1777), medical practitioner; little is known about his education. As his family, eminent in medicine, was Roman Catholic, he probably attended irregular &#145;hedge schools&#146;. It was customary for Irish Catholic students to go abroad for higher education, and on 5 October 1765 he enrolled at the University of Leiden &#145;at the age of 24&#146;  (Wheeler and Partington, 51), passing the medical examination on 2 November and defending his thesis ten days later. Where he had studied medicine is thus not known. He practised medicine in London, but saw the entrepreneurial possibilities of chemistry.<br>
+<br>About 1770 Higgins married Jane, daughter and heir of J. Welland of London, and in 1774 opened a school of practical chemistry with a laboratory in Greek Street, Soho. The laboratory was 30 ft long, extensively equipped with furnaces and several thousand glass vessels; large chimneys were built to carry off the fumes of chemical reactions. Josiah Wedgwood's showroom was nearby, and so was Sir Joseph Banks's house in Soho Square: it was a fashionable area, and Higgins clearly possessed charm and social grace, which recommended him to the scientifically minded gentry of Hanoverian London. He became a friend of Samuel Johnson and of James Boswell, and Benjamin Franklin and Edward Gibbon were among his auditors. Joseph Priestley had attended Higgins's lectures, and bought chemicals from him, but became an enemy following a dispute over experiments on air, in which Higgins accused Priestley of stealing experiments from other chemists. Priestley retaliated by making an attack on Higgins's character, portraying him in a pamphlet as socially inferior and sycophantic.<br>
+<br>In 1775 Higgins published the first of several syllabuses of his lectures; copies of these were forwarded by Jean de Magellan (1722&#150;1790) to Lavoisier in Paris. In 1776 he published experiments on the freezing of sea water, and on 8 January 1779 he patented a cement composed of sand, slaked lime, limewater, and bone ash&#151;a cement he claimed was cheap and durable. He promoted it in a book published in the following year, describing the experiments leading to its production. In 1786 Higgins published his best-known work, <span class="italic">Experiments and observations relating to acetous acid, fixable air, dense inflammable air, oils and fuels</span>. The work, associated with his lectures, shows his concern both with the practicalities of heating and lighting systems, and also with the nature of matter and its relation to heat and light. These were Newtonian concerns typical of the day, but Higgins's reasoning was acute and original. He believed that the particles composing airs were hard and globular, surrounded by atmospheres of fire. They might acquire polarity, and definite repulsive and attractive forces were associated with them; these forces were &#145;saturated&#146; in compounds. His nephew <script>writeSeealsoLink('../view/article/13235/', "William Higgins")</script> developed these ideas further, and both Higginses have been seen as precursors of John Dalton, although his theory was much more testable and had a rather different basis.<br>
+<br>In 1788 Higgins had published analyses of mineral waters, an important business at that period. In November 1793 he issued proposals for a society, and on 25 January 1794 established the Society for Philosophical Experiments and Conversations. The first chairman was Field Marshal Conway; Charles, third earl of Stanhope, was a member; and Thomas Young acted as Higgins's assistant. The subscription was 5 guineas, and the society met weekly at 8 p.m., over a period of six months, at Higgins's house in Greek Street. The society's <span class="italic">Minutes</span> were published in 1796. Although short-lived, the society demonstrated the demand, and the gentlemanly support, for scientific knowledge in London, which was later exploited by the Royal Institution.<br>
+<br>Presumably through the influence of his highly placed associates, in 1796 Higgins was appointed at &pound;1000 per annum, later increased to &pound;1400, to improve sugar and rum in Jamaica, and went to Spanish Town, from where he returned in 1801. His <span class="italic">Observations and Advices</span> in this profitable technology was published between 1797 and 1803. Before leaving London, he had sold his apparatus and after his return does not seem to have been very active in chemistry, though in 1803 he did advise the Royal Institution about its laboratory, at the suggestion of Humphry Davy.<br>
+<br>Higgins died in 1818 at Walford in Staffordshire. He had made his career in an atmosphere of chemical and technical progress and optimism, where devising oil lamps which looked like candles, and heating systems based on warm air, went with and were as important as performing chemical analyses and syntheses.<br>
+<br>David Knight </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Thackray, &#145;Higgins, Bryan&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13228&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; T. S. Wheeler and J. R. Partington, <i>The life and work of William Higgins, chemist, 1763&#150;1825</i> (1960) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13228&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; J. Priestley, <i>Philosophical empiricism</i><i>: containing remarks on a charge of plagiarism respecting Dr H&#151;s</i> (1775)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> wealthy: Wheeler and Partington, <i>Life and work of William Higgins</i>, 2, 28<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Knight, &#145;<span class="roman"><span class="headword">Higgins,  Bryan</span>  (<em>c.</em>1741&#150;1818)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13228, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Bryan Higgins (<em>c.</em>1741&#150;1818): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13228 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

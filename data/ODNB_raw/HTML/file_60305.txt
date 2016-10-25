@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 60305;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/60/60305-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/60/60305-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=60305#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Andrew</span> <span class="st"> [St Andrew]</span>  (<em>fl. </em>1st cent.), <span class="occ">apostle and patron saint of Scotland</span>, was a fisherman from Capernaum in Galilee.<h2>
+<a name="Historyandlegend"></a>History and legend</h2>In the synoptic gospels Andrew is merely mentioned as one of the twelve disciples of Jesus, but in the gospel of <span class="roman">St John</span> he appears as a follower of John the Baptist, who introduced him to Jesus. Andrew then went to his brother Simon and said, &#145;We have found the Messiah&#146;  (<span class="roman">St John</span> 1: 35&#150;44). For this reason Andrew acquired the epithet the First-called, which came to be much used, in the East and in Orthodox tradition, to give parity or priority compared with Peter and Rome, and also in Scotland, in the struggle for independence for state and church from England, and from York, the see of Peter.<br>
+<br>A few references in early Christian sources (especially Eusebius, <span class="italic">Historia ecclesiastica</span>, derived from Origen) give as Andrew's missionary field northern Turkey and &#145;Scythia&#146; (probably modern Crimea or southern Russia). This tradition led to stories of his personal conversion of Georgia and Ukraine, and of travels even as far as Novgorod, and so to the particular honour in which St Andrew has been held in Russia. &#145;Scythia&#146; is also the usual imagined setting for adventures in some early <i>acta</i> (&#145;deeds&#146;) of the saint, which take him on a mission to rescue a fellow apostle from cannibals. Versions of this story, full of excitement and wonders, are known from many sources in various languages, and that it was known in England is demonstrated by the remarkable Anglo-Saxon poem <span class="italic">Andreas</span>, written before 950.<br>
+<br>In religious and secular tradition in the West, however, this miraculous story came to be played down, understandably, and the <i>acta</i> as appearing in the apocryphal <span class="roman">New Testament</span> are largely devoted to missionary work in Asia Minor and then in Greece, and to martyrdom there, at Patras. In this story the saint's death is preceded by a lengthy debate with the Roman governor Aegeas on the mystery of Christ's sacrificial death, and an impassioned speech addressed to the cross as the instrument of Andrew's welcomed martyrdom.<br>
+<br>This is the uplifting account as it appears in the Catholic liturgy, in the sixth-century work of Gregory of Tours, <span class="italic">Liber de miraculis beati Andreae apostoli</span>, and in the <span class="italic">Golden Legend</span> of about 1293. It forms the substance too of the account of St Andrew in the <span class="italic">Scottish Legends of the Saints</span> (this compilation is dated to about 1400, but nothing is said in it of St Andrew's importance to Scotland, or of relics of the saint being there).<br>
+<br>The whole Patras story is very unlikely to have any basis in historical fact, but to have been developed after some martyr's tomb there was mistakenly identified or claimed as that of St Andrew the apostle. It should be noted that in no early or medieval text is there any reference to Andrew's being put to death on a special X-shaped cross.<h2>
+<a name="ThecultofStAndrew"></a>The cult of St Andrew</h2>The cult of the saint began on a major scale in 357 or thereabouts with the transfer to Constantinople from Patras of bones then believed to be those of Andrew the apostle. Thus the emperor Constantius II (<i>r</i>. 337&#150;61) acquired relics for the &#145;new Rome&#146; to match those of Peter and Paul in &#145;old Rome&#146;. In the next generation Bishop Ambrose followed by funding his own church of the Holy Apostles in Milan, with relics of St Andrew (among other saints); these he presumably acquired from Constantinople. The cult of St Andrew spread over Italy, being especially strong at Ravenna and Rome, and his festal day was fixed as 30 November by the mid-fifth century, to judge from a calendar of the church at Carthage. It so appears also in the early Roman sacramentaries.<br>
+<br>The cult only developed in Gaul in the sixth century, but then rapidly became popular, there and generally in the West. Pope Gregory the Great (<i>r</i>. 590&#150;604) had dedicated the monastery he had founded in Rome to St Andrew, and it was from this house that he sent Augustine in 597 to promote Christianity in England. This probably accounts for the fact that Augustine's church at Rochester, the second episcopal foundation after Canterbury, was dedicated in St Andrew's name.<br>
+<br>Andrew was a favoured saint for Anglo-Saxon church dedications (next to Peter). Another important early devotee was Bishop Wilfrid (<i>d</i>. 709/10), among whose religious foundations was the church dedicated to St Andrew at Hexham in Northumbria. It is probable that it was from there that the cult was taken to Scotland, and first to Kinrymont in Fife.<br>
+<br>St Andrew has remained a popular saint in England over the centuries, and there are some 570 pre-Reformation churches to his name. They are particularly numerous in East Anglia and the east midlands, and up to Lincolnshire and Yorkshire, and in the south-west (except in Cornwall); less frequent in the London area, the west midlands, and the north-west. The cathedral at Wells is a St Andrew dedication.<br>
+<br>The saint figures in sculptures in English churches (there are three examples, from different periods, in Worcester Cathedral, for instance). There is a fine modern chapel to him &#145;and the Scottish saints&#146; in Westminster Cathedral, London. In stained glass and wall painting he mainly appears with other apostles. The one window that gives scenes from his legend is in Greystoke church, near Penrith, Cumbria.<h2>
+<a name="ThecultinScotland"></a>The cult in Scotland</h2>The earliest religious settlement at Kinrymont (St Andrews) may have been of an Irish monastic type. However, about 710, as Bede relates  (Bede, <span class="italic">Hist. eccl.</span>, 5.21), the Pictish king Nechtan (<i>d</i>. 732) made contact with the &#145;Roman church&#146; in Northumbria, adopted their doctrinal rules, and also had a stone church built in the name of St Peter (possibly at Restenneth in Angus). It is historically plausible to suppose that this could have been followed by the dedication of a church to St Andrew in Pictland. Nechtan's successor was a King Oengus, and in the St Andrews foundation legend it is a King Oengus who sets up St Andrew's cult at Kinrymont.<br>
+<br>Versions of the legend differ in important details, but in all of them the king is motivated by a promise of help against his enemies given to him by St Andrew in a dream or vision. In one version there is a reference to an appearance in the sky of the sign of the cross of Christ, a detail which perhaps derives from the story of the emperor Constantine's vision in 312. It is important to note that the vision is not described as of a &#145;cross of St Andrew&#146; in the manuscript sources or in the work of the chroniclers Fordun (<i>d</i>. 1363) and Bower (<i>d</i>. 1449); however, it is so described by Boece, writing (1527) when the association of the saint with the particular X-shaped cross had become well established.<br>
+<br>Another element in the foundation legend (which raises insurmountable chronological difficulties) is the story of a monk Regulus bringing some bones of St Andrew from the East in the fourth or fifth century, for housing in the new church of the saint established by Oengus. There certainly were relics of some kind later at St Andrews, and this story was presumably developed to account for their presence, and in a way possibly designed to cover up an &#145;English&#146; provenance. By 900 the bishop at St Andrews seems to have come to be recognized as the chief bishop of Scotland, and the shrine of the saint was a place of pilgrimage, but its real importance dates from the establishment of the Augustinian priory under David I, with great new ecclesiastical buildings, and the planned development of the burgh under the bishops' patronage. In the following centuries church and town flourished, and the huge cathedral was finally completed and dedicated in 1318. Pilgrims visited in numbers, of their own volition or as part of a penance, though unfortunately there are few personal notices, and no collection of miracle stories survives. St Andrews' status was marked by the establishment of the first Scottish university there in 1412.<h2>
+<a name="PatronsaintofScotland"></a>Patron saint of Scotland</h2>St Andrew was not the overwhelmingly favoured dedicatee for pre-Reformation churches in Scotland (twenty-four, compared with at least twenty for St John the Evangelist and nearly forty for St Peter). Nevertheless, under the Malcolm dynasty of kings St Andrews Cathedral was the seat of Scotland's chief bishop, and his shrine probably the main goal of pilgrimage in the country. It is appropriate to recognize him as pre-eminent patron in a religious sense, and the St Andrews foundation legend makes him such. It is probably anachronistic, however, to give this political significance and to call him patron saint of the Scottish nation before the end of the thirteenth century.<br>
+<br>The decisive moment came in 1286 when, on the death of Alexander III, guardians were appointed to rule the kingdom, and they authorized production of a great seal, with, in place of the king, the figure of St Andrew (on his X cross). The legend &#145;Andreas dux esto Scotis compatriotis&#146; (&#145;Andrew be leader of your Scottish compatriots&#146;), shows how the saint was to be the unifying symbol and champion, not just of the church, or of a royal house, but of the whole people. Even so, this was probably an establishment rather than a popular choice. Chroniclers of early wars had made St Columba Scotland's champion in battle, and Robert I before Bannockburn (1314) is said to have prayed to the &#145;Scottish saints&#146; as well as to St Andrew (and to St Thomas of Canterbury). It was relics of St Columba, not bones of St Andrew, that were taken to that battlefield, though the dedication of St Andrews Cathedral in 1318 was made into a thank-offering for the victory, which, in this context, was ascribed to St Andrew.<br>
+<br>The wars of independence with England certainly consolidated St Andrew's &#145;official&#146; position. During the struggle use was made in propaganda of the saint, particularly in correspondence involving the popes, when the Scots wished them to back their claims for independence against the English kings. This is particularly evident in a bull of Boniface VIII  (Stones, 81&#150;7). Such propaganda sometimes went so far as to say that God had especially favoured the Scots by procuring their conversion through the bones of St Andrew, and at a date, allegedly, long before the conversion of the English. The declaration of Arbroath (1320) makes a similar point about divine favour, implying in fact that Andrew had converted the Scots in person.<br>
+<br>St Andrew was thus firmly established as patron saint of the Scottish people. In the fourteenth century his cross came to be used as a convenient national symbol, especially in opposition to the cross of St George. It is so prescribed in an act of the Scottish parliament of 1385. St Andrew also figures on Scottish coins from this period. He is portrayed on the mace of the faculty of arts of St Andrews University, which dates from 1418, and on the sceptre of 1494 that forms part of the Scottish regalia.<br>
+<br>St Andrew's position over all &#145;Scottish&#146; saints is marked in the Aberdeen breviary of Bishop Elphinstone, which appeared in 1510. Andrew is indisputably and explicitly the patron of church and state, referred to as <i>Scotorum sanctissimus patronus</i>, and, like the Virgin Mary, he is to be honoured in all churches in Scotland with a regular weekly <i>commemoratio</i>. In this he is addressed as <i>pie, sanctorum mitissime</i> (&#145;most gentle of the saints&#146;), an epithet often used for him.<br>
+<br>The triumph of Presbyterianism brought an end to the open cult of saints and to pilgrimage. However, St Andrew and his cross remained plainly significant in the secular world. He appears on coinage of the Stewarts, and was made patron of the Order of the Thistle when this was established in 1687. In following centuries St Andrew's day (30 November) and his flag have played an important role in marking and celebrating Scottishness, both overseas and at home; expatriate Scots often found a St Andrew's Society. Nevertheless there is little evidence for St Andrew himself as a popular saint with real personality for Scottish people, either before or since the Reformation. He was not a figure in story, or in mystery or folk plays, as St George was in England, and his historical and legendary background has not been much exploited in literature or art. He is not mentioned once, for example, by the poets Barbour (<i>d</i>. 1395), Henryson (<i>d</i>. 1490), or Dunbar (<i>d</i>. 1530). Representations in sculpture and painting are mostly recent, and not worthy of particular comment.<br>
+<br>Andrew as a personal name is attested in Scotland from the twelfth century, but to judge from evidence such as charters it was not especially favoured in the middle ages. However, surnames such as Andrewes, Anderson, MacAndrew, as well as Gillanders (&#145;servant of Andrew&#146;), are widely found in Scotland, appearing from the thirteenth century.<br>
+<br>There are very few place names in Scotland that explicitly recall the saint (St Andrews in Fife and Kirkanders in Kirkcudbright are the only notable ones), though in most urban developments there will be a St Andrew's Street or St Andrew's Square, and the centre of Scottish administration in Edinburgh is St Andrew's House.<h2>
+<a name="Relicsiconographyandthesaltire"></a>Relics, iconography, and the saltire</h2>The main shrine of St Andrew is at Amalfi in Italy; supposed bones of the saint were taken there from Constantinople after its capture by crusaders in 1204. A head bone was held from the fifteenth century in Rome, but has now been given to the cathedral in Patras. Any relics of the saint in the cathedral in St Andrews were lost in the Reformation. Small fragments from Amalfi have been donated by recent popes to St Mary's Cathedral in Edinburgh and to the Catholic church of St James in St Andrews.<br>
+<br>In iconography St Andrew is portrayed as a fisherman, or shown on, or with, his cross of martyrdom. This has come to be represented as an X-shaped, or decussate, cross; it often appears in a flimsy, squashed, or scaled-down, that is, in a symbolic, form. In early representations of the saint, however, in manuscripts, sculpture, painting, and stained glass, Andrew is shown as dying on a tree, on a cross planted horizontally, or, most commonly, on an upright, Latin, cross. Such portrayal, on the continent, continued even after the appearance, about 1300, of the decussate cross. This latter form did come to prevail, aided, no doubt, by the adoption by the Burgundian ducal house of St Andrew as their patron saint, and as patron of their order of the Golden Fleece (created in 1429), with the X cross as his emblem.<br>
+<br>A depiction in the Autun troper  (Paris, Biblioth&egrave;que de l'Arsenal, MS 1169) of <i>c</i>.1000 has been wrongly taken by iconographers to represent St Andrew, exceptionally early, on a decussate cross. In fact it shows St Vincent on the Roman instrument of torture, the <i>eculeus</i>. Rather, the decussate cross seems to be found first in British, not continental, portrayals. A font at Langtoft in Yorkshire shows Andrew on such a cross, and has been given an eleventh-century date. Otherwise the earliest examples seem to be seals of St Andrews Priory, from before 1200. There are representations on other seals (Rochester, Ouston) and in a wall-painting (Winchester) by 1250, and the decussate cross becomes standard in church embroidery, sculpture, painting, and window glass in England and Scotland.<br>
+<br>The reason for the emergence of this tradition (and apparently in Britain) is to be sought. It may derive from a mistaken interpretation of a portrayal of St Andrew, holding or with an equal-armed cross of Christ, shown in X rather than upright form, or perhaps even a misunderstanding of a chi-rho figure. This might have led to the belief that it was on a cross of special shape that Andrew died. It is noteworthy that in 1593 the scholar Justus Lipsius, in his <span class="italic">De cruce</span>, refers to the <i>crux decussata</i> as the one &#145;on which a sufficiently old tradition tells us St Andrew died&#146;  (Lipsius, 1.7). He plainly had no text to quote, and nor do modern scholars.<br>
+<br>By the fourteenth century the decussate cross was accepted as a symbol of St Andrew, and, because he was patron saint, as a symbol of Scotland, but its background colour did not settle down as blue until the sixteenth century. The blue and white saltire does appear in Lindsay's armorial of 1541, and it was in this guise that it was incorporated in early designs for the flag of the Union from 1606, and in its final form of 1801.<br>
+<br>The saltire may thus be seen as the chief legacy of St Andrew to the Scottish people.<br>
+<br>Ursula Hall </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J.-M. Prieur, ed., <i>Acta Andreae</i>, 2 vols., Corpus Christianorum, 5&#150;6 (Turnhout, 1989) [incl. Gregory of Tours, <i>Liber de miraculis beati Andreae apostoli</i>] &middot; J. K. Elliott, ed. and trans., <i>The Apocryphal New Testament</i> (1993); rev. edn (1999), 231&#150;302 [based on M. R. James (1924)] &middot; R. A. Lipsius and M. Bonnet, <i>Acta Apostolorum Apocrypha</i>, 2, pt 1 (1898) &middot; D. R. MacDonald, <i>Christianizing Homer</i><i>: the Odyssey, Plato and the Acts of Andrew</i> (1994) &middot; &#145;Andreas&#146;, <i>Anglo-Saxon poetry</i>, ed. and trans. S. A. J. Bradley (1982), 110&#150;53 &middot; W. F. Skene, ed., <i>Chronicles of the Picts, chronicles of the Scots, and other early memorials of Scottish history</i> (1867), 138&#150;40, 183&#150;8, 375&#150;7 [incl. St Andrews foundation legend] &middot; U. Hall, <i>St Andrew and Scotland</i> (1994) &middot; R. K. Hannay, <i>Saint Andrew of Scotland</i> (1934) &middot; M. Ash and D. Broun, &#145;The adoption of St Andrew as patron saint of Scotland&#146;, <i>Medieval art and architecture in the diocese of St Andrews</i>, ed. J. Higgitt (1994), 16&#150;22 &middot; F. Dvornik, <i>The idea of apostolicity in Byzantium and the legend of the apostle Andrew</i> (1958) &middot; W. Braunfels and E. Kirschbaum, <i>Lexicon der christlichen Ikonographie</i>, 5 (1973), cols. 138&#150;51 &middot; C. R. de Fleury and G. R. de Fleury, <i>Les saints de la messe</i>, 10 (1900) &middot; W. Blew, ed., <i>Breviarium Aberdonense</i>, facs. edn, 2 vols., Bannatyne Club, 96 (1854), vol. 1, pt 1, fols. 131&#150;2 ; pt. 2, fols. 1&#150;13, 82&#150;3, 96 &middot; D. McRoberts, ed., <i>The medieval church of St Andrews</i> (1976) &middot; W. M. Metcalfe, ed., <i>Legends of the saints in the Scottish dialect of the fourteenth century</i>, 3 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60305&amp;istheme=&amp;target=STS')">STS</a>, 9 (1896), vol. 1, pp. 63&#150;96; vol. 3, pp. 50&#150;71 &middot; J. de Voragine, <i>The Golden Legend</i>, trans. W. G. Ryan (1993), 1.13&#150;21 &middot; F. A. Forster, <i>Studies in church dedications</i> (1899), 1.84&#150;6; 3 &middot; J. M. MacKinlay, <i>Ancient church dedications in Scotland</i>, 1 (1910), 202&#150;17 &middot; L. R&eacute;au, <i>Iconographie de l'art chr&eacute;tien</i>, 3/1 (1958), 76&#150;84 &middot; E. L. G. Stones, ed. and trans., <i>Anglo-Scottish relations, 1174&#150;1328</i><i>: some selected documents</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60305&amp;istheme=&amp;target=OMT')">OMT</a> (1965) &middot; J. Lipsius, <i>De cruce libri tres</i> (1593)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ursula Hall, &#145;<span class="roman"><span class="headword">Andrew</span> [St Andrew]  (<em>fl. </em>1st cent.)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/60305, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Andrew [St Andrew] (1st cent.): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/60305 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

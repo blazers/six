@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 53925;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/53/53925-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/53/53925-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=53925#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Walton,  Jacob</span>  (<em>d.</em> 1743), <span class="occ">mathematical controversialist</span>, was a Dubliner whose antecedents are unknown. A gentleman of the same name and place whose will (now lost) was proved in 1719 could have been his father. From 1719 to 1740 Walton's name appears in lists of subscribers to a dozen books, all but two published in Dublin. In 1731 &#145;Mr. Walton&#146; attended the first meeting of the Dublin Society, and two years later his full name appeared in the list of members. He came to public notice in England in 1735 as J. Walton, author of <span class="italic">A vindication of Sir Isaac Newton's principles of fluxions against the objections contained in &#145;The analyst&#146;</span>. The latter book had been published anonymously in London and Dublin in 1734 by George Berkeley (1685&#150;1753), bishop of Cloyne.<br>
+<br>Berkeley's objections to fluxions (calculus) as expounded by Newton and Leibniz had centred around the logical absurdity of conceiving the ratio of two infinitely reducing quantities when both vanished; to believe in this fundamental construct of fluxions required an act of faith as great as that demanded by religion. Berkeley answered Walton, &#145;this Dublin Professor&#146;, in <span class="italic">A Defence of Free Thinking in Mathematics</span> (1735), accusing him of evading many of the issues and with the parting shot &#145;I leave him to be tried by his Scholars&#146;  (p. 71). Walton's rejoinder was <span class="italic">The Catechism of the Author [Berkeley] of &#145;The Minute Philosopher&#146; Fully Answer'd</span>. Still anonymous, Berkeley issued <span class="italic">Reasons for not Replying to Mr. Walton's Full Answer</span> (1735), in fact a sarcastic reply (&#145;a facetious man &hellip; an opponent who writes on my side of the Question&#146;; p. 4). Walton responded with an appendix to his <span class="italic">Catechism</span> (added also to a second edition of Berkeley's <span class="italic">Reasons</span>). All the tracts following Berkeley's first were published in Dublin in 1735, and all except <span class="italic">Reasons</span> in London also.<br>
+<br>Walton based his counter-argument on Newton's <span class="italic">Principia</span> and <span class="italic">Quadratura curvarum</span>; while showing &#145;a good intuitive grasp of fluxions&#146;, he &#145;lacked deep philosophic insight&#146;  (Cajori, 93), and can be faulted on some explanations in his <span class="italic">Catechism</span>. Berkeley had shrewdly pinpointed weaknesses in the formulation of the theory that Walton failed to address. The argument was taken up by British mathematicians, including James Jurin (1684&#150;1750), Benjamin Robins (1707&#150;1751), and Colin Maclaurin (1698&#150;1746). The foundations of calculus still remained unsatisfactory, bedevilled by loyalty to Newton, shifting definitions, reliance on geometrical intuition, and lack of appropriate mathematical symbolism. The resolution emerged only in the early nineteenth century, through the work of A. L. Cauchy (1789&#150;1857) and others.<br>
+<br>Since he did not use a forename on his tracts, Walton's identity became obscured. Influenced by Berkeley's reference and by Cajori  (p. 69), the entry in the <span class="roman">British Museum catalogue</span> (1964) reads &#145;WALTON (JOHN) Professor of Mathematics in Dublin University&#146;. There was none such: Jacob Walton was probably a private teacher of mathematics.<br>
+<br>&#145;Jacob Walton, a very eminent Mathematician&#146;, died on 12 July 1743  (<span class="italic">Dublin Journal</span>) in Peter Street, Dublin; he was buried on 15 July in the city's parish of St Peter and St Kevin. The <span class="italic">Gentleman's Magazine</span> added that he had &#145;left upwards of &pound;4,000 to his two Maid-servants&#146;  (<span class="italic">GM</span>, 443), perhaps indicating that he had no close relative. Such a large sum was unlikely to have come from teaching alone.<br>
+<br>Walton was one of those lesser mathematicians who, without original contribution, assimilated and disseminated Newton's ideas and techniques. For an Irish mathematician he was exceptional in having his writings noticed and reprinted in England.<br>
+<br>Ruth Wallis </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>F. Cajori, <i>A history of the conceptions of limits and fluxions in Great Britain</i><i>: from Newton to Woodhouse</i> (1919) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53925&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 13 (1743), 443 &middot; <em>Dublin Journal</em> (16 July 1743) &middot; A. F. Berry, <i>The history of the Royal Society of Dublin</i> (1915), 6, 27 &middot; R. V. Wallis and P. J. Wallis, eds., <i>Biobibliography of British mathematics and its applications</i>, 2 (1986), 28, 54, 58, 161&#150;2, 225 &middot; R. Wallis, &#145;Who was J. Walton?&#146;, <em>Annals of Science</em>, 51 (1994), 539&#150;40 &middot; parish register (burial), 15 July 1743, St Peter and St Kevin, Dublin<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> over &pound;4000: <i>GM</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ruth Wallis, &#145;<span class="roman"><span class="headword">Walton,  Jacob</span>  (<em>d.</em> 1743)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/53925, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Jacob Walton (<em>d.</em> 1743): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/53925 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

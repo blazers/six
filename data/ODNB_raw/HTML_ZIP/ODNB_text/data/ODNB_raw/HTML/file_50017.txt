@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50017;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50017-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50017-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50017#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bondington,  William  of</span>  (<em>d.</em> 1258), <span class="occ">bishop of Glasgow</span>, was probably of Scottish birth, his family name coming from one of the several (now) Bonningtons in Scotland; that in Peeblesshire has been particularly favoured because his first preferment was as parson of Eddleston. He seems not to have attended a university, and first appears as clerk of two chancellors of Alexander II between 1226 and 1231, an office to which he was himself appointed in 1231. He may have been archdeacon of Lothian briefly before he was elected to the see of Glasgow at some time between April and June 1233 and consecrated at Glasgow on 11 September of that year.<br>
+<br>The cathedral in which the ceremony took place had been dedicated in 1197, but under Bishop Walter (1207&#150;32) a new and enlarged nave had been begun. This work was now halted and Bondington began rebuilding the eastern arm on a new spacious plan, containing a larger choir and presbytery, with a square ambulatory and eastern chapels, but supported on a lower church or crypt of superb quality, the finest structure of its kind from thirteenth-century Britain. It includes carved heads of old and boy kings, placing its construction in the years around 1249. An Aberdeen synodal decree of 1242 solicited contributions from the faithful every year during Lent for the work on the fabric&#151;and this may have been copied from Glasgow and imitated in other dioceses.<br>
+<br>Bondington was generous to his chapter, enlarging its common property, providing the archdeacon of Glasgow with a prebend, conceding free election of the dean, and only four days before his death granting to it the liberties and customs of Salisbury, a repetition of the grant of Bishop Herbert (<i>d</i>. 1164) which still left the canons puzzled as to what rights they had acquired; but the bishop's goodwill is undoubted. He also divided the diocese into two archdeaconries in 1238, a move which the parish clergy may not have welcomed. It must have been Bondington and his chapter who had brought the Dominicans to Glasgow by 1246.<br>
+<br>Although he did not go to the Council of Lyons in 1245, Bondington had gone in 1240&#150;41 to attend the abortive church council summoned to Rome and he then obtained from the abbot of Cluny the right of Paisley Abbey to elect its own abbot. He took a close interest in the affairs of this abbey, whose west front is also of this period. It had escaped being converted into a Cistercian house, and the endowments of the abortive Gilbertine foundation of Dalmilling went to it in 1238. This was balanced by Bondington's resolution in 1244 of a dispute whereby he required Paisley to build a monastery at Crossraguel. Although no synodalia can be attributed to him, he appears in the records as a caring, active, even proactive, bishop.<br>
+<br>It is the more remarkable, therefore, that Bondington retained the chancellorship until at least 8 February 1247, evidently by association with the powerful Comyn family, and thereby secured promotion for his friends. His influence was then eclipsed until the Comyns seized power in 1251; the bishop subsequently secured the see of St Andrews for his prot&eacute;g&eacute;, Gamelin. Both were ousted in the coup of September 1255, when Bondington was already an unfit man. He died at his manor of Ancrum on 10 November 1258 and was buried in Melrose Abbey, though he had no close association with it.<br>
+<br>A. A. M. Duncan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Dowden, <i>The bishops of Scotland &hellip; prior to the Reformation</i>, ed. J. M. Thomson (1912), 302&#150;3 &middot; N. F. Shead, &#145;The administration of the diocese of Glasgow in the twelfth and thirteenth centuries&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50017&amp;istheme=&amp;target=SHR')"><i>SHR</i></a>, 55 (1976), 127&#150;50 &middot; A. O. Anderson, ed. and trans., <i>Early sources of Scottish history, <span class="smallcap">AD</span> 500 to 1286</i>, 2 (1922), 268&#150;351 &middot; I. B. Cowan and D. E. Easson, <i>Medieval religious houses</i><i>: Scotland</i>, 2nd edn (1976), 64&#150;5 &middot; A. O. Anderson and M. O. Anderson, eds., <i>The chronicle of Melrose</i> (1936)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Melrose charter, Laing cast, NA Scot. &middot; seal, U. Durham L., Durham dean and chapter archives<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. A. M. Duncan, &#145;<span class="roman"><span class="headword">Bondington,  William  of</span>  (<em>d.</em> 1258)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50017, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William  of Bondington (<em>d.</em> 1258): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50017 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

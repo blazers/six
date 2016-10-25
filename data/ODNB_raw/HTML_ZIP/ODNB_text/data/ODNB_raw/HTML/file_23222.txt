@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23222;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23222-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23222-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23222#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=23222&amp;orientation=p')"><img border="0" alt="Sir  William Read (d. 1715), by William Faithorne the younger" onmouseover="status='Sir  William Read (d. 1715), by William Faithorne the younger'" src="/images/article-imgs/23/23222_1_200px.jpg"></a><span class="imagecaption"><b>Sir  William Read (<em>d.</em> 1715)</b>, by William Faithorne the younger</span>
+</div>
+<div class="para">
+<span class="headword">Read, Sir  William</span>  (<em>d.</em> 1715), <span class="occ">itinerant oculist</span>, was the son of an illiterate shoemaker in Halesworth, Suffolk. He was a man of little education, who flamboyantly advertised his medical and surgical skill, becoming the object of both high honours and considerable lampooning. Through self-promotion and the publication of handbills he established a well-placed London clientele, eventually becoming very wealthy and mixing in the very best London society. By 1694 he was living and practising in the York Buildings, the Strand (later moving to Durham Yard in the Strand), and between 1689 and 1693 he claimed to have performed many cures in provincial towns, including Oxford, where he said he restored thirty blind people to sight by couching. According to one handbill, he offered to treat gratis all wounded soldiers after the battle of Malplaquet (1709), provided their officers certified their participation in the battle. In 1705 Read was rewarded with an appointment as oculist to Queen Anne, and a knighthood for treating seamen and soldiers gratis. In the same year an anonymous poem celebrating his skills and magnanimity appeared, entitled &#145;The Oculist, a Poem Address't to Sir W. Read&#146;.<br>
+<br>It is difficult to assess the validity of Read's claims, though many in his day considered him a fraud. Some said that he was illiterate, although he published a book and a number of handbills. It is certain that he did extensively plagiarize earlier writings, even to the point of repeating detailed case histories. This is evident in his book published about 1705, which circulated under two titles, <span class="italic">A Treatise on the Eye</span> and <span class="italic">A Short but Exact Account of All the Diseases Incident to the Eyes</span>. The first part of the book is an unacknowledged reprint (with a few spelling changes) of the <span class="italic">Breviary of the Eyes</span>, written by Richard Banister in 1621. Every detail of every case history recorded by Banister is repeated by Read as if the patients were his own. Read did omit, however, the chapter by Banister titled &#145;Of proud quacksalving montebanks, that would undertake all cures and performe few&#146;, perhaps because it too closely described his own practices. The second part of Read's book was a reprint (again unacknowledged) of the English translation of <span class="italic">Trait&eacute; des maladies de l'oeil qui sont en nombre de cent treize</span> by Jacques Guillemeau, originally published in 1585. Only the final third of Read's book appears to be his own composition, and it is a forty-page discourse promoting his manual dexterity and his styptic water.<br>
+<br>It is evident that, in addition to practising as an oculist, Read also sold various ointments, purges, and styptic waters during his travels throughout the country. A number of his flamboyant advertisements are preserved, including &#145;Post nubila Phoebus, nihil absque Deo&#146; issued about 1695 (concerned with his remarkable cures of blind people in Oxford, Windsor, Bath, and elsewhere, and with other conditions, such as breast cancer, cured by styptic water) and &#145;Read's true and faithful experiments, lovingly communicated for the good of his countrymen, being a catalogue of those medicaments he sold off his stages during the time of his eighteen years travelling in England, Scotland, Ireland, and many foreign kingdoms&#146;, printed about 1705. These self-promoting handbills were cleverly satirized in a political broadsheet of 1710 entitled <span class="italic">Dr. Sacheverel turn'd oculist, or, Sir W&#151;m R&#151;d's lamentation for the loss of his business</span>. Read was also lampooned in <span class="italic">The Spectator</span> (no. 547), along with some other oculists and quacks of his day.<br>
+<br>In London Read appears to have been considered by some to be skilful, despite his humble origins, irregular education, and boastful advertising. His lavish entertainment of guests prompted Jonathan Swift to write to Stella (5 April 1711):<blockquote>Henley would fain engage me to go with Steele, Rowe, &amp;c., to an invitation at Sir William Read's; surely you have heard of him; he has been a mountebank, and is the queen's oculist. He makes admirable punch, and treats you in golden vessells. (<span class="italic">Journal to Stella</span>, 1984, 155)</blockquote>Read died in Rochester, Kent, on 24 May 1715 and was buried there in the churchyard of St Nicholas. It is said that his widow, Augustina Read, continued his business in Durham Yard, presumably selling his various proprietary potions. Available evidence suggests that Sir William was a more effective self-promoter and plagiarist than he was an oculist.<br>
+<br>Emilie Savage-Smith </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Le Neve's Pedigrees of the knights</i>, ed. G. W. Marshall, Harleian Society, 8 (1873), 490&#150;91 &middot; R. R. James, ed., <i>Studies in the history of ophthalmology in England prior to the year 1800</i> (1933), 122&#150;9 &middot; L. S. King, <i>The medical world of the eighteenth century</i> (1958), 47&#150;50 &middot; &#145;Some famous quacks: V., Sir William Read&#146;, <em>The Practitioner</em>, 78 (1907), 416&#150;21 &middot; TNA: PRO, A Prob 6/91, fol. 71 (146)<i>r</i>. &middot; <i>Dr. Sacheverel turn'd oculist</i> (1710) [copy at BL] &middot; &#145;Post nubila Phoebus, nihil absque Deo&#146; [handbill; copy at BL] &middot; W. Read, &#145;Read's true and faithful experiments&#146; (<i>c.</i>1705) &middot; &#145;The Oculist: a poem address't to Sir W. Read&#146; (1705) [copy at BL] &middot; G. Everitt, <i>Doctors and doctors</i><i>: some curious chapters in medical history and quackery</i> (1888), 254&#150;5 &middot; W. Musgrave, <i>Obituary prior to 1800</i>, ed. G. J. Armytage, 5, Harleian Society, 48 (1901), 121 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23222&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> M. Burghers, engraving &middot; W. Faithorne the younger, mezzotint, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23222&amp;istheme=&amp;target=BM')">BM</a>, RCPL, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23222&amp;istheme=&amp;target=Wellcome%20L.Wellcome%20Library%20for%20the%20History%20and%20Understanding%20of%20Medicine%2C%20London')">Wellcome L.</a> [<i>see illus.</i>] &middot; R. Grave, engraving (after W. Faithorne), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23222&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Emilie Savage-Smith, &#145;<span class="roman"><span class="headword">Read, Sir  William</span>  (<em>d.</em> 1715)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/23222, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  William Read (<em>d.</em> 1715): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23222 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/23222/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

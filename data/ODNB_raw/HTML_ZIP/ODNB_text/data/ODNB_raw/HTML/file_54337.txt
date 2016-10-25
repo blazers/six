@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 54337;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/54/54337-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/54/54337-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=54337#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Newlands,  John Alexander Reina</span>  (1837&#150;1898), <span class="occ">chemist</span>, was born on 26 November 1837 in Southwark, London, the second son of the Revd William Newlands, a Presbyterian minister, and his wife, Mary Sarah Reina. His early education came chiefly from his father. In 1856 he enrolled at the Royal College of Chemistry and studied for a year under A. W. von Hofmann, before becoming assistant chemist to J. T. Way at the Royal Agricultural Society. He energetically supported various social reforms in England, and in 1860 he spent several months with British volunteers fighting for Garibaldi in the Risorgimento (his mother was of Italian descent).<br>
+<br>On 1 June 1862 Newlands married Jane Rickings, daughter of James Rickings, a farmer. From 1864 he was a consulting analytical chemist in London; he also taught at St Saviour's Grammar School, the School of Medicine for Women, and the City of London College. In 1868 he became chief chemist in a sugar refinery at the Victoria docks, owned by James Duncan, with whom he devised and patented several technical improvements. The business eventually declined, and in 1886 he returned to private practice, in partnership with his brother <a href="#cosubject_54337">Benjamin [<i>see below</i>]</a>. The connection with sugar continued, as the brothers, with C. G. W. Lock, published <span class="italic">Sugar: a Handbook for Planters and Refiners</span> (1888), based on an earlier work by Lock and others.<br>
+<br>Despite his marginal position in the academic world, Newlands earned a place in chemical history by his partial anticipation of D. I. Mendeleyev's periodic law, developed in several papers in the <span class="italic">Chemical News</span> between 1863 and 1866, and republished in his <span class="italic">On the Discovery of the Periodic Law</span> (1884). Though unaware of A. E. B&eacute;guyer de Chancourtois's general classification of the elements, Newlands knew that J. B. Dumas had identified &#145;families&#146; of similar elements and noted numerical relationships among their atomic weights. On listing all the known elements in order of ascending atomic weight, Newlands noticed that elements with similar properties occurred at regular intervals. In 1864 he asserted that &#145;the eighth element starting from a given one is a kind of repetition of the first, like the eighth note of an octave in music&#146;  (<span class="italic">Chemical News</span>, 20 Aug 1864, 94), and in 1865 he formalized this relationship as the &#145;law of octaves&#146;. His proposal met with opposition and even ridicule&#151;G. C. Foster suggested ironically that he should arrange the elements in alphabetical order&#151;and the Chemical Society refused to publish his ideas in its <span class="italic">Journal</span>. Newlands's tables did contain errors and anomalies, but after 1869, when more accurate and comprehensive studies by Mendeleyev and J. Lothar Meyer began to appear, he argued for recognition of his priority. When the Royal Society awarded Mendeleyev and Lother Meyer its Davy medal for the discovery of the periodic law, Newlands renewed his campaign; he eventually received the Davy medal in 1887, but was never elected a fellow of the Royal Society. Newlands died on 29 July 1898 at his home, 1 Mildenhall Road, Lower Clapton, London, survived by his wife, daughter, and a son.<br>
+<br>
+<a name="cosubject_54337"></a><span class="headword">Benjamin Edward Reina Newlands</span>  (1842&#150;1912), <span class="occ">chemist</span>, was born on 23 January 1842 in Southwark, the son of William Newlands and Mary Sarah Reina. He was the younger brother and business partner of John Alexander Reina Newlands. Like his elder brother he studied at the Royal College of Chemistry, and also worked under J. T. Way at the Royal Agricultural Society. From 1863 he was chemist to J. Gibbs &amp; Co., leaving to join his brother at Duncans in 1873. He was a council member of the Society of Chemical Industry, and he published a paper on the manufacture of aluminium sulphate from bauxite in its <span class="italic">Journal</span> in 1882. He was married, and had a daughter, Mary. After his brother's death he continued with their chemical consultancy business for a number of years. He died of Bright's disease at Summerville, Eastoke, Hayling Island, Hampshire, on 7 August 1912.<br>
+<br>Michael A. Sutton </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Nature</em>, 58 (1898), 395&#150;6 &middot; <em>Journal of the Society of Chemical Industry</em>, 17 (1898), 743 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54337&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>, vol. 10 &middot; W. A. Smeaton, &#145;Centenary of the law of octaves&#146;, <em>Journal of the Royal Institute of Chemistry</em>, 88 (1964), 271 &middot; J. V. Van Spronsen, <i>The periodic system of the elements</i> (1969) &middot; A. R. Ling, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54337&amp;istheme=&amp;target=JCS')"><i>JCS</i></a>, 103 (1913), 764&#150;5 [obit. of Benjamin Newlands] &middot; m. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54337&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1898) &middot; d. cert. [Benjamin Newlands]<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, University of Pennsylvania Library, Philadelphia [<i>see illus.</i>] &middot; portrait, repro. in D. McDonald and L. B. Hunt, <i>A history of platinum and its allied metals</i> (1982), 336<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;4541 4<i>s</i>. 6<i>d</i>.: probate, 11 Nov 1898, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael A. Sutton, &#145;<span class="roman"><span class="headword">Newlands,  John Alexander Reina</span>  (1837&#150;1898)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/54337, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Alexander Reina Newlands (1837&#150;1898): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/54337 
+                <br />
+
+                
+
+ Benjamin Edward Reina Newlands (1842&#150;1912): doi:10.1093/ref:odnb/54337<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

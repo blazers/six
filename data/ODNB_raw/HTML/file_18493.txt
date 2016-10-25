@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18493;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18493-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18493-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18493#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Medhurst,  George</span>  (<em>bap. </em>1759, <em>d.</em> 1827), <span class="occ">mechanical engineer</span>, was baptized on 11 February 1759 at Shoreham, Kent, the son of George and Anne Medhurst. He was in business as a clockmaker at Pleasant Row, Clerkenwell, London, until the imposition in 1797 of a duty on clocks depressed trade. He then turned to engineering, working at Battle Bridge, Clerkenwell. His first patent, filed in 1799 (no. 2299) was for a windmill and pump for compressing air to obtain motive power. The sails of the windmill were arranged in the manner which became commonplace for pumping windmills, while his machinery showed great ingenuity, with a governor attached to vary the length of stroke to the pump, according to the wind strength and the pressure of air in the reservoir. The specification included a description of a small rotary engine to be worked by compressed air. Medhurst pursued the idea of taking advantage of the available wind to compress large bodies of air, as an energy source for use when required, throughout his life.<br>
+<br>The following year Medhurst patented his Aeolian engine (no. 2431 of 1800), by which a carriage could be propelled by compressed air contained in a reservoir beneath the vehicle. In an undated pamphlet he proposed the establishment of regular coach services, with pumping stations along the route, to replenish the reservoirs. He also described an engine worked by gas produced by exploding small quantities of gunpowder at regular intervals in the cylinder. In 1801 he patented a compound crank for converting rotary into rectilinear motion (no. 2467) and in the same year he took over the patent rights for a washing and wringing machine devised by James Wood in 1790.<br>
+<br>By about 1800 Medhurst had established himself at 1 Denmark Street, Westminster, as a maker of scales and weighing machines, machinist, and ironfounder. He was the inventor of the equal balance weighing machine, patented in 1817 (no. 4164), which found a place on the counter of most retail shops, and he also made heavy duty platforms for weighing goods in sacks, cases, or carts, and for weighing jockeys.<br>
+<br>Medhurst was the first to suggest pneumatic dispatch, as it was later called, whereby letters and small packages were propelled along a tube by compressed air. This idea was not patented; Medhurst published a description in 1810, followed in 1812 by proposals for a pneumatic passenger railway. His plan specified brick tunnels of 30 feet cross-section, through which closely fitting passenger or goods carriages ran on rails. The carriages might, he thought, reach a speed of 50 m.p.h., with goods conveyed at the low cost of a penny per ton per mile, passengers at a farthing per mile. Recognizing that people might not be willing to be propelled through a tube, Medhurst also proposed carriages running on rails on the roadway, connected to a piston driven through a continuous tube beneath the rails. He did not put these plans into action. Like others with similar ideas at this time, he could not devise a practical method of sealing the longitudinal slit in the pressurized tube while permitting the tow bar to pass along.<br>
+<br>Medhurst's steam carriage met with more success; carrying one man it ran between Paddington and Islington on 3 April 1820 and again on 6 July. A year later his more substantial carriage ran up and down Paddington Hill at 5 m.p.h.. By 1827 Medhurst was offering to sell a carriage able to carry four persons at 7 m.p.h.. At this time he was also advertising his patent canal lock, to prevent loss of water, and a leak proof lock gate, though no patents were filed under his name. Medhurst died early in September 1827 and was buried at the church of St Peter and St Paul, Shoreham, on 10 September. He left a widow, Ann, four sons, who inherited his Denmark Street workshop, and five daughters.<br>
+<br>R. B. Prosser<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>private information (1894, 2004) &middot; H. Clayton, <i>The atmospheric railways</i> (1966), 5&#150;7 &middot; G. Clifton, <i>Directory of British scientific instrument makers, 1550&#150;1851</i>, ed. G. L'E. Turner (1995), 186 &middot; TNA: PRO, PROB 11/1730, sig. 549 &middot; death duty register, TNA: PRO, IR 26/1135 fol. 790 &middot; G. Medhurst, <i>A new method of conveying letters and goods with great certainty and rapidity by air</i> (1810) &middot; G. Medhurst, <i>Calculations and remarks tending to prove the practicability, effects and advantages of a plan for the rapid conveyance of passengers upon an iron railway, through a tube of thirty feet in area, by the power and velocity of air</i> (1812) &middot; G. Medhurst, <i>A new system of inland conveyance for goods and passengers capable of being applied and extended throughout the country and of conveying all kinds of goods and passengers with the velocity of sixty miles in an hour</i> (1827)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;6000: will, 1827, TNA: PRO, PROB 11/1730, sig. 549<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. B. Prosser, &#145;<span class="roman"><span class="headword">Medhurst,  George</span>  (<em>bap. </em>1759, <em>d.</em> 1827)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/18493, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Medhurst (<em>bap. </em>1759, <em>d.</em> 1827): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18493 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/18493/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

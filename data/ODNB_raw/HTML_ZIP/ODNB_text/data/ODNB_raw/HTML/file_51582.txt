@@ -1,0 +1,398 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51582;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51582-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51582-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51582#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=51582&amp;orientation=p')"><img border="0" alt="  Srinivasa Ramanujan (1887&#150;1920), by unknown photographer, 1919" onmouseover="status='  Srinivasa Ramanujan (1887&#150;1920), by unknown photographer, 1919'" src="/images/article-imgs/51/51582_1_200px.jpg"></a><span class="imagecaption"><b>  Srinivasa Ramanujan (1887&#150;1920)</b>, by unknown photographer, 1919</span>
+</div>
+<div class="para">
+<span class="headword">Ramanujan,  Srinivasa</span>  (1887&#150;1920), <span class="occ">mathematician</span>, was born on 22 December 1887 in Erode, India, the third of five children (two older sisters died in infancy) of Kuppuswamy Srinivasa (<i>b</i>. 1863), a clerk in a silk merchant's shop, and his wife, Komalatammal (<i>b</i>. 1868), both Tamil-speaking south Indians. He grew up in Kumbakonam, a mid-sized temple town in Tanjore district, about 160 miles south of Madras. His family was of the Brahman, or priestly, caste but poor. To supplement his father's meagre income, Ramanujan's mother sang Hindu devotionals, and the family took in boarders to their small house, which stood within sight of a temple. Ramanujan attended the local high school, then briefly Government College in the same town and, later, also briefly, Pachaiyappa's College in Madras.<h2>
+<a name="EarlystudiesinIndia"></a>Early studies in India</h2>During his early school years Ramanujan showed marked mathematical ability but it was not until he was about sixteen, when a student boarding with the family showed him a copy of an English mathematics text, G. S. Carr's <span class="italic">Synopsis of Elementary Results in Pure and Applied Mathematics</span>, that he blossomed. Charging into the dense mathematical thicket of the book's 5000 theorems, Ramanujan, by now a first-year college student, lost interest in other subjects, failed them, and dropped out.<br>
+<br>Ramanujan had first set out to prove the theorems in Carr's book&#151;a workaday text used to prepare Cambridge students for the mathematical tripos examination&#151;but soon left his remote mentor behind, going where Carr had never gone before or, in many cases, where no one had. Some time between about 1904 and 1907 he began keeping notebooks bearing the record of his mathematical discoveries. For the next few years he worked on his own, along the way reinventing large parts of Western mathematics.<br>
+<br>On 14 July 1909 Ramanujan was married to Janaki, who was nine at the time of her betrothal (the institution of the child bride was still entrenched). Janaki did not go to live with Ramanujan or his family for another three years, but his marriage and the urgings of his parents apparently moved him to seek a livelihood. Soon the impoverished youth, notebooks under his arm, was shuttling up and down south India in search of a job or a patron. He found one in R. Ramachandra Rao, district collector of Nellore and sometime mathematician, who supported him modestly for about a year. In 1911 Ramanujan's first paper, on a class of numbers conceived by the Swiss mathematician Jacob Bernoulli, was published in an Indian mathematics journal.<br>
+<br>His prodigious talents and a widening web of contacts at last brought Ramanujan to the attention of the British colonial administration in Madras. At first no one knew what to do with him but in 1912 he was given a sinecure in the Madras Port Trust, as a clerk, that let him work on mathematics largely unencumbered. His immediate superior, S. Narayana Iyer, something of a mathematician himself, befriended him, and encouraged him to write to England for help and support.<br>
+<br>Several distinguished English mathematicians ignored Ramanujan's entreaties, but Godfrey Harold Hardy, of Trinity College, Cambridge, author of an important text on number theory and a leading figure in British mathematics, was intrigued by the pages of theorems he received from Ramanujan early in 1913. Some of them, he wrote later, &#145;defeated me completely; I had never seen anything in the least like them before&#146;  (Kanigel, 168). Conferring with a friend and colleague, J. E. Littlewood, he decided that this mathematics-strewn letter from a lowly Indian clerk was no hoax, a possibility he had first entertained; rather, it seemed to him, Ramanujan was a mathematician who, in raw ability, was on a par with Euler or Jacobi. In his reply he encouraged Ramanujan, but also urged him to prove some of the theorems he had blithely asserted as fact.<h2>
+<a name="TheCambridgeyears"></a>The Cambridge years</h2>The endorsement from Cambridge helped Ramanujan to obtain a research scholarship at the University of Madras. Ultimately Hardy prevailed on him to go to England, which he did in April 1914&#151;in the face of a traditional proscription against voyages abroad. The mathematical collaboration between the two men lasted for five years and proved one of the most fruitful in the history of mathematics.<br>
+<br>The onset of the First World War, a few months after Ramanujan's arrival, drained Cambridge of mathematicians, including Littlewood, and left Ramanujan almost wholly dependent on Hardy. Hardy introduced the self-taught genius to areas of mathematics about which he knew little but, as Hardy acknowledged later, &#145;I learnt from him much more than he learnt from me&#146;  (Kanigel, 226). Teaching Ramanujan, another mathematician, Laurence Young, wrote later, &#145;was like writing on a blackboard covered with excerpts from a more interesting lecture&#146;  (Kanigel, 227).<br>
+<br>Between 1914 and 1919 Ramanujan turned out paper after paper in the area of mathematics known as number theory, which seeks out patterns among ordinary whole numbers. Several grew out of problems Ramanujan had worked on in India that now, under Hardy's tutelage, he had been able to develop and refine. One was on highly composite numbers&#151;numbers with numerous divisors (such as 24)&#151;that were, in Hardy's phrasing, &#145;as unlike a prime [number] as a number can be&#146;  (Kanigel, 232), and among which Ramanujan had discerned subtle properties and patterns.<br>
+<br>Perhaps the most notable product of the Hardy&#150;Ramanujan collaboration lay in the area of &#145;partitions&#146;, which asks how one can add up whole numbers to get some other whole number: 3 can be viewed as the sum of 1 + 1 + 1, or 2 + 1, or 3 + 0, making for a total of three partitions. Hardy and Ramanujan discovered how to calculate the number of partitions for any number. Along the way they developed the &#145;circle method&#146;, a mathematically subtle approximating technique of broad application.<br>
+<br>In 1918, at the age of thirty, Ramanujan was elected fellow of the Royal Society, only the second Indian so honoured. That forever secured his name in the national affections of India and helped to make him, both before independence and after, a veritable icon of Indian genius. After having been previously denied a Trinity fellowship&#151;almost certainly on account of his race&#151;he was granted one soon after being named a fellow of the Royal Society.<br>
+<br>While in England, Ramanujan fell ill; cancer, vitamin deficiency, lead poisoning, and hepatic amoebiasis have been among the diagnoses advanced over the years, but he was treated mostly for tuberculosis. Ramanujan went from one sanitorium to another. At one point, poor health coupled with the absence of letters from home, loneliness in wartime England, and perhaps the suspicion that much of his earliest work had been for nought, drove him to a suicide attempt in the London Underground. He came away unscathed except for a bloodied shin. Soon after the end of the war, in March 1919, he returned to India to a hero's welcome.<h2>
+<a name="ReturntoIndia"></a>Return to India</h2>Ramanujan's early relationship with his child bride had been limited at best and, apparently at the behest of his mother, he had not taken her with him to England, where he lived alone in rooms at Trinity College. On his return five years later, however, Janaki was a grown woman and they may have shared something like a real marriage, though they did not have children.<br>
+<br>Ramanujan had a fleshy, pockmarked face, the vestige of a childhood bout of smallpox, and for most of his life, at least until his final illness, he was fat. Though immensely creative in higher mathematics, he was only modestly gifted at ordinary arithmetic manipulations. He took interest in philosophical matters. He could be charming and fun. He was not unmindful of society's plaudits; he was plainly delighted by his election to the Royal Society.<br>
+<br>Ramanujan was a practising Hindu of the Vaishnavite sect&#151;his caste name, Iyengar or Aiyangar, sometimes included as part of his name, indicates so&#151;and a scrupulous vegetarian, but whether or not he was genuinely devout has been a matter of some controversy. Hardy maintained that he was not, but much other evidence suggests he was more than mechanical in his observance and that he could in one breath bring logic, reason, and deep insight to the defeat of a mathematical problem and in the next pay homage to his family deity, the goddess Namagiri, to whom some said he attributed his mathematical gifts.<br>
+<br>In India Ramanujan's health continued to decline and, about a year after his return, on 26 April 1920, he died in Madras, where his body was cremated. Until just a few days before his death, he had continued his work, on a mathematical entity he called &#145;mock theta functions&#146; that much impressed fellow mathematicians. In his brief life he made seminal contributions to several areas of mathematics, especially number theory, and he is deemed one of the most profoundly original figures in the history of mathematics.<br>
+<br>Ramanujan's papers were later published in the <span class="italic">Collected Papers of Srinivasa Ramanujan</span> (1927), edited by Hardy, P. V. Seshu Iyer, and B. M. Wilson. His early <span class="italic">Notebooks</span>, brought out in 1957 in two volumes by Tata Institute (Bombay), have been the subject of a five-volume study, <span class="italic">Ramanujan's Notebooks</span> (1985&#150;97), by the American mathematician Bruce Berndt. <span class="italic">The Lost Notebook and Other Unpublished Papers</span> (1988) was published by Narosa (New Delhi) in 1988.<br>
+<br>In the years since Ramanujan's death, many have commented on the fiercely original nature of his contributions particularly his early notebooks, with some wondering whether a more conventional mathematical education would have enhanced, or crimped, his creativity. As it is, Ramanujan's work is still plumbed for its insights, and many mathematicians have attested to the inspiration furnished by his life and work.<br>
+<br>Robert Kanigel </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Kanigel, <i>The man who knew infinity</i><i>: a life of the genius Ramanujan</i> (1991) &middot; B. C. Berndt and R. A. Rankin, <i>Ramanujan</i><i>: letters and commentary</i> (1995) &middot; G. H. Hardy, <i>Ramanujan</i> (1940) &middot; S. R. Ranganathan, <i>Ramanujan</i><i>: the man and the mathematician</i> (1967) &middot; P. K. Srinivasan, ed., <i><i>Ramanujan memorial number</i>, vol. 1</i><i>: <i>letters and reminiscences</i></i> (1968) [Muthialpet High School, Madras] &middot; P. V. Seshu Iyer and R. Ramachandra Rao, &#145;Srinivasa Ramanujan&#146;, <i>Collected papers of Srinivasa Ramanujan</i>, ed. G. H. Hardy, P. V. Seshu Iyer, and B. M. Wilson (1927), 11&#150;19 &middot; E. H. Neville, &#145;Srinivasa Ramanujan&#146;, <em>Nature</em>, 149 (1942), 292&#150;5 &middot; E. H. Neville, &#145;Srinivasa Ramanujan&#146;, typescript of radio broadcast, in or before 1938, U. Reading &middot; S. Ram, <i>Srinivasa Ramanujan</i> (1972)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51582&amp;istheme=&amp;target=CUL')">CUL</a>
+   &middot;
+ National Archives of India, New Delhi
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51582&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, 1919, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51582&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a> [<i>see illus.</i>]<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Robert Kanigel, &#145;<span class="roman"><span class="headword">Ramanujan,  Srinivasa</span>  (1887&#150;1920)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51582, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Srinivasa Ramanujan (1887&#150;1920): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51582 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

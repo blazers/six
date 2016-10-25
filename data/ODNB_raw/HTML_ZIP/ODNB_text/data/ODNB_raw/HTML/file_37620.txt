@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37620;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37620-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37620-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37620#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Joy,  David</span>  (1825&#150;1903), <span class="occ">engineer and inventor</span>, was born on 3 March 1825 in Leeds, one of the five sons of Edward Joy, oil-mill owner of Leeds, and his wife, Ruth. He showed keen interest in machinery from his early days and made ship and engine models, including a charcoal-fired model locomotive which ran at the Leeds exhibition in 1838. In 1840 he went to Wesley College, Sheffield, where he studied engineering drawing and read in particular Thomas Tredgold's <span class="italic">The Steam Engine</span> (1st edn, 1827).<br>
+<br>Joy entered his father's seed-crushing and oil-refining works in 1841. He then started an apprenticeship with Fenton, Murray, and Jackson, locomotive builders. When this firm closed down in 1843 he transferred to the locomotive drawing office of the railway foundry works, Leeds, of Shepherd and Todd, where he became acting chief draughtsman. Here in 1847 he designed the famous Jenny Lind 2&#150;2&#150;2 type express locomotive for the London, Brighton, and South Coast Railway. Tested on the Midland Railway in the following year, one of these machines averaged 56 m.p.h. for 65 miles. This type had considerable influence on locomotive design for many years. In 1850 Joy and Edward Wilson patented twin boilers working in parallel within the same casing.<br>
+<br>In 1850 Joy became superintendent of the Ambergate, Nottingham, Boston, and Eastern Junction Railway and in 1853 of the Oxford, Worcester, and Wolverhampton, both of which were operated under contract by E. B. Wilson &amp; Co. Here all his skill and experience were fully stretched in keeping the service running despite frequent breakdowns of second-hand and unsatisfactory locomotives. Returning to the railway foundry in 1855, he was involved in the building of the &#145;farm engine&#146; of Robert Willis, the forerunner of the tractor and road locomotive, and in 1857 built a double expansion marine engine with innovative features. In 1859 he became manager of De Bergue's, bridge builders of Manchester, and took out patents for an improved steam hammer, whose manufacture was started in his own Cleveland engine works in Middlesbrough.<br>
+<br>In 1874 Joy went to the Barrow Shipbuilding Company as manager of the water-tube boiler department, becoming secretary in 1876. In 1879, following several years' work, he patented his radial valve gear, of simple and compact design, to give improved steam distribution in locomotive and marine engines. This was applied in 1880 to a new London and North Western Railway (LNWR) design of 0&#150;6&#150;0 freight locomotive. Well over 3000 locomotives of the LNWR, Lancashire and Yorkshire, and other railways were fitted with Joy's valve gear, which was also applied by Maudslay &amp; Co. to marine engines, where a saving of 25 per cent in space and weight was achieved.<br>
+<br>In 1867 Joy married Kate, daughter of C. F. Humbert of Watford. They had three sons and two daughters. In 1882 Joy, with his sons, set up an engineering consultancy practice in Westminster to continue and develop applications of his inventions, which included a revolving gun and an organ blower. Among his many inventions one of the most important, for which he was awarded a gold medal at the 1885 inventions exhibition, was the conjugating mechanism enabling the three valves of a triple-expansion marine engine to be driven by only two sets of valve gear. Thirty years later this principle was applied by others to locomotives, and over 3000 were so equipped in Britain, Germany, and elsewhere. He was a member of the Institution of Civil Engineers, of the Institution of Mechanical Engineers, and of the Institution of Naval Architects in England and in the USA.<br>
+<br>Joy died at his home, 118 Broadhurst Gardens, Hampstead, London, on 14 March 1903. He was survived by his wife.<br>
+<br>George W. Carpenter<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Institution of Mechanical Engineers: Proceedings</em> (1903), 357&#150;60 &middot; C. Hamilton Ellis, &#145;Famous locomotive engineers, 14, David Joy&#146;, <em>Locomotive, Railway Carriage and Wagon Review</em> (15 June 1940) &middot; H. A. V. Bulleid, <i>The Aspinall era</i> (1967) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37620&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1903) &middot; <i>The Oxford companion to British railway history</i> (1997)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Institution of Mechanical Engineers, London, collected locomotive engineering drawings&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37620&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, diaries with diagrams and drawings<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Hamilton Ellis, &#145;Famous locomotive engineers&#146;<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1595 19<i>s</i>. 7<i>d</i>.: probate, 24 April 1903, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">George W. Carpenter, &#145;<span class="roman"><span class="headword">Joy,  David</span>  (1825&#150;1903)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/37620, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  David Joy (1825&#150;1903): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37620 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

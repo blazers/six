@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30592;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30592-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30592-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30592#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Barkla,  Charles Glover</span>  (1877&#150;1944), <span class="occ">physicist</span>, was born at Albert Road, Widnes, Lancashire, on 7 June 1877, second son of John Martin Barkla, a Cornishman and secretary of the Atlas Chemical Company. His mother, Sarah Glover, came from Prescot. Barkla attended the Liverpool Mechanics' Institution until 1895 when he won Bibby and county council scholarships to University College, Liverpool. He studied mathematics, and subsequently experimental physics under Oliver Lodge, obtaining a first-class BSc in 1899. He helped found the University Physical Society, becoming its first president. Barkla proceeded, with an 1851 Exhibition scholarship, to the Cavendish Laboratory, Cambridge, to study under J. J. Thomson the propagation of electric waves along thin wires. In his second year he transferred from Trinity to King's College, where he joined the chapel choir under A. H. Mann; Barkla had a magnificent bass voice, which attracted large audiences.<br>
+<br>In the spring of 1902, feeling isolated from the mainstream of Cavendish research and at Thomson's suggestion, Barkla began studying secondary rays scattered from gases exposed to X-rays. He was much influenced by G. G. Stokes's theory, adopted by Thomson, that X-rays were pulses of electromagnetic radiation. Barkla conceived a great admiration for Thomson, recalling that &#145;I felt that the papers that I wrote were for him to read: the appreciation of others was of quite secondary importance. His interest and his publications on and around the subject were then my greatest inspiration&#146;  (Barkla to Rayleigh, 20 Dec 1940, priv. coll.). Nevertheless, poor facilities and a lack of intellectual privacy prompted Barkla to leave the Cavendish later in 1902.<br>
+<br>Barkla was awarded a Cambridge BA research degree in 1903, having already taken up the Oliver Lodge fellowship at Liverpool. In 1904 Liverpool University made him a DSc. In 1907, following his appointment to a special lectureship, Barkla married Mary Esther, daughter of John Thomas Cowell JP of the Isle of Man. They had three sons and one daughter. Barkla was tall, well built, and conservative in dress, with a friendly manner, especially with children. He always preferred living in rural surroundings. A staunch Methodist, he saw scientific investigation as &#145;a part of the quest for God, the Creator&#146;  (<span class="italic">DNB</span>).<br>
+<br>Barkla's finding that X-rays were scattered by the electrons within atoms was published in the <span class="italic">Philosophical Magazine</span> in 1903  (6th ser., 5, 685&#150;98). Thomson incorporated this conclusion within his scattering formula, which Barkla in turn used to obtain two major results. The first was his demonstration that the number of electrons in an atom was comparable with the atomic weight  (published in <span class="italic">Philosophical Magazine</span>, 6th ser., 7, 1904, 543&#150;60), which dealt a significant blow to the view that matter was composed entirely of electrons, and indicated that most of the atom's mass must reside in the positive portion. The second result came from his realization that scattered X-rays should be polarized. In 1904 he tried scattering low energy X-rays from carbon. Encouraged by the results, he undertook a double scattering experiment suggested by his colleague L. R. Wilberforce. His unambiguous demonstration that X-rays could be polarized succeeded where every experimentalist since R&ouml;ntgen had failed, and reinforced the supposition that X-rays were transverse electromagnetic waves; the experiment appeared in <span class="italic">Proceedings of the Royal Society</span>, 77A (1906), 247&#150;55.<br>
+<br>In 1907&#150;8 Barkla became embroiled in a controversy with W. H. Bragg over whether gamma and X-rays were waves or particles, which was finally resolved only in the 1920s with appreciation of their dual nature. Barkla predicted that for unpolarized X-rays twice as much radiation should be scattered forward as at right angles to the incident ray. His experimental confirmation was regarded as strong evidence for the wave nature of X-rays. Barkla found that contrary to light element scattering, radiation scattered from heavy elements such as iron was both unpolarized and of significantly lower energy than the incident rays. It appeared to have an energy characteristic of the emitting element. Working with A. L. Hughes, C. A. Sadler, and J. Nicol, he confirmed the homogeneity of the characteristic radiation and distinguished two groups of homogeneous X-rays from each heavy element. He interpreted these as two series of X-ray spectral lines, &#145;denoted by the letters K and L &hellip; as it is highly probable that series of radiations both more absorbable and more penetrating exist&#146;  (C. G. Barkla, &#145;The spectra of the fluorescent R&ouml;ntgen radiations&#146;, <span class="italic">Philosophical Magazine</span>, 6th ser., 22, 1911, 406). The importance of this interpretation was widely recognized when H. G. Moseley demonstrated the relation between X-ray spectra and atomic number.<br>
+<br>In 1909 Barkla was appointed Wheatstone professor of physics at King's College, London. He continued to live in the country, at Northwood, Middlesex. He was elected a fellow of the Royal Society in 1912. With his students he continued working on characteristic X-rays, investigated the ionization of gases and used new values of the relevant constants to recalculate the number of electrons per atom. He found this to be about half the atomic weight, predating by a year the realization of the significance of the atomic number by E. Rutherford, N. Bohr, and H. G. Moseley.<br>
+<br>In 1912 W. Friedrich and P. Knipping's demonstration of X-ray diffraction was of great significance to Barkla, for it exploited characteristic X-radiation and appeared conclusive evidence for the wave nature of X-rays. Barkla immediately began experiments on X-ray diffraction, collaborating with G. H. Martyn. These were interrupted by Barkla's move to Edinburgh University, where he was appointed professor of natural philosophy in the summer of 1913, soon moving his family to the Hermitage of Braid. He became well known for his singing, and served as a member of the faculty of music, establishing a close friendship with D. F. Tovey, professor of music.<br>
+<br>Barkla took a prominent part in instituting honours degrees in pure science at Edinburgh and in developing the honours school of physics, modelling his leadership style on that of Thomson at the Cavendish. Among other work on the behaviour of electrons, he and A. E. M. M. Dallas obtained results which foreshadowed the discovery of the Auger effect in 1925  (<span class="italic">Philosophical Magazine</span>, 5th ser., 47, 1924, 1&#150;23). In 1916 he gave the Bakerian lecture; he was awarded the Hughes medal of the Royal Society in 1917, and he received the 1917 Nobel prize for his discovery of characteristic X-radiation. In 1918 he decided against applying for the Cavendish professorship at Cambridge, despite Thomson's encouragement.<br>
+<br>After moving to Edinburgh Barkla began searching for a J-series of characteristic radiations, foreshadowed by his work in 1911. In 1916 he and J. G. Dunlop found evidence, when scattering heterogeneous X-rays, for a series of energetic X-rays from the light elements. His first suggestion that these represented transitions from an electron shell inside the K shell proved untenable as atomic theory developed. Barkla then proposed a radically new idea, the J phenomenon. Through his suggestion that the characteristics of a heterogeneous X-ray beam depended on the beam as a whole rather than being the sum of the characteristics of its constituent wavelengths as was generally assumed, Barkla hoped to arrive at a fundamental physical picture underlying the mathematical formalism of quantum theory. While most physicists ignored his results, a few apparent refutations implied that Barkla was a crank. Reassessment in the 1970s suggested that Barkla's results remained unexplained by quantum theory and that although his interpretation may have been mistaken, his questioning of fundamental assumptions was valid, expressed in his view that: &#145;It is to the apparent violations of known laws and not to further confirmation under very precise and specialized conditions that we must look for advance in knowledge&#146;  (<span class="italic">Nature</span>, 131, 1933, 166).<br>
+<br>Barkla ceased publishing after 1933 but continued investigating the J phenomenon, relying extensively on his personal assistant, W. H. Stevens. In 1943 he wrote, &#145;I hope for a solution before I retire in five years! That would be worth many years of toil&#146;  (Barkla to Russ, 5 Jan 1943, priv. coll.). Twenty-one months later Barkla died relatively suddenly at his home, Braidwood, 23 Corrennie Gardens, Edinburgh, on 23 October 1944, his health undermined by the death of his youngest son in service at Carthage the previous year. His wife and three children survived him.<br>
+<br>Isobel Falconer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. S. Allen, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=Obits.%20FRS')"><i>Obits. FRS</i></a>, 5 (1945&#150;8), 341&#150;66 &middot; B. Wynne, &#145;C. G. Barkla and the J phenomenon: a case study in the treatment of deviance in physics&#146;, <em>Social Studies of Science</em>, 6 (1976), 307&#150;47 &middot; private information (1959) &middot; R. J. Stephenson, &#145;The scientific career of Charles Glover Barkla&#146;, <em>American Journal of Physics</em>, 35 (1967), 140&#150;52 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; B. Wynne, &#145;C. G. Barkla and the J phenomenon&#146;, <em>Physics Education</em>, 14 (1979), 52&#150;5 &middot; priv. coll. &middot; b. cert. &middot; d. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=CCI')"><i>CCI</i></a> (1945) &middot; election certificate, RS<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>, corresp. and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Lord Rutherford
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=Ransom%20HRC')">Ransom HRC</a>, letters to Sir Owen Richardson<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1926, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=NPG')">NPG</a> &middot; D. Foggie, pencil drawing, 1934, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30592&amp;istheme=&amp;target=U.%20Edin.')">U. Edin.</a> &middot; photograph, repro. in Allen, <i>Obits. FRS</i> (1947), facing p. 341<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;14,107: confirmation, 4 Jan 1945, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Isobel Falconer, &#145;<span class="roman"><span class="headword">Barkla,  Charles Glover</span>  (1877&#150;1944)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/30592, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Glover Barkla (1877&#150;1944): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30592 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

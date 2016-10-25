@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21851;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21851-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21851-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21851#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Penn,  John</span>  (1770&#150;1843), <span class="occ">engineer</span>, was born near Taunton, Somerset, and apprenticed as a millwright (the name then given to mechanical engineers) at nearby Bridgwater. After a period working in Bristol he moved about 1793 to London. In 1800 he used his savings to open a workshop in Greenwich, specializing in milling machinery. He rapidly acquired a reputation for excellence of design and workmanship that was to remain a feature of the company he founded until its closure. His early speciality was in flour-milling machinery, where he improved and modernized the basic design, replacing the wooden framing with cast iron. His first major order was for machinery to equip the bakery at the Royal Navy's Deptford victualling yard. His work soon attracted the attention of prominent designers, leading William Cubitt to order his first treadmill from Penn in 1817; later examples were used in the London docks and in prisons. About 1824 Jacob Perkins employed him to build his ambitious and complex steam gun. The increasing use of steam for industrial power, together with his riverside location, led to Penn's becoming interested in marine steam engines. In 1822 the pioneer iron steamer <i>Aaron Manby</i> was assembled at Deptford by the Staffordshire engineer after whom she was named. Penn and his sixteen-year-old son <script>writeSeealsoLink('../view/article/21852/', "John Penn (1805&#150;1878)")</script> took the opportunity to inspect her, and particularly her oscillating engines. Within three years Penn had built his first marine engine, for a coastal steamer on the London&#150;Norwich route. The oscillating design was greatly improved from Manby's patent, and by 1838 he was supplying several prominent Thames shipbuilders, notably Ditchburn and Mare.<br>
+<br>Penn, a friend of William Cobbett, was a political radical, and was a parliamentary candidate at Greenwich in 1832. His other interests included horticulture: he used his engineering abilities to improve the design and construction of greenhouses and conservatories. Having largely turned over the direction of the family business to his son John, he died suddenly at home in Lewisham on 6 June 1843. Penn played a vital part in the heroic age of steam engineering; what he lacked in vision and popularity he more than made up for by the quality of his work. He was one of the people who made the steam engine into the prime mover of British commercial, industrial, and strategic power.<br>
+<br>Andrew Lambert </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>P. Banbury, <i>Shipbuilders of the Thames and Medway</i> (1971) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21851&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Andrew Lambert, &#145;<span class="roman"><span class="headword">Penn,  John</span>  (1770&#150;1843)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/21851, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Penn (1770&#150;1843): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21851 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7419;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7419-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7419-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7419#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Deering,  George Charles</span> <span class="st"> [<em>formerly </em>Georg Karl Dering]</span>  (1695?&#150;1749), <span class="occ">botanist</span>, was born in Saxony and educated at the Hamburg Gymnasium and the University of Leiden (1708&#150;10), where he studied under Boerhaave but did not proceed to a degree. After extensive travel in Europe he moved to London in 1713 as secretary to Baron Schach, envoy-extraordinary from Peter the Great to Queen Anne. He decided to stay on in Britain and obtained a series of posts as a tutor until he married, in November 1718; his wife's name is not known. Three days after the wedding he returned to the continent to qualify in medicine. He acquired a degree at Rheims, then proceeded to Paris, where he studied midwifery, anatomy, and botany. He then returned to England in 1719 and set up in medical practice in a poor part of London. Having developed a keenness for field botany while in Paris, he joined a small botanical society, established by John Martyn, which existed from 1721 to 1726.<br>
+<br>By 1736 Deering was no longer married (his wife having died or parted from him), and he thought to improve his position by moving to Nottingham, with a letter of recommendation from Sloane. After two years there he published a list of plants which he had observed in the neighbourhood, one of the earliest British local floras. For some of the cryptogamic coverage in this he was aided by his fellow countryman Dillenius, whose acquaintance he had made in Martyn's botanical society and who afterwards acknowledged the help received from Deering in the preface to his classic work, <span class="italic">Historia muscorum</span>.<br>
+<br>At first Deering was successful in his new practice in Nottingham, especially in treating smallpox, on which he published a small tract setting out his method; but an unfortunate temper seems to have been his undoing and reduced him to something like poverty. Friends bought him &#145;an electrical machine&#146; (doubtless a Leyden jar, for the treatment of rheumatic conditions) by which he was able to earn a little money, but service as an ensign in 1745 in a company of foot raised in Nottingham to counter the Young Pretender's advance proved more expense to him than profit. Then, again by the good offices of friends, the materials collected by John Plumptre for a history of Nottingham were placed in his hands; these he prepared for publication, and the work appeared posthumously in 1751 as <span class="italic">Nottinghamia vetus et nova</span>. Through much of his life Deering suffered from gout, and in later life he became asthmatic. He died on 12 April 1749. He was saved at the last minute from a pauper's burial and laid to rest in St Peter's churchyard, Nottingham, opposite the house he lived in. He is commemorated by a genus of Indo-Malaysian plants, <i>Deeringia</i>, named in his honour in 1810 by Robert Brown.<br>
+<br>B. D. Jackson<span class="italic">, rev. </span> D. E. Allen </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7419&amp;istheme=&amp;target=Nichols%2C%20Illustrations')">Nichols, <i>Illustrations</i></a>, 1.211&#150;20 &middot; R. Pulteney, <i>Historical and biographical sketches of the progress of botany in England</i>, 2 (1790), 257&#150;64 &middot; D. E. Allen, &#145;John Martyn's botanical society: a biographical analysis of the membership&#146;, <em>Proceedings of the Botanical Society of the British Isles</em>, 6 (1967), 305&#150;24<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">B. D. Jackson, &#145;<span class="roman"><span class="headword">Deering,  George Charles</span>   (1695?&#150;1749)</span>&#146;, rev. D. E. Allen, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/7419, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Charles Deering (1695?&#150;1749): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7419 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

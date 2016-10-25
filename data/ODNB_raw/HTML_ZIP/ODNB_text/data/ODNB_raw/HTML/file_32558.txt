@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32558;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32558-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32558-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32558#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Copeland,  Ralph</span>  (1837&#150;1905), <span class="occ">astronomer</span>, was born on 3 September 1837 at Moorside Farm, Woodplumpton, Lancashire, the youngest of several sons of Robert Copeland (<i>d</i>. <i>c</i>.1840), a yeoman farmer and part owner of a cotton mill, and his wife, Elizabeth Milner. He attended a small weaver's school, and then Kirkham grammar school. He was briefly apprenticed into the cotton mill of an older brother in Blackburn, but in 1853 emigrated to Australia, first as a shepherd in Victoria, then at gold diggings in the Omeo district. Here he developed an interest in astronomy. In 1858 he returned to England via Cape Horn, in the meantime studying John Herschel's <span class="italic">Outlines of Astronomy</span> and observing Donati's comet. He became an apprentice in the locomotive firm of Beyer, Peacock &amp; Co. of Manchester, and with some workmates set up a small observatory with a 5 inch Cooke refractor at West Gorton. His first published observation was of an occultation of <i>&#954;</i> Cancri on 26 April 1863.<br>
+<br>Copeland resolved to abandon engineering because of depression in the cotton trade and retrain as an astronomer, although in 1859 he had married his cousin Susannah Milner. He spent some months improving his German in a village in Hesse, then in 1865 matriculated at the University of G&ouml;ttingen to study under Klinkerfues, Weber, and Stern. In 1866 he had the misfortune to lose his wife and was left with a small daughter and an infant son. The following year he became a volunteer observer at the G&ouml;ttingen observatory and, in anticipation of the long-term project for a great star catalogue, organized by the German Astronomische Gesellschaft and involving some seventeen observatories (part of which appeared as the <span class="italic">First G&ouml;ttingen Catalogue</span> in 1869), he began with Carl B&ouml;rgen (later director of the Wilhelmshaven observatory) up to January 1869 a series of observations of star places down to ninth magnitude in the declination zone 0&deg; to -1&deg; with the Reichenbach transit circle. However, these were made before the plans by the Gesellschaft had been finalized and were not accepted by its council, although they remain a valuable list.<br>
+<br>Copeland, eager for adventure, was then invited to accompany B&ouml;rgen on a German Arctic expedition under Captain Koldeway to explore the east coast of Greenland as far north as possible. During the preparations they took their degrees of doctor of philosophy, Copeland's dissertation being &#145;&Uuml;ber die Bahnbewegung von &#945; Centauri&#146; (1869). They carried out geodetic, meteorological, auroral, terrestrial magnetism, and natural history studies beyond 75&deg; N, published in two volumes (1874), and on their return Copeland with others received the order of the Red Eagle from Kaiser Wilhelm I.<br>
+<br>In January 1871 Copeland was appointed assistant at Lord Rosse's observatory at Birr Castle, Ireland. In December he got married again, to Theodora (1847&#150;1937), the daughter of the distinguished orientalist Professor Theodor Benfey of G&ouml;ttingen; they had three daughters and a son. For the first two years he was occupied mainly with observations of the moon's radiant heat with the 3 foot reflector. In 1874 he was elected fellow of the Royal Astronomical Society and became assistant to Dr Robert Ball at the Dunsink observatory, Dublin, but was immediately granted leave of absence to accompany James Ludovic, Lord Lindsay, to Mauritius to observe the transit of Venus, the results of which were only partly successful in cloudy conditions. The yacht <i>Venus</i> called in briefly at the small uninhabited island of Trinidad (or Trindada) in the south Atlantic, where Copeland discovered the giant tree fern <i>Cyathea Copelandi</i> high in the interior.<br>
+<br>In 1876 Copeland was appointed director of the great observatory at Dun Echt in Aberdeenshire belonging to Lord Lindsay (later the twenty-sixth earl of Crawford), succeeding David Gill. He was singularly well suited to this, having expertise in its variety of instruments and a love of scientific and rare literature. There he assisted Lindsay in building up his great astronomical library, now the Crawford collection of the Royal Observatory, Edinburgh. The first five or six years were spent in reducing the backlog of the Mauritius observations, issued in 1885 as volume 3 of <span class="roman">Dun Echt Observatory Publications</span>.<br>
+<br>Copeland became devoted to the main instrument at Dun Echt, the 15 inch Grubb refractor, and the spectroscope. Schmidt's nova in Cygnus was found on 2 September 1877 to have its spectrum reduced to a single emission line&#151;a notable discovery. Every comet visible from the observatory was then studied, some of their elements and ephemerides computed, and astronomical news sent worldwide through the Dun Echt <span class="italic">Circulars</span>. The comets of 1881 and 1882 proved especially interesting: 1882I (Wells) exhibited strong sodium D lines and was visible in monochromatic sodium light with the slit open.<br>
+<br>Copeland was appointed to take charge of the Jamaica station for the successful transit of Venus collaborative programme of 6 December 1882; then at Crawford's expense he undertook an exploratory mission to test the potential of the seeing conditions in the Andes of Bolivia and Peru. Here he discovered five new Wolf&#150;Rayet stars and studied the peculiar variable <i>&#951;</i> Argus. Back at Dun Echt he employed a new spectroscope to study emission lines in the supernova in the Andromeda spiral, the emission spectrum of the variable <i>&#947;</i> Cassiopeiae, and in the Orion nebula found the D3 line later identified as Helium. During this eventful period many observations by Crawford, Copeland, and their German-trained assistants Ludwig Becker and Jacob Gerhard Lohse were published in <span class="italic">Astronomische Nachrichten</span>, in <span class="italic">Monthly Notices</span>, and in <span class="italic">Copernicus</span> (3 vols., 1881&#150;4), edited by Copeland and J. L. E. Dreyer, which, although printed in Dublin, was recognized as the &#145;organ&#146; of Dun Echt.<br>
+<br>The happiest years were soon over. Lord Crawford, learning of government plans to suppress the Royal Observatory on Calton Hill, Edinburgh, on the retirement of Charles Piazzi Smyth, offered to present his entire instrument collection and library to the nation on condition that a new royal observatory be built to house them. Copeland accepted the joint posts of astronomer royal for Scotland, director of the observatory, and professor of astronomy at Edinburgh University. He was faced with the task of choosing the most suitable site&#151;Blackford Hill&#151;and unlike his predecessors he was, after a struggle, successful in instituting rigorous courses in astronomy for the new BSc degree. The new observatory was not completed until April 1896, so Copeland had to move between what was left of Dun Echt and the limited resources at Calton Hill. However, he was able to observe Thomas Anderson's discovery, Nova Aurigae (1892), and at the British Association's Cardiff meeting in 1891 suggested that the bright streaks on the moon were caused by lines of minute glassy spherules&#151;an extraordinary anticipation.<br>
+<br>In 1896 Copeland went to Vads&oslash; in Finnmark, Norway, for the total solar eclipse, with a 4 inch, 40 foot focal length Dallmeyer lens built into a huge camera. It was cloudy, but he had the compensation of meeting Nansen. Much more successful were the 1898 eclipse expedition to India and the 1900 expedition to Spain. The observation and issue of the <span class="italic">Circular</span> for Anderson's Nova Persei (1900) proved to be Copeland's last notable work. The following year a bout of influenza was followed by increasingly severe attacks of angina. Copeland refused to retire. He died at the observatory residence in Edinburgh on 27 October 1905 and was buried on 30 October in Morningside cemetery. He was a robust, adventurous man, sporting a long white beard, and was held in great affection by his colleagues. He was elected fellow of the Royal Society of Edinburgh in 1890, and was a member of the Scottish Meteorological Society and a director of the Ben Nevis (meteorological) observatory.<br>
+<br>David Gavine </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. L. E. Dreyer, <em>Monthly Notices of the Royal Astronomical Society</em>, 66 (1905&#150;6), 164&#150;74 &middot; H. Macpherson, <i>Astronomers of to-day and their work</i> (1905) &middot; <em>The Scotsman</em> (28 Oct 1905) &middot; H. A. Br&uuml;ck, &#145;Lord Crawford's observatory at Dun Echt, 1872&#150;1892&#146;, <em>Vistas in Astronomy</em>, 35 (1992), 81&#150;138 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32558&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Royal Observatory Library, Edinburgh, corresp. and papers&nbsp;|&nbsp; Birr Castle, Birr, corresp. with earl of Rosse
+   &middot;
+ RAS Library, letters to Royal Astronomical Society
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32558&amp;istheme=&amp;target=RGS')">RGS</a>, letters to Sir David Gill<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> A. J. Ramsay, photograph, repro. in Br&uuml;ck, &#145;Lord Crawford's observatory at Dun Echt&#146;, 107 &middot; bas-relief bust, Royal Observatory, Edinburgh &middot; photograph, repro. in Br&uuml;ck, &#145;Lord Crawford's observatory at Dun Echt&#146;, 101 &middot; photograph, repro. in MacPherson, <i>Astronomers of today</i>, 70 &middot; photograph, repro. in J. Ogilvie, <i>An address on the occasion of inaugurating the memorial in the village of Rothiemay to the astronomer James Ferguson FRS</i> (1907) &middot; photographs, Royal Observatory, Edinburgh &middot; wood-engraving (after a photograph by J. E. Munro), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32558&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>ILN</i> (16 Feb 1889)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1040 17<i>s</i>. 5<i>d</i>.: confirmation, 25 Jan 1906, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Gavine, &#145;<span class="roman"><span class="headword">Copeland,  Ralph</span>  (1837&#150;1905)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/32558, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Ralph Copeland (1837&#150;1905): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32558 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

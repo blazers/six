@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13701;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13701-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13701-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13701#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hoole,  Charles</span>  (1610&#150;1667), <span class="occ">schoolmaster and author</span>, was born in Wakefield, the son of Charles Hoole. He attended Wakefield Free Grammar School under Robert Doughty, and in 1628, supported by his kinsman Robert Sanderson (the future bishop of Lincoln), entered Lincoln College, Oxford. He graduated BA in 1632, proceeded MA in 1636, and was ordained. Through Sanderson's influence he was appointed master of the free grammar school at Rotherham and began the work which was to make him one of the most noted of seventeenth-century teachers and educational writers. In 1642 he became rector of Great Ponton in Lincolnshire, but his royalist sympathies led to his sequestration and departure for London about 1646, although he was cited before the committee for plundered ministers on 21 July 1647 for trying to collect tithes from his former parish. On his returning to educational work, he was successively master of two private grammar schools in London, one off Aldersgate and the other in Lothbury, near the Royal Exchange. At an unknown date he seems to have married: the preface to his 1659 publication mentions a child who had died.<br>
+<br>Hoole's numerous educational works comprise grammars, translations, and a book on educational method and structures. His adaptation of Lily's &#145;authorized&#146; grammar, <span class="italic">The Latine Grammar Fitted for the Use of Schools</span> (1651), is more attractively presented than the original, with English and Latin on opposite pages. This method is also used in his <span class="italic">Aesop's Fables, English and Latin</span> (1689) and <span class="italic">Publii Terentii Carthaginiensis Afri': Six Comedies of &hellip; Terentius</span> (1676). In 1659 he published a translation of Comenius's <span class="italic">Orbis sensualium pictus</span> and recommended the pictorial method for the teaching of younger children as an antidote to the prevailing manner of &#145;[teaching them] as we do parrots, to speak they know not what&#146;  (<span class="italic">Orbis pictus</span>, preface).<br>
+<br>Hoole's most notable work, <span class="italic">A New Discovery of the Old Art of Teaching Schoole</span> (1660), not only sets out his views on what education should be but also paints a vivid picture of education as it actually was in the mid-seventeenth century and is an essential source for educational historians of the period. The book stresses the value &#145;to Church and Commonwealth&#146; of an efficient and progressive system of education with widely available elementary instruction and, alongside the grammar schools, practical schools for older children who lacked the academic bent. His ideas on the curriculum were traditional&#151;Greek, Latin, and some Hebrew for the grammar school; English and Latin grammar for the &#145;petty school&#146;; and basic English and arithmetic for the &#145;writing school&#146;. However, he insisted that the means of instruction must vary to fit the capacity of the scholar, and teachers must rely on proper preparation and method rather than (particularly for younger children) the rod.<br>
+<br>In 1660 Hoole became chaplain to Sanderson, who tried on 5 March 1661 to get him a prebend at Lincoln. He gained the rectory of Stock, near Chelmsford, and died there on 7 March 1667. He was buried in the chancel of the parish church.<br>
+<br>W. R. Meyer </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13701&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 3.758&#150;9 &middot; C. Hoole, <i>A new discovery of the old art of teaching schoole</i> (1660); facs. edn, ed. E. T. Campagnac (1913) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13701&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; W. A. L. Vincent, <i>The state and school education, 1640&#150;1660</i> (1950), 8&#150;9, 17&#150;18, 66&#150;7, 69, 91&#150;2 &middot; F. Watson, <i>The English grammar schools to 1660</i><i>: their curriculum and practice</i> (1908), 64&#150;7, 271&#150;2, 278, 315&#150;16, 479&#150;82, 513 &middot; J. A. Comenius, <i>Orbis sensualium pictus</i>, trans. C. Hoole (1659) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13701&amp;istheme=&amp;target=Walker%20rev.')"><i>Walker rev.</i></a>, 252 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13701&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Lincolnshire</i>, 2.63&#150;4<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. R. Meyer, &#145;<span class="roman"><span class="headword">Hoole,  Charles</span>  (1610&#150;1667)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13701, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Hoole (1610&#150;1667): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13701 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

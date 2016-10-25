@@ -1,0 +1,216 @@
+\documentclass[11pt]{article}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+
+\newcommand{\filename}[1]{\texttt{#1}}
+
+\begin{document}
+
+
+\title{Documentation for 6DFB Project}
+\author{Lawrence Wang}
+
+\maketitle
+\tableofcontents
+\pagebreak
+
+\section{Process Documentation}
+
+\subsection{Preprocess Data -- ODNB/text\_processing/preprocess}
+
+\begin{enumerate}
+\item \filename{download\_data.sh}
+\begin{enumerate}
+\item Obtains ODNB HTML files
+\item Creates a compressed file with all downloaded documents
+\item (Only keep compressed file around, so this can be passed around and the raw document files can be discarded)
+\end{enumerate}
+
+\item \filename{decompress\_data.sh} 
+\begin{enumerate}
+\item Decompress files into appropriate directory
+\end{enumerate}
+
+\item \filename{extract\_store\_data.R}
+Read HTML files into R, store as a list
+\begin{enumerate}
+\item Read HTML files into R. Store as a list in (---).Rdata
+\end{enumerate}
+
+\item \filename{extract\_cosubjects.R}
+\begin{enumerate}
+\item Splits data based on co-subject identification
+\item Writes files into chunks of 100 documents for NER purposes
+\end{enumerate}
+ 
+\item \filename{extract\_metadata.R}
+\begin{enumerate}
+\item Extracts names, dates, occupations, biography lengths from the raw HTML documents. 
+\end{enumerate}
+
+\end{enumerate}
+
+
+\subsection{Run Data through NER -- ODNB/text\_processing/NER}
+\begin{enumerate}
+
+\item \filename{ner\_scripts.R} 
+\begin{enumerate}
+\item Generates shell scripts \filename{stanSCRIPT.sh} and \filename{lingprecopySCRIPT.sh}/\filename{lingpostcopySCRIPT.sh} that are used to run the corresponding NER tools on the data. 
+\item Also includes command line code in source. 
+\item These are scripts to run the two NER tools. (Lingpipe files needed some moving, since there was issues with moving around directories...)
+\end{enumerate}
+
+\item \filename{extract\_ner\_text.R}
+\begin{enumerate}
+\item Takes NER-processed text and stores it into Rdata format. 
+\end{enumerate}
+
+\item \filename{extract\_ner\_results.R}
+\begin{enumerate}
+\item Code that processes the NER results
+\item Results in tokenized text vectors, a set for each document: raw text, lingpipe tagged, stanford tagged, and all normalized in length to the raw text
+\end{enumerate}
+
+\item \filename{combine\_ner\_results.R}
+\begin{enumerate}
+\item Compiles the NER results, gives data frame for each document. Tokenized text, named-entity tagging, approximate date estimate. 
+\end{enumerate}
+
+\end{enumerate}
+
+\subsection{Postprocess Data -- ODNB/text\_processing/postprocess}
+\begin{enumerate}
+
+\item \filename{improve\_combtags.R}
+\begin{enumerate}
+\item Runs function that improves the predictions by removing non-sensical predictions, and applying some rules to matching single-names (eg. only matching Milton when looking for John Milton, when John Milton was already referenced. These rules might warrant a closer look.)
+
+\end{enumerate}
+
+\item \filename{create\_entity\_matrix.R}
+\begin{enumerate}
+\item This script extracts data to form the document-count matrix. This also separates the document into ~500 word sections, and keeps track of estimated mention dates for each of the names. 
+\end{enumerate}
+
+\item \filename{process\_curated\_nodes.R}
+\begin{enumerate}
+\item This script takes the curated nodeset and looks for all entity matches to any exact names in search\_names (as well as matching in their own exact biography. 
+\item It also identifies potential partial matches (by way of looking the dates in the matches)
+\end{enumerate}
+
+
+\item \filename{extract\_data\_for\_model.R}
+
+\begin{enumerate}
+\item Takes the base document-count matrix and combines it with random sampling from the partial document-count matches. 
+\end{enumerate}
+
+\end{enumerate}
+
+
+
+
+\section{Data Documentation}
+The files are sorted by directory. Note that \texttt{<********>}'s refer to some date (creation / modification date for data; this acts as a version number)
+
+\subsection{data/ODNB\_raw/}
+\begin{enumerate}
+\item \filename{HTML\_ZIP/ODNB\_text.tar.gz} \\
+This is a compressed file containing all the raw .html files. \\
+
+\item \filename{ODNB\_rawHTML<******>.Rdata} \\
+Contains \texttt{ODNB\_rawHTML}, this is a list of the raw HTML files for each ID number from 1 to 99999. Each HTML file is stored as a character vector (with each element corresponding to a line in the .html document).  
+
+\item \filename{ODNB\_splitcosubjects<******>.Rdata}
+Contains variables: 
+\begin{itemize}
+\item \texttt{ODNB\_text} List of documents without most HTML. Indices are ODNB numbers (adjusted for cosubjects)
+\item \texttt{ODNB\_cleantext} Version of documents without ANY HTML, and fixed for input into NER tools. 
+\item \texttt{ODNB\_cosubstatus} Vector denoting whether subject is part of a cosubject biography (and its type)
+\end{itemize}
+
+\item \filename{ODNB\_metadata<******>.Rdata}
+Contains variable \texttt{full\_metadata} which is a data frame with the following fields: 
+\begin{itemize}
+\item ID -- ODNB ID
+\item raw\_name -- HTML version of the name
+\item full\_name -- full name just drop HTML. 
+\item short\_name -- shortened name (drop all brackets)
+\item Occu -- extracted occupation (if any)
+\item Dates -- extracted date segment
+\item BioLength -- approximate number of words in biography
+\end{itemize}
+\end{enumerate}
+
+\subsection{data/ODNB\_int/NER/}
+\begin{enumerate}
+\item \filename{ODNB\_nerproc<******>.Rdata}
+Contains variables: 
+\begin{itemize}
+\item \texttt{txt\_R} List of compiled original documents
+\item \texttt{txt\_S} List of compiled stanford-processed documents
+\item \texttt{txt\_L} List of compiled lingpipe-processed documents
+\end{itemize}
+These are all length 584 (since the documents were broken into that many compilations)
+
+\item \filename{ODNB\_NERtokenized<******>\_<\#>.Rdata}
+Each of these contains variable \texttt{ODNB\_tokenized}, which is a list of lists for each document. The sub-lists contain the tokenized forms of the raw text (\$raw), lingpipe-processed text (\$lp), and stanford-processed text (\$st).  
+
+\item \filename{ODNB\_combtags<******>.Rdata}
+This is a list of data frames (in \texttt{ODNB\_combtags}), each data frame having 'raw`, 'tag`, 'date`, 'paren` for the full texts. 
+\end{enumerate}
+
+\subsection{data/ODNB\_final}
+\begin{enumerate}
+\item \filename{ODNB\_improvedpred<******>.Rdata} \\
+Contains variable \texttt{ODNB\_improvedpred} in which -- \\
+For each document, there should be a list: 
+\begin{enumerate}
+\item Data frame with 'NumWords`, 'MatchName`, 'ID`
+\item Data frame with 'MatchName`, 'Position`, 'ID`, 'Length`
+\item Data frame of the full text, with 'raw word`, 'tag`, 'date`, 'paren\_depth`
+\end{enumerate} 
+Also contains a copy of variable \texttt{full\_metadata}
+
+
+\item \filename{ODNB\_entitymatrix<******>.Rdata} \\
+Contains variable \texttt{big\_entity\_matrix}, a $1118968 \times 7$ matrix which contains Entity, IDnum, Document Segment, Min/Max Mention Date, and Document NUmber. 
+
+\item \filename{ODNB\_subset\_entity\_matrix<******>.Rdata} \\
+Contains variables:
+\begin{itemize}
+\item \texttt{exact\_df} : Data frame with ID, DocN, Count
+\item \texttt{partial\_list} : List of lists with partial matches. Each sub-list has \$Doc, \$Count, \$IDs, \$weights. 
+\item \texttt{partial\_df} : Data frame with ID, DocN, Count, Weights
+\end{itemize} 
+All ID's here are the SDFB ID's found in Jessica's curated nodeset. 
+
+\end{enumerate}
+
+\subsection{data/OLD\_ODNB}
+This stores old versions of the various data. These will be deleted soon... 
+
+\begin{enumerate}
+
+\item \filename{ODNB\_fullnamelist<******>.Rdata} \\
+Contains variable \texttt{full\_result3} which is a 73655 $\times$ 13 data frame, each row corresponds to a historical figure. The columns contain various fields for ID numbers, names, and dates. 
+\end{enumerate}
+
+
+\section{Function Documentation}
+See package? link in package documentation?
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+

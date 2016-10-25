@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18012;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18012-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18012-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18012#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Manwood,  John</span>  (<em>d.</em> 1610), <span class="occ">legal writer</span>, was a relative of Sir Roger Manwood (<i>d</i>. 1592), chief baron of the exchequer, with whom he has occasionally been confused. Sir Roger's brother, John Manwood (<i>d</i>. 1571), MP for Sandwich in 1571, had a son John who may be the same person. According to the posthumous 1615 edition of the book on forest law for which Manwood is known, he was a member of Lincoln's Inn, though no trace of him can be found in the records of that society and it must be open to doubt whether he was qualified as a barrister. Some, at any rate, of the author's expertise in the forest law was gained by practical experience as gamekeeper of Waltham Forest, and as a justice of the New Forest, which stimulated him to read the law books and records on the subject.<br>
+<br>Manwood married Mary (perhaps Crayford); their second son, Jasper, was admitted to Lincoln's Inn in 1624 (as John) and called to the bar in 1632. The admissions register describes the father as being of Chigwell, Essex, and Manwood also acquired the estate of Priors in Broomfield, near Chelmsford, where his descendants lived until the eighteenth century. According to Manwood's preface of 1598, the forest laws had &#145;growen cleane out of knowlege in most places&#146;, and he had therefore decided to &#145;hold the candle and begin the first enterprise herein&#146;. Nevertheless, although his book was the only substantial work on the subject ever to reach the press, it was in fact the successor to two detailed and widely circulated inns of court readings by <script>writeSeealsoLink('../view/article/69366/', "Richard Hesketh")</script> and <script>writeSeealsoLink('../view/article/69371/', "George Treherne")</script>, which Manwood occasionally cited. Manwood also stated that he had the assistance of &#145;grave and learned men &hellip; in the perusing of this treatise&#146; and in the provision of legal citations, which tends to confirm his modest admission of a lack of professional expertise on his own part.<br>
+<br>Manwood had a first version of his book printed for private circulation, in or about 1592, as <span class="italic">A Brefe Collection of the Lawes of the Forest</span>. An enlarged edition, with twenty chapters, was published in 1598 as <span class="italic">A Treatise and Discourse of the Lawes of the Forrest</span>, and dedicated to Charles Howard, earl of Nottingham and chief justice of the forests south of the Trent. Manwood died in 1610; a posthumous edition followed in 1615, which was further enlarged by the insertion of five chapters on forest courts taken from the private edition but omitted in 1598. This version was reprinted in 1665. In 1717 William Nelson of the Middle Temple produced a fourth edition, with the material rearranged under alphabetical headings in modernized English; this was reprinted in 1741. An abridgement was published in Nicholas Cox's <span class="italic">Gentlemen's Recreation</span> of 1696 and in subsequent editions. Manwood was also the author of a brief &#145;Project for improving the land revenue by inclosing wasts&#146;, submitted to Sir Julius Caesar on 27 April 1609 and first printed as an appendix to John St John's <span class="italic">Observations on the Land Revenue of the Crown</span> (1787).<br>
+<br>J. H. Baker </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18012&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201558%3F1603')">HoP, <i>Commons, 1558&#150;1603</i></a>, 3.14 &middot; P. Morant, <i>The history and antiquities of the county of Essex</i>, 2 (1768), 77 &middot; T. Wright, <i>The history and topography of the county of Essex</i>, 1 (1836), 187 &middot; W. Boys, <i>Collections for an history of Sandwich in Kent</i>, 2 (1892, [1792]), 481 &middot; W. P. Baildon, ed., <i>The records of the Honorable Society of Lincoln's Inn</i><i>: admissions</i>, 1 (1896), 196 &middot; W. P. Baildon, ed., <i>The records of the Honorable Society of Lincoln's Inn</i><i>: the black books</i>, 2 (1898) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18012&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 26047, fols. 161&#150;4 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18012&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1603&#150;10</i>, 418, 645 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18012&amp;istheme=&amp;target=STC%2C%201475%3F1640')"><i>STC, 1475&#150;1640</i></a>, nos. 17290&#150;92 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18012&amp;istheme=&amp;target=Wing%2C%20STC')">Wing, <i>STC</i></a>, 2.515<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. H. Baker, &#145;<span class="roman"><span class="headword">Manwood,  John</span>  (<em>d.</em> 1610)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/18012, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Manwood (<em>d.</em> 1610): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18012 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

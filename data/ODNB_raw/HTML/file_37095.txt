@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37095;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37095-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37095-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37095#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Balsham,  Adam  of</span> <span class="st"> [Adam  de Parvo Ponte]</span>  (1100<span class="mult">x</span>02?&#150;1157<span class="mult">x</span>69?), <span class="occ">logician</span>, was born in Balsham, near Cambridge, on the estate of his father, whose family came from Beauvais in France. About 1120 he left England for Paris, at that time the goal of many young Englishmen who aimed to study the arts and theology. By 1132, the date of publication of his major work, the <span class="italic">Ars disserendi</span>, Adam, who cannot now have been much less than thirty, was established as the master of a school, teaching on the Petit Pont which links the &Icirc;le de la Cit&eacute; with the Left Bank. When after several years of studying in France the need to earn a living obliged John of Salisbury to take up teaching young noblemen, he felt the need for frequent revision courses; in this context he became closely acquainted with Adam of Balsham, whom he praises for his acute mind, his wide learning, and his outstanding knowledge of Aristotle. John passed on to Adam his own pupil, Guillaume de Soissons, who had devised an instrument to detect logical fallacies. Yet John's grateful appreciation of Adam's helpfulness did not prevent his strongly criticizing the latter's cynical principle of teaching, whereby (in John's eyes) he cultivated an unnecessarily complicated approach to logic in order to enhance his own reputation; moreover, John took care to stress that Adam had never been his own teacher. But the lifelong affection for Adam and his school shown by Alexander Neckam, a prominent scholar who was Adam's pupil three decades later, suggests that John's criticisms may not have been entirely fair.<br>
+<br>Fragments of treatises by Adam of Balsham on transubstantiation and on the Trinity, presumably composed about 1145, have come to light. These theological writings may account for the fact that, about 1146, Adam became a canon of Paris Cathedral. As such he took part in the Paris synod of 1147, presided over by Pope Eugenius III, at which Bishop Gilbert of Poitiers defended himself against charges of heretical doctrines concerning the nature of God and the Trinity. Adam, along with Hugues de Champfleury, the king's chancellor, testified under oath that they had heard Gilbert utter the incriminating propositions. Bishop Otto of Freising, an admirer of Gilbert, expressed himself astonished that men so learned contented themselves with an oath instead of producing rational arguments. In 1148 Adam appeared again, with well-known masters, at the Council of Rheims, when Bernard of Clairvaux's accusations against Gilbert were fully discussed.<br>
+<br>The <span class="italic">Ars disserendi</span> of Adam of Balsham claims to be the first systematic approach to logic produced in recent times, one which replaces the antiquated language of the current textbooks, their inaccurate translations, and their artificial terminology. It sets out to revive the art of discourse through discussion, rather than exposition. Novel in its approach and in its extensive use of Aristotle's <span class="italic">Topics</span>, and above all of his newly translated <span class="italic">Sophistical Refutations</span>, its acute examination of ambiguities and fallacies started the discussion of a subject that engaged philosophers during the next three centuries. The earliest known English logician, Adam was the first to stress the importance of careful attention to language as a safeguard against faulty thinking. Though disliked by many of his contemporaries, Adam of Balsham attracted many young students to his school. In his <span class="italic">Entheticus</span> John of Salisbury criticizes them for their disrespectful attitude towards older scholars and their boastful claim to originality. But as late as the beginning of the following century the school remained active, commanding the loyalty of masters like Gilles de Corbeil and, above all, Neckam, who more than fifty years after the event remembered Adam's correcting Thierry of Chartres's wrong reading of a passage in Aristotle's <span class="italic">Sophistical Refutations</span>. Neckam praises the teaching of the school, criticizing only its indulgence in logical casuistry.<br>
+<br>Adam of Balsham also wrote a treatise of a different kind, <span class="italic">De utensilibus ad domum regendam</span> (sometimes from its opening words called <span class="italic">Phalae tolum</span>), composed after returning on a visit to his native village, which he had left twelve years before. It is his response to criticism by a friendly colleague, Master Anselm, who had reproached him for his vacuous prose. Adam displays a wealth of forgotten words, taken from ancient authors (mostly from Isidore of Seville, but also from Aulus Gellius and some glossaries), to show the appropriate terms for objects of everyday use. He does so by a detailed description of his family home: the courtyard, the stable with its horses, the house itself, an elaborate meal with his many relatives (followed by the appearance of lyre players and pipers), the collection of arms in a tower, the barns, the kitchen, the women's quarters with the clothes and ornaments they contained. Though he mixes facts with imagination, he provides a lively picture of an early twelfth-century English country house.<br>
+<br>It is not known when Adam of Balsham died. The day of his death&#151;6 August&#151;but not the year is given by the obituary of the abbey of Notre-Dame-du-Val, in the diocese of Paris. Alexander Neckam, who arrived in France in 1175 at the age of seventeen, and entered the school of the Petit Pont shortly afterwards, refers to Adam's star as still shining in his own time. But his statement shows only that the memory of the school's founder remained alive. It does not provide information about the date of Adam's death, and is much more likely to refer to the life of the school, still flourishing when those of other famous masters had disappeared. In the absence of any conclusive evidence, the precise date of Adam's death must be left open, between the late 1150s and the late 1160s.<br>
+<br>On the authority of Du Boulay's <span class="italic">Historia universitatis Parisiensis</span>, Adam of Balsham has been frequently confused with another <script>writeSeealsoLink('../view/article/88/', "Master Adam")</script>, also a canon of Paris, who became bishop of St Asaph and died in 1181. This second Adam is usually referred to as Adam the Welshman; the name under which Du Boulay confused the two men, Adam Angligena, was his own invention.<br>
+<br>Raymond Klibansky </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Adam [of Balsham], &#145;Ars disserendi&#146;, <i>Twelfth century logic</i><i>: texts and studies</i>, ed. L. Minio-Paluello, 1 (1956), i&#150;iii &middot; Adam of Balsham, <i>De utensilibus ad domum regendam</i>, <i>Notices et extraits de quelques manuscrits latins de la Biblioth&egrave;que Nationale</i>, ed. B. Haur&eacute;au, 6 vols. (Paris, 1890&#150;93), vol. 3 &middot; <i>Ioannis Saresberiensis episcopi Carnotensis Metalogicon libri IIII</i>, ed. C. C. I. Webb (1929) &middot; John of Salisbury, &#145;Entheticus&#146;, ed. R. E. Pepin, <em>Traditio</em>, 31 (1975) &middot; L. Minio-Paluello, &#145;The <i>Ars disserendi</i> of Adam of Balsham Parvipontanus&#146;, <em>Mediaeval and Renaissance Studies</em>, 3 (1954) &middot; <i>Ottonis et Rahewini gesta Friderici I imperatoris</i>, 3rd edn (Hanover, 1912), 75 &middot; C. E. Du Boulay, <i>Historia universitatis Parisiensis</i>, 2 (Paris, 1665), 715 &middot; R. W. Hunt, <i>The schools and the cloister</i><i>: the life and writings of Alexander Nequam</i>, rev. M. Gibson (1984) &middot; L. M. de Rijk, <i>Logica modernorum</i> (1962), 1.62&#150;81, 545&#150;609 &middot; W. Kneale and M. Kneale, <i>The development of logic</i> (1975) &middot; Egidius Corboliensis, <i>Viaticus</i>, ed. V. Rose (1907) &middot; <i>Obituaires de la province de Sens</i><i>: 1. dioc&egrave;ses de Sens et de Paris</i>, pt 1 (1902), 630 [cites Abbaye de Notre-Dame du Val] &middot; T. Hunt, <i>Teaching and learning Latin in thirteenth-century England</i>, 1 (1991), 165&#150;76<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Raymond Klibansky, &#145;<span class="roman"><span class="headword">Balsham,  Adam  of</span>   (1100<span class="mult">x</span>02?&#150;1157<span class="mult">x</span>69?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/37095, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Adam  of Balsham (1100<span class="mult">x</span>02?&#150;1157<span class="mult">x</span>69?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37095 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

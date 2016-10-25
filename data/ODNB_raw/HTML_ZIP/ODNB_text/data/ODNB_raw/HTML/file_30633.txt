@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30633;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30633-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30633-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30633#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bashforth,  Francis</span>  (1819&#150;1912), <span class="occ">mathematician</span>, was born at Thurnscoe, near Doncaster, on 8 January 1819, the eldest son of John Bashforth, who farmed the glebe at Thurnscoe. He was educated at Brampton Bierlow and afterwards at Doncaster grammar school, going on to enter St John's College, Cambridge, as a sizar, in 1840. An entirely different account of Bashforth's parentage and early life, which was published in <span class="italic">The Times</span> (14 February 1912, 11d) and repeated in the <span class="italic">Yorkshire Weekly Post</span> (17 February 1912, 24a), was corrected by Bashforth's son in a letter to <span class="italic">The Times</span> (23 February 1912, 11c) to the version given here. Bashforth was second wrangler in 1843, when John Couch Adams was senior wrangler. Although not intimate as undergraduates, the two mathematicians later became firm friends. Bashforth was elected a fellow of his college in 1843, and was ordained deacon in 1850 and priest in 1851. In 1857 he accepted the college living of Minting, near Horncastle, Lincolnshire, of which he remained rector until 1908. In 1905 he was made an honorary fellow of his college.<br>
+<br>After taking his degree Bashforth spent three years in practical civil engineering, working partly in London and partly with one of the new railway companies which were then being formed throughout the country. He was engaged on the survey of projected lines, and in this way gained that practical experience in careful measurement which afterwards proved so valuable to him in his experiments in gunnery. He published <span class="italic">A description of a machine for finding the numerical roots of equations and tracing a variety of useful curves</span> (1845), which contained the basic idea for tide prediction machines, a table for calculating earthworks for railways and canals (1847), and a treatise on the construction of oblique bridges (1850). Bashforth was anxious to obtain a post as professor of mathematics in the provinces, but such appointments were rare in those days. In 1864, however, he was appointed professor of applied mathematics to the advanced class of artillery officers at Woolwich, which afterwards developed into the Artillery College.<br>
+<br>Bashforth's main interest lay in the science of ballistics, and he initiated a series of experiments between 1864 and 1880 which led to an understanding of the effects of air resistance on projectiles. Great Britain entered the Crimean War with obsolete military equipment. The muzzle-loading musket, &#145;Brown Bess&#146;, and the cast-iron smooth-bore cannon, firing a spherical solid shot, were still employed. The ineffectiveness of such artillery in the Crimea in general, and the exigencies of the siege of Sevastopol in particular, called for more powerful weapons. In the preface to his <span class="italic">Mathematical Treatise on the Motion of Projectiles</span> (1873) Bashforth wrote: &#145;Feeling that the satisfactory solution of any question in gunnery depends upon the construction of a trustworthy chronograph, it therefore became my duty to recommend that a proper instrument should be procured, and that a systematic course of experiments should be undertaken to determine, in the first instance, the resistance of the air to the motion of projectiles.&#146; He accordingly set to work to construct the chronograph, first tried in November 1865, which bears his name; under his direction the military authorities carried out at Shoeburyness, Essex, experiments to determine the air resistance, in which projectiles were fired through a series of screens whose ruptures were electrically timed by the chronograph. His results are set out in his 1873 treatise, and he described his experiments in his <span class="italic">Report on the Experiments Made with the Bashforth Chronograph (1865&#150;1870)</span>, published by the government in 1870, and republished with revisions and supplements in 1879, 1890, 1895, and 1900. On 14 September 1869 Bashforth married Elizabeth Jane, daughter of the Revd Samuel Rotton Piggott, vicar of Bredgar, Kent. They had one son.<br>
+<br>Bashforth's ballistic experiments and the theory based upon them required continual amplification, and he received much assistance from his pupils. In 1872 a new scheme of army reorganization reduced the scope and importance of his post, and he resigned his position at Woolwich, receiving a government award of &pound;500 for improvements to the chronograph. Thereafter he resumed his clerical duties at Minting, the living of which he had been allowed, by the indulgence of his bishop, to retain. Nevertheless, in 1873 he was appointed adviser to the War Office on questions relating to the science of artillery, and in 1878 he was requested by the government to lend his chronograph and to help in a new series of experiments to be carried out with both very high and very low velocities. The invitation gave Bashforth much satisfaction, and he superintended the working out of the results of a large number of experiments made in the years 1878 to 1880. His <span class="italic">Final Report</span> was published in 1880, and in 1885 he received from the government a grant of &pound;2000 for his work. He utilized his leisure by preparing, in conjunction with Professor Adams, a treatise entitled <span class="italic">Capillary Action</span> (1883), and he also published <span class="italic">The Bashforth Chronograph</span> (1890). He has strong claims to the authorship of the tide predictor, his work of 1845 on the subject being reprinted in 1892 with an appendix on the invention of the tide predictor. In 1908 he retired to Torunnan, Woodhall Spa, Lincolnshire, where he died on 13 February 1912. Bashforth was a worthy successor to Benjamin Robins (1707&#150;1751); they are the two principal English authorities on the science of ballistics.<br>
+<br>George Greenhill<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (14 Feb 1912), 11d &middot; <em>The Times</em> (23 Feb 1912), 11c &middot; <em>Yorkshire Weekly Post</em> (17 Feb 1912), 24a &middot; &#145;Return showing the amount expended on experiments&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30633&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1878), 47.495, no. 233 [awards to inventors; ships of war and weapons] &middot; &#145;Statement of the sums expended on experiments&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30633&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1886), session 2, 40.807, no. 39 [awards to inventors; ordnance and small arms] &middot; <i>Encyclopaedia Britannica</i>, 9th edn (1875&#150;89), vol. 11, p. 298 [description and illustration of Bashforth's chronograph] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30633&amp;istheme=&amp;target=BL%20cat.')"><i>BL cat.</i></a> &middot; J. H. Hardcastle, &#145;Bashforth, 1819&#150;1912&#146;, <em>Arms and Explosives</em>, 20 (1912), 108&#150;11 &middot; <em>The Eagle</em>, 33 (1911&#150;12), 215&#150;16 &middot; G. Greenhill, <em>The Eagle</em>, 34 (1912&#150;13), 109&#150;11 &middot; <em>The Eagle</em>, 34 (1912&#150;13), 257&#150;60 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30633&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; m. cert. &middot; d. cert. &middot; private information (2006) [P. Hughes]<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;24,368 11<i>s</i>. 7<i>d</i>.: probate, 3 May 1912, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">George Greenhill, &#145;<span class="roman"><span class="headword">Bashforth,  Francis</span>  (1819&#150;1912)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Oct 2006 [http://www.oxforddnb.com/view/article/30633, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Francis Bashforth (1819&#150;1912): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30633 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/30633/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

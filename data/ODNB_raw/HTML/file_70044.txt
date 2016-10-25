@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 70044;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/70/70044-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/70/70044-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=70044#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Abell,  Adam</span>  (1475<span class="mult">x</span>80?&#150;1537?), <span class="occ">Franciscan friar and chronicler</span>, was born in Salt Preston, Haddingtonshire, but the names and occupations of his parents are not recorded and details of his early life are scant. What little is known is derived largely from his chronicle, <span class="italic">The Roit or Quheill of Tyme</span>, which records that he spent his childhood in the Augustinian abbey of Holyrood beside Edinburgh, where a kinsman, Robert Bellentyne, was abbot. It was at Holyrood that he probably received most of his education, either in the abbey itself or possibly at the grammar school in the Canongate which was under the abbey's control. There is no concrete evidence that he studied at a university, though his knowledge of canon law does suggest some higher education.<br>
+<br>In 1495 Abell was professed as an Augustinian canon regular at Inchaffray Abbey in Perthshire. He subsequently became dissatisfied with the state of religious discipline there and, perhaps inspired by the example of Bellentyne, who resigned the abbacy of Holyrood and retired to the stricter Carthusian house in Perth, applied to transfer to another religious house. A Vatican penitentiary act of 16 June 1508 preserves his request to transfer either to another Augustinian establishment or to an Observant Franciscan house. However, Abell was still at Inchaffray two years later, when he signed a petition, dated 20 June 1510, from the convent to Lord Oliphant concerning the annual rents of Pitcairns. Although the precise date is unknown Abell did, however, eventually leave Inchaffray for the Observant Franciscan friary of Jedburgh, traditionally believed to have been founded in 1513 but recorded in the Scottish treasurer's accounts in 1505.<br>
+<br>Abell's only surviving work is <span class="italic">The Roit or Quheill of Tyme</span>, a chronicle in Scots composed after his transfer to the Franciscans of Jedburgh, and preserved in a unique manuscript in the National Library of Scotland (MS 1746). In the introduction to the chronicle Abell refers to an earlier Latin version of the work which is now lost. The precise dates of composition are unknown, but the chronicle may be dated on internal evidence to the late 1520s and 1530s; the colophon to the main part of the text and the short preamble to its continuation indicate that the body of the chronicle was complete by 1533, and the continuation added when the translation was made shortly thereafter. The continuation ends abruptly in 1537, as though interrupted.<br>
+<br>The <span class="italic">Roit</span> belongs to the genre of universal chronicle, a form characteristic of medieval historical writing. It opens with a brief account of creation and carries on through biblical, classical, medieval European, papal, and Scottish history, both real and legendary, and thus reflects the medieval vision of history as the progressive unfolding of the divine plan for the world and its creatures. For his material Abell relied heavily on such works as Eusebius's <span class="italic">Chronicon</span>, Peter Comestor's <span class="italic">Historia scholastica</span>, Walter Bower's <span class="italic">Scotichronicon</span>, and Hector Boece's <span class="italic">Scotorum historiae</span>, but he did not follow any author slavishly and frequently discarded his sources' opinions in favour of his own interpretation.<br>
+<br>Abell's chronicle is historically significant for a variety of reasons. As one of a very limited number of chronicles of known Franciscan authorship anywhere in Europe it is an international rarity. Within a Scottish context it is unique. Aside from its distinction as the last surviving chronicle from pre-Reformation Scotland, it addresses material which other Scottish historical writings of the time do not. For example, neither Boece nor his contemporary translators deal with the reigns of James II, III, IV, or V, choosing to end, as Bower did, with the assassination of James I in 1437. Abell, however, continues his chronicle up to 1537, providing an eyewitness perspective on the reigns of James III, IV, and V, and provides the only chronicle accounts of those reigns to be written before the Reformation. Equally interesting are his views on contemporary ecclesiastical issues, including the <i>commendam</i> system and plurality of benefice, both of which he attacks with vigour. He is particularly critical of seekers of church offices, noting that unworthy candidates are led &#145;nocht to the cheptur but to the king's chalmer&#146; (NL Scot., MS 1746, fol. 85<i>v</i>; Thorson, 171). His grievance against them was not caused by material damage arising from greed or financial mismanagement, but rather by the spiritual harm caused by the poor moral example given by absentee curates and lay abbots; in this his assessment is supported by Mark Dilworth's findings that Scottish monasteries were not hurt by greedy commendators as contemporary monasteries in France were.<br>
+<br>The date and place of Abell's death are not recorded in surviving sources. There are two indications that he did not live to finish his work and probably died in 1537, the date of the latest material in the chronicle. One is the abrupt end of the continuation of the <span class="italic">Roit</span>, which cuts off in the middle of a sentence, with some events still unresolved; and the other is the phrasing of the short introduction to the continuation, which reads in part: &#145;heir he begynnis quhair he lewit in &thorn;e 3ere of God 1534 3eris and sa procedand for his schort tyme&#146; (NL Scot., MS 1746, fol. 119<i>v</i>; Thorson, 241). The place of Abell's burial is also unrecorded, but the excavation of the Jedburgh friary conducted between 1983 and 1985 revealed several graves in the church and cloister, and it is likely that he was buried there.<br>
+<br>Stephanie M. Thorson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Abell, &#145;The roit or quheill of tyme&#146;, NL Scot., MS 1746 &middot; S. Thorson, &#145;Adam Abell's <i>The roit or quheill of tyme</i>: an edition&#146;, PhD diss., U. St Andr., 1998 &middot; J. Durkan, &#145;The Observant Franciscan province in Scotland&#146;, <em>Innes Review</em>, 35 (1984), 51&#150;7 &middot; J. Anderson, <i>The Oliphants in Scotland</i> (1879) &middot; A. M. Stewart, &#145;Adam Abell's <i>Roit or quheill of tyme</i>&#146;, <em>Aberdeen University Review</em>, 44 (1971&#150;2), 386&#150;93 &middot; A. M. Stewart, &#145;The final folios of Adam Abell's <i>Roit or quheill of tyme</i>: an Observantine friar's reflections on the 1520s and 30s&#146;, <i>Stewart style, 1513&#150;1542</i><i>: essays on the court of James V</i>, ed. J. H. Williams (1996), 227&#150;53 &middot; J. B. Paul, ed., <i>Compota thesaurariorum regum Scotorum / Accounts of the lord high treasurer of Scotland</i>, 3 (1901), 58 &middot; J. Todd, &#145;Jedburgh friary&#146;, <em>Discovery and excavation in Scotland</em> (1985), 2 &middot; M. Dilworth, &#145;The commendator system in Scotland&#146;, <em>Innes Review</em>, 37 (1986), 51&#150;72 &middot; M. Dilworth, <i>Scottish monasteries in the late middle ages</i> (1995), 14&#150;16, 18&#150;23, 58<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70044&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, MS 1746<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Stephanie M. Thorson, &#145;<span class="roman"><span class="headword">Abell,  Adam</span>  (1475<span class="mult">x</span>80?&#150;1537?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/70044, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Adam Abell (1475<span class="mult">x</span>80?&#150;1537?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/70044 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

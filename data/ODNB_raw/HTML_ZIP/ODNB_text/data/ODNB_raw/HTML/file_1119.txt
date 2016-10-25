@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1119;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1119-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1119-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1119#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Baker,  Henry</span>  (1734&#150;1766), <span class="occ">author</span>, was born on 10 February 1734 at Enfield, Middlesex, the second son of <script>writeSeealsoLink('../view/article/1120/', "Henry Baker FRS (1698&#150;1774)")</script>, teacher of deaf people, and Sophia Defoe (1701&#150;1762), the youngest and favourite daughter of <script>writeSeealsoLink('../view/article/7421/', "Daniel Defoe")</script>. The obscurity surrounding Baker's career suggests how little he matched his uncle, father, and brother, <script>writeSeealsoLink('../view/article/1112/', "David Lionel Erskine Baker (1730&#150;1767?)")</script>, who is said to have inherited his father's literary talent  (Turner, 55).<br>
+<br>His paternal grandfather having been a clerk in chancery, Baker followed family tradition in becoming a lawyer, but, according to John Nichols, &#145;in no creditable line&#146;  (Nichols, <span class="italic">Bowyer</span>, 416). John Robert Moore states that Baker had a &#145;brief career as a shabby attorney&#146;, his sole claim to fame being that from him descended &#145;the English family of Defoe Bakers&#146;  (Moore, 330&#150;31). Baker's career was not fruitless; he readied for the press &#145;The clerk to the commission&#146;, a collection of statutes about bankruptcy with cases and precedents. This work, which according to George Chalmers was published under another title in 1768 and is possibly not extant, must have addressed topics about the treatment of debtors which Defoe's writings long explored.<br>
+<br>His father's literary pretensions may not have given Baker a sure model. The manuscript of his father's courtship conveys a sentimentality barely concealing mercenary motives. To Chalmers, the elder Henry Baker was &#145;a person more respectable as a philosopher than a poet&#146;  (Chalmers, 63), and George Potter shows that, if he worked briefly with Defoe on the <span class="italic">Universal Spectator</span>, his poem &#145;The Universe&#146; is not original because it postdated the first epistle of Alexander Pope's <span class="italic">Essay on Man</span> and borrowed from James Thomson's &#145;Spring&#146;  (Potter, 303&#150;4).<br>
+<br>About the younger Henry Baker's authorship, Nichols says that he wrote occasional poetry and essays for periodicals, and he attributes to him <span class="italic">Essays Pastoral and Elegiac</span>, an anonymous publication of 1756 in two octavo volumes  (Nichols, <span class="italic">Lit. anecdotes</span>, 5.277&#150;8). The wording of the title page, &#145;Essays pastoral and elegiac; containing, Morning, or, The complaint; Noon, or, The contest; Evening, or, The exclamation; Night, or, The wanderer; addressed to the Right Hon. the earl of Chesterfield&#146;, voices conventional pretensions in its deference to Philip Stanhope and allusions to poetic modes favoured by Edward Young.<br>
+<br>Baker's only son, William Baker, was born on 17 February 1763. Baker died on 24 August 1766 and was buried near his mother in the churchyard of St Mary-le-Strand, London. To Nichols, Baker's father, &#145;an intelligent, upright, and benevolent man&#146;, was &#145;unhappy in his children&#146;. His grandson William, his only heir, was a consolation. Not having known his father beyond the age of three, William inherited in 1774 his grandfather's property and papers, including his great-grandfather Defoe's manuscript of <span class="italic">The Compleat English Gentleman</span>. He entered the church as rector of Lyndon and South Luffenham, Rutland, and effected the lineal descent of the Defoe Bakers.<br>
+<br>T. F. Henderson<span class="italic">, rev. </span> Robert James Merrett </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Nichols, <i>Biographical and literary anecdotes of William Bowyer, printer, FSA, and of many of his learned friends</i> (privately printed, London, 1782) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1119&amp;istheme=&amp;target=Nichols%2C%20Lit.%20anecdotes')">Nichols, <i>Lit. anecdotes</i></a>, vol. 5 &middot; G. L'E. Turner, &#145;Henry Baker, FRS, founder of the Bakerian lecture&#146;, <em>Notes and Records of the Royal Society</em>, 29 (1974&#150;5), 53&#150;79 &middot; G. R. Potter, &#145;Henry Baker, F. R. S. (1698&#150;1774)&#146;, <em>Modern Philology</em>, 29 (1931&#150;2), 301&#150;21 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1119&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 2nd ser., 8 (1859), 51, 94, 197, 299 &middot; G. Chalmers, <i>The life of Daniel Defoe</i> (1790) &middot; J. R. Moore, <i>Daniel Defoe</i><i>: citizen of the modern world</i> (1958)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1119&amp;istheme=&amp;target=L.%20Cong.')">L. Cong.</a>, MSS<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">T. F. Henderson, &#145;<span class="roman"><span class="headword">Baker,  Henry</span>  (1734&#150;1766)</span>&#146;, rev. Robert James Merrett, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/1119, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Henry Baker (1734&#150;1766): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1119 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

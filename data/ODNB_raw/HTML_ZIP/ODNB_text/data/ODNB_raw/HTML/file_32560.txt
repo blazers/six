@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32560;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32560-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32560-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32560#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Copisarow,  Maurice</span>  (1889&#150;1959), <span class="occ">chemist</span>, was born at Biruch in Russia on 16 August 1889, the son of Elkana (Conan) Copisarow, who following military service was a rabbinical scholar, and his wife, Sarah. After emigrating to England in 1908 Copisarow was taken under the wing of Chaim Weizmann, then a lecturer in chemistry at the University of Manchester, later first president of Israel. Copisarow obtained his MSc in 1914; a joint paper with Weizmann published in 1915 dealt with new phthalides of the benzene, naphthalene, and carbazole series. He was naturalized in that year.<br>
+<br>Copisarow's research was original and independent; even from 1914 he published papers mostly without collaborators, very occasionally with a junior colleague. At first his work was in the field of synthetic organic chemistry, for example on new applications of the Friedel Craft reaction, but even in the early years he developed wider interests which gradually absorbed his whole attention. His work on the structure and mode of oxidation of carbon led to a series of papers on the subject of allotropy.<br>
+<br>At Manchester, Copisarow was Dalton research scholar (1914&#150;16), honorary research fellow (1916&#150;19), and in 1925 obtained his DSc. His research was interrupted, however, when for financial reasons he was obliged to accept a variety of external tasks. He worked as temporary demonstrator in the chemistry department, on behalf of the research committee of the Royal Society, and for the government Department of Scientific and Industrial Research. During the First World War he worked for the Ministry of Munitions.<br>
+<br>In the summer of 1915 Copisarow was sent by Professor H. B. Dixon, with the support of Weizmann, to organize the analytical section of the newly installed trinitrotoluene (TNT) plant at the government factory at Gorton. He set out to discover the cause of a series of disastrous explosions in the TNT plants of northern England and Scotland, in which several hundred workers had been killed since the beginning of the war. He soon found the Woolwich arsenal testing specifications to be inadequate, limited as they were to the conditions of nitration and a few tests of the product. New problems were the purification of TNT; the action of alkalis thereon; the related question of inherent acidity; and the utilization of rapidly accumulating residues. These led to extensive research, partly published in <span class="italic">Chemical News</span>, but the most significant paper was held back until after the armistice, at the express wish of Lord Moulton. This work was instrumental in substituting steam treatment of crude TNT for the hazardous alkali wash. Copisarow also discovered methods for converting the dangerously unstable waste products generated by the production of explosives into gelatinous dynamite, chloropicrin, and khaki dyes.<br>
+<br>During three years with the Ministry of Munitions, Copisarow was on the so-called coal tar chemical testing staff, stationed at Manchester University. In 1919&#150;22 he was on the research staff of British Dyestuffs Corporation. Among his research was a paper entitled &#145;Carbazole-blue and carbazole-violet&#146; (<span class="italic">Journal of the Chemical Society</span>, 117, 1920, 1542&#150;50), and he took out a patent on the industrial production of carbazole as a base for hydron blue. This was acquired by Levinstein Ltd. He also developed a continuous process for the conversion of toluene and the xylenes to benzene. On 10 December 1919 Copisarow married Eda Cohen, of Manchester. They had a daughter and a son, Sir Alcon Charles Copisarow, who in 1964&#150;6 was chief scientific officer of the Ministry of Technology, and from 1995 chairman of the Eden Trust.<br>
+<br>As early as 1917 Copisarow's eyesight had begun to fail and the deterioration was doubtless accelerated by continued contact with such toxic materials as phosgene, chloropicrin, and TNT. He had eight unsuccessful eye operations, and lost the sight of both eyes shortly after 1925. Owing to this and general bad health he had no employment after 1922. Between 1925 and 1927 he had several major operations for gastric and duodenal troubles and was artificially fed for a period of six months. His indomitable character was clearly displayed in these extremely adverse circumstances. Finding himself in need of an income, Copisarow first of all set to work with his wife to establish a successful business connected with furs. He set up a laboratory in his attic and continued experimental work, which led to the publication of a series of papers on the most varied topics, all of which were characterized by the highest originality. After 1932 the effect of the slump in trade compelled the Copisarows to realize and utilize all their small means, to resort to mortgages and borrowing on life policies. Nevertheless they managed to bring up and educate their two children.<br>
+<br>In later years Copisarow's practical approach to problems was replaced by theoretical writings. He considered a number of topics, among them the mode of synthesis of marble and alabaster. He provided evidence which justified the replacement of the igneous theory of Sir James Hall by a new hydrothermal conception of the formation of marble. He also developed his ideas on rock formation in other directions, focusing particularly on the effects of silica in a number of its forms. He also wrote on the fundamentals of periodicity and the co-ordination of physical and chemical periodic structures, and on mineral arborial growth, its range and bearing on the form of organic structures. In the unrelated field of physiological chemistry his studies of the biochemical causes of malignant growth and possible control of carcinoma were discussed in a comprehensive review article, &#145;History of human cancer&#146;, published in the <span class="italic">Edinburgh Medical Journal</span> (1952). Copisarow was very interested in enzymes and wrote about their action in relation to malignant growth and radiation, and to influenza and other viruses. The high quality of his writings, after he had lost most of his sight, was quite remarkable.<br>
+<br>Among many agricultural topics which Copisarow studied were the preservation of fruit and vegetables, natural and artificial fertilizers, destruction of bracken, and a method for making new materials from woody and other cellulosic starting-points. During the Second World War he was able to use this knowledge to help the war effort, and was as a consequence placed on the civil list in recognition of special services to his country. Finally, an essay on the ancient Egyptian, Greek, and Hebrew concepts of the Red Sea, published soon after his death in <span class="italic">Vetus Testamentum</span>, showed that Copisarow's erudition was not entirely confined to scientific matters.<br>
+<br>In the difficult circumstances of his later life it was impossible to complete much of his work, but his papers teem with original ideas. Physical infirmity deprived him of the opportunity fully to develop his undoubted scientific ability. Copisarow died of a coronary thrombosis at his home, 1 Gildridge Road, Manchester, on 15 April 1959.<br>
+<br>Robert Robinson<span class="italic">, rev. </span> K. D. Watson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Nature</em>, 184 (1959), 315 &middot; <em>The Times</em> (24 April 1959), 17 &middot; personal knowledge (1971) &middot; private information (1971, 2004) [Sir Alcon Copisarow, son] &middot; d. cert. &middot; m. cert.<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;157 7<i>s</i>. 0<i>d</i>.: administration, 8 Oct 1959, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Robert Robinson, &#145;<span class="roman"><span class="headword">Copisarow,  Maurice</span>  (1889&#150;1959)</span>&#146;, rev. K. D. Watson, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/32560, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Maurice Copisarow (1889&#150;1959): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32560 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

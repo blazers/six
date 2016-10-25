@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9155;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9155-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9155-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9155#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Farey,  John</span>  (1791&#150;1851), <span class="occ">mechanical engineer</span>, was born on 20 March 1791, at Lambeth, London, the eldest of the seven surviving children of <script>writeSeealsoLink('../view/article/9154/', "John Farey (1766&#150;1826)")</script>, geologist, and his wife, Sophia Hubert (1770&#150;1830). His early education is obscure, but it is known that he attended a dame-school at Woburn. At some point he had training in drafting patent specifications under William Nicholson (1753&#150;1815), who also ran a school in Soho Square, London. In 1804&#150;5 Farey set about the systematic study of industrial machinery in and around London; and in 1805, aged fourteen, he began making drawings for Rees's <span class="italic">Cyclopaedia</span>. In the following year he was elected a member of the Society of Arts, and also filed his first patent specification.<br>
+<br>A person of many talents, Farey's interests ranged across engineering, chemistry, astronomy, mathematics, geography, geology, and theology; and as a young man he was proficient in music, singing, painting, and engraving. He was also a prolific writer, and he contributed, as draughtsman or writer, usually anonymously, to periodicals, including the <span class="italic">Journal of the Society of Arts</span> and Tilloch's <span class="italic">Philosophical Magazine</span>; to technical books, including Olinthus Gregory's <span class="italic">Mechanics</span> (1806) and Smeaton's <span class="italic">Reports</span> (1812); and to various encyclopaedias. He is also thought to be the pseudonymous author of several technical manuals, including &#145;Thomas Martin&#146;, <span class="italic">The Circle of the Mechanical Arts</span> (1812) and &#145;John Nicholson&#146;, <span class="italic">The Operative Mechanic and British Machinist</span> (1821). He employed William Hyde Wollaston's camera lucida to produce drawings at speed; he invented a draughtsman's rule for drawing perspective and a machine for drawing ellipses accurately. He also designed a long-length slide-rule for making more accurate mathematical calculations. This equipment he sold to fellow artists and engineers.<br>
+<br>The Farey family operated as a business, servicing clients who wished to make use of their differing skills. John Farey, senior, concentrated on surveying and writing for the scientific and popular press. Farey, junior, collected data and drawings of machines and inventions, which he used both for commissions from publishers and authors and in his work on patents. Farey worked as a consulting engineer for many prominent inventors during the later industrial revolution, preparing patent specifications, and appearing as an expert witness at numerous patent trials. He was assisted by his brothers and sisters in the preparation of drawings, and models. His brother William (1795&#150;1836) was a surveyor, and, on the death of their father, in 1826 took over his position of secretary of the Smithfield Club. Barnard William Farey (1825&#150;1883), son of William, continued the engineering tradition of the family, and became eminent in the profession later in the century.<br>
+<br>The family had close links with France. Farey first visited Paris in September 1814; and he frequently visited the country on behalf of John Heathcoat (1783&#150;1861), and took out patents there for Heathcoat's lace-making machines. Later, Farey's brothers Joseph and Henry worked full-time in France, and the family operated in London and Paris for inventors who wished to patent an invention in the other country.<br>
+<br>Farey visited Russia for a month in the autumn of 1819, when he saw James Watt's hitherto secret steam engine indicator, used by Boulton and Watt's engineers to tune the engines. He was responsible for the commercial manufacture of the instrument and its introduction generally into Britain, and used it professionally when undertaking engine tests.<br>
+<br>Farey's &#145;Steam engine&#146; article in volume 34 of Rees's <span class="italic">Cyclopaedia</span>, published in 1816, was well received by his fellow engineers, and, encouraged by this, he commenced writing his <span class="italic">Treatise on the Steam Engine</span> in 1820. In 1821 he gave up his interest in the family business in favour of his brother Joseph and moved to Tiverton, Devon, where he was employed by Heathcoat to work on developing the series of machines Heathcoat later patented.<br>
+<br>In February 1821, Farey married, at St Pancras Church, London, Mary Horniman Thompson Taylor, and they lived in Tiverton until December 1823, when they returned to London. The following year he accepted the post of engineering manager at Marshall's Flax Mill at Holbeck, near Leeds. Mary Farey gave birth in London to a son, Edward (1825&#150;1913), in February 1825, but she died eight days later. Joseph Farey became paralysed in July 1825, and John Farey, senior, took over the running of the London business until his own death in January 1826. Farey then returned to London and this was to remain his base for the rest of his life.<br>
+<br>Farey married Elizabeth Pugsley (1791&#150;1850), daughter of Robert Pugsley of Ilfracombe, in February 1827; there were no children. She assisted him in his professional work and was described as having &#145;almost masculine scientific abilities&#146;  (<span class="italic">PICE</span>, 1851&#150;2). Farey joined the Institution of Civil Engineers in 1826. He became a member of council and took an active part in moves to reform the constitution and rules, especially those relating to the education of engineers.<br>
+<br>The first volume of Farey's <span class="italic">Treatise on the Steam Engine</span>, covering the history to the expiry of Watt's patent, was published in 1827. Despite much prompting by the publisher he did not complete the second volume, which was to have covered the theory and design, with a detailed account of the best machines then being manufactured. He worked up only chapters on Richard Trevithick's high-pressure engine and the compound engine patented by Arthur Woolf, which were not set in type and printed until after 1843. All the sheets of the volume were pulped after his death in 1851, leaving the author's proof as the sole surviving copy, and this was not published until 1971.<br>
+<br>From the later 1820s Farey concentrated on his engineering consultancy. He gave evidence at the parliamentary inquiries on patent law (1829) and steam carriage tolls (1832), and to the Lords' committees on steam carriage tolls (1832) and patent law (1835). He appeared before inquests, and on occasion acted as a referee or arbitrator. His work as an engineering consultant for private clients was of necessity highly confidential in view of the commercial sensitivity of much of the work he did, and little of it is now known.<br>
+<br>In December 1844 a disastrous fire occurred at Farey's residence and office, 67 Guilford Street, Russell Square, London, in which four people, two of whom were police constables, were killed. He kept many of his papers in fire-proof safes and was able quickly to resume his professional work from premises nearby. He was unsuccessfully proposed for membership of the Royal Society in February 1847 and in 1851 was a juror to the machinery section of the Great Exhibition. Farey died of heart failure at The Common, Sevenoaks, Kent, on 17 July 1851, and was buried with Elizabeth in the unconsecrated part of Highgate cemetery in London.<br>
+<br>Farey was one of the most highly regarded consulting engineers of his time, but received no public recognition during his own life. His <span class="italic">Treatise</span> has been described as the finest work on technology to be published during the industrial revolution  (Tunzelmann, 2).<br>
+<br>A. P. Woolrich </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. P. Woolrich, &#145;John Farey and the Smeaton manuscripts&#146;, <em>History of Technology</em>, 10 (1985), 181&#150;216 &middot; A. P. Woolrich, &#145;Hornblower and Maberley engines in London, 1805&#146;, <em>Transactions</em> [Newcomen Society], 56 (1984&#150;5), 159&#150;68 &middot; A. P. Woolrich, &#145;John Farey, jr (1791&#150;1851), engineer and polymath&#146;, <em>History of Technology</em>, 19 (1997), 111&#150;42 &middot; A. P. Woolrich, &#145;John Farey, jr, technical author and draughtsman: his contribution to Rees's <i>Cyclopaedia</i>&#146;, <em>Industrial Archaeology Review</em>, 20 (1998), 49&#150;68 &middot; A. P. Woolrich, &#145;John Farey and his <i>Treatise on the steam engine</i> (1827)&#146;, <em>History of Technology</em>, 22 (2000), 63&#150;106 &middot; H. I. Dutton, <i>The patent system and inventive activity during the industrial revolution, 1750&#150;1852</i> (1984) &middot; J. Harrison, &#145;Some patent practitioners associated with Society of Arts [pts 1&#150;3]&#146;, <em>Journal of the Royal Society of Arts</em>, 130 (1981&#150;2), 494&#150;8, 589&#150;94, 670&#150;74 &middot; H. W. Craver, H. W. Dickinson, and R. Jenkins, &#145;The Farey diary, 1819&#146;, <em>Transactions</em> [Newcomen Society], 17 (1936&#150;7), 215&#150;19 &middot; G. N. von Tunzelmann, <i>Steam power and British industrialization to 1860</i> (1978) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=PICE')"><i>PICE</i></a>, 11 (1851&#150;2), 100&#150;02 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; J. F. Waller, ed., <i>The imperial dictionary of universal biography</i>, 3 vols. (1857&#150;63) &middot; C. Knight, ed., <i>The English encyclopaedia</i>, 2 (1856), 872&#150;3 &middot; [T. T. Shore], ed., <i>Cassell's biographical dictionary</i> (1867&#150;9) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a> &middot; private information (2004)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=Parl.%20Arch.')">Parl. Arch.</a>, minutes of the evidence to parliamentary inquiries
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>, John Farey's drawing books [microfilm in Sci. Mus.]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>
+   &middot;
+ Science Reference Library, London
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, original patents of inventions&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=BL')">BL</a>, Macvey Napier MSS, Add. MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=U.%20Nott.')">U. Nott.</a>, Fisher MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> H. Gengembre, daguerreotype, 1849 (<i>Indret sur Loire</i>), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9155&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;14,000: probate<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. P. Woolrich, &#145;<span class="roman"><span class="headword">Farey,  John</span>  (1791&#150;1851)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/9155, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Farey (1791&#150;1851): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9155 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/9155/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

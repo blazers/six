@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22642;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22642-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22642-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22642#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Powell,  Baden</span>  (1796&#150;1860), <span class="occ">physicist and theologian</span>, was born at Stamford Hill, Hackney, Middlesex, on 22 August 1796, the eldest son of Baden Powell (1767&#150;1841), wine merchant and, in 1831, high sheriff of Kent, and his first cousin Hester Powell (1776&#150;1848). The Powell family circle included leading representatives of the Hackney Phalanx, the group of conservative high-churchmen of considerable influence on church politics in the early nineteenth century. Thomas Sikes, Joshua Watson, and Henry Handely Norris were Powell's relatives. Powell entered Oriel College, Oxford, in the spring of 1814, and started residence in January 1815. William Van Mildert, bishop of Llandaff and a family friend, recommended him to the provost, Edward Copleston, and to Richard Whately, at the time firm allies of the conservative Phalanx. Powell became Whately's pupil and lifelong friend. Having graduated in 1817 with first-class honours in mathematics he proceeded MA and was ordained in 1821. He had started his clerical career in December 1820 as curate of Midhurst, Sussex, then in 1821 took the vicarage of Plumstead, Kent, a living to which he was presented by his family. There he conducted experiments on radiant heat and wrote his early contributions to conservative journals financed by the Hackney Phalanx. He married, on 17 July 1821, Eliza Rivaz, but the poor health of his wife forced him to leave Plumstead in 1824, and take residence in Clapton, London.<br>
+<br>Powell's early experimental work concentrated on radiant heat and the wave theory of light. In papers published in the <span class="italic">Philosophical Transactions of the Royal Society</span> and elsewhere he argued that radiant heat could be intercepted by a glass screen, whereas the light emitted by hot bodies, being capable of passing through the screen, increased the heating effect of the source. His work on heat attracted little attention and almost no support, whereas his experiments on the dispersion of light carried on in the early 1830s as exemplification of Cauchy's wave theory of light met with qualified approval. However, he was unable to keep pace with the increasing mathematical sophistication of contemporary physics; his papers submitted to the Royal Society in the late 1830s contained serious mathematical flaws. &#145;Several times under similar circumstances I have felt determined &hellip; never again to meddle with science,&#146; he wrote to Lubbock in February 1839, acknowledging his &#145;want of command of analysis&#146;  (Royal Society, Lubbock MSS, fols. 301, 294). Nevertheless, he published 137 scientific papers between 1822 and 1860 in numerous journals, eleven with the Royal Astronomical Society (RAS).<br>
+<br>A fellow of the Royal Society since 1824 (vice-president in 1853), upon being elected Savilian professor of geometry at Oxford in 1827 Powell resigned his living. He was an active member of metropolitan scientific bodies such as the Geological and Astronomical societies and was a leading participant in the 1850 royal commission for the reform of British universities. He contributed widely to the British Association for the Advancement of Science with surveys of current research on heat, or on issues fashionable in the mid-century such as the fall of meteorites. He served the association as a local secretary at Oxford in 1832, and was a council member in 1837, vice-president, and president of section A in 1847. From the early 1840s Powell increasingly chose for himself the gentlemanly role of commentator on philosophical, scientific, and theological issues, and on the way they impinged upon the social and political condition of England.<br>
+<br>Powell's fame rested on his role as commentator on theological issues. He was a fierce critic of the Tractarian movement, and to the dismay of high-church relatives such as Edward Churton he gained the controversial reputation of being an early proponent of what was to become known as broad church theology. Yet his early sermons, his anonymous contributions to the <span class="italic">British Critic</span> and the <span class="italic">Christian Remembrancer</span> of the 1820s, and the essay <span class="italic">Rational Religion Examined</span> (1826) fully reflected the conservative stand of the Hackney Phalanx as interpreted by the Oriel school. On the one hand Powell affirmed that scriptural prophecies and miracles attested to the truth of the gospels; he therefore argued that it was impious to submit their content to the test of fallible human reason, as atheists and Unitarians were doing. On the other hand, natural theology was at best a pious exercise; at worst, a concession to unbelievers. While accepting that true rational Christians had no other consistent choice but to submit to the literal wording of the scriptures, following Dugald Stewart, Powell maintained that necessary truths were attained only by deduction from mathematical definitions. Thus he held that knowledge of the natural world was inevitably contingent, since man's definitions of phenomena were bound to be limited; hence, no result of scientific endeavour could be construed as contradicting the scriptural narrative.<br>
+<br>These theological debates were further complicated by social pressures which spilled over into the pulpit. The <span class="roman">Catholic Emancipation Bill</span> of 1829 broke the alliance between Oriel College&#151;by and large favourable to the measure&#151;and the Hackney Phalanx. Powell became convinced that his family circle did not understand the need to adapt to the climate of change pervading the country. In a sermon preached in 1833, <span class="italic">Revelation and Science</span>, he forcefully expressed the view that the social and theological leadership of the Anglican church could not be defended by repressive measures, but only through a well considered reform of Christian apologetics centred on the authority of scientific progress. This view reflected his engagement in the early 1830s in the reform movement at Oxford University, where he pleaded for scientific subjects to be given higher curricular consideration. Powell was public examiner in 1828 and 1831, effectively the only representative of mathematics, and, beside Charles Daubeny and Richard Walker, of physical science in the university. Quiet in manner, an excellent and popular lecturer, he was outspoken in his views. Once all hopes for reforming the curriculum were crushed, Powell took advantage of the 1832 British Association meeting at Oxford to appeal to the intelligentsia of the country. This infuriated conservative dons. Moreover his opposition to the mounting wave of the Tractarian movement also contributed to his increased isolation at Oxford. Powell's personal ties to Richard Whately were reinforced by marriage. His first wife having died on 13 March 1836, on 27 September 1837 he married Charlotte Pope, the younger sister of Whately's wife, Elizabeth; they had one son, Thomas Baden Henry (<i>b</i>. 1841), later judge of the chief court, Lahore, and three daughters.<br>
+<br>Powell articulated his philosophy of science and of Christian apologetics which had evolved from an epistemology based on deduction from axiomatic like premises and his initial opposition to the argument from design, to a natural theology founded on induction, therefore accessible to all rational beings including the intellectual industrial &eacute;lites and also the leaders of the emerging working-class movement. He argued that the progress of discovery bespoke of a God operating through natural laws and that developments in the physical, the natural, and the social sciences all showed the ultimate beneficial results of an arrangement that men had the duty to understand. Therefore, to Powell a belief in miracles increasingly became the symptom of primitive ignorance&#151;to him embedded in the <span class="roman">Old Testament</span>&#151;of the natural causes at the bases of ordinary or extraordinary phenomena.<br>
+<br>During the late 1830s and the 1840s, frequent visits to London and Dublin made up for his loss of influence in Oxford. Family tragedy, remarriages, and his intellectual life prolonged his stay in the capital, to where he finally moved in 1854, while retaining his chair. His second wife had died on 14 October 1844 leaving him four infants. From at least 1829 Powell had been a visitor to John Lee's Hartwell House, had there befriended the family of Captain William Henry Smyth RN (1788&#150;1865), and was a regular attender and council member with Lee and Smyth at the RAS, of which Powell was vice-president from 1856 to 1857, and its dining club. On 10 March 1846, at the age of fifty, Powell married Henrietta Grace (1824&#150;1914), whom he had watched grow up as the accomplished sixth of nine children (including the astronomer Charles Piazzi Smyth) of Captain Smyth and his wife, Annarella (1799&#150;1873). Of seven sons and three daughters born of this marriage, two and one respectively died in infancy. Among the survivors were <script>writeSeealsoLink('../view/article/22648/', "Sir George Smyth Baden-Powell")</script> and <script>writeSeealsoLink('../view/article/30520/', "Robert Stephenson Smyth Baden-Powell (1857&#150;1941), first Baron Baden-Powell of Gilwell")</script> (Henrietta adopted the name Baden-Powell about ten years after her husband's death); Robert became founder of the Boy Scouts. Powell preached regularly at Trinity Church, Paddington, and on several occasions at Kensington Palace, at Prince Albert's invitation.<br>
+<br>In the political and social climate of the late 1840s and the 1850s Powell felt reassured that Britain was not going to fall victim to the revolutions and extreme working-class movements proliferating in continental Europe. Together with new friends like William Benjamin Carpenter, Robert Chambers, Francis Newman, William Rathbone Greg, or the <span class="italic">Westminster Review</span> group, he felt that the intellectual conservatism of his former high-church allies represented a serious obstacle to the reforming strategy aimed at making timely concessions to avoid political upheavals. He was convinced that innovations in science, such as the evolution theory propounded by Chambers in his 1845 <span class="italic">Vestiges of the Natural History of Creation</span>, or in Charles Darwin's <span class="italic">Origin of Species</span> (1859), had to be embraced by the &eacute;lites because they constituted further evidence that nature, as well as society, was governed by iron laws and not by capricious will. He could neither understand nor tolerate Adam Sedgwick's and William Whewell's charge of atheism against Chambers and evolutionism. In the <span class="italic">Order of Nature</span> (1859) Powell spoke of a society where religion expressed itself following the levels of intellectual and moral development of its members. It was therefore acceptable that the masses should believe in miracles and in paternal providence, whereas the well-educated rulers wisely believed in the religion of a natural order created by a benevolent rational being.<br>
+<br>A series of essays published in the 1850s, and especially the <span class="italic">Essay on the spirit of inductive philosophy, the unity of worlds and the philosophy of creation</span>, made Powell a well-known figure at London intellectual soir&eacute;es and at court; he mixed with literary lions such as Charles Dickens, George Eliot, and George Henry Lewes, Baron von Bunsen and Thomas Henry Buckle, and famous scientists such as Charles Babbage, John Frederick Herschel, Charles Lyell, and Roderick Impey Murchison. Powell's outspoken denial of miracles, and his enthusiastic comments on Darwin's theory in &#145;On the study of the evidences of Christianity&#146; which he contributed to the famous 1860 issue of <span class="italic">Essays and Reviews</span>, marked the breaking up of relations with Whately, and made Edward Bouverie Pusey doubt that Powell was still a Christian. His death prevented his involvement in the prosecution brought against several contributors to <span class="italic">Essays and Reviews</span>, as well as his intention to take part, a week later, in the Oxford meeting of the British Association for the Advancement of Science, where he would most certainly have defended Darwin's theories against Bishop Wilberforce's strictures. On 9 March 1860 he presided at his last dinner as president of the RAS Club. He died of bronchitis followed by heart failure on 11 June at his home, 6 Stanhope Street, Hyde Park Gardens, London, three weeks after the birth of his youngest son. He was buried at Kensal Green, London. Contemporaries described him as a kind-hearted person, &#145;happy as a child&#146; when discussing his favourite theological or scientific ideas, though younger naturalists such as Joseph Dalton Hooker and later generations unfairly looked upon him as a typical example of a cleric meddling with scientific theories which he was ill-equipped to judge.<br>
+<br>Pietro Corsi </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Powell, journal, 1816&#150;60, priv. coll. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 11 (1860&#150;62), xxvi&#150;xxix &middot; <i>Notices of the life of &hellip; Baden Powell</i> [1886] &middot; E. Powell, <i>Pedigree of the family of Powell</i> (1891) &middot; P. Corsi, <i>Science and religion</i><i>: Baden Powell and the Anglican debate, 1800&#150;1860</i> (1988) &middot; I. Ellis, <i>Seven against Christ</i><i>: a study of &#145;Essays and reviews&#146;</i> (1980) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; <em>Monthly Notices of the Royal Astronomical Society</em>, 21 (1860&#150;61), 103&#150;5 &middot; J. Morrell and A. Thackray, <i>Gentlemen of science</i><i>: early years of the British Association for the Advancement of Science</i> (1981) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=Hist.%20U.%20Oxf.%206%3A%2019th-cent.%20Oxf.%20pt%201')"><i>Hist. U. Oxf.</i> 6: <i>19th-cent. Oxf. pt 1</i></a> &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>, corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=RS')">RS</a>, Lubbock
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=U.%20St%20Andr.%20L.')">U. St Andr. L.</a>, corresp. with James David Forbes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22642&amp;istheme=&amp;target=UCL')">UCL</a>, letters to Society for the Diffusion of Useful Knowledge<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;3000: probate, 8 Aug 1860, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Pietro Corsi, &#145;<span class="roman"><span class="headword">Powell,  Baden</span>  (1796&#150;1860)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22642, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Baden Powell (1796&#150;1860): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22642 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

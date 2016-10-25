@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15651;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15651-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15651-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15651#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Kirk,  Robert</span>  (1644&#150;1692), <span class="occ">Gaelic scholar</span>, was born on 9 December 1644, probably at Aberfoyle, Perthshire, the seventh and youngest son of James Kirk (1608/1609?&#150;1658), minister there, and his wife, Elizabeth Carkettle (<i>d</i>. 1679). He studied at Edinburgh University (where he graduated MA on 19 July 1661), and afterwards at St Andrews. On 8 November 1664 he became the minister of Balquhidder, Perthshire, and from 23 October 1667 to 3 April 1688 he was clerk to the synod of Dunblane, a position in which he earned considerable respect from his colleagues. On 14 January 1678 he married Isabel, daughter of Sir Colin Campbell of Mochaster (1616&#150;1668) and Margaret Menzies (<i>d</i>. 1681). They had two sons, Colin (<i>d</i>. 1725), who eventually became a writer to the signet in Edinburgh, and William, who died an infant. Isabel died on 25 December 1680, aged twenty-five, and was buried at Balquhidder; Kirk himself cut the epitaph on her gravestone. A firm episcopalian, he took the oath imposed by the <span class="roman">Test Act</span> of 1681.<br>
+<br>Kirk's parish was then entirely Gaelic speaking, and the minister was the scholarly author of the first complete metrical psalter in Gaelic, for ten years the only version in the language, <span class="italic">Psalma Dhaibhidh an meadrachd</span>, of which 221 copies were published in 1684. He had learned that the synod of Argyll intended to publish a rival version, and he resorted to curious expedients to keep himself awake while working night and day to forestall them. The following year, on 9 June 1685, he was appointed to his father's old charge at Aberfoyle. Over the next few years he became involved in two projects financed by the scientist Robert Boyle. Following the appearance in 1685 of a version of the <span class="roman">Bible</span> in Irish type, comprising the <span class="roman">Old Testament</span> (by Bedell) and the <span class="roman">New Testament</span> (by O'Donnell), James Kirkwood (1650?&#150;1708), a deprived Scottish minister living in Bedfordshire, persuaded Kirk, and his lawyer-relative Colin Campbell of Carwhin, agent to the earl of Breadalbane, to take responsibility for its distribution in the highlands. There were 200 copies, sufficient to provide one for each parish, but Kirk regarded the number of bibles as ridiculous, perhaps because some were &#145;alienated to private use&#146;. The Irish characters were unfamiliar to highlanders, and he proposed that more copies should he made available transliterated into roman characters. Boyle agreed to subsidise the cost as he had that of a Gaelic version of Charteris's <span class="italic">Catechism</span> (1688), to which Kirk had contributed. During the time of considerable uncertainty in the Scottish church that succeeded the political events of 1688, the intrepid Kirk, who had been permitted to continue in the ministry despite his unrepentant episcopalianism, went to London for eight months to supervise the printing of what came to be known as Kirk's <span class="roman">Bible</span>, completed by April 1690. He also produced a small vocabulary of 464 difficult words, which foreshadowed future Gaelic dictionaries; this was later revised and republished in 1702 by Edward Lhuyd (<i>d</i>. 1709).<br>
+<br>While in London, Kirk, who had a keen interest in fairy superstitions, met Bishop Edward Stillingfleet and his wife, Elizabeth. The bishop was a seventh son, and the couple, who were themselves to have seven sons, intrigued by what this might imply, asked Kirk for further information. In response he wrote, and addressed to Elizabeth Stillingfleet, the curious <span class="italic">The secret commonwealth, or, An essay on the nature and actions of the subterranean (and for the most part) invisible people heretofore going under the name of faunes and fairies, or the lyke, among the low country Scots, as they are described by those who have the second sight</span> (1691), a work later published in several different versions.<br>
+<br>Kirk married again, a son, Robert (<i>d</i>. 1758), being born about 1690. His second wife, Margaret Campbell of Fordie, was a cousin of his first wife. Margaret was pregnant with their second child, Marjorie, when Kirk died, at Aberfoyle, on 14 May 1692. He was buried in the old kirkyard there. Kirkwood continued the task of distributing the bibles after Kirk's death, in spite of opposition in England because it might encourage Gaelic. Interest in Kirk has persisted, partly because a successor at Aberfoyle, Patrick Graham (1750&#150;1835), drew him to the attention of Sir Walter Scott who mentioned him in <span class="italic">Rob Roy</span> (1818). In his <span class="italic">Sketches of Perthshire</span> (1812), Graham related that Kirk did not die, but was &#145;taken&#146; by the fairies whose secrets he had betrayed. According to Graham, Kirk reappeared at the baptism of his posthumous child. Manifesting himself to a &#145;mutual relation&#146;, the minister had asked that his brother-in-law, Thomas Graham of Duchray, cast a dagger above his head, to release him, but, &#145;in his astonishment&#146;, Duchray failed, leaving Kirk captive in fairyland. Since then many distinguished folklorists have investigated the Fairy Minister, but this has meant that the importance of Kirk's work, as the scholar who was among the first to record highland folk-beliefs as well as to make the <span class="roman">Bible</span> accessible to highlanders, has sometimes been underestimated.<br>
+<br>Louis Stott </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Hunter, ed., <i>The occult laboratory</i><i>: magic, science and second sight in late seventeenth century Scotland</i> (2001) &middot; R. Kirk, <i>The secret commonwealth</i>, ed. S. Sanderson (1975) &middot; M. M. Rossi, &#145;Text criticism of Robert Kirk's secret commonwealth&#146;, <em>Edinburgh Bibliographical Society Transactions</em>, 3 (1948&#150;55), 253&#150;68 &middot; D. Maclean, &#145;Life and literary labours of Rev. Robert Kirk of Aberfoyle&#146;, <em>Transactions of the Gaelic Society of Inverness</em>, 31 (1922&#150;4), 328&#150;66 &middot; P. Graham, <i>Sketches descriptive of picturesque scenery on the southern confines of Perthshire</i>, 2nd edn (1812) &middot; J. Wilson, <i>Register of the diocesan synod of Dunblane</i> (1877) &middot; J. Reid, <i>Bibliotheca Scoto-Celtica, or, An account of all the books which have been printed in the Gaelic language</i> (1832), 20&#150;22 &middot; D. MacKinnon, <i>The Gaelic Bible and psalter</i><i>: being the story of the translation of the scriptures into Scottish Gaelic</i> (1930) &middot; A. Nisbet, <i>Heraldry</i> (1722&#150;4), 1.429 &middot; C. Rodger, <i>Monuments and monumental inscriptions in Scotland</i> (1871&#150;2) &middot; W. A. Gillies, <i>In famed Breadalbane</i> (1938) &middot; D. S. Thomson, ed., <i>The companion to Gaelic Scotland</i> (1983) &middot; D. B. Smith, &#145;Mr Robert Kirk's notebook&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15651&amp;istheme=&amp;target=SHR')"><i>SHR</i></a>, 18 (1920&#150;21), 237&#150;48 &middot; J. L. Campbell, &#145;An early Scottish Gaelic vocabulary&#146;, <em>Scottish Gaelic Studies</em>, 5/1 (1938), 76&#150;93 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15651&amp;istheme=&amp;target=Fasti%20Scot.')"><i>Fasti Scot.</i></a>, new edn, 4.334&#150;5, 337<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15651&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, letters and papers, GD 50
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15651&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, commonplace books and sermons<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Louis Stott, &#145;<span class="roman"><span class="headword">Kirk,  Robert</span>  (1644&#150;1692)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/15651, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Kirk (1644&#150;1692): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15651 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

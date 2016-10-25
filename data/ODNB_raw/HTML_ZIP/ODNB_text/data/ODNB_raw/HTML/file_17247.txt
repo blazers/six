@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17247;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17247-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17247-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17247#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Lyhert,  Walter</span>  (<em>d.</em> 1472), <span class="occ">bishop of Norwich</span>, was from Lanteglos by Fowey in Cornwall. His only known kinsman (<i>cognatus</i>) is John Lyhert, who predeceased him and was a co-beneficiary of the bishop's own chantry. Once Lyhert became a bishop, he always acted as proctor in parliament for Edmund Lacy, bishop of Exeter, for many years an invalid. A hospital in Plymouth, Devon, received 10 marks (&pound;6 13<i>s</i>. 4<i>d</i>.) in Lyhert's will. There is no evidence of any kinship with the Norwich family of his name.<br>
+<br>Lyhert was admitted as sophist and fellow to Exeter College, Oxford, <i>c</i>.1420, and had graduated BA from there by 1425. Equally important, he formed an association there with John Halse of Kenedon, Devon, with whom he remained friends until death. Lyhert was a fellow of Oriel College from 1425 to 1427. Having achieved the degree of MA he received that of BTh in 1441, but was awarded the degree of DTh only after his episcopal promotion. On 1 June 1435 he was elected provost of Oriel, and retained the office until 1446, when Halse succeeded him.<br>
+<br>Lyhert had been ordained subdeacon in April 1427, deacon in July, and priest on 20 September, doubtless in connection with his admission to the rectory of Lamarsh, Essex, on 7 October that year. A series of exchanges of benefice followed. On 24 February 1441 he was presented by the crown to the rectory of Bradwell-on-Sea, Essex, perhaps showing that he had begun to attract influential notice. It remains a mystery none the less exactly how he secured the patronage he now did. On 10 February 1444, as a &#145;king's clerk and chaplain&#146;, he was granted the wardenship of St Anthony's Hospital in London, a significant preferment. And by 1445 he had become chaplain to William de la Pole, earl of Suffolk, then the major figure around the king, and on 24 January 1446, still a &#145;king's clerk&#146;, he was papally provided to the see of Norwich, on Suffolk's petition and in supersession of Henry VI's initial nomination of his own confessor, John Stanbury. Custody of the temporalities had already been granted to him on 10 January 1446 and they were formally restored on 26 February. Lyhert was consecrated at Lambeth on 27 February 1446 and enthroned on 3 April. He made an extensive primary visitation between June and August 1448, but otherwise was no more than a periodic guest in his diocese before 1450.<br>
+<br>It was a startling advance to a first-rank see for a man of Lyhert's background, but the fact that it brought yet further major resources and patronage in East Anglia under Suffolk's control inevitably made Lyhert highly vulnerable. Accordingly, his position (undoubtedly to Suffolk's satisfaction) as confessor to Queen Margaret of Anjou was noted by his irascible Oxford contemporary, Thomas Gascoigne, and confirmed as fact, in 1447 at least, in parliament. John Halse had become her long-term chaplain. In that year too, Lyhert was rendered open to further criticism by his friendship with the increasingly notorious Bishop Reginald Pecock, who gave him a copy of his latest, highly controversial, sermon.<br>
+<br>On 16 August 1447 Lyhert was appointed as one of five principals in a delegation to seek peace but, more specifically, collaboration with the French in securing unity in the church; leaving London on 24 August, they achieved an extension of the truce, moved on to Lyons in late October and on 8 November were in Geneva seeking to persuade the antipope, Felix V, to resign. Returning to London on 14 January 1448 Lyhert had a personal interview with the king at Windsor the next day. Remaining in London around the court, he witnessed some council writs but was doubtless primarily in personal attendance on the queen and a reassuring presence to Suffolk. Unsurprisingly, he attracted abuse and lampoons at the time of the latter's fall from grace and subsequent murder in 1450 and was threatened directly by a mob in his diocese, to which he retreated, but he escaped physical harm then and political condemnation in parliament afterwards. He was not seen as an evil influence.<br>
+<br>Lyhert spent the early 1450s very much as a resident diocesan. However, when the king fell ill, he was one of the six leading bishops who on 5 December 1453, alongside six equally tentative lay peers, announced formally their reluctant consent to maintain the burden of governance while the king was incapacitated. Five months later, on 3 April 1454, when the duke of York became protector, Lyhert followed other bishops in saying he was ready to attend the council when his colleagues required, but asked &#145;that he have lycens among other to attend to his ayre and to vyeset his diosses as hit aperteneth unto hym&#146;  (Griffiths, &#145;King's council&#146;, 80). Clearly he recognized that his connections with the queen and court forbade him to lend credibility as a councillor to York's regime. Lyhert stayed until July, but did not return to London until November, and remained thereafter when the king recovered. He did, however, go back to his diocese before politics suddenly erupted into battle in the spring of 1455. This did not leave him free of the consequences. It was reported in the aftermath of the first battle of St Albans that John (I) Paston, a bitter local opponent of the late duke of Suffolk's regime in East Anglia, intended to seize this chance to denounce the bishop and two other leading henchmen in parliament. Paston hastily denied this.<br>
+<br>As the queen reasserted factional control in the following years, Lyhert became increasingly a resident diocesan. However, he did resume long-term residence in London in late 1459, presumably to bolster the Lancastrian court after it had driven its enemies into exile by war but had to expect their invasion. Hence, some time about October 1460, when these rivals appeared to have gained a decisive upper hand militarily, at least in the south, he felt the need to sue out a permanent exemption from parliaments and councils, in consideration of his age, long service at home and abroad, and &#145;his desire to follow things divine&#146;  (<span class="italic">CPR</span>, <i>1452&#150;61</i>, 642). This was an obvious ploy to avoid involuntary collaboration with the new regime, and, in fact, Lyhert did not miss a single parliament under any dynasty or regime until the day he died. When Henry VI was restored briefly to the throne in September 1470, Lyhert, like other veterans, rallied to him in London and stayed there over the winter, but suffered no consequences when Edward IV won his throne back in the spring.<br>
+<br>Edward IV, of course, had had no public role for Lyhert to fill after 1461, which left him free to give his entire attention to his diocese, where his conscientiousness on visitations, in particular, made a considerable impression. According to the Paston family (with whom he now became very friendly), he took pains with his clergy, seeking to alleviate those in financial straits. However, he failed totally to break apart the scandalous (to the Pastons) betrothal of Margery Paston and their steward, Richard Calle, although he tried hard.<br>
+<br>Lyhert was a considerable benefactor to Norwich Cathedral, promoting the building of a spire that might remain upright and of the rood-screen, with his delightful three-pun rebus (a hart lying in water) sculpted freely round the church. He inherited a perennial jurisdictional feud between the bishop and the cathedral on the one side and the city on the other, which had several times turned violent and in 1442 had led to a major and damaging riot across the cathedral enclave. Lyhert more than held his own, in Norwich and also in Wymondham, where he responded with similar vigour to defiance against his jurisdiction in 1448. In a confrontation with the earl of Oxford in 1462 &#145;my lorde dyde quyte hym als curageousely as ever I wist man do&#146;  (<span class="italic">Paston Letters</span>, 2, 269). His register built up into by far the most immaculate and neat record of its kind in the whole of later medieval England, a massive calligraphic gem. This does not, in itself, prove pastoral zeal or spiritual sensitivity, but as a theologian by training (if not an original author) and with no external distractions, Lyhert's full-time residence and steady touring of his diocese suggest a mind concentrated on its work. Nevertheless, he delegated ordination ceremonies to suffragans almost throughout his episcopacy.<br>
+<br>Lyhert's final &#145;testament&#146; was made at Hoxne, Suffolk, always his favourite residence, on 13 May 1472. His &#145;will&#146;, mainly dealing with his chantry, had been made on 31 March 1471. The testament had a clear direction. The funeral expenses were not to be &#145;superfluous and excessive&#146;, but &#145;in moderation&#146;, without &#145;solace for the rich and well-founded&#146; but rather for &#145;the sick and needy&#146;, with 2<i>d</i>. for every pauper at the funeral and again at the trental. There were to be three months' wages and board for all his servants, with handsome bonuses for each of them besides. No less than &pound;100 was to be distributed to his poor tenants. One deceased servant, Richard Hedge, was to be a specified beneficiary within the bishop's own chantry, where the priest was to preach to the laity weekly through Advent and Lent. He bequeathed liturgical items to Exeter, Oriel, and All Souls colleges at Oxford, and 100<i>s</i>. each to Gonville Hall and Trinity Hall, Cambridge. The residue of his estate was to be used for impoverished scholars in Oxford and Cambridge. His funeral and other bequests make it no surprise to find him bequeathing a copy of the distinctive <span class="italic">Sermones dominicales</span> of Philip Repyndon, bishop of Lincoln, celebrated moralist and nominally repentant Wycliffite, to Mr John Wilton of Cambridge. Lyhert died at Hoxne on 24 May. He was buried, as he wished, before the door of the rood-screen he had built, in Norwich Cathedral. It was probably when the tombstone was later moved to the eastern door of the south choir aisle that his brass was discarded.<br>
+<br>R. J. Schoeck </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17247&amp;istheme=&amp;target=Chancery%20records')"><i>Chancery records</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17247&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 2.1187&#150;8 &middot; N. Davis, ed., <i>Paston letters and papers of the fifteenth century</i>, 2 vols. (1971&#150;6) &middot; T. Gascoigne, <i>Loci e libro veritatum</i>, ed. J. E. Thorold Rogers (1881) &middot; C. W. Boase, ed., <i>Registrum Collegii Exoniensis</i>, new edn, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17247&amp;istheme=&amp;target=OHS')">OHS</a>, 27 (1894) &middot; C. L. Shadwell and H. E. Salter, <i>Oriel College records</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17247&amp;istheme=&amp;target=OHS')">OHS</a>, 85 (1926) &middot; will, TNA: PRO, PROB 11/6, sig. 7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17247&amp;istheme=&amp;target=RotP')"><i>RotP</i></a>, vol. 5 &middot; R. A. Griffiths, <i>The reign of King Henry VI</i><i>: the exercise of royal authority, 1422&#150;1461</i> (1981) &middot; I. Atherton and others, eds., <i>Norwich Cathedral</i><i>: church, city and diocese, 1096&#150;1996</i> (1996) &middot; R. A. Griffiths, &#145;The king's council and the first protectorate of the duke of York, 1453&#150;1454&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17247&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 99 (1984), 67&#150;82 &middot; N. H. Nicolas, ed., <i>Proceedings and ordinances of the privy council of England</i>, 7 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17247&amp;istheme=&amp;target=RC')">RC</a>, 26 (1834&#150;7), vol. 6<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. J. Schoeck, &#145;<span class="roman"><span class="headword">Lyhert,  Walter</span>  (<em>d.</em> 1472)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/17247, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Walter Lyhert (<em>d.</em> 1472): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17247 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/17247/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

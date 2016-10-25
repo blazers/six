@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20461;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20461-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20461-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20461#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">O'Brien,  Matthew</span>  (1814&#150;1855), <span class="occ">mathematician</span>, was born at Ennis, co. Clare, Ireland, the son of Matthew O'Brien MD. He was first educated at Dublin where he attended Trinity College from 1830 to 1834, and then entered Gonville and Caius College, Cambridge, in 1834, graduating as third wrangler in 1838. He was elected a fellow of Caius in 1840 but resigned in the following year. At Caius he overlapped with two other notable mathematicians, George Green and Robert Murphy.<br>
+<br>O'Brien was professor of mathematics and natural philosophy at King's College, London, from 1844 to 1854, serving also as lecturer in practical astronomy at the Royal Military Academy, Woolwich, from 1849 to 1854, and as professor of mathematics at Woolwich, from 1854 to 1855. He wrote four books and sixteen papers. His texts <span class="italic">An Elementary Treatise on the Differential Calculus</span> (1842) and <span class="italic">A Treatise on Plane Coordinate Geometry</span> (1844) are good examples of expository writing of their time. The calculus text uses limits to define the basic concepts and to prove the necessary theorems. His papers mainly concerned astronomy and mathematical physics.<br>
+<br>The most interesting aspect of O'Brien's work is the development of the algebraic properties of vectors. Hamilton's work on quaternions inspired many contemporaries to produce a similar theory for three-dimensional vectors. Most of these were unsuccessful because their authors tried to include both multiplication and division of vectors into their systems. O'Brien avoided this trap (in two papers published in 1849 in the <span class="italic">Transactions of the Cambridge Philosophical Society</span>), distinguishing clearly the vector and scalar products and eschewing the division of vectors. Further, he introduced notations for the two products and one corresponding to the Laplacian operator i&#916;. He applied his vector algebra in an effective manner to solve problems in mechanics and geometry. His work, which in some measure anticipated that of Gibbs in the 1880s, had little influence on contemporaries.<br>
+<br>Nothing is known of O'Brien's personal and family life. He died at Petit M&eacute;nage, Jersey, on 22 August 1855.<br>
+<br>G. C. Smith </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. C. Smith, &#145;M. O'Brien and vectorial mathematics&#146;, <em>Historia Mathematica</em>, 9 (1982), 172&#150;90 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20461&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20461&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> T. C. Wageman, watercolour drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20461&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. C. Smith, &#145;<span class="roman"><span class="headword">O'Brien,  Matthew</span>  (1814&#150;1855)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/20461, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Matthew O'Brien (1814&#150;1855): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20461 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

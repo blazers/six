@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 67858;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/67/67858-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/67/67858-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=67858#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Simson,  Patrick</span>  (1628&#150;1715), <span class="occ">Church of Scotland minister</span>, was born in New Abbey manse, Kirkcudbrightshire, on 2 October 1628, the second son and sixth child of Adam Simson (1594&#150;1642), the minister there, and his wife, Margaret Spens. His early years are obscure. He may not have accompanied his parents when they went about 1632 to Ireland, where his father died ten years later, leaving his wife in penury; he may instead have been brought up by his cousin George Gillespie. He matriculated in arts at Edinburgh in 1643 and was a member of the class of James Wiseman (<i>d</i>. 1655), professor of philosophy, but did not graduate. Once licensed (date unknown), he served between 1649 and 1653 as chaplain and tutor to the marquess of Argyll at Inveraray.<br>
+<br>Having already been an observer at six general assemblies of the kirk on 11 November 1653 Simson was ordained and inducted to Renfrew. On 30 August 1654 he married Elizabeth Hay, daughter of his predecessor (and successor); they had five children. Little is seen of Simson's Renfrew ministry before his ejection on 1 October 1662. Following the death of his wife on 31 March 1662, on 30 June 1664 he married Janet Peadie (<i>bap</i>. 1635, <i>d</i>. 1714), widow of Robert Cullen, a Glasgow merchant. Of their seven children, <script>writeSeealsoLink('../view/article/25604/', "John Simson")</script> became a Glasgow professor of dubious orthodoxy.<br>
+<br>After accepting the second <span class="roman">Act of Indulgence</span>, Simson was appointed to Kilmacolm in 1672, but the family's unsettled life was not at an end. In 1674 he was charged with ministering outside his parish. He supported the covenanter preacher Alexander Peden during the latter's imprisonment on the Bass Rock in 1677, and, having refused the privy council's summons in 1678&#150;9 to answer for &#145;keeping of conventicles&#146;, was deposed, but the sentence was not enforced for some years. The 1687 declaration of indulgence allowed his reappointment to Renfrew, but this was not implemented until 1690.<br>
+<br>In his later years Simson proved a valued counsellor in ecclesiastical business, for example, during the restoration of presbyterianism in 1690 and the union debates of 1707. He served in 1695&#150;6 as moderator at a general assembly which moved towards realizing the Scottish reformation's aim of a school in every parish, was involved in witch trials in 1697, and was dean of the faculties in Glasgow University from 1690 to 1701. The communion cups presented on his ministerial jubilee in 1703 were still in use at the end of the twentieth century, but although plans to authorize for congregational use his <span class="italic">Spiritual Songs, or, Holy Poems</span> (1685&#150;6), drawn from the <span class="roman">Bible</span>, came close to fruition in 1708, they lapsed thereafter. Simson retained a sharp mind and memory, being father of the kirk at the end of his life. His wife having died on 19 September 1714, Simson himself died on 24 October 1715. Robert Wodrow, who knew him well, paid him a glowing tribute. Three of his writings on church controversies survive in manuscript (NL Scot., Wodrow MSS).<br>
+<br>D. F. Wright </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=67858&amp;istheme=&amp;target=Fasti%20Scot.')"><i>Fasti Scot.</i></a> &middot; W. J. Couper, &#145;The Levitical family of Simson&#146;, <em>Records of the Scottish Church History Society</em>, 4 (1930&#150;32), 119&#150;37, 208&#150;66, esp. 211&#150;27 &middot; J. Warrick, <i>The moderators of the Church of Scotland from 1690 to 1740</i> (1913), 71&#150;91 &middot; A. Morgan, alphabetical listing of the matriculation roll of the University of Edinburgh, arts, 1623&#150;1774, U. Edin. L., university archives [typescript], 24 &middot; matriculation rolls, U. Edin. L., university archives &middot; A. Dalzel, <i>History of the University of Edinburgh</i>, 2 (1862)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=67858&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, Wodrow MSS<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">D. F. Wright, &#145;<span class="roman"><span class="headword">Simson,  Patrick</span>  (1628&#150;1715)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/67858, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Patrick Simson (1628&#150;1715): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/67858 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

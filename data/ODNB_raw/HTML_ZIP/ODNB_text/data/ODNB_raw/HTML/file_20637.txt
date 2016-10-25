@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20637;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20637-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20637-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20637#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">O'Hearn,  Francis</span>  (1747&#150;1801), <span class="occ">Roman Catholic priest and author</span>, was born in Derry in the parish of Modeligo, co. Waterford. He had at least two brothers, Thomas and Timothy, both of whom were ordained priests. He received his early education from an uncle, William Brown, parish priest of Clashmore, and at a very early age was sent to the Irish Pastoral College, Louvain.<br>
+<br>In 1776 O'Hearn was nominated professor of syntax at Holy Trinity College, Louvain, and between 1781 and 1793 he was professor of rhetoric. In 1787 he published <span class="italic">Compositio rhetoribus</span>. His unpublished <span class="italic">Tractatus rhetoricae</span> is preserved in the Biblioth&egrave;que Royale Albert Ier, Brussels. During university vacations he appears to have travelled widely in Europe and mastered a number of languages. His prowess in Flemish was remarkable and he played a role in the cultural and political revival of the language. In 1785 he had been elected dean of the Flemish nation of the university. He was canon of St Peter's, Louvain, and of Bruges Cathedral. In 1791 he was considered by the nuncio in Li&egrave;ge as a candidate for the bishopric of Waterford. In 1793 he became professor of Christian eloquence and in the same year was rector of the Irish Pastoral College in succession to his fellow countryman John Kent.<br>
+<br>When unrest engulfed the Austrian Netherlands during the Brabant Revolution (1789&#150;90) O'Hearn was initially associated with Jean Fran&ccedil;ois Vonck, leader of the democrats, who were influenced by Enlightenment and French revolutionary thought. He quickly changed his allegiance to the more conservative Henri Van der Noot. He formed part of a Flemish embassy to Berlin. Later he travelled to the German lands. Just before his return to Ireland his nephew Francis O'Hearn was executed in Waterford for his part in the Irish rising of 1798. Bishop Thomas Hussey appointed him parish priest of St Patrick's, Waterford, in 1799. He died in Waterford on 22 October 1801 and was buried in the precincts of the city's Catholic cathedral.<br>
+<br>Thomas O'Connor </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Journal of the Waterford and South-East of Ireland Archaeological Society</em>, 1 (1894), 236&#150;8 &middot; <em>Journal of the Waterford and South-East of Ireland Archaeological Society</em>, 5 (1899), 53&#150;4 &middot; <em>Journal of the Waterford and South-East of Ireland Archaeological Society</em>, 11 (1908), 43&#150;4 &middot; P. Power, <i>Waterford and Lismore</i><i>: a compendious history of the united dioceses</i> (1937) &middot; E. Van Even, <i>De Ierlander Francis O'Hearn die in Belgie de Vlaamsche dischtkunst beoefande</i> (1889) &middot; B. Jennings and C. Giblin, eds., <i>Louvain papers, 1606&#150;1827</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20637&amp;istheme=&amp;target=IMC')">IMC</a> (1968) &middot; C. Giblin, <i>Irish exiles in Catholic Europe</i> (1971), vol. 4/3 of <i>A history of Irish Catholicism</i> &middot; monument (burial), Waterford City Cathedral &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20637&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <em>Waterford Mirror and Munster Packet</em> (26 Oct 1801) &middot; parish registers, Waterford &middot; university registers, Louvain<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Royal Library of Belgium, Brussels, Burgundian Library, MSS<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Thomas O'Connor, &#145;<span class="roman"><span class="headword">O'Hearn,  Francis</span>  (1747&#150;1801)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/20637, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Francis O'Hearn (1747&#150;1801): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20637 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

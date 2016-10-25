@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13430;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13430-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13430-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13430#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hodgkinson,  Eaton</span>  (1789&#150;1861), <span class="occ">structural engineer</span>, was born on 26 February 1789 at Anderton, near Northwich, Cheshire, the son of James Hodgkinson (1756&#150;1794), a farmer, and his wife, Mary (1767&#150;1835). He had two sisters. Originally intended for the church, he was enrolled at John Dean's Grammar School at Witton, near Northwich, but it proved uncongenial so he was transferred to a Mr Shaw's private school, which also better suited his growing interest in mathematics. In 1811 the family gave up their farm and his mother bought a pawnbroker's shop in Salford. Little is known about Hodgkinson's activities during the next ten years, but it is known that he was tutored by John Dalton. In 1820 he joined the Manchester Literary and Philosophical Society. He read his first paper, &#145;On the transverse strain and strength of materials&#146;, to a meeting of that society in 1822. It was of major importance for a new technology.<br>
+<br>The construction of the huge textile mills that were features of the industrial revolution raised serious design problems for builders using cast iron, which was then a new material. A beam, loaded in the middle, will undergo compression in the upper part and tension in the lower part, the forces of compression and of tension being equal; in between there will be a neutral line. This had been shown by Parent, Coulomb, and, later, the elder John Robison. However, the builders of the first iron-framed mills overlooked their works and evaded the complications by using comparative method, or scaling up, from a small sample that could be broken under load, to full size. In his first paper Hodgkinson, following Robison, showed how to locate the neutral line and how to estimate the transverse strain in a beam. With Dalton's help, he experimentally determined the neutral line in different beams.<br>
+<br>In this paper Hodgkinson had used old-fashioned mathematics&#151;proportions and fluxions; in his next papers to the society, on the catenary in suspension bridges and on the strength of iron beams, he used, probably thanks to Dalton, modern mathematics. More importantly these papers set the strength of materials on a firm basis. He showed in the last paper that cast iron was much stronger in compression than in tension, so that the top flange of a beam could be thinner than the bottom flange. In this way the most economical beam for a given strength could be designed. At the same time, through the good offices of Peter Ewart, he began a long scientific partnership with William Fairbairn, who possessed facilities for testing large beams at his works.<br>
+<br>Hodgkinson's studies of materials under tension or compression below the breaking point led him to consider what was called the set, or the permanent deformation left after the load is removed. Thomas Tredgold had argued that set takes place at one-third breaking load. Hodgkinson, in his report to the British Association in 1843, showed that permanent deformation takes place under the smallest load. No material, he said, is perfectly elastic. He also studied the behaviour of pillars under load. Euler's theory of struts was too abstract to be of use, and he resolved to repair the deficiency. The result was his paper in the <span class="italic">Philosophical Transactions</span> of 1840 that earned him fellowship of the Royal Society and its royal medal in 1841. On 2 June of that year, at Cross Street Chapel, Manchester, Hodgkinson married Catherine Sparke Johns, daughter of the Revd William Johns (with whom John Dalton had lodged). The witnesses included Dalton and Fairbairn. Catherine died a year later. On 15 October 1853 he married Eliza Holditch (<i>d</i>. 1882), daughter of Captain Henry Holditch, at the parish church, Kensington. One of the witnesses was Robert Stephenson. There were no children of either marriage.<br>
+<br>By the 1840s Hodgkinson was much concerned with the British Association for the Advancement of Science, of whose council he was a member three times, and as railway engineering became increasingly important his interest changed from mills to railways. He was a member of the royal commission on the use of iron in railway structures (1847&#150;9) and he collaborated with Robert Stephenson and William Fairbairn in the design and construction of the revolutionary Conwy and Britannia tubular bridges (1850).<br>
+<br>Hodgkinson occasionally engaged in researches outside his chosen field of the strength of materials. On behalf of the British Association he investigated the increase in temperature with the depth of deep mines (1837&#150;8), and he also measured the air resistance to moving objects (1842). In 1832 he was appointed a director of the Manchester Mechanics' Institute. In 1847 he was appointed to the chair of the mechanical principles of engineering at University College, London. From 1848 to 1850 he was president of the Manchester Literary and Philosophical Society and he was an honorary member of the Institution of Civil Engineers.<br>
+<br>Hodgkinson suffered from a nervous affliction and was a retiring man. He died on 18 June 1861 at his home, Eaglesfield House, Higher Broughton, Manchester, and was buried in the family plot at Anderton. He was survived by his wife.<br>
+<br>Donald Cardwell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Warburton, &#145;Eaton Hodgkinson (1789&#150;1861) and the science of strength of materials&#146;, PhD diss., University of Manchester Institute of Science and Technology, 1971 &middot; R. Rawson, &#145;Memoir of the late Eaton Hodgkinson, FRS&#146;, <em>Memoirs of the Literary and Philosophical Society of Manchester</em>, 3rd ser., 2 (1865), 145&#150;204 &middot; I. Todhunter, <i>A history of the theory of elasticity and of the strength of materials from Galilei to the present time</i>, ed. K. Pearson, 2 vols. (1886&#150;93) &middot; S. Timoshenko, <i>History of strength of materials</i> (1953) &middot; J. Robison, &#145;Strength of materials&#146;, <i>Encyclopaedia Britannica</i>, 3rd edn (1797), vol. 18 &middot; N. Rosenberg and W. G. Vincenti, <i>The Britannia Bridge</i><i>: the generation and diffusion of technological knowledge</i> (1978) &middot; &#145;Royal commission to inquire into the application of iron to railway structures&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13430&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1849), vol. 29, no. 1123 &middot; H. Dorn, &#145;Hodgkinson, Eaton&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13430&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13430&amp;istheme=&amp;target=PICE')"><i>PICE</i></a>, 21 (1861&#150;2), 542&#150;5 &middot; <i>Catalogue of scientific papers</i>, Royal Society, 3 (1869), 374 &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13430&amp;istheme=&amp;target=UCL')">UCL</a>, letters<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, North Western Museums and Art Galleries Service, Manchester<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;4000: probate, 14 Aug 1861, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Donald Cardwell, &#145;<span class="roman"><span class="headword">Hodgkinson,  Eaton</span>  (1789&#150;1861)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2005 [http://www.oxforddnb.com/view/article/13430, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Eaton Hodgkinson (1789&#150;1861): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13430 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/13430/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

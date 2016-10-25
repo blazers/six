@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 987;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/987-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/987-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=987#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=00987&amp;orientation=p')"><img border="0" alt="  Anne Bacon (c.1528&#150;1610), by unknown artist" onmouseover="status='  Anne Bacon (c.1528&#150;1610), by unknown artist'" src="/images/article-imgs/0/00987_1_200px.jpg"></a><span class="imagecaption"><b>  Anne Bacon (<em>c.</em>1528&#150;1610)</b>, by unknown artist</span>
+</div>
+<div class="para">
+<span class="headword">Bacon <span class="st"> [<em>n&eacute;e </em>Cooke]</span>,  Anne</span>, Lady Bacon  (<em>c.</em>1528&#150;1610), <span class="occ">gentlewoman and scholar</span>, was probably born at Gidea Hall, Essex. She was third of the nine children of <script>writeSeealsoLink('../view/article/6155/', "Sir Anthony Cooke (1505/6&#150;1576)")</script>, one of the humanist educators who tutored Edward VI, and Anne (<i>d</i>. 1553), daughter of Sir William FitzWilliam and widow of Sir John Hawes of London, and second of the five Cooke sisters whose education by their father in the classical languages and the early church fathers made them, according to Thomas Fuller, &#145;all most eminent scholars, (the honour of their own and the shame of our sex)&#146;  (Fuller, <span class="italic">Worthies</span>, 1.328). In a Cambridge oration, Walter Haddon celebrated the Cooke household, where Anne came to excel in Greek, Latin, and Italian, as a &#145;small university&#146;, but one where &#145;the industry of the females was in full vigour&#146;  (Jardine and Stewart, 25). How fully the children of both sexes shared in educational opportunities is clear from Anne's inscription in a copy of <span class="italic">Moschopulus</span>: &#145;My father delivered this book to me and my brother Anthony, who was mine elder brother and schoolfellow with me, to follow for writing of Greek&#146;  (Essex RO, Sage collection, 773). Under Sir Anthony's zealous protestant guidance, the rigorous intellectual training focused on advancing God's word, but there were playful occasions, as when she penned a spirited Latin letter exhorting a sister to marry Haddon. Anne's determination to put to significant use even her study of Italian, criticized by her mother as a potential distraction from godliness, bore fruit in her published translation of <span class="italic">Sermons</span> by Bernadino Ochino (<i>c</i>.1548).<br>
+<br>In February 1553 Anne became the second wife of <script>writeSeealsoLink('../view/article/1002/', "Sir Nicholas Bacon (1510&#150;1579)")</script>, who would serve as Queen Elizabeth's lord keeper of the great seal. He celebrated in verse the &#145;fruits of mind&#146; shared between them, their mutual profit from &#145;your Tully and my Seneck&#146;  (Jardine and Stewart, 27). Given her strong reformist convictions, it is surprising that Anne served Queen Mary as a gentlewoman of the privy chamber, but this role positioned her to help gain a pardon for her brother-in-law, <script>writeSeealsoLink('../view/article/4983/', "William Cecil")</script>. A presence at court to be reckoned with, she was described by the count of Feria as &#145;a tiresome bluestocking&#146;  (Hume, 1.18). After the deaths of two baby daughters, <script>writeSeealsoLink('../view/article/988/', "Anthony Bacon")</script> was born in 1558 and <script>writeSeealsoLink('../view/article/990/', "Francis Bacon")</script> in 1561. Lady Bacon helped to supervise their early education, and, when widowed in 1579, took up earnestly Sir Nicholas's charge of &#145;well bringing up&#146; these &#145;poor orphans without a father&#146;  (Smith, Baker, and Kenny, 2.27).<br>
+<br>In 1564, Anne Bacon made her mark on English religious prose with her translation from Latin of John Jewel's <span class="italic">Apologie of the Church of England</span>. The accuracy and stylistic distinction of her work received gratifying and immediate recognition when Archbishop Matthew Parker arranged publication of his manuscript copy, making her words the voice of the established church. In her widowhood, she took on a more activist role to advance &#145;right reformation&#146;, pressing Cecil, for example, to secure a fairer hearing for the nonconformist preachers deprived under Whitgift's articles of 1583. &#145;The Lord raise up many such matrons for the comfort of his poor afflicted church&#146;, wrote Nicholas Faunt in 1584, of her &#145;earnest care and travel for the restoring&#146; of deprived preachers &#145;to their places&#146;  (Birch, 1.48), and Theodore Beza, John Walsall, and Thomas Wilcox celebrated her contributions in printed dedications to her. Even in her seventies, she kept radical puritanism alive in Hertfordshire, sheltering preachers at Gorhambury, securing them employment, and almost certainly supporting the major project to collect and disseminate a register of puritan documents. As a godly widow, she judged it her duty to admonish straying believers, and wrote like a minister to the earl of Essex in 1596 to exhort him against &#145;carnal dalliance&#146;  (Birch, 2.218).<br>
+<br>Lady Bacon's formidable personality comes most vividly to life in over ninety surviving letters to her sons, most sent from Gorhambury to Anthony in London between 1592 and 1597. She counsels her adult sons about their bodily health, spiritual welfare, financial solvency, fit use for their talents, housing arrangements, and male companions, with a persistence only intensified by her frustration at the limited credit they give her advice. Her life as the female head of a godly household is richly illustrated&#151;the daily business of transporting beer, catechizing servants, and negotiating with tenants, together with the sustained struggle of a strong-willed woman for authority: &#145;A man master would go nigh to break thy head for this speech&#146; she tells a disrespectful manservant  (LPL, MS 653.205). She impoverished herself to help with her sons' debts, signing bitterly regretted releases of her interest in family properties, until finally, after Anthony's death, she surrendered even Gorhambury to Francis in 1602.<br>
+<br>Little is known of Anne's last years. On 27 August 1610, Sir Francis Bacon requested the company of his friend Sir Michael Hicks at her funeral, promising &#145;a good sermon&#146; but no feast  (Spedding, 4.218). His direction for his own burial adds the detail&#151;&#145;I desire it may be in St. Michael's church, near St. Alban's: there was my mother buried&#146;  (Spedding, 7.539).<br>
+<br>Lynne Magnusson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. K. McIntosh, &#145;Sir Anthony Cooke: Tudor humanist, educator, and religious reformer&#146;, <em>Proceedings of the American Philosophical Society</em>, 119 (1975), 233&#150;50 &middot; L. Jardine and A. Stewart, <i>Hostage to fortune</i><i>: the troubled life of Francis Bacon, 1561&#150;1626</i> (1998) &middot; LPL, Bacon MSS 647&#150;662 &middot; <i>The letters and life of Francis Bacon</i>, ed. J. Spedding, 7 vols. (1861&#150;74) &middot; T. Birch, <i>Memoirs of the reign of Queen Elizabeth</i>, 2 vols. (1754) &middot; <i>The papers of Nathaniel Bacon of Stiffkey</i>, ed. A. H. Smith, G. M. Baker, and R. W. Kenny, 1&#150;3, Norfolk RS, 46, 49, 53 (1979&#150;90) &middot; A. Simpson, <i>The wealth of the gentry, 1540&#150;1660</i><i>: East Anglian studies</i> (1961) &middot; W. Urwick, <i>Nonconformity in Hertfordshire</i> (1884) &middot; P. Collinson, <i>The Elizabethan puritan movement</i> (1967) &middot; M. A. S. Hume, ed., <i>Calendar of letters and state papers relating to English affairs, preserved principally in the archives of Simancas</i>, 4 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=987&amp;istheme=&amp;target=PRO')">PRO</a> (1892&#150;9) &middot; N. Bacon, <i>The recreations of his age</i> (1903) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=987&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=987&amp;istheme=&amp;target=Fuller%2C%20Worthies')">Fuller, <i>Worthies</i></a> (1662) &middot; Essex RO, Sage collection, 773<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=987&amp;istheme=&amp;target=BL')">BL</a>, Lansdowne MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=987&amp;istheme=&amp;target=CUL')">CUL</a>, Ii.5.37
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=987&amp;istheme=&amp;target=LPL')">LPL</a>, Anthony Bacon MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> terracotta bust, 1569, Gorhambury, Hertfordshire; repro. in D. du Maurier, <i>Golden lads</i><i>: a study of Anthony Bacon, Francis and their friends</i> (1975), facing p. 16 &middot; portrait, <i>c.</i>1576 (on the tomb of Sir Anthony Cooke), Romford Church, Essex; repro. in &#145;The Cookes of Gidea Hall&#146;, <em>Essex Review</em>, 21 (1912), facing p. 1 &middot; attrib. G. Gower, oils, 1580, Gorhambury, Hertfordshire; repro. in Jardine and Stewart, <i>Hostage to fortune</i> &middot; attrib. I. Oliver, watercolour miniature, <i>c.</i>1600, Walters Art Gallery, Baltimore &middot; painted terracotta, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=987&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> [<i>see illus.</i>] &middot; portrait (<i>Tree of Jesse showing the issue of the Lord Keeper Sir Nicholas Bacon by his two wives, Jane Fernley and Ann Cooke</i>), repro. in Jardine and Stewart, <i>Hostage to fortune</i>, facing p. 256; priv. coll.<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> possibly less than &pound;300: comments about will, LPL, Anthony Bacon MSS, 653.175 (17 April 1593), 653.138, 653.110 &middot; Hertfordshire properties surrendered to Sir Francis Bacon, 20 Nov 1602: Herts. ALS, IX.D.3 &middot; was receiving &pound;100 p.a. from stepson as half year's annuity out of manors of Ingham and Tymworth; final payment, 16 March 1610: <i>Papers of Sir Nicholas Bacon in the University of Chicago Library</i> (1989), 363<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Lynne Magnusson, &#145;<span class="roman"><span class="headword">Bacon [Cooke],  Anne</span>, Lady Bacon  (<em>c.</em>1528&#150;1610)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/987, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Anne Bacon (<em>c.</em>1528&#150;1610): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/987 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

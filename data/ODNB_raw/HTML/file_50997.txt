@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50997;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50997-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50997-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50997#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Nourse,  John</span>  (<em>bap. </em>1705, <em>d.</em> 1780), <span class="occ">bookseller</span>, was baptized in Oxford on 8 July 1705, the fourth child of Edward Nourse (<i>d</i>. 1738), surgeon, and his wife, Elizabeth Towersey (1680&#150;1740); his elder brother was <script>writeSeealsoLink('../view/article/20375/', "Edward Nourse")</script>, surgeon. Apparently educated in Oxford, John Nourse was apprenticed to the London bookseller John (I) Osborne on 6 August 1722, becoming free in October 1729. He may then have been associated with William Mears&#151;one of the publishers of Daniel Defoe's <span class="italic">Tour through the Whole Island of Great Britain</span> and a dealer in plays and legal and botanical books&#151;whose activities ceased in 1734. Nourse advertised the <span class="italic">Hortus Elthamensis</span> of J. J. Dillenius, the first Sherardian professor of botany at Oxford, in 1732 and from then on was a well-known London bookseller at the Lamb without Temple Bar, opposite Catherine Street on the Strand. He specialized in language books, contemporary foreign literature, and in scientific, particularly mathematical, books, becoming bookseller to the Society for the Encouragement of Learning and to the commissioners of longitude, and claiming the title of bookseller to the king from 1762 to 1780.<br>
+<br>Nourse's London shop was a rendezvous for scientific discussions; here he sold not only his own publications, numbering in all well over four hundred editions, but also older works and recent foreign books. By 1742 he had a contractual arrangement with the important Hague bookseller Pierre Gosse and he visited Paris in 1765, where he was interviewed by the authorities on the state of the London trade. He also conducted a long exchange trade with the leading continental booksellers, the Luchtmans of Leiden, allowing them to supply works such as the Royal Society's <span class="italic">Philosophical Transactions</span> to places such as St Petersburg. The accounts for the latter trade survive at Universiteitsbibliotheek, Amsterdam. He was in touch both with important Enlightenment writers, such as Montesquieu and Voltaire, and with their publishers, and was thus able to reprint their works in England in French (while arranging simultaneously for an English translation), sometimes including passages those authors had not been able to publish abroad. His editions were so well known on the continent that his name was used by clandestine publishers there as a disguise, once even occurring in the form &#145;Toujours &agrave; Londres chez l'&eacute;ternel Jean Nourse&#146;  (F. A. Chevrier, <span class="italic">L'Almanach des gens d'esprit</span>, 1762). His early anonymous reprint of Voltaire's <span class="italic">Candide</span> (1759) was probably made from a proof copy and it represents an earlier state of the text than that of the Geneva first edition. The &#145;Philosophical Books&#146; that he advertised included works not only by such authors as Voltaire, but also minor foreign writers, in addition to the <span class="italic">Nautical Almanac</span> and lexicographical and grammar books; he also sold children's books, and mathematical and scientific works by writers such as Robert Dossie, William Emerson, John Harrison, Sir John Hills, Colin Maclaurin, and Thomas Simpson.<br>
+<br>Nourse was therefore one of the great European booksellers of the Enlightenment; he made English publications available abroad and was a major source of Enlightenment works, both in the original and in translation, in England. He never married and he died in Kensington on 25 April 1780. His firm passed into the nominal care of his brother, Sir Charles Nourse (<i>d</i>. 1789), before being taken over by Nourse's assistant, Francis Wingrave, later succeeded by John Collingwood. The firm probably came to an end about 1824. The file of business letters received by Nourse, including letters from many well-known academic, literary, and scientific people of the period, was acquired by the autograph collector William Upcott, and letters addressed to Nourse are therefore to be found in many libraries. He is said to have been buried (on 2 May 1780) in the churchyard of St Giles's Church, Oxford.<br>
+<br>Giles Barber </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. Barber, &#145;Voltaire and the &#147;maudites &eacute;ditions de Jean Nourse&#148;&#146;, <i>Voltaire and his world</i><i>: studies presented to W. H. Barber</i>, ed. R. J. Howells (1985), 151&#150;69 &middot; G. Barber, &#145;Book imports and exports in the eighteenth century&#146;, <i>Sale and distribution of books from 1700</i>, ed. R. Myers and M. Harris (1982), 77&#150;105 &middot; parish register (baptism), Oxford, St Giles, 8 July 1705 &middot; parish register, Oxford, St Giles &middot; parish register, Oxford, St Mary<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Giles Barber, &#145;<span class="roman"><span class="headword">Nourse,  John</span>  (<em>bap. </em>1705, <em>d.</em> 1780)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50997, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Nourse (<em>bap. </em>1705, <em>d.</em> 1780): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50997 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

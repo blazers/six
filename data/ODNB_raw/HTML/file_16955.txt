@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 16955;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/16/16955-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/16/16955-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=16955#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Lombe, Sir  Thomas</span>  (1685&#150;1739), <span class="occ">merchant and inventor of silk-throwing machinery</span>, eldest son of Henry Lombe, worsted weaver, of Norwich, was born at Norwich on 5 September 1685. The father died about 1695, leaving his sons Thomas and Henry under the care of his executors, while the surviving younger son <a href="#cosubject_16955">John [<i>see below</i>]</a> was to be brought up by his mother, Henry Lombe's second wife, formerly a Miss Wilmot. The family seems to have been long settled in Norfolk, and the name frequently occurs in local records.<br>
+<br>In the early part of the eighteenth century Lombe found his way to London, where he was apprenticed to Samuel Totton, mercer, and was admitted to the freedom of the Mercers' Company in 1707. In the same year he became a freeman of the City of London, and he eventually established himself as a merchant. In 1718 he obtained a patent (no. 422) for:<blockquote>a new invention of three sorts of engines never before made or used in Great Britaine, one to winde the finest raw silk, another to spin, and the other to twist the finest Italian raw silk into organzine in great perfection, which was never before done in this country.</blockquote>A specification was duly enrolled, as required by the letters patent, but was lost, and reappeared only in 1867, when it was printed for the first time. Lombe says:<blockquote>I declare that by constant application and endeavours for severall years past, and employing a great many agents and workmen both here and in foreigne parts, I have at very great expense and hazards found out, discovered, and brought into this country the art of making the three capital engines.</blockquote>These are mentioned in the title of his patent. The description of the machinery is deliberately obfuscated and is interspersed with numerous Italian technical terms, the use of which Lombe justifies by alleging that there were no English terms applicable. In fact, it is clear that the real purpose of this obfuscation was to prevent the successful adoption of his process once the patent had expired.<br>
+<br>Lombe employed his half-brother John, who, it is said, went to northern Italy, then the principal seat of the silk manufacture, and made himself thoroughly familiar with the various processes, sending back drawings made covertly on the spot, in bales of raw silk to be exported to England. These plans were realized on arrival, prototypes being erected in a room in Derby Moot Hall. Although long doubted, some evidence to support John's exploits has been found in archives at the University of Pisa. He probably worked for Glovere Urwin, silk exporters of Leghorn. This journey has been represented as a risky and daring enterprise, which may well constitute one of the first recorded instances of industrial espionage. The Piedmontese were said to have jealously guarded the secret of the manufacture, yet all the while a complete description of the Italian silk-throwing machinery, published as early as 1607 at Padua by V. Zonca in his <span class="italic">Novo teatro di machine</span>, was available in the collections of the Bodleian Library, Oxford. It contains engravings which show the construction of the machinery in great detail, and to an expert Zonca's book is to some extent more satisfactory than Lombe's specification. None the less, it is unlikely that anyone concerned with the possibility of throwing silk in Britain, least of all Lombe, was aware of its existence. Moreover, a number of persons had unsuccessfully petitioned in 1692 for leave to be incorporated into a company for the purpose of introducing the Italian machinery and starting a manufactory in this country. The Lombes, therefore, can be credited with having introduced into this country a new and important trade, the main elements of which were the basic machinery and the factory method of working, long-established in Italy. Significantly, the machines could be adapted to other types of yarn and were to be of inestimable value to the silk and ultimately the textile industry as a whole.<br>
+<br>In 1719 Thomas, John, and a cousin, William Lombe, in partnership began production at their mill, constructed from 1715, on an island in the River Derwent at Derby, adjacent to an unsuccessful silk mill built some fourteen years before by Thomas Cotchett, a local attorney. Eventually the mill became a prosperous concern, and Daniel Defoe records a visit to it in its first decade  (Defoe, 3.38). The building, later known as the Old Silk Mill, was rebuilt after a fire in 1826. Subsequently the doubling shop collapsed in 1890 and the original building was extensively reconstructed after a fire which occurred on 5 December 1910, two years after silk throwing ceased. It was subsequently adapted to house the Derby Industrial Museum.<br>
+<br>Lombe's patent was granted for fourteen years, and naturally expired in 1732, but on 28 January of that year he petitioned parliament for an extension, alleging that he had been put to great expense in training workmen, and that the Sardinian authorities had prohibited the importation of raw silk, so that a supply had to be obtained elsewhere. However, it would appear, from a letter written in 1739 by his successor as proprietor at Derby, William Wilson, to Samuel Lloyd, once Lombe's agent in Italy, that silk supplies were curtailed only from 1733  (letter of 2 October 1739, W. Yorks. AS, DB 32/44). This reinforces the claim by William Hutton that Lombe &#145;forgot to inform [parliament] that he had already accumulated more than &pound;80,000&#146;  (Hutton, 203). The petition was referred to a committee, and evidence was produced showing that the machinery had rendered the manufacturers of England independent of Italy for the supply of organzine, thus reducing the price. There was considerable opposition to the petition on the part of the cotton and worsted spinners, who were keen to use a modified form of Lombe's machinery for making yarn, but who had been prevented by threats of legal action for infringement. The facts are set out in <span class="italic">The case of the manufacturers of woollen, linnen, mohair, and cotton yarn &hellip; with respect to &hellip; a bill for preserving and encouraging a new invention in England, by Sir Thomas Lombe</span> (n.d. [1732?]). The debate on the bill was thoroughly reported  (<span class="italic">The Parliamentary History of England</span>, 1732, 924) and is of great interest, being the first instance of an application to parliament to prolong a patent beyond the limit fixed by the <span class="roman">Statute of Monopolies</span>. The bill was thrown out, but eventually an act was passed (5 Geo. II, c. 8) granting a reward of &pound;14,000 to the inventor, one of the conditions being that Lombe should deposit models of his machinery in some public institution. Models were ultimately placed in the Tower (although this had clearly not happened as late as the 1750s). They later appear to have succumbed to the ravages of woodworm and the few surviving fragments later said to be in the Victoria and Albert Museum, London, were lost by 1974. Lombe's machinery was described and illustrated in Rees's <span class="italic">Cyclopaedia</span> (art. &#145;Silk&#146;) and a one-third scale model of the machinery was deposited in the Silk Museum, Macclesfield, Cheshire.<br>
+<br>Lombe was an alderman of Bassishaw ward in the City of London, and was chosen sheriff in 1727. He was knighted on 8 July of the same year, when he attended at court to present a congratulatory address from the city to George II on his accession. He married Elizabeth Turner (<i>d</i>. 1753), and they had two daughters, Hannah and Mary Turner. Lombe died on 3 January 1739 at his house in Old Jewry, London, leaving a fortune estimated at &pound;120,000  (<span class="italic">GM</span>, 9.47), which was bequeathed in equal portions to his widow and daughters. He desired his widow &#145;at the conclusion of the Darby concerns to reward the principal servants there as she shall think fit to the value of 500l. or 600l.&#146;  (will, TNA: PRO, PROB 11/694, sig. 14). His wife died on 18 November 1753, his daughters being married; Hannah in 1740 to Sir Robert Clifton, baronet, MP for East Retford, and Mary on 24 April 1749 to James Maitland, seventh earl of Lauderdale.<br>
+<br>
+<a name="cosubject_16955"></a><span class="headword">John Lombe</span>  (<em>c.</em>1693&#150;1722)<span class="occ"></span>, Sir Thomas's half-brother, born probably at Norwich, was probably apprenticed to Thomas, who subsequently encouraged him to visit Italy and make himself acquainted with the processes of silk throwing. He was referred to by Alderman Perry in his speech in the House of Commons when Sir Thomas Lombe's petition was being discussed as one &#145;whose head is extremely well turned for the mechanics&#146;. He was further described in 1791 by William Hutton as &#145;a man of spirit, a good draughtsman and an excellent mechanic&#146;  (Hutton, 196). Hutton goes on to recount that John returned from Italy about 1717, bringing with him at least two Italians to assist him in starting the new factory. He adds that the silk throwers of Piedmont were so enraged at Lombe's success, and at the deception which had been practised upon them by the faithless Englishman, that they dispatched a woman to Derby to gain Lombe's confidence, and to administer a slow poison. In this she was successful, and her victim, after lingering for two or three years in great agony, died at his home, Silk Mill House, Derby, on 20 November 1722, and was according to Hutton buried with great pomp at All Saints' Church, Derby, on the 28th, when thousands of people attended the funeral. Hutton, who worked as a boy in the Old Silk Mill, related that Lombe's share of the mill passed &#145;into the hands of his brother, William&#146; (actually his cousin), who, &#145;being of a melancholy turn, shot himself&#146;. These events took place before Hutton was born (though he gleaned much from his grandfather) and his story must be received with some caution. It is likely that Lombe was actually buried in a mausoleum erected in a formal garden he had created on an island in the Derwent called the Little Bye-Flatt; the structure appears on Samuel Buck's <span class="italic">East Prospect of Derby</span> (1728) but later disappeared, probably destroyed in a flood. Sir Thomas Lombe makes no allusion to his brother's death in his petition to parliament for the renewal of his patent. John Lombe's will was proved in London in July 1724. He was unmarried.<br>
+<br>R. B. Prosser<span class="italic">, rev. </span> Maxwell Craven, and Susan Christian </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>&#145;An old account of the &hellip; pedigree etc. of our family&#146;, 1782, Norfolk RO, MS MC 257/59/22 &middot; T. Lombe, &#145;A short account of the character and pedigree of Mr William Lombe&#146;, <i>c.</i>1745, Norfolk RO, MS MC 257/59/22 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16955&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 9 (1739), 47 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16955&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 23 (1753), 541 &middot; T. Lombe, patent no. 422, 1718 &middot; V. Zonca, <i>Novo teatro di machine ed edificii per varie et sicure operationi con le loro figure</i> (1607) &middot; G. Chicco, &#145;Il re e l'organzino: la filatura della seta in Piemonte nel sei-settecento&#146;, PhD diss., University of Pisa, 1988 &middot; W. Wilson, letter to Samuel Lloyd, 2 Oct 1739, W. Yorks. AS, MS DB 32/44 &middot; W. Lombe, letter to B. Willis, 4 Jan 1723, Norfolk RO, MS MC 257/59/20 &middot; [D. Defoe], <i>A tour thro&#146; the whole island of Great Britain</i>, 3 vols. (1724&#150;7) &middot; J. Hunter, <i>Familiae minorum gentium</i>, ed. J. W. Clay, 4 vols., Harleian Society, 37&#150;40 (1894&#150;6), 134 &middot; W. Hutton, <i>The history of Derby</i> (1791), 196&#150;209 &middot; <i>William Wolley's history of Derbyshire</i>, ed. C. Glover and P. Riden, Derbyshire RS, 6 (1981) &middot; A. Calladine, &#145;Lombe's mill: an exercise in reconstruction&#146;, <em>Industrial Archaeology Review</em>, 16 (1993&#150;4), 82&#150;99 &middot; W. Cunningham, <i>The growth of English industry and commerce</i>, 2 vols. (1890&#150;92) &middot; will, July 1724, Norfolk RO, MS MC 257/59/22 [John Lombe] &middot; A. Rees, &#145;Silk&#146;, <i>Cyclopedia</i>, 39 vols. (1819&#150;20) &middot; will of Thomas Lombe, TNA: PRO, PROB 11/694, sig. 14<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16955&amp;istheme=&amp;target=Norfolk%20RO')">Norfolk RO</a>, MSS MC 257/59/22; MC 257/59/20
+   &middot;
+ W. Yorks. AS, Bradford, MS DB 32/44<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> approx. &pound;120,000: <i>GM</i>, 9 (1739), 47<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. B. Prosser and  Susan Christian, &#145;<span class="roman"><span class="headword">Lombe, Sir  Thomas</span>  (1685&#150;1739)</span>&#146;, rev. Maxwell Craven, Susan Christian, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/16955, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Thomas Lombe (1685&#150;1739): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/16955 
+                <br />
+
+                
+
+ John Lombe (<em>c.</em>1693&#150;1722): doi:10.1093/ref:odnb/16955<br>
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/16955/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

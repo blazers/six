@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 60707;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/60/60707-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/60/60707-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=60707#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">MacMunn,  Charles Alexander</span>  (1852&#150;1911), <span class="occ">physician and spectroscopist</span>, was born at Seafield House, Easkey, co. Sligo, Ireland, the son of James MacMunn, medical practitioner. MacMunn was educated at Dromore School and entered Trinity College, Dublin, in November 1867. He graduated BA in 1871, MB in 1872, and proceeded MD in 1875 and MA in 1884. After taking his primary medical degree in 1872 he went as an assistant to his cousin James MacMunn (LRCSI, 1822), in practice at 14 Waterloo Road, Wolverhampton. When James died aged sixty-two in November 1873 Charles took over the practice. On 20 January 1874 he married James's daughter, Laetitia, an artist; of their three sons, one, Lionel Alexander, entered medicine and practised as a physician in Birmingham and another, <script>writeSeealsoLink('../view/article/63821/', "Norman MacMunn")</script>, became a teacher and educationist. After Laetitia's death, possibly about 1908, Charles married Beatrice, the sister of the channel-swimmer Matthew Webb (1848&#150;1883).<br>
+<br>Busy as MacMunn was, he set up in the loft over his stables a laboratory partly equipped by grants from the Birmingham philosophical and royal societies and published <span class="italic">The Spectroscope in Medicine</span> in 1880. Using a small direct vision spectroscope to replace the eyepiece of a microscope, he examined the absorption bands in spectra transmitted through living tissues, and when he found that the four absorption bands were sharpened by restricting the air supply (by pressing on the coverslip), he realized that the &#145;natural pigments&#146; producing them played a vital role in cellular respiration. His accounts of &#145;histohaematins&#146; (in tissues) and &#145;myohaematin&#146; (in muscle) in the <span class="italic">Philosophical Transactions of the Royal Society</span> (1886) and <span class="italic">Journal of Physiology</span> (1887) provided crucial information in deciding the century-old dispute as to whether combustion of foodstuffs occurred in the lungs or the tissues. But MacMunn's work was criticized by Felix Hoppe-Seyler of Freiburg, who abruptly closed the correspondence on the identity of muscle pigments in <span class="italic">Zeitschrift f&uuml;r physiologische Chemie</span> (1890), which he edited, when his assistant was not able to reproduce MacMunn's findings. The discovery lay fallow until David Keilin, using very similar techniques, showed in 1925 that myohaematin and histohaematin were in fact the cytochromes, which are an integral part of the respiratory chain within mitochondria, the location of internal cellular respiration.<br>
+<br>Hoppe-Seyler's autocratic behaviour, which led to neglect of MacMunn's discovery, may have arisen out of pique. When Hoppe-Seyler discovered the absorption spectrum of (reduced) haemoglobin he missed the altered spectrum of oxyhaemoglobin. Two years later George Gabriel Stokes, because of his interest in the nature of colours, correctly surmised the role of haemoglobin in oxygen transport when he showed that the change in colour from venous blue to arterial red blood was due to change in the absorption spectrum; a mathematician had stolen the thunder of a prime physiological chemist.<br>
+<br>So that he might not be disturbed while he was preoccupied with his spectroscopic studies MacMunn installed an observation pipe in the wall of his laboratory, and instructed his housekeeper to send callers away. But after the peremptory dismissal of his work his seclusion ended and he began to play an active part in the life of Wolverhampton, taking an especial interest in the volunteer movement before and after distinguished service in south Africa from 1899 to 1902, where Lord Roberts appointed him staff officer to accompany the royal hospitals commission; he was mentioned in dispatches and received the Victoria medal with three clasps. He was the first honorary pathologist to Wolverhampton Royal Hospital.<br>
+<br>MacMunn enjoyed conviviality, and excessive alcohol intake may have exacerbated the malaria he contracted during the South African War. His health deteriorated and he retired from practice in 1909. He died on 18 February 1911 at 5 Lonsdale Road, Wolverhampton, and after a military funeral service at St Peter's Church he was buried, on 22 February, at Penn Fields, Wolverhampton. He was survived by his second wife. His posthumous <span class="italic">Spectral Analysis Applied to Biology and Medicine</span> (1914) referred but briefly to the neglected &#145;respiratory pigments&#146;.<br>
+<br>C. S. Breathnach </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. Keilin, <i>The history of cell respiration and cytochrome</i>, ed. J. Keilin (1970), 86&#150;115 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60707&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (4 March 1911), 531 &middot; F. E. Boulton, <em>Bulletin of the Royal College of Pathologists</em> (Jan 1986), 8&#150;10 &middot; private information (2004) &middot; G. G. Stokes, letters, CUL, Add. MS 7656 M 187&#150;189 &middot; C. S. Breathnach, &#145;Old masters&#146;, <em>Irish Journal of Medical Science</em>, 146 (1977), 185&#150;9 &middot; <em>The Lancet</em> (25 Feb 1911), 551&#150;2 &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> B. Clark, photograph, repro. in <i>BMJ</i>, 531 &middot; G. Phoenix, portrait, New Cross Hospital, Wolverhampton, department of histopathology<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;2862 14<i>s</i>.: probate, 2 May 1911, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. S. Breathnach, &#145;<span class="roman"><span class="headword">MacMunn,  Charles Alexander</span>  (1852&#150;1911)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/60707, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Alexander MacMunn (1852&#150;1911): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/60707 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/60707/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

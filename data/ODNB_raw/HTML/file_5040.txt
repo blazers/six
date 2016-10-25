@@ -1,0 +1,339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html>
+<head>
+  <title>Oxford DNB login</title>
+<style type="text/css" media="screen">
+a          { text-decoration: none; color: #369; }
+a:link     { text-decoration: none; color: #369; }
+a:visited  { text-decoration: none; color: #369; }
+a:hover    { text-decoration: underline; color: #369; }
+
+
+html, body, td, input, p, h2, h3, .left, .right, .login, .nfo {
+  font-family: Arial, Helvetica, sans-serif; 
+  /* more specific to override imported rule */
+  font-size:    x-small;      /* false value for WinIE4/5 */
+  voice-family: "\"}\"";      /* trick WinIE4/5 into thinking rule is over */
+  voice-family: inherit;      /* recover from trick */
+  font-size:    small       /* intended value for better browsers */
+  }
+  html, html>body, html>body input, html>body td, html>body p, html>body h2, html>body h3, html>body .left, html>body .right, html>body .login, html>body .nfo {
+  font-size:    small       /* be nice to Opera */
+} 
+
+
+body {
+  background: #fff url(/images/article-leftbg.gif) repeat-y -1px 0px;
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  display: block;
+}
+p {
+  margin-top: 0px;
+}
+form {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+
+/* TOP NAVIGATION ***************************************** */
+#topbar {
+  position: relative;
+  display: block;
+  background: #fff url(/images/top-logo-bg.gif) repeat-x 0px 0px;
+}
+td.bgnav { 
+  background: #F3F0DD; 
+  height: 25px;
+}
+
+td.toolNav {
+  height: 25px;
+  background: #F3F0DD url(/images/global-cap.gif) no-repeat; 
+}
+.sizeone  { 
+  color: #999;
+  text-align: right;
+  font-size: 85%; 
+}
+.sizeone a, .sizeone a:link, .sizeone a:visited, .sizeone a:hover { 
+  color: #333;
+}
+.seperate {
+  padding: 0px 5px;
+}
+.topdot {
+  background: #E0E0D6 url(/images/dotline.gif) repeat-x left -1px;; 
+}
+
+
+/* MAIN CONTENT AREA ************************************** */
+.maincontent {
+  margin: 10px 0px 0px 0px;
+}
+.left {
+  width: 235px;
+}
+.right {
+  width: auto;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+
+/* ~ ~ ~ ~ L E F T ~ ~ ~ ~ */
+.nfo {
+  margin: 0px 10px 0px 10px;
+}
+.nfo a {
+/*  font-size: .85em; */
+  font-weight: bold;
+}
+.nfo p {
+  margin-top: 0px;
+}
+
+
+
+/* ~ ~ ~ R I G H T ~ ~ ~ */
+.login {
+  margin-bottom: 30px;
+}
+.login h2 {
+  color: #900;
+  font-weight: normal;
+  font-size: 1.4em;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+.login h3 {
+  color: #999;
+  font-weight: bold;
+  font-size: .85em;
+  margin: 0px;
+}
+.login a {
+/*  font-size: .85em;*/
+}
+input {
+  border: 1px solid #9A967F; 
+  margin-right: 2px; 
+  line-height: 1.4em; 
+  vertical-align: middle;
+}
+input.go {
+  color: #900;
+  font-size: .85em;
+  font-weight: bold;
+  border: 1px #9A967F solid;
+  background-color: #fff;
+  padding: 0px 1px 0px 1px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+
+.other {
+  display: block;
+  background: url(/images/dottedbg.gif) repeat-x left top; 
+  padding: 10px 0px 10px 0px;
+}
+
+.other a {
+  font-size: .85em;
+  font-weight: bold;
+}
+
+.otherhdr {
+  display: block;
+  margin-bottom: 5px;
+  color: #666;
+  font-weight:bold;
+}
+
+
+/* ~ ~ ~ F O O T E R ~ ~ ~ */
+#copyright {
+  margin: 10px 0px 0px 0px;
+  padding: 5px 0px 5px 0px;
+  border-top: 1px solid #9C967B;
+}
+
+#copyright a {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+}
+
+
+
+</style>
+<script type="text/JavaScript">
+
+function init ()
+{
+  // Force this page to be loaded in the top frame.
+  if (parent && parent != window)
+  {
+    var href = window.location.href;
+    href = href.replace (/dest=[^&]*/, "dest=/index.jsp");
+    top.location.replace (href);
+  }
+
+  // set focus to username
+  if (document.lf)
+    document.lf.user.focus();
+}
+
+var winStatus = "yes"
+var hHeight = "600";			// popup for help window
+var hWidth ="750";
+function helpWin(winURL) {
+  window.open(winURL,"","width="+hWidth+",height="+hHeight+",scrollbars=yes,toolbar=no,resizable=yes,location=no,status="+winStatus)
+}
+
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body onLoad="init()">
+
+<div id="topbar">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td rowspan="3" valign="top"><a href="/" target="_top"><img src="/images/top-logo.gif" alt="Oxford DNB home page" width="230" height="85" hspace="7" vspace="6" border="0" /></a></td>
+    <td class="toolNav"><div class="sizeone">
+      <a href="/" target="_top">Home</a> 
+            <span class="seperate"> | </span> 
+	    <a href="/oxforddnb/info/" target="_top">About Oxford DNB</a> 
+	    <span class="seperate"> | </span> 
+	    <a href="/oxforddnb/info/news/" target="_top">What's new</a> 
+	    <span class="seperate"> | </span> 
+	    <a href="/oxforddnb/subscribers/" target="_top">Subscriber services</a> 
+	    <span class="seperate"> | </span> 
+	    <a href="/oxforddnb/info/contact/" target="_top">Contact us</a> 
+	    <span class="seperate"> | </span> 
+	    <a href="javascript:helpWin('../public/help/index.jsp');">Help</a></div>
+  </td>
+    <td class="bgnav"><img src="/images/pxl.gif" width="1" height="1" alt="" /></td>
+  </tr>
+  <tr> 
+  <td width="100%" align="right" valign="middle">&nbsp;</td>
+    <td><img src="/images/pxl.gif" width="21" height="49" alt="" /></td>
+  </tr>
+  <tr> 
+    <td><img src="/images/pxl.gif" width="1" height="25" alt="" /></td>
+    <td><img src="/images/pxl.gif" width="21" height="1" alt="" /></td>
+  </tr>
+  <tr> 
+    <td colspan="3" class="topdot"><img src="/images/pxl.gif" width="1" height="20" alt=""/></td>
+  </tr>
+</table>
+</div>
+
+
+
+<div class="maincontent">
+  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+      <td class="left" valign="top">
+        <div class="nfo">
+        <p>You, or your library or an institution to which you are affiliated, must have a current subscription to use the Oxford DNB.</p>
+        <p><a href="http://www.oup.com/oxforddnb/info/">&gt; What is the Oxford DNB?</a></p>
+        <p><a href="http://www.oup.com/oxforddnb/info/freeodnb/libraries/">&gt; Does my library subscribe?</a></p>
+        <p><a href="http://www.oup.com/oxforddnb/info/subscribe/">&gt; How do I subscribe?</a></p>
+        <p>If you do not have a subscription, but clicked on a link into the dictionary from one of the Oxford DNB's public pages, use this <a href="javascript:history.go(-1);">go back</a> link to return to the page you were reading.</p>
+        <p><a href="http://www.oup.com/oxforddnb/subscribers/access/">&gt; Ways to log in</a></p>
+        <p>If you have been returned to this page, and are seeing the message <b>The credentials did not match any known account</b>, check what you typed (your password is case-sensitive) and that you used the right fields.</p>
+        <p>If you still have a problem, contact your system administrator or go to <a href="/oxforddnb/subscribers/">Subscriber services</a>.</p>
+		<p>&nbsp;</p>
+        </div>
+      </td>
+      <td class="right" valign="top">
+
+
+  	<p style="color:#f00;">The account has no valid subscription for this site.</p>
+
+
+
+      <form class="login" method="post" action="/LOGIN" name="lf">
+        <input type="hidden" name="dest" value="http://www.oxforddnb.com/templates/article.jsp?articleid=5040" />
+        <h2>Subscriber Login</h2>
+
+        <table cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td><h3>User Name</h3></td>
+            <td>&nbsp;</td>
+            <td><h3>Password</h3></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+		
+              <input name="user" type="text" size="15" class="formfield" />
+		
+            </td>
+            <td></td>
+            <td><input name="pass" type="password" size="15" class="formfield" /></td>
+            <td><input value="GO" type="submit" class="go" /></td>
+          </tr>
+        </table>
+      </form>
+
+
+      <form class="login" method="post" action="/LIBRARY">
+        <input type="hidden" name="dest" value="http://www.oxforddnb.com/templates/article.jsp?articleid=5040" />
+        <h2>Library Card Login</h2>
+        <table cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td><h3>Card #</h3></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><input name="lib_card" type="text" size="25" class="formfield" /></td>
+            <td><input value="GO" type="submit" class="go" /></td>
+          </tr>
+        </table>
+	<p>&nbsp;</p>
+
+	<h2>Login with Athens/Access Management Federation</h2>
+        <p><a href="https://shibboleth2sp.sams.oup.com/shib?dest=http%3A%2F%2Fwww.oxforddnb.com/SHIBBOLETH?dest=http%3A%2F%2Fwww.oxforddnb.com%2Ftemplates%2Farticle.jsp%3Farticleid%3D5040">Login with Athens/Access Management Federation</a>.
+        <br /> <br />
+        </p>
+
+
+	<h2>Institutional login</h2>
+	<p><a href="http://www.oxforddnb.com/templates/article.jsp?articleid=5040">Click here</a> if you are accessing the Oxford DNB from within a subscribing institution or library.
+        <br /> <br />
+        </p>
+
+        <h2>UK Public Library users</h2>
+        <p>
+          Check whether your library's subscription allows you to <a href="http://www.oup.com/oxforddnb/info/freeodnb/libraries/">log in from home</a>.
+        </p>
+
+      </form> 
+
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" id="copyright">
+        <tr>
+          <td valign="top"><a href="/oxforddnb/legal/" target="_blank"><b>© Oxford University Press 2004–16</b></a></td>
+          <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</body>
+</html>      
+      

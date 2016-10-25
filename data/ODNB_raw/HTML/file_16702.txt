@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 16702;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/16/16702-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/16/16702-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=16702#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Lindsay,  James Bowman</span>  (1799&#150;1862), <span class="occ">experimenter with electricity and writer on theology</span>, was born on 8 September 1799 at Cotton of West Hills, Carmyllie, Arbroath, the eldest son of John Lindsay, tailor then farmer, and his wife, Elizabeth Bowman. He was apprenticed as a weaver but, persuaded by his love of learning, his parents sent him to St Andrews University in 1821. After completing the general curriculum he read theology, possibly intending to be ordained, but in 1829 he was appointed science and mathematics lecturer at the Watt Institute, Dundee. He also taught private classes. After a period of teaching abroad he settled in Dundee in 1834 and resumed his science classes.<br>
+<br>Electrical technology was in its infancy, but in his classes Lindsay demonstrated its possibilities, including telegraphy and power from batteries. In an advertisement in the <span class="italic">Dundee Advertiser</span> of 11 April 1834, he proclaimed that &#145;houses and towns will in a short time be lit by electricity instead of gas, and heated by it instead of coal; and machinery will be worked by it instead of steam&#146;. He claimed in 1835 to have developed a continuously burning electric light, probably based on Humphry Davy's observations of the electric arc. Few details survive, and its potential was almost certainly exaggerated. In 1845 he sent a proposal to the <span class="italic">Dundee Advertiser</span> for an autograph telegraph, which used vibrating needles to etch messages into pith balls. When the <span class="italic">Dundee Advertiser</span> carried a suggestion for a submarine Atlantic telegraph cable, Lindsay responded with a letter detailing how a cable might be constructed, using uninsulated copper wire with joints welded by electricity. This was probably the first suggestion of the use of electricity for welding. Also in 1845 he proposed a telegraphic dictionary&#151;combinations of signals to represent words.<br>
+<br>1853 saw the first demonstration of Lindsay's underwater wireless telegraph. This involved instruments and batteries connected to metal plates submerged in the water. Lindsay persevered in publicizing his system through several demonstrations in Scotland and England between 1853 and 1860. He took out a patent in 1854 and demonstrated it to the Electric Telegraph Company in London. He also presented a paper and demonstrations to the British Association in 1859. That such a method could send signals through water had already been observed, most notably by Samuel Morse, but it had not been adopted practically, and, while Lindsay's telegraph drew some favourable comment, it was never taken up, since there was no use for it over short distances, and over long distances it was unworkable.<br>
+<br>Theological research, using philology and astronomy to investigate the historical accuracy of the <span class="roman">Bible</span>, was Lindsay's overriding passion. In 1828 he had begun his <span class="italic">Pentecontaglossal Dictionary</span>, a comparison of fifty languages. Through this he hoped to shed light on human origins, and prove the <span class="roman">Bible's</span> accuracy. He never completed this massive work, but in 1846 he published the <span class="italic">Pentecontaglossal Paternoster</span>, a comparison of the Lord's prayer in fifty languages, as an introduction. <span class="italic">The Chrono-Astrolabe</span> (1858) had the same aim. Through study of astronomy and careful dating of phenomena such as eclipses mentioned in ancient Greek, Roman, Hebrew, and Chinese texts, he hoped to establish an accurate chronology of ancient history, including the <span class="roman">Bible</span>. This painstaking project was begun in 1849. A devout Christian, he was a member of the Presbyterian church until 1843 when that movement disrupted, and he joined the new St Paul's Free Church. In 1861 he became a Baptist, arguing from his studies of early Christian history and the use of the term &#145;bapto&#146; in ancient Greek that adult immersion was the apostolic form of baptism, and that infant baptism and sprinkling were human inventions. He published these arguments in his <span class="italic">Treatise on the Mode and Subjects of Baptism</span> (1861).<br>
+<br>Lindsay never married, and spent most of his earnings on books and apparatus, which he crammed into his house at 11 Union Street. He reputedly had little mechanical skill, so commissioned apparatus from a local instrument maker, George Lowdon. In 1841 he was appointed as a teacher in Dundee prison, a post he held until 1858, when the award of an annual civil-list pension of &pound;100 allowed him to resign.<br>
+<br>Lindsay was entirely devoted to his research. His theological work was as important to him as electricity, but it was in the latter that he displayed striking foresight. He realized that electricity could be applied to lighting, heating, power, and communication, and he experimented with it as much as possible, on limited resources, away from the mainstream of the scientific world. He pursued his research to the detriment of his health, which began to fail in 1860. He died at his home, Beach Land, Blackness Road, Dundee, on 30 June 1862, after a prolonged attack of diarrhoea. He was buried on 2 July in Dundee's western cemetery; in 1901 a monument, paid for by public subscription, was erected by his grave.<br>
+<br>Tim Procter </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. H. Millar, <i>James Bowman Lindsay and other pioneers of invention</i> (1925) &middot; J. J. Fahie, &#145;James Bowman Lindsay, electrician, astronomer, linguist&#146;, <em>Electrical Engineer</em> (6 Jan 1899) &middot; J. J. Fahie, &#145;James Bowman Lindsay, electrician, astronomer, linguist&#146;, <em>Electrical Engineer</em> (13 Jan 1899) &middot; J. J. Fahie, <i>A history of wireless telegraphy, 1838&#150;1899</i> (1899) &middot; W. Norrie, <i>Dundee celebrities of the nineteenth century</i> (1873) &middot; &#145;Dundee's eccentric scientist&#146;, <em>Glasgow Herald</em> (29 June 1962) &middot; Lord Lindsay [A. W. C. Lindsay, earl of Crawford], <i>Lives of the Lindsays</i>, 2nd edn, 2 (1858) &middot; A. H. Millar, &#145;James Bowman Lindsay, the pioneer of electrical lighting and wireless telegraphy&#146;, <em>People's Friend</em> (9 Sept 1901) &middot; &#145;James Bowman Lindsay&#146;, <em>Dundee Advertiser</em> (16 Sept 1901) &middot; &#145;James Bowman Lindsay: memorial celebration in Dundee&#146;, <em>Dundee Yearbook</em> (1901), 186&#150;95 &middot; A. H. Millar, &#145;James Bowman Lindsay, scientist and philologer&#146;, <i>British Association handbook and guide to Dundee and Forfarshire</i>, ed. A. W. Paton and A. H. Millar (1912), 491&#150;514 &middot; E. C. Baker, <i>Sir William Henry Preece FRS, Victorian engineer extraordinary</i> (1976) &middot; NA Scot., Carmyllie parish records (birth, baptism), September 1799 [microfilm; originals are at SRO] &middot; Dundee register of deaths<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Dundee City Library, MSS relating to electrical experiments, mathematical and astronomical calculations, and dictionaries
+   &middot;
+ University of Dundee, archives, papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16702&amp;istheme=&amp;target=Inst.%20ET')">Inst. ET</a>, Fahie MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> G. Webster, marble bust, <i>c.</i>1899, Dundee Arts and Heritage, Mills Observatory, Balgay Park, Dundee, Australia &middot; Valentine &amp; Co., photograph, Dundee Central Library, Dundee, Australia &middot; G. Webster, marble sculpture, Dundee City Art Gallery, Dundee, Australia &middot; line sketch (after a photograph? by Valentine &amp; Co.?), repro. in A. H. Millar, <i>The Dundee Year Book</i> (1901) &middot; painting (after a photograph? by Valentine &amp; Co.?), repro. in Millar, <i>James Bowman Lindsay</i> &middot; photograph, Dundee City Library, rare books collection, &#145;Notebook of experiments on wireless telegraphy&#146;<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;471 1<i>s</i>. 4<i>d</i>.: recording, 5 Aug 1862, NA Scot., SC45/31/17, 134&#150;6<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Tim Procter, &#145;<span class="roman"><span class="headword">Lindsay,  James Bowman</span>  (1799&#150;1862)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/16702, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Bowman Lindsay (1799&#150;1862): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/16702 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/16702/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

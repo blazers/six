@@ -1,0 +1,452 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5624;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5624-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5624-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5624#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=05624&amp;orientation=p')"><img border="0" alt="  James  Clerk Maxwell (1831&#150;1879), by Fergus, 1872" onmouseover="status='  James  Clerk Maxwell (1831&#150;1879), by Fergus, 1872'" src="/images/article-imgs/5/05624_1_200px.jpg"></a><span class="imagecaption"><b>  James  Clerk Maxwell (1831&#150;1879)</b>, by Fergus, 1872</span>
+</div>
+<div class="para">
+<span class="headword">Maxwell,  James  Clerk</span>  (1831&#150;1879), <span class="occ">physicist</span>, was born on 13 June 1831 at 14 India Street, Edinburgh, the second of the two children (a daughter died in infancy) of John Clerk Maxwell (1790&#150;1856), landowner, and his wife, Frances (1792&#150;1839), daughter of Robert Hodshon Cay of North Charlton, Northumberland, and his wife, Elizabeth. His father, the younger brother of <script>writeSeealsoLink('../view/article/5613/', "Sir George Clerk, sixth baronet (1787&#150;1867)")</script>, took the name Maxwell as heir to the estate he inherited from two marriages between the Clerks of Penicuik and heiresses of the Maxwells of Middlebie. This estate consisted of farmland near Dalbeattie in Kirkcudbrightshire, and it was in the house Glenlair, built there by his father, that Maxwell spent his early years and where he later did much of his writing.<h2>
+<a name="Educationandearlycareer18411865"></a>Education and early career, 1841&#150;1865</h2>At first educated privately at Glenlair Maxwell entered Edinburgh Academy in 1841, where some eccentricity of behaviour earned him the nickname Dafty from his contemporaries. There he established lifelong friendships with Lewis Campbell (who became his biographer) and Peter Guthrie Tait (his closest scientific correspondent). According to his own account his early interest in science was aroused by his delight in the forms of regular geometrical figures, his view of mathematics as the search for harmonious and beautiful shapes. Accompanying his father to meetings of the Royal Society of Edinburgh and the Royal Scottish Society of Arts during the winter of 1845&#150;6, he became aware of the work of David Ramsay Hay, the Edinburgh decorative artist. Hay was engaged in studies which aimed to explain the harmony of the form of geometrical figures and the aesthetics of colour combinations by mathematical principles. At this time Hay was studying the forms of oval curves, stimulating Maxwell to develop an ingenious method of drawing ovals using string round pins placed at the foci, by analogy with the string property of the ellipse. Promoting his son's work, John Clerk Maxwell approached James David Forbes, professor of natural philosophy at Edinburgh University, who presented a paper by Maxwell to the Royal Society of Edinburgh in April 1846. Forbes remarked on the relation of these curves to the Cartesian ovals, prompting Maxwell to make a more formal study of ovals.<br>
+<br>Maxwell's interest in the study of colour was aroused when, in April 1847, he accompanied his uncle John Cay to the laboratory of William Nicol, inventor of the polarizing prism; this led him to investigate the chromatic effects of polarized light in crystals and strained glass, &#145;gorgeous entanglements of colour&#146; as he described them in 1870  (<span class="italic">Scientific Letters and Papers</span>, 2.563).<br>
+<br>In the autumn of 1847 Maxwell entered Edinburgh University, attending Sir William Hamilton's class in logic and metaphysics, Philip Kelland's in mathematics, and Forbes's class in natural philosophy. He was impressed with Hamilton's lectures, which encouraged his abiding concern to establish the conceptual rationale of his physics by appeal to philosophical argument. Formal study helped to shape the direction of his own original investigations, largely pursued during the summer months spent at Glenlair. At the end of his first year he wrote a paper on analytical geometry, a comprehensive memoir on rolling curves, presented by Kelland to the Royal Society of Edinburgh. During the following two years he pursued his interest in the chromatic effects of polarized light, and Forbes's interest in the physics of materials helped to shape the scope of his systematic paper &#145;On the equilibrium of elastic solids&#146; of 1850  (Niven, 1.30&#150;73), written during his third session. This memoir, remarkable in its breadth of coverage and depth of analysis, is grounded on the mathematics of elastic bodies, with Maxwell mastering contemporary theory including major recent work by the Cambridge mathematician George Gabriel Stokes; it embraces the study of special cases of torsion and compression, and discussion of Sir David Brewster's work on induced double refraction in strained glass.<br>
+<br>During his third session at Edinburgh in 1849&#150;50 Maxwell continued to follow the traditional broad Scottish course of study, attending classes in chemistry and moral philosophy, but soon began preparations to go up to Cambridge, settling on Peterhouse (where Tait was an undergraduate), though migrating to Trinity College after his first term. He arrived at Cambridge in October 1850 as an accomplished mathematician and physicist, recommended by Forbes to William Whewell, master of Trinity. In October 1851 he became one of the pupils of William Hopkins, the pre-eminent mathematical coach of the period. According to Tait, Hopkins was appalled at the disorder of Maxwell's mathematical reading but impressed with the breadth of his knowledge, and soon realized his extraordinary promise as a physicist. The Cambridge mathematical tripos emphasized mixed mathematics, including mechanics and the theory of gravitation, as well as geometrical and physical optics, including study of the wave theory of light, the subject of Stokes's lectures on hydrodynamics and optics which Maxwell attended in May 1853. In the summer of 1853 the strain of preparing for the examination occasioned &#145;a sort of brain fever&#146;, as Campbell described it  (Campbell and Garnett, 170), an emotional and religious crisis which reinforced a contemplative dimension to his thought, a view of science inspired by religious values. In the tripos examination in January 1854 Maxwell graduated second wrangler to Edward John Routh, but was bracketed equal Smith's prizeman with Routh in the examination for Smith's prizes which followed. He was unsuccessful at his first attempt to be elected a fellow of Trinity in 1854 (being weak in classics), but was elected in October 1855. It was at this time that he read Whewell's writings on the history and philosophy of the sciences. He later often made allusion to Whewell's notion of fundamental ideas, concepts whose negation could not be intelligibly conceived, in his emphasis on the non-empirical status of basic scientific principles.<br>
+<br>Trinity offered a wide range of friendships, and in the winter of 1852&#150;3 Maxwell was elected a member of the Apostles club: the papers he presented on philosophical topics, including the philosophy of science, established him as a leading intellectual (as well as a recognized mathematician) among this select group. Along with some other members of his circle, including Richard Buckley Litchfield, he became active in Frederick Denison Maurice's Christian socialist movement, and taught classes for artisans in Cambridge, and later in Aberdeen and London.<br>
+<br>In February 1856, responding to his father's desire that he spend more time at Glenlair, Maxwell applied for the professorship of natural philosophy at Marischal College, Aberdeen, mustering an impressive clutch of testimonials. Even though his father died in April 1856 before the appointment was made, Maxwell decided to accept the post when it was offered, commencing his duties in Aberdeen with an inaugural lecture on 3 November 1856, emphasizing, in Cambridge style, the basis of physical explanation in the application of the laws of motion, but also stressing the religious value of natural philosophy and its role within the Scottish curriculum. He devoted considerable effort to his teaching in Aberdeen, introducing elements of mathematical physics to his more advanced students.<br>
+<br>On 2 June 1858 Maxwell married Katherine Mary Dewar (1824&#150;1886), daughter of the Revd Daniel Dewar, principal of Marischal College. The marriage, which was childless, was not popular among his family. He and his wife were united by shared Christian commitment (he served as an elder of the Church of Scotland). In 1860, following the recommendation of the parliamentary commissioners that King's and Marischal colleges be joined to form the University of Aberdeen, with a single class and professor in each subject, he was made redundant. By this time he was a candidate for Forbes's post at Edinburgh, but Tait was appointed. However, in July 1860 he was appointed professor of natural philosophy at King's College, London, a post he held, living at 8 Palace Gardens Terrace, Kensington, until his resignation in March 1865. His study of engineering structures developed from his teaching at King's College; his work on graphical analysis and reciprocal diagrams in statics led to the award of the Keith prize of the Royal Society of Edinburgh for 1869&#150;71.<h2>
+<a name="Colourvisionandoptics18491874"></a>Colour vision and optics, 1849&#150;1874</h2>In the summer of 1849, while Maxwell was still a student at Edinburgh, Forbes introduced him to experiments on colour mixing. These consisted in observing the hues generated by adjustable coloured sectors fitted to a rapidly spinning disc, using tinted papers supplied by D. R. Hay, whose <span class="italic">Nomenclature of Colours</span> (1845) exhibited an elaborate system of colour plates which distinguished variations in colour. Maxwell's approach to colour vision was shaped by the attempts by Hay and Forbes to provide a nomenclature for the classification of colours; by Forbes's method of experimentation and his use of a triangle of colours to represent colour combinations; and by the work of another Edinburgh acquaintance, George Wilson, on the problem of colour blindness. In the early 1850s the study of colour vision was significantly advanced in major papers by Hermann Helmholtz and Hermann Grassmann, work which Maxwell absorbed into his own theory in 1854&#150;5.<br>
+<br>Maxwell adopted Thomas Young's three-receptor theory of colour vision; his claim that red, green, and violet should be considered the primary constituents of white light; the suggestion by Young and John Herschel that John Dalton's insensibility to red light was caused by the absence of one of the three receptors; and Young's colour diagram, with red, green, and violet placed at the vertices of a triangle, points within the triangle representing colour combinations. Maxwell showed that this depiction of colour combinations was equivalent to their representation by loaded points on Isaac Newton's circle of seven principal colours with white at the centre, and that colour combinations could also be expressed in terms of variables of spectral colour, degree of saturation, and intensity of illumination.<br>
+<br>In his 1855 paper &#145;Experiments on colour, as perceived by the eye&#146;  (Niven, 1.126&#150;54) Maxwell extended Forbes's experiments, devising a spinning top in which a second set of coloured sectors of smaller diameter was added, enabling accurate colour comparisons to be made, and obtaining quantitative colour equations which could be manipulated algebraically. He confirmed Forbes's observation that green did not result from spinning yellow and blue coloured papers, in accordance with Helmholtz's finding that green was not obtained by the mixture of spectral yellow and blue. This challenged the identity of the mixing rule for lights and pigments, supposed by Newton. The paper concluded with observations made by colour deficient observers.<br>
+<br>In colorimetry Maxwell had established quantitative techniques and a unified theory, but he sought to make more accurate measurements, devising a series of colour boxes in which spectral red, green, and blue were mixed in varying proportions and directly compared with white light. These researches included a study of the variations of colour sensitivity across the retina, the investigation of the yellow spot on the retina, and the projection of the first trichromatic colour photograph in a lecture at the Royal Institution, London, in May 1861. This work led to the award of the Royal Society's Rumford medal in 1860, following the submission of his paper &#145;On the theory of compound colours&#146; to the <span class="italic">Philosophical Transactions</span>  (Niven, 1.410&#150;44) and his appointment to read the paper as the society's Bakerian lecturer. As he was not&#151;until May 1861&#151;a fellow of the Royal Society, he was found to be ineligible for this appointment.<br>
+<br>Maxwell made important contributions to geometrical optics in the 1850s. Developing a theorem due to Roger Cotes, he developed a new approach to the theory of optical instruments in which theorems expressing geometrical relations between an object and image were separated from discussion of the dioptrics of lenses. This approach was subsequently developed independently by Ernst Abbe; these methods became standard. In 1873&#150;4 he generalized his mathematical method, appealing to concepts of projective geometry, and developed William Rowan Hamilton's idea of the characteristic function as a method of investigating lens systems.<h2>
+<a name="ThestabilityofSaturnsrings18561864"></a>The stability of Saturn's rings, 1856&#150;1864</h2>In March 1855 the subject of the University of Cambridge's Adams prize for 1857 was advertised as a study of &#145;The motions of Saturn's rings&#146;. This was a problem in dynamics within the Cambridge tradition of mixed mathematics; indeed, Whewell had set a Smith's prize question in 1854 requiring candidates to show that Saturn's rings were not rigid bodies, but possibly fluid. In his classic study on the rings of Saturn Pierre Simon Laplace had established that the motion of a uniform solid ring would be dynamically unstable, while Joseph Plateau had recently suggested that Saturn's rings could be formed from the rotation of a fluid. The problem of Saturn's rings was of current interest to astronomers: in 1850 George Bond had noticed a dark ring interior to the two familiar bright rings, and Otto Struve had claimed that this ring was a new formation.<br>
+<br>Maxwell's prizewinning essay  (<span class="italic">Scientific Letters and Papers</span>, 1.438&#150;79), completed in December 1856, was divided into two parts: on the motion of a rigid ring, and on the motion of a fluid ring or a ring consisting of loose materials. The argument rested on potential theory, Taylor's theorem, and Fourier analysis; to establish the conditions of stability of the rings he devised a mathematical method that was acclaimed by George Biddell Airy, the astronomer royal, in his review of the published memoir. He was to employ the same method in establishing stability conditions in his paper &#145;On governors&#146; in 1868  (Niven, 2.105&#150;20).<br>
+<br>With regard to Saturn's rings, Maxwell began with the work of Laplace, concluding that a solid ring would only be stable if it was so irregular as to be inconsistent with the observed appearance of the rings. In the essay submitted for the prize he argued that if the rings were in motion they could be fluid, with waves in the fluid in the plane of the rings, and he considered the effect of disturbing causes such as the friction of the rings and gravitational irregularities, concluding that the ring system could have changed in form over time.<br>
+<br>After the award of the prize (worth about &pound;130) in May 1857 Maxwell began to revise the argument of his essay, corresponding with two of the examiners, William Thomson and James Challis. He soon corrected errors which had compromised his treatment of the case of a solid ring, and turned to the task of reconstructing his discussion of the condition of stability of a fluid ring. By November 1857 he had discarded his theory of waves in a fluid ring, and established that a liquid continuous ring was not dynamically feasible. He now concluded that the ring system of Saturn consisted of concentric rings of satellites; this formed the argument of his memoir <span class="italic">On the Stability of the Motion of Saturn's Rings</span> of 1859  (Niven, 1.288&#150;376). To facilitate understanding of systems of waves in a ring of satellites he devised a model, a wheel on a cranked axle to which particles were attached; on rotation of the wheel the particles moved in wave patterns.<br>
+<br>The memoir on Saturn's rings consolidated Maxwell's reputation as a mathematical physicist. The problems generated by this investigation also played a role in initiating his work on the kinetic theory of gases in 1859. In considering the rings as a system of particles he noted that he was unable to compute the trajectories of these particles &#145;with any distinctness&#146;  (Niven, 1.354). This problem alerted him to discuss the complex motions of gas particles, where he introduced a probabilistic argument, and in 1864 he attempted to apply the statistical method of his theory of gases to compute the motions of the particles of Saturn's rings. This endeavour proved abortive and remained unpublished. The problem of calculating the motions of particles was considered further in his 1873 essay (written for his Cambridge colleagues) on science and free will  (<span class="italic">Scientific Letters and Papers</span>, 2.814&#150;23), where he discussed the motion of a mechanical system subject to instabilities at points of singularity. Such instabilities were incalculable; he concluded that the physics of particles did not imply determinism.<h2>
+<a name="Thekinetictheoryofgasesandthermodynamics18591879"></a>The kinetic theory of gases and thermodynamics, 1859&#150;1879</h2>In completing his work on Saturn's rings Maxwell had drawn on data on gas viscosity to establish the effect of friction in disturbing the stability of the rings. In the spring of 1859 he became interested in a paper by Rudolf Clausius on the theory of gases considered as particles in motion; his work on Saturn's rings had alerted him to the problem of computing such motions. To explain the slow diffusion of gas molecules Clausius had calculated the probability of a molecule travelling a given distance (the mean free path) without collision. Maxwell had been interested in probability theory as early as 1850; his interest may have been aroused by an essay by John Herschel on Adolphe Quetelet's theory of probabilities, and there are similarities between Maxwell's derivation of the distribution law in his paper &#145;Illustrations of the dynamical theory of gases&#146; of 1860  (Niven, 1.377&#150;409) and Herschel's proof of the law of least squares.<br>
+<br>Maxwell advanced on Clausius's procedure by introducing a statistical formula for the distribution of velocities among gas molecules, a function identical in form with the distribution formula in the theory of errors. Writing to Stokes in May 1859 he explained that he had undertaken the study of the motions of particles as an &#145;exercise in mechanics&#146;, but he looked for confirmation of his argument in work on gaseous diffusion; he hoped to be &#145;snubbed a little by experiments&#146;  (<span class="italic">Scientific Letters and Papers</span>, 1.610&#150;11). He was able to calculate the mean free path of molecules, and established the unexpected result that the viscosity of gases was independent of their density.<br>
+<br>Maxwell then turned to investigate the viscosity of gases at different temperatures and pressures by observing the decay in the oscillation of discs torsionally suspended in a container, experiments presented as the Royal Society's Bakerian lecture in 1866. He found that gas viscosity was a linear function of the absolute temperature, and he suggested, in his major paper &#145;On the dynamical theory of gases&#146; of 1867  (Niven, 2.26&#150;78), that gas molecules should be considered as centres of force subject to an inverse fifth power law of repulsion, a result in agreement with this experimental finding. He presented a new derivation of the distribution law, demonstrating that the velocity distribution would maintain a state of equilibrium unchanged by collisions. His theory of gases was &#145;dynamical&#146; or &#145;kinetic&#146;, as he later termed it  (<span class="italic">Scientific Letters and Papers</span>, 2.654), in that he supposed particles in motion. In the 1870s he came to contrast the certain predictive power of dynamical laws (Newton's laws of motion) with the inherently uncertain knowledge generated by the statistical method of his theory of gases, which, he argued, &#145;involves an abandonment of strict dynamical principles&#146;  (Niven, 2.253).<br>
+<br>In drafting his paper &#145;On the dynamical theory of gases&#146; Maxwell found that his theory seemed to have the consequence that energy could be abstracted from a cooling gas, a result in conflict with the second law of thermodynamics, stated in the early 1850s by Clausius and Thomson as denoting the tendency of heat to pass from warmer to colder bodies; this implied &#145;a collision between Dynamics &amp; thermodynamics&#146;  (<span class="italic">Scientific Letters and Papers</span>, 2.269). While he corrected his argument and resolved the difficulty (reconstructing his analysis in 1873), it is likely that reflection on the problem led him to consider the bearing of his theory of gases on the interpretation of the second law of thermodynamics.<br>
+<br>Maxwell first formulated the famous &#145;demon paradox&#146; in a letter to Tait in December 1867. The term &#145;demon&#146;, which Maxwell did not use, was coined by William Thomson to describe the theoretical being invented by Maxwell for his thought experiment. It was incapable of doing work but was able to manipulate valves which move without friction. The purpose of Maxwell's &#145;finite being&#146; was to suggest how a hot body could take heat from a colder body so as to &#145;pick a hole&#146; in the second law of thermodynamics  (<span class="italic">Scientific Letters and Papers</span>, 2.331&#150;2). As he later explained to Tait, his intention was &#145;to show that the 2nd law of Thermodynamics has only a statistical certainty&#146;  (ibid., 3.186).<br>
+<br>In other words, because of the statistical distribution of molecular velocities in a gas at equilibrium there will be spontaneous fluctuations of molecules taking heat from a cold body to a hotter one. However, it would require the action of the &#145;finite being&#146; to manipulate molecules so as to produce an observable flow of heat from a cold body to a hotter one, and violate the second law of thermodynamics; hence the law is statistical and applies only to systems of molecules. Moreover the law is also time directional, expressing the irreversibility of physical processes, while the laws of dynamics are time reversible. Thus the second law of thermodynamics is a statistical expression, not a dynamical theorem, as supposed by Clausius and Ludwig Boltzmann. Their opinion, Maxwell joked to Tait in December 1873, was in the realm of cloud-cuckoo-land where the &#145;German Icari flap their waxen wings&#146;  (<span class="italic">Scientific Letters and Papers</span>, 2.947).<br>
+<br>Maxwell expounded his ideas on thermodynamics in various essays in the 1870s and in his <span class="italic">Theory of Heat</span> (1871), where he first made public his demon paradox. Intended as a popular exposition of the subject, this text contained an important new result, the &#145;Maxwell relations&#146; between thermodynamical variables. During the 1870s he made further contributions to molecular physics: on the estimate of molecular diameters, and on intermolecular forces and the continuity of the liquid and gaseous states of matter. He also discussed the structure of molecules, which bore on one of the major problems in his theory of gases: the discrepancy between the measured values of the specific heat ratios of gases and those calculated (by the equipartition theorem) from the kinetic theory. His 1873 lecture &#145;Molecules&#146; reviewed the subject; his conclusion that the identity of spectra showed an atom to be like a manufactured article, which &#145;precludes the idea of its being eternal and self-existent&#146;  (Niven, 2.376), used molecular physics to combat materialism.<br>
+<br>In a paper of 1878 Maxwell developed work by Boltzmann, formulating the ergodic theorem that a system in equilibrium will, if undisturbed, pass through every state compatible with its total energy, and he introduced the concept of ensemble averaging, foreshadowing work by J. Willard Gibbs and Albert Einstein. In a paper on rarefied gases, of 1878&#150;9, Maxwell explained William Crookes's radiometer, much discussed in the 1870s. He demonstrated that the effect of radiant heat in spinning the radiometer vanes was due to the slip of gas over their surface, generating tangential stresses. His quantitative treatment of the effect was stimulated by reading a paper by Osborne Reynolds as a referee for the Royal Society. Maxwell made public both his acknowledgement and criticism of Reynolds's paper; but Reynolds took offence, difficulties abetted by Maxwell's terminal illness.<h2>
+<a name="Fieldtheoryandtheelectromagnetictheoryoflight18541873"></a>Field theory and the electromagnetic theory of light, 1854&#150;1873</h2>Writing to Thomson in February 1854, after graduating at Cambridge, Maxwell declared his intention to attack the science of electricity. In the preface to his <span class="italic">Treatise on Electricity and Magnetism</span> (1873) he recalled that he had commenced his work by study of Michael Faraday's <span class="italic">Experimental Researches in Electricity</span> (1839&#150;55). At the time he considered Faraday's experimental discoveries, of electromagnetic induction, the laws of electrochemistry, and magneto-optical rotation (the Faraday effect), to form &#145;the nucleus of everything electric since 1830&#146;  (<span class="italic">Scientific Letters and Papers</span>, 1.582). Faraday had explained magnetism in terms of lines of force traversing space, and electrostatics by the mediation of forces by the dielectric. Guided by Thomson, Maxwell advanced beyond the work of his mentor in grappling comprehensively with Faraday's concept of the magnetic field. He supposed that electric and magnetic forces were mediated by the agency of the field, contiguous elements of the space in the neighbourhood of the electric or magnetic bodies. He expressed the essence of his field theory in a draft in 1855: &#145;Faraday treats the distribution of forces in space as the primary phenomenon&#146;  (<span class="italic">Scientific Letters and Papers</span>, 1.353). In his paper &#145;On Faraday's lines of force&#146; of 1856  (Niven, 1.155&#150;229) he presented a geometrical model of lines of force in space, a representation resting on potential theory and the geometry of orthogonal surfaces, given embodiment by the physical analogy of the flow of an incompressible fluid  (Niven, 1.156&#150;8). He formulated theorems of electromagnetism, expressing the relation between magnetic forces and electric currents.<br>
+<br>The analogy of streamlines in a fluid was proposed as illustrative of the geometry of the field, but Maxwell sought a theory of the field grounded on the mechanics of a mediating ether. He found its basis in Thomson's 1856 proposal that the Faraday magneto-optical rotation could be explained by the rotation of vortices in an ether. As early as 1857 Maxwell began to develop the idea of orienting molecular vortices along magnetic field lines, culminating in the publication of his paper &#145;On physical lines of force&#146;, published in four parts in the <span class="italic">Philosophical Magazine</span> in March, April, and May 1861, and in January and February 1862. He posited a honeycomb of vortices in which each vortex cell was separated from its neighbour by a layer of spherical particles, revolving in the opposite direction to the vortices. These &#145;idle wheel&#146; particles communicated the rotatory velocity of the vortices from one part of the field to another. In this ether model, the most famous image in nineteenth-century physics, the analogy provides mechanical correlates for electromagnetic quantities. The angular velocity of the vortices corresponds to the magnetic field intensity, and the translational flow of the idle wheel particles to the flow of an electric current; the field equations are based on the rotation of molecular vortices in the ether. He emphasized that while the theory was mechanically conceivable, the model itself was provisional and temporary, even awkward, hardly &#145;a mode of connexion existing in nature&#146;  (Niven, 1.486), an argument that has generated much philosophical discussion about the role of models in physics.<br>
+<br>It is likely that Maxwell originally envisaged the paper as being limited to discussion of magnetism and electric currents. But during the summer of 1861, while modifying the ether model to encompass electrostatics, he obtained an unexpected consequence, the electromagnetic theory of light, as he termed his theory in 1864  (<span class="italic">Scientific Letters and Papers</span>, 2.194). He introduced a displacement of electricity as an electromagnetic correlate of the elastic deformation of the vortices, an elastic property which allowed for the propagation of transverse shear waves. He established the close agreement between the velocity of propagation of waves in an electromagnetic medium (which he demonstrated to be given by the ratio of electrostatic and electromagnetic units, established experimentally), and the measured velocity of light. This led him to assert that he could &#145;scarcely avoid the inference that <i>light consists in the transverse undulations of the same medium which is the cause of electric and magnetic phenomena</i>&#146;  (Niven, 1.500).<br>
+<br>Maxwell's introduction of the displacement current and his derivation of the electromagnetic theory of light have aroused claims that his argument lacks internal consistency and was subject to <i>ad hoc</i> adjustment. Analysis of his conceptualization in terms of his mechanical ether has shown that the argument is internally consistent, and that the electromagnetic theory of light rests on parameters established by experiment. He completed the theory by a quantitative treatment of the magneto-optical effect in terms of the rotation of molecular vortices, but was dissatisfied with the appeal to a mechanical model. He sought to base his theory on firmer theoretical ground, and to confirm its experimental basis.<br>
+<br>The demands of the new technology of cable telegraphy prompted the determination of a standard of electrical resistance to aid engineers in establishing quality control, and in 1862 Maxwell joined the British Association committee on electrical standards. In May and June 1863, with Fleeming Jenkin and Balfour Stewart, he made an accurate measurement of electrical resistance in absolute units (of time, mass, and space), employing a method devised by Thomson, in which the resistance of a rotating coil was calculated from the measurement of the deflection of a magnet placed at its centre. His paper &#145;On governors&#146; (1868) was the product of study of the governor designed by Jenkin for these experiments. The standard unit of resistance was issued in the spring of 1865 (though its accuracy was soon held up to question). As part of the committee's report in 1863, Maxwell and Jenkin wrote a paper introducing dimensional notation, expressing physical quantities as products of powers of mass, length, and time. For every electrical quantity there are two absolute units, the electrostatic and the electromagnetic, the ratio of these units being a power of a constant with the dimensions of a velocity. As Maxwell had established, this ratio was the velocity of waves in an electromagnetic medium, and he determined to establish its value with greater precision. Assisted by Charles Hockin, in 1868 he obtained a value for the ratio of units by an experiment balancing the (electrostatic) force between two oppositely charged discs against the (electromagnetic) repulsion between two current carrying coils  (Niven, 2.125&#150;43). The measured value still diverged from the latest value for the velocity of light, and in the <span class="italic">Treatise</span> (1873) he merely claimed that the electromagnetic theory of light was &#145;not contradicted by the comparison of these results&#146;  (vol. 2, p. 388), a near equivalence which was seen to provide evidence in favour of the theory.<br>
+<br>In &#145;A dynamical theory of the electromagnetic field&#146; of 1865  (Niven, 1.526&#150;97) Maxwell achieved a more general and systematic presentation of his theory. The mechanical ether model was abandoned, yet he retained the mechanical foundations of his theory by grounding the eight sets of general equations of the electromagnetic field (the forerunners of the four Maxwell equations, as reformulated in the 1880s by Oliver Heaviside and Heinrich Hertz) on the Lagrangian formalism of abstract dynamics. But in detaching his theory from the model he altered the interpretation of the displacement current, leading to a loss of consistency, a problem resolved in the <span class="italic">Treatise</span> where he interprets the displacement current as manifested as electric charge. In Maxwell's field theory, electric charge is emergent from the field.<br>
+<br>Maxwell began writing the <span class="italic">Treatise</span> in late 1867 and had completed a draft two years later. Interrupting the work to write the <span class="italic">Theory of Heat</span>, he resumed in November 1870, his major concern being the amplification of the mathematical argument of the book. In the <span class="italic">Treatise</span> Maxwell emphasized the expression of physical quantities freed from direct representation by a mechanical model, a style of mathematical physics that became influential. He enlarged the physical geometry and mechanical foundations of his earlier papers, deploying four fundamental mathematical ideas: quaternions (vector concepts, invented by W. R. Hamilton and developed by Tait), integral theorems (Stokes's theorem, transforming line into surface integrals), topological ideas (J. B. Listing's topology of lines and surfaces), and the Lagrange&#150;Hamilton method of analytical dynamics (as developed by Thomson and Tait in their <span class="italic">Treatise on Natural Philosophy</span> of 1867). Maxwell's use of vector functions&#151;he introduced the term &#145;curl&#146;&#151;was especially influential, vectors becoming pervasive in later physics, and the work abounds with innovative examples of mathematical physics, such as the polar representation of spherical harmonic functions, and the treatment of Green's function and reciprocity theorem.<br>
+<br>The <span class="italic">Treatise</span> is divided into four parts&#151;on electrostatics, electricity in motion, magnetism, and electromagnetism&#151;and offers a systematic presentation, including discussion of electrical instruments and measurements. Maxwell's distinctive theory becomes most explicit in the final part: here he presents the general equations of the electromagnetic field, the electromagnetic theory of light, and the dynamical basis of his field theory. The work concludes with a rebuttal of contemporary theories (by Wilhelm Weber, Bernhard Riemann, and Enrico Betti) deriving from the tradition of considering forces acting at a distance without the mediation of a field. Maxwell argues that these theories cannot satisfactorily explain the transmission of energy, for &#145;there must be a medium or substance in which the energy exists&#146;. Mediation by an ether, the seat of the electromagnetic field, is the keystone of his theory, and he stresses that it was his &#145;endeavour to construct a mental representation of all the details of its action&#146;  (J. C. Maxwell, <span class="italic">Treatise on Electricity and Magnetism</span>, 1873, 2.438).<h2>
+<a name="Cavendishprofessor18711879"></a>Cavendish professor, 1871&#150;1879</h2>In 1865 Maxwell had resigned his post at King's College, London, and subsequently retired to private life at Glenlair, where he continued with his scientific work. As an examiner for the mathematical tripos at Cambridge in the late 1860s he had set a few questions on the theories of heat, electricity, and magnetism, fostering calls within the university for the introduction of these subjects into the tripos. The university sought the establishment of a new professorship to teach these physical subjects. The chancellor of the university, the seventh duke of Devonshire, offered funds for a laboratory (which came to be named after his family), and Maxwell was appointed to the professorship of experimental physics in March 1871. In his inaugural lecture in October 1871 Maxwell presented experimental physics as liberal culture rather than workbench practice, but emphasized the value of precision measurements, experiments which became the norm of research at the Cavendish Laboratory when it opened in April 1874. He designed the laboratory and acquired the instruments, paid for largely by the duke of Devonshire and by Maxwell himself.<br>
+<br>Maxwell's lectures on heat, electrostatics, and electromagnetism were designed to meet the expanded syllabus for the mathematical tripos, still overwhelmingly dominant as the educational path for prospective physicists at Cambridge. He gathered a small group of Cambridge graduates, including William Garnett (who became demonstrator and gave introductory lectures on physics and on laboratory methods) and George Chrystal; they were joined by Arthur Schuster, who had described experiments which suggested a deviation from Ohm's law. Under Maxwell's direction Chrystal undertook exhaustive tests, which Maxwell and Schuster reported to the British Association in 1876, confirming the accuracy of the law. Maxwell began to devise experiments to re-determine the standard unit of resistance, thwarted by Chrystal's departure for St Andrews in 1877.<br>
+<br>Following his election as a fellow of the Royal Society in May 1861 Maxwell had refereed a wide range of papers for the <span class="italic">Philosophical Transactions</span>, a task which continued unabated in the 1870s; he often wrote substantive essays offering significant commentary. Literary work, including richly informative reviews for <span class="italic">Nature</span>, formed an important part of Maxwell's activity during this final period of his life. He also published jocular scientific poems under his thermodynamic <i>nom de plume</i> <i>dp/dt</i>, derived from an expression for the second law of thermodynamics in Tait's <span class="italic">Sketch of Thermodynamics</span> (1868), <i>dp/dt</i> = <i>JCM</i>. His edition of <span class="italic">The Electrical Researches of the Honourable Henry Cavendish</span> (1879) is a classic of scientific editing, locating Cavendish within his own period and&#151;by undertaking experimental tests of his results and recasting his ideas into a modern idiom&#151;relating Cavendish's work of the 1770s to the physics of the 1870s. Some of these investigations were incorporated into the second edition of the <span class="italic">Treatise</span>, published posthumously in 1881. The text <span class="italic">Matter and Motion</span> (1876) contains subtle discussions of absolute space and the status of the laws of motion. As one of the scientific editors of the ninth edition of the <span class="italic">Encyclopaedia Britannica</span> Maxwell contributed several articles. The classic article on &#145;Atom&#146; reviewed the subject from antiquity to contemporary developments, displaying his knowledge of the history of science. In &#145;Ether&#146; he discussed the problem of detecting the earth's motion through the ether. His suggestion that light be propagated in opposite directions and that ether drag be detected by measuring any variation in its velocity, shortly led Albert Abraham Michelson to undertake his ether drift experiments, yielding a null result.<br>
+<br>Maxwell died of cancer at his home, 11 Scroope Terrace, Cambridge, on 5 November 1879. He was buried at Parton churchyard, Kirkcudbrightshire, Scotland.<h2>
+<a name="Historicalreputationandinterpretation"></a>Historical reputation and interpretation</h2>In the 1870s Maxwell's scientific reputation was burgeoning, leading to the award of honorary doctorates from the universities of Edinburgh, Oxford, and Pavia, and the membership of academies in Amsterdam, G&ouml;ttingen, Vienna, Boston, Philadelphia, and New York. His reputation initially rested largely on his kinetic theory of gases and statistical methods, further developed in the 1870s by Boltzmann. The impact of the <span class="italic">Treatise on Electricity and Magnetism</span> was at first muted, but within a few years of his death his field theory shaped the work of Maxwellian physicists: George Francis FitzGerald, Oliver Heaviside, Joseph John Thomson, and others. Following Hertz's production and detection of electromagnetic waves in 1888, Maxwell's field theory and electromagnetic theory of light came to be accepted and regarded as one of the most fundamental of all physical theories. Maxwell's equations gained the status of Newton's laws of motion, and the theory was basic to the new technology of electric power, telephony, and radio. His reputation and the status of Maxwellian physics was enhanced by the advent of &#145;modern&#146; physics in the twentieth century, understood as resting on his conception of the physical field and appeal to statistical descriptions.<br>
+<br>Although Maxwell's career traversed a period which saw the rapid professionalization of scientific endeavour, and he contributed to this development through his management of the Cavendish Laboratory, he should not be regarded as a professional scientist himself. His way of life was that of a Scottish laird, who often relied on inherited property in pursuing his own scientific interests. Indeed, in his more popular writings he expressed his traditional stance on the cultural values of science, lacking sympathy with the secularism which was becoming common in the 1870s. In his biography Lewis Campbell portrayed Maxwell as a natural philosopher pursuing science as an avocation; this has been an abiding image.<br>
+<br>P. M. Harman </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The scientific letters and papers of James Clerk Maxwell</i>, ed. P. M. Harman, 3 vols. (1990&#150;2002) &middot; W. D. Niven, ed., <i>The scientific papers of James Clerk Maxwell</i> (1890) &middot; C. W. F. Everitt, &#145;Maxwell, James Clerk&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>, 9.198&#150;230 &middot; L. Campbell and W. Garnett, <i>The life of James Clerk Maxwell</i> (1882) &middot; P. M. Harman, <i>The natural philosophy of James Clerk Maxwell</i> (1998) &middot; D. M. Siegel, <i>Innovation in Maxwell's electromagnetic theory</i><i>: molecular vortices, displacement current, and light</i> (1991) &middot; M. J. Klein, &#145;Maxwell, his demon, and the second law of thermodynamics&#146;, <em>American Scientist</em>, 58 (1970), 84&#150;97 &middot; P. M. Harman, &#145;Mathematics and reality in Maxwell's dynamical physics&#146;, <i>Kelvin's Baltimore lectures and modern theoretical physics</i>, ed. R. Kargon and P. Achinstein (1987), 267&#150;97 &middot; P. M. Harman, &#145;Maxwell and Saturn's rings: problems of stability and calculability&#146;, <i>The investigation of difficult things</i><i>: essays on Newton and the history of the exact sciences</i>, ed. P. M. Harman and A. E. Shapiro (1992), 477&#150;502 &middot; P. M. Harman, <i>Energy, force, and matter</i><i>: the conceptual development of nineteenth-century physics</i> (1982) &middot; P. M. Harman, ed., <i>Wranglers and physicists</i><i>: studies on Cambridge physics in the nineteenth century</i> (1985) &middot; S. Schaffer, &#145;Accurate measurement is an English science&#146;, <i>The values of precision</i>, ed. M. N. Wise (1995), 135&#150;72 &middot; C. W. F. Everitt, &#145;Maxwell's scientific creativity&#146;, <i>Springs of scientific creativity</i>, ed. R. Aris, H. T. Davis, and R. H. Stuewer (1983), 71&#150;141 &middot; T. M. Porter, <i>The rise of statistical thinking, 1820&#150;1900</i> (1986) &middot; B. J. Hunt, <i>The Maxwellians</i> (1991) &middot; J. Z. Buchwald, <i>From Maxwell to microphysics</i><i>: aspects of electromagnetic theory in the last quarter of the nineteenth century</i> (1985) &middot; E. Garber, S. G. Brush, and C. W. F. Everitt, eds., <i>Maxwell on molecules and gases</i> (1986) &middot; E. Garber, S. G. Brush, and C. W. F. Everitt, eds., <i>Maxwell on heat and statistical mechanics</i> (1995) &middot; C. G. Knott, <i>Life and scientific work of Peter Guthrie Tait</i> (1911) &middot; O. Knudsen, &#145;The Faraday effect and physical theory, 1845&#150;1873&#146;, <em>Archive for History of Exact Sciences</em>, 15 (1975&#150;6), 235&#150;81 &middot; M. N. Wise, &#145;The mutual embrace of electricity and magnetism&#146;, <em>Science</em>, 203 (1979), 1310&#150;18 &middot; S. G. Brush, <i>The kind of motion we call heat</i><i>: a history of the kinetic theory of gases in the 19th century</i>, 2 vols. (1976) &middot; R. G. Olson, <i>Scottish philosophy and British physics, 1750&#150;1880</i><i>: a study in the foundations of the Victorian scientific style</i> (1975) &middot; private information (2004) &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=CUL')">CUL</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=Kings%20Lond.')">King's Lond.</a>, notebooks
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, paper presented to the Royal Society of Edinburgh
+   &middot;
+ Peterhouse, Cambridge, family corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=RS')">RS</a>&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Lord Kelvin
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=CUL')">CUL</a>, corresp. with P. G. Tait
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=LMA')">LMA</a>, corresp. with C. J. Monro
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=U.%20Glas.%20L.')">U. Glas. L.</a>, letters to Lord Kelvin
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=U.%20St%20Andr.')">U. St Andr.</a>, corresp. with James David Forbes, etc.<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Dyce, double portrait, oils, <i>c.</i>1837 (with his mother), Birmingham Museums and Art Gallery &middot; photograph, 1855, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a> &middot; photograph, <i>c.</i>1870, Peterhouse, Cambridge &middot; Fergus, photograph, 1872, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; J. E. Boehm, bust, 1879 (after engraving by G. J. Stodart), U. Cam., Cavendish Laboratory &middot; A. Stoddart, statue, 2008, George Street, Edinburgh, Scotland &middot; J. Blackburn, oils, U. Cam., Cavendish Laboratory &middot; L. Dickinson, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a> &middot; C. H. Jeens, stipple (after unknown artist), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=NPG')">NPG</a> &middot; G. J. Stodart, engraving (after photograph by Fergus of Greenock), repro. in Campbell and Garnett, <i>Life of James Clerk Maxwell</i> &middot; double portrait, oils (with his wife), U. Cam., Cavendish Laboratory &middot; mezzotint, watercolour on china (after photograph), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=NPG')">NPG</a> &middot; photographs, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5624&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;9269 5<i>s</i>. 4<i>d</i>.: confirmation, 1 Jan 1880, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">P. M. Harman, &#145;<span class="roman"><span class="headword">Maxwell,  James  Clerk</span>  (1831&#150;1879)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2009 [http://www.oxforddnb.com/view/article/5624, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James  Clerk Maxwell (1831&#150;1879): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5624 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/5624/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

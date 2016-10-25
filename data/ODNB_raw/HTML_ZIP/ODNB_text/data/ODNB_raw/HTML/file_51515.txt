@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51515;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51515-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51515-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51515#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Menchik <span class="st"> [<em>married name </em>Stevenson]</span>,  Vera Fran&#269;evna</span>  (1906&#150;1944), <span class="occ">chess player</span>, was born in Moscow on 16 February 1906, the daughter of Franz Mencik (<i>d</i>. in or before 1937), a mill owner, who was of Czech origin. Her mother was English. The family moved to Hastings in 1921 and the young Vera, who had been playing chess since the age of nine, became a pupil of G&eacute;za Mar&oacute;czy a year or so later.<br>
+<br>In 1927 the F&eacute;d&eacute;ration Internationale des Echecs (FIDE) organized both the first chess Olympiad and the first world championship for women; both events ran concurrently, apart from 1928, until the outbreak of the Second World War. Menchik won every one of the women's competitions, in London (1927), Hamburg (1930), Prague (1931), Folkestone (1933), Warsaw (1935), Stockholm (1937), and Buenos Aires (1939). Such was her domination of the women's game that in these seven tournaments she won seventy-eight games, drawing four and losing only one. She also put her title at stake in two privately arranged matches against her closest rival, Sonja Graf, defeating this German-born opponent in 1934 and 1937.<br>
+<br>Menchik played her first championship tournament as a Russian, the next five as a Czech, and the last as a Briton, having married Rufus Henry Streatfield Stevenson (1877/8&#150;1943), secretary of the British Chess Federation, on 19 October 1937. Her husband, a pharmacist, was a widower twenty-eight years her senior. She also played in such men's tournaments as did not exclude women. Although she usually finished in the second half of the score in these contests, her positional style and mastery of the endgame occasionally brought her victories over the greatest masters of the day. Men she defeated were granted the dubious honour of membership of the &#145;Menchik Club&#146;. Among these were the Dutchman Max Euwe and the American Samuel Reshvsky. Another victim was the 77-year-old Jacques Mieses, whom she beat in 1942, but this victory was not widely reported, to lessen the veteran's indignity at defeat at the hands of a mere woman.<br>
+<br>Vera Menchik was not only the foremost woman player of all time: she devoted her life to the game. A professional player, she also wrote articles for chess magazines, gave lessons, and undertook lecture tours. In 1939 she was appointed manager of the National Chess Centre, which had been set up largely at the instigation of herself and her husband. In 1940 the building was totally destroyed in an air raid. She herself died along with her mother and her sister Olga, also a chess player, on 26 June 1944, when her home, 47 Gauden Road, Clapham, London, was hit in a German V1 flying bomb raid. She was immortalized in 1957, when FIDE inaugurated the women's Olympiad. The trophy for the winning team was called the Vera Menchik cup.<br>
+<br>Tony Rennick </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. Hooper and K. Whyld, <i>The Oxford companion to chess</i>, 2nd edn (1992) &middot; N. Divinsky, <i>The Batsford chess encyclopedia</i> (1990) &middot; R. Eales, <i>Chess</i><i>: the history of a game</i> (1985) &middot; P. Matthews and I. Buchanan, <i>The all-time greats of British and Irish sport</i> (1995) &middot; <em>The Times</em> (4 July 1944) &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photographs, 1936, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51515&amp;istheme=&amp;target=Hult.%20Arch.')">Hult. Arch.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;5252 3<i>s</i>. 7<i>d</i>.: probate, 25 Jan 1945, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Tony Rennick, &#145;<span class="roman"><span class="headword">Menchik ,  Vera Fran&#269;evna</span>  (1906&#150;1944)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51515, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Vera Fran&#269;evna Menchik (1906&#150;1944): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51515 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9110;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9110-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9110-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9110#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Falconer,  Hugh</span>  (1808&#150;1865), <span class="occ">palaeontologist and naturalist</span>, was born at Forres, Moray, on 29 February 1808, one of five sons and two daughters of David Falconer and his wife, Isabel Mcrae. He was educated at the local grammar school and the University of Aberdeen, where he obtained his MA degree. He later attended Edinburgh University, learning botany from Professor Robert Graham and geology from Professor Robert Jameson, and obtained his MD degree there in 1829, his thesis being entitled &#145;De chorea&#146;. He went to London soon after and there met Nathaniel Wallich and worked with him on his Indian herbarium specimens. He also worked with William Lonsdale, curator at the Geological Society of London museum and worked at the Geological Society on the Ava (Burma) collection of fossil mammals made by John Crawfurd from the banks of the Irrawaddi. Both these activities were important in directing his later career.<br>
+<br>Falconer went to India as surgeon with the East India Company, Bengal establishment, arriving at Calcutta in September 1830, and obtained a position in the museum of the Asiatic Society of Bengal. There he saw fossil material from the Ava collection in the museum of the Asiatic Society of Bengal and this topic was one of his first publications (1831 in <span class="italic">Gleanings in Science</span>, 3). In the course of duties he met J. Forbes Royal of the Saharanpur/Serempore Botanic Gardens and was made his deputy, and in 1832, superintendent of the gardens. His resourcefulness there in making a mercury barometer for measuring altitude from materials obtainable locally was recorded by a contemporary writer. There too, in 1832, he was shown animal fossils from the Sewalik hills in the Himalayan foothills by P. T. Cautley, which they identified as fossil mammals of Tertiary age. Over the next twenty years and more Cautley and Falconer, with few resources, investigated the Sewalik hills fossil fauna with great skill and vigour. They later discovered and investigated further Tertiary fossiliferous material deposits at the Kalomal Pass. Yet more fossil bones of this formation were found by Lieutenant William Erskine Baker and Lieutenant Henry Durand during work at Markunda, west of Jumma, which came into Falconer's possession.<br>
+<br>Falconer demonstrated considerable stratigraphic ability in deducing that the Sewalik fossil material was not of New Red Sandstone age (Triassic) as was supposed, but late Tertiary (it is now known to be predominantly Plio-Pleistocene) and that the deposit was of a similar sedimentary facies to the molasse of Switzerland. The mammalian fauna consisted of mastodons, elephants, rhinoceros, hippopotamus, pig, and giraffe. They also found one of the first fossil monkey skulls, a fact noted by Charles Darwin during his earliest evolutionary musings. There were fossil fishes, and among the reptilian remains of crocodiles and tortoises was a giant tortoise which caught the public imagination. Falconer's work was detailed and he is known to have captured living animals to compare their anatomy with his fossil material. In recognition of their work on vertebrate palaeontology Falconer and Cautley jointly received the Wollaston medal of the Geological Society of London in 1837.<br>
+<br>Falconer was sent to the north-west of India in 1837 and made initial investigations of the natural history and geology of the Salt range (in present-day Pakistan), Kashmir, and south-eastern Afghanistan. Here his health began to suffer and he returned to England in 1842 bringing with him 5 tons of fossil bones in their rock matrix. He remained in England until 1846 or 1847. In London he worked on the Indian fossils at the British Museum and also worked at the museum of the East India Company in Leadenhall Street. During this home leave work was begun on the illustrations (lithographs) for what was to become Falconer's best-known publication, his uncompleted <span class="italic">Fauna antiqua Sivalensis</span> (1846&#150;9). Such of the letterpress and plate description as were ever published appeared in 1868 under Sir Roderick Murchison's editorship. Falconer was elected a fellow of the Royal Society in 1845. In India in the same year he was appointed professor of botany at Calcutta medical college and superintendent of the Royal Botanic Garden, Calcutta (1848) as successor to Wallich. It was from here that Falconer undertook botanical work associated with the introduction of tea and <i>Cinchona</i> species, which produce quinine, into cultivation in India. He selected and arranged the Bengal exhibits for the Great Exhibition of 1851. After this he undertook the task of preparing a catalogue of the fossils in the museum of the Asiatic Society of Bengal which appeared in 1859. This was a formidable task, as few records had been kept before his time. In India he continued his palaeontological work in the Sewalik hills as best he could with the resources at his disposal. However, his health was impaired and he returned to London for good in 1855, visiting Palestine, Syria, and the Crimea (during the siege of Sevastopol) on the way. In Europe a second phase of his career began: he worked on many aspects of vertebrate palaeontology and especially Pleistocene cave fossil faunas&#151;elephants and mastodons being a particular interest. He developed a reputation for thorough work and became an active member of the scientific community in London. In a memoir in 1857 he concluded that there had been three species of Pleistocene fossil elephant in southern Britain, disagreeing with Richard Owen in the process, who had considered there to have been only one. He also examined flint artefacts from the Somme valley of northern France in 1858 and the fossil fauna of caves in the Gower peninsula. Falconer in 1858 excavated chipped flints in Brixham cave, and was foremost in arguing that these were tools and therefore proof of mankind's antiquity (then disputed). His discoveries were exploited by Charles Lyell in his <span class="italic">Geological Evidence of the Antiquity of Man</span> (1863) which led to acrimonious exchanges. At this time Falconer was also one of the committee who commented on the future housing of the botanical collections in the British Museum following the death of the botanist Robert Brown.<br>
+<br>For health reasons Falconer spent the winters of 1858&#150;61 in the western Mediterranean, and investigated cave faunas in Malta, Sicily, and Gibraltar. His botanical and palaeobotanical interests continued: in 1860&#150;62 he was able to conclude that the Bovey Tracy (Devon) lignite was of Miocene age and corresponded with the better-known German deposits of the same age. In the early 1860s he visited major British, French, German, and Italian museums and examined their fossil collections. At the time of his death he was vice-president of the Royal Society and foreign secretary of the Geological Society of London. He died at his home, 21 Park Crescent, Marylebone, London, on 31 January 1865 and was buried at Kensal Green cemetery, London, on 4 February.<br>
+<br>Regrettably Falconer's large and important Sewalik hills fossil fauna collection was never fully published, partly because of his ill health in later years and partly because some of his lithographic drawings made for the project had been removed from the stones between 1845 and 1855 while he was in India. The failure to complete this work was one of the tragedies of nineteenth-century Anglo-Indian science and Falconer cannot be held entirely responsible. In 1863 Falconer published on an American fossil elephant <i>Elephas columbi</i> and it is known that he disagreed with Sir Richard Owen on some aspects of the Pleistocene fossil elephant taxonomy from the Gulf of Mexico and felt that Owen had ignored his prior name in favour of his own name, <i>Elephas texianus</i>  (Murchison, <span class="italic">Palaeontological Memoir</span>, 215&#150;16); the belief persists that Owen, the Natural History Museum's first director, may have suppressed the publication of some of this work until after Falconer's death. Certainly it fell to Murchison in 1867&#150;8 to publish much of what survived of Falconer's palaeontological notes and material as <span class="italic">Palaeontological Memoirs and Notes of the Late Hugh Falconer</span>.<br>
+<br>Falconer's botanical collecting was also considerable. His plant material consisted of eighty cases of dried plants and these were passed initially to the museum of the East India Company, London, and after the company's suppression (1858) to the herbarium of the Royal Botanic Gardens, Kew. His botanical notes and coloured drawings were also passed to Kew at this time. He was commemorated in the now obsolete plant genus <i>Falconeria</i> J. D. Hooker (Scrophulariaceae), and in <i>Rhododendron falconeri</i> (Ericaceae). The Falconer Museum in Forres, Moray, commemorates Hugh and his brother Alexander Falconer (1797&#150;1856).<br>
+<br>D. T. Moore </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Chaloner, &#145;Falconer, Hugh (1808&#150;1865)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>, vol. 4 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; R. I. Murchison, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 15 (1866&#150;7), xiv-xxiii &middot; R. I. Murchison, <em>Journal of the Royal Geographical Society</em>, 35 (1865), cxv&#150;cxviii &middot; R. I. Murchison, ed., <i>Palaeontological memoirs and notes of the late Hugh Falconer</i>, 2 vols. (1868) &middot; F. A. Stafleu and R. S. Cowan, <i>Taxonomic literature</i><i>: a selective guide</i>, 2nd edn, 1, Regnum Vegetabile, 94 (1976) &middot; W. T. Stearn, <i>The Natural History Museum at South Kensington</i><i>: a history of the British Museum (Natural History), 1753&#150;1980</i> (1981) &middot; P. J. Boylan, &#145;The controversy of the Moulin-Quignon jaw: the role of Hugh Falconer&#146;, in L. J. Jordanova and R. S. Porter, <i>Images of the earth</i> (1979), 171&#150;99 &middot; L. G. Wilson, &#145;Brixham cave and Sir Charles Lyell's <i>The Antiquity of Man</i>: the roots of Hugh Falconer's attack on Lyell&#146;, <em>Archives of Natural History</em>, 23 (1996), 79&#150;97 &middot; d. cert. &middot; card catalogue, RS &middot; Scottish old parish register<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Falconer Museum, Forres, corresp. and MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=NHM')">NHM</a>, MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=NHM')">NHM</a>, specimens
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=RBG%20Kew')">RBG Kew</a>, drawings and MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=RCS%20Eng.')">RCS Eng.</a>, MSS&nbsp;|&nbsp; Elgin Museum, Elgin, letters to George Gordon
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, letters to Sir Charles Lyell<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> E. Edwards, photograph, 1865, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>Portraits of men of eminence</i>, 3 (1865) &middot; J. Bell, bust, 1867, Madras, India &middot; T. Butler, bust, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9110&amp;istheme=&amp;target=RS')">RS</a> &middot; bust, Asiatic Society of Bengal, Calcutta &middot; photograph, repro. in Murchison, <i>Palaeontological memoirs</i> &middot; photograph, NHM, Palaeontology Library<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;16,000: resworn probate, May 1865, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">D. T. Moore, &#145;<span class="roman"><span class="headword">Falconer,  Hugh</span>  (1808&#150;1865)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/9110, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Hugh Falconer (1808&#150;1865): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9110 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

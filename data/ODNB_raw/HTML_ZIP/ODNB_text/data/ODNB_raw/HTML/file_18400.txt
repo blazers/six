@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18400;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18400-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18400-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18400#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Maxwell,  James</span>  (<em>b. </em>1581?, <em>d.</em> in or after 1635), <span class="occ">scholar and theological controversialist</span>, is said to have been the sole son of William Maxwell of Little Airds. He frequently expressed pride in being the grandson of William Maxwell of Kirkconnel (<i>fl</i>. 1540&#150;1567), who had served James V, Mary of Guise, and Mary Stewart.<br>
+<br>A student at the University of Edinburgh, Maxwell early distinguished himself as a scholar, at the age of nineteen compiling commentaries on <span class="roman">Daniel</span> and the <span class="roman">Revelation</span> in what subsequently became an enormous collection of prophecies, understood as detailing the rise, rule, and eventual overthrow of the papal monarchy&#151;the great prophesied Antichrist that would be destroyed at the end of days. Maxwell immediately impressed contemporaries and, he relates, was invited to preach in various Edinburgh pulpits. Immersed in Edinburgh's rich Calvinist intellectual culture, dominated by mathematicians, astrologers, and apocalyptic exegetes such as Robert Pont and John Napier of Merchiston, Maxwell initially intended to travel to Denmark and study mathematics and astrology with Tycho Brahe. But the university's sometime principal, Robert Rollock, persuaded him to stay on at Edinburgh, and Maxwell completed his master of arts degree in 1600.<br>
+<br>In 1601, the year of Brahe's death, Maxwell travelled to France; for several years he pursued his prophetic researches in libraries at Limoges and Cluny, then at Florence and Venice, and probably elsewhere as well, possibly even as far south as Naples. Through these researches he assembled an extraordinary and perhaps unique collection of prophetic material: Joachite, pseudo-Joachite, Galfridian, Paracelsian, Merlinic, prophecies identified with Hildegard of Bingen, Thomas the Rhymer, Wilhelm Aytinger, Paul Grebner, Nostradamus, materials collected out of John Bale, John Foxe, Flacius Illyricus, the Magdeburg centuriators, and much else. While abroad he completed his book on the papacy, the <span class="italic">Tyrannidi-graphia ecclesi&aelig; militantis</span>, as well as several allied works. The <span class="italic">Tyrannidi-graphia</span>, dedicated to his university, was sent back to Edinburgh, where it was apparently widely read and eventually came into the hands of the prominent minister at Ayr, John Welsh. Unfortunately Welsh took the manuscript volume with him when he was banished to France in November 1606, and it is now lost&#151;a fate, tragically, that would await the bulk of Maxwell's writings.<br>
+<br>By 1607 Maxwell had settled in London, where he renounced his former &#145;puritanisme and Geneuisme&#146; and dedicated the rest of his life to promoting James VI and I's British project and the episcopal church that was integral to it  (Maxwell, <span class="italic">A New Eight-Fold Probation</span>, 1617, 35). In London he associated with conservative protestant scholars like the royal librarian Patrick Young, the well-known antiquary Sir Henry Spelman, and the Exeter dean Matthew Sutcliffe, and for nearly fifteen years he pleaded and petitioned, continuously and unsuccessfully, for an appointment to the fledgeling Chelsea College, the projected intellectual seat of the new Britain. Constantly writing, Maxwell rushed to the crown's defence with massive replies to the fanatical counter-reformers Jacques Davy du Perron (1556&#150;1618), Martin Becanus 
+    (van der Beeck; 1561&#150;1624)
+  , Jacob Gretser 
+    (Gretscher; 1562&#150;1625)
+  , and Caspar Schoppe 
+    (Scioppio; 1576&#150;1649)
+  . But, drawing from his researches while on the continent, his central concern remained focused upon the apocalyptic promise of the new British era that James's rule appeared to be initiating.<br>
+<br>Although most of this writing has now disappeared and can only be known through Maxwell's quaint verse summaries and relatively brief occasional pieces, his beliefs and extraordinary expectations are still abundantly clear. The new Britain was nothing less than the prophesied last world empire that would reunite Europe, the Middle East, and presumably the globe within the true Christian faith in the age immediately preceding the return of Christ. James &#145;the Concorder&#146; would reconcile divided Europe into this final order&#151;seemingly through both his diplomatic efforts and his writings, and still more through the spirit and the writings emerging from the new British church. As his religious conservatism deepened Maxwell became increasingly convinced that Rome's conversion might be accomplished without violence: &#145;The reforming king &hellip; shall not intend the destruction and devastation, but only the purgation and purification of the Temple&#146;  (Maxwell, <span class="italic">Admirable and Notable Prophecies</span>, 1615, 88). If the faith initially had reached Rome from Britain by means of the sword it might do so in the latter days simply by means of the Word. As he urged James:<blockquote>
+<div>Play David's part, our curer and our king,<br>
+</div>
+<div>In Saul's behalf, e'en the musician,<br>
+</div>
+<div>With your sweet Harp, cease not to play and sing!<br>
+</div>
+<div>Till you prove Pope Paul's physician.<br>
+</div> (Maxwell, <span class="italic">The Laudable Life and Deplorable Death &hellip; of Prince Henry</span>, 1612, sig. D4<i>r</i>)</blockquote>From this perspective Maxwell easily saw the Austrian Habsburgs, despite their Catholicism, as a rampart against the Ottoman empire, the &#145;common enemies of the Christian name&#146;  (Maxwell, <span class="italic">Admirable and Notable Prophecies</span>, 1615, 120).<br>
+<br>The overthrow of the Ottomans, however, was an imperative, and Maxwell expected Prince Henry and, on his death, the suitably named Charles to retake Constantinople, thus restoring the eastern Roman empire under British aegis. The huge wealth of prophecy associated with Charles V in the previous century and with Charles VIII in the century before that, Maxwell maintained, actually applied to Britain's Charles Stuart, whose role was in fact prefigured by a line of famous individuals with that name reaching back, perhaps inevitably, to Charlemagne. The destruction of Islam (anticipated to occur about the year 1630, a millennium after its advent) would be accompanied by still other eschatological events, notably the conversion of the Jews. There in the British Middle East would emerge a community of Christian Jews, possibly, Maxwell hoped, under the guidance of James himself.<blockquote>
+<div>Oh happy sight to see great Britain's king<br>
+</div>
+<div>One day descending from Mount Olivet!<br>
+</div>
+<div>O happy song, to hear the Hebrews sing!<br>
+</div>
+<div>For joy of heart James to congratulate.<br>
+</div> (<span class="italic">Laudable Life</span>, sig. E2<i>r</i>)</blockquote>Maxwell is Scotland's closest counterpart to such contemporary or near contemporary figures as Italy's Tommaso Campanella, France's Guillaume de Postel, England's John Dee, Sweden's Johannes Bureus, and Germany's authors of the Rosicrucian manifestos. Like them he was deeply concerned to reconnect a world now religiously, politically, and intellectually fragmented, he anticipated eschatological spiritual and social renewal, and he looked to prophetic world empire. Like them he rejected Aristotelian scholasticism for a putatively more profound wisdom in Neoplatonism, astrology, and a range of magical traditions. Like Campanella&#151;and also Francis Bacon&#151;he sought to elevate the status of the mechanical arts in relation to the liberal arts. At once archaic and forward-looking, medieval and yet also anticipating the British imperial experience, Maxwell, like so much in Europe at the turn of the seventeenth century, is profoundly Janus-faced, exotic but curiously familiar.<br>
+<br>By 1617 it seemed that at last a fellowship as one of the two historians at the Chelsea College, the only positions open to laymen, was within Maxwell's grasp&#151;or so he announced in his <span class="italic">A New Eight-Fold Probation of the Church of England's Divine Constitution</span>, itself a controversial piece, hastily written in response to the Scottish Presbyterian ministers' petition to James in July of that year  (sigs. B2<i>v</i>&#150;B3<i>r</i>). But it was not to be. Worse still, three years later his religious conservatism led to disaster when he produced a tract rejecting Frederick V's claim to the Bohemian crown. The argument in the now untraceable work, probably entitled <span class="italic">Turba-Austriaca</span>, is discernible from a summary appearing in yet another pamphlet published several months earlier: the Turkish threat and eschatological moment required &#145;that the imperial dignity be continued yet a while in the most glorious and augustious house of Austria, and not transferred unto another, especially of smaller power than it&#146;  (Maxwell, <span class="italic">Carolanna</span>, 1619, sig. F3<i>r</i>). Maxwell had always claimed that the house of Stuart was genealogically close to the house of Habsburg, and this circumstance, too, necessarily figured in his thinking. Not surprisingly a protest was lodged, and the &#145;scribbler&#146; found himself gaoled in the Tower on 27 June 1620. During the autumn and winter he made a series of increasingly abject recantations to the privy council, and was eventually released on 9 February 1621 (TNA: PRO, SP 14/115/176; SP 14/117/155; SP 14/118/65; SP 14/119/69; <span class="italic">Acts of the Privy Council of England, 1619&#150;1621</span>, 230, 344).<br>
+<br>This event cut off any chance of a Chelsea College appointment and effectively marks the end of Maxwell's career in Britain. Thereafter he is rarely heard of, his remaining published works being limited to translations. Following his humiliation he travelled to the continent, first to France, and then settled in the Spanish Netherlands. Political disaster continued to dog him. He was briefly detained in Calvinist France for his <span class="italic">Eight-Fold Probation</span> and then imprisoned at Brussels for over a year as a heretic and a British spy; he obtained his release from &#145;perpetuall prison&#146;, he claimed, only after falsely promising to &#145;turne Catholicke in the highest straine and go live in Rome&#146;. His scholarship nevertheless impressed the Habsburgs and the counter-reformers well enough for Emperor Ferdinand II (<i>d</i>. 1637) to offer him &#145;spiritual preferment and the office of Imperial Antiquary and Genealogist&#146;, as well as a pension of 1000 crowns upon the death of the long-time court librarian, Sebastian Tengnagel (1573&#150;1635). Or so he wrote to Archbishop Laud in 1631, making what was probably his last and again unsuccessful appeal for a place within the Church of England&#151;hoping also to return home and finally publish his many works. As he told Laud, any imperial appointment of course would require his conversion to Roman Catholicism, adding that as a protestant his life itself was constantly under threat from several English Catholic exiles  (TNA: PRO, SP 16/189/124&#150;127).<br>
+<br>Maxwell probably ended his days in France, seeking the patronage of Cardinal Richelieu&#151;not unlike Campanella himself. His final publication, a translation of &#145;morall discourses&#146; attributed to Richelieu, appeared in 1635. In the preface he noted that there existed in the world three kinds of men: natural, moral, and divine. In what was surely a reference to himself he described the last flying:<blockquote>a higher pitch than all, his soul is mounted on the wings of contemplation &hellip; he soars with the eagle to attain those heavenly mysteries that God Himself hath revealed, and never leaves till he hath seated himself &hellip; in the high tribunal of that Holy of Holies (Maxwell, <span class="italic">Emblema anim&aelig;</span>, 1635, sig. A3<i>v</i>)</blockquote>Maxwell never found a place within the British order that he so wished to serve. Appeals to James, &#145;an academic man to an academic king&#146;, went neglected; Laud dismissed him as &#145;Mountebank Maxwell&#146;  (TNA: PRO, SP 14/84/59; SP 16/189/127<i>v</i>). Prophecy had come to play poorly within the late Jacobean and Caroline church. In that environment Maxwell's extraordinary claims (which extended even to determining the season of the year and the day of the week when the world would likely end, which found eschatological significance in the putatively Scottish place names he located in the Middle East, and which saw Merlin's prophecies indicating James's Irish policies) found themselves drastically out of place. Yet, for all its extravagance, much within Maxwell's thinking&#151;his apocalyptic expectations, his sense of imperial mission, his philosemitism, even his concern to reclaim &#145;British&#146; Constantinople&#151;developed and articulated attitudes which were surprisingly widespread in both England and Scotland, and which extended to powerful members of the court, like Sir William Alexander, if not to the Laudian &eacute;lite. Many of these perceptions would fire the mid-century revolution and thereafter more generally underwrite British achievement.<br>
+<br>Arthur H. Williamson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. H. Williamson, &#145;Scotland, Antichrist, and the invention of Great Britain&#146;, <i>New perspectives on the politics and culture of early modern Scotland</i>, ed. J. Dwyer, R. A. Mason, and A. Murdoch (1982), 44&#150;58 &middot; A. H. Williamson, &#145;The Jewish dimension of the Scottish apocalypse&#146;, <i>Menasseh ben Israeland his world</i>, ed. Y. Kaplan and others (1989), 17&#150;20 &middot; A. H. Williamson, &#145;Number and national consciousness: the Edinburgh mathematicians and Scottish public culture at the Union of Crowns&#146;, <i>Scots and Britons</i>, ed. R. A. Mason (1994), 200&#150;03 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18400&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1619&#150;23</i>; <i>1631&#150;3</i> &middot; W. Fraser, ed., <i>The book of Carlaverock</i><i>: memoirs of the Maxwells, earls of Nithsdale</i>, 2 vols. (1873) &middot; T. Fuller, <i>The church history of Britain</i>, ed. J. S. Brewer, new edn, 6 vols. (1845), vol. 5, pp. 386&#150;97 &middot; TNA: PRO, SP 14/84/59; SP 14/115/176; SP 14/117/155; SP 14/118/65; SP 14/119/69; SP 16/189/124&#150;127; SP 14/18 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18400&amp;istheme=&amp;target=APC')"><i>APC</i></a>, <i>1619&#150;21</i>, 230, 344<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18400&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 24489
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18400&amp;istheme=&amp;target=BL')">BL</a>, &#145;Britaines union in loue&#146;, Royal MS 18A.51<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Arthur H. Williamson, &#145;<span class="roman"><span class="headword">Maxwell,  James</span>  (<em>b. </em>1581?, <em>d.</em> in or after 1635)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/18400, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Maxwell (<em>b. </em>1581?, <em>d.</em> in or after 1635): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18400 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/18400/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 803;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/803-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/803-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=803#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Aspinwall,  Edward</span>  (1678&#150;1732), <span class="occ">religious controversialist</span>, was born on 1 January 1678 and baptized the same day at Aughton by Ormskirk, Lancashire, the son of Henry Aspinwall. Almost certainly born into a Roman Catholic family, he was educated at the English College at St Omer and was admitted to the Society of Jesus in 1696. He continued his studies at Watten, near St Omer, in 1697, and at Li&egrave;ge in the Southern Netherlands from 1699 to 1700 and then from 1701 to 1705; he was ordained Roman Catholic priest about 1705. He returned to England to the Worcestershire and Wales residence of St George-at-Spetchley from 1706 to 1707, but at some point within the next few years he abjured his faith and entered the Church of England. He was chaplain to the earl of Radnor by 1715 when he published his tract <span class="italic">A Preservative Against Popery</span>, which he dedicated to Charles Trimnell, bishop of Norwich, as public acknowledgement of the role played by Trimnell in his conversion. Aspinwall published the <span class="italic">Preservative</span> principally to set out his arguments &#145;by which strength of Conviction only I was prevail'd upon to quit a blind, implicit, erroneous Faith, to embrace the <i>Free</i> and Glorious <i>Light</i> of the Gospel Truth&#146;  (<span class="italic">A Preservative Against Popery</span>, appx) and thereby demonstrate that the oath of allegiance to the crown and to the Church of England was incompatible with the oath made in profession of the Roman Catholic faith.<br>
+<br>Aspinwall rapidly gained promotion in the Church of England: awarded an MA (1717) and DD (1729) by Clare College, Cambridge, he became subdean of the Chapel Royal in 1718 and was instituted prebendary of Westminster on 13 November 1729. In 1731 he published an <span class="italic">Apology, being a Series of Arguments in Proof of the Christian Religion</span>, prefaced with an address, &#145;To All Impartial Freethinkers&#146;, in which he declared that his mind was guided by reason alone, and not prejudice, in his choice of revealed religion. Here Aspinwall pleaded for free discussion in religious matters, but called for his opponents, principally the deist Anthony Collins, to refrain from using ridicule or satire in their writings. Aspinwall died on 3 August 1732 and was buried in Westminster Abbey on 8 August. After his death there was some controversy as to whether he converted to Roman Catholicism on his deathbed, but the rumours were denied by Aspinwall's friend and fellow former Jesuit Archibald Bower.<br>
+<br>A. H. Bullen<span class="italic">, rev. </span> S. J. Skedd </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=803&amp;istheme=&amp;target=Fasti%20Angl.%2C%201541%3F1857')"><i>Fasti Angl., 1541&#150;1857</i></a> [Ely], 89 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=803&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=803&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 2 (1732), 929 &middot; G. Holt, <i>The English Jesuits, 1650&#150;1829</i><i>: a biographical dictionary</i>, Catholic RS, 70 (1984), 21 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=803&amp;istheme=&amp;target=IGI')"><i>IGI</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=803&amp;istheme=&amp;target=Walpole%2C%20Corr.')">Walpole, <i>Corr.</i></a>, 21, 46, 46n. &middot; D. A. Bellenger, ed., <i>English and Welsh priests, 1558&#150;1800</i> (1984), 34<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. H. Bullen, &#145;<span class="roman"><span class="headword">Aspinwall,  Edward</span>  (1678&#150;1732)</span>&#146;, rev. S. J. Skedd, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/803, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Aspinwall (1678&#150;1732): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/803 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

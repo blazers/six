@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13235;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13235-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13235-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13235#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Higgins,  William</span>  (1763?&#150;1825), <span class="occ">chemist</span>, was probably born in Collooney, co. Sligo, in 1763, the son of Thomas Higgins (<i>c</i>.1739&#150;<i>c</i>.1790), physician. By 1784 he had gone to London, where his uncle and patron, <script>writeSeealsoLink('../view/article/13228/', "Bryan Higgins")</script>, was established as a doctor and chemist with a laboratory in Greek Street, Soho. Higgins matriculated on 6 February 1786 at Magdalen Hall, Oxford, and by 16 March the following year had migrated to Pembroke College. He remained there for more than a year but left without taking a degree. He was &#145;operator&#146; to the professor of chemistry, William Austin; on 2 April 1787 he sent an (unpublished) analysis of a human kidney-stone to the Royal Society.<br>
+<br>Higgins experimented in the basement laboratory of the old Ashmolean Museum in Oxford, and then in London. In 1789 he published, at a cost exceeding &pound;100, his <span class="italic">Comparative View of the Phlogistic and Antiphlogistic Theories</span>. One of the earliest British converts to Lavoisier's view that combustion involved combination with oxygen rather than the emission of phlogiston, Higgins controverted the Irish chemist Richard Kirwan's <span class="italic">Essay on Phlogiston</span> (1784). (Kirwan subsequently converted to Lavoisier's views as, by 1800, had almost all British chemists.) Higgins's book retained an interest because of its unstated assumptions on proportions which anticipated John Dalton's atomic theory. Indeed, in 1810 and subsequently, Humphry Davy suggested that Higgins had anticipated Dalton, and in 1814 Higgins himself published <span class="italic">Experiments and Observations on the Atomic Theory</span>, urging his priority. Higgins's subsequent editors, T. S. Wheeler and J. R. Partington (1960), place his work in the context of Newtonian elective affinities; it seems that only after Dalton had published his theory could anyone see approximations to it in Higgins's writings.<br>
+<br>In December 1791 Higgins was offered the position of chemist, on &pound;200 per annum with coals and candles, at the newly established Apothecaries' Hall in Dublin; he returned to Ireland and was sworn in on 13 April 1792. The laboratory proved too expensive, and on 27 May 1795 Higgins lost his job. He transferred to the Royal Dublin Society at half the salary, and from 1795 to 1822 was also chemist to the Irish linen board. There he experimented and advised on bleaching with chlorine. At the Dublin Society a laboratory was equipped for Higgins, as professor, to experiment &#145;on Dying Materials and other Articles, wherein Chymistry may assist the Arts&#146;  (Wheeler and Partington, 17)&#151;probably the first applied chemistry laboratory in the British Isles. He also gave courses of lectures, and supervised the collection of minerals.<br>
+<br>In April 1817 Higgins obtained leave to visit the continent. On 1 May of the same year he was admitted as a fellow of the Royal Society, to which he had been elected in 1806. He died in Dublin in 1825, between 28 April (when he made his will) and the end of June of that year (when his death was reported to the Royal Society). His grave is unknown. He lived in rooms in Dublin, at 71 Grafton Street, but owned considerable property which he bequeathed to his nephew. He was regarded by many as a difficult person to work with, and the promise with which his career in chemistry had opened was not fulfilled.<br>
+<br>David Knight </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. S. Wheeler and J. R. Partington, <i>The life and work of William Higgins, chemist, 1763&#150;1825</i> (1960) &middot; A. Thackray, &#145;Higgins, William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13235&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13235&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;6800 in land: Wheeler and Partington, <i>Life and work</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Knight, &#145;<span class="roman"><span class="headword">Higgins,  William</span>  (1763?&#150;1825)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13235, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Higgins (1763?&#150;1825): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13235 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

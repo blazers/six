@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 45546;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/45/45546-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/45/45546-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=45546#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Marescoe,  Charles</span>  (1633?&#150;1670), <span class="occ">merchant</span>, was born in Lille (then in the Spanish Netherlands), probably early in 1633, the youngest surviving son of Jacques and Jeanne Marescoe. He was evidently resident in London by 1649 for in 1653 he testified to four years of service as bookkeeper to Jacques Boeve, merchant (Anglicized as <script>writeSeealsoLink('../view/article/70859/', "James Boevey")</script>). By 1654 Marescoe had moved into a partnership with John Buck (1620&#150;1661), which secured a trading agency on behalf of the Baltic dukedom of Courland and also built up trading links with Sweden's major manufacturers of metals, armaments, and naval supplies.<br>
+<br>Marescoe acquired naturalization on 26 June 1657 (confirmed by Charles II on 29 December 1660) and was married at the French church, Threadneedle Street, on 7 July 1658 to Leonora (<i>c</i>.1637&#150;1715?) [<i>see under </i><script>writeSeealsoLink('../view/article/45549/', "David, Jacob")</script>], a younger daughter of Jan Le Thieullier (1591&#150;1679) and sister of Sir John Lethieullier (1632&#150;1719). The latter drew Marescoe into his extensive trading contacts with Spain and the Mediterranean, where they shared in exports of English tin, lead, and textiles. By 1664 Marescoe's ledgers show him to have been worth over &pound;13,000 net, with large stocks of Swedish products such as iron, copper, pitch, and tar. The Second Anglo-Dutch War (1665&#150;7) ensured him substantial profits from these strategically valuable commodities, and by the close of 1669, when he enrolled his brother-in-law, Peter Joye (1636&#150;1721), as a junior partner, his trading capital stood at nearly &pound;38,000.<br>
+<br>Marescoe's marriage had brought him close to the aldermanic aristocracy of London and in November 1662, by lord mayor's prerogative, he was granted the freedom of the City by redemption as liveryman of the Clothworkers' Company. In 1663 he purchased a grant of arms, and by 1665 he was recognized by the privy council as the king of Sweden's official factor. In this role he was engaged in Admiralty court litigation on behalf of much Swedish shipping, seized during the war as Dutch-owned. He also disputed exactions levied on Swedish goods by the Eastland Company and in 1668&#150;9, collaborating with the Swedish resident, Johann Barkman, Lord Leyonbergh FRS (1625&#150;1691), he successfully opposed improper &#145;water-balliage&#146; levies by the City of London's officials.<br>
+<br>Marescoe's acquisition in 1668 of an exclusive contract with the Swedish monopoly Tar Company consolidated his prosperous links with Sweden's greatest industrialists, such as the De Geers, the Momma-Reenstiernas, and the Kock-Cronstr&ouml;ms, who began to employ him as their commission agent for sales of iron bars and copper wire. It was in their interests to establish a monopoly in the London commodity market and although they never wholly succeeded there is evidence that Marescoe enjoyed a brief and unpopular pre-eminence in these wares. The reference in Samuel Pepys's diary to &#145;Morisco's Tarr = Business&#146; on 23 July 1665 is only one indication of the importance which the Navy Board attached to his resources. The East India Company was also a client, as were merchants interested in supplying the African slave trade with specially manufactured bars known as &#145;voyage-iron&#146;.<br>
+<br>Marescoe's activities were diverse: in partnership with John Lethieullier he carried on an active export trade to Spain, Italy, and the Levant. The commodities he dispatched consisted mainly of native English products, such as Colchester bays, Exeter perpetuanas, and Cornish tin, but he also figured largely in England's fast-growing traffic in colonial re-exports, channelling substantial amounts of West Indian sugars and tobacco to the refiners and blenders of Hamburg and Amsterdam. He maintained slender links with Lille, the city of his birth, seized by Louis XIV in 1668, and he also built up a precarious relationship with merchants of Rouen who marketed his sugar. It was on the recommendation of one of these agents that he engaged as a bookkeeper Jacob David of Darnetal near Rouen, who entered the household in 1668 at a salary of &pound;40 per annum.<br>
+<br>At this date Marescoe was still inconvenienced by the 1666 fire of London and the destruction of his rented house in Fenchurch Street. For a while he shared a Lethieullier house but in 1669 he purchased plots between Tower Street and Thames Street and began building a mansion house in Bosse Alley, conveniently sited for access to the London wharves. With twenty-seven hearths it was a capacious home for a growing family. Five daughters had been born&#151;Leonora in 1659, Jane in 1661, Elizabeth in 1663, Mary in 1665, and Anne in 1666&#151;and a short-lived son, Charles, arrived in 1668. On 5 September 1670, when he made his will, Marescoe's hopes for a male succession were pinned on another son, James, born earlier that year, but James did not long survive his father, who died at his home on 9 September 1670.<br>
+<br>Although Marescoe and his kinsmen had strong ties with St Dunstan-in-the-East and the protestant French church, Threadneedle Street (to whose poor he left &pound;150), his costly funeral was transferred to the parish church at Low Leyton, Essex, where he had rented a country residence since the plague year of 1665. A memorial slab to Marescoe and his children was erected there by his widow, but has not survived. His estate, including real property, was finally valued at about &pound;45,000, of which, by &#145;the custom of London&#146;, he assigned one-third to his widow and two-thirds to the children, but the maladministration of this estate by Leonora and her second husband, Jacob David, was to lead to its dissipation.<br>
+<br>H. G. Roseveare </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Markets and merchants of the late seventeenth century</i><i>: the Marescoe&#150;David letters, 1668&#150;1680</i>, ed. H. Roseveare, British Academy, Records of Social and Economic History, new ser., 12 (1987); repr. (1991) &middot; TNA: PRO, admiralty court depositions, HCA/13 &middot; will, TNA: PRO, PROB 11/333, sig. 114 &middot; sentence, TNA: PRO, PROB 11/333, sig. 111<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Riksarkivet, Stockholm, Momma-Reenstierna Sammlung
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=45546&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, chancery masters exhibits, C 114/63&#150;78<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> approximately &pound;40,000&#151;cash, stock in trade, and East India Company shares; &pound;5580&#151;recently purchased London real property: inventory in Common Serjeant's Book 2, fols. 240, 293b, GL<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">H. G. Roseveare, &#145;<span class="roman"><span class="headword">Marescoe,  Charles</span>  (1633?&#150;1670)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/45546, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Marescoe (1633?&#150;1670): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/45546 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/45546/2005-05"> [Previous version of this biography available here: May 2005]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

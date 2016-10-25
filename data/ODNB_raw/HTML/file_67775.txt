@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 67775;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/67/67775-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/67/67775-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=67775#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Clarke,  William Francis</span>  (1883&#150;1961), <span class="occ">intelligence officer</span>, was born on 22 May 1883 at 37 Russell Square, London, the son of the celebrated Edwardian advocate and solicitor-general <script>writeSeealsoLink('../view/article/32426/', "Sir Edward George Clarke (1841&#150;1931)")</script> and his wife, Kathleen Mathilda Bryant (<i>d</i>. 1944). He was the youngest of three children and the only child of his father's second marriage. Educated at Harrow School and Magdalen College, Oxford (1902&#150;5), Clarke was called to the bar in 1906 (by his father, who was treasurer of Lincoln's Inn that year). On 31 July 1907 he married Dorothy Mainland (1885?&#150;1949), and they had one son and two daughters. He was familiarly known as Nobby.<br>
+<br>Before the war Clarke had entertained a &#145;sneaking desire&#146; to join the Royal Navy and &#145;get to the sea&#146;  (Clarke, &#145;My way to Room 40&#146;, TNA: PRO, HW3/3). In February 1915 he reported to the Royal Naval division at Crystal Palace. Had he passed the eye examination, his hope of securing a commission as an executive officer by knocking ten years off his real age of thirty-three might have succeeded. In any case, Clarke accepted a commission as an assistant paymaster (later promoted to paymaster lieutenant-commander) and spent much of his first year in the Royal Navy engaged in routine pay and disciplinary matters. However, legal training combined with a command of the German language qualified him admirably for intelligence work. In early 1916 the director of naval intelligence, Captain W. Reginald Hall, recruited the keen paymaster into the embryonic code-breaking unit Room 40, designated by its location in Admiralty old block.<br>
+<br>When Clarke joined Room 40 in March 1916 it had, with the benefit of captured German naval code books and the backing of the first lord of the Admiralty, Winston S. Churchill, begun the process of transforming itself into Britain's most successful intelligence organization to date. Though usually remembered by historians for the interception and decoding of the celebrated Zimmermann telegram, its main contribution was to the war at sea. Most significantly, Room 40, with its ability to read the coded radio communications of the German high seas fleet, robbed German commanders of the advantage of surprise and permitted the British Grand Fleet to tailor its state of readiness to German plans. The Admiralty, however, failed to exploit Room 40's full potential by not integrating it into its operational command and control procedures. During the battle of Jutland, for instance, Clarke&#151;who was on duty in Room 40 throughout the engagement&#151;witnessed with frustration the tactical confusion generated by the inefficient distribution of intelligence to commanders at sea. The decision in May 1917 to end the code-breakers' relative isolation within Admiralty command arrived in time for radio interception to be a contributing factor in the defeat of the U-boats.<br>
+<br>The lessons of 1914&#150;18 informed Clarke's career. In Room 40, under Commander Herbert Hope, a professional sailor with a great talent for analysis, he learned that intelligence officers should aim to build a comprehensive picture of enemy intentions. Indeed, Clarke's strength lay in the analysis of information gleaned from wireless interception rather than code-breaking. This probably explains his selection in 1919, along with his friend and colleague Frank Birch, to compile a history of Room 40. When the task was finished the following year, it reflected Clarke's characteristically outspoken approach to the navy's errors in the handling of intelligence and was consequently &#145;suppressed&#146;  (Clarke, &#145;The years between&#146;, TNA: PRO, HW3/16).<br>
+<br>Also in 1919 Clarke joined the Government Code and Cypher School (GCCS), the successor to Room 40 and its War Office counterpart. He had hoped to specialize in naval matters, but by 1920 the work was mostly diplomatic, and Clarke was assigned for the next four years to the section attacking American diplomatic traffic. None the less, fearing that the Admiralty might neglect signals intelligence in peacetime, he kept his hand in naval work. In 1924 these efforts paid off with a promotion to head of the newly created naval section within the GCCS&#151;an appointment Clarke retained until 1941. Certainly, his chief contribution to the development of British intelligence was his tireless efforts to build up the naval section during the lean years of the late 1920s and early 1930s, and the steady expansion under his careful guidance of the naval section prompted by the Abyssinian crisis and the Spanish Civil War, when once again a premium was placed on the decoding of foreign naval communications. Yet before September 1939 doubts were often expressed by top naval officers and other officials that Room 40's feats could be duplicated owing to the introduction of machine encryption. Clarke vigorously disputed this view in lectures to naval officers and in correspondence with the Admiralty.<br>
+<br>The ability of Bletchley Park (the wartime home of the GCCS) to decrypt the German and Italian (Enigma) machine codes vindicated Clarke's expectation. Along with other key Room 40 veterans, he played an important role in laying the foundations for Bletchley Park's remarkable success. In 1939&#150;40 Clarke devoted himself to the subsection responsible for breaking Italian naval codes, while Frank Birch, his former colleague and successor as head of the naval section, took responsibility for attacking German traffic. Clarke retired in October 1945 and completed his memoirs, which, though unpublished, remain an important historical source. He died on 5 February 1961 at St Mary Abbots Hospital, Kensington, London, and was buried in Selworthy church, Minehead, Somerset.<br>
+<br>Joseph A. Maiolo </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>TNA: PRO, HW3 &middot; papers, CAC Cam. &middot; P. Beesly, <i>Room 40</i><i>: British naval intelligence, 1914&#150;18</i> (1982) &middot; C. Andrew, <i>Secret service</i><i>: the making of the British intelligence community</i> (1985) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=67775&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1961) &middot; private information (2004) [P. W. Clarke]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=67775&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=67775&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;13,026 1<i>s</i>. 0<i>d</i>.: administration, 23 May 1961, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Joseph A. Maiolo, &#145;<span class="roman"><span class="headword">Clarke,  William Francis</span>  (1883&#150;1961)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/67775, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Francis Clarke (1883&#150;1961): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/67775 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/67775/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51575;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51575-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51575-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51575#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Durell,  Clement Vavasor</span>  (1882&#150;1968), <span class="occ">mathematics teacher and textbook writer</span>, was born on 6 June 1882 at the rectory, Fulbourn, near Cambridge, the son of John Vavasor Durell (1837&#150;1923), rector of Fulbourn, and his wife, Ellen Annie Carlyon. Educated at Felsted School, he entered Clare College, Cambridge, in 1900, was seventh wrangler in 1903, and, in 1904, gained a first class in part two of the mathematical tripos (which was soon to become part three in the major reform of 1907).<br>
+<br>Durell started teaching at Gresham's School, Holt, but moved in 1905 to Winchester College, where he was appointed senior mathematical master in 1910; he remained there until his retirement. He served in the First World War as a lieutenant in the Royal Garrison Artillery and was mentioned in dispatches. Back at Winchester College, Durell became a housemaster in 1920. He fulfilled his duties at Chernocke House until 1927, but not with great success. He was a naturally shy and rather austere person, who had grown up in a family with four older brothers, and he never married. Through his textbook writing, however, he soon extended his influence on the teaching of mathematics far beyond the confines of Winchester College.<br>
+<br>Through his leadership, organization, and growing reputation, Durell did much to raise the status of mathematics at Winchester College. As early as 1900 he had joined the Mathematical Association, an influential organization involving secondary school and university teachers, and he became a life member. Before the First World War he became actively involved in the association's committee work and report production, and contributed articles on pedagogy to its journal, the <span class="italic">Mathematical Gazette</span>. His first textbook, <span class="italic">Elementary Problem Papers</span>, was published by Arnold in 1906, but his scope and influence became unrivalled between the wars through his work for the Mathematical Association's publisher, G. Bell &amp; Sons.<br>
+<br>Durell's textbook production grew rapidly from 1920 and within fifteen years his publisher was able to claim, in a special 32-page catalogue of his works: &#145;There can indeed be few secondary schools in the English-speaking world in which some at least of Mr Durell's books are not now employed in the teaching of mathematics&#146;  (Bell, <span class="italic">Modern Mathematical Textbooks</span>, 1). The list included twenty different titles, many available in separate volumes or parts, covering all the branches of school mathematics: arithmetic, algebra, geometry, trigonometry, calculus, and mechanics. The level ranged from introductory work for the aspiring school certificate pupil to advanced work for the university scholarship candidate. Exceptionally, he also produced one book on the pedagogy of algebra, <span class="italic">The Teaching of Elementary Algebra</span> (1931), and one work of popularization, <span class="italic">Readable Relativity</span> (1926).<br>
+<br>Durell's genius for exposition contributed to his success, and he continually improved and updated his textbooks in response to practical experience, the views of teachers, and the recommendations in the reports of the Mathematical Association. In geometry teaching, however, he joined a committee of the Incorporated Association of Assistant Masters and openly criticized the Mathematical Association's authoritative report of 1923 for its pedagogical &eacute;litism and impracticability. He kept in close touch with the Mathematical Association's work through fruitful textbook-writing partnerships with teachers from other leading public schools&#151;C. O. Tuckey (Charterhouse), A. W. Siddons (Harrow), R. C. Fawdry (Clifton College), G. W. Palmer (Christ's Hospital), and R. M. Wright (Eton College). In the writing of more advanced textbooks he also enjoyed a long and productive association with Alan Robson of Marlborough College, a leading figure in the Mathematical Association.<br>
+<br>Durell's early commercial success was helped by an expanding market for secondary school textbooks, which continued to grow on an international scale in the period of educational reconstruction after the Second World War. His <span class="italic">General Arithmetic</span>, first published in 1936, became an outstanding best seller and was still included in Bell and Hyman's list fifty years later, along with his mathematical tables and textbooks in geometry and general mathematics. The post-war shift towards general mathematical textbooks&#151;as opposed to textbooks on the separate branches&#151;was initially resisted by Durell but he was persuaded to produce a new series, in four volumes from 1946, which again proved a major success.<br>
+<br>Late in Durell's career he renewed his active involvement with the Mathematical Association by acting as secretary of the committee which produced a major report on higher geometry for schools (1953). He was described by another committee member as &#145;an indefatiguable [<i>sic</i>] worker, producing numerous drafts, and a courteous though persistent critic of anything he thought loose or inconsistent in the efforts of others&#146;  (Maxwell, 313).<br>
+<br>On his retirement from Winchester College Durell moved to 73 North Lane, East Preston, Sussex, where he was accompanied by a housekeeper, a gardener, and large dogs. Golf was, at one time, a chief recreation, and, in his old age, he escaped from English winters to the climates of Madeira and, latterly, South Africa, where he died on 10 December 1968.<br>
+<br>Michael H. Price </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. A. Maxwell, <em>Mathematical Gazette</em>, 53 (1969), 312&#150;13 &middot; G. Bell &amp; Sons, <i>Modern mathematical textbooks</i><i>: C. V. Durell</i> (1934) &middot; <i>The schoolmasters' yearbook and directory</i> (1932), 231 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51575&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; private information (2004) &middot; M. H. Price, <i>Mathematics for the multitude? A history of the Mathematical Association</i> (1994) &middot; J. P. Sabben-Clare, <i>Winchester College</i> (1981) &middot; Bell and Hyman, <i>Mathematics catalogue</i> (1986) &middot; b. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51575&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1970)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Bell &amp; Sons, <i>Modern mathematical textbooks</i>, cover<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;200,098&#151;in England: South African probate, 1970, sealed in England, 1970, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael H. Price, &#145;<span class="roman"><span class="headword">Durell,  Clement Vavasor</span>  (1882&#150;1968)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2007 [http://www.oxforddnb.com/view/article/51575, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Clement Vavasor Durell (1882&#150;1968): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51575 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/51575/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

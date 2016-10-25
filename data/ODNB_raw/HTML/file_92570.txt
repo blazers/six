@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 92570;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/92/92570-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/92/92570-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=92570#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Cochran,  William <span class="st"> [Bill]</span></span>  (1922&#150;2003), <span class="occ">physicist</span>, was born at Driffenbeg Farm, a moorland sheep farm near Newton Mearns, Renfrewshire, on 30 July 1922, the only son (there were three daughters) of James Cochrane, later Cochran (1885&#150;1955), farmer, and his wife, Margaret Watson, <i>n&eacute;e</i> Baird (<i>d</i>. 1937). The family had been farmers since about 1650. The eldest and youngest of his sisters married farmers, while his middle sister became a doctor. His father, James, was reserved and somewhat withdrawn, and in the 1920s and 1930s life as a farmer was hard. After a long illness his mother died when his youngest sister was only four.<br>
+<br>In 1928 the family moved to Hillwood Farm, eight miles west of Edinburgh. The headmaster of the local school suggested to his parents that Cochran should go to Boroughmuir secondary school in Edinburgh. Boroughmuir was not one of the &eacute;lite Edinburgh schools, and there was no uniform and little pressure to conform, which suited Cochran. In later life he wondered whether a different school would have given him more self-confidence. Nevertheless he was near the top in his academic subjects and in his fifth year at the school he was encouraged to specialize in physics. He became a student at Edinburgh University in 1939.<br>
+<br>The physics course at Edinburgh was inadequate. The head of department, Charles Barkla, had won the Nobel prize in 1917 for his research on X-rays but did not keep up with developments in quantum mechanics, relativity, and nuclear physics. Cochran graduated in 1943 together with one other student, and hoped to leave Edinburgh. Like most of his contemporaries he applied for a commission in the RAF. For reasons that he never understood he was turned down and told that he should teach physics at Edinburgh, which he did reluctantly as well as studying for a PhD. Unfortunately, like other Edinburgh research students in physics, he had to study the non-existent J-rays with Barkla. After a year he met C. Arnold Beevers, who described X-ray crystallography to him. Cochran requested permission to change supervisor but Barkla refused. The problem was only resolved later in 1944 when Barkla died. Cochran then changed his research topic to X-ray crystallography and obtained his PhD in 1946 for a thesis on the structure of sugar.<br>
+<br>After completing his thesis Cochran left Edinburgh and went to Cambridge, where he took a fixed-term research assistant post. In addition to solving the crystal structures of materials he broadened his interests to include the theory of X-ray diffraction measurements. He also met Max Perutz and John Kendrew, but considered their project to solve the structure of proteins impossibly difficult based on his experience of sugar. In 1950 (by now a university demonstrator in physics) he went for six months to work in Ray Pepinsky's laboratory at Pennsylvania State University. It was a very profitable visit because he met David Sayre and together they developed direct methods of crystal structure determination. On the way back from a conference in Sweden he met Ingegerd Elsa Birgitta Wall, who was trying to practise her English. They later became engaged and married in Sweden in April 1953. They had three children, Margaret, Robert, and Jenny.<br>
+<br>When Cochran returned from Stockholm in 1951 he was promoted to a tenured lecturership at Cambridge and soon became a fellow of Trinity Hall. His research went well and his group solved important crystal structures. In 1952 he also became interested in helical structures. After seeing an incorrect derivation of the scattering he developed a correct solution and realized that one of the materials he was studying had a helical structure. He then realized that his earlier pessimism about protein crystallography had been wrong, but he considered it was too late to join the bandwagon. He also became involved in an argument about the twin paradox in relativity with Herbert Dingle. He enjoyed both the argument and the publicity. His research changed again when he attended a conference at the Massachusetts Institute of Technology in 1957. Bertram Brockhouse gave a talk explaining how it was possible to measure the lattice dynamics of solids using neutron scattering. Cochran was stimulated and arranged to spend a sabbatical at Chalk River in Canada in 1958&#150;9 working with Brockhouse. He developed new models for the lattice dynamics of insulators, performed new experiments, and predicted the soft mode that occurs at structural phase transitions. When he returned to Cambridge he had largely changed the topic of his research.<br>
+<br>Cochran's success at both lattice dynamics and crystallography meant that he was offered chairs at Southampton and Sheffield, but he was determined that he would only move from Cambridge to return to Edinburgh. In 1963 a second chair was advertised there. After discussion, and a rewriting of the particulars, Cochran eventually accepted the chair and moved in 1964. He had considerable difficulties initially, as he was housed in a temporary building, the new X-ray diffractometer did not work, and the rest of the department was similar to when he had left. His research was also much more difficult than in Cambridge, especially when the promised funds for a new physics building were not forthcoming. Nevertheless the situation steadily improved, with new students and staff coming from Cambridge and elsewhere, new equipment arriving for Raman scattering and for Mossbauer experiments, and the completion of the new building two miles south of the city centre. Cochran and his family had a six-month sabbatical in 1970 at Brookhaven where he wrote a monograph on lattice dynamics and participated in some neutron scattering experiments. He came back somewhat dispirited because he had found that Gen Shirane and John Axe were faster than he was at solving problems. In 1972 he and Ingegerd spent the summer at IBM Yorktown Heights where he developed an interest in the structure of amorphous materials, and how X-ray and electron microscopy measurements could be reconciled. He continued with this research for a couple of years.<br>
+<br>In 1975 Norman Feather retired from being professor of natural philosophy and head of department at Edinburgh and Cochran was the obvious person to be elected to the post. There was a shortage of money and it was not a particularly happy time. He enjoyed more his term from 1978 to 1981 as dean of the faculty of science, in which post he was widely admired as being fair and constructive. In 1984 he became a vice-principal and was responsible for a new university-wide telephone system. He retired in 1988, but remained attached to the university as emeritus professor.<br>
+<br>Cochran's scientific research was distinguished because in three areas he made advances that contributed substantially to Nobel prizes won by Francis Crick and James Watson, Jerome Karle and Herbert Hauptman, and Bert Brockhouse. His own contributions were recognized by fellowships of the Royal Society of London (in 1962) and the Royal Society of Edinburgh, and he particularly enjoyed his honorary fellowship of Trinity Hall, Cambridge. He was awarded the Guthrie medal of the Institute of Physics (1966), the Hughes medal of the Royal Society (1978), and the Potts medal of the Franklin Institute (1985), and honorary degrees from both Edinburgh and Heriot-Watt universities.<br>
+<br>Cochran was a proud Scot; he did not believe in independence, but he did enjoy Scottish culture. He wrote poetry, particularly in the style of Robert Burns, first just after he met Ingegerd and later when his research career was ending in 1973. He was interested in his family's genealogy and managed to trace it back to the early 1600s. He greatly enjoyed going to the Trossachs, where he and Ingegerd had first a caravan and then a log cabin, near Callendar. Besides being quiet and modest he was unfortunate in suffering from depression. He had serious bouts when he first went to Cambridge, just after he returned to Edinburgh, and again when his research career was ending. In his last few years he suffered from motor neurone disease but he bore this affliction with characteristic quietness and was lovingly supported by Ingegerd. He died from this disease at the Fairmile Marie Curie Centre, Edinburgh, on 28 August 2003, and was survived by Ingegerd and their three children.<br>
+<br>R. A. Cowley </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Cochran, memoirs, 1980, RS &middot; <em>The Times</em> (10 Oct 2003) &middot; M. M. Wolfson, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=92570&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 51 (2005), 67&#150;85 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=92570&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2003) &middot; personal knowledge (2007) &middot; private information (2007) [Ingegerd Cochran, widow] &middot; b. cert. &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Bird, photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=92570&amp;istheme=&amp;target=RS')">RS</a> &middot; W. Stoneman, photograph, repro. in <i>Memoirs FRS</i>, 68 &middot; photograph, repro. in <i>The Times</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;188,512.81: confirmation, 4 Dec 2003, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. A. Cowley, &#145;<span class="roman"><span class="headword">Cochran,  William </span>  (1922&#150;2003)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2007; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/92570, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Cochran (1922&#150;2003): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/92570 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/92570/2007-01"> [Previous version of this biography available here: January 2007]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

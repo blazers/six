@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 98334;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/98/98334-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/98/98334-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=98334#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Draper,  John</span>  (<em>d.</em> 1552), <span class="occ">Augustinian canon and bishop-suffragan of Winchester</span>, is of unknown origins. From about 1510 he studied at the University of Oxford (probably at St Mary's College, a house of study created for Augustinians in 1435). Some twelve years later, on 21 March 1522, he supplicated for the degree of bachelor of theology. By this time he was already prior of Christchurch Priory, Hampshire, having been elected by acclamation on 31 January 1521. In this he may have had the advantage of kinship to another John Draper, who had been prior from 1477 to 1501. He seems to have attracted the attention of Stephen Gardiner, who on 13 November 1532, less than a year after his own elevation to the see of Winchester, had Draper made bishop of Neapolis, a see <i>in partibus infidelium</i>, so that he could act as suffragan in Gardiner's diocese. He held this position until his death.<br>
+<br>The 1530s were mostly good for Draper. It was common for the priors of Christchurch to supplement their income with the vicarage of Puddletown in Dorset, a living in the gift of their house, and Draper became vicar on 29 January 1536. Later that year, on 24 February, he was instituted as rector of Iwerne Courtney, also in Dorset. Having cultivated good relations with Thomas Cromwell by sending him historical books, including works by Bede and William of Malmesbury, it is perhaps not surprising that in 1538 he was able to style himself king's chaplain.<br>
+<br>But in that same year everything changed for Draper. The <i>valor ecclesiasticus</i> compiled in 1535 had estimated that the priory had a net value of &pound;312 7<i>s</i>. 0&frac14;<i>d</i>. per annum, and although the king's commissioners produced a favourable report in 1537, those of 1538 recommended its dissolution. Draper petitioned to save his house, noting that it acted as a parish church, fed the poor, educated children, and had recently established a daily lecture in divinity. This did not save it, though the priory church did survive to become the parish church (after commissioners had first defaced the chapel erected by Margaret Pole, countess of Salisbury, the last of the Plantagenets, whose son Cardinal Reginald Pole had become a thorn in the king's side). The priory itself, now thought to be worth &pound;519 3<i>s</i>. 6&frac12;<i>d</i>., was officially surrendered to the crown on 28 November 1539.<br>
+<br>Draper was not a man for heroics. The commissioners reported to Cromwell that they found him &#145;honest and conformable&#146;  (<span class="italic">LP Henry VIII</span>, 14/2, no. 627). He was well rewarded for his conformity, receiving a pension of &pound;133 6<i>s</i>. 8<i>d</i>. and the right to occupy the prior's lodgings at Somerford for life, rent-free. Further rewards followed. In 1541 Winchester Cathedral, formerly a monastic establishment, was reconstituted with a secular chapter, in which Draper was appointed canon and prebendary on 28 March. He continued in favour in the reign of Edward VI. On 26 March 1547 he was made warden of the hospital of St Mary Magdalen, Winchester, an office in the gift of the bishop. On 3 June 1551, now styled vice-dean as well as suffragan, he acted as proctor to Archbishop Thomas Cranmer when John Ponet was installed and enthroned by proxy as bishop of Winchester.<br>
+<br>Draper died on 29 September 1552. He had made his will on 6 June 1549 (TNA: PRO, PROB 11/36 fol. 15<i>r</i>&#150;<i>v</i>), bequeathing his soul to &#145;god almighty my Creator and Redemer&#146;. He left money to the prebendaries, minor canons, lay vicars, choristers, and even bell-ringers, of Winchester Cathedral, while the church at Christchurch was given paving stones for its floor and an embroidered coverlet &#145;to lye before the high aulter on the high days&#146;. The poor of Christchurch were to have 3<i>s</i>. 4<i>d</i>. a week for three years. There followed a number of bequests to individuals, some of them his parishioners at Puddletown, while Brixton parish church (on the Isle of Wight, also in the gift of the bishop of Winchester) was left a cloth of gold corporal for use in the eucharist. The residue of Draper's estate was to go to his executors, Francis Trynce and Sir Walter Gurth; probate was granted on 3 February 1553.<br>
+<br>Originally Draper probably intended to be buried in the chantry chapel he commissioned in the late 1520s from the Winchester mason Thomas Bertie. Placed at the east end of the south choir aisle of Christchurch Priory church, its stone screen (which bears Draper's initials and the date 1529) makes striking use of Italianate <i>all'antica</i> decorative motifs, in the context of a structure that remains basically Gothic. But no tomb or altar was ever built inside the chapel, and by the time Draper died the chantries had been dissolved. Perhaps it was for that reason that in his will of 1549 he asked to be buried &#145;before the quere dore there at the hedd of hym that was first Prior there&#146;  (TNA: PRO, PROB 11/36, fol. 15<i>r</i>&#150;<i>v</i>). In 1822 his remains were moved to rest in front of his chapel.<br>
+<br>Michael Riordan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 4.175 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=LP%20Henry%20VIII')"><i>LP Henry VIII</i></a>, vols. 7, 8, 13&#150;16 &middot; <i>Registra Stephani Gardiner et Johannis Poynet, episcoporum Wintoniensium</i>, ed. H. Chitty, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=CYS')">CYS</a>, 37 (1930) &middot; will, TNA: PRO, PROB 11/36, fol. 15 &middot; N. Riall, &#145;<i>All'antica</i> ornament during the first renaissance in England: the case of the Draper chapel at Christchurch Priory&#146;, <em><i>Proceedings of the Dorset Natural History and Archaeological Society</i></em>, 129 (2008), 25&#150;37 &middot; J. Caley and J. Hunter, eds., <i>Valor ecclesiasticus temp. Henrici VIII</i>, 6 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=RC')">RC</a> (1810&#150;34), vol. 2, 18 &middot; K. A. Hanna, ed., <i>The Christchurch Priory cartulary</i>, Hampshire Record Series, 18 (2007) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=Reg.%20Oxf.')"><i>Reg. Oxf.</i></a>, vol. 1 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=CPR')"><i>CPR</i></a>, <i>1550&#150;3</i> &middot; A. R. Bayley, &#145;The last prior of Twynham&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 10/12 (1909), 221&#150;2, 453<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=98334&amp;istheme=&amp;target=BL')">BL</a>, Cotton MS Cleopatra E.iv.267<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> over &pound;55 in bequests: will, TNA: PRO, PROB 11/36, fol. 15<i>r</i>&#150;<i>v</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael Riordan, &#145;<span class="roman"><span class="headword">Draper,  John</span>  (<em>d.</em> 1552)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, May 2010 [http://www.oxforddnb.com/view/article/98334, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Draper (<em>d.</em> 1552): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/98334 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

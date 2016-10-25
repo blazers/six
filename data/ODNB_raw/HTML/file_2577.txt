@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2577;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2577-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2577-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2577#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Blake, Sir  Francis</span>, first baronet  (1707/8&#150;1780), <span class="occ">experimental philosopher</span>, was the son of Robert Blake (<i>d</i>. 1734), landowner, of Twisell, co. Durham, and his wife, Sarah, daughter of Sir Francis Blake MP (1638&#150;1718), of Ford Castle, Northumberland. His father was of Irish origin and belonged to the Blakes of Menlo Castle, co. Galway, who claimed descent from Richard Caddle, a fourteenth-century sheriff of Connaught. His mother's family, though bearing the same name, was descended from minor Hampshire gentry. His maternal grandfather was a substantial and rising landowner who had made good during the Commonwealth and Restoration, and had given the small estate of Twisell to Robert Blake as a marriage settlement.<br>
+<br>Blake was educated at Lincoln College, Oxford, where he matriculated in 1725. On 9 November 1732 he married Isabel (<i>c</i>.1710&#150;1741), daughter of Samuel Ayton of West Herrington; they had two sons and two daughters. He inherited the estate of Twisell on his father's death and held on to it, though his title was challenged by descendants of the Selby family who had owned it until the late seventeenth century. When in London, he appears to have resided at Queen Square, Westminster. He rendered active support to the government during the Jacobite rising of 1745, and was created a baronet on 3 May 1774.<br>
+<br>In 1741 Blake published <span class="italic">An Explanation of Fluxions, in a Short Essay on the Theory</span>. He devoted much of his time to mechanics and experimental philosophy, and was elected a fellow of the Royal Society in 1746. He was an active member of the society during the 1750s and 1760s, serving on a committee set up to examine John Canton's experiments on the compressibility of water, and publishing papers in <span class="italic">Philosophical Transactions</span> on the design of steam engines. He was related to the Delaval family, which included a number of early scientists and industrialists. He died at Tilmouth, Northumberland, on 29 March 1780, and was buried at Houghton-le-Spring, co. Durham. His elder son, Robert, who had been a student at Westminster School, died in 1754 at the age of twenty-one, and was buried in Westminster Abbey, and Blake was succeeded in the baronetcy by his second son, <script>writeSeealsoLink('../view/article/2578/', "Francis Blake (1736/7&#150;1818)")</script>.<br>
+<br>Gordon Goodwin<span class="italic">, rev. </span> Joseph Gross </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Raine, &#145;Pedigree of Blake of Twisell Castle&#146;, <i>The history and antiquities of north Durham</i> (1852), 316 &middot; <i>A history of Northumberland</i>, Northumberland County History Committee, 15 vols. (1893&#150;1940), vol. 11, p. 402 [pedigree of Blake of Ford Castle] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2577&amp;istheme=&amp;target=HoP%2C%20Commons')">HoP, <i>Commons</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2577&amp;istheme=&amp;target=Burke%2C%20Gen.%20GB')">Burke, <i>Gen. GB</i></a> &middot; RS, MS Ca. 2.47 &middot; election certificate, RS &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2577&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; W. Betham, <i>The baronetage of England</i>, 5 vols. (1801&#150;5)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Gordon Goodwin, &#145;<span class="roman"><span class="headword">Blake, Sir  Francis</span>, first baronet  (1707/8&#150;1780)</span>&#146;, rev. Joseph Gross, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/2577, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Francis Blake (1707/8&#150;1780): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2577 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

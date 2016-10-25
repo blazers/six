@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5722;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5722-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5722-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5722#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Clubbe,  William</span>  (<em>bap. </em>1745, <em>d.</em> 1814), <span class="occ">Church of England clergyman and poet</span>, was the seventh son of the <script>writeSeealsoLink('../view/article/5721/', "Revd John Clubbe (c.1703&#150;1773)")</script>, rector of Whatfield, Suffolk, and his wife, Susannah, <i>n&eacute;e</i> Beeston. He was baptized at Whatfield on 16 April 1745, and attended schools at Lavenham and at Hackney, Middlesex. He matriculated in 1762 at Gonville and Caius College, Cambridge, where he was a scholar from 1762 to 1768 and graduated LLB in 1769. In the same year he was instituted to the rectory of Flowton, and in the following year to the vicarage of Brandeston, both in Suffolk. He married Mary, daughter of the Revd William Henchman of Brandeston; they did not have any children.<br>
+<br>In addition to performing his pastoral duties, Clubbe also composed poetry, and his works include: <span class="italic">The Emigrants</span> (1793), <span class="italic">Six Satires of Horace</span> (1795), and <span class="italic">The Epistle of Horace to the Pisos on the Art of Poetry; Translated into English Verse</span> (1797), as well as other miscellaneous translations from the classics, and translations of English works into Latin. He also produced a miscellany entitled <span class="italic">The omnium; containing the journal of a late three days tour in France; &hellip; and other miscellaneous pieces, in prose and verse</span> (1798), and published two works on education, <span class="italic">A Plain Discourse on the Subject of National Education</span> (1812) and <span class="italic">A Plain Discourse on the &hellip; Establishment of a Sunday School</span> (1812).<br>
+<br>Clubbe continued to live at Brandeston until the death of his wife in 1808, when he moved to the home of his youngest brother, Nathaniel, an attorney at Framlingham. Clubbe died on 16 October 1814 at Framlingham and was buried in the churchyard at Brandeston.<br>
+<br>Thompson Cooper<span class="italic">, rev. </span> Rebecca Mills </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a>, 2/2.73 &middot; <i>The Suffolk garland, or, East country minstrel</i> (1818), 365&#150;7 &middot; H. R. Luard, ed., <i>Graduati Cantabrigienses</i>, 6th edn (1873), 104 &middot; A. Page, <i>A supplement to the Suffolk traveller</i> (1844), 82 &middot; [J. Watkins and F. Shoberl], <i>A biographical dictionary of the living authors of Great Britain and Ireland</i> (1816) &middot; [D. Rivers], <i>Literary memoirs of living authors of Great Britain</i>, 1 (1798), 103 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 40 (1770), 280 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 84/2 (1814), 507 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=Allibone%2C%20Dict.')">Allibone, <i>Dict.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=Watt%2C%20Bibl.%20Brit.')">Watt, <i>Bibl. Brit.</i></a>, 1.241 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 19167, fol. 78; 19209, fol. 160b
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5722&amp;istheme=&amp;target=BL')">BL</a>, travel journal, verses, and translations, Add. MSS 19197, 19201<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Thompson Cooper, &#145;<span class="roman"><span class="headword">Clubbe,  William</span>  (<em>bap. </em>1745, <em>d.</em> 1814)</span>&#146;, rev. Rebecca Mills, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/5722, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Clubbe (<em>bap. </em>1745, <em>d.</em> 1814): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5722 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

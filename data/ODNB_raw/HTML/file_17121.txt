@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 17121;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/17/17121-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/17/17121-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=17121#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Lucar,  Cyprian</span>  (1544&#150;1611?), <span class="occ">author</span>, was born in London, the eldest of several sons and a daughter of Emanuel Lucar (1494&#150;1574) and his second wife, Joan, daughter of Thomas Turnbull. Emanuel Lucar's forebears had their roots in the west country but he and his family lived in the parish of St Botolph, Billingsgate, in the city of London. He was an active and generous member of the Merchant Taylors' Company and its master in 1560&#150;61, the year in which Merchant Taylors' School was founded. He was one of the merchants who by Protector Somerset's order accompanied the lord mayor to Greenwich in support of a plot to place Lady Jane Grey on the throne, but suffered no punishment under Queen Mary for this act. He was a juryman at the trial of Sir Nicholas Throckmorton for complicity in the insurrection led by Sir Thomas Wyatt the younger in 1554, which sought to prevent the marriage of Mary with Philip of Spain. Throckmorton was found not guilty and in consequence the jurymen were summoned to the Star Chamber and committed to prison, Emanuel Lucar to the Tower of London, to be released on payment of &pound;1000 fine, his fellow jurymen to the Fleet.<br>
+<br>Cyprian Lucar was admitted scholar of Winchester College in 1555 and was at New College, Oxford, in 1561&#150;3. In 1568 he entered Lincoln's Inn. He was still living with his widowed mother, brothers, and sisters in St Botolph's Lane at the time when he and Richard Madox paid a visit to Robert Norman, about 1581, to see his new magnetic dipping needle. The date of his marriage to Joan is unknown. She survived him, as did their son Anthony, who entered the Middle Temple, and his brother Mark, who succeeded to family property in Somerset.<br>
+<br>In 1588 Lucar published <span class="italic">Three Bookes of Colloquies concerning the Arte of Shooting in Great and Small Peeces of Artillerie</span>, a translation of the first systematic treatise on ballistics written by Niccol&ograve; Tartaglia in 1537. Lucar himself contributed an appendix, somewhat longer than the original Italian text, containing allied material from some twenty continental and five English authors. In fact Lucar had been anticipated by William Bourne, whose <span class="italic">Arte of Shooting in Great Ordnaunce</span> (1587) was based on Tartaglia. Lucar also produced <span class="italic">A Treatise Named Lucarsolace</span>, a small volume on current surveying practice, illustrating the instruments and methods used, and including aspects of estate management. It was dedicated to William Roe, alderman of London, who had married Lucar's sister.<br>
+<br>Lucar's death probably occurred in 1611; his will, proved that year, described him as &#145;of Isleworth in Middlesex&#146;  (TNA: PRO, PROB 11/118). In it he requested that he be buried in St Botolph, Billingsgate, alongside his parents.<br>
+<br>Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>T. F. Kirby, <i>Winchester scholars</i><i>: a list of the wardens, fellows, and scholars of &hellip; Winchester College</i> (1888), 133 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17121&amp;istheme=&amp;target=Reg.%20Oxf.')"><i>Reg. Oxf.</i></a>, 2/2.21 &middot; will, TNA: PRO, PROB 11/118 &middot; W. P. Baildon, ed., <i>The records of the Honorable Society of Lincoln's Inn</i><i>: admissions</i>, 1 (1896), 75 &middot; E. G. R. Taylor, <i>The mathematical practitioners of Tudor and Stuart England</i> (1954), 175&#150;6, 328, 330 &middot; C. M. Clode, <i>The early history of the Guild of Merchant Taylors of the fraternity of St John the Baptist, London</i>, 2 vols. (1888) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17121&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 176 (1939), 37 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17121&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=17121&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Anita McConnell, &#145;<span class="roman"><span class="headword">Lucar,  Cyprian</span>  (1544&#150;1611?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/17121, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Cyprian Lucar (1544&#150;1611?): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/17121 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/17121/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

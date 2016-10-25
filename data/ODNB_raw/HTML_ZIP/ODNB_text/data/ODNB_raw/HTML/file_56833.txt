@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56833;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56833-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56833-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56833#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Channing,  John</span>  (<em>c.</em>1703&#150;1775), <span class="occ">apothecary and Arabist</span>, was born in London, the first child of John Channing (<i>d</i>. 1725), a London apothecary, and his first wife, Elizabeth (<i>d</i>. 1705), daughter of Robert Erle of Sturminster Marshall, Dorset. Channing was apprenticed to his father on 5 August 1718, and was made a freeman of the Society of Apothecaries on 6 September 1726. Shortly thereafter he is recorded as proprietor of an apothecary shop beyond Temple Bar. In 1745 he bought property on Essex Street, off the Strand, where he maintained a shop until his death.<br>
+<br>For thirty years Channing actively participated in the Society of Apothecaries, and he became master in 1771. During this time he edited two medieval Arabic medical texts, which were among the earliest Arabic treatises printed in England. <span class="italic">Rhazes de variolis et morbilis</span>, a treatise on smallpox and measles written in the tenth century by al-Razi (known in Europe as Rhazes), was published by William Bowyer in London in 1766. The second treatise, <span class="italic">Albucasis de chirurgia</span>, a surgical section of a tenth-century medical encyclopaedia by al-Zahrawi (known in Latin as Albucasis), was published posthumously in 1778. Both publications give the Arabic texts with Latin translations and display a remarkable knowledge of Arabic, Persian, Hebrew, Latin, and Greek. They remain fine monuments of early modern historical scholarship.<br>
+<br>Where Channing acquired his knowledge of oriental languages is unknown, for he was not university trained, nor is it known what motivated his interest in medieval Arabic medicine. It is evident that he was acquainted with Charles Yorke, the future lord chancellor, for he dedicated his edition of Rhazes to Yorke, acknowledging his assistance in obtaining a copy of a manuscript. It is also evident from the preface to that publication that he had been befriended by Thomas Hunt, the Laudian professor of Arabic and regius professor of Hebrew at Oxford. The circumstances in which Hunt, a don at Oxford, came to know Channing, an apothecary in London, are unknown. Hunt proved instrumental in obtaining permission for Channing to use the Bodleian Library and in having the Oxford University Press print his second Arabic text. From the records of the Bodleian Library it is evident that Channing used the library every year from 1759 until 1775, making one or two trips annually to Oxford.<br>
+<br>Among Channing's other acquaintances was Sir William Watson, who assisted him in finding Arabic fonts with which to print the Rhazes text. Through Watson, Channing's translation and commentary on some Arabic correspondence regarding medicinal substances was published in the <span class="italic">Philosophical Transactions</span> of 1767. Channing also prepared Arabic translations for the surgeon William Hunter, and he was a friend of Samuel Richardson, reading <span class="italic">Clarissa</span> prior to its publication.<br>
+<br>By 1746 Channing had married Elizabeth Channing (1705&#150;1768), daughter of Richard Channing of Cruxton, Dorset. She died on 30 September 1768 in a coach accident outside Oxford and was buried in Christ Church Cathedral. At the time of her death she was apparently visiting their only son (also named John Channing), who was a student at Christ Church.<br>
+<br>Little is known of Channing's personal life. From the fact that his son was baptized in the Fetter Lane Church and the rector of St Clement Danes subsequently refused to sign the birth certificate, it appears that Channing was a nonconformist. It is evident that he had considerable financial resources at his disposal, presumably from the lucrative practice on Essex Street, a fashionable area of London in his day. After his death in London on 19 November 1775 he was buried at Harrow on the Hill. His considerable library, including Arabic manuscripts, was auctioned in two sales.<br>
+<br>Channing led two distinct lives: he was both a prosperous London apothecary and a dedicated scholar of oriental languages. As a prominent apothecary, his death was noted by a number of London newspapers, but none mentioned his pioneering work as an Arabist.<br>
+<br>Emilie Savage-Smith </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. Savage-Smith, &#145;John Channing: eighteenth-century apothecary and Arabist&#146;, <em>Pharmacy in History</em>, 30 (1988), 63&#150;80 &middot; J. G. L. Burnby, &#145;John Channing: Arabist and apothecary&#146;, <em>Pharmaceutical Historian</em>, 18/4 (1988), 4&#150;6 &middot; J. Burnby and C. Gordon, &#145;The two Johns: Channing and Pringle&#146;, <em>Pharmaceutical Historian</em>, 22/4 (1992), 8&#150;9 &middot; GL, Society of Apothecaries MSS, 8200/5; 8200/6, fol. 5<i>r</i>; 8207, fol. 18<i>r</i> &middot; Bodl. Oxf., MS Library records e.560, e.562 &middot; T. C. D. Eaves and B. D. Kimpel, <i>Samuel Richardson</i><i>: a biography</i> (1971) &middot; <em>Morning Chronicle</em> (21 Nov 1775) &middot; <em>General Evening Post</em> (18&#150;21 Nov 1775) &middot; <em>London Evening-Post</em> (21&#150;3 Nov 1775) &middot; <em>Middlesex Journal and Evening Advertiser</em> (18&#150;21 Nov 1775) &middot; parish records (burial), 25 Nov 1775, church of Harrow on the Hill &middot; TNA: PRO, MS RG4/4236 &middot; TNA: PRO, MS RG5/1, no. 44 &middot; Christ Church Oxf., MS D and C, ix.b.1., fol. 52<i>r</i> &middot; <em>Baker and Leigh sale catalogue</em> (11 May 1778) &middot; <em>Baker and Leigh sale catalogue</em> (Dec 1777) &middot; TNA: PRO, PROB 11/1014<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56833&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 4302&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56833&amp;istheme=&amp;target=U.%20Glas.%20L.')">U. Glas. L.</a>, Farmer MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> books and papers auctioned<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Emilie Savage-Smith, &#145;<span class="roman"><span class="headword">Channing,  John</span>  (<em>c.</em>1703&#150;1775)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/56833, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Channing (<em>c.</em>1703&#150;1775): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56833 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/56833/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

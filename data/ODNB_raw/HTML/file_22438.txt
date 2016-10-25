@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22438;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22438-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22438-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22438#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pogson,  Norman Robert</span>  (1829&#150;1891), <span class="occ">astronomer</span>, was born in Nottingham on 23 March 1829. His father, George Owen Pogson, hosiery and lace manufacturer, had him educated privately, intending that he should go into commerce, but at the age of sixteen Pogson went to London to pursue a career in science. He subsisted for four years by teaching mathematics while learning astronomy from his friend and townsman John Hind, observer at George Bishop's Regent's Park observatory. Although on a drudge's stipend, on 1 January 1850 Pogson married Elizabeth Jane (1829&#150;1869), the daughter of Charles Ambrose, a teacher in the same parish of St Pancras&#151;so perhaps Pogson's employer. Their first child, Norman Everard Pogson, was born early in 1851.<br>
+<br>In the summer of 1850 Pogson was appointed Hind's assistant, to help make ecliptic charts, and in October 1851 he joined the Radcliffe Observatory, Oxford, as Manuel Johnson's second assistant. He borrowed from John Lee an unwieldy 3.75 inch aperture refracting telescope, and in his leisure hours, having by 1858 constructed seven charts extending to magnitude 12, discovered three minor planets (for the discovery of Isis in 1856 he was awarded the Lalande medal) and ten variable stars. In 1854 he was seconded to help the astronomer royal, George Airy, in the Harton colliery experiments to determine the density of the earth. Airy was impressed by his efficiency and gentlemanly manner.<br>
+<br>Pogson was one of the earliest systematic observers of variable stars. This led to his defining the photometric scale, for which he remains best known. He estimated the relative brightness of a variable star in decimal tenths of a magnitude (unit of light). He then needed a ratio between the apparent magnitude of each star and the next above or below, and believed that it was logarithmically proportional to the brightness. Needing a precise scale extending to faint stars, in 1856 he proposed that a difference of five magnitudes should correspond exactly to a brightness ratio of 100 to 1. This remained a footnote to two of his papers until used in the 1870s by Harvard and Oxford astronomers. The Pogson scale was adopted internationally in 1906.<br>
+<br>In January 1859 Pogson became director of Lee's Hartwell observatory, equipped with its excellent 5.9 inch equatorial. Variable stars were the priority, and Lee would publish Pogson's charts. In 1860 Pogson independently discovered a nova, T Scorpio, and in two years sent fourteen papers to the Royal Astronomical Society (RAS) and several to the British Association for the Advancement of Science (BAAS).<br>
+<br>In February 1860 the Pogsons had their sixth child. Pogson was &#145;tormented by justly clamorous creditors&#146;, and an advance by Lee only delayed &#145;approaching ruin&#146;  (Pogson to Lee, 18 May 1860, LPL, Lee MSS, fol. 26). Elected a fellow of the RAS, he could not afford the fee. The only hope was the vacant Radcliffe observership worth &pound;500, but Lee withheld a testimonial. Pogson's first letter seeking support from Sir John Herschel was obsequious; his third was a tactless criticism of the recently deceased Manuel Johnson; his fifth was a sweeping critique of Lee. In July, Airy's assistant Robert Main was appointed, and Pogson's first creditor moved to sue. That month the government astronomer in Madras resigned because the salary&#151;equivalent to &pound;800&#151;was inadequate for a family man and the observatory had become dilapidated. Unaware of these drawbacks, on 24 September Pogson asked Airy to recommend him. Pogson mentioned Madras to Lee as financial succour, but &#145;a great risk to my wife and certain death to the poor children&#146;  (Pogson to Lee, 27 Sept 1860, ibid., fol. 49). Lee, believing him unbusinesslike, ignored the mute plea. In October Pogson was appointed. In January 1861 Airy's &#145;grateful humble prot&eacute;g&eacute;&#146;  (CUL, RGO 6.146.7, 217) sailed with his wife, two daughters, and infant son, leaving the three elder boys with their grandparents and Pogson's sister Mary Anne in Manchester.<br>
+<br>At Madras, Pogson aspired to be the Argelander of the south by making a southern sky catalogue. He needed a good equatorial telescope, but his imprecise negotiations with London craftsmen and officials created a mess for Airy and waste and annoyance to the Madras government. The climate was exhausting, there was great difficulty with the meridian circle, everything rotted, and official duties left him &#145;half beside myself&#146;  (CUL, RGO 6.147.4, 119). In 1865 Airy lent him a good refractor.<br>
+<br>Between 1862 and 1887 Pogson's Indian first assistant, C. Ragoonatha Charry, made most of the 51,101 observations of 5303 stars for the catalogue, and from 1872 Pogson had an excellent second assistant, L. Moghansing. But the drought and famine of 1876&#150;7 created heavy demands for meteorology, delaying publication of the astronomical observations for 1862 to 1870 until 1887&#150;90.<br>
+<br>Pogson's second aim was to complete an elaborate atlas for each of 134 variable stars to magnitude 12 in both hemispheres. He worked on this from 1853 until 1882, and at Madras discovered five more minor planets, a comet (1872), and eight variable stars by 1877. The project was &#145;too vast&#146; for one man  (Hagen, 60), but his &#145;invaluable&#146;  (Turner, 1904) observations of thirty-one variables were published in 1908.<br>
+<br>Pogson published more than fifty papers in <span class="italic">Monthly Notices</span> and other periodicals, as well as reports to the government and the BAAS. In 1868, at Masulipatam, using a spectroscope during the eclipse, he was the first to observe the bright line spectrum of the corona; he also observed hydrogen in the prominences. At the end of an annular eclipse in June 1872 he confirmed the 1870 discovery of a reversing layer in the solar atmosphere by making a tangential spectroscopic observation. But he was in an impossible position. Head of a government department, but reduced to a &#145;fifth-rate place&#146;  (Tennant, 1891), Pogson had no prospects, and could not afford a home leave. His pleas for a European assistant were ignored. In 1866 Pogson fell ill with typhoid. His eldest son, Norman, arrived in April 1869 and assisted for sixteen months without salary. Meanwhile his &#145;inestimable and intensely loved&#146; wife, Elizabeth, died on 5 November 1869, aged forty, leaving eleven children  (CUL, RGO 6.150, 22). Then his son Norman died in 1874. &#145;[D]epressed beyond all hope &hellip; shabbily treated&#146;  (Pogson to Stewart, 30 June 1877, CUL, RGO 6.152, 192), in 1878 Pogson sought the vacant Radcliffe observership, which presented a rare opportunity. To Airy he exaggerated the state of his catalogue reductions and variable star atlas. But Oxford's professor of astronomy, Charles Pritchard, influenced against him. Airy damned him with faint praise, and ensured that Edward Stone at the Cape, his Cambridge-educated former assistant, was appointed.<br>
+<br>On 25 October 1883 Pogson married Edith Louisa Stopford, the daughter of a colonel; they had three children, of whom one died in infancy. Pogson was in poor health from early 1889, and seriously ill by early May 1891; for the transit of Mercury that month he roused himself, and his wife&#151;who had a salary as assistant to the astronomer&#151;observed with the 8 inch refractor. Pogson died at the observatory on 23 June 1891. Edith resigned a month later. Friends subscribed for a memorial plaque in Madras Cathedral, and to educate Pogson's youngest son, aged six.<br>
+<br>Pogson's exceptional observing skills and financial need led him to overambitious plans. His successor found the records in perfect order, the meridian observations good, but calculations by the Indian computers completely unreliable. In the 1880s photography made commonplace the discoveries on which Pogson prided himself. He discovered that lack of Cambridge mathematics precluded directing a British public observatory, but did not appreciate the effect of his lack of management skills and tact.<br>
+<br>
+<a name="cosubject_57784"></a><span class="headword">(Elizabeth) Isis Pogson</span>  (1852&#150;1945), <span class="occ">astronomer and meteorologist</span>, was born on 28 September 1852 at Observatory Street, Oxford, the eldest daughter of Pogson and his first wife, and named after the nearby river. After helping to look after her siblings, in 1873 Isis, &#145;a delicate invalid, [became an] invaluable aid upon a salary of Rupees 150 [&pound;15] per month; equal &hellip; to a coachman or cook&#146;  (Pogson to Stewart, 30 June 1877, CUL, RGO 6.152, 192). She supervised work on astronomical reductions. In 1881, as Pogson was neglecting the meteorology which the local government considered important, Isis became meteorological reporter to the Madras government, a salaried position, but not pensionable. In 1886 Pogson nominated her for fellowship of the RAS, but, faced with constitutional objection, she withdrew her name. After 1891 a Royal Society committee considered the future of the observatory. It was decided to enable her to complete twenty-five years' meritorious service in 1898 so that she could be retired on a pension of Rs 250 when the observatory closed and the solar physics observatory at Kodaikanal was opened. She then married Herbert C. Kent, a captain in the merchant navy. They retired first to Bournemouth, and then to London. Beyond reports to the Bombay presidency, Isis published no scientific papers, but Professor H. H. Turner successfully proposed her for election as a fellow of the RAS in 1920. A widow, she died at 14 Duppas Hill Road, Croydon, Surrey, on 14 May 1945.<br>
+<br>Roger Hutchins </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. E. Plummer, &#145;Norman R. Pogson&#146;, <em>Nature</em>, 44 (1891), 205&#150;6 &middot; A. D. Thackeray, <i>The Radcliffe Observatory, 1772&#150;1972</i> (1972), 11 &middot; <em>The Observatory</em>, 14 (1891), 267&#150;9, 274, 360 &middot; <i>Men and women of the time</i> (1891), 724 &middot; J. G. Hagen, &#145;Note on Pogson's manuscripts, relating to his proposed &#147;Atlas of variable stars&#148;&#146;, <em>Monthly Notices of the Royal Astronomical Society</em>, 59 (1898&#150;9), 57&#150;61 &middot; C. L. Brook, ed., &#145;Pogson's observations of thirty-one variable stars&#146;, <em>Memoirs of the Royal Astronomical Society</em>, 58 (1908) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22438&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; G. B. Airy, &#145;Testimonial on N. R. Pogson, 8/7/1878&#146;, for the Radcliffe trustees, Bodl. Oxf., MSS Radcliffe Trust, MS DD Radcl. C40 &middot; M. W. Burke-Gaffney, &#145;Pogson's scale and Fechner's law&#146;, <em>Journal of the Royal Astronomical Society of Canada</em>, 57 (1963), 3&#150;7 &middot; D. B. Hermann, &#145;N. R. Pogson and the definition of the astrophotometric scale&#146;, <em>Journal of the British Astronomical Association</em>, 87 (1976&#150;7), 146&#150;9 &middot; J. B. Hearnshaw, &#145;Origins of the stellar magnitude scale&#146;, <em>Sky and Telescope</em>, 84 (1992), 494&#150;9 &middot; D. M. Salwi, &#145;Madras observatory&#146;, <em>Journal of the British Astronomical Association</em>, 98 (1987&#150;8), 189&#150;93 &middot; <em>Monthly Notices of the Royal Astronomical Society</em>, 80 (1919&#150;20), 336 &middot; <i>History of the Royal Astronomical Society</i>, [1]: <i>1820&#150;1920</i>, ed. J. L. E. Dreyer and H. H. Turner (1923); repr. (1987), 233 &middot; <em>Monthly Notices of the Royal Astronomical Society</em>, 20 (1859&#150;60), 145&#150;6 &middot; A. M. Clerke, <i>A popular history of astronomy during the nineteenth century</i>, 4th edn (1902), 168, 172, 395 &middot; corresp. with John Lee, LPL, Lee MSS &middot; correspondence with G. B. Airy, CUL, Royal Greenwich Observatory papers &middot; &#145;Madras observatory reports&#146;, <em>Monthly Notices of the Royal Astronomical Society</em> (1863&#150;1900) &middot; H. H. Turner, &#145;Pogson's variable stars&#146;, confidential circular for council, Oxford, 3 May 1904, RAS, RGO 7.243 &middot; No. 56 of 1897, Government of India etc., Meteorology, to secretary of state, Simla, 1 Sept 1897, RGO 7.159, Indian observatories committee [3, para 8 (re Miss Pogson)] &middot; N. R. Pogson, letter to R. C. Stewart, Adj. Gen., Madras, 30 June 1877, CUL, RGO 6.152, 192 [official grievances and obstructions etc.] &middot; J. F. Tennant, letter to W. H. M. Christie, 2 July 1891, CUL, RGO 7.159, Indian observatories committee &middot; N. R. Pogson, &#145;C. Ragoonatha Charry&#146;, <em>Madras Mail</em> (7 Feb 1880) [also RGO 6.154, 95 in CUL] &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Harvard College observatory, Cambridge, Massachusetts, catalogues of variable star observations, maps, notes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22438&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>, notebooks
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22438&amp;istheme=&amp;target=RAS')">RAS</a>, letters; observations and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22438&amp;istheme=&amp;target=LPL')">LPL</a>, corresp. with John Lee
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22438&amp;istheme=&amp;target=RAS')">RAS</a>, letters to John Russell Hind
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22438&amp;istheme=&amp;target=RS')">RS</a>, Herschel MSS, letters 17/3/1860 to 15/4/1861, HS 14.1&#150;12<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22438&amp;istheme=&amp;target=RAS')">RAS</a>; repro. in Salwi, &#145;Madras observatory&#146;<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Roger Hutchins, &#145;<span class="roman"><span class="headword">Pogson,  Norman Robert</span>  (1829&#150;1891)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22438, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Norman Robert Pogson (1829&#150;1891): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22438 
+                <br />
+
+                
+
+ (Elizabeth) Isis Pogson (1852&#150;1945): doi:10.1093/ref:odnb/57784<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

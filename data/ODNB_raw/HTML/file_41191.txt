@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 41191;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/41/41191-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/41/41191-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=41191#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Preston,  Thomas</span>  (<em>fl. </em>1542&#150;1559), <span class="occ">composer</span>, is an obscure figure; documentary sources from Oxford, Cambridge, and Windsor omit the first name. He is known as an important composer of organ music for the Catholic liturgy. A Preston was master of the choristers at Magdalen College, Oxford, in 1542&#150;3, and the same name is found in the archives of Trinity College, Cambridge, in the years 1548&#150;59. He originally appears there as a college servant (though probably as organist); later lists show him among the chapel staff, and it is clear that by 1554&#150;5, at least, he was in charge of the newly established choristers and at the head of the singing-men. In 1558 and 1559 he received payments among allowances due to absent fellows. In 1558&#150;9 a man of the same name appears as clerk, organist, and &#145;instructor choristarum&#146; at St George's, Windsor, where Marbeck was similarly employed as &#145;magister choristarum&#146; (&#145;supervisor of the choristers&#146;) in that period. &#145;Prestonus, in oppido Vindelisoriensi&#146; is listed, along with Sebastian (Westcote) of St Paul's and Thorne of York, in Nicholas Sander's <span class="italic">De visibili monarchia ecclesiae</span> (1571) as a musician ejected from office for confessing the papal primacy. Although this assertion requires qualification in Westcote's case, there is indeed no subsequent documentary record of a musician named Preston. The will of a Thomas Preston of Sawston in Cambridgeshire, proved at the consistory court of Ely on 26 April 1564, cannot be shown to be that of the composer.<br>
+<br>Apart from the will, none of this documentation is intrinsically unlikely to refer to Thomas Preston the composer. A move from a responsible post at Magdalen to what appears to be the corresponding one at Trinity is not difficult to account for. The evidence from Trinity and Windsor is also easily reconciled, and almost certainly concerns Thomas Preston. It probably does not relate to John Preston, organist of the parish church of St Dunstan-in-the-West, London, in 1544&#150;5, though it may be he, rather than Thomas, who wrote the work attributed to &#145;Preston&#146; in the earliest section of BL, Add. MS 29996. All the organ music attributed explicitly or implicitly to Thomas Preston survives uniquely in a later section of the same manuscript.<br>
+<br>The style of Thomas Preston's organ music is consistent with compositional activity in the reign of Queen Mary. It is all conceived for performance in the Catholic liturgy, unless, as is likely, he also wrote the anonymous non-liturgical piece &#145;Uppon la mi re&#146; in the same manuscript. Other than this, sixteen works for organ exist, the last incomplete and hence without attribution. Much of it is densely contrapuntal in idiom. Two ensemble pieces survive: an <span class="roman">In nomine</span> for strings and a three-part setting of the faburden of the hymn <span class="italic">O lux beata trinitas</span>. Apart from the intrinsic interest of his music, Preston was an innovator who influenced John Bull and Thomas Tomkins, the latter of whom owned the manuscript in which all of Preston's known keyboard music survives.<br>
+<br>John Caldwell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. Mateer, &#145;Further light on Preston and Whyte&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=41191&amp;istheme=&amp;target=MT')"><i>MT</i></a>, 115 (1974), 1074&#150;7 &middot; I. Payne, <i>The provision and practice of sacred music at Cambridge colleges and selected cathedrals, c.1547&#150;c.1646</i> (1993), esp. 276&#150;8 &middot; E. H. Fellowes, <i>Organists and masters of the choristers of St George's Chapel in Windsor Castle</i> (1939), pp. 22&#150;3 and pl. 4 &middot; N. Sanders, <i>De visibili monarchia ecclesiae</i> (Louvain, 1571), 702 &middot; T. Morley, <i>A plaine and easie introduction to practicall musicke</i> (1597), 96 &middot; F. L. Harrison, <i>Music in medieval Britain</i> (1958), 192, 217, 364&#150;6, 394&#150;5 &middot; J. R. Bloxam, <i>A register of the presidents, fellows &hellip; of Saint Mary Magdalen College</i>, 8 vols. (1853&#150;85), vol. 2, p. 190 &middot; D. Stevens, &#145;Thomas Preston's organ mass&#146;, <em>Music and Letters</em>, 39 (1958), 29&#150;34 &middot; J. Caldwell, <i>English keyboard music before the nineteenth century</i> (1973), 21&#150;2, 32&#150;7, 49&#150;51 &middot; J. Caldwell, ed., <i>Early Tudor organ music</i>, 1: <i>Music for the office</i>, Early English Church Music, 6 (1966) &middot; D. Stevens, ed., <i>Early Tudor organ music</i>, 2: <i>Music for the mass</i>, Early English Church Music, 10 (1969) &middot; P. Doe, ed., <i>Elizabethan consort music</i>, 1, Musica Britannica, 44 (1979)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Caldwell, &#145;<span class="roman"><span class="headword">Preston,  Thomas</span>  (<em>fl. </em>1542&#150;1559)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/41191, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Preston (1542&#150;1559): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/41191 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

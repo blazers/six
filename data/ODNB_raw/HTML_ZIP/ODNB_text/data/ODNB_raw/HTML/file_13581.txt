@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13581;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13581-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13581-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13581#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Holman,  William</span>  (<em>bap. </em>1669, <em>d.</em> 1730), <span class="occ">county historian</span>, was baptized on 15 December 1669, at Whitchurch Canonicorum, Dorset, the son of William Holman. He had migrated to London by 1690, when he was received into the Stepney Independent meeting, as &#145;chaplain to Mr Fletcher&#146;  (<span class="italic">Holman's Halstead</span>, vii). In 1700 he became pastor of the Old Independent Chapel, Parsonage Street, Halstead, Essex, where he ministered successfully until his death. His congregation, which in 1716 numbered 500, including 39 county voters and 13 gentlemen, built a new chapel in 1718.<br>
+<br>From 1708 to 1728 Holman lived in the Chantry House, High Street, Halstead, formerly part of Bourchier's chantry or college (founded 1412; dissolved 1551), a fitting home for an antiquary. About 1711 he began compiling a history of Halstead and the surrounding hundred of Hinckford, under the patronage of John &#145;Carcase&#146; or &#145;Merchant&#146; Morley of Munchensies (now Blue Bridge House), Halstead, butcher, land-jobber, and agent to Robert Harley, earl of Oxford.<br>
+<br>Holman entered into the labours of earlier Essex antiquaries, particularly Thomas Jekyll, a king's bench official with a country house at Bocking, Essex, who had collected from the public records many references to Essex, Norfolk, and Suffolk. Most of Jekyll's manuscript notes had passed to his grandson Nicholas Jekyll of Castle Hedingham, Essex, who put them at the disposal of John Ouseley, rector of Panfield, and later of Springfield and Little Waltham, all in Essex. Ouseley planned a history of Essex, which by 1695 was said to be well advanced, but it never appeared. His death opened the way for a younger historian. Holman, encouraged and helped by Nicholas Jekyll, acquired much of Thomas Jekyll's Essex collection, and also that of Ouseley. With financial backing from John Morley, and also, it seems, from Lord Oxford, he extended his studies to the whole of Essex, undertaking fieldwork as well as documentary research, and corresponding with the antiquaries Peter Le Neve and Thomas Wotton, and in Essex with Thomas Cox, William Derham, Charles Gray of Colchester, and Anthony Holbrook, Ouseley's son-in-law. Humfrey Wanley, Lord Oxford's librarian, gave Holman advice and hospitality, receiving in return original documents and gifts of oysters. Holman's principal assistant over many years was the apothecary and physician Samuel Dale, who sent him manuscripts, pedigrees, and notes from parish registers, and toured the country on horseback, recording monumental inscriptions.<br>
+<br>Holman planned a history of Essex consisting mainly of brief histories of each of the 400 parishes, arranged under hundreds. His friends urged publication, but this had not begun when he collapsed and died on 4 November 1730 in the porch of Colne Engaine church, near Halstead. He had been hampered by gout, and, it seems, by lack of experience in writing and publishing, by preoccupation with the details of inscriptions, and by a stubborn refusal to be rushed. He left behind, besides many letters and papers, a set of manuscript booklets containing annotated histories of nearly all the parishes in the county, in each of which is given the <span class="roman">Domesday</span> references, the descents of the manors, the parochial charities, and the history of the church and its monuments. The set does not, however, include the ancient borough of Colchester, then the largest town in Essex.<br>
+<br>Holman was buried in the chapel where he had ministered, and where his wife, Rebekah (<i>d</i>. 1727), already lay. Their son William (<i>d</i>. 1748) and his wife, Francis (<i>d</i>. 1770), are also buried there. All four are commemorated by a stone tablet in the present United Reformed church in Parsonage Street.<br>
+<br>Holman's Essex collection was later used by the antiquaries Nicholas Tindal, Nathanael Salmon, and Philip Morant, whose <span class="italic">History and Antiquities of the County of Essex</span> was based mainly on Holman's parish booklets. Holman's history of <span class="italic">Halstead</span> was published finally in 1902, with a memoir by T. G. Gibbons.<br>
+<br>W. Raymond Powell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Essex RO, Holman MSS, D/Y 1 &middot; W. Holman, &#145;History of Essex&#146;, Essex RO, T/P 195 &middot; <i>Holman's Halstead</i>, ed. T. G. Gibbons (1902) &middot; C. F. D. Sperling, <em>Essex Review</em>, 3 (1894), 261&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13581&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Essex</i>, bibliography [articles in <i>Essex Review</i>] &middot; C. E. Cobbold, &#145;The writing of Essex county history, <i>c</i>.1600&#150;1768&#146;, <em>Essex Journal</em>, 8 (1973), 2 &middot; P. Morant, <i>The history and antiquities of the county of Essex</i>, 2 vols. (1768); repr. with introduction by G. H. Martin (1978) &middot; W. J. Evans, <i>Old and new Halstead</i> (1886) &middot; W. F. Monk and others, <i>Congregationalism in Halstead, 1662&#150;1962</i> (1962) &middot; R. C. Fowler, &#145;The college of Halstead&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13581&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Essex</i>, 2.192&#150;3 &middot; D. W. Clark, &#145;The college of Halstead or Bourchier's chantry&#146;, <em>Transactions of the Essex Archaeological Society</em>, new ser., 14 (1915&#150;17), 311&#150;37 &middot; <i>Blue Bridge House, Halstead</i> (<i>c.</i>1970)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13581&amp;istheme=&amp;target=BL')">BL</a>, genealogy of the Harley family, Add. MS 70468
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13581&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, Essex collections
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13581&amp;istheme=&amp;target=Essex%20RO')">Essex RO</a>, catalogue of Nicholas Jekyll papers; corresp. and antiquarian papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13581&amp;istheme=&amp;target=BL')">BL</a>, misc. letters to Thomas Wotton and others
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13581&amp;istheme=&amp;target=BL')">BL</a>, Holman's catalogue of MSS of Nicholas Jekyll, Egerton MS 2382, fols. 153&#150;176<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. Raymond Powell, &#145;<span class="roman"><span class="headword">Holman,  William</span>  (<em>bap. </em>1669, <em>d.</em> 1730)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13581, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Holman (<em>bap. </em>1669, <em>d.</em> 1730): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13581 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

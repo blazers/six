@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 3173;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/3/3173-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/3/3173-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=3173#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Brade,  William</span>  (<em>c.</em>1560&#150;1630), <span class="occ">violinist and composer</span>, spent much of his working life in Germany, where he made a considerable impact as a player, teacher, and composer. He held numerous court positions, principally in Denmark and with various members of the Brandenburg and Brunswick dynasties. Brade spent about four years at the Brandenburg court before travelling to Copenhagen to take up a position at the court chapel of Christian IV in November 1594. He remained there until September 1596, when once again he returned to Brandenburg. He was back at the Danish court from September 1599 until February 1606 (though he seems to have visited Berlin in 1603). He then moved to the court of Count Ernst III of Holstein-Schaumburg in B&uuml;ckeburg. At Easter 1608 he left to join the town music (<i>Ratsmusik</i>) of Hamburg. He returned to B&uuml;ckeburg in 1611 for a further two years, but his threat to return to Hamburg unless he was paid a salary of 1000 thalers (more than twice what he had received during his earlier period of employment at this court) brought him into conflict with his patron. Count Ernst took steps to warn the Hamburg authorities about this &#145;mischievous, wanton fellow&#146; and his disruptive wife. Brade did, however, return to Hamburg at Easter 1613 (having organized an exchange with the leader of the <i>Ratsmusik</i>).<br>
+<br>Residence in Hamburg, which was a centre of music publishing, must have acted as a stimulus to Brade. He had had fifteen dances included in the first volume of the anthology <span class="italic">Ausserlesener Paduanen und Galliarden</span> (1607) and a couple more in the second volume (1609). But during his first two periods of residence in the city he produced two books of his own instrumental music, <span class="italic">Newe ausserlesene Paduanen, Galliarden, Canzonen, Allmand und Coranten</span> (1609) and <span class="italic">Newe ausserlesene Paduanen und Galliarden</span> (1614), the latter a collection of six-part (and mostly paired) pavans and galliards. These are more contrapuntally sophisticated than his later dance collections. The 1609 collection was also published in Antwerp.<br>
+<br>Brade is next heard of in 1614 at the court of Duke Friedrich III of Schleswig-Holstein at Holstein-Gottorp, but by mid-1615 he was back in Copenhagen. Another collection of five-part dance music, <span class="italic">Newe ausserlesene liebliche Branden, Intraden, Mascharaden, Balletten, All'manden, Couranten, Volten, Aufz&uuml;ge und frembde T&auml;nze</span>, appeared in L&uuml;beck and Hamburg in 1617. In 1618 he was in Halle as a member of the household of Christian Wilhelm von Brandenburg, where he styled himself &#145;kapellmeister by appointment to the prince of Magdeburg&#146;. (He seems to have held a similar rank at G&uuml;strow with the duke of Mecklenburg.) He moved to Berlin as court kapellmeister to the elector Johann Sigismund of Brandenburg in 1619, but in August 1620 returned to the Danish court. Brade's last collection of instrumental music, <span class="italic">Newe lustige Volten, Couranten, Balletten, Padoanen, Galliarden, Masqueraden, auch allerley Arth newer frantz&ouml;sischer T&auml;ntze</span>, another set of social dances, was published in Berlin in 1621 (having perhaps been set in train during his residence there). In 1622 he took up his last court position, as director of the court kapelle of Schleswig-Holstein. As the Thirty Years' War spread to this region, Brade sought safety in Hamburg, which was neutral. He became kapellmeister of the theatre in 1625, and it seems that he may have been involved with the <i>Gymnasium</i>. Brade died in Hamburg on 26 February 1630. Four years later the poet and theologian Johann Rist referred to him as &#145;the famous English string player&#146;.<br>
+<br>Brade seems to have had some distinguished pupils. He taught Nicholas Bleyer at Holstein-Gottorp, and it seems likely that he taught Johann Schop and David Cramer in Hamburg. He can thus be seen as a formative influence in the development of north German violin playing. He seems to have taken some pride in his origins, styling himself <i>Wilhelm Brade Englisch</i> on the title-pages of several publications. He clearly maintained his contacts with English musicians&#151;and not just with those who spent all or part of their working lives in north Germany and Denmark. The 1617 publication contains arrangements of twenty of the most popular dances from Jacobean court masques (and a number of other dances which are in a similar style and might possibly originate from the same source).<br>
+<br>Peter Walls </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Thomas, introduction, in W. Brade, <i>Pavans, galliards and canzonas</i> (1982) &middot; W. Braun, <i>Britannia abundans</i><i>: deutsch-englische Musikbeziehungen zur Shakespearezeit</i> (1977) &middot; P. Holman, <i>Four and twenty fiddlers</i><i>: the violin at the English court, 1540&#150;1690</i>, new edn (1993) &middot; C. R. Huber, &#145;The life and music of William Brade&#146;, University of North Carolina, 1965 &middot; A. Moser, <i>Geschichte des Violinspiels</i>, ed. H. J. N&ouml;sselt (1966) &middot; P. E. Mueller, &#145;The influence and activities of English musicians on the continent during the late sixteenth and early seventeenth centuries&#146;, Indiana University, 1954 &middot; C. A. Price, ed., <i>The early baroque era</i> (1993) &middot; I. Spink, ed., <i>The seventeenth century</i> (1992) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3173&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Peter Walls, &#145;<span class="roman"><span class="headword">Brade,  William</span>  (<em>c.</em>1560&#150;1630)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/3173, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Brade (<em>c.</em>1560&#150;1630): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/3173 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

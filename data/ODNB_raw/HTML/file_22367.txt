@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22367;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22367-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22367-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22367#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Playfair,  John</span>  (1748&#150;1819), <span class="occ">mathematician and geologist</span>, was born on 10 March 1748 at Benvie, near Dundee, the eldest son of James Playfair (1712&#150;1772), minister of Liff and Benvie, and his wife, Margaret Young (1719/20&#150;1805). Educated at home until 1762, he attended the University of St Andrews to qualify for the church. Having graduated in 1765, he completed his theological studies in 1770, when he was licensed as a minister. As a teenager he acted as deputy professor of natural philosophy at St Andrews and came third out of six candidates for the chair of mathematics at Marischal College, Aberdeen. In 1770 he moved to Edinburgh, where he became a crony of William Robertson (soon a key patron), Adam Smith, Joseph Black, and perhaps James Hutton. In 1772 he competed unsuccessfully for the chair of natural philosophy at St Andrews. On the death of his father Playfair assumed responsibility for his three sisters and four brothers, including <script>writeSeealsoLink('../view/article/37857/', "James Playfair (1755&#150;1794)")</script>, later an architect, and <script>writeSeealsoLink('../view/article/22370/', "William Playfair (1759&#150;1823)")</script>, who wrote on political economy.<br>
+<br>John applied successfully for his father's living, into which he was inducted in 1773. Next year he joined Nevil Maskelyne, astronomer royal, who with colleagues was endeavouring to measure the density of the earth by means of the gravitational attraction exerted by Schiehallion, a mountain in Perthshire, on a plumb-line. Through this contact with Maskelyne he was introduced to scientific society in London. In 1783 Playfair resigned his living and moved to Raith, near Kirkcaldy, as private tutor for five years to Robert and Ronald Ferguson, with whom he wintered in Edinburgh, where he shone in literary society.<br>
+<br>In 1785 Playfair became joint professor of mathematics with Adam Ferguson in the University of Edinburgh, where each session he taught three courses, two of which focused on geometry and trigonometry. In the third he sometimes taught continental analysis and from 1792 applied mathematics (astronomy, gunnery, fortification, geography, and navigation). In 1795 he published his lectures entitled <span class="italic">Elements of Geometry</span>, which went through five editions in his lifetime and, with revisions by Wallace and Kelland, reached a thirteenth edition in 1875. In 1805 he was elevated to the chair of natural philosophy at Edinburgh, which gave him less teaching, more learned leisure, and slightly greater emolument (his biggest class numbering 223 at 3 guineas per head). His published lectures show that he broadly followed his predecessor, John Robison, though he gave greater attention to hydrostatics, hydraulics, aerostatics, and pneumatics. A projected third volume on optics, magnetism, and electricity remained unexecuted.<br>
+<br>In addition to enjoying a high reputation as a professor of mathematics and natural philosophy, Playfair was a geologist, a builder of scientific institutions in Edinburgh, a promoter of whiggery, and a man of letters. In his <span class="italic">Illustrations of the Huttonian Theory of the Earth</span> (1802) he analysed, modified, and defended the ideas of his close friend Hutton, whose publications suffered from prolixity and obscurity. In lucid prose Playfair supported the timelessness in Hutton's theory, argued that geologists should concern themselves with proximate and not final causes, asserted that natural and divine philosophy were separate but not incompatible activities, coined new terms such as &#145;geological cycle&#146; and &#145;igneous origin&#146;, and reported his own work on unconformities of strata, which he regarded as &#145;the most striking monuments of the high antiquity and great revolutions of the globe&#146;  (<span class="italic">Illustrations</span>, 212). As much of the <span class="italic">Illustrations</span> was devoted to rebutting the attacks made on Hutton's views by Richard Kirwan, it fuelled the controversy between Hutton's defenders and attackers, loosely called the vulcanists and the neptunists respectively.<br>
+<br>Though Playfair was elected FRS London in 1807, he devoted himself far more to the Royal Society of Edinburgh, of which he was a founder member. He became secretary to its physical class in 1789 and from 1798 to his death was its general secretary. He not only administered the society but edited its <span class="italic">Transactions</span>, in which he published most of his own scientific papers and classic obituaries of Matthew Stewart, Robison, and Hutton. In 1811 he was the leading spirit in establishing the Astronomical Institution of Edinburgh, of which he was president until his death. This private body procured the replacement of the existing observatory, left half-built in 1792, by a new one begun in 1818 and completed in 1830 to a design by Playfair's nephew <script>writeSeealsoLink('../view/article/22371/', "William Henry Playfair")</script>.<br>
+<br>Playfair and his close friend Dugald Stewart were the leading whigs among the professoriate. They encouraged free and wide discussion among undergraduates, even in the troubled 1790s. Their houses were open to affluent boarders at about &pound;300 per annum. Lord John Russell, a future leader of the whigs and British prime minister, was only one of several lodgers who enjoyed Playfair's tuition, his zealous love of liberty, and his gracious table. In 1805 Playfair and Stewart were the university's dominant polemicists in the Leslie affair. On Playfair's resignation from the chair of mathematics some tory clergymen in Edinburgh proposed one of themselves as a candidate and began to circulate rumours about the religious orthodoxy of John Leslie, a whig who was strongly supported by Playfair and Stewart. Leslie was elected, and the general assembly cleared him from the imputation of atheism. These outcomes signalled the revival of Scottish whiggery.<br>
+<br>Playfair was the first British natural philosopher to make extensive contributions to that new and characteristic genre the nineteenth-century periodical. In fifteen years from 1804 he published anonymously about sixty articles on science in the whig <span class="italic">Edinburgh Review</span>, edited by his friend Francis Jeffrey. Playfair ventilated his own concerns, such as the alleged stagnation of mathematics at Cambridge, and combated British xenophobia by demonstrating an urbane catholicity and intellectual largess. Though reviewing was his forte, he contributed his important but incomplete historical <span class="italic">Dissertation, Exhibiting a General View of the Progress of Mathematical and Physical Science since the Revival of Letters in Europe</span> to the supplement to the fourth, fifth, and sixth editions of the <span class="italic">Encyclopaedia Britannica</span> (1824, published separately 1816). As a leading literatus in Edinburgh, Playfair moved easily and successfully in both the learned and fashionable worlds. Admired as the Scottish d'Alembert, the ageing and amiable bachelor was adored by several women not only for his well-known feminist sentiments. No wonder that Jeffrey was inspired to coin the apt phrase &#145;philandering at the Needles&#146; to denote Playfair's devotedness to ladies and to rocks.<br>
+<br>Playfair spent seventeen months in 1816 and 1817 on a geological tour of 4000 miles in Europe, gathering materials for a comprehensive work on geology which he never began, and enjoying a flattering reception by leading Parisian savants. Thereafter his health declined, culminating on 20 July 1819 with his death from strangury in Edinburgh, where he was buried on 26 July.<br>
+<br>Jack Morrell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The works of John Playfair with a memoir of the author</i>, ed. J. G. Playfair and F. Jeffrey, 4 vols. (1822) [memoir in vol. 1, xi&#150;lxxvi] &middot; J. B. Morrell, &#145;Professors Robison and Playfair, and the theophobia gallica: natural philosophy, religion and politics in Edinburgh, 1789&#150;1815&#146;, <em>Notes and Records of the Royal Society of London</em>, 26 (1971), 43&#150;64 &middot; J. B. Morrell, &#145;The Leslie affair: careers, kirk and politics in Edinburgh in 1805&#146;, <em>Scottish Historical Review</em>, 54 (1975), 63&#150;82 &middot; <i>Memorials of his time, by Henry Cockburn</i> (1856) &middot; A. Grant, <i>The story of the University of Edinburgh during its first three hundred years</i>, 2 vols. (1884) &middot; D. R. Dean, <i>James Hutton and the history of geology</i> (1992) &middot; A. Chitnis, <i>The Scottish enlightenment and early Victorian English society</i> (1986) &middot; A. Bower, <i>The history of the University of Edinburgh</i>, 3 vols. (1817&#150;30) &middot; D. J. Bryden, &#145;The Edinburgh observatory, 1736&#150;1811: a story of failure&#146;, <em>Annals of Science</em>, 47 (1990), 445&#150;74<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=BL')">BL</a>, letters to Mary Berry
+   &middot;
+ Edinburgh City Archives, Edinburgh town council papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=Glos.%20RO')">Glos. RO</a>, letters to Daniel Ellis
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, letters to William Robertson
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, lecture notes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=UCL')">UCL</a>, Brougham MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> F. Chantrey, plaster bust, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=Scot.%20NPG')">Scot. NPG</a>; original model for bust, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=AM%20Oxf.Ashmolean%20Museum%2C%20Oxford')">AM Oxf.</a> &middot; W. Nicholson, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=NG%20Scot.')">NG Scot.</a> &middot; W. Nicholson, pencil and watercolour drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=Scot.%20NPG')">Scot. NPG</a> &middot; W. Nicholson, pencil drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=Scot.%20NPG')">Scot. NPG</a> &middot; H. Raeburn, portrait, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=NPG')">NPG</a>; version, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=U.%20Edin.University%20of%20Edinburgh')">U. Edin.</a> &middot; F. J. Skill, J. Gilbert, W. Walker, and E. Walker, group portrait, pencil and wash (<i>Men of science living in 1807&#150;08</i>), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=NPG')">NPG</a> &middot; portrait?, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22367&amp;istheme=&amp;target=GS%20Lond.')">GS Lond.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jack Morrell, &#145;<span class="roman"><span class="headword">Playfair,  John</span>  (1748&#150;1819)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2008 [http://www.oxforddnb.com/view/article/22367, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Playfair (1748&#150;1819): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22367 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22367/2007-10"> [Previous version of this biography available here: October 2007]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 16004;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/16/16004-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/16/16004-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=16004#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:352px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=16004&amp;orientation=l')"><img border="0" alt=" Lanfranc (c.1010&#150;1089), manuscript drawing" onmouseover="status=' Lanfranc (c.1010&#150;1089), manuscript drawing'" src="/images/article-imgs/16/16004_1_200px.jpg"></a><span class="imagecaption"><b> Lanfranc (<em>c.</em>1010&#150;1089)</b>, manuscript drawing</span>
+</div>
+<div class="para">
+<span class="headword">Lanfranc</span>  (<em>c.</em>1010&#150;1089), <span class="occ">archbishop of Canterbury</span>, was a Lombard by birth, who became a monk in Normandy before he was made archbishop four years after the Norman conquest of England in 1066.<h2>
+<a name="Earlylife"></a>Early life</h2>Lanfranc was born in Pavia, the capital of Lombard Italy, at an unknown date, probably <i>c</i>.1010 or soon after. A late and unconfirmed Canterbury tradition gave his parents' names as Haribaldus and Roza  (<span class="italic">Works of Gervase of Canterbury</span>, 2.364). His father was known as a prominent and respected citizen who belonged to &#145;the order of those who oversaw the rights and laws of the city&#146;  (Gibson, &#145;Vita Lanfranci&#146;, 668). About Lanfranc's early years, his twelfth-century life contains divergent accounts. According to one, he was educated from childhood both in the liberal arts and in Lombard law; he exhibited precocious skill in pleading causes and in passing judgments; he thereby won lasting fame at Pavia; only after leaving Italy did his thoughts turn to the true wisdom of the religious life. According to the other, he lost his father at a tender age; rather than succeeding to his father's honour and dignity, he left Pavia to study the liberal arts elsewhere; he returned only when he was well grounded in them, before leaving for France. This account makes no mention of legal study or practice. Since Lanfranc's later writings and activities give scant evidence of special knowledge of or skill in Lombard law, it is best to leave open the question of how familiar with it he became.<br>
+<br>Not before 1031 (and perhaps several years later), Lanfranc, like many Italian scholars of his time, left Italy for France, where he travelled the country with a considerable following of pupils. Probably after visiting Tours and Chartres, he eventually reached Normandy, where he taught for some time at Avranches, a city still suffering after the viking ravagings. He is likely to have taught widely in the seven liberal arts, but with some specialization in dialectic. At Avranches his vocation to the religious life developed and deepened; he decided to search for a place where there would be no <i>litterati</i> to honour and reverence him.<h2>
+<a name="Lanfrancthemonk"></a>Lanfranc the monk</h2>Lanfranc set out alone towards Rouen. According to a perhaps apocryphal story, as he passed through a wood near the River Risle, he fell among thieves, who robbed, blindfolded, and abducted him. Upon asking passers-by to direct him to the most lowly and poor monastery of the neighbourhood, he was sent to Bec, where he found the abbot working with his own hands to build an oven. After reflecting upon the rule of St Benedict, Lanfranc asked to be, and was permitted to become, a monk there.<br>
+<br>Lanfranc probably came to Bec in 1042. The monastery had been founded in 1034 by Herluin, a knight from the nearby castle of Brionne, who became its first abbot. The keynote of its early years as described in Gilbert Crispin's life of Herluin (itself a major source for the life of Lanfranc) was austerity and simplicity. According to these lives, Herluin and Lanfranc from the start of their association complemented each other as models of the active and the contemplative life: Herluin attended to the external business of Bec, including its legal affairs, while Lanfranc devoted himself to silence, meditation, and the observance of the monastic office. Before long, however, Lanfranc became troubled by laxity among his monastic brethren; his secret preparations to leave Bec and become a hermit were frustrated by being revealed to Herluin in a dream. Lanfranc humbled himself before his abbot and professed full obedience. About 1045 Herluin appointed him prior (or second-in-command) of the monastery, with responsibility for both internal and external affairs. During Lanfranc's eighteen years or so as prior, Bec grew in numbers and acquired churches and endowments; it became a thriving Benedictine house alongside the older monasteries of Normandy. In 1063 Duke William chose Lanfranc, despite his reluctance to leave Bec, to be the first abbot of St &Eacute;tienne at Caen. Lanfranc embarked upon the construction of the abbey church and buildings. In 1068 he secured from Pope Alexander II the exemption of his abbey from the authority of the diocesan, the bishop of Bayeux.<br>
+<br>During his years in Norman monasteries, Lanfranc's concerns were far from being limited to monastic affairs in the strict sense. He continued and greatly developed his work as a teacher. As prior of Bec, he was responsible for the claustral school in which boys were educated for life in the community; the fame of his teaching quickly and increasingly attracted young men from near and far, not least from Germany, to be equipped for employment outside the cloister. His teaching was at first mainly in the liberal arts and in 1059 Pope Nicholas II sent imperial and papal chaplains to be taught the dialectic and rhetoric that were useful in curial service, though he also referred to reports that Lanfranc had become concerned with biblical studies. Probably while Lanfranc was at Caen, Pope Alexander II wished to send him a kinsman for further education, possibly theological. Lanfranc opened his teaching to outsiders in part from a wish to raise money for the buildings and other monastic necessities at Bec which he urged upon Abbot Herluin, and especially for the removal of the monastery, <i>c</i>.1060, to a more suitable site. Lanfranc's pupils at Bec included the canon lawyer Ivo, bishop of Chartres (<i>r</i>. 1090&#150;1115), and the anti-Berengarian writer Guitmund, later bishop of Aversa (<i>r</i>. 1088&#150;<i>c</i>.1090&times;95). Anselm of Aosta, who entered Bec in 1060 (and who succeeded Lanfranc as prior there and later as archbishop of Canterbury), acknowledged a major debt to Lanfranc's instruction in learning as well as in the monastic life. Evidence that Pope Alexander II had been Lanfranc's pupil is late and inconclusive.<br>
+<br>In Normandy, Lanfranc became Duke William's ecclesiastical adviser. There seem at first to have been stresses between them, perhaps arising from Lanfranc's criticism of the duke's marriage to Matilda of Flanders on grounds of relationship within the prohibited degrees. A story has it that William banished Lanfranc from Normandy. He set off on a lame horse, but asked the duke to give him a sound one so that he could obey his sentence of exile. The jest served permanently to restore Lanfranc to the duke's favour. In 1059, Pope Nicholas II observed with satisfaction that &#145;his friend&#146; Duke William habitually followed Lanfranc's advice  (Southern, 20&#150;21); Norman sources referred to his special and beneficial place as William's spiritual director and political counsellor. As they stand, twelfth-century accounts of Lanfranc's success at Rome in 1059 as an intermediary between William and the papacy over the problem of his marriage and of his securing a papal dispensation for William in return for the foundation of the abbeys of St &Eacute;tienne and La Trinit&eacute; at Caen are of questionable historicity; however, they testify to his reputation for diplomatic skill and success. In 1067, after he had himself refused the archiepiscopal see of Rouen, Lanfranc secured, at Rome, Pope Alexander II's permission for the translation to it of Bishop Jean of Avranches.<br>
+<br>Lanfranc had a series of contacts with the reforming popes of his monastic years, especially Leo IX (1049&#150;54), Nicholas II (1059&#150;61), and Alexander II (1061&#150;73). In view of his duties as prior of Bec, his possibly year-long association with Leo IX (which later Bec tradition obscured) was remarkably protracted. It began at, or more probably soon after, Leo's great reforming council at Rheims in October 1049. Lanfranc was certainly with him at Remiremont on 14 November, as one of his letters shows, and he accompanied him back to Rome before a council at the Lateran beginning on 29 April 1050. Leo asked Lanfranc to stay in the papal entourage until the Council of Vercelli in September. Lanfranc thus witnessed at first hand an energetic year's work by the first significant reforming pope of the eleventh century. His return to Rome for Pope Nicholas II's council of April 1059 cannot be proved but, on balance, is probable  (Southern, 22&#150;4; Gibson, <span class="italic">Lanfranc</span>, 109&#150;11 gives a different view); Lanfranc preserved on pages of his canon-law collection a dossier of documents relating to the council. An outcome of his contacts with the papacy was his high regard for the energetic reformer Cardinal Humbert of Silva Candida, in respect not only of his eucharistic theology but also of his general impact on church affairs. In 1067 ducal business again brought Lanfranc to Rome; his standing with Pope Alexander II was such that he later called him &#145;our most cherished member and one of the leading sons of the Roman church&#146;  (<span class="italic">Letters of Lanfranc</span>, 60&#150;61).<h2>
+<a name="Lanfrancthescholar"></a>Lanfranc the scholar</h2>While he was a monk at Bec, Lanfranc's work as a teacher was reinforced by academic and theological study. So far as the arts are concerned, he wrote a lost treatise, <span class="italic">De dialectica</span>. He devoted much attention to correcting the texts of the <span class="roman">Old</span> and <span class="roman">New</span> testaments in their Latin version and of the Christian fathers of the early church. His main purpose was simply to establish the best readings. His emendations passed into manuscripts which, at Bec and elsewhere, remained in use well into the twelfth century. His annotations on patristic texts included brief comments upon St Augustine of Hippo's <span class="italic">De civitate Dei</span> and Pope Gregory the Great's <span class="italic">Moralia in Job</span>. He was concerned to use such texts as a vehicle for grammatical instruction, thus seeking in a novel way to use Christian texts for this purpose. From <i>c</i>.1055 Lanfranc increasingly devoted himself to biblical study. His principal commentaries were one on the <span class="roman">Psalms</span>, which survives only in two fragments, and another on the <span class="roman">Pauline epistles</span>, fourteen in number since he accepted <span class="roman">Hebrews</span> as Pauline  (<span class="italic">Patrologia Latina</span>, 150.105&#150;406). He again provided much analysis of language and of rhetorical structure, but he increasingly also added excerpts from the ancient fathers, which he took from Carolingian florilegia of selected passages. He expressed his mistrust of secular learning as a means to the exploration of Christian truth. In his biblical commentaries, Lanfranc was less of an innovator than in his annotations of Augustine and Gregory. However, his commentary on the <span class="roman">Pauline epistles</span> circulated and was widely copied. His work was used and built upon in the schools of Laon and Paris. As a scholar, Lanfranc cannot be deemed original or creative, but his skills developed in ways that prepared for major twelfth-century advances.<h2>
+<a name="LanfrancandBerengarofTours"></a>Lanfranc and Berengar of Tours</h2>Lanfranc's controversy with Berengar of Tours affected every stage of his life after leaving Italy. Their principal difference concerned the presence of Christ in the eucharistic elements. According to Lanfranc, this presence was substantial in a sense akin to Aristotle's understanding of substance, so that, at the eucharistic consecration, bread and wine were in themselves changed into the body and blood of Christ; for Berengar, it was a matter of signification not of change: the material bread and wine persisted while becoming also the spiritual body and blood of Christ. Lanfranc and Berengar represented different methods of thought and looked back to different patristic and Carolingian traditions: Lanfranc to St Ambrose and Paschasius Radbertus, but Berengar to St Augustine of Hippo and Ratramnus. Berengar fuelled opposition to his position by the obscurity of his Latin and by the contentiousness of his demeanour.<br>
+<br>Lanfranc heard Berengar lecture on logic during his early wanderings in France and formed a poor opinion. In 1049, at about the time of the Council of Rheims, Lanfranc nevertheless came under suspicion of complicity in Berengar's supposed aberrations; but at Leo IX's Easter synod of 1050, he successfully defended himself. In the following autumn, Lanfranc was present, though not in a prominent capacity, at Brionne when Berengar debated his opinions with other scholars. If Lanfranc was at Rome for Nicholas II's Easter synod of 1059, he was not present at the session when Berengar appeared before it. However, he approved of the extremely realist profession of faith, drafted by Cardinal Humbert, to which Berengar was made to swear an oath of acceptance; it is among the documents of the time that are copied into Lanfranc's canonical collection.<br>
+<br>On returning to France, Berengar recanted his oath and returned to his former teaching. After Nicholas II and Humbert died in 1061, Lanfranc came to the fore as Berengar's leading opponent. Probably early in his years as abbot at Caen, he wrote his <span class="italic">De corpore et sanguine domini</span>, in which he began with the Easter synod of 1059 and deployed philosophical arguments and patristic citations against Berengar and in advocacy of his own position. At Pope Alexander II's request, Lanfranc in 1072 dispatched a copy to Rome; the treatise also circulated widely in northern Europe. Berengar's own principal surviving work, his <span class="italic">Rescriptum contra Lanfrannum</span>, was written in indignant reply. As archbishop of Canterbury, Lanfranc was still at pains to refute &#145;that schismatic Berengar&#146;, especially when he challenged the orthodoxy of St Hilary of Poitiers's <span class="italic">De trinitate</span>; Lanfranc later gave a hint that he was less than satisfied by Pope Gregory VII's eventual condemnation in 1079 of Berengar's eucharistic teaching  (<span class="italic">Letters of Lanfranc</span>, 142&#150;9, 158&#150;9).<h2>
+<a name="Canterburytheearlyyears"></a>Canterbury: the early years</h2>At Eastertide 1070 papal legates deposed Stigand, archbishop of Canterbury since 1052. King William I summoned a reluctant Lanfranc, who was already some sixty years old, to succeed him. Lanfranc accepted only when Pope Alexander II added his own command through legates, Bishop Ermenfrid of Sion and the Roman subdeacon Hubert, who convened for the purpose a general assembly of Norman clergy and laity. Lanfranc was appointed on 15 August and consecrated at Canterbury on 29 August by Bishop Maurice of London and seven or eight other suffragans of Canterbury.<br>
+<br>Until Alexander's sudden death on 21 April 1073, Lanfranc enjoyed and reciprocated his favour and trust to a striking degree. When Lanfranc visited Rome in autumn 1071 and received his pallium (the stole of white wool which signified a metropolitan's participation in the apostolic pastoral office), Alexander added the rare, personal grant of a second pallium which he had himself worn liturgically. After Lanfranc returned to England, Alexander told the king of major matters that he had delegated for Lanfranc to settle in England; he had so far committed his authority to Lanfranc that whatever he rightly decided should be as binding as a decision taken in the pope's presence. Lanfranc, for his part, looked to Alexander for favour and for advice in a number of particular cases including those of bishops. He commended himself to Alexander as &#145;a loyal follower and servant of St Peter and of yourself, and of the holy Roman church&#146;  (<span class="italic">Letters of Lanfranc</span>, 54&#150;5; see also 32&#150;9, 42&#150;3, 60&#150;63).<br>
+<br>Lanfranc quickly claimed a primatial status for Canterbury which he deemed to be both historically justified and practically necessary for the well-being of the church in England and throughout the British Isles. At Pentecost 1070, the Norman, Thomas of Bayeux, had been nominated for the vacant see of York. Lanfranc quickly entered into a dispute about the relation of the two metropolises; a memorandum of it was included in Lanfranc's letter-collection  (<span class="italic">Letters of Lanfranc</span>, 38&#150;57). Thomas's consecration was delayed until after Lanfranc's, and when Thomas came to Canterbury, Lanfranc claimed the custom of his predecessors for requiring from him a written profession of obedience, fortified by an oath. Thomas expressed dissatisfaction with the evidence that Lanfranc adduced and departed without consecration. The king was angry because he thought Lanfranc to be claiming more than his due. But during a subsequent encounter, at which Lanfranc said that the English testified in his favour, he persuaded the king and the Normans of the justice of his claim. By royal edict Thomas had to return &#145;to the mother church of the whole kingdom&#146; and to make a profession of absolute and unconditional obedience to Lanfranc in all matters of the Christian religion; as regards obedience to Lanfranc's successors, the issue was left open. Thomas made a profession of obedience, the text of which has not survived, and Lanfranc consecrated him late in 1070 or early in 1071.<br>
+<br>According to the Canterbury account, it was Thomas (who accompanied Lanfranc to Rome in autumn 1071) by whom the question of the primacy of Canterbury over York was raised before the pope. Thomas cited the authority of Pope Gregory the Great for pleading the equal status of the two metropolises; he also claimed the obedience to himself of the bishops of Dorchester (later Lincoln), Worcester, and Lichfield. After long debate, Pope Alexander ruled that both matters should be decided in England. At Eastertide 1072 they were considered during the royal court at Winchester. Lanfranc afterwards rehearsed in a letter to the pope the arguments by which he had claimed Canterbury's primacy not only over York but of the whole British Isles including Ireland. A number were historical and derived from Bede and other sources; to the modern critic they appear somewhat weak. As &#145;the final core and foundation of our whole case&#146;, he named eight popes from Gregory the Great to Leo IX whose privileges and letters he asserted to bear out his claim. Most of the popes named appear among the alleged authors of forged privileges which were produced at Rome in 1123 when Canterbury's case was presented there. Scholars have long debated whether, in 1072, Lanfranc used forgeries which had already been prepared (with or without his knowledge), or whether they were subsequently drawn up on the basis of Lanfranc's list of popes. While the question remains open, there are substantial reasons for doubting that Lanfranc knowingly used forged material. Lanfranc's arguments prevailed over those of Thomas of York, who therefore made an absolute profession of canonical obedience to Lanfranc and his successors. The king's court drew up a constitution, finally reissued at the Council of Windsor at Pentecost, which established that the church of York should be subject to that of Canterbury and should obey its archbishop as primate of the whole of Britain in all matters relating to the Christian religion; Thomas of York's claim to the obedience of the three bishops south of the Humber was disallowed.<br>
+<br>The large measure of success which Lanfranc thus achieved in establishing the primacy of Canterbury should not obscure his difficulties and insecurity during his early years as archbishop. He was unable to secure the primacy beyond Archbishop Thomas's lifetime and could not know that Thomas would long outlive him. At Rome the powerful Archdeacon Hildebrand curtly disallowed the granting of a papal privilege to strengthen Canterbury's position unless Lanfranc again came to Rome. Moreover, &#145;for love of the king&#146; (that is, probably, because the king would not allow it), Lanfranc had to abandon his claim that Thomas's profession of obedience should be reinforced by an oath of loyalty to himself  (<span class="italic">Letters of Lanfranc</span>, 40&#150;41, 46&#150;7). There was a further difference with the king over the status of the former Archbishop Stigand: Lanfranc followed Pope Alexander in regarding his archiepiscopate as utterly vitiated and null, whereas the king had found it expedient to give him greater recognition than he had enjoyed before 1066, to the extent of allowing him to consecrate Bishop Remigius of Dorchester. Such points of difference cannot have made Lanfranc's relations with the king easy. They help to explain why, in the winter of 1072&#150;3, Lanfranc complained to Pope Alexander of his <i>calamitates</i>, and of his sense of unprofitableness in the past and hopelessness for the future; he made a transparently sincere plea to be released from his archbishopric and to return to the cloister.<h2>
+<a name="Lanfrancsworkasarchbishop"></a>Lanfranc's work as archbishop</h2>Lanfranc would not have expected his plea to be accepted. Moreover, circumstances changed in April 1073 with Archdeacon Hildebrand's succession to the papacy as Gregory VII (1073&#150;85). The difficulties that he had made about a papal privilege for Canterbury and Lanfranc's probable disquiet about his long suspension of judgement upon the opinions of Berengar of Tours go far to account for Lanfranc's studied coolness towards Gregory. Gregory quickly bid to resume the familiarity that Alexander had enjoyed with Lanfranc by sending a letter which tacitly accepted his primacy over the Irish. But Lanfranc consistently disregarded Gregory's summonses to pay duty, <i>ad limina</i> visits to Rome, and in 1082 Gregory threatened him with suspension from his office. From 1073 Lanfranc settled down to loyal and fruitful collaboration with King William in the spirit of the constitution of the royal court in 1072. He seldom left the province of Canterbury, although in 1077 he made a brief visit to Normandy and his old monasteries of St &Eacute;tienne at Caen and Bec, where, after an emotional reunion with the aged Abbot Herluin, he consecrated the high altar of the new abbey church. However, he kept in touch by letter with leading persons in Normandy and elsewhere, notably Anselm as prior and abbot of Bec, and Archbishop Jean of Rouen.<br>
+<br>For Lanfranc, the roles of bishop and abbot were compatible: &#145;If bishops bestow fatherly care upon their subjects in Christ's stead, they may not inappropriately be called abbots, that is, fathers; for the name suits what they do&#146;  (Knowles, 4). Accordingly, as archbishop, Lanfranc continued, so far as he could, to live the monastic life. At Canterbury, this was facilitated because, since the time of Archbishop Dunstan (959&#150;88), the Christ Church Cathedral chapter comprised Benedictine monks of whom the archbishop was <i>ex officio</i> abbot. In 1067 the cathedral and monastic buildings had been devastated by fire; the monks were demoralized and few in number. Lanfranc quickly determined to perpetuate the monastic regime. He made temporary repairs to the monks' quarters and proceeded to the reconstruction of the cathedral, which by <i>c</i>.1077 was restored to use. By 1089 it was completed and sumptuously equipped with vestments and sacred vessels. Lanfranc also rebuilt the monastic offices, especially the cloister, cellar, refectory, and dormitory. Near the cathedral he erected a palace for the official use of the archbishop, and he surrounded the ensemble of buildings by a wall. He envisaged a monastic community of some 150 monks; at his death it probably comprised almost 100. After 1079 he compiled from various sources a body of monastic constitutions for the liturgical ordering and for the administration and discipline of the Canterbury community. They were practical in character; but liturgically, interest attaches to the Palm Sunday procession, when the consecrated host was carried in procession to the city gate, in commemoration of Christ's coming to Jerusalem. Although the day-to-day running of the community devolved upon the prior (Lanfranc summoned from Bec a monk named Henry to fill this office), Lanfranc performed so far as he could the abbot's role, both in the daily monastic round and in the pastoral oversight of the monks and their families, for which the Canterbury monk Eadmer praised him.<br>
+<br>Lanfranc was much concerned with the administration and defence of the property of the see of Canterbury. His years as archbishop witnessed an increasingly clear division between the property of the archbishop and that of the monks. He was remembered for the many fine buildings, including churches, which he had built upon his manors, most of which were in Kent and Sussex. He was much concerned to recover the lands and other resources of his see, which had suffered severe losses both before and after 1066. He came into dispute with the king's half-brother Odo, bishop of Bayeux and earl of Kent. Their most fully recorded litigation occurred, perhaps in 1072, at a meeting of the shire on Penenden Heath. On the king's behalf, Bishop Geoffroi of Coutances judged in Lanfranc's favour about his judicial rights in Kent and about six Christ Church estates. The process of recovery which was thus started continued until the Domesday Survey.<br>
+<br>On account of his necessarily frequent absences from Canterbury and sheer pressure of work, Lanfranc came to use the bishop of Rochester as a kind of vicar-general. He thereby abandoned the pre-conquest usage whereby a <i>chorepiscopus</i> (assistant bishop) was based at St Martin's Church at Canterbury. He made an excellent choice in Gundulf, a monk of Bec who was his prior at Caen and then his right-hand man at Canterbury from 1070. In 1077 Lanfranc himself invested Gundulf as bishop of Rochester and Gundulf thereafter relieved Lanfranc in the tasks of diocesan ordinary, such as ordaining clerks, consecrating chrism, and dedicating churches. Lanfranc devoted generous resources to building and equipping a new cathedral at Rochester, where a monastic chapter on the Christ Church model was introduced.<br>
+<br>Lanfranc was frequently absent on royal and ecclesiastical business. He attended crown-wearings held at the three main Christian festivals when the king was in England. He was known then to admonish as well as to honour the king: when both sat at a coronation banquet and a jester, pointing to the bejewelled king, flatteringly said, &#145;Behold! I see God&#146;, Lanfranc insisted on the king's having the jester severely beaten; for Lanfranc recalled the fate of King Herod Agrippa, who listened to flatterers hailing him as a god and was smitten by God and eaten by worms  (Gibson, &#145;Vita Lanfranci&#146;, 708&#150;9; see <span class="roman">Acts</span> 12: 21&#150;3).<h2>
+<a name="Holdingcouncils"></a>Holding councils</h2>Lanfranc, as primate, held councils, often at the seasons of crown-wearings, for the English church in which, after 1072, Thomas of York collaborated. In many respects, they were similar to the reforming councils held in 1070, before Lanfranc's arrival, by Alexander II's legates; but they also followed the tradition of church councils as held in Normandy, though not in England, since the 1040s. Like Norman councils, Lanfranc's were subject to William's authority and direction. After the councils of Winchester and Windsor in 1072 when the issue of the primacy was settled, Lanfranc held councils at London (1074 or 1075), Winchester (1076), London (1077 or 1078), and Gloucester (1080, 1085). Until 1076 these councils issued canons which, though fragmentary and unsystematic, illustrate several of Lanfranc's main concerns. The earliest legislation sought to buttress the Norman regime by prescribing public loyalty to the king and prayer and alms on his behalf. Lanfranc required a structured and orderly church life which would complement his stringent requirement that bishops make professions of obedience to himself; in many ways he sought to ensure the bishop's authority in his diocese, and three bishoprics were moved from villages to major centres at Sarum (Old Salisbury), Chichester, and Chester. Attention was given to clerical morality: Lanfranc proscribed simoniacal practices and promoted celibacy, demanding it at once of canons but (less strictly than the papal legates in 1070) allowing the generality of priests with wives to keep them, while those who were unmarried must remain so; bishops were to require promises of celibacy from those in future ordained priest or deacon. There was some regulation of the lives of the laity, especially as regards marriage and spiritual jurisdiction over them.<br>
+<br>The canons of the Council of London, in particular, were widely circulated; and their preamble spoke of renovation of things laid down in ancient law. Lanfranc was concerned to complement the revival in England of church councils by facilitating the study of canon law. He summoned from Bec and presented to Christ Church, Canterbury, a collection of canons and decrees called by modern scholars the <span class="italic">Collectio Lanfranci</span>, based upon the Pseudo-Isidorian decrees (the &#145;false decretals&#146;) as compiled in mid-ninth-century France. It is in two parts: an abridged version of the papal decretals from Clement I to Gregory II (715&#150;31) with certain additions, and a full, if in some ways distinctive, version of the councils from Nicaea (325) to Seville II (618). It is by no means certain that the collection was made by Lanfranc or under his supervision; more likely it came to Bec from elsewhere. In England, copies of the collection were made and circulated to cathedral libraries; until the mid-twelfth century it was a main source in England of canon law. Marginal markings seem to testify to Lanfranc's own study of the Christ Church manuscript and to correspond to references to canon law in his letters. He enjoined its study upon bishops, urging Herfast of Thetford to:<blockquote>give up the dice, to mention nothing worse, and the worldly amusements in which you are said to spend the whole day. Read sacred authors, and devote particular study to the decrees of the Roman pontiffs and to the sacred canons. Then you will find out what you do not know; having read them, you will deem worthless the devices in which you trust to evade church discipline. (<span class="italic">Letters of Lanfranc</span>, 152&#150;3)</blockquote>If, after 1073, Lanfranc paid little heed to the presently reigning pope, he ascribed high authority to the decrees of popes long dead. Steadfast himself in spiritual reading, he was also concerned to provide and circulate in England emended texts of the <span class="roman">Vulgate</span> and other sacred writings upon which he himself continued to work.<br>
+<br>Lanfranc gave comparable attention to the veneration of English saints, about some of whom he had doubts, particularly &AElig;lfheah (Alphege), the archbishop of Canterbury whom the Danes killed in 1012; but Anselm of Bec persuaded him that &AElig;lfheah deserved commemoration as a martyr. Lanfranc employed Osbern, a monk of Canterbury, to write lives of &AElig;lfheah and of St Dunstan, to whom Lanfranc seems to have had a particular devotion. He made no purge of English saints; his attitude towards them seems to have been shaped by judiciousness and a strict concern for authenticity. He showed no insensitivity to English feelings; when assured of the sanctity of English saints, he duly provided for their veneration.<br>
+<br>Lanfranc's letter collection yields glimpses of his routine business. In his terse way, he answered enquiries from several bishops&#151;Thomas of York and Walcher of Durham as well as suffragans of Canterbury. Penance and marriage discipline were recurrent topics; Lanfranc displayed a range of attitudes from rigorous insistence upon canonical rules to pastoral leniency towards the proven penitent.<h2>
+<a name="Lanfrancandmonasticaffairs"></a>Lanfranc and monastic affairs</h2>The canons of Lanfranc's councils, especially the London Council, testify to his vigilance over the monastic order; as in non-monastic matters, he showed deference to the king. Lanfranc had a basic concern that monks should establish their way of life according to the best ancient models and that stability, obedience, oversight, and poverty should be rigorously ensured. Having found and quickly learnt to value a monastic chapter at Canterbury, he defended such a chapter at Winchester against the initial attempt of the first Norman bishop, Walchelin, to abolish it. Partly owing to his advocacy, within fifty years of the conquest nine of the sixteen English sees had cathedral monasteries&#151;a situation unique in Latin Christendom. Although his monastic constitutions were compiled only for Canterbury, their workmanlike qualities led to their being adopted in other cathedral monasteries and elsewhere; early copies existed in some twelve houses. Lanfranc's predilection for cathedral monasteries may have indirectly retarded the constitutional development of the secular (that is, non-monastic) chapters, and have set back the spread in England, already attested before the conquest, of canons regular.<br>
+<br>Lanfranc's letters again suggest the depth and range of his abiding concern with monastic affairs, over and above his involvement at Canterbury and Rochester. He protected individual houses: Bury St Edmunds, the abbey of his friend and physician Abbot Baldwin, against the jurisdictional claims of Bishop Herfast of Thetford; and Coventry, where Bishop Peter was to desist from harassing the monks and to make restitution. When the abbess and prioress of Barking were at loggerheads, Lanfranc insisted that Bishop Maurice of London should intervene. Many letters concerned individual monks: Lanfranc was exercised about the noviciate of his nephew, another Lanfranc, at Bec; he sent spiritual advice and a medical remedy (<i>marrubium</i>: horehound) to one seriously ill; he interceded, in terms reminiscent of St Paul's epistle to <span class="roman">Philemon</span>, with Abbot Adelelm of Abingdon to receive back fugitive but penitent monks; he censured both a fugitive monk of Chertsey and his lax abbot, Odo, who had permitted him to wander; but he encouraged a monk who wished to transfer to a more observant regime under Abbot Serlo of Gloucester. When Lanfranc wrongly assessed a postulant at the New Minster, Winchester, he admitted his error and asked for the case to be decided by the Winchester authorities. He humanely sanctioned the departure from the cloister of nuns who had entered religion only from fear of the Norman invaders.<br>
+<br>Lanfranc's dealings with two non-cathedral monasteries are particularly recorded. He brought another nephew, Paul, a monk of Caen, to be abbot of St Albans (<i>r</i>. 1077&#150;93), where he ruled with distinction. Lanfranc assisted him with 1000 marks towards a thoroughgoing rebuilding and equipped the church with precious ornaments; he also provided books to be copied in the scriptorium. Lanfranc's monastic constitutions were followed at St Albans which, although in the diocese of Lincoln, remained under Lanfranc's close supervision. With St Augustine's, Canterbury, Lanfranc came into severe difficulty near the end of his life. In 1087 or 1088 he consecrated as abbot, and (apparently supported by Odo of Bayeux) attempted to install, a monk of St Augustine's with the Norman name of Guy. Most of the monks (who were largely English and who resented Lanfranc's nearby foundation of St Gregory's) refused to admit Guy and fled into the city. Lanfranc coerced or persuaded many to return, but there was soon a plot against Abbot Guy. Lanfranc interrogated the ringleader, Columbanus, who declared that he would have killed his abbot if he could; Lanfranc had him stripped naked and flogged at the abbey gate before being driven from the city. He thereby terrorized the monks into submission until his death, when trouble again erupted. Against dissident monks Lanfranc could act harshly; but, on balance, the <span class="roman">Anglo-Saxon Chronicle</span> declared justly upon his death that he was &#145;the reverend father and consoler of monks&#146;  (<span class="italic">ASC</span>, s.a. 1089, text E).<h2>
+<a name="ExtentofLanfrancsauthority"></a>Extent of Lanfranc's authority</h2>Lanfranc's conception of his primacy led him to claim authority over the whole British Isles. Beyond the two English provinces, his attention was most directed to Ireland. In 1074, at the request of King Gofraid (Guthric) of Dublin, he consecrated at London an Irish monk, Patrick, who was trained and professed at Worcester, to the see of Dublin. Patrick made a profession of obedience to Lanfranc as &#145;bishop-elect of Dublin, the metropolis of Ireland&#146;, a phrase which may express Lanfranc's hope at this time of establishing a dependent Irish metropolis. But when, a year after Patrick's death in 1084, Lanfranc consecrated his successor Donatus (Donggus) at Canterbury where he had been a monk, his profession of obedience contained no such phrase  (Richter, 29, 31; <span class="italic">Letters of Lanfranc</span>, 66&#150;9). In truth, the centres of ecclesiastical and political power in Ireland lay elsewhere. In 1074 Lanfranc commended Patrick not only to the king of Dublin but also to the increasingly dominant high-king, Toirdelbhach &Oacute; Briain of Munster, whom he urged to convene a council of bishops and religious men to remedy the country's many ills. In 1080 or 1081 he answered in fatherly terms an enquiry from Domnall, chief bishop of Munster, and others about baptism and the eucharist. As for Scotland, the concord of 1072 provided that Thomas of York should have jurisdiction &#145;to its farthest limits&#146;. Lanfranc respected this provision by enabling Thomas in 1073 to consecrate, at York, Ralph, bishop of the Orkneys. His only recorded direct dealings with Scotland were with Queen Margaret, daughter of Edward &AElig;theling and wife of King Malcolm III Canmore. He acceded to her request that he should become her spiritual adviser and he referred to the part that Christ Church monks were taking in setting up the monastery of Holy Trinity, Dunfermline, which became the first regular Benedictine house in Scotland. Lanfranc took no authenticated action with regard to Wales&#151;surprisingly, in view of the inflated claims to jurisdiction that Welsh bishops were advancing; it was left for Anselm to assert Canterbury's authority.<h2>
+<a name="Lanfrancandseculargovernment"></a>Lanfranc and secular government</h2>In English government, Lanfranc enjoyed the king's confidence and on occasion took a leading part. Later Bec tradition stated that, during William I's absences in Normandy, Lanfranc was the chief and keeper (<i>princeps et custos</i>) of England in defence, government, and peace  (Gibson, &#145;Vita Lanfranci&#146;, 711). This takes no account of others, like bishops Odo of Bayeux and Geoffroi of Coutances, who acted as royal deputies. But it fairly epitomizes Lanfranc's part in the troubles of 1075 when, with the king in Normandy, he directed resistance to the revolt (from motives that remain obscure) of Ralph, earl of East Anglia, and Roger, earl of Hereford, who found support from the Englishman Waltheof, earl of Huntingdon. French and English forces under Bishop Wulfstan of Worcester and Abbot &AElig;thelwig of Evesham opposed Roger, while bishops Odo of Bayeux and Geoffroi of Coutances, with William (I) de Warenne, dealt with Ralph's supporters in Cambridgeshire and Norfolk. Lanfranc's part is primarily apparent from his letters. At the outset he took a lead in implementing the king's orders that all his loyal magnates should see to the security of royal castles. After the defeat of Earl Ralph near Cambridge, he reported to the king, urging him not to return to England since such perjurers and brigands could be sufficiently dealt with by his subjects there; Lanfranc clearly felt that peace could better be restored without the wrath that William would surely apply. After the rebels' surrender of Norwich Castle, he again wrote to say that the realm had been purged of the pollution of the Bretons and that the noise of warfare was silent in the land. But he also wrote to Bishop Walcher of Durham and with good reason warned him that the Danes whom Ralph had summoned were on their way; he should fortify and victual his castle.<br>
+<br>Lanfranc's dealings with Earl Roger are particularly interesting. His guiding purpose was to restore the earl to his proper loyalty to the king. He at first appealed to Roger on grounds of their own bond of affection, of the example of service to the king set by his father, William fitz Osbern, and of the duty that a vassal owed to his king, especially since William had been restrained and had shown willingness to hear Roger's grievances against his sheriffs. Lanfranc repeatedly offered to travel anywhere to meet Roger and to promote concord with the king. When such measures failed, Lanfranc sought to coerce Roger into loyalty by invoking his primatial authority to excommunicate him and his followers, with effect throughout England. This was in addition to Lanfranc's military dispositions. When Roger showed signs of repentance and offered to meet Lanfranc, however, Lanfranc now dared not meet him from fear of the king; but he undertook to inform the king of Roger's plea for mercy. Meanwhile, Roger should lie low and do nothing further to provoke the king. In the event, Lanfranc was unable to save Roger: when William returned to England, he condemned him to the Norman penalty for treason&#151;life imprisonment and forfeiture of all lands. Chronicle sources show that Lanfranc was even less successful in obtaining mercy and reconciliation for Waltheof, who had at an early stage withdrawn from the revolt. On the advice of Lanfranc, he did penance and crossed to Normandy where he placed himself in the king's mercy. After his return to England, William, however, exacted the death penalty that English law prescribed. The fates of Roger, and still more of Waltheof, show the limits of Lanfranc's influence with the king and their contrasting methods of dealing with rebellion.<br>
+<br>Lanfranc sometimes acted as a royal justice, particularly in East Anglia. Thus, in 1081, the king instructed him to settle the dispute between Bishop Herfast of Thetford and the abbey of Bury St Edmunds about episcopal rights over the abbey. After hearing witnesses from nine shires, Lanfranc gave a judgment in the abbey's favour which was confirmed by a royal writ. Thereafter, he became involved, with Bishop Geoffroi of Coutances and Count Robert of Mortain, in the latter stages of the abbey of Ely's attempts to clarify its rights and holdings of land, especially as against Bishop Remigius of Lincoln. In these, as other, cases, Lanfranc behaved as a leading tenant-in-chief of the crown rather than in any distinctive way. He took no known part in planning or executing the Domesday Survey, although in a letter he duly answered an enquiry about Canterbury lands in East Anglia. For all his personal standing with the king, he was never a courtier, nor did he make an abiding contribution to Norman administration or political institutions.<br>
+<br>When William I died at Rouen in 1087, he is said to have sent Lanfranc instructions to crown his second son, William Rufus, king of England, which, according to Eadmer, he did with some reluctance; but Lanfranc's acceptance of William was the critical step in the new king's succession. If William of Malmesbury was right in his statement that Lanfranc had a part in William's education and dubbing as a knight, there may have already been a personal bond between them. Lanfranc is said later to have reproved the king gently for disregarding his coronation promises to his people and to the church, and to have received the answer, &#145;What man alive can fulfil everything that he promises?&#146; However, Lanfranc was loyal to William during the widespread revolt of 1088, led by Bishop Odo of Bayeux  (Ordericus Vitalis, <span class="italic">Eccl. hist.</span>, 4.97&#150;8, 110&#150;111; <span class="italic">Historia novorum</span>, 25; Malmesbury, <span class="italic">De gestis pontificum</span>, 73, and <span class="italic">Gest. reg.</span>, 2.359&#150;60).<br>
+<br>Lanfranc's loyalty and forensic skill were apparent in the trial before the king's court of William of St Calais, bishop of Durham, which took place at Salisbury in November 1088, and of which an almost certainly authentic eye-witness account survives  (van Caenegem, 90&#150;106). The bishop was on trial for his part in the revolt. He claimed that, as a bishop, he should be tried by an ecclesiastical court; Lanfranc argued that he was on trial in his capacity as a tenant-in-chief, not an ecclesiastic, and he claimed similarly to have judged Bishop Odo of Bayeux in 1082. Bishop William took his stand upon canon law, producing a book which appears to have been the Durham copy of the <span class="italic">Collectio Lanfranci</span>. But Lanfranc countered by turning against the bishop the canonical principle that he had extracted from it, that of the <i>exceptio spolii</i>&#151;that a defendant who has been despoiled of his possessions must be reinstated in them before proceedings can begin. He frustrated William's appeal to it on the grounds that, before his trial, the king had by no means completely despoiled him of his possessions; when the king's court did this, Lanfranc knew that William could not effectually appeal to the pope because the pope had no means of enforcing repossession and could not, therefore, hear him. Lanfranc won lay as well as clerical plaudits in the king's court as the <i>vetulus ligaminarius</i> (probably: &#145;the old master of the hunting pack&#146;), who spoke well when he challenged the bishop. Under William II, as under his father, Lanfranc was, when needed, the staunch and effective upholder of the Norman order and of the king's cause within it.<h2>
+<a name="Lanfrancandpapalpolitics"></a>Lanfranc and papal politics</h2>If Lanfranc's loyalty to the English crown remained unshakeable, his loyalty in his last years to the papacy of Gregory VII and his followers may be questioned. In 1080 Henry IV of Germany chose Archbishop Guibert of Ravenna to be an anti-pope; at Eastertide 1084, having entered Rome, he established him as Pope Clement III. A letter of Lanfranc shows that, in 1084 or 1085, he initiated an exchange with a partisan of Clement whose name was abbreviated as &#145;Hu.&#146;. He was probably Hugh Candidus, Gregory VII's long-standing and virulent opponent among the Roman cardinals. Lanfranc sent a masterly and noncommittal reply, deprecating both Hu.'s maligning of Gregory and his eulogy of Clement. He conceded that the success of Henry IV, now emperor, indicated divine favour. Yet Hu. might not himself come to England without its king's leave, and the English kingdom would take no decision until the situation was further clarified. Clement in due course sent Lanfranc three letters, highly commending him, inviting him to visit Rome, and requesting Peter's Pence. They were copied into Lanfranc's canon-law collection, but he is not known to have replied. Lanfranc thus undoubtedly made prudent contacts with the Guibertine party and kept his options open. But letters to him from Pope Urban II and Anselm of Bec, as well as contacts with others of Gregorian sympathies, make it clear that he was not known to have in any way identified himself with the opposing party.<h2>
+<a name="Asbenefactor"></a>As benefactor</h2>Lanfranc's contemporaries looked to a monk&#150;archbishop for generous almsgiving; he amply fulfilled their expectations. Almsgiving was a keynote of his activity: at his episcopal consecration, the customary <i>sortes bibliae</i> (fortune-telling through the random selection of biblical verses) produced the text, &#145;Give alms, and behold! all things are clean to you&#146;  (<span class="roman">Luke</span> 11: 41). He was believed to have disbursed in alms &pound;500 a year. He provided for the poor on all his manors, but his three principal charitable foundations were at Canterbury itself. In his latter years, when his main expenditure upon Christ Church was completed, he founded outside the north gate of the city the church of St Gregory, the dedication of which reflected his devotion to the pope who had sent St Augustine of Canterbury to Britain. He established there a community of clerks whom he intended to make good the pastoral ministrations in Canterbury, especially burials, which had been curtailed by reason of the expansion of the cathedral monastery, and which were to be provided for the poor without payment. Lanfranc brought to St Gregory's a rich endowment of relics of early archbishops and other saints of the Anglo-Saxon, and especially Kentish, past. Near to it, he built the hospital of St John the Baptist to relieve the sick and aged, and at Harbledown, a short distance to the west of the city, he built a leper hospital of St Nicholas. From his estates he endowed these twin hospitals with &pound;140 yearly. Lanfranc's foundations were far from complete by his death, but they form a prominent part of the munificence which was remembered in his obit. His humane side was also evident in his concern to abolish the slave trade from England to Ireland.<h2>
+<a name="Deathandreputation"></a>Death and reputation</h2>Lanfranc died of fever on 28 May 1089, suddenly but after receiving the last rites; he had wished so to die, with memory unclouded and speech unimpaired. He was buried in the nave of his new cathedral to the west of the choir screen; but when Anselm built a new choir his body was moved. Nothing of his tomb remains. No cultus developed but at Canterbury he was held in high honour. A man of tireless and well-directed energy, to the end of his life he adapted himself surely to the needs of each change in his circumstances. The rapport which, after 1072, he achieved with William I, a master of commanding ability whom he understood and respected, enabled him to leave English church and society far stronger than he found them after the traumas of the conquest. The effect of his archiepiscopate was to equip the church in England for its place in the mainstream of Christian life during the rest of the middle ages.<br>
+<br>H. E. J. Cowdrey </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Gibson, <i>Lanfranc of Bec</i> (1978) &middot; G. d'Onofrio, ed., <i>Lanfranco di Pavia e l'Europa del secolo XI, nel IX centenario della morte (1089&#150;1989)</i>: <i>atti del convegno internazionale di studi</i> [Pavia 21&#150;4 Sept 1989] (Rome, 1993) &middot; M. Gibson, ed., &#145;Vita Lanfranci&#146;, <i>Lanfranco di Pavia e l'Europa del secolo XI, nel IX centenario della morte (1089&#150;1989)</i>: <i>atti del convegno internazionale di studi</i> [Pavia 21&#150;4 Sept 1989], ed. G. D'Onofrio (Rome, 1993), 659&#150;715 &middot; G. Crispin, &#145;Vita Herluini&#146;, in <i>The works of Gilbert Crispin, abbot of Westminster</i>, ed. A. S. Abulafia and G. R. Evans (1986), 183&#150;212 &middot; R. W. Southern, <i>Saint Anselm</i><i>: a portrait in a landscape</i> (1990) &middot; <i>The letters of Lanfranc, archbishop of Canterbury</i>, ed. and trans. H. Clover and M. Gibson, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=OMT')">OMT</a> (1979) &middot; D. Whitelock, M. Brett, and C. N. L. Brooke, eds., <i>Councils and synods with other documents relating to the English church, 871&#150;1204</i>, 2 (1981) &middot; R. C. van Caenegem, ed., <i>English lawsuits from William I to Richard I</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=SeldS')">SeldS</a>, 1, 106 (1990) &middot; H. S. Offler, ed., &#145;De iniusta vexacione Willelmi episcopi primi per Willelmum regem filium Wellelmi magni regis&#146;, rev. A. J. Piper and A. I. Doyle, <i>Camden miscellany, XXXIV</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=CS')">CS</a>, 5th ser., 10 (1997), 49&#150;104 &middot; Guillaume de Poitiers [Gulielmus Pictaviensis], <i>Histoire de Guillaume le Conqu&eacute;rant / Gesta Gulielmus ducis Normannorum et regis Anglorum</i>, ed. R. Foreville (Paris, 1952) &middot; &#145;Acta Lanfranci&#146;, <i>Two of the Saxon chronicles parallel</i><i>: with supplementary extracts from the others</i>, ed. J. Earle, rev. C. Plummer, 1 (1892), 287&#150;92 &middot; M. Richter, ed., <i>Canterbury professions</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=CYS')">CYS</a>, 67 (1973) &middot; <i>Willelmi Malmesbiriensis monachi de gestis pontificum Anglorum libri quinque</i>, ed. N. E. S. A. Hamilton, Rolls Series, 52 (1870) &middot; William of Malmesbury, <i>Gesta regum Anglorum / The history of the English kings</i>, ed. and trans. R. A. B. Mynors, R. M. Thomson, and M. Winterbottom, 2 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=OMT')">OMT</a> (1998&#150;9) &middot; <i>Eadmeri historia novorum in Anglia</i>, ed. M. Rule, Rolls Series, 81 (1884) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=Ordericus%20Vitalis%2C%20Eccl.%20hist.')">Ordericus Vitalis, <i>Eccl. hist.</i></a> &middot; <i>Patrologia Latina</i>, 150 (1854), 105&#150;406 &middot; <i>The historical works of Gervase of Canterbury</i>, ed. W. Stubbs, 2: <i>The minor works comprising the Gesta regum with its continuation, the Actus pontificum and the Mappa mundi</i>, Rolls Series, 73 (1880), 325&#150;41, at 363&#150;70 &middot; Pope Alexander II, &#145;Epistolae et diplomata&#146;, <i>Patrologia Latina</i>, 146 (1853), 1279&#150;430 &middot; <i>Decreta Lanfranci monachis Cantuariensibus transmissa</i>, ed. D. Knowles, Corpus Consuetudinum Monasticarum, 3 (1967) &middot; F. Liebermann, &#145;Lanfranc and the antipope&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 16 (1901), 328&#150;32 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=ASC')"><i>ASC</i></a>, s.a. 1070 [text A]; s.a. 1086, 1089 [text E] &middot; F. Barlow, <i>The Norman conquest and beyond</i> (1983), 223&#150;44 &middot; M. T. Gibson, <i>&#145;Artes&#146; and Bible in the medieval West</i> (1993), chaps. 12&#150;13 &middot; Z. N. Brooke, <i>The English church and the papacy from the conquest to the reign of John</i> (1931), 57&#150;83, 117&#150;46 &middot; J. de Montclos, <i>Lanfranc et B&eacute;renger</i><i>: la controverse eucharistique du XIe si&egrave;cle</i> (Louvain, 1971) &middot; H. E. J. Cowdrey, &#145;The enigma of Archbishop Lanfranc&#146;, <em>Haskins Society Journal</em>, 6 (1994), 129&#150;52 &middot; R. B. C. Huygens, &#145;B&eacute;renger de Tours, Lanfranc et Bernold de Constance&#146;, <em>Sacris Erudiri</em>, 16 (1965), 358&#150;77 &middot; <i>The Gesta Guillelmi of William of Poitiers</i>, ed. and trans. R. H. C. Davis and M. Chibnall, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=OMT')">OMT</a> (1998)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> manuscript drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=16004&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Bodley 569, fol. 1 [<i>see illus.</i>]<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">H. E. J. Cowdrey, &#145;<span class="roman"><span class="headword">Lanfranc</span>  (<em>c.</em>1010&#150;1089)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/16004, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Lanfranc (<em>c.</em>1010&#150;1089): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/16004 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

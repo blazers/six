@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20493;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20493-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20493-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20493#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ockham,  William</span>  (<em>c.</em>1287&#150;1347), <span class="occ">philosopher, theologian, and political theorist</span>, later known as the Venerable Inceptor, was born at Ockham, north-east of Guildford in Surrey.<h2>
+<a name="Earlylifeandwritings"></a>Early life and writings</h2>Ockham entered the Franciscan order before the age of fourteen, and probably received his philosophical education at the Franciscan convent in London, which was the school for the London custody, one of seven divisions of the English province of the order. It was in London, at Southwark, that he was ordained subdeacon in 1306 by Robert Winchelsey, archbishop of Canterbury. If Ockham ever studied at Paris, for which there is no positive evidence, it would have been about 1310, as part of the quota of students in theology that each province was permitted to send to Paris for advanced training in theology, before either being appointed as a lector at a local convent, or being chosen to proceed to a theological degree at a university. Whether his initial theological education was solely in England or partially at Paris, he was eventually sent to Oxford, and in 1317&#150;19 lectured on the <span class="italic">Sentences</span> of Peter Lombard as bachelor of theology at Greyfriars. The <span class="italic">Reportatio</span> of books 2&#150;4 of his <span class="italic">Sentences</span> commentary dates to this period. While at Oxford, in June 1318, he was granted a licence by the bishop of Lincoln to hear confessions. According to the Oxford curriculum, Ockham would have given his bachelor's lectures on the <span class="roman">Bible</span> after completing those on the <span class="italic">Sentences</span>. This would place his biblical lectures as bachelor in the academic year 1319&#150;20, although nothing has remained from that scholastic activity.<br>
+<br>Between 1321 and 1324 Ockham was active in one of the order's schools as a lecturer in logic and natural philosophy, awaiting his opportunity to proceed to the doctorate at Oxford, or possibly Paris. These were the most productive years of an active life of writing. He revised his questions on the first book of the <span class="italic">Sentences</span>, which became known as his <span class="italic">Ordinatio</span>. He lectured on Aristotle's logic, producing his <span class="italic">Expositio aurea</span> and his <span class="italic">Expositio super libros elenchorum</span>. He wrote his <span class="italic">Expositio in libros physicorum</span> on Aristotle's <span class="italic">Physics</span>. He engaged in quodlibetic disputations, the results of which form the first five series of disputations in his <span class="italic">Quodlibeta septem</span>. He wrote a massive, revisionary, textbook in logic known as <span class="italic">Summa logicae</span>. And he may well have begun one or both of his treatises on the eucharist (<span class="italic">De quantitate</span> and <span class="italic">De corpore Christi</span>, the first or both of which became known as <span class="italic">De sacramento altaris</span>). These works were written in the same convent in which Walter Chatton was a lecturer in theology, and where Adam Wodeham was both a student in Chatton's classroom and an assistant (<i>socius</i>) to Ockham. Both Chatton's <span class="italic">Reportatio</span> on the <span class="italic">Sentences</span> (1321&#150;3), and his <span class="italic">Lectura</span> on book 1 of the same work (1323&#150;4), reveal a textual interdependence with Ockham's <span class="italic">Quodlibeta</span> and <span class="italic">Expositio in libros physicorum</span> that could only have resulted from close proximity in time and space. The location of this intense activity was probably the London convent, as Gedeon G&aacute;l has argued, although the Oxford convent cannot be excluded.<br>
+<br>Ockham's positions on the status of universal concepts, his belief that only substances and qualities were real entities, and the implications of these views for the doctrine of the eucharist had already been criticized by Walter Chatton by 1322. These discussions led Ockham to modify his view on universals, as well as to intensify his attack on the view that quantity, relation, place, time, and motion were real entities, apart from absolute substances and their qualities.<h2>
+<a name="Chargesofheresy"></a>Charges of heresy</h2>Ockham's ideas soon attracted attention outside the schools as well. At a provincial chapter of his order, apparently at Cambridge in 1323, he was called upon to explain his views on thirteen propositions derived from his teaching on the Aristotelian categories, especially the category of &#145;relation&#146;. While the annual provincial chapter for the English Franciscan province was normally held between mid-August and early September, and in 1323 was held at Bristol, the chapter at which Ockham responded may have been called specifically for that purpose and could, according to the calendar then in use, have occurred as late as March 1324. No action against Ockham is known to have resulted, but this internal inquiry may have led to the lodging of a complaint against his teaching at the papal court.<br>
+<br>Late in the spring of 1324 Ockham was apparently summoned to Avignon to have his writings, specifically his lectures on the <span class="italic">Sentences</span>, examined for heretical or erroneous teaching. It may be that his title, inceptor, meant that he was about to become regent master, probably at Oxford, in the following autumn term had he not been summoned to Avignon on charges of false teaching. However, the title inceptor was applied by the Franciscan William Woodford to three other Franciscan theologians, William Ware, Robert Cowton, and Walter Chatton, who had all, like Ockham, entered the order before the age of fourteen, but of whom only one (Chatton) is known to have become a regent master in theology.<br>
+<br>In the summer of 1324 Ockham crossed the channel, travelled to Provence (perhaps pausing briefly at the Franciscan convent at Paris on the way), and took up residence at the Avignon convent. There he came into association with several important Italian Franciscans: Francisco da Marchia, a Scotistic theologian and doctor of Paris; Bonagratia da Bergamo, procurator-general of the order; and Michele da Cesena, the minister-general of the order. The evaluation of the text of Ockham's <span class="italic">Sentences</span> commentary, which he had brought with him to Avignon, was initially entrusted to John Lutterell, former chancellor of Oxford, who had arrived in Avignon the year before. Whether Lutterell's opposition to Ockham dated back to their time together at Oxford, or began at Avignon, is not known. Lutterell extracted fifty-six philosophical and theological statements from Ockham's work of before May 1325 that he felt were erroneous or heretical. Subsequently a commission was appointed to inspect Ockham's work in light of Lutterell's list. Those serving on the commission, in addition to Lutterell, were the Dominicans Raimond B&eacute;guin, Dominique Grenier, Durand de St Pour&ccedil;ain, and two Augustinian friars, the theologians Gregorio da Lucca and Jean Paignote. All of them were Paris doctors of theology and, with the exception of Paignote, were prelates or bishops-elect.<br>
+<br>This commission removed from consideration most of Ockham's statements on the ontological status of such categories as relation, time, motion, place, and quantity unless they were directly part of a theological proposition. The commission compiled a list of fifty-one propositions by 1326, which was subsequently altered and reduced to a list of forty-nine. In addition, the Cistercian bishop of Pamiers, Jacques Fournier (later Pope Benedict XII), who was also a doctor of theology from Paris, with considerable experience in rooting out heresy in his diocese, wrote a critical evaluation of Ockham's teaching based on these lists. In the end no formal condemnation took place, possibly because some of the positions on which Ockham was being accused of erroneous teaching had defenders, both on the commission and within the larger scholastic theological community, especially among Scotists.<h2>
+<a name="Opponentofthepapacy"></a>Opponent of the papacy</h2>Although in no way a restriction on the ability of the commission to proceed, the situation was altered in 1328 when Ockham and several fellow Franciscans, specifically Michele da Cesena and Bonagratia da Bergamo, arrived at the conclusion that the position taken by Pope John XXII on the issue of the poverty of Christ and the apostles was heretical. Expecting no justice from a heretical pope, they fled Avignon for the Mediterranean port of Aigues-Mortes during the night of 26 May 1328. There they took sail for Genoa and Pisa, where they joined the entourage of Emperor Ludwig of Bavaria, the leading political opponent of the pope. Ockham and his companions were excommunicated, and John XXII eagerly but unsuccessfully sought their arrest and return to Avignon. Ockham remained with the imperial court when it returned from Italy to Munich, and he resided at the Franciscan convent in Munich for the remaining two decades of his life, never to return to England.<br>
+<br>The flight to Italy and Germany was not only a geographical relocation for Ockham; it marked a radical shift in his intellectual preoccupations. From then on Ockham concerned himself with the question of a heretical pope, the issues on which he based that view of John XXII, and the implications of those ideas for church polity. Among the many books and treatises on political theory that he produced in this period, the two most important were his <span class="italic">Opus nonaginta dierum</span>, written, as the title states, in ninety days, and his <span class="italic">Dialogus</span>. In these works Ockham attacked John XXII's condemnation of the Franciscan doctrine of evangelical poverty as expressed in the papal constitutions <span class="italic">Ad conditorem canonum</span> (8 December 1322), <span class="italic">Cum inter nonullos</span> (12 November 1323), <span class="italic">Quia quorundam</span> (10 November 1324), and <span class="italic">Quia vir reprobus</span> (16 November 1329). In the climate of the imperial court and the Franciscan convent at Munich, fed by the views of Michele da Cesena and Marsiglio da Padua, the state and future of the church took precedence over other interests for Ockham. His earlier plan to write a commentary on Aristotle's <span class="italic">Metaphysics</span>, which had been on his agenda before leaving England, was dropped. While his philosophical and theological views continued to be debated at Oxford and Paris in the 1330s and 1340s, Ockham himself was silent on those subjects after 1328.<br>
+<br>When Michele da Cesena died in 1342, Ockham took possession of the seal of the Franciscan order, although he was not the order's minister-general in exile. Without recanting his position on papal heresy or on any other issue, Ockham died at Munich on 10 April 1347, two years before the black death struck that city, where he was buried. The seal was restored to the order by Ockham's assistant (<i>socius</i>), also named William (de Anglia), at the general chapter at Verona in June 1348, and the petition of the latter for reconciliation with the papacy was granted on 8 June 1349.<h2>
+<a name="Ockhamswritingsandtheirreception"></a>Ockham's writings and their reception</h2>Ockham left behind him a sizeable body of writings. In the area of theology these include a revised edition of his commentary on the first book of the <span class="italic">Sentences</span> (his <span class="italic">Ordinatio</span>), a <i>reportatio</i> of his commentary on books 2&#150;4 of the <span class="italic">Sentences</span>, his seven <span class="italic">Quodlibeta</span> composed in England and Avignon, his questions on the eucharist, and various disputed questions. While all of these works contain material important to philosophy, they are essentially works in theology. Ockham's major writings in logic and natural philosophy are his <span class="italic">Summa logicae</span>, his commentaries on the logic of Porphyry and Aristotle, commentaries and questions on Aristotle's <span class="italic">Physics</span>, and his treatise on God's predestination and foreknowledge of future contingents. All these works have now been critically edited, a task only completed in 1988.<br>
+<br>Critical editions of Ockham's equally important works in political thought have been only partially realized. These include his <span class="italic">Opus nonaginta dierum</span>, his letter to the general chapter of the Franciscan order meeting at Assisi in 1334, his treatises against John XXII and Benedict XII, and his eight questions on the power of the pope (<span class="italic">Octo quaestiones de potestate papae</span>). His single most important work on the relation of church and state, his <span class="italic">Dialogus de potestate imperiali et papali</span>, except for certain sections that have been edited, is available only in the defective edition of Melchior Goldast published in 1614. A critical edition based on the manuscripts was in progress in 1998.<h2>
+<a name="Ockhamsintellectualarmoury"></a>Ockham's intellectual armoury</h2>Ockham's contributions to medieval thought lie in two areas, his philosophical and theological writings on the one hand, composed between 1317 and 1326, and his political writings on the other, composed after 1328. Since these coincide with two distinct periods in his life, they will be discussed in that order.<br>
+<br>In approaching Ockham's philosophical thought, it is important to keep in mind that it was the product of someone who was a theologian. His earliest philosophical views are contained in his lectures on the <span class="italic">Sentences</span>, which were a product of an academic requirement of the theological programme. Moreover, all his commentaries on Aristotle, as well as his <span class="italic">Summa logicae</span>, were written after he had lectured on the <span class="italic">Sentences</span>, and they were intended to be of use to those preparing for or practising theology, as he makes clear in his introduction to his <span class="italic">Summa logicae</span>. Ockham was never a &#145;pure&#146; philosopher, but rather one who used philosophical ideas as tools for theological enquiry. On the other hand, Ockham's theology, as was true for others of his and previous generations at Oxford and Paris, was heavily dependent on the tools of philosophical enquiry and analysis, and, in his case, on semantic theory.<br>
+<br>Somewhat over-confidently, Ockham assumed that proper philosophical and linguistic tools were capable of helping to solve certain types of theological and exegetical questions, and that one of the problems with the theology of the previous generation, particularly that of Henri de Ghent and John Duns Scotus, despite the many differences in the thought of those two individuals, was that their philosophical tools and approaches were inadequate for the task, or misled them. Thus Ockham shared many of Scotus's theological positions, such as his views on grace and justification, much of his sacramental theology, and his ethical theories, and he even reformulated some of Scotus's philosophical views, such as intuitive cognition. But he disapproved of Scotus's tendency to reify abstract nouns into existent entities, and to distinguish, within one and the same thing (<i>res</i>), non-identical features or entities (<i>formalitates</i>) that had ontological status (a formal distinction <i>ex parte rei</i>) in between a real distinction and a mental distinction. For Ockham a formal distinction applied only to the distinction of persons in the Godhead, and should not be applied to the created order, or even to the divine attributes.<h2>
+<a name="TheprinciplesofOckhamsthought"></a>The principles of Ockham's thought</h2>Ockham employed a number of fundamental principles that shaped his approach to many problems in philosophy and theology. Each of these had a history in earlier thinkers, but their combination in Ockham gives a distinctive character to his thought. The first of these is his belief in the total transcendence of God, and, correspondingly, the complete contingency of the created order in all its aspects. Duns Scotus believed that the term &#145;being&#146; had a meaning that was applicable both to God and creatures, and that this &#145;univocity&#146; of being allowed theologians to make statements about God based on a concept of being that was derived from the created order. Ockham, by contrast, broke with the Platonic idea of the universe as a &#145;great chain of being&#146;, in which God and creation were linked together ontologically. For Ockham, only God was absolutely necessary; everything else, including the physical, metaphysical, and moral orders, was contingent and unnecessary.<br>
+<br>A second, related, principle already established in thirteenth-century theology, is the distinction between God's power considered from the standpoint of simple capacity (<i>potentia absoluta</i>), and that same power considered from the standpoint of divine volition and divine decrees (<i>potentia ordinata</i>). Ockham uses that distinction to identify and explore the non-necessary character of causal relationships and states of affairs in the orders of nature and salvation. Any entities that are individually distinct, such as fire and the combustion of a flammable substance, or acts done in a state of grace and God's acceptance of those actions as meritorious of eternal life, can be separated in such a way that one could exist without the other. As biblical miracles attest, God can produce or conserve directly any effect normally produced through secondary causality without the presence of that cause, just as he can produce or conserve a cause without its normal effects. God's power, considered simply or absolutely, extends to anything that does not involve a direct contradiction. Yet God does not act arbitrarily. God has bound himself to uphold and work within the natural and spiritual orders he established. The reliability and predictability of the laws of nature, which Ockham affirms, are the result of the reliability of God's promises to sustain the system he created. Their reliability is not grounded in the inherent, necessary, and eternal nature of things. In this regard Ockham is continuing the attack on the Greek philosophical view of the necessary character of natural relationships that began with the Parisian articles of 1270 and 1277.<br>
+<br>Ockham's belief that the laws of nature and grace were established by God and contingent on his will permits him to substitute a system of contractual efficacy in place of a system of inherent virtues or natures&#151;a third guiding principle in his thought. Ockham's notion of ascribed value, again inherited from thirteenth-century thinkers, which he applies to natural forces as well as sacramental efficacy, is another dimension to his attack on the Greek understanding of the nature of the universe and causal relationships.<br>
+<br>A fourth principle is Ockham's belief that the fundamental realities in the external world are individual substances and their qualities: as the world is composed of individually existing things, it is not individuation that requires explanation, but similarity and universality.<br>
+<br>The final principle, frequently referred to as &#145;Ockham's razor&#146;, is the principle of economy, or parsimony: plurality ought not to be posited without necessity (&#145;pluralitas sine necessitate non est ponenda&#146;&#151;the often cited phrase &#145;entia non sunt multiplicenda praeter necessitatem&#146; is only an approximation to what Ockham actually wrote). This is not a principle of nature, since Ockham is convinced that God, for his own reasons, does many things in a more elaborate way that could have been done in a shorter or simpler way. The principle of economy is a hermeneutical principle, through which Ockham rejects assumptions and explanations in the argumentation of others that he feels are unnecessary.<h2>
+<a name="Theimplicationsofnominalism"></a>The implications of nominalism</h2>Since the fifteenth century Ockham's name has been linked with nominalism, which became an important current of thought in the universities of Europe in the fifteenth and early sixteenth centuries. By &#145;nominalism&#146; is usually meant a theory on the status of universal concepts and how they come to be known. As stated above, Ockham believed that the external world was composed of individual substances and qualities. Even a mental concept is universal only in the sense that it can be predicated of many individuals in external reality. Ockham did not believe that the similarity observed in individuals belonging to the same species was a creation of the mind superimposed on external reality, but was an accurate perception that individuals of the same species had similar qualities. For example, each individual human being is described as a rational animal. Yet the language through which that truth is affirmed, when expressed collectively, speaks of sharing a common nature, or having something in common.<br>
+<br>Such expressions for Ockham are true in the sense that they are a linguistic shorthand for a multitude of statements about individuals, but they are false if what is meant is that things actually share one common nature or have a nature in common. To be a citizen of a country does not mean that individuals share citizenship as an entity that inheres in them or is divided among them. For Ockham there are no common natures that exist apart from individuals or that inhere in individuals. Socrates is a rational animal, as is Plato. But they do not share rationality as a common nature or possession that makes them rational. The problem for Ockham was that these linguistic expressions were often mistaken for ontological realities. General terms such as &#145;rationality&#146; are convenient ways of talking collectively about characteristics that individuals have individually. Similarly, propositions containing general terms are simplified equivalents of a collection of propositions containing singular terms.<br>
+<br>It is difficult to know whether Ockham's belief in the primacy of the individual and the ontological status of universals shaped his logic and natural philosophy, or whether his understanding of the relation of language and external reality led to his view of universal concepts. Ockham was opposed to any logic that assigned ontological status to parts of speech, linguistic expressions, or abstract nouns. The only realities for Ockham were substances and qualities, and the other Aristotelian categories, such as quantity, relation, place, motion, and time, were simply ways of describing substances and qualities, not separate entities in themselves.<br>
+<br>Ockham's interpretation of the Aristotelian categories led to a distinctive natural philosophy that set it apart from most previous interpretations, and from the common opinion of his day. Most contemporaries accepted the view that motion, time, place, space, relation, and quantity were things that existed separately from individual things that existed in time and space. For them the sequential flow of time would exist even if there were no things (and thus no events) to &#145;take place&#146;. Similarly, the concept of motion had ontological status apart from things in motion, just as relation existed apart from things that were related. In fact, to talk about things &#145;in motion&#146; or &#145;related&#146; seemed to presuppose the existence of such things as &#145;motion&#146; and &#145;relation&#146; separate from real individuals. For Ockham, however, statements about things in time or in motion were again linguistic shorthand for a multitude of statements arranged sequentially. Similarly, the category of quantity was not an entity separate from things, but another way of saying that individual things were extended in space. It should be noted, however, that Ockham was opposed to atomism. He believed in the infinite divisibility of temporal and spatial continua.<h2>
+<a name="Ockhamsepistemology"></a>Ockham's epistemology</h2>In the area of epistemology Ockham developed Duns Scotus's theory of intuitive cognition into a self-sufficient epistemology based on direct sense experience. In place of a multi-stage process, by which an essentially passive mind extracted and abstracted knowledge from sense images or &#145;species&#146; that were thought to emanate from an object, Ockham gave primacy to the immediate intuitive (that is, sensory, especially visual) knowledge of individual things. Both sensible and intelligible species or images, which had formed the basis for much of thirteenth-century epistemology, were dismissed by Ockham as unnecessary elements in explaining knowledge by sense experience. While Ockham's contemporaries and successors accepted the idea of intuitive cognition, most retained species as part of the explanation of the process of knowing. Similarly, most were critical of Ockham's redefinition of intuitive cognition as that sense experience that informed human beings of the existence or non-existence of an object. For others, information about what was not present was part of reflection, and was derived from abstractive cognition.<br>
+<br>On the grounds that individual things are separate entities, and that God can preserve an effect without its normal cause or a cause without its normal effect, as biblical miracles attested, Ockham argues that one can have an intuitive cognition of something that is non-existent or no longer in existence. Despite the false witness of sense experience in this instance, Ockham's belief in certitude led him to espouse the position that the mind would be able to judge that the object was not in fact present.<h2>
+<a name="TheinfluenceofDunsScotus"></a>The influence of Duns Scotus</h2>Much of Ockham's theology was derived from the Franciscan tradition, and from the writings of Duns Scotus in particular. God is not a debtor to man, or obliged in any absolute way to uphold or conform to the created orders of nature and grace. God remains free and exists outside time. Yet God has bound himself to uphold the created order, and to act within a system and according to rules that are of his own design. In the physical world this contingent, covenantal (as distinct from necessary) arrangement works through secondary causality. In the order of grace and salvation it works through ascribed value, that is, sacraments produce their proper effects not because of powers inherent in them, but because of the system God has ordained through which, when properly administered, grace is received. Only the eucharist, as the body and blood of Christ, has inherent virtue. Ockham also accepted Scotus's view that the presence of the habit of grace in the soul does not require God to grant the reward of eternal life. Absolutely speaking, God remains free to reject those in a state of grace and to reward those not in a state of grace. God has bound himself, however, to reward with eternal life only those who possess the habit of grace. This Scotistic doctrine of divine acceptation (<i>acceptatio divina</i>) remained an important yet controversial element in Ockhamist theology throughout the late middle ages.<h2>
+<a name="Ockhamspoliticalthought"></a>Ockham's political thought</h2>The last area of Ockham's thought to be examined is his political theory, which occupied his attention during the last two decades of his life. Ockham's conviction that Pope John XXII had erred both in his condemnation of the Franciscan position on apostolic poverty (that Christ and the apostles owned nothing), and in his belief that the souls of the blessed did not enjoy the vision of the divine essence until the last judgment, led Ockham to re-examine a number of fundamental issues regarding temporal and political power. One of these was a penetrating analysis of the concepts of lordship (<i>dominium</i>), ownership, and use, through which Ockham defended the Franciscan position of a natural right of use that did not entail legal ownership. Another was the effect on the structure of the church and ecclesiastical authority of the possibility&#151;for Ockham a reality&#151;of the pope's falling into heresy. This led Ockham to revive and refine conciliar theories that had been worked out in canon law in the thirteenth century.<br>
+<br>Ockham's political philosophy has often been associated with that of Marsiglio da Padua as expounded in the latter's <span class="italic">Defensor pacis</span> in 1324. Both were writing in the same period and were attached to the court of Ludwig of Bavaria, both were concerned with the relationship of church and state, and both were critical of the papacy. Ockham, however, was far more conservative than Jean de Paris or Marsiglio da Padua regarding the power and autonomy of secular government, and on the role that king or emperor might play in the governmental structure of the church. For Ockham the papacy was an institution founded by Christ, and the pope possessed a doctrinal and administrative authority in the church that exceeded that of the episcopate, priesthood, or doctors of theology. Monarchy, be it secular or papal, was the ideal form of government for Ockham. Yet it was scriptural truth that ultimately mattered on issues of doctrine. The question was over the appropriate authority for interpreting scripture and deciding what was doctrinal error, and also what mechanisms of redress existed in cases where the single monarchical authority proved inadequate for the task or had fallen into error.<br>
+<br>In the case of a pope who had erred into heresy, correction came through the doctrinal authority of the church as a whole. This might take the form of a general council which, in the absence of any other governmental authority, could be summoned by king or emperor. General councils, however, were not infallible. While God would not allow the church as a whole to fall into error, the interpretation and defence of true doctrine was not vested in any one person or group within the church. The only institution that came close to infallibility for Ockham, despite John XXII, was the papacy.<br>
+<br>In contrast to Marsiglio da Padua, Ockham defended a two-power political structure in which coercive temporal jurisdiction was vested in the secular monarch while spiritual jurisdiction was vested in the pope. The one did not have supreme or preferential authority over the other. Although Ockham and other political theorists of his age have often been criticized for discussing politics in the abstract&#151;what should be, rather than dealing with things as they are&#151;Ockham's two-power political world, and his reluctance to accord to any one institution or individual total sovereignty in society or doctrine, may have been more truly reflective of the real world in which he lived.<h2>
+<a name="Ockhamsinfluenceandreputation"></a>Ockham's influence and reputation</h2>Well before Ockham's death in 1347 his thought and reputation had attracted followers and produced vocal critics&#151;the former sometimes invoking his name for positions he did not maintain and the latter sometimes accusing him of holding or implying views he apparently did not intend. His name, alongside that of Scotus and a handful of others, remained at the centre of scholastic debate at Oxford until the late fourteenth century, although Ockhamism never became a dominant school of thought in fourteenth-century England, as was once thought. By the 1330s at Paris an as yet unidentified group of Ockhamists in the arts faculty emerged, espousing positions in logic and natural philosophy that were influenced by Ockham's writings but were not faithful reflections of his thought. The prohibitions on Ockham's writings, and the attempt in the faculty of arts to condemn members and ideas belonging to the Ockhamist sect, coincided with a papal suspension of university privileges and a demand for reform, which may have aided the anti-Ockhamist masters of arts in mobilizing opinion against writings and ideas linked to a major critic of the pope.<br>
+<br>The attempt to suppress Ockhamist ideas at Paris appears to have been only partially successful, since Ockham's natural philosophy had several defenders at Paris in the faculty of theology during the 1340s, and the statutes and oaths concerning his teaching were removed from registers of the arts faculty and nations in the 1350s. Ockham's ideas continued to be discussed at Paris as a legitimate part of contemporary scholastic thought until the end of that century, and were especially influential on the philosophy, theology, and political thought of Pierre d'Ailly. Although opposition to Ockham increased in the fifteenth century as a result of the rise of Albertism and the reawakening of Thomism and Platonic thought, he was recognized as a major authority by those who called themselves nominalists and adhered to the <i>via moderna</i>.<br>
+<br>Thus although Ockham's thought remained controversial in the later middle ages, especially in the fields of epistemology, the doctrine of justification, and sacramental theology, he also continued into the sixteenth century to be regarded as a major theologian and philosopher. Theologians active on the eve of the Reformation, such as the Scot John Mair at Paris, and Gabriel Biel in Germany, counted themselves as Ockhamists. And although Martin Luther came to be particularly critical of Ockham's theology, he nevertheless acknowledged an indebtedness to Ockham, especially as transmitted through Biel.<br>
+<br>As philosophical and theological currents changed in the course of the sixteenth century, Ockham and late medieval nominalism declined in importance. But with the revival of interest in late medieval thought that took place in the second half of the twentieth century, Ockham has re-emerged as one of the major figures of scholastic thought, generally ranked on the level of Thomas Aquinas and John Duns Scotus. And from the standpoint of the philosophy of the 1980s and 1990s, Ockham's interest in terminist logic, linguistic theory, and semiotics has placed him in the forefront of those medieval thinkers used as sources in contemporary philosophical discussion.<br>
+<br>W. J. Courtenay </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Ockham, <i>Opera philosophica et theologica</i>, 17 vols. (St Bonaventure, NY, 1974&#150;88) &middot; W. Ockham, <i>Philosophical writings</i>, trans. P. Boehner (1957); rev. S. F. Brown (1990) &middot; W. Ockham, <i>Predestination, God's foreknowledge, and future contingents</i>, trans. M. M. Adams and N. Kretzmann (New York, 1969) &middot; W. Ockham, <i>Quodlibetical questions</i>, trans. A. J. Freddoso, 2 vols. (1990) &middot; <i>Ockham's theory of terms</i><i>: part 1 of Summa logicae</i>, trans. M. J. Loux (Notre Dame, 1974) &middot; <i>Ockham's theory of propositions</i><i>: part 2 of Summa logicae</i>, trans. A. J. Freddoso and H. Schuurman (Notre Dame, 1980) &middot; [W. Ockham], <i>Opera politica</i>, ed. H. S. Offler and others, 4 vols. (1940&#150;96) &middot; [W. Ockham], <i>A letter to the Friars Minor and other writings</i>, ed. A. S. McGrade and J. Kilcullen (1995) &middot; W. Ockham, <i>A short discourse on tyrannical government</i>, ed. A. S. McGrade and J. Kilcullen (1992) &middot; J. P. Beckmann, ed., <i>Ockham-Bibliographie, 1900&#150;1990</i> (Hamburg, 1992) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20493&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 2.138&#150;7 &middot; M. Adams, <i>William Ockham</i>, 2 vols. (Notre Dame, 1987) &middot; L. Baudry, <i>Guillaume d'Occam</i><i>: sa vie, ses oeuvres, ses id&eacute;es sociales et politiques</i> (Paris, 1950) &middot; P. Boehner, <i>Collected articles on Ockham</i>, ed. E. M. Buytaert (1958) &middot; S. F. Brown, &#145;Walter Chatton's <i>Lectures</i> and William of Ockham's <i>Quaestiones in libros physicorum Aristotelis</i>&#146;, <i>Essays honoring Allan B. Wolter</i>, ed. W. A. Frank and G. J. Etzkorn (1985), 81&#150;115 &middot; W. J. Courtenay, &#145;Ockham, Chatton, and the London studium: observations on recent changes in Ockham's biography&#146;, in W. Vossenkuhl and R. Sch&ouml;nberger, <i>Die Gegenwart Ockhams</i> (Weinheim, 1990), 327&#150;37 &middot; G. J. Etzkorn, &#145;Codex Merton 284: evidence of Ockham's early influence in Oxford&#146;, <i>From Ockham to Wyclif</i>, ed. A. Hudson and M. Wilks (1987), 31&#150;42 &middot; G. Etzkorn, &#145;Ockham at a provincial chapter: 1323, a prelude to Avignon&#146;, <em>Archivum Franciscanum Historicum</em>, 83 (1990), 557&#150;67 &middot; G. G&aacute;l, &#145;William of Ockham died &#147;impenitent&#148; in April 1347&#146;, <em>Franciscan Studies</em>, 42 (1982), 90&#150;95 &middot; E. Hochstetter, <i>Studien zur Metaphysik und Erkenntnislehre Wilhelms von Ockham</i> (Berlin, 1927) &middot; E. F. Jacob, &#145;Ockham as a political thinker&#146;, <i>Essays in the conciliar epoch</i> (1943), 85&#150;105 &middot; J. Koch, &#145;Neue Aktenst&uuml;cke zu dem gegen Wilhelm Ockham in Avignon gef&uuml;hrten Prozess&#146;, <em>Recherches de Th&eacute;ologie Ancienne et M&eacute;di&eacute;vale</em>, 7 (1935), 350&#150;80; 8 (1936), 79&#150;93, 168&#150;197; repr. in J. Koch, <i>Kleine Schriften</i> (1973) &middot; G. Leff, <i>William of Ockham</i><i>: the metamorphosis of scholastic discourse</i> (1975) &middot; A. S. McGrade, <i>The political thought of William of Ockham</i> (1974) &middot; J. Miethke, <i>Ockhams Weg zur Sozialphilosophie</i> (Berlin, 1969) &middot; J. Miethke, &#145;Ockham-Perspektiven oder Engf&uuml;hrung in eine falsche Richtung? Eine Polemik gegen eine neuere Publikation zu Ockhams Biographie&#146;, <em>Mittelalterliches Jahrbuch</em>, 29 (1994) &middot; E. A. Moody, <i>The logic of William of Ockham</i> (1935) &middot; A. Pelzer, &#145;Les 51 articles de Guillaume Occam censur&eacute;s, en Avignon, en 1326&#146;, <em>Revue d'Histoire Eccl&eacute;siastique</em>, 18 (1922), 240&#150;70; repr. in A. Pelzer, <i>&Eacute;tudes d'histoire litt&eacute;raire sur la scolastique m&eacute;di&eacute;vale</i> (Louvain, 1964) &middot; K. Tachau, <i>Vision and certitude in the age of Ockham</i> (Leiden, 1988) &middot; B. Tierney, <i>Collected essays</i><i>: church law and constitutional thought</i> (1979) &middot; B. Tierney, <i>Ockham, the conciliar theory, and the canonists</i> (Philadelphia, 1971)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. J. Courtenay, &#145;<span class="roman"><span class="headword">Ockham,  William</span>  (<em>c.</em>1287&#150;1347)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2010 [http://www.oxforddnb.com/view/article/20493, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Ockham (<em>c.</em>1287&#150;1347): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20493 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/20493/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22360;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22360-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22360-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22360#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Plattes,  Gabriel</span>  (<em>c.</em>1600&#150;1644), <span class="occ">writer</span>, who claimed in his first publication of 1638 to have had twenty-four years' experience of observing husbandry, was probably born about 1600. Nothing is known of his origins beyond his own statement that his &#145;predecessors &hellip; lived well upon a small Farme; and by their industry maintained and educated their children, in manner not much inferior to the sons of the best Knights and Gentlemen of the countrey&#146;  (Fussell, 78). Plattes's writings indicate that he had travelled widely throughout Britain, and was familiar with the southern and western regions of England. He undoubtedly possessed a knowledge of contemporary agricultural and mining practices. It is possible that he had been employed with his friend William Englebert, a military and drainage engineer. During his brief years in London, he met those inventors, chemists, and improvers of husbandry who were active in and around the metropolis.<br>
+<br>The first two books, <span class="italic">Treatise of Husbandry</span> (1638) and <span class="italic">A Discovery of Subterraneall Treasure</span> (1639), delivered in straightforward style elementary advice: in the first on enclosure, fertilization, and the planting of seeds (for which he proposed, though probably never constructed, a drilling machine) and trees, and in the second on prospecting, metal working, and assaying. His desire to benefit mankind, especially the poor people of the commonwealth, was fulfilled; both works became extremely popular and were reprinted throughout the century, under slightly different titles, and were favourably received overseas. The <span class="italic">Subterraneall Treasure</span> was the first useful text in English dealing with metallurgy. While his view of the world was of its period, Plattes proposed that analyses of the streams issuing from mountains would indicate valuable hidden minerals.<br>
+<br>When he became part of the circle surrounding the reformer Samuel Hartlib, Plattes produced one of the group's best-known manifestos, <span class="italic">Description of the Famous Kingdome of Macaria</span> (1641). It was published as an anonymous fifteen-page tract, possibly intended for distribution to members of the Long Parliament at their second session in October that year. Lost to view for many years, it was reproduced in the first volume of the <span class="italic">Harleian Miscellany</span> in 1744 and was for a long time ascribed to Hartlib. Subsequent study of the Hartlib papers and other contemporary sources has confirmed Plattes as the author. Macaria is a puritan utopia, described in a dialogue between a scholar and a traveller, who meet at the Royal Exchange and adjourn to Moorfields to discuss the trading of &#145;intelligence&#146; as a commodity.<br>
+<br>Parliament did not respond to Plattes's petitions and in his later years he was reliant on Hartlib for financial support. In <span class="italic">The profitable intelligencer, communicating his knowledge for the generall good of the commonwealth &amp; all posterity</span> (1644) Plattes advertised his forthcoming work, &#145;The treasure house of nature unlocked&#146;. He died, impoverished, in London in December 1644. Hartlib subsequently acquired his manuscripts, in the vain hope that Plattes had left something ready for publication.<br>
+<br>W. A. S. Hewins<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Greengrass, M. Leslie, and T. Raylor, eds., <i>Samuel Hartlib and universal reformation</i><i>: studies in intellectual communication</i> (1994), 179, 214, 216 &middot; C. Webster, <i>Utopian planning and the puritan revolution</i><i>: Gabriel Plattes, Samuel Hartlib and Macaria</i>, Wellcome Unit for the History of Medicine (Oxford), research publication 2 (1979) &middot; A. G. Debus, &#145;Gabriel Plattes and his chemical theory of the formation of the earth's crust&#146;, <em>Ambix</em>, 9 (1961), 162&#150;5 &middot; G. E. Fussell, &#145;Gabriel Plattes: a XVII-century writer on agriculture&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22360&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 174 (1938), 77&#150;80<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. A. S. Hewins, &#145;<span class="roman"><span class="headword">Plattes,  Gabriel</span>  (<em>c.</em>1600&#150;1644)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/22360, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Gabriel Plattes (<em>c.</em>1600&#150;1644): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22360 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

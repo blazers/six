@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22048;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22048-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22048-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22048#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Petre,  William</span>  (1602&#150;1678), <span class="occ">translator</span>, was born on 28 July 1602 in his father's house at Ingatestone, Essex, the third son of William, second Lord Petre (1575&#150;1637), and his wife, Catherine (<i>d</i>. 1624), second daughter of Edward Somerset, fourth earl of Worcester (<i>c</i>.1550&#150;1628), and his wife, Elizabeth (<i>fl</i>. 1571&#150;1621). He was the great-grandson of Sir William Petre (1505?&#150;1572), secretary of state and benefactor of Exeter College, Oxford, where Petre matriculated as a gentleman commoner on 5 February 1613, at the early age of ten. The strength of the family's association with the college is marked by the fact that when Petre's eldest brother, John, died on 11 October 1613, the society of Exeter dedicated a threnody to the family. However, Petre's own connection with Exeter was short. When Wadham College was completed by his great-aunt, Dame Dorothy Wadham (1535&#150;1618), later in 1613, both he and his elder brother, Robert, became members of that college; as Wood records, Petre was entered as &#145;the first gentleman commoner or nobleman thereof&#146;  (Wood, <span class="italic">Ath. Oxon.</span>, 3.1144&#150;5). Both brothers left without taking a degree, but as fellow-commoners they presented the college with two silver tankards, which survived until 26 January 1643, when they were melted down at Charles I's mint in New Inn Hall Street.<br>
+<br>After leaving Oxford, Petre joined the Inner Temple. He went on to travel in the south of Europe, and &#145;became a gentleman of many accomplishments&#146;  (Wood, <span class="italic">Ath. Oxon.</span>, 3.1145). He married Lucy (<i>d</i>. 1679), daughter of Sir Richard Fermor, of Somerton, Oxfordshire, with whom he had four sons and two daughters. Like the rest of his family, he remained a Roman Catholic, as is reflected in his translation work; later generations became leaders of English Roman Catholic society [<i>see </i><script>writeSeealsoLink('../view/article/64188/', "Petre family (per. 1633&#150;1801)")</script>]. In 1669 he had published at St Omer a translation of the then popular <span class="italic">Flos sanctorum</span> of the Jesuit Pedro de Ribadeneira, originally published at Madrid in 1599&#150;1601. His translation, <span class="italic">Lives of the Saints, with other Feasts of the Year According to the Roman Calendar</span>, extends the calendar as far as 1669. The first edition soon became scarce, and a second, corrected and amended, was published in London in 1730. This too appears to have been popular; Petre's translation was commended by Southey and by Isaac Disraeli in his <span class="italic">Curiosities of Literature</span>. Petre died on 16 January 1678 at his house in Stanford Rivers in Essex, and was buried in the chancel of Stanford Rivers church.<br>
+<br>Thomas Seccombe<span class="italic">, rev. </span> Jane Griffiths </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22048&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22048&amp;istheme=&amp;target=Reg.%20Oxf.')"><i>Reg. Oxf.</i></a> &middot; R. B. Gardiner, ed., <i>The registers of Wadham College, Oxford</i>, 1 (1889) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22048&amp;istheme=&amp;target=Wing%2C%20STC')">Wing, <i>STC</i></a> &middot; T. H. Clancy, <i>English Catholic books, 1641&#150;1700</i><i>: a bibliography</i> [1974] &middot; F. Blom and others, <i>English Catholic books, 1701&#150;1800</i><i>: a bibliography</i> (1996) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22048&amp;istheme=&amp;target=Burke%2C%20Peerage')">Burke, <i>Peerage</i></a> (1970) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22048&amp;istheme=&amp;target=GEC%2C%20Peerage')">GEC, <i>Peerage</i></a>, new edn, vol. 12/2 &middot; F. Madan, <i>The early Oxford press</i><i>: a bibliography of printing and publishing in Oxford, 1468&#150;1640</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22048&amp;istheme=&amp;target=OHS')">OHS</a>, 29 (1895), vol. 1 of <i>Oxford books</i><i>: a bibliography of printed works</i> (1895&#150;1931) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22048&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> bequeathed &pound;110 in gold; 2 sums of 40<i>s</i>.; gold ring worth 40<i>s</i>.; disposes of estate of Stanford Rivers and two other &#145;manors&#146; in Essex: will, TNA: PRO, PROB 11/357<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Thomas Seccombe, &#145;<span class="roman"><span class="headword">Petre,  William</span>  (1602&#150;1678)</span>&#146;, rev. Jane Griffiths, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Sept 2012 [http://www.oxforddnb.com/view/article/22048, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Petre (1602&#150;1678): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22048 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22048/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

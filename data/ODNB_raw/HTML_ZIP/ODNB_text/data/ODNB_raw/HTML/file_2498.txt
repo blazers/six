@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2498;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2498-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2498-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2498#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Black,  William</span>  (1749/50&#150;1829), <span class="occ">physician and writer on medicine</span>, was born in Ireland of unknown parentage. He studied medicine, first at Edinburgh, then from 1771 at the University of Leiden, gaining his MD there in 1772 with a dissertation on fevers, dedicated to his fellow students at Edinburgh. Black's first publication, in 1781, was on smallpox and the arguments for inoculation at a time when concern was being voiced over the prevalence of this disease among children of the expanding industrial towns. He next published <span class="italic">A Historical Sketch of Medicine and Surgery &hellip; with a Chronological Chart of &hellip; Authors</span> (1782). Black was licensed by the Royal College of Physicians in 1787, after which he moved to Piccadilly, Westminster, where he practised.<br>
+<br>Black did not rise to eminence as a physician, but he was one of the first writers in England to apply statistics, previously employed in politics and commerce, to medicine. Having delivered the annual oration before the Medical Society of London, he expanded his lecture into a volume entitled <span class="italic">A comparative view of the mortality of the human species at all ages, and of diseases and casualties, with charts and tables</span> (1788). Before the edition was even half sold he cancelled the remainder and brought out a corrected edition as <span class="italic">An Arithmetical and Medical Analysis of the Diseases and Mortality of the Human Species</span> (1789). His purpose was to show that births, mortalities, diseases, and casualties could be subjected to arithmetical proof, to construct for the benefit of the progress of medicine a &#145;medical arithmetic&#146;, a phrase suggested by the &#145;political arithmetic&#146; of Sir William Petty. His efforts had considerable importance in their day although they were eventually eclipsed by later workers in the same field. Events in revolutionary France led him to publish anti-French pamphlets in 1792 and 1796.<br>
+<br>Observations on two to three thousand cases at Bethlem Hospital, provided by a member of Bethlem's staff and added to an expanded chapter from the <span class="italic">Arithmetical &hellip; Analysis</span>, provided the substance of Black's <span class="italic">Dissertation on Insanity</span> (1810). Black retired to live in Hammersmith, Middlesex, where he died in December 1829. There is no evidence that he ever married; administration of his modest estate was granted to his widowed sister, Jane Elliott.<br>
+<br>J. F. Payne<span class="italic">, rev. </span> Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Neuburger, &#145;Francis Clifton and William Black: eighteenth century critical historians of medicine&#146;, <em>Journal of the History of Medicine and Allied Sciences</em>, 5 (1950), 44&#150;9 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2498&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 100/1 (1830), 90 &middot; R. W. Innes-Smith, <i>English-speaking students of medicine at the University of Leyden</i> (1932), 23 &middot; administration, TNA: PRO, PROB 6/206, fol. 186<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. Stanier, stipple, pubd 1790, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2498&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2498&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;1500: administration, TNA: PRO, PROB 6/206, fol. 186<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. F. Payne, &#145;<span class="roman"><span class="headword">Black,  William</span>  (1749/50&#150;1829)</span>&#146;, rev. Anita McConnell, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/2498, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Black (1749/50&#150;1829): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2498 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/2498/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

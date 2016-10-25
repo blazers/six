@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 49666;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/49/49666-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/49/49666-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=49666#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pucelle,  Gerard</span>  (<em>d.</em> 1184), <span class="occ">canonist and bishop of Coventry</span>, is of unknown origins, though his surname suggests French or Norman provenance. He was a teacher before 1156, lecturing in canon law, perhaps also in theology and civil law, in the schools of Paris, and he came to enjoy the special favour of Louis VII (<i>r</i>. 1137&#150;80).<br>
+<br>Gerard Pucelle received his first orders and benefice from Archbishop Thomas Becket (<i>d</i>. 1170) before the latter left England in November 1164. He was with Becket in the early days of the latter's exile, but by the first months of 1166 had gone to Germany. It was a time of schism in the church, and the German emperor, Frederick Barbarossa (<i>r</i>. 1152&#150;90) was supporting a rival pope against Alexander III (<i>r</i>. 1159&#150;81). Pucelle was received with great acclaim in Cologne, whose schismatic archbishop, Rainald von Dassel, was Frederick Barbarossa's chancellor. Pucelle's friend John of Salisbury (<i>d</i>. 1180) protested, and refused Pucelle's invitation to join him in Germany, but Pucelle stayed on. He seems to have been master of the cathedral school of Cologne in this period, and to have played a significant role in the brief efflorescence of a Colognese school of canon law. Writing to Becket in 1167 Pucelle affirmed his loyalty to the archbishop and informed him of events in Germany.<br>
+<br>Gerard Pucelle distanced himself from Becket's cause in 1168 by returning to England and taking an oath to Henry II. Later in that year, however, Pucelle was reconciled with the archbishop. At Becket's request Alexander III absolved Pucelle of his association with the schism, on condition that he renounce the benefice that he had obtained in Germany, and take an oath denying the validity of schismatic orders. Becket and Alexander also interceded with Louis VII for Pucelle. Pucelle was still involved with the supporters of Henry II in 1170, when he tried to arrange for Becket to meet Geoffrey Ridel, the archdeacon of Canterbury, and Froger, bishop of S&eacute;es. John of Salisbury chastised Pucelle for having associated with the excommunicated Ridel and bluntly warned him that he would find it difficult to be reconciled with the church a second time. At about this time Pucelle may have resumed teaching in France.<br>
+<br>Between 1174 and 1183 Gerard Pucelle witnessed at least fifty-six&#151;approximately a quarter&#151;of the surviving <i>acta</i> of Archbishop Richard of Dover (<i>d</i>. 1184); normally he heads the list of witnesses. He was not with Richard for the entire period, however. In the early months of 1178 he was with Peter of Blois in Rome, representing the archbishop in a dispute with St Augustine's Abbey, Canterbury. In February Alexander III, praising Pucelle's <i>litteratura</i> and <i>scientia</i>, granted him the privilege of retaining the income from his English benefices for four years while he was teaching. In March Alexander permitted Pucelle to recover the revenues of his German benefices. At about the same time Cardinal Pietro da Pavia, the papal legate in France, commended Pucelle to the pope. Attending the Third Lateran Council in March 1179, as Richard of Dover's representative, Pucelle pleaded the cause of Master Bertram, a distinguished lawyer who may have been Pucelle's pupil at Cologne, and who had been elected bishop of Bremen. Pucelle probably taught again in Cologne in 1180, before returning to England some time before September 1181.<br>
+<br>Gerard Pucelle was elected bishop of Coventry, probably in May or June 1183, and was consecrated at Canterbury on 25 September. However, he died at Coventry on the following 13 January, under circumstances that led some to suspect that he had been poisoned, and was buried in Coventry Cathedral. The monks of Canterbury celebrated his obit with the rites usual for an archbishop.<br>
+<br>According to Herbert of Bosham (<i>d</i>. <i>c</i>.1194), Gerard Pucelle was celebrated in his day, both as a lawyer and a teacher, though the reasons for his fame are not entirely clear. He was associated with canonistic activity at Paris and Cologne, but none of the known products of those schools is likely to have been his work. He may have written a lost <span class="italic">Summa super decretalia</span>. Various canonistic glosses and <i>summae</i> refer to his opinions, and there is at least one reference to his theological opinions. Pucelle was one of only two twelfth-century authors to claim a knowledge of Cresconius, an obscure African canonist of the sixth or seventh century; the other author may have been Pucelle's pupil. To characterize Pucelle as a polymath of wide reading would fit well with John of Salisbury's light-hearted description of him rifling the bookshelves of Rheims for manuscripts to take with him to Cologne. Another generation of canonic studies may reveal more.<br>
+<br>Pucelle's character is difficult to assess. He may have been&#151;like many lawyers before and after him&#151;a person who thought that he could do good while doing well. His association with the schismatics was, at best, impolitic, and his reconciliation with Henry II was disloyal to Becket, but in both instances Pucelle may have thought that he could act as a mediator. The fact that he was reconciled with both Becket and Alexander III suggests that he was not a man with whom one could remain angry for long. In his later years Pucelle advanced his own career while remaining loyal and of service to his patron, Archbishop Richard. He seems to have incurred no opprobrium when he argued successfully on behalf of Battle Abbey that one of his patron's early <i>acta</i> was invalid, and his argument may well have been correct. If he died the victim of foul play, then that should probably be attributed to local politics, rather than to any personal failing.<br>
+<br>Charles Donahue jun. </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Kuttner and E. Rathbone, &#145;Anglo-Norman canonists of the twelfth century&#146;, <em>Traditio</em>, 7 (1949&#150;51), 279&#150;358, esp. 296&#150;303 &middot; J. Fried, &#145;Gerard Pucelle und K&ouml;ln&#146;, <em>Zeitschrift f&uuml;r Rechtsgeschichte (Kanonistische Abteilung)</em>, 99 (68) (1982), 122&#150;35 &middot; C. R. Cheney and B. E. A. Jones, eds., <i>Canterbury, 1162&#150;1190</i>, English Episcopal Acta, 2 (1986) &middot; M. J. Franklin, &#145;The bishops of Coventry and Lichfield, <i>c.</i>1072&#150;1208&#146;, <i>Coventry&#146;s first cathedral</i>: <i>the cathedral and priory of St Mary</i>, ed. G. Demidowicz (1994), 118&#150;38, esp. 132&#150;4 &middot; <i>The letters of John of Salisbury</i>, ed. and trans. H. E. Butler and W. J. Millor, rev. C. N. L. Brooke, 2 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49666&amp;istheme=&amp;target=OMT')">OMT</a> (1979&#150;86) [Latin original with parallel Eng. text] &middot; <i>The historical works of Gervase of Canterbury</i>, ed. W. Stubbs, 2 vols., Rolls Series, 73 (1879&#150;80) &middot; P. R. Coss, <i>Early records of medieval Coventry</i> (1986) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49666&amp;istheme=&amp;target=BL')">BL</a>, Cotton MS Cleopatra D. ix &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49666&amp;istheme=&amp;target=BL')">BL</a>, Cotton MS Vespasian E. xvi &middot; C. Donahue, &#145;Gerard Pucelle as a canon lawyer: life and the Battle Abbey case&#146;, <i>Grundlagen des Rechts</i><i>: Festschrift f&uuml;r Peter Landau zum 65. Geburtstag</i>, ed. R. Helmholz, P. Mikat, J. M&uuml;ller, and M. Stolleis (Paderborn, 2000), 333&#150;48<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Charles Donahue jun., &#145;<span class="roman"><span class="headword">Pucelle,  Gerard</span>  (<em>d.</em> 1184)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/49666, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Gerard Pucelle (<em>d.</em> 1184): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/49666 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

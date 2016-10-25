@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18187;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18187-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18187-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18187#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Martin,  James</span>  (<em>fl. </em>1556&#150;1588), <span class="occ">philosopher</span>, a native of Dunkeld, Perthshire, claimed to have begun studying philosophy at an early age, and may have been educated at Oxford. A James Martyn is listed as taking the degree of MA on 31 March 1522, and in 1591 Andreas Libavius referred to Martin as an Oxford philosopher. He taught philosophy at the University of Paris, where in 1556 he was proctor of the German nation, which in May of the following year chose him to negotiate with the king over an unpopular tax on the university. In 1577 he was described on the title-page of his <span class="italic">De prima simplicium et concretorum corporum generatione &hellip; disputatio</span> as professor of philosophy at the University of Turin. This treatise, his major work, was dedicated to Girolamo della Rovere, archbishop of Turin. In 1588 he produced a new edition of Francisco Vall&eacute;s's work of the same year, <span class="italic">In quartum librum Meteorologicorum Aristotelis commentaria</span>. The dedicatory letter (sigs. &dagger;2<i>r</i>&#150;3<i>v</i>), addressed to Gregorio Lopez Madera, physician to Philip II of Spain, styles Martin as &#145;philosophiae professor ordinarius&#146; (&#145;ordinary professor of philosophy&#146;) at the University of Turin; and in it he refers to two other re-editions he had recently prepared for Madera: Fernando de Mena, <span class="italic">Commentaria in libros Galeni de sanguinis missione et purgatione</span> (1587), and Francisco Vall&eacute;s, <span class="italic">De urinis, pulsibus, ac febribus compendiariae tractationes</span> (1588).<br>
+<br>Martin's treatise on the primary generation of simple and compound bodies is directed against Aristotle, whose belief in the eternity of the world he maintains is both impious and inconsistent with the philosopher's own account of the infinite power of the unmoved mover. It was no doubt the anti-Aristotelian thrust of Martin's work which led Sir William Temple, the leading English proponent of the philosophical reform programme of Pierre de la Ram&eacute;e, known as Ramus (1515&#150;1572), to re-issue the treatise in Cambridge in 1584. In his prefatory letter, which gives a distinctly Ramist inflection to Martin's critique of Aristotelianism, Temple describes the Scottish philosopher as &#145;magno vir ingenio et exquisito judicio&#146; (&#145;a man of great intellect and meticulous judgement&#146;), who argues against Aristotle with clarity  (sig. &para;4<i>r</i>). The treatise, together with Temple's preface, was reprinted in Frankfurt in 1589. Two years later a reply was published, also in Frankfurt, by the tireless polemicist Andreas Libavius (<i>c</i>.1560&#150;1616), professor of history and poetry at the University of Jena. In <span class="italic">Quaestionum physicarum controversarum inter Peripateticos et Rameos tractatus</span> (1591), Libavius took issue with both Temple and Martin, reserving his most contemptuous comments for the latter. Thus, adapting a phrase from Cicero, <span class="italic">Pro Sestio</span>, 72, he refers to Martin as &#145;ex vepreculis Taurinensibus progressa nitedula&#146; (&#145;a dormouse which has emerged from the thorn bushes of Turin&#146;; sig. A7<i>v</i>); and he bemoans the &#145;stupidum Scoti ingenium&#146; (&#145;the dull mind of the Scot&#146;), which has produced such a scandalously distorted picture of Aristotle's thought  (pp. 28&#150;9). Despite the polarization between Peripatetics, or Aristotelians, and Ramists indicated in his title, Libavius was aware that while Temple was a Ramist, Martin was simply an anti-Aristotelian. This distinction has been ignored, however, in modern scholarly literature, where Martin, through guilt by association with Temple, is regularly classified as a Ramist, for example, in Walter J. Ong's 1958 seminal study of Ramism. Similarly, W. S. Howell calls Martin's treatise a &#145;pro-Ramist work&#146;  (Howell, 196 n. 68); and the article on Libavius in the <span class="italic">Dictionary of Scientific Biography</span> refers to Temple and Martin as &#145;two British disciples of Ramus&#146;  (p. 309).<br>
+<br>Jill Kraye </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18187&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; C. E. Du Boulay, <i>Historia universitatis Parisiensis</i>, 6 (Paris, 1673) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18187&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, 4.383 &middot; A. Libavius, <i>Quaestionum physicarum controversarum inter Peripateticos et Rameos tractatus</i> (1591) &middot; W. J. Ong, <i>Ramus, method, and the decay of dialogue</i> (1958) &middot; W. S. Howell, <i>Logic and rhetoric in England, 1500&#150;1700</i> (1956) &middot; W. Hubicki, &#145;Libavius, Andreas&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18187&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jill Kraye, &#145;<span class="roman"><span class="headword">Martin,  James</span>  (<em>fl. </em>1556&#150;1588)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/18187, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Martin (1556&#150;1588): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18187 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

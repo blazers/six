@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22123;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22123-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22123-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22123#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=22123&amp;orientation=p')"><img border="0" alt="  John Philips (1676&#150;1709), by unknown artist, c.1700" onmouseover="status='  John Philips (1676&#150;1709), by unknown artist, c.1700'" src="/images/article-imgs/22/22123_1_200px.jpg"></a><span class="imagecaption"><b>  John Philips (1676&#150;1709)</b>, by unknown artist, <em>c.</em>1700</span>
+</div>
+<div class="para">
+<span class="headword">Philips,  John</span>  (1676&#150;1709), <span class="occ">poet</span>, was born on 30 December 1676 at Bampton, Oxfordshire, the sixth of seven sons of Stephen Philips (<i>bap</i>. 1638, <i>d</i>. 1684), archdeacon of Shropshire and vicar of Bampton, and Mary Cook (1640&#150;1715), daughter of Thomas Cook, the previous vicar. Philips's grandfather was canon of Hereford Cathedral and vicar of Lugwardine, his great-grandfather a clothier at Ledbury. Royalists during the civil war, the family had an estate at Withington, Herefordshire.<br>
+<br>Initially educated at home, John Philips entered Winchester College as an elected scholar on 25 September 1691. Remembered there for his &#145;tender constitution&#146; and the &#145;sweetness of his temper&#146;  (<span class="italic">Biographia Britannica</span>, 3353), he was a superior scholar, excused from sport and from observing college rules. According to his fellow student William Oldisworth, when the other boys went to the field for games, Philips loved to retire to his room, &#145;where he procured a person to attend him, and comb his hair, of which he had a very handsome flow&#146;  (Johnson, <span class="italic">Poets</span>, 1905, 1.312). Like Pepys before him, Philips felt from this exercise &#145;an exquisite delight&#146;, enhanced in his case by the reading of Milton  (<span class="italic">Biographia Britannica</span>, 3353), no very obvious choice for a descendant of royalists.<br>
+<br>On 16 August 1697 Philips matriculated at Christ Church, Oxford, where, intending to become a physician, he studied natural history, excelling particularly in botany, &#145;his greatest delight as well as accomplishment&#146;  (<span class="italic">Biographia Britannica</span>, 3355). Two of his brothers were already in residence at Oxford. Many of his fellow Christ Church students&#151;John Mostyn, William Brome, James Scudamore, Sir Thomas Hanmer, Simon Harcourt, and William Bromley&#151;along with the dean, Henry Aldrich, came from the Hereford, Worcester, and Oxford area, and were later complimented in his <span class="italic">Cyder</span>. (Most of them were, like Philips, grandsons of civil war royalists.) His health was still &#145;very infirm&#146;, his manners displaying a &#145;modesty&#146; and an &#145;uncommon simplicity&#146;  (ibid., 3355). One contemporary reported much later that Philips was invited by Dr John Meare, a Herefordshire man and principal of Brasenose (his father's college), to his lodgings, where Philips &#145;conceived a secret passion&#146; for his daughter Mary. So awed was he by her &#145;disdain&#146; that he &#145;never had courage to hint his passion to her&#146;. This &#145;secret passion&#146; is said to have been &#145;well known in the university&#146;  (ibid., 3359). While at Christ Church, Philips began to write poems: his <span class="italic">Splendid Shilling</span>, in Miltonic blank verse, was composed &#145;for his own diversion, without any design of publication&#146;  (Smith, &#145;Preparatory discourse&#146;, 183).<br>
+<br>Philips remained at Christ Church until at least 1707, without taking a degree. In 1701 his <span class="italic">Splendid Shilling</span> was twice pirated. In February 1705, after another piracy, Philips published his own edition; the poem was later commended by Joseph Addison in <span class="italic">Tatler</span> (no. 249, 1710) as &#145;the finest Burlesque Poem in the <i>British</i> Language&#146;. It also attracted the attention of the tories, who, perhaps feeling an obligation to add their party's praise of the victorious Marlborough to Addison's <span class="italic">Campaign</span> (1704), invited Philips to Henry St John's country seat and persuaded him to produce <span class="italic">Bleinheim</span> (1705), dedicated to Robert Harley. Johnson thought it the poem of a man who &#145;studies the world in a college&#146;  (Johnson, <span class="italic">Poets</span>, 1905, 1.317). In his &#145;Advice to the Poets&#146; (1706) Richard Blackmore mocked Philips as one of Milton's imitators who<blockquote>
+<div>Torture our Language to torment the Ear,<br>
+</div>
+<div>With numbers harsher than the Din of War.<br>
+</div> (R. Blackmore, <span class="italic">A Collection of Poems</span>, 1718)</blockquote>But Thomas Tickell made the comparison with Milton an occasion for praise:<blockquote>
+<div>Unfetter'd in great Milton's strain he writes,<br>
+</div>
+<div>Like Milton's angels, whilst his hero fights;<br>
+</div>
+<div>Pursues the bard, whilst he with honour can,<br>
+</div>
+<div>Equals the poet, and excels the man.<br>
+</div> (T. Tickell, &#145;Oxford, 1707&#146;, <span class="italic">Poetical Works</span>, 1796)</blockquote>In the following two years Philips published another Miltonic imitation, <span class="italic">Cerealia</span> (1706), and a Horatian <span class="italic">Ode ad Henricum St John</span> (1707), in which he thanks his patron in Latin alcaics for wine and tobacco, and hints at his passion for Miss Meare.<br>
+<br>Philips's greatest poem, a two-book georgic <span class="italic">Cyder</span> (1708), begun at Oxford, celebrates his native land (and in particular Herefordshire) with a combination of accurate knowledge of apples and cider making and a &#145;sketch of our National History&#146;  (Philips, <span class="italic">Cider</span>, 157). The botanist Philip Miller told Johnson that &#145;there were many books written on the same subject in prose, which do not contain so much truth as that poem&#146;  (Johnson, <span class="italic">Poets</span>, 1905, 1.319). <span class="italic">Cyder</span> conveys compliments to the author's royalist friends, to nonjurors who refused to break their &#145;plighted faith&#146;  (<span class="italic">Poems of John Philips</span>, 1.734), and to tory leaders, including Harley and Sir Thomas Hanmer. The survey of English history compliments Charles I, deplores &#145;the mad, headstrong rout&#146; who &#145;Defy'd their prince to arms&#146; in the civil war  (ibid., 2.498&#150;9), and passes over subsequent years without mentioning King William, &#145;till prudent Anna said,/ LET THERE BE UNION&#146;  (ibid., 2.639&#150;40)&#151;in commendation of the 1707 <span class="roman">Act of Union</span> that Harley and the tories were then promoting. There is no compliment to Marlborough, hero of Philips's <span class="italic">Bleinheim</span>, perhaps because, as Dunster notes, &#145;a party was secretly forming against him at court, and the particular Patrons of our Poet were at the head of the confederacy&#146;  (Philips, <span class="italic">Cider</span>, 154). Philips praises Milton as the first who &#145;ennobled Song/ With holy Raptures&#146;  (<span class="italic">Poems of John Philips</span>, 1.785&#150;6), hints at disapproval of his anti-royalist politics, but declines to &#145;blast his Fame&#146;  (ibid., 1.792). The poem is dedicated to two Christ Church friends, book 1 to John Mostyn, book 2 to Simon Harcourt, whose father, the future lord chancellor, was Philips's &#145;zealous patron&#146;  (Philips, <span class="italic">Cider</span>, 98). The poem was &#145;received with loud praises, and continued long to be read&#146;  (Johnson, <span class="italic">Poets</span>, 1905, 1.313). But the author of <span class="italic">Milton's Sublimity Asserted</span> (1709) deplored the reduction of Milton's forbidden fruit to mere cider apples.<br>
+<br>Philips turned next to a poem entitled &#145;The Last Day&#146;, but illness in his lungs (aggravated perhaps by a fondness for tobacco) prevented him from finishing it. During a &#145;lingering consumption, attended with an asthma&#146;  (<span class="italic">Biographia Britannica</span>, 3358), he was nursed by his &#145;very particular friend&#146; Thomas Trevor, later chief justice of common pleas, who took Philips into his home. Their common friend Edmund Smith&#151;another Christ Church man&#151;remembers gratefully that &#145;One table fed you, and one bed contain'd&#146;  (Smith, <span class="italic">Poem</span>, 1.7). In the summer of 1708 Philips went to Bath for his health, and then to his mother's house in Hereford, &#145;where the asthma returning in the winter put a period to his life&#146;  (<span class="italic">Biographia Britannica</span>, 3358) on 15 February 1709.<br>
+<br>Philips was buried in Hereford Cathedral, under a stone in the north transept with a Latin epitaph commissioned by his mother. In 1710 his friend Simon Harcourt erected a white marble monument in Poets' Corner in Westminster Abbey, with a bust in relief and a long Latin epitaph by Dr Robert Freind  (Hackett, 1.99&#150;101), between the monuments to Chaucer and Drayton. Also in 1710 appeared memorial poems by Edmund Smith (<span class="italic">A Poem on the Death of Mr John Philips</span>) and Leonard Welsted (<span class="italic">A Poem to the Memory of the Incomparable Mr Philips</span>). The latter was dedicated to St John, the former praised by Johnson as &#145;among the best elegies which our language can shew&#146;  (Johnson, <span class="italic">Poets</span>, 1905, 2.16).<br>
+<br>In manners Philips was said to be &#145;somewhat reserved, and silent among Strangers, but free, familiar, and easy with his Friends&#146;  (Sewell, 8). &#145;The quiet enjoyment of his muse, in the company of a few select friends, was his principal delight&#146;  (Duncumb, 2.247). His genius for friendship won over several&#151;Smith, Addison, Welsted, Tickell&#151;who inclined rather to the whigs than the tories. He published with both the tory bookseller Thomas Bennet and the whig Jacob Tonson  (Johnson, <span class="italic">Poets</span>, 1854, 2.22n.). A poet who could commend both Charles I and John Milton, both Bolingbroke and Marlborough, would find many friends and make few enemies. Their praise suggests that, whatever his Stuart sympathies, his deepest political instincts, like Pope's, were for reconciliation.<br>
+<br>Philips did not aim at literary fame or fortune: he apparently wrote for his own pleasure and to please his friends. With one exception his poems were published anonymously. The only poem with his name on the title-page is the single copy of the first edition of <span class="italic">Bleinheim</span> (&#145;by Mr. Philips of Christ Church, Oxon.&#146;) which may have been a proof copy later presented to Christ Church. Even though Tonson paid Philips 40 guineas for <span class="italic">Cyder</span>, Philips avoided the status of a professed author. His contract with Tonson also provided for two copies bound in leather (for the dedicatees), and 100 large-paper copies  (Johnson, <span class="italic">Poets</span>, 1854, 2.22n.), probably for presentation to the poet's Oxford friends.<br>
+<br>In 1715 Curll published a collection of Philips's <span class="italic">Poems</span>, prefaced with a &#145;Life&#146; by the whig writer George Sewell. A second edition appeared the same year, a third in 1720. <span class="italic">The Splendid Shilling</span> received the compliment of frequent (though inferior) imitation. <span class="italic">Cyder</span> was carefully studied, and more profitably imitated, by georgic writers, who learned from Philips how to treat a humble subject both ardently and wittily, and how to mix an account of native products with a survey of political history in order to celebrate their native land. Philips taught Pope, who drew on <span class="italic">Cyder</span> in <span class="italic">Windsor Forest</span>, how to use <span class="italic">Paradise Lost</span> for un-Miltonic purposes, and to suggest that paradise might still be found in England's green and pleasant land. He also taught James Thomson, John Dyer, and William Cowper how a Miltonic blank verse might be used for poems in the middle style.<br>
+<br>Dustin Griffin </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Johnson, <i>Lives of the English poets</i>, ed. G. B. Hill [new edn], 3 vols. (1905) &middot; J. Philips, <i>Cider, with notes</i>, ed. C. Dunster (1791) &middot; G. Sewell, &#145;The life and character of John Philips&#146;, in G. Sewell, <i>Poems of John Philips</i> (1715) &middot; &#145;P&#146; [P. Nicholls], &#145;Philips, [John]&#146;, <i>Biographia Britannica, or, The lives of the most eminent persons who have flourished in Great Britain and Ireland</i>, 5 (1760), 3353&#150;9 &middot; E. Smith, <i>A poem on the death of Mr John Philips</i> (1710) &middot; E. Smith, &#145;A preparatory discourse to the poem on Mr Philips, with a character of his writings&#146;, in S. Johnson, <i>Lives of the English poets</i>, ed. G. B. Hill [new edn], 1 (1905), 320&#150;27 &middot; J. Hackett, <i>Select and remarkable epitaphs</i>, 2 vols. (1757) &middot; <i>Poems of John Philips</i>, ed. M. Lloyd-Thomas (1927) &middot; J. Duncumb, <i>Collections towards the history and antiquities of the county of Hereford</i>, 2 vols. (1804&#150;12) &middot; T. F. Kirby, <i>Winchester scholars</i><i>: a list of the wardens, fellows, and scholars of &hellip; Winchester College</i> (1888) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22123&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a>, <i>1500&#150;1714</i>, vol. 3 &middot; S. Johnson, <i>Lives of the most eminent English poets</i>, ed. P. Cunningham [new edn], 3 vols. (1854) &middot; parish register, Bampton, Oxfordshire, 7 Jan 1677 [baptism]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22123&amp;istheme=&amp;target=BL')">BL</a>, Harley MS, Add. MSS 70023, 70024
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22123&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Rawlinson letters 30&#150;31, fols. 456&#150;8
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22123&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Rawlinson poet 113, fol. 40<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> oils, <i>c.</i>1700, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22123&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; T. Cook, engraving (after G. Kneller), repro. in J. Bell, <i>The poets of Great Britain</i>, 109 vols. (1779&#150;88) &middot; G. Kneller, oils &middot; Riley, oils; formerly in library at Nuneham-Courtenay, Oxfordshire &middot; M. Vandergucht, line engraving (after G. Kneller), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22123&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22123&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>; repro. in J. Philips, <i>Poems</i> (1715) &middot; engraving (after medallion), repro. in J. Philips, <i>Works</i> (1712) &middot; medallion, Westminster Abbey; repro. in Duncumb, <i>Collections</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Dustin Griffin, &#145;<span class="roman"><span class="headword">Philips,  John</span>  (1676&#150;1709)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22123, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Philips (1676&#150;1709): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22123 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

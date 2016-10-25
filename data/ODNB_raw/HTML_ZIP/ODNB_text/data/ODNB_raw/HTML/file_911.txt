@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 911;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/911-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/911-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=911#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Austin,  John</span>  (1790&#150;1859), <span class="occ">legal philosopher</span>, was probably born at Creeting Mill, Suffolk, on 3 March 1790, the eldest of the five sons and two daughters of Jonathan Austin and his wife, Anne, <i>n&eacute;e</i> Redhouse. Jonathan Austin was a prosperous Suffolk miller and corn merchant who profited greatly from the Napoleonic wars. He was self-educated, intelligent, vigorous, and knowledgeable in history and political economy. Anne Austin has been described as &#145;well-educated, gently nurtured, and possessed of exceptional abilities&#146;  (Ross, <span class="italic">Three Generations</span>, 88). She was also a deeply religious person with a somewhat melancholic temperament, a trait shared by her eldest child.<h2>
+<a name="Earlylifeandmarriage"></a>Early life and marriage</h2>Knowledge of John Austin's childhood is sparse, but he was raised in Ipswich, which was then a garrison town. The patriotic atmosphere there may have influenced his decision to enlist in the army shortly before his seventeenth birthday, and he served under Lord William Bentinck in Malta and Sicily. Although he evidently wasted enormous amounts of time in the military, he decided that his happiness was &#145;commensurate with and inseparable from &hellip; progress &hellip; in the acquisition of knowledge&#146;  (Waterfield, 13). He read extensively, including John Locke's <span class="italic">An Essay Concerning Human Understanding</span>. He was ill suited for military life, however, and, at the urging of his father, he resigned his commission in 1812. Two years later he decided to study for the bar. While information about Austin the man at this stage of his life is minimal, Henry Crabb Robinson's diary fills part of the gap. The two men apparently met in 1813 and Robinson's initial characterizations of Austin were not on balance favourable. He was disputatious, &#145;offensive&#146;, &#145;confident&#146;, &#145;dictatorial&#146;, &#145;presumptuous&#146;, and a &#145;loud talker&#146;, who tried Robinson's patience  (Robinson, diary, 14 March 1813). Political economy was Austin's favourite study, a subject with which he was &#145;ready to bore any one within his reach&#146;  (ibid.). Still, Robinson acknowledged that Austin was discerning, talented, and likely to succeed at the bar. Robinson's subsequent accounts of Austin also became progressively more favourable. By 1817 he was said to be &#145;milder and more companionable every time I see him&#146;  (ibid., 14 Oct 1817).<br>
+<br>Legal education in its modern form, or anything close to it, was non-existent in 1814 and for many years thereafter. Instead the student was &#145;obliged to get his knowledge of law by means of undirected reading and discussion, and by attendance in chambers, in a law office, or in the courts&#146;  (Holdsworth, <span class="italic">Eng. law</span>, 12.77&#150;8). While not much is known about how Austin acquired his legal knowledge, he evidently studied in the office of Godfrey Sykes. Sir John Patteson subsequently recalled the following incident in Sykes's pupil room: &#145;One day a singular man entered &hellip; for the first time, and presently announced to his companions that he had come there, not only to qualify himself as a special pleader, but to study and elucidate the principles of Law. This was John Austin&#146;  (Ross, <span class="italic">Fourth Generation</span>, 73). In 1814 Austin became engaged to Sarah Taylor (1793&#150;1867). His proposal constitutes a most remarkable document&#151;formal, highly legalistic, and pretentious. It also accurately prophesied his future dependence upon Sarah. He wrote of the need for her to soften his &#145;technical asperities&#146; and &#145;wipe the damps of anguish from [his] forehead, or playfully tease [his] sinking spirits into alacrity&#146;  (Waterfield, 28).<br>
+<br>Austin was called to the bar by the Inner Temple in 1818 and one year later married Sarah Taylor. Apparently he was &#145;remarkably handsome, with splendid eyes and a very erect carriage&#146;  (Ross, <span class="italic">Fourth Generation</span>, 21). <script>writeSeealsoLink('../view/article/916/', "Sarah Austin")</script> shared with her husband good looks, middle-class origins, intelligence, ability, and a Unitarian upbringing. The differences between them were at least as important, however, as the similarities. He tended to be austere, reclusive, and insecure, while she was very determined, ambitious, energetic, gregarious, and warm. Indeed her affections were so starved that in the early 1830s she had a most unusual &#145;affair&#146; with Herman P&uuml;ckler-Muskau, a German prince: it was conducted solely by an exchange of letters and she did not meet her correspondent until her passions had cooled. In time Sarah Austin became her husband's main prop, comforter, and literary agent (of sorts). She also developed a career of her own as a reviewer and translator. Since John Austin's income for most of their married life was small, Sarah's earnings were vital for the support of their family (financial assistance from both of their fathers also helped). Their only child, Lucie, subsequently <script>writeSeealsoLink('../view/article/8175/', "Lady Duff Gordon")</script>, was born in 1821. The novelist George Meredith eulogized her as an independent woman whose &#145;like is to be met but once or twice in a lifetime&#146;  (<span class="italic">Lady Duff Gordon's Letters</span>, xvi).<br>
+<br>The Austins moved to London shortly after their marriage. Their residence in Queen Square Place &#145;soon collected within its walls as remarkable an assemblage of persons as ever met in a London drawing-room&#146;  (<span class="italic">The Times</span>, 12 Aug 1867), including their neighbours Jeremy Bentham and James Mill, with whom they became very friendly. Bentham was the intellectual leader of the utilitarians and no one did more than Mill to spread the gospel. Austin was thus situated at the heart of a vital reform movement. His proximity to it helps to explain his large intellectual debt to Bentham. Not only did the two men share many opinions, but Austin acknowledged that he was &#145;prone to follow&#146; Bentham's ideas  (Austin, <span class="italic">Lectures on Jurisprudence</span>, 420). However, the influence of Hobbes, Locke, Malthus, Adam Smith, as well as Roman and German jurists is also discernible in Austin's work. Moreover he was no slavish follower of Bentham and eventually became more critical of his doctrines. In 1859 he even asserted that he had come to dissent from &#145;many&#146; of Bentham's views on the law and on &#145;the various subjects immediately connected with it&#146;  (Austin, <span class="italic">A Plea for the Constitution</span>, 1859, vi). One such subject was politics, the field in which the differences between the two utilitarians were the most pronounced. Nevertheless, Bentham probably had a heavier impact on Austin's ethical and legal philosophy than any other person.<br>
+<br>Two early articles published by Austin in 1824 and 1826 certainly reflect a Benthamite perspective. The first, published in the <span class="italic">Westminster Review</span>, was by far the more substantial of the two and included a scathing denunciation of primogeniture. Austin began from a premise to which he adhered throughout his life (for a different interpretation see Hamburger, <span class="italic">Troubled Lives</span>, 182), stating that &#145;an institution or custom must be praised or blamed as it tends to increase or diminish the sum of happiness. In a word, the test to which it must be submitted is <i>utility</i>&#146;  (<span class="italic">Westminster Review</span>, 2, 1824, 507). This was a test that, according to Austin, the custom of primogeniture miserably failed. Above all else it contributed heavily to &#145;aristocratical ascendancy and &hellip; misgovernment&#146;  (ibid., 546). The other article, which appeared in <span class="italic">Parliamentary History and Review</span>, was a critique of the unlimited liability of partners in joint-stock companies. Such liability was not only unnecessary to protect investors and creditors, but deterred investments useful to the public.<br>
+<br>Austin's prospects as a barrister appeared to be bright, a judgement evidently shared by a number of his contemporaries. He was an equity draftsman and practised at 2 Old Square, Lincoln's Inn. Although little is known about his practice, he was unhappy and had few clients. His comparative failure contrasted sharply with the success of his brother Charles (1799&#150;1874), whose earnings at the bar were legendary. The reasons for John's very different experience are varied, but include his orientation towards legal philosophy. &#145;John is much cleverer than I,&#146; Charles Austin acknowledged, &#145;but he is always knocking his head against principles&#146;  (Waterfield, 11). John Austin's precarious health was accentuated by his poor response to the normal stress of the courtroom. He was subject throughout his life to severe &#145;feverish attacks&#146;, the effects of which were &#145;extreme debility and prostration&#146;  (S. Austin, 4). Indeed, Sydney Smith once described him as &#145;the Opprobrium Medicorum. Nothing and Nobody seems to do him any good&#146;  (Waterfield, 121). Austin's disposition and temperament also contributed to his lack of success. He was not simply insecure, he was hypersensitive, unduly proud, and a perfectionist. For whatever reason, he became so discouraged that in 1825 he stopped practising law.<h2>
+<a name="Ateacherofjurisprudence"></a>A teacher of jurisprudence</h2>If Austin's situation appeared grim, his prospects brightened immeasurably within a relatively short period of time. The University of London was founded in 1826 and its governing council attached special importance to the department of law. Austin was evidently appointed by &#145;common consent&#146; to the chair in jurisprudence and the law of nations  (<span class="italic">Law Magazine</span>, 9, 1860, 165). He took his responsibilities very seriously and devoted much of the next two or three years to the preparation of his lectures. The task was difficult and to facilitate it he and his wife took up residence in Bonn for part of 1827 and 1828. The atmosphere of this German university town was very congenial to them and they apparently thrived in it.<br>
+<br>Although the impact on Austin of the &#145;German connection&#146; is subject to different interpretations, it was significant. Austin's disposition became less &#145;militant and polemic&#146;, while his &#145;views of life&#146; underwent a &#145;very perceptible change&#146;  (Mill, <span class="italic">Autobiography and Literary Essays</span>, 185). For example, he began to modify his earlier radicalism, thus beginning the first major stage in the evolution of his political conservatism. He also increased his knowledge of Roman law, the study of which was undergoing a revival of interest. Finally, his exposure to German jurisprudence reinforced his drive for the systematization and classification of law.<br>
+<br>Austin was scheduled to begin teaching his course in November 1828. He was unable to complete the preparation of his lectures, however, and received permission to postpone them for a year. He justified the postponement on two grounds, one of which was a recurrence of his periodic bouts of ill health; he also quite understandably complained that he had no model for his innovative attempts to expound the &#145;principles of jurisprudence&#146;  (Austin to Leonard Horner, 30 Oct 1828, University College, London, College Correspondence). He did not actually begin to teach the course until November 1829. His lectures were not about &#145;particular jurisprudence&#146; or the positive law of a specific nation or nations. Rather, his class dealt with &#145;general jurisprudence&#146; or the philosophy of positive law. He characterized it as an exposition of abstract legal principles, notions, and distinctions. Some of them were essential, inevitable, and necessary, according to Austin, and might thus be found in all legal systems. Aside from this, his teaching on general jurisprudence focused on &#145;law as it necessarily <i>is</i>, rather than with law as it <i>ought</i> to be&#146;  (<span class="italic">Lectures</span>, 32). This notion does not signify, however, that Austin regarded what law ought to be as unimportant. Rather, he viewed it as the subject of the science of legislation, a subdivision of the science of ethics. In any event, each of his lectures reflected his profound conviction that it &#145;really <i>is</i> important &hellip; that men should think distinctly, and speak with a meaning&#146;  (<span class="italic">Province</span>, 55).<br>
+<br>Austin's course could not have begun under more auspicious circumstances. Thirty-two students enrolled in what may have constituted &#145;the most distinguished attendance that ever honoured any lecturer&#146;  (Bain, 329). The list included John Stuart Mill, who profoundly admired Austin, was tutored by him in Roman law, wrote copious notes of his lectures, and took his course more than once. However, no more than a few students enrolled in the subsequent three offerings of the course. Austin became very discouraged by this response and stopped teaching the class in 1833. When he taught a course on jurisprudence at the Inner Temple in 1834 the results were equally discouraging. Although his introductory lecture attracted between 200 and 300 persons, an extraordinary number, his delivery was unfortunately so poor that very few of them could hear what he had to say. &#145;The audience stared at each other, and looked extremely foolish: altogether the scene was truly ludicrous&#146;  (<span class="italic">The Legal Examiner and Law Chronicle</span>, 2, 1833&#150;4, 416). It is therefore not surprising that the enrolment dwindled to such a small number that the class was discontinued.<br>
+<br>Various factors contributed to the unpopularity of Austin's courses. They include the small overall enrolment at the University of London, the primitive state of legal education, the highly abstract character of the lectures, and Austin's limitations as a teacher. His introductory lecture was off-putting, his subsequent lectures tended to be repetitive, and all of them were completely written out and read. If Austin had been a more effective teacher, he might have attracted enough students to make his courses viable&#151;something that his gifted colleague, Andrew Amos, had demonstrated was possible. Amos was professor of English law at the University of London from 1828 to 1834, and more than a hundred students had enrolled in two of his classes. While a course on jurisprudence faced special difficulties, it might have drawn more than six or seven students.<h2>
+<a name="TheProvinceofJurisprudenceDetermined1832"></a>The Province of Jurisprudence Determined (1832)</h2>The low enrolment in Austin's courses profoundly affected him and convinced him that he had to resign his chair, which he did in 1835. His wife characterized his resignation as the &#145;real and irremediable calamity of his life&#151;the blow from which he never recovered&#146;  (S. Austin, 9). Moreover, Austin concluded that he had no future in the classroom and never taught again. The unpopularity of his courses also contributed to his &#145;writer's block&#146; on legal philosophy that he developed after the publication of <span class="italic">The Province of Jurisprudence Determined</span> in 1832. Although he subsequently contemplated a much more ambitious tome on general jurisprudence and ethics, it never advanced beyond the planning stage. Austin also refused to permit the mere reprinting of <span class="italic">The Province</span>, the only book he did publish in his lifetime. He had evidently detected numerous defects in it (what he perceived them to be is unknown), and he regarded them as sufficiently important to require a complete rewriting of the work.<br>
+<br>Sarah Austin was instrumental in the publication of <span class="italic">The Province of Jurisprudence Determined</span>. She persuaded her husband to permit it, she found a publisher, and she negotiated &#145;everything&#146;  (Ross, <span class="italic">Three Generations</span>, 83). The book itself is quite literally a compressed version of the first ten lectures of Austin's course at the University of London. The purpose of the work was to distinguish positive from other kinds of laws with which they were often &#145;blended and confounded&#146;  (<span class="italic">Province</span>, 11). The first lecture was an analysis of the nature or essence of a law &#145;properly so-called&#146;, which Austin defined as a general command. The crux of the second, third, and fourth lectures was an explication and defence of the principle of utility. Austin was profoundly convinced of its &#145;truth&#146;, &#145;importance&#146;, and relevance to jurisprudence  (<span class="italic">Province</span>, 15). The fifth lecture was a close analysis of positive morality and how it differs from, as well as resembles, positive and divine law. His arguments for the separation of law from morality represented one of the most influential themes of his book. However, this theme overshadowed, if it did not completely obscure, his analysis of the many ways in which law and morality are, and ought to be, related. The final lecture on sovereignty constituted almost half (45 per cent) of the entire book. Austin claimed that every independent political society has a determinate sovereign whose powers are legally unlimited. He concluded by refining his definition of positive law as the expressed or tacit commands of such a person or body of persons.<br>
+<br>Although Austin's <span class="italic">Province</span> received some highly laudatory reviews, the two leading journals of the day&#151;the <span class="italic">Edinburgh Review</span> and the <span class="italic">Quarterly Review</span>&#151;ignored it. Their neglect of it was a great disappointment to its author and reinforced his estrangement from his vocation. The <i>coup de gr&acirc;ce</i> in this regard may have been Austin's experience as a member of the recently formed criminal law commission. Its purpose was to draft a code of the criminal law, a project that Austin strongly supported. Unfortunately, his appointment did not turn out well, as the other commissioners were practical lawyers who felt that his views were &#145;too abstract and scientific&#146;  (<span class="italic">Law Magazine</span>, 9, 1860, 167). He also believed that he could do by himself what the commission was unlikely to accomplish. He resigned his position in 1836.<h2>
+<a name="ResidenceinMaltaGermanyandFrance"></a>Residence in Malta, Germany, and France</h2>It is no wonder, then, that Austin claimed to be born &#145;out of time and place&#146;, or that he should have been a &#145;schoolman of the twelfth century&#151;or a German Professor&#146;  (S. Austin, 12). The small number of his accomplishments in the final twenty-four years of his life support his rather self-serving claim. These achievements were all too frequently marred by illnesses, depressions, social isolation, fits and starts of work, and huge wastes of time. In 1842 his wife bitterly complained that the &#145;first three months of the year passed by (like so many others) in attacks of illness and fruitless attempts at work &hellip; Is life so long that one can afford to throw away years? To vegetate, without any sphere of usefulness, any interchange of ideas, any society?&#146;  (Ross, <span class="italic">Three Generations</span>, 177). Thomas Carlyle was even harsher and in 1843 characterized Austin as a &#145;painful&#146;, &#145;unhealthy&#146;, and &#145;unhappy person&#146; who was &#145;able to bring it no farther than hard isolated <i>Pedant</i>hood&#146;  (<span class="italic">Collected Letters</span>, 16.50). However, Austin's attempts at work were not entirely fruitless during these years. His most notable achievement may have been the reforms that he and George Cornewall Lewis advocated for Malta. Lewis was a former student and great admirer of Austin, and in 1836 they were appointed royal commissioners to Malta. The establishment of the commission was a response by the British government to complaints by the Maltese of colonial misrule. The authority of the commissioners was very broad and comprised the power to recommend far-reaching reforms. Austin decided to observe conditions at first hand, and he and Sarah resided on Malta for almost two years. The commissioners' reports covered a wide range of subjects, their quality tended to be unusually high, and they reflected a deep concern for improving the condition of the Maltese people. Austin and Lewis recommended, among other things, the abolition of sinecures, a preference for natives over Englishmen in appointments to higher offices, a substantial broadening of popular education, reform of the tariff, and abolition of the prevailing censorship.<br>
+<br>While most of the commissioners' recommendations were accepted, Austin's tenure did not conclude on a happy note. For one thing, he and Lewis did not complete all of their reports or inquiries. For another, some of their recommendations were savaged in the House of Lords by such major figures as Lord Brougham and the duke of Wellington. Finally, the British government did not give any public acknowledgement of Austin's services and even resisted compensating him. The resistance was overcome only by the combined efforts of Sarah Austin and Alexander Duff-Gordon, who was Lucie Austin's suitor, the nephew of George Cornewall Lewis, and the holder of a junior clerkship at the Treasury.<br>
+<br>The Austins returned to England in 1838, but lived in Germany and France for most of the 1840s. In 1842 John Austin published in the <span class="italic">Edinburgh Review</span> a detailed critique of Friedrich List's <span class="italic">The National System of Political Economy</span>. List was a critic of free trade and a staunch advocate of protectionism. As such, he advocated policies that cut deeply against the grain of principles to which Austin attached the highest importance. He profoundly admired the &#145;inestimable science of political economy&#146;, the truths of which are of &#145;ineffable moment&#146;  (<span class="italic">Province</span>, 64). Austin therefore denounced List's views in the strongest possible terms. He published his final article while living in Paris, where he and his wife had moved in 1843. The article itself was a lengthy study and defence of political centralization. In it Austin vigorously denied that centralization was responsible for certain evils frequently attributed to it, such as over-government; and he argued that such a pernicious state of affairs was due instead to false opinions about the &#145;legitimate province of government&#146;  (<span class="italic">Edinburgh Review</span>, 85, 1847, 239). <br>
+<br>During his last years in Paris, Austin became a candidate for the office of reader (that is, lecturer) in jurisprudence and civil law at the Middle Temple. The committee on legal education that was instrumental in creating the position conceived of jurisprudence in a way that could have been taken directly from Austin's lectures: &#145;By the term &hellip; the Committee mean to indicate general Jurisprudence, as distinguished from the particular Jurisprudence of any individual nation &hellip; and which &hellip; they would divide into positive Jurisprudence, or the philosophy of positive law, and comparative Jurisprudence&#146;  (Cocks, 64). This conception would seem to have given Austin an edge over the numerous other candidates for the readership. His candidacy was peculiar, however, in that he did not directly apply for the job. Instead, his friends applied on his behalf. Although their testimonials to his prowess as a jurist were glowing, the benchers of the Middle Temple must have been aware of his shortcomings as a lecturer. Whatever the reason, they decided not to offer Austin the position, to which George Long was appointed in 1846.<h2>
+<a name="FinalyearsinEngland"></a>Final years in England</h2>John Austin reacted very unfavourably to the French Revolution of 1848. He was particularly alarmed by what he perceived to be its emphasis on economic, and not merely political, equality  (Ross, <span class="italic">Three Generations</span>, 98). Consequently, the Austins returned to England and eventually settled in Weybridge, Surrey, for the remainder of John Austin's life. The comments of Sarah Austin indicate that these years were the happiest period not only in her husband's life but also of their marriage. Apparently he spent his time reading, walking, meditating, and quite literally cultivating his garden. Moreover, according to Sarah Austin, &#145;all his youthful and passionate love for me seemed to return &hellip; It pleased God, after many years of care and toil and suffering, to permit me to taste of this tranquil happiness&#151;only to lose it&#146;  (Ross, <span class="italic">Three Generations</span>, 360).<br>
+<br>Austin also retained a strong interest in political events, including the various proposals for the reform of parliament, all of which he opposed. Their inexpediency was the leitmotif of <span class="italic">A Plea for the Constitution</span>, a pamphlet that he published in 1859 and in which he defended aristocratic power in a way that contrasted sharply with the opinions that he had expressed in the early 1820s. The pamphlet also extolled the British constitution in terms that rivalled those of Edmund Burke, William Paley, and Sir William Blackstone. Austin explained the evolution of his political thought in these words: &#145;Even before the Reform of 1832, I had rejected [Bentham's] &hellip; <i>radical</i> politics &hellip; I have since resided in Germany and France, and studied and observed their political institutions and condition; and I therefore am better qualified than most of my countrymen to appreciate the matchless union of order and liberty for which we are indebted to our present incomparable Constitution&#146;  (<span class="italic">A Plea</span>, vi).<br>
+<br>Austin died of bronchitis at Weybridge, Surrey, on 17 December 1859, after an illness of almost two months. If his wife's account is accurate, he faced the end with equanimity and serenity. His work was not widely known at the time of his death, but this situation changed dramatically in the next several years. The catalyst of the change was Sarah Austin's decision to edit for publication his lectures and other papers on jurisprudence. It was a task to which she devoted the final eight years of her life. The reasons for her assumption of this onerous responsibility are varied, though she may have had a paramount desire to prove that her marriage to a man whom she once described as &#145;unhappy &hellip; unloving, uncomforting&#146; was not in vain  (Hamburger, <span class="italic">Contemplating Adultery</span>, 251). At least she described the editing of the lectures as the &#145;greatest consolation&#146; of her &#145;dreary life&#146;  (letter to Lord Brougham, 11 June 1865, University College, London, Brougham MS 26524).<br>
+<br>Sarah Austin's preparation of the edition was no easy task. While the lectures were in good shape, much of the other material was in an &#145;imperfect&#146;, &#145;half-legible&#146;, &#145;fragmentary&#146;, and &#145;confused&#146; state  (S. Austin, 22&#150;3). Nevertheless, she overcame the difficulties and a second edition of <span class="italic">The Province of Jurisprudence Determined</span> was published in 1861. In 1863 she edited the remainder of Austin's lectures and other papers, which became indispensable for fully understanding his legal philosophy. Three more editions of his <span class="italic">Lectures on Jurisprudence</span> were published in a relatively brief period of time. By 1885&#151;the date of the fifth and final edition&#151;John Austin's work had become a dominant force in English jurisprudence.<h2>
+<a name="Assessment"></a>Assessment</h2>Sarah Austin once characterized her husband's life as one of &#145;unbroken disappointment and failure&#146;  (Ross, <span class="italic">Three Generations</span>, 373). Although her opinion is hyperbolical, it is readily understandable. John Austin was unsuccessful in the practice of law and he could not earn a living as a teacher of jurisprudence. He was also a relatively unproductive writer who received far more recognition after his death than during his life. Since he had the ability to be a successful barrister, a popular teacher, and a very productive writer, there is an almost tragic quality to his lack of success in these endeavours. Various factors influenced his failure to accomplish more, but the &#145;personal equation&#146; was crucial. In particular, he lacked the energy, persistence, and determination to overcome the admittedly substantial obstacles that he confronted.<br>
+<br>At the same time, Austin's life is not a record of unbroken disappointment and failure. His work on the philosophy of law constituted by far his greatest accomplishment. It was not only an impressive intellectual achievement in its own right but it also shaped the study of legal theory in England for more than a century after his death. His method of meticulously analysing basic legal concepts&#151;&#145;analytical jurisprudence&#146;&#151;was particularly influential. Yet this influence was achieved at the cost of unduly narrowing the meaning of his legal philosophy: important dimensions of it were ignored (such as his utilitarianism), or harshly criticized. There was more than one Austin and his work is not reducible to simplistic catchwords. In the course of the twentieth century, interest in Austin's philosophy of law both waxed and waned. If nothing else, however, it has proved to be much more enduring and influential than anyone had a right to expect in 1859.<br>
+<br>Wilfrid E. Rumble </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>&#145;John Austin&#146;, <em>Law Magazine</em>, new ser., 9 (1860), 164&#150;70 &middot; <em>The Times</em> (12 Aug 1867) [obit. of S. Austin] &middot; S. Austin, preface, in J. Austin, <i>Lectures on jurisprudence, or, The philosophy of positive law</i>, 5th edn, rev. R. Campbell, 2 vols. (1885) &middot; J. Austin, <i>The province of jurisprudence determined</i>, ed. W. E. Rumble (1995) &middot; J. A. Ross, <i>Three generations of Englishwomen</i><i>: memoirs and correspondence of Mrs John Taylor, Mrs Sarah Austin and Lady Duff Gordon</i>, rev. edn (1893) &middot; J. A. Ross, <i>The fourth generation</i><i>: reminiscences</i> (1912) &middot; L. Hamburger and J. Hamburger, <i>Troubled lives</i><i>: John and Sarah Austin</i> (1985) &middot; L. Hamburger and J. Hamburger, <i>Contemplating adultery</i><i>: the secret life of a Victorian woman</i> (1991) &middot; A. Bain, <i>James Mill</i><i>: a biography</i> (1882) &middot; <i>The collected works of John Stuart Mill</i>, 1: <i>Autobiography and literary essays</i>, ed. J. M. Robson and J. Stillinger  (1981) &middot; K. Frank, <i>A passage to Egypt</i><i>: the life of Lucie Duff Gordon</i> (1994) &middot; <i>Lady Duff Gordon's letters from Egypt</i>, rev. edn (1902) &middot; G. Waterfield, <i>Lucie Duff Gordon in England, South Africa and Egypt</i> (1937) &middot; &#145;Copies or extracts of the reports of the commissioners appointed to inquire into &hellip; the island of Malta&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=911&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1837&#150;8), vol. 29, nos. 141, 141-II &middot; &#145;Reports of the committees on the affairs of the island of Malta&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=911&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1839), 17.753, no. 140, 17.871, no. 211 &middot; R. Cocks, &#145;&#147;That exalted and noble science of jurisprudence&#148;: the recruitment of jurists with &#147;superior qualifications&#148; by the Middle Temple in the mid-nineteenth century&#146;, <em>Journal of Legal History</em>, 20 (1999), 62&#150;94 &middot; <i>The collected letters of Thomas and Jane Welsh Carlyle</i>, 16, ed. C. de L. Ryals and K. J. Fielding (1990) &middot; H. C. Robinson, diary, DWL<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Inner Temple, London, annotations to Bentham
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=911&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, Colonial Office records, 158/113&#150;115, 118
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=911&amp;istheme=&amp;target=UCL')">UCL</a>, Ogden MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;4000: probate, 30 Jan 1860, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Wilfrid E. Rumble, &#145;<span class="roman"><span class="headword">Austin,  John</span>  (1790&#150;1859)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/911, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Austin (1790&#150;1859): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/911 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/911/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

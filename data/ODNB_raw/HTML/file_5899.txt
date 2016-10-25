@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 5899;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/5/5899-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/5/5899-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=5899#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Coley,  Henry</span>  (1633&#150;1704), <span class="occ">astrologer and mathematician</span>, was born on 18 October 1633 in the parish of St Mary Magdalen, Oxford, the son of a joiner. His birth was said to have occurred at 32 seconds after 2.14 p.m., &#145;a sufficiently exact Estimate&#146; for astrological analysis, according to his friend John Kendal  (Kendal, 30). He was probably related to Thomas Coley, an Oxford tailor who served as a common councillor from 1603 to 1630. His astrological &#145;accidents&#146; record that he had smallpox at nine, almost died from plague at ten, and suffered a severe attack of ague at fourteen. In the spring of 1648 he became clerk to &#145;a Person of Military Command&#146; in the parliamentary army. In 1652 he settled in a &#145;better&#146; employment, before moving to London on 1 April 1654, where he worked as a ladies' tailor in Gray's Inn Lane. He married in May 1656 and had a child the following year, though the match proved short-lived and unhappy. After his wife's death he married again in April 1660, and this time was &#145;reasonably happy&#146;  (Kendal, 30&#150;31). A son born in September 1661 survived only six days.<br>
+<br>In his spare time Coley taught himself mathematics, astrology, Latin, and French, and in 1669 he published the fruits of his astrological studies as <span class="italic">Clavis astrologiae, or, A Key to the Whole Art of Astrology</span>. Its second part, <span class="italic">Genethliaca</span>, has a separate title-page and carries the date 1668. Though described as merely an introduction, the work is a thorough and systematic account of nativities and the practice of horary astrology, explaining for the first time, for English readers, the innovations of Kepler in this branch of astrology. It was very well received. A massively expanded second edition followed in 1676, with 750 pages of text and a further hundred pages of astronomical data drawn from Kepler and Jean-Baptiste Morin. It was dedicated to Elias Ashmole and carried a glowing tribute by William Lilly, who hailed it as complementing and completing his own <span class="italic">Christian Astrology</span> (1st edn, 1647).<br>
+<br>The success of the <span class="italic">Clavis</span> encouraged Coley to launch an annual almanac in 1672, which he continued, under various titles, until his death. Coley's admiration for William Lilly&#151;&#145;that great Luminary of Astrology&#146;&#151;and Lilly's reciprocal respect led to the older man's &#145;adopting&#146; the younger as his son. After Lilly's serious illness in November 1675 Coley helped him with his celebrated annual <span class="italic">Merlini Anglici Ephemeris</span>, staying at Lilly's house at Hersham, Surrey, each summer to complete the task. Coley himself, unable to get away from London, composed the edition for 1679 but assured Lilly that he had followed his methods and that he would be able to amend the proofs. After Lilly's death in 1681 Coley continued the title himself. He became one of the linchpins of the almanac business of the Company of Stationers, compiling several titles besides his own, and investing some of his savings in the company. Aspiring authors often sent him their manuscripts for approval, including ten in 1683 alone.<br>
+<br>In 1663 Coley moved to a house in Baldwin's Gardens, Baldwin's Court, off Gray's Inn Road, where he taught astrology and mathematics, boarded some of his pupils, and received clients. By the 1670s he had a very flourishing practice. Writing to Lilly in July 1677, he complained that he was visited all day long by &#145;Scholars and Querents, little can be don 'till night, and by Candle light I do most of my work&#146;  (Bodl. Oxf., MS Ashmole 240, fol. 213). In his almanacs he advertised tuition in arithmetic, logarithms, geometry, trigonometry, geography, astronomy, navigation, dialling, surveying, and music, besides astrology. He was a respected mathematician, consulted by Edmond Halley to help him calculate the moon's parallax. Joseph Moxon was a close friend and acknowledged Coley's substantial contribution to his mathematical dictionary, <span class="italic">Mathematics Made Easy</span> (1679). In 1686 Coley published a revised edition of William Forster's textbook <span class="italic">Arithmetic, or, That Useful Art Made Easie</span>, designed for &#145;Merchants, Factors, Accomptants&#146;. His almanac for 1687 contained mathematical calculations by Sir Jonas Moore, and the 1691 edition featured a brief discussion of gravitation, referring readers to Isaac Newton for further information. An enthusiast for the new science in general, Coley declared that the telescope and microscope had revealed wonders unknown to any earlier age, and that Europe now far outstripped all previous civilizations. He had a wide circle of friends, among them the virtuosi Elias Ashmole, John Aubrey, and Sir John Hoskins, astrologers such as John Gadbury (for a time), George Parker, William Salmon, and Charles Bernard, and the whig journalist Henry Care, and counted numerous country gentlemen and lawyers among his clients and patrons. John Brown, surgeon to Charles II and senior surgeon at St Thomas's Hospital, Southwark, was also a patron.<br>
+<br>Coley took a warm interest in the reform of astrology, a lively issue in the second half of the century, arguing that it must be founded on experiments like other sciences. His own interests lay mainly in the refinement of nativities and of horary astrology. On judicial astrology, especially concerning politics, he was more cautious than many of the other leading practitioners of his time. His almanacs offered mostly vague and innocuous prophecies for England and western Europe, though he was happy to promise &#145;vast slaughter&#146; of Turks and Tartars in 1684  (<span class="italic">Merlini Anglici Ephemeris</span>, 1684, sig. A5). More typically he remarked that whig astrologers were rash to predict the death of Louis XIV, &#145;for Kings and Princes have long Arms, and can reach a person when he least expects it&#146;  (ibid., sig. B3). At home his almanacs preached obedience to the government of the day, with varying degrees of enthusiasm. The 1685 edition gave full details of the Popish Plot, but he had no difficulty in hailing &#145;Great James&#146; the following year and remained obedient to the very end of James's reign. The edition for 1690, however, took a strongly protestant, patriotic line, and by 1692 he was hailing William III as &#145;Our King by Miracle, as well as Right&#146;  (<span class="italic">Merlinus Anglicus Junior</span>, 1692, sig. A3), and predicting that he would lead his victorious armies to the very heart of popish France. In the late 1690s Coley drew attention to the still bolder predictions of his former pupil John Holwell and others that a millennial age was at hand: a messianic emperor arising in the north would crush France and bring about the ruin of Rome and conversion of the Turks and Jews. Characteristically Coley remained noncommittal, observing cautiously, &#145;let our own Experience confirm or contradict&#146;  (<span class="italic">Merlinus Anglicus Junior</span>, 1698, sig. C7<i>v</i>).<br>
+<br>Coley is best known as William Lilly's successor. George Parker described him in 1699 as a &#145;Person of a quiet and peaceful Disposition&#146;  (Parker, <span class="italic">Ephemeris</span>, 1699, sig. A3<i>v</i>). Aubrey agreed that he was &#145;as good a natured man as can be&#146;  (<span class="italic">Brief Lives</span>, 1.181). Coley did not avoid controversy altogether, however. John Gadbury, whose <span class="italic">Ephemerides</span> he had criticized as inaccurate, hit back in 1684 by accusing Coley of plagiarizing his work in <span class="italic">Clavis astrologiae</span>. Some years later, in 1698, John Partridge mocked Coley's almanac <span class="italic">Nuncius Syderius</span> as &#145;Duncius Syderius&#146;, and attacked him for selling astrological sigils and charms. Claiming that Coley was selling bogus charms to prevent unwanted pregnancies or retain a lover, charging 4 and 6 guineas respectively, Partridge urged dissatisfied customers to indict him for fraud under the statute of 1604. Despite these attacks, Coley's learning and modesty secured him an unusually wide range of friends, from radical whigs to neo-Jacobites. The portrait attached to the first edition of <span class="italic">Clavis astrologiae</span> shows a soberly dressed young man, wearing his hair long. Coley died in London on 30 April 1704.<br>
+<br>Bernard Capp </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. S. Capp, <i>Astrology and the popular press</i><i>: English almanacs, 1500&#150;1800</i> (1979) &middot; W. Lilly, <i>Mr William Lilly's history of his life and times</i><i>: from the year 1602, to 1681</i>, 2nd edn (1715); repr. with introduction by K. M. Briggs (1974) &middot; <i>Brief lives, chiefly of contemporaries, set down by John Aubrey, between the years 1669 and 1696</i>, ed. A. Clark, 2 vols. (1898) &middot; J. Kendal, <i>Chronometria, or, The measure of time by directions &hellip; practically illustrated in the geniture of Mr Henry Coley</i> (1684) &middot; E. G. R. Taylor, <i>The mathematical practitioners of Tudor and Stuart England</i> (1954) &middot; <em>Mercurius Anglicanus</em> (1699) &middot; G. Parker, <em>Royal Speculum</em> (1705) &middot; Bodl. Oxf., MS Ashmole 240 &middot; Bodl. Oxf., MS Add. B8 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=BL')">BL</a>, Sloane MSS 2281&#150;2285 &middot; J. Merrifield, <i>Catastasis mundi, or, The true state, vigor, and growing greatness of Christendom, under the influences of the last triple conjunction of Saturn and Jupiter in Leo</i> (1684) &middot; J. Partridge, <em>Merlinus Liberatus</em> (1698) &middot; H. E. Salter, ed., <i>Oxford council acts, 1583&#150;1626</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=OHS')">OHS</a>, 87 (1928) &middot; M. G. Hobson and H. E. Salter, eds., <i>Oxford council acts, 1626&#150;1665</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=OHS')">OHS</a>, 95 (1933)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=BL')">BL</a>, astrological and mathematical papers, Sloane MSS 1405, 2279&#150;2285, 2328, 3880
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, notebook, Add. MS B8&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, Ashmolean MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. White, line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; engraving, repro. in H. Coley, <i>Clavis astrologiae</i> (1669) &middot; engraving, repro. in H. Coley, <i>Merlinus Anglicus junior</i> (1686) &middot; line engravings, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=5899&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bernard Capp, &#145;<span class="roman"><span class="headword">Coley,  Henry</span>  (1633&#150;1704)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/5899, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Henry Coley (1633&#150;1704): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/5899 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

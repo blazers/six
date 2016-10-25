@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 8926;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/8/8926-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/8/8926-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=8926#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Eugenius I&#150;VIII</span>  (<em>act. </em><em>c.</em>350&#150;763), <span class="occ">Scottish kings</span>, appear in the pages of John Fordun and later historians among the real and fictitious early rulers of a realm made up at first of lands extending between north-east Ireland and Argyll and later of portions of mainland Scotland. Given cohesion by their Latinate names, for the positive scholarship of the late nineteenth century they formed a group providing a yardstick whereby issues of historical identification and authenticity could be judged. A century later, although some problems of identity remain, they had become interesting principally for the light they shed upon the varying concerns of the historians who described, or invented, their deeds.<br>
+<br>
+<a name="cosubject_8926"></a><span class="headword">Eugenius I</span>  (<em>d.</em> <em>c.</em>360)<span class="occ"></span>, reported to have been killed in a battle between Scots and Picts in which the latter owed their victory to Roman allies, <a name="cosubject_8927"></a><span class="headword">Eugenius II</span>  (<em>fl. </em>419&#150;452)<span class="occ"></span>, who appears as a model ruler in the pages of Buchanan, and <a name="cosubject_8928"></a><span class="headword">Eugenius III</span>  (<em>fl. </em>535&#150;558)<span class="occ"></span>, a notable warrior against the Saxons and Picts, do not occur in authentic king-lists and are first recorded only in Fordun's fourteenth-century compilations. There is no reason to suppose that Fordun himself created them, but the stages by which they came to enjoy the standing of historical figures cannot be traced.<br>
+<br>With the last five kings, however, all of whom fall within the purview of the kings of <script>writeSeealsoLink('../view/article/49278/', "D&#225;l Riata")</script>, the sequence begins to coincide with ascertainable fact, even if it all too often demonstrates historical plausibility only through the faithfulness with which it reflects the inadequacies of the surviving sources. The recurrent name of Eugenius can now be seen as disguising identities that were culturally and linguistically Celtic. Thus Eugenius IV (<i>fl</i>. 606&#150;622) is identifiable with <script>writeSeealsoLink('../view/article/8929/', "Eochaid Buide (d. c.629)")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/49278/', "D&#225;l Riata, kings of (act. c.500&#150;c.850)")</script>], and Eugenius V (<i>fl</i>. 684&#150;687) appears to have been identical with <script>writeSeealsoLink('../view/article/8930/', "Eochaid son of Domangart (d. 697)")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/49278/', "D&#225;l Riata, kings of (act. c.500&#150;c.850)")</script>] and thus placed a decade too early, while <a name="cosubject_8931"></a><span class="headword">Eugenius VI</span>  (<em>fl. </em>687&#150;697)<span class="occ"></span> and <a name="cosubject_8932"></a><span class="headword">Eugenius VII</span>  (<em>fl. </em>698&#150;715)<span class="occ"></span> seemingly represent a confused duplication of a king named Ewen or Eogan, the son of <script>writeSeealsoLink('../view/article/9237/', "Ferchar Fota")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/49278/', "D&#225;l Riata, kings of (act. c.500&#150;c.850)")</script>], who reigned for either thirteen or sixteen years after the death of his father. Ferchar, who died in 697, was apparently ruler of Lorne rather than of D&aacute;l Riata, and this was probably also true of his descendants, although they certainly aspired to a wider dominion. They appear as kings only in the Latin lists. Among them was another <script>writeSeealsoLink('../view/article/8933/', "Ewen or Eogan")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/49278/', "D&#225;l Riata, kings of (act. c.500&#150;c.850)")</script>], the son of <script>writeSeealsoLink('../view/article/55327/', "Muredach")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/49278/', "D&#225;l Riata, kings of (act. c.500&#150;c.850)")</script>], who probably lies behind Eugenius VIII (<i>fl</i>. 761&#150;763), though it is impossible to be certain when he ruled&#151;his father lost his kingship in 736, and his successor, Aed (or &Aacute;ed) Find, may have begun to rule in 748. His kingship too was presumably confined to Lorne.<br>
+<br>Historiographically the kings named Eugenius served diverse purposes. For Fordun and Walter Bower, in particular, the first three helped to buttress the Scottish origin-myth, giving antiquity and continuity to a succession of early kings stretching back into a satisfyingly distant past. For sixteenth-century writers they all provided grist for ideological mills, providing models of kingship according to each historian's requirements. Hector Boece had clear-cut ideas as to what constituted good and bad kingship, and shaped his regal images accordingly. Thus Eugenius IV, benefiting from the teaching of St Columba in his youth, proved an exemplary ruler who was more concerned to defend his realm than to extend it. Rigorous to malefactors, he was just and generous to the law-abiding. Eugenius VIII, on the other hand, though also a stern upholder of law and order, was increasingly given to brothels, taverns, and the pursuit of avarice, and was consequently murdered by his nobles. For George Buchanan, writing after the Reformation, the kings named Eugenius, like the other early Scottish rulers, provided a means whereby details taken from Boece could be redirected, using rhetorical skills based upon a mastery of Tacitean Latin, to project upon the past Buchanan's ideal of a strictly limited monarchy. Hence his accounts of reigns like that of Eugenius VII, chosen king by the army and later obliged to stand trial for killing his wife.<br>
+<br>The place of the eight Eugenii in the succession of Scottish kings was not maintained by words alone, for in the mid-1680s they were also immortalized, after a fashion, in the remarkable collection of royal &#145;portraits&#146; at Holyrood Palace which the Dutchman Jacob de Wet, under a contract of 26 February 1684, undertook to produce within two years for a total of &pound;240. One hundred and ten pictures were promised, and while not all appear to have survived, every Eugenius is still represented. The problem of differentiating so many rulers, a high proportion of them non-existent, greatly taxed the painter's slender powers of invention, though he did his best with beards, hats, hairstyles, and expressions; thus Eugenius II contemplates posterity with a complacent smirk, Eugenius IV with a shifty leer. A rare touch of imagination gave a family likeness to the entire series by endowing each king with the nose of Charles II.<br>
+<br>Then in 1729 Father Thomas Innes published his <span class="italic">Critical Essay on the Ancient Inhabitants of the Northern Parts of Britain or Scotland</span>, and in it he both demolished the historicity of the pre-sixth-century king-lists provided by Fordun and Bower and showed in detail how in relating the fortunes of early kings, whether they existed or not, Boece and Buchanan had manipulated their sources for ideological purposes, in the process creating narratives riddled with anachronisms and inconsistencies. Eugenius VIII was among the kings Innes chose to demonstrate how &#145;none of all these [medieval] historians &hellip; have so much as one of the many instances or examples, related by Boece &hellip; of the Scottish nobility calling their kings to account, or claiming the power to judge them&#146;  (Innes, 152). The blow dealt by Innes to the mythical history of early Scotland proved mortal, and thereafter Eugenius I&#150;VIII, their milieu, ancestors, and descendants, were increasingly left to the meticulous investigation of scholars like W. F. Skene in the nineteenth century and M. O. Anderson in the twentieth.<br>
+<br>Henry Summerson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Fordun, <i>Chronica gentis Scotorum</i>, ed. W. F. Skene, 2 vols. (1871&#150;2) &middot; W. Bower, <i>Scotichronicon</i>, ed. D. E. R. Watt and others, new edn, 9 vols. (1987&#150;98), vol. 2 &middot; <i>John Major's &#145;History of Great Britain&#146;, 1521</i>, ed. A. Constable, Scottish History Society, 10 (1892) &middot; H. Boethius, <i>Chronicle of Scotland</i>, trans. J. Bellenden (1540); repr. (1977) &middot; G. Buchanan, <i>Rerum Scoticarum historia</i>, ed. R. Freebairn (1727) &middot; T. Innes, <i>A critical essay on the ancient inhabitants of the northern parts of Britain or Scotland</i> (1729); repr. (1879) &middot; M. O. Anderson, <i>Kings and kingship in early Scotland</i>, rev. edn (1980) &middot; C. Kidd, <i>Subverting Scotland's past</i> (1993) &middot; D. Broun, &#145;The birth of Scottish history&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=8926&amp;istheme=&amp;target=SHR')"><i>SHR</i></a>, 76 (1997), 4&#150;22 &middot; &#145;The contract with James Dewitte, painter, for the portraits of the kings of Scotland in the palace of Holyrood&#146;, <i>Bannatyne miscellany III</i>, ed. D. Laing, Bannatyne Club, 19B (1855), 327&#150;42<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Henry Summerson, &#145;<span class="roman"><span class="headword">Eugenius I&#150;VIII</span>  (<em>act. </em><em>c.</em>350&#150;763)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/8926, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Eugenius I&#150;VIII (<em>c.</em>350&#150;763): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/8926 
+                <br />
+
+                
+
+ Eugenius I (<em>d.</em> <em>c.</em>360): doi:10.1093/ref:odnb/8926<br> Eugenius II (419&#150;452): doi:10.1093/ref:odnb/8927<br> Eugenius III (535&#150;558): doi:10.1093/ref:odnb/8928<br> Eugenius VI (687&#150;697): doi:10.1093/ref:odnb/8931<br> Eugenius VII (698&#150;715): doi:10.1093/ref:odnb/8932<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

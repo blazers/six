@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30880;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30880-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30880-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30880#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Burt, Sir  Cyril Lodowic</span>  (1883&#150;1971), <span class="occ">psychometric psychologist and eugenicist</span>, was born in London on 3 March 1883, first child of Cyril Cecil Barrow Burt (<i>b</i>. 1857), a medical practitioner, and Martha Evans of Monmouth. His younger sister, Marion Burt (1891&#150;1978), became a doctor like her father. From 1893 to 1923 the family lived at Snitterfield, Warwickshire, a country village where Burt's father had his practice.<h2>
+<a name="Educationandearlyresearches"></a>Education and early researches</h2>Burt's education was in the classics, although he tried more than once to change to science. He attended King's School, Warwick, and later Christ's Hospital, which was then in London. In 1902 he went up to Jesus College, Oxford, to read Greats, graduating with second-class honours in 1906, which he followed by a teaching diploma and a summer visit to the University of W&uuml;rzburg in 1908. There he met the psychologist Oswald K&uuml;lpe, who was developing an experimental psychology that attempted to deal with the higher functions of the mind such as intelligence. At Oxford he had gone to lectures by the psychologist William McDougall, who opened an important door for him in 1907 by getting him involved in the anthropometric survey of the British people proposed by Francis Galton, in which he was to work on the standardization of psychological tests. This project brought him into contact with the world of eugenics, Charles L. Spearman, and Karl Pearson.<br>
+<br>In 1909 Burt made use of Spearman's model of general intelligence to analyse his data on the performance of schoolchildren in a battery of tests. He arranged the results in a rank order matrix, and tested Spearman's hypothesis of a unitary general factor, <i>g</i>, which he found to work fairly well. This first research project was to define Burt's life's work in quantitative intelligence testing, eugenics, and the inheritance of intelligence, and to link him with the Galton&#150;Pearson school of thought. One of the conclusions in his 1909 paper was that upper-class children in private preparatory schools did better in the tests than those in the ordinary elementary schools, and that the difference was innate. The discussion of intelligence and its relation to class was a product of the establishment of universal education in Britain. Intelligence added a new indicator to the eugenicists' discussion of the significance of fertility differentials between classes. If the lower class, along with all its other supposed faults, was less intelligent as well as more fertile, and if intelligence, as the eugenicists claimed, was genetically determined, then the excess fertility of this class would soon pull down the intelligence of the entire population. It was in this context that Cyril Burt's work took place.<br>
+<br>Burt's first post was as a lecturer in psychology at the University of Liverpool, where he was attached to Charles Sherrington's department of physiology. In 1913, with the help of the Eugenics Society, the <span class="roman">Mental Deficiency Act</span> was passed. This act stipulated that defective children were to be removed from elementary schools and transferred to special schools for the feeble-minded. Burt was appointed psychologist to the London county council (LCC) with the responsibility of picking out the feeble-minded children. At first he tested only those who were known to be behind their classmates, but later he organized a more general programme, designing and standardizing the tests used and investigating the distribution of learning difficulties in children. In one of his early papers, written for the <span class="italic">Eugenics Review</span> in 1912, Burt stated that the evidence was conclusive that intelligence was mainly inherited. This was a position that he was to defend to the end of his long life.<h2>
+<a name="Educationalphilosophy"></a>Educational philosophy</h2>Burt's quantitative psychology of individual differences was meant as a way of grading children, selecting those that would be suitable for scholarships as well as those that were to be sent to the special schools, allocating children of appropriate ability to appropriate vocations, and fitting education to the child's future status as a worker belonging to a specific class. The LCC post gave him access to very large numbers of children, and he took full advantage of it to found what was essentially a new science of quantitative educational psychology. He was allowed to work in Spearman's laboratory, and the National Institute of Industrial Psychology helped him with research assistants. In 1917 he published <span class="italic">The Distribution and Relations of Educational Abilities</span>, in 1921, <span class="italic">Mental and Scholastic Tests</span> (which gave details of the type of tests he used), and in 1925, <span class="italic">The Young Delinquent</span>, in which he proposed a complete child guidance clinic staffed by psychologists and social workers. Following up on this suggestion a child guidance council was set up with Burt in the chair, and by 1928 the London Child Guidance Training Centre opened in Islington, providing training for psychiatrists, psychologists, and social workers. As a part-time professor of educational psychology at the London Day Training College, Burt also trained child guidance specialists at postgraduate level. In the new field of child guidance Burt's influence was paramount. He also made contributions to vocational psychology through a scheme that correlated occupation with intelligence.<br>
+<br>Burt believed that social inequality had a biological basis, but since he found that the correlation between the IQs of fathers and sons was only 0.50, there had to be considerable social mobility for IQ distribution by class to persist: as it was, nearly half the population was in a class too high or too low. Like other psychometrists, Burt believed in a meritocracy of intelligence, with an educational ladder that would lead the misplaced child up or down to his true place in society. However, through the twenties and early thirties he acted as chair for the Eugenics Society's long-running Pauper Pedigree Project, which was designed to show that the pauper class was a closed, inbreeding group of interrelated families, and that pauperism could be traced to a heritable biological defect of temperament, showing itself in moral imbecility, feeble-mindedness, nervousness, and criminality. The results of the study were published in 1933.<br>
+<br>As an educational psychologist, Burt contributed to a series of policy-making reports on secondary education by the Board of Education consultative committee through the twenties and thirties, beginning with the Hilton Young report of 1919, which introduced the 11+ examination, up to the Spens Report of 1938, which prepared for the introduction of tripartite secondary education in 1944. It should be said that Burt did not originate these educational policies, although they coincided with his point of view. It is not completely clear how much psychometry was actually used in the assessment of the aptitude of children for the different types of education available. By 1939 about one third of the local education authorities still did not have an IQ test as part of the selection process, and many of those that did used very non-standard procedures. By 1952 almost all included some kind of IQ test in their exams. By the mid-1960s, however, a wave of discontent with selection had begun which was to culminate in the introduction of more egalitarian comprehensive schools to replace the several types of &eacute;lite and not-so-&eacute;lite secondary school then in existence.<br>
+<br>On 9 April 1932 at the age of forty-nine, Burt married Joyce Muriel Woods (<i>b</i>. 1908/9), a former student of his, then aged twenty-three. The marriage was not a success and the couple lived separately for most of it, although they never divorced. There were no children.<h2>
+<a name="UniversityCollegeyears"></a>University College years</h2>In 1932 Burt succeeded Spearman as professor of psychology at University College, London, continuing the Galton&#150;Pearson line that was the heart of the college's statistical tradition. He cut back on his large-scale collection of data and turned instead to theoretical problems concerned with the technique of factor analysis and its mathematical basis, regarding it as one of a number of possible ways of dealing statistically with variance broken down into separate factors, and comparing it to R. A. Fisher's analysis of variance&#151;Fisher had succeeded Pearson himself at University College as Galton professor of eugenics in 1933. He also applied it in new areas, to temperament, physique, and the marks of examiners. His major work <span class="italic">Factors of the Mind</span> appeared in 1940. It was about this time that Burt began to suffer from severe M&eacute;ni&egrave;re's disease. From about 1947 onwards, Burt became concerned to link his work historically with that of Karl Pearson, emphasizing the early contribution of Pearson's mathematics to factor analysis.<br>
+<br>In 1946 Burt was knighted. He retired in 1950 at the height of his fame. Soon afterwards, opinion in education began to swing against him. Ideas which had been progressive in his early years came under attack. Educational psychometry came to be seen as no more than an attempt to justify a class society, at one with the outdated assumptions of the eugenics movement. The inheritance of IQ was now associated with psychologists who argued for genetically determined differences in IQ between races. It is possible that his two new twin studies of 1955 and 1966, and the one that appeared in 1958 under the name of an assistant, J. Conway, were rejoinders to attacks on Burt's position by environmentalist critics. The twin studies argued strongly for a very high degree of heritability for IQ: his data for separated monozygotic twins reared together and apart showed correlations of 0.944 and 0.771.<h2>
+<a name="Deathandreputation"></a>Death and reputation</h2>Within a year of his death from cancer on 10 October 1971, Burt's reputation suffered a further blow. The problem concerned the twin studies. Leon Kamin of Princeton pointed out that the number of pairs of twins cited in Burt's papers grew over the years from twenty-one to fifty-three, but the correlations remained constant, an impossible degree of reproducibility. Kamin argued that psychometry was scientifically worthless, and politically pernicious. Other psychologists questioned the perfect regression to the mean found by Burt in the relationships between the IQ of parents and children, and pointed out that his papers were full of errors and inaccuracies. Finally, Oliver Gillie, writing in the <span class="italic">Sunday Times</span> in 1976, accused him of outright fraud, including the invention of two assistants and several pairs of twins, as well as much of his published data, an accusation that created storms of support and protest for and against Burt. Leslie Hearnshaw, one of Burt's erstwhile supporters, added further damaging details in his intimate official biography of 1979, suggesting that Burt had suffered from personality changes that had resulted in his fabricating data and inventing assistants.<br>
+<br>However, later writers began a process of rehabilitation. Robert Joynson, a psychologist (1989), and Ronald Fletcher, a sociologist (1991), reviewed the evidence once again. Joynson in fact devoted a whole book to countering Hearnshaw's book page by page. Like Fletcher, he argues in high adversarial style as Burt's counsel for the defence. Joynson glosses over the errors and omissions in Burt's figures and in his explanations of the sources of his data by pointing out that, of course, this was not modern data gathering. The IQ results themselves were often no more than roughly estimated, with the tests carried out by very imperfectly trained helpers. The thirty-two new sets of separated monozygotic twins that turned up after Burt's data gathering presumably ceased may have been found in Burt's own attic after much searching, rather than being lost in the blitz (when University College was evacuated to Aberystwyth), and subsequently reinvented, as Hearnshaw suggested. Of the three &#145;missing&#146; co-workers, M. G. O'Connor, M. Howard, and J. Conway, who worked with Burt on his twin studies, none could have worked with Burt after the war, and O'Connor was never traced. But they might have collected data at an earlier period that were still in Burt's possession. Joynson argues that the unvarying coefficients that first caught Kamin's attention referred mainly to physical and educational measures, in which Burt was no longer very interested, and probably had not bothered to do for the most recent pairs of twins.<br>
+<br>N. J. Mackintosh in dealing with the same problem in 1995 is more critical, though he avoids the accusation of outright fraud. He suggests that Burt's muddle of changed and unchanged correlations was due to multiple careless mistakes, the result of copying figures at different times from different sources; that was clearly the case in his inaccurate quotations from earlier twin studies by other authors. The tables are full of misprints and other errors. Burt's 1966 figures as they stand are completely unreliable; in Mackintosh's view, there can be no innocent explanation of this that leaves Burt's reputation as a careful scientist unscathed. The question of his assistants, however, seems to have been fairly well resolved. It is unlikely that Burt was actually collecting more twin data after his retirement, but it is possible that he was able to find some of his old material bit by bit in the various places where it had been stored. Unfortunately, several boxes of Burt's papers were destroyed after his death.<h2>
+<a name="Theroleofpolitics"></a>The role of politics</h2>It is difficult to separate the problem of Burt's science from the political stance of his attackers and defenders. Burt himself was formed in an era when hereditarianism and eugenics were the norm. His interest in eugenics was shared by an entire intellectual class up to the thirties, and especially by bearers of the Galton&#150;Pearson tradition. But in the post-war climate of egalitarianism selectivity in education began to seem both antiquated and unjust. The movement towards comprehensive schools mirrored the movement to end the segregation of handicapped people. The attack on hereditarianism became an attack on its most prominent exponent, and was led largely by psychologists who were passionate environmentalists. Similarly, attempts to rehabilitate Burt's reputation, though not completely successful, came at a time when egalitarianism and the comprehensive school were under attack, and interest in measurement of ability increasing. Indeed, confidence in IQ testing generally coincides with peaks in popularity of the political right. Adrian Wooldridge in reviewing the controversy in 1994 very convincingly linked this reassessment to a swing against egalitarianism that was powered by Margaret Thatcher's education policies, which depended upon many of the same ideas that Burt had espoused in the 1930s and 1940s.<br>
+<br>Pauline M. H. Mazumdar </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Fletcher, <i>Science, ideology and the media</i><i>: the Cyril Burt scandal</i> (1991) &middot; S. J. Gould, <i>The mismeasure of man</i> (1981) &middot; L. S. Hearnshaw, <i>Cyril Burt, psychologist</i> (1979) &middot; R. B. Joynson, <i>The Burt affair</i> (1989) &middot; L. Kamin, <i>The science and politics of IQ</i> (1977) &middot; N. J. Mackintosh, <i>Cyril Burt</i><i>: fraud or framed?</i> (1995) &middot; P. Mazumdar, <i>Eugenics, human genetics and human failings</i><i>: the Eugenics Society, its sources and its critics in Britain</i> (1992) &middot; G. Sutherland and S. Sharp, <i>Ability, merit and measurement</i><i>: mental testing and English education, 1880&#150;1940</i> (1984) &middot; A. Wooldridge, <i>Measuring the mind</i><i>: education and psychology in England, c.1860&#150;c.1990</i> (1994) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1972)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=U.%20Lpool')">U. Lpool</a>, corresp. and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. with C. D. Darlington
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. with the Society for the Protection of Science and Learning
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=ICL')">ICL</a>, corresp. with Herbert Dingle
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=UCL')">UCL</a>, corresp.<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1947, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30880&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;24,657: probate, 6 Jan 1972, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Pauline M. H. Mazumdar, &#145;<span class="roman"><span class="headword">Burt, Sir  Cyril Lodowic</span>  (1883&#150;1971)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2012 [http://www.oxforddnb.com/view/article/30880, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Cyril Lodowic Burt (1883&#150;1971): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30880 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/30880/2006-05"> [Previous version of this biography available here: May 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

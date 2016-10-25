@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 49777;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/49/49777-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/49/49777-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=49777#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hill,  Robert <span class="st"> [Robin]</span></span>  (1899&#150;1991), <span class="occ">plant biochemist</span>, was born on 2 April 1899 at Normanhurst, Warwick New Road, New Milverton, Leamington Spa, the son of Joseph Alfred Hill, accountant in the family metalwork firm and later amateur scientist, and his wife, Clara Maud, daughter of Frank George Jackson, lecturer on principles of ornament and advanced design at the Birmingham Municipal School of Art and illustrator of J. A. Hill's <span class="italic">Ferns and the Microscope</span> (1893).<br>
+<br>Taught botany by Elizabeth Gamble, his paternal grandmother's cousin, and watercolour drawing by his aunt Mary (Jackson), Robin Hill&#151;as he was known&#151;was educated at Bedales School, where A. E. Heath, later professor of philosophy at University College, Swansea, was science master. Encouraged by Heath to take an interest in natural dyes, Hill joined the Bedales dyeing club, grew dye-plants, and wrote articles on them for the school magazine. Heath also encouraged him in astronomy, and his first published paper (1917) was on sunspots.<br>
+<br>In April 1917 Hill was admitted a scholar to Emmanuel College, Cambridge, and joined the university's Officers' Training Corps, but had time to carry out experiments on the colour reactions of the indole residue of tryptophan. In the autumn he was deemed unsuitable as an officer and was drafted to an infantry regiment&#151;a dispiriting experience&#151;but in February 1918 he was transferred to the anti-gas department at University College, London. In January 1919 he returned to Cambridge, where he read chemistry, physics, and botany in the natural science tripos, specializing in chemistry in part two, and gained first class in both. Because he was inquisitive about cloud formations he designed a &#145;fish-eye&#146; lens to photograph them, his system giving a projection of slightly more than 180&deg;&#151;better than modern fish-eye cameras. Despite his shyness he was an active member of the college's Natural Science Club and was proposed a member of the university's Biological Tea Club by E. J. H. Corner and Barton Worthington.<br>
+<br>Hill's first independent research, under F. Gowland Hopkins in the department of biochemistry, was on the relation between structure and spectra in inorganic pigments; his desire to study plant pigments had to be relegated to his spare time. His scientific reputation was built on his studies of haemoglobin's chemical and spectroscopic properties. David Keilin invited him to help with work on cytochrome in the Molteno Institute, where Hill was the first to characterize the porphyrin from cytochrome <i>c</i> and demonstrate its relation to haematoporphyrin, and thus to the porphyrin of haemoglobin.<br>
+<br>In 1932 Hill went into deep depression, and Worthington suggested he travel to Singapore to visit Corner. They explored the forests of Johore together, and besides seeking new dye-plant sources Hill sketched plants, one of his drawings being published in Corner's <span class="italic">Wayside Trees of Malaya</span> (1940). Restored, he returned to Cambridge, where he devised a spectrocolorimeter to measure the oxygen dissociation curves of haemoglobin. On 18 March 1935 he married Amy Priscilla (<i>b</i>. 1906/7), daughter of Edgar Worthington, a railway engineer, and sister of Barton. Shortly afterwards he bought Vatches Farm, at Barton, in Cambridgeshire, where he and his wife brought up two sons and two daughters. There, also, Hill wrote his papers and conducted an extensive correspondence.<br>
+<br>In 1936, when nothing was known about the biochemical mechanism of photosynthesis, Hill began studying oxygen production from chloroplasts freed from leaves (the &#145;Hill reaction&#146;); others in the laboratory had studied oxidation-reduction reactions in cell-free extracts of animal tissues, but Hill's novel approach in plants revolutionized the study of photosynthesis. In experiments he showed that the &#145;light&#146; and &#145;dark&#146; reactions are linked by a redox reaction but are otherwise independent. He maintained his interest in dyes, working on the anthraquinone pigments of madder and its allies, and as part of the war effort he joined the group in the department concerned with chemical warfare, and studied vesicants, notably protoanemonin. From 1943 he was employed by the Agricultural Research Council, and although not on the university staff he gave lectures, but he was not good at it.<br>
+<br>Hill worked with Kamala Bhagvat on the presence of cytochrome oxidase in plant tissues, the first experiments to demonstrate a particularly respiratory system in plants, but from 1950 photosynthesis was the focus of his research. From 1944 he kept notebooks concerned with thermodynamics, and in 1960, in a paper with Fay Bendall, he proposed an arrangement of the cytochromes (the Z scheme) that harmonized photosynthetic and oxidative phosphorylation, providing a framework for the whole electron transport system of the chloroplast. It made clear the thermodynamic basis of the conversion of light energy to electrical energy to chemical energy in green plants, the basis of the organic world.<br>
+<br>Hill scorned applied science, though he went to what became Malawi, in the late 1950s, to study tea fermentation. He retired in 1966 but retained his chaotic room in the laboratory, synthesizing dyes and studying the history of work on photosynthesis; though good at devising simple equipment Hill was at a loss with modern instruments. He was elected FRS in 1946, and his honorary degrees included one at Sheffield (1990), where his impact was such that the Robert Hill Laboratories&#151;later known as the Robert Hill Institute&#151;were established.<br>
+<br>Hill was a modest, unassuming person, intolerant of pomposity, but he was not easy to work with and could explode with indignation, though he had a puckish sense of humour. He died at Hope Nursing Home, Cambridge, on 15 March 1991.<br>
+<br>D. J. Mabberley </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. S. Bendall, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49777&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 40 (1994), 143&#150;70 &middot; <em>The Times</em> (21 March 1991) &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49777&amp;istheme=&amp;target=CUL')">CUL</a>, corresp. and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49777&amp;istheme=&amp;target=CUL')">CUL</a>, catalogue of paintings by D. Hill
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=49777&amp;istheme=&amp;target=CUL')">CUL</a>, corresp. with Peter Mitchell
+   &middot;
+ U. Leeds, Brotherton L., corresp. with E. C. Stoner
+   &middot;
+ University of Sheffield, corresp. with Arthur Ray Clapham
+   &middot;
+ Whipple Museum of the History of Science, Cambridge, fish-eye cameras, plates, and photographs<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <i>c.</i>1950, repro. in Bendall, <i>Memoirs FRS</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;374,500: probate, 25 Sept 1991, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">D. J. Mabberley, &#145;<span class="roman"><span class="headword">Hill,  Robert </span>  (1899&#150;1991)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/49777, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Hill (1899&#150;1991): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/49777 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

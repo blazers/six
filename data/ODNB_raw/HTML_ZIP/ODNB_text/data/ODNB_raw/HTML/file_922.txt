@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 922;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/922-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/922-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=922#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Averell,  Adam</span>  (1754&#150;1847), <span class="occ">Primitive Wesleyan Methodist minister</span>, was born on 7 May 1754 at Mullan, co. Tyrone, where his family had settled in the sixteenth century. His parents, Adam Averell, farmer, and Mary Johnston, belonged to the established church and were related to Dr John Averell (<i>d</i>. 1771), bishop of Limerick. In 1773 Averell went to Trinity College, Dublin, and in 1774 became private tutor to Sir Richard St George. He was ordained deacon at Clonfert by Bishop Cope on 25 July 1777 but took no charge. At this period he met John Wesley in Dublin and heard him preach but this had little immediate impact upon him. On 18 December 1785 he married Elizabeth Gregory (<i>d</i>. 1813), the daughter and heir of the Revd R. Gregory of Tentower, Queen's county.<br>
+<br>Averell's evangelical conversion in 1788 followed his reading of Wesley's <span class="italic">Appeal</span> and seems to have been precipitated by a serious illness. Between 1789 and 1791 he acted as curate to Dr Ledwich at Aghaboe, Queen's county, but resigned in order to take up a gratuitous itinerant ministry based at his home in Tentower. On 7 October 1792 he preached for the first time to a Methodist congregation; in 1796 the Dublin conference admitted him to full connection. In December 1797 he separated from his wife&#151;who appears to have found his new convictions unacceptable&#151;and his eleven-year-old daughter.<br>
+<br>Although Averell had himself regularly celebrated holy communion as a deacon, arguing that he did not need full ordination to qualify him, he strongly opposed the 1816 proposal that Methodist preachers should administer the sacraments. Concerned to avoid a break with the Irish established church, he declared on 21 January 1818 at Clones that the Methodists &#145;are not a church but a religious society&#146;. In the resulting split, Averell became leader of the Irish Primitive Wesleyan Methodists, elected as president at their first conference in July 1818 and continuously re-elected until after 1841, when his infirmities led him to decline office. The Primitive Wesleyan body he represented was reunited with the Irish Wesleyan conference in 1878.<br>
+<br>For the first fifteen years of his career as a Methodist preacher Averell kept a journal, which provides important insights into the Methodist response to a turbulent period in Irish history. The journal entries for 1798 are of particular interest as Averell travelled a country torn apart by bloody rebellion. In the midst of fear and turmoil little bands of protestants, isolated in Catholic rural areas, met for both spiritual and physical support. Believing himself to have been protected by providence on more than one occasion, Averell presided over scenes of local religious revivalism, which appear to have been a common Methodist reaction to the crisis. From a more general point of view Averell's response in his journal to the domestic trials precipitated by his conversion, and his defence of Methodist practice, also make fascinating reading. In common with many of his contemporaries he contrasts the &#145;worthlessness&#146; of the &#145;great, rich and honourable&#146; and the complacency of the established church with the energizing influence of &#145;Original&#146; Methodism. He was clear, for example, that street preaching was important not only in facilitating the spread of the gospel but for its good effect on preachers themselves: &#145;it subdues pride, mortifies self, and begets boldness in the cause of God&#146;  (Averell, journal, 1806, 289). The journal reflects his total immersion in a faith sustained by scripture reading, prayer, and the solemn reconsecration of his life on every birthday, and suggests the power of his preaching: &#145;I was so melted down before God, while at prayer after preaching, that I was unable to give expression to language, and most of my little flock were similarly affected&#146;  (ibid., 13 May 1792, 55).<br>
+<br>After fifty years of preaching Averell died at Mount Salem, near Clones, co. Monaghan, on 16 January 1847 aged ninety-two. He outlived his wife, who died in Bristol in 1813, by more than thirty years.<br>
+<br>Myrtle Hill </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Stewart and G. Revington, <i>Memoir of the Rev. Adam Averell</i> (1849) &middot; R. Haire, &#145;The life of Adam Averell&#146;, <em>Irish Christian Advocate</em>, 28 (1949) &middot; <em>Christian Advocate</em> (12 Oct 1888) &middot; R. Roddie, register of Irish Methodist preachers, Wesleyan Historical Society (Irish branch), Aldersgate House, Belfast &middot; A. Averell, journal, Wesleyan Historical Society (Irish branch), Aldersgate House, Belfast &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=922&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 27 (1847), 446 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=922&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; D. M. Lewis, ed., <i>The Blackwell dictionary of evangelical biography, 1730&#150;1860</i>, 2 vols. (1995)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Wesleyan Historical Society (Irish branch), Aldersgate House, Belfast, MS journal; letters<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, repro. in Stewart and Revington, <i>Memoir</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Myrtle Hill, &#145;<span class="roman"><span class="headword">Averell,  Adam</span>  (1754&#150;1847)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/922, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Adam Averell (1754&#150;1847): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/922 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

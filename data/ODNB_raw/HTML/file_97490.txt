@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 97490;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/97/97490-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/97/97490-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=97490#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bleaney,  Brebis</span>  (1915&#150;2006), <span class="occ">physicist</span>, was born on 6 June 1915 at 423 King's Road, Chelsea, London, the second son of Frederick Bleaney, a house painter then serving as a sapper in the 3rd London field company of the Territorial Army, and Eva Petersen. His father did not register the birth until 4 May 1916 (when he mistakenly gave the birth date as 5 June). Bleaney's mother was Danish and his father was English. His unusual name of Brebis came from the village of La Brebis, near Ypres, where his father was serving when Brebis was born. His brother, Paul, was born three years earlier. His parents were not well off financially and because of this, in 1919, Paul was sent to Denmark to live with his grandparents. The family lived in a succession of barely legal flats and Bleaney attended Cook's Ground elementary school from 1921 until 1926 when he won an entrance scholarship that enabled him to go to Westminster City School. He won a number of prizes at the school and obtained distinctions in his school certificate examinations in mathematics and in physics.<br>
+<br>In 1933 Bleaney was awarded an open scholarship at St John's College, Oxford which he took up the following year, despite his family's continuing financial difficulties. He undoubtedly enjoyed his experience as an undergraduate at Oxford. He played football and other sports for his college and chess for the university, which he represented against Cambridge from 1936 until 1938. He obtained a first-class degree in physics in 1937. Francis Simon was his supervisor for the DPhil degree from 1937. Bleaney shared a room with Nicholas Kurti and successfully modified a cryostat so that he could cool samples below 1K and then perform various experiments on the properties of materials at what were then very low temperatures. In 1939 he was awarded his DPhil and obtained a senior studentship from the Goldsmiths' Company to continue his research for another two years.<br>
+<br>However, towards the end of 1939 many university physicists were drafted into the military and some from Oxford were sent to radar stations around the coast. Bleaney went to stations at Pevensey in Sussex and at Crail in Fife. In 1940 he returned to Oxford to work in the team assigned the task of designing and building the electromagnetic generators for radar waves. He contributed to the design of klystrons that produced 10 cm wavelength electromagnetic radiation; the wavelength was subsequently decreased to 3.2 cm, then 1.25 cm. The designs were easier to manufacture than those developed in the USA, and in 1943 Bleaney and his colleague J. Griffiths went to the USA by plane and arranged for the Raytheon Company to build klystrons to the Oxford design. The klystrons were later described as the most important single package to cross the Atlantic at that time.<br>
+<br>In 1945 Bleaney was appointed a university lecturer in Oxford, and he became a fellow of St John's College in 1947. Initially he started to extend his work with microwaves by studying their propagation and attenuation in gases and in particular in ammonia. This was important work but the spectra were very broad, so he decided to concentrate on the properties of magnetic solids and how microwaves can provide a vast amount of information about magnetic solids. The technique parallels nuclear magnetic resonance, which had just been developed in the USA but requires the use of much higher frequencies because the electronic magnetic moments are much larger than the nuclear moments. Initially he and his co-workers found that the resonance lines were broad, due to interactions with neighbouring atoms. Bleaney's experience of cooling samples below 1K enabled him at least partially to overcome this problem, especially when they were combined with materials in which the magnetic ions were diluted, so that it was much harder for them to interact with one another. These experiments enabled Bleaney and Roger Penrose in 1948 to establish electron paramagnetic resonance (EPR) as an invaluable tool for determining the magnetic state of ions and the local environment in which they occurred. Unknown to Bleaney a successful electron paramagnetic experiment had been performed in Kazan in Russia, in 1944, but this work was not subsequently followed up. At this time one of his collaborators was Betty Isabelle Plumpton, daughter of Herbert Francis Plumpton, stockbroker. They married at St Nicholas's Church in Compton, Surrey, on 15 March 1949; she was then aged twenty-two. They had a son and a daughter.<br>
+<br>For the next ten years Oxford was the leading establishment for EPR measurements and theory. Experimentally Bleaney and his team explored the electronic ground state of the transition metals and of the actinides, how this depended on the electronic environment produced by the neighbouring atoms, and how it was influenced by the interactions with the nuclear ground state through the hyperfine coupling. The experiments were performed in close collaboration with theory. Maurice Price, Roger Elliott, Ken Stevens, and Anatole Abragam emphasized the importance of symmetry and introduced the &#145;spin Hamiltonian&#146; and other concepts to explain the experimental results. EPR soon became studied worldwide and used particularly by chemists and biologists for the determination of the location and environment of magnetic impurities in materials.<br>
+<br>In 1956 F. A. Lindemann (Lord Cherwell) resigned from both Dr Lee's chair of experimental philosophy and the headship of the Clarendon Laboratory and Sir Francis Simon was appointed to succeed him. Unfortunately a month later Simon died and in due course Bleaney was appointed to the chair and took over the headship of the laboratory in 1957. A period of institutional and personal difficulty followed. Willis Lamb had been appointed to a chair in theory in 1956 and Denys Wilkinson was appointed to a chair in experimental (nuclear) physics in 1959. Although Bleaney was nominally responsible for both new professors they each wanted their own department, and, encouraged by the university, the departments of theoretical physics and nuclear physics were set up in 1962 as independent departments in buildings on the opposite side of Parks Road from the Clarendon Laboratory. It is likely that Bleaney did not approve of this break-up of physics in Oxford, but Simon had already promised Wilkinson a new department. The three departments were eventually reunited, together with astronomy and atmospheric physics, in 1990.<br>
+<br>At the beginning of the 1960s there was a marked increase in the number of undergraduates in physics. This pressure on space was alleviated by obtaining funds from the Mullard Company to build the Mullard cryomagnetic laboratory in 1962 and by the move of the theoreticians and the nuclear physicists out of the Clarendon Laboratory. Most of the undergraduate practical teaching remained in the Clarendon under the supervision of Bleaney. There was comparatively little change in the research activities in the Clarendon Laboratory for the next twenty years. There was a large group concerned with electron spin resonance and another group concerned with low temperature physics. Tony Stradling initiated a group working on semiconductors and Colin Webb introduced laser physics into the department, to develop a high resolution optical spectroscopy group.<br>
+<br>In 1977 Bleaney resigned from his chair and from the headship of the laboratory because he wished to devote more energy to his research. He became a Warren research fellow of the Royal Society and then a Leverhulme fellow from 1980 to 1982. He continued to produce excellent contributions to electron spin resonance and nuclear ordering in solids, and to be active in the laboratory until he was over eighty-five. He wrote over 300 scientific papers, many of which were ground-breaking publications on electron spin resonance. He and his wife wrote the textbook <span class="italic">Electricity and Magnetism</span> (1957), which was an excellent description of much of solid state physics as well as of electromagnetism, concentrating on the physics instead of the mathematics, unlike so many books on electromagnetism. It went through a number of editions, culminating in a revised edition in two volumes in 1989. Together with Anatole Abragam he also wrote <span class="italic">Electron Paramagnetic Resonance</span> (1970; rev. edn, 1986), a clear and comprehensive account of EPR experiments and theory, and a primary source for those interested in the low energy states of magnetic ions.<br>
+<br>Bleaney was awarded many honours. He was elected a fellow of the Royal Society as early as 1950. He was awarded the Charles Vernon Boys prize of the Physical Society in 1952, the Hughes medal of the Royal Society in 1962, the Holweck medal and prize of the Institute of Physics and the Soci&eacute;t&eacute; Fran&ccedil;aise de Physique in 1984, and the Zavoisky prize in 1992. He was appointed CBE in 1965 and held many visiting professorships at universities including MIT, Columbia, Berkeley, and Pittsburgh. He enjoyed travelling and meeting people.<br>
+<br>Bleaney was an excellent tutor and supervisor who took a personal interest in his students and their progress. He had an impish sense of humour, as shown by the photograph he displayed of himself on a beach with his trousers rolled up to the knees. With Betty he enjoyed playing and listening to chamber music, and they were an active tennis pair until he was over seventy-five. He was an excellent product of the pre-war educational system, and made the best possible use of the opportunities it provided. He died on 4 November 2006 at his home, Garford House, Garford Road, Oxford, and was cremated at Oxford crematorium; he was survived by his wife and by their two children.<br>
+<br>R. A. Cowley </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Bleaney, autobiography, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97490&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; A. J. Croft, &#145;Oxford's Clarendon laboratory&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97490&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; M. Baker, &#145;90th birthday of Brebis Bleaney&#146;, <em><i>EPR Newsletter</i></em> (15 Feb 2005), 7&#150;8 &middot; <em><i>Daily Telegraph</i></em> (30 Nov 2006) &middot; <em><i>The Independent</i></em> (30 Nov 2006) &middot; <em><i>The Times</i></em> (6 Dec 2006) &middot; <em><i>The Guardian</i></em> (8 Jan 2007) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97490&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2006) &middot; personal knowledge (2010) &middot; private information (2010) [W. Hayes; M. Baker; R. J. Elliott] &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97490&amp;istheme=&amp;target=RS')">RS</a>, scientific notebooks<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1950, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=97490&amp;istheme=&amp;target=RS')">RS</a> &middot; obituary photographs<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;649,779: probate, 23 March 2007, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. A. Cowley, &#145;<span class="roman"><span class="headword">Bleaney,  Brebis</span>  (1915&#150;2006)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2010; online edn, May 2010 [http://www.oxforddnb.com/view/article/97490, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Brebis Bleaney (1915&#150;2006): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/97490 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/97490/2010-01"> [Previous version of this biography available here: January 2010]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

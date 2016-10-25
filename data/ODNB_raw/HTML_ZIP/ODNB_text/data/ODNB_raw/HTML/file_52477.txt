@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 52477;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/52/52477-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/52/52477-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=52477#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Brooks,  Ralph Terence  St John-</span>  (1884&#150;1963), <span class="occ">bacteriologist</span>, was born on 27 October 1884 in Dublin, the third son of Professor Henry St John Brooks (<i>b</i>. 1855), medical anatomist, and his wife, Marion Sarah Ohren. Educated at Erasmus Smith's School, he graduated in 1904 from Trinity College, Dublin, with first-class honours in natural science. In his father's footsteps he turned to medicine, hyphenating his surname to emphasize the family connection. He won the Haughton medal and prize in medicine and surgery from Sir Patrick Dun's Hospital (1908), and also gained the qualifications MB, BCh, and BAO.<br>
+<br>On 25 May 1912 St John-Brooks married Julia Margaret Gordon (they later had two sons and a daughter). Also in 1912 he moved to the Leeward Islands where he acted as special sanitary investigator for the government. In 1914 he became secretary of the commission for plague investigation in India, working from the Lister Institute of Preventive Medicine in London. During the First World War he served as a captain in the Royal Army Medical Corps, specializing in bacteriology, and developed an interest in the collection and maintenance of representative cultures of various types of bacteria. The basis of such a collection already existed at the Lister Institute; in 1920, augmented by many of St John-Brooks's own isolates, it became the National Collection of Type Cultures (NCTC). The NCTC soon became a national resource of live, authenticated cultures of microbes for diagnoses, research, and teaching.<br>
+<br>St John-Brooks's curatorship of that collection was perhaps his major contribution to science. Expanded to include yeasts and other fungi, and to cover microbes of economic and veterinary as well as medical importance, it became the reference collection on which British microbiology depended for the next thirty years (when it budded off a second collection). When, at the start of the Second World War, the NCTC was hurriedly moved to an outstation of the institute at Elstree there was considerable confusion and many of the live cultures became contaminated, but St John-Brooks had shown considerable foresight: he had prepared two specimens of most of the strains in the collection, sealed in a viable but vacuum dried form. These specimens were recovered and thus saved for posterity.<br>
+<br>St John-Brooks was also involved in the naming of type cultures. He served on international nomenclature committees in the 1930s and, in collaboration with North Americans R. E. Buchanan and R. S. Breed, was instrumental in bringing a degree of order to a confused situation by developing a code of bacterial nomenclature which was approved internationally after the Second World War. He also played an important part in organizing the second International Congress of Microbiology (London, 1936) and was president of the third (New York, 1939). He continued his international activities after retiring from the NCTC in 1946. A good-humoured and rather unassuming man, he was noted for his ability to weld independently minded personalities into unanimous and productive committees.<br>
+<br>St John-Brooks is especially remembered for his crucial part in founding the Society for General Microbiology. An energetic organizer, he lived near a kindred spirit, dairy microbiologist Dr L. A. Allen. Between them, often during informal visits to each other's houses, they did most of the planning and paperwork which brought Britain's most flourishing microbiological learned society into being in 1945.<br>
+<br>St John-Brooks had caught tularaemia, often a lethal disease, from a laboratory specimen in 1923. He recovered, but his health remained precarious and sometimes compelled him to restrict his activities. Serious episodes were two bouts of tuberculosis (1925&#150;7 and 1932&#150;4). Yet he sustained his many microbiological activities with seemingly unimpaired vigour. In this context a friend wrote, &#145;the gentle wit, which he shared with his wife, lasted him his lifetime&#146;  (<span class="italic">The Lancet</span>, 1115). He enjoyed family life, natural history, and gardening, and in 1950 he retired to his native Dublin, where he died of cancer on 27 April 1963.<br>
+<br>John R. Postgate </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>L. A. Allen, <em>Journal of General Microbiology</em>, 42 (1966), 165&#150;7 &middot; S. R. Elsden, &#145;R. St John-Brooks&#146;, <em>Society for General Microbiology Quarterly</em>, 12/1 (1985), 5&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=52477&amp;istheme=&amp;target=WWW')"><i>WWW</i></a>, <i>1961&#150;70</i> &middot; <em>The Lancet</em> (4 May 1963), 1005 &middot; <em>The Lancet</em> (18 May 1963), 1115 &middot; private information (2004) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=52477&amp;istheme=&amp;target=CGPLA%20%C9ire')"><i>CGPLA &Eacute;ire</i></a> (1963&#150;4)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, 1966, repro. in Allen, <em>Journal</em>, facing p. 165<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1848: probate, 17 May 1963, <i>CGPLA &Eacute;ire</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John R. Postgate, &#145;<span class="roman"><span class="headword">Brooks,  Ralph Terence  St John-</span>  (1884&#150;1963)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/52477, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Ralph Terence  St John-Brooks (1884&#150;1963): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/52477 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

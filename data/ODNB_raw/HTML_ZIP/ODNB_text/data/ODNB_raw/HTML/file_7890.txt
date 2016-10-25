@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7890;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7890-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7890-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7890#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Douglas,  James</span>, second earl of Douglas and earl of Mar  (<em>c.</em>1358&#150;1388), <span class="occ">magnate and soldier</span>, was the son of <script>writeSeealsoLink('../view/article/7924/', "William Douglas, first earl of Douglas")</script>, and his wife, Margaret of Mar. He was probably born in the late 1350s and was old enough to make a favourable impression on the chronicler Jean Froissart when he visited Scotland during the 1360s. In 1371 the newly crowned Robert II, in an attempt to win over James's father, knighted the Douglas heir and agreed a marriage alliance between James and his second daughter, Isabella (<i>d</i>. <i>c</i>.1410). In connection with this match James received annuities worth &pound;266 from the king. This generosity may have been in part intended to compensate Douglas for the exclusion of his new wife from the succession under the male entail that was subsequently created, as well as representing the exercise of crown patronage on behalf of a great noble.<br>
+<br>During the later 1370s James Douglas assumed an active role in his family's affairs and was assigned the lordship of Liddesdale by his father. As Earl William's title to this estate was dubious, his grant forestalled future difficulties of James's inheritance. James's emergence as an active political figure was also marked by a royal grant of customs revenue to him in return for his service as a retainer of the king and his son John Stewart, earl of Carrick. Probably intended to finance Douglas's own military following, the grant symbolized a growing alliance between Carrick and the Douglases, one centred on the war with England. James clearly supported his father's prosecution of warfare in the marches and in 1381 was associated with Carrick in border diplomacy. The two men also received gifts from John of Gaunt for their hospitality when the latter took refuge briefly in Scotland in 1381.<br>
+<br>In spring 1384 full-scale war erupted with England. Shortly after leading an attack on Teviotdale in early April, Earl William died. James Douglas succeeded to the extensive southern estates of the Douglas earldom and to his mother's earldom of Mar in Aberdeenshire. The new earl immediately made his mark in war and politics. While Robert II and many Scots wished to suspend warfare and join the recent Anglo-French truce, Douglas was determined to continue the conflict and to respond to an English raid on Lothian in April. A significant group of magnates, led by Carrick, seems to have backed Douglas, perhaps after secret talks in Edinburgh, and there was a series of Scottish raids into northern England during the summer of 1384. Although a short truce was agreed, it is unlikely that Douglas observed its terms. Moreover, in November Robert II was sidelined politically and Carrick was appointed as lieutenant of the realm. Douglas gave Carrick vital support in this coup. In return he expected the lieutenant to give full support to the war with England. In a manner which would be repeated, Douglas military ambitions in the south had been a determining factor in the rivalries of the Stewart dynasty.<br>
+<br>In spring 1385 the war was resumed with active French help. A war subsidy was sent by the French to various Scottish magnates and Douglas received 7500 livres tournois, the largest sum given to any Scottish lord. In May an expeditionary force arrived from France at Leith to be met by Douglas and John Dunbar, earl of Moray. Douglas, whose father had had strong ties to France, may have been the sponsor of the whole venture. He went to the west to escort Robert II to Edinburgh to meet the French, and was one of the few Scots to make a favourable impression on these allies. However, even Douglas urged the French to be cautious in their attacks on the English and probably hoped to use the army for the capture of Roxburgh Castle, whose English garrison was based amid the earl's border lands. But after brief local campaigning the army withdrew in the face of a major English counter-attack and the French returned home.<br>
+<br>Douglas's role in war and politics depended in his extensive network of adherents in southern Scotland. He inherited much of this following from his father. The earl's closest allies were his cousin James Lindsay of Crawford and <script>writeSeealsoLink('../view/article/54171/', "Sir Malcolm Drummond")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/54170/', "Drummond family")</script>], the husband of his sister Isabella. These men also formed a bridge to Carrick. Other kinsmen, like his uncle Patrick Hepburn, and his cousin James Sandilands, were men who had built connections with the old earl. However, in his short spell at the head of the Douglas lordships, James sought to extend his connection. That his father's rivals in the Douglas kindred, James Douglas, lord of Dalkeith, and Archibald Douglas, lord of Galloway, appeared on the new earl's council suggests improved relations, perhaps fostered by Carrick. James also sought to strengthen his kindred, as well as to provide for his own children, when he granted his bastard son William the lordship of Drumlanrig in Dumfriesshire in return for one knight in the earl's army. The marriage of his widowed mother to Sir John Swinton may have been encouraged by Earl James for military reasons. Swinton was an experienced soldier, and his good relations with his stepson are suggested by the earl's reference to him as &#145;our dearest father&#146;. When Robert Colville, a Teviotdale lord who returned to Scottish allegiance only in 1384, married the daughter of James Lindsay, it was an alliance designed to bring a new recruit into the Douglas affinity. The needs of warfare were never far from Earl James's lordship.<br>
+<br>Given the importance of the earl of Douglas in Carrick's regime and his overriding interest in war with England, it is not surprising that the Scots renewed the conflict on a major scale in 1388 and that Douglas played a leading role in the campaign which was fought that summer. In late July 1388 Douglas assembled an army which was dominated by his own adherents. In the army were Drummond, the Lindsays, Swinton, Sandilands, and Hepburn, as well as the Dunbars, George, earl of March, and John, earl of Moray. The other leaders of the host were Lothian knights whose connections with James's father stretched back to the 1350s and marchers who traditionally followed the Douglas banner. Although some retainers of Carrick were also present, the bonds of Douglas lordship and kinship held the army together. Rather than as part of a national host, this force was raised and deployed as the earl's army. Douglas led his army into north-east England raiding as far south as Newcastle. In a skirmish outside the walls, Douglas's men captured the pennon of Henry Percy, Hotspur. This loss is supposed to have provoked Hotspur to pursue the Scots as they withdrew. On about 5 August 1388 the English army caught up with the Scots at Otterburn in Redesdale, attacking them in the evening. Led by Earl James, the Scots recovered from the surprise to defeat the English, but in the confused night-fighting Douglas was killed. His body was recovered by his men and carried back for burial alongside his father in Melrose Abbey.<br>
+<br>Although James Douglas had two bastard sons, William and Archibald, and one daughter, Eleanor, he had no children from his marriage to Isabella Stewart. James's death created a succession dispute over his estates during late 1388 and early 1389, which ended in the inheritance of the earldom of Douglas by Archibald the Grim, rather than by James's ally and brother-in-law Malcolm Drummond. This competition in turn precipitated the downfall of Carrick as lieutenant and his replacement by Robert Stewart, earl of Fife. The death of Douglas thus caused a major readjustment of political power in Scotland. His friends lost power to men who were, at best, ambivalent in their attitude to James. This upheaval had a major effect on the earl's posthumous reputation and has obscured the events of Douglas's last campaign. The contemporary Scottish account, used in the chronicles of Andrew Wyntoun and Walter Bower, is critical of the earl. It portrays him as rash and unwise, first in refusing to join the Scottish army assembled in the west march, then in rushing into battle without armour or bodyguard. By contrast, Fife and Archibald Douglas, the western leaders, are said to have showed wisdom in bringing their army home. The new regime wished to highlight the failings of the dead earl for political purposes. This account was not the only view of the 1388 campaign, however. Jean Froissart wrote an account of Otterburn based on the views of knights in Douglas's force which claims that Douglas's separate invasion was the result of a previously agreed plan. Froissart also presents the Scottish leaders as coolly planning to meet the English attack. Although Douglas was killed in the fight, Froissart portrays him as heroic rather than stupid, winning the fight but dying at the moment of triumph. Significantly, a similarly heroic tone was used in a poetic account of Otterburn written in the 1390s. Its author, Thomas Barry, was a clerical servant of Archibald Douglas and its approach may reflect the desire of the new Douglas earl to glorify his predecessor and smooth over past divisions. The earl's last fight similarly entered popular imagination. On both sides of the border, ballads were composed about the Otterburn campaign. While these vary in perspective and in their views of the outcome of the battle, they both present James as &#145;the dowghtye Douglas&#146;, a chivalrous enemy or a valiant leader. While Earl James's death may have divided historians, all agreed on his warlike character and readiness to fight the English.<br>
+<br>M. H. Brown </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. I. Boardman, <i>The early Stewart kings</i><i>: Robert II and Robert III, 1371&#150;1406</i> (1996) &middot; A. Grant, &#145;The Otterburn war from the Scottish point of view&#146;, <i>War and border societies in the middle ages</i>, ed. A. Goodman and A. Tuck (1992), 30&#150;65 &middot; J. Reed, &#145;The ballad and the source: some literary reflections on <i>The battle of Otterburn</i>&#146;, in A. Goodman and A. Tuck, <i>War and border societies in the middle ages</i> (1992), 94&#150;123 &middot; M. Brown, <i>The Black Douglases</i><i>: war and lordship in late medieval Scotland, 1300&#150;1455</i> (1998) &middot; W. Fraser, ed., <i>The Douglas book</i>, 4 vols. (1885) &middot; W. Bower, <i>Scotichronicon</i>, ed. D. E. R. Watt and others, new edn, 9 vols. (1987&#150;98), vol. 7<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">M. H. Brown, &#145;<span class="roman"><span class="headword">Douglas,  James</span>, second earl of Douglas and earl of Mar  (<em>c.</em>1358&#150;1388)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/7890, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Douglas (<em>c.</em>1358&#150;1388): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7890 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

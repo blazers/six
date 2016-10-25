@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1224;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1224-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1224-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1224#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Ball,  William</span>  (<em>c.</em>1631&#150;1690), <span class="occ">astronomer</span>, was the son of <script>writeSeealsoLink('../view/article/58098/', "Sir Peter Ball (bap. 1598, d. 1680)")</script>, a barrister of the Middle Temple, and his wife, Ann, daughter of Sir William Cooke of Highnam, Gloucestershire. He was the eldest of seventeen children in a legal and mercantile family of minor Devon gentry, whose estate was centred on the hamlet of Mamhead on the eastern escarpment of the Haldon hills. His father was knighted at Oxford in 1643 for his services to the king's cause, and was appointed attorney-general to Henrietta Maria, having served as her solicitor since at least 1636; he was then evicted from the Middle Temple and reportedly imprisoned, and his estate was sequestered. The whereabouts and fortune of his son and heir at this time are not known.<br>
+<br>In 1646 William Ball was registered at the Middle Temple, a few months after commons and exercises were restored; there is no record of his subsequently being called to the bar. His family began to recover their fortunes somewhat in 1653. Ball first enters the historian's line of vision two years later, as one of a group of virtuosi who were actively engaged in observing the puzzling changes in the appearance of the planet Saturn. Their work was generally conducted around the observatories in the tower of Wadham College, Oxford, at Gresham College, in the City of London, and at Sir Paul Neile's residence at White Waltham. Ball's observations seem to have been conducted independently, though other astronomers were kept informed of his progress, in particular Christopher Wren (1632&#150;1723) in Oxford and London, and Christiaan Huygens (1629&#150;1695) at The Hague.<br>
+<br>The location from which Ball made his observations is not recorded but it was probably in the vicinity of London rather than in Devon, as Wren writes that Ball's important observation of a faint shadowy belt on the surface of Saturn was shown to him &#145;immediately&#146; upon its discovery in 1655  (<span class="italic">&#338;uvres compl&egrave;tes</span>, 3.422). The instrument with which Ball made this discovery is recorded: according to John Wallis it was a 12 foot telescope made in Rome by Eustachio Divini (1610&#150;1685)  (ibid., 2.305). Ball's observations played an important role in the formation of Wren's hypothesis that Saturn was surrounded by a thin elliptical &#145;corona&#146; of uneven width, and they were also extensively used by Huygens in support of his theory that the planet was surrounded by a solid circular ring. Huygens's theory, made public in 1659, gained the broad acceptance of the astronomical community during the 1660s.<br>
+<br>It is not known how Ball first became acquainted with the group of astronomers interested in Saturn. It is possible that he was associated with the displaced royalists who assembled at the London home of Charles Scarburgh between 1646 and 1649. Both Seth Ward, who was at the centre of the Wadham and Gresham astronomical groups in the 1650s, and the young Christopher Wren, of Ball's own generation, were among their number. Alternatively he may have come into contact with astronomy through attending lectures at Gresham College. Thomas Sprat, in a report replete with inaccuracies, writes that Ball was one of the virtuosi who met regularly at Gresham College during the 1650s  (<span class="italic">History of the Royal Society</span>, 1667, 57).<br>
+<br>In the Michaelmas term following the Restoration, Ball was one of the twelve virtuosi who met after Christopher Wren's Gresham lecture and discussed a &#145;designe of founding a Colledge for the promoting of Physico-Mathematicall Experimentall Learning&#146;  (<span class="italic">Record of the Royal Society</span>, 7), agreeing to formalize their proceedings to this end. Ball's &#145;chamber in the Temple&#146;  (ibid.) was initially designated as one of the society's meeting places and he was appointed its treasurer. This new society subsequently gained royal approval and support. Ball was nominated a member of the governing council of the Royal Society in its charters of 1662 and 1663, and his appointment as treasurer was confirmed in May 1663 [<i>see </i><script>writeSeealsoLink('../view/theme/59221', "Founder members of the Royal Society")</script>]. At the first annual election in November 1663 he was elected to the council but not to the office of treasurer, which went to Abraham Hill. The detailed accounts that Ball drew up during his tenure as treasurer survive, and form the core of the society's earliest administrative records.<br>
+<br>Ball continued as an active member of the Royal Society for another two years. He was a regular participant in a number of the committees responsible for arranging a collective experimental programme, and he had particular responsibility for experiments relating to magnetic phenomena. In the plague year of 1665 he withdrew to Mamhead, where he continued his astronomical observations intermittently. In September and October of that year he observed Saturn's ring in an elongated condition and indented towards its centre, so that it appeared to touch the planet on either side. The report of this observation reached London at the height of the plague, when the Royal Society was in recess. Sir Robert Moray thought that it &#145;will puzzle anew Mr Hugens his conceit of a circle&#146; and saw it as evidence that Saturn's ring actually touched the planet's body, as it did in Wren's hypothesis  (<span class="italic">Correspondence of Henry Oldenburg</span>, 2.608&#150;9). The claim made by some nineteenth-century historians that Ball discovered the principal division in Saturn's ring in 1665 is, however, false.<br>
+<br>Ball suffered from continual ill health, which he attributed to his having fallen 30 feet onto hard ground in 1660. Informing the secretary of the Royal Society in 1666 that &#145;I intend not to see London a great while if I can help itt&#146;  (<span class="italic">Correspondence of Henry Oldenburg</span>, 3.89), he denied lacking philosophical ambitions. Rather, &#145;my desires being as large as any but my body by soe long a disorder hath beene a great obstruction to that designe of pleasure&#146;  (ibid., 3.93). For a brief period in 1667 and 1668 he returned to London, where he married Mary Posthuma Hussey, daughter of Thomas Hussey of Honnington, Lincolnshire, at St Paul's in Covent Garden on 10 July 1668, after which he returned to Mamhead permanently. The Balls had five sons and one daughter, of whom four sons survived into adulthood. William Ball's engagement in managing the family's estate in Devon left him little time for scientific pursuits. He wrote to Huygens in 1675 that he was &#145;very unhappy wanting leisure from the troublesome incumbrances of a country life, usually esteemed retirement &hellip; having the care of much husbandry for my father as well as myselfe&#146;  (ibid., 11.223).<br>
+<br>The Balls were a disappointed family, not having received the preferment they felt was their due on the return of the monarchy, as William Ball frankly recorded on the memorial that he erected to his father in Mamhead church. The improvements that were planned for the house and park at Mamhead had to wait until the eighteenth century. William Ball died in 1690, ten years after inheriting the estate, and was buried on 22 October in the round of the Temple Church, London.<br>
+<br>Joseph Gross </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The correspondence of Henry Oldenburg</i>, ed. and trans. A. R. Hall and M. B. Hall, 1&#150;3 (1965&#150;6); 11 (1977) &middot; <i>&#338;uvres compl&egrave;tes de Christiaan Huygens</i>, ed. Soci&eacute;t&eacute; Hollandaise des Sciences, 22 vols. (1888&#150;1950), vols. 1&#150;3 &middot; R. Polwhele, <i>The history of Devonshire</i>, 3 vols. (1793&#150;1806), vol. 2 &middot; <i>The record of the Royal Society of London</i>, 4th edn (1940) &middot; A. van Helden, &#145;Christopher Wren's <i>De corpore Saturni</i>&#146;, <em>Notes and Records of the Royal Society</em>, 23 (1968), 213&#150;29 &middot; M. Hunter, <i>The Royal Society and its fellows, 1660&#150;1700</i><i>: the morphology of an early scientific institution</i>, 2nd edn (1994) &middot; J. Prince, <i>Danmonii orientales illustres, or, The worthies of Devon</i> (1701) &middot; H. A. C. Sturgess, ed., <i>Register of admissions to the Honourable Society of the Middle Temple, from the fifteenth century to the year 1944</i>, 3 vols. (1949) &middot; A. R. Ingpen, <i>The Middle Temple bench book</i> (1912) &middot; J. Hutchinson, ed., <i>A catalogue of notable Middle Templars</i><i>: with brief biographical notices</i> (1902) &middot; A. van Helden, &#145;Saturn and his anses&#146;, <em>Journal for the History of Astronomy</em>, 5 (1974), 105&#150;21 &middot; A. Armitage, &#145;William Ball&#146;, <em>Notes and Records of the Royal Society</em>, 15 (1960), 162&#150;72 &middot; T. Birch, <i>The history of the Royal Society of London</i>, 4 vols. (1756&#150;7); repr. with introduction by A. R. Hall (1968), vol. 1 &middot; M. Hunter, <i>Establishing the new science</i><i>: the experience of the early Royal Society</i> (1989) &middot; S. Pumfrey, &#145;Ideas above his station: a social study of Hooke's curatorship of experiments&#146;, <em>History of Science</em>, 29 (1991), 1&#150;44 &middot; R. E. W. Maddison, &#145;The accompt of William Balle&#146;, <em>Notes and Records of the Royal Society</em>, 14 (1959&#150;60), 174&#150;83 &middot; W. G. Hoskins, <i>Devon</i>, new edn (1972) &middot; W. B. Wright, <i>Ball family records</i> (1908) &middot; M. A. E. Green, ed., <i>Calendar of the proceedings of the committee for compounding &hellip; 1643&#150;1660</i>, 2, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1224&amp;istheme=&amp;target=PRO')">PRO</a> (1890) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1224&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1224&amp;istheme=&amp;target=RS')">RS</a>
+<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Joseph Gross, &#145;<span class="roman"><span class="headword">Ball,  William</span>  (<em>c.</em>1631&#150;1690)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/1224, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Ball (<em>c.</em>1631&#150;1690): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1224 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1224/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

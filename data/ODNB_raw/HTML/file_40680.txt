@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 40680;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/40/40680-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/40/40680-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=40680#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Cochrane,  Archibald Leman</span>  (1909&#150;1988), <span class="occ">medical scientist and epidemiologist</span>, was born in Galashiels on 12 January 1909, the second child in the family of a daughter and three sons of Walter Francis Cochrane, of Kirklands, manufacturer of Scottish tweed, and his wife, Mabel Purdom, daughter and granddaughter of lawyers from Hawick. His grandfather's family had become wealthy, but the death of his father on active service in April 1917 led to his mother's relative impoverishment. He gained entry scholarships to Uppingham School and King's College, Cambridge, where he obtained first classes in both parts of the natural sciences tripos (1929 and 1931).<br>
+<br>An inheritance gave Cochrane the means to continue study, and in 1931 he began research in tissue culture at the Strangeways Research Laboratory, Cambridge, hoping to become a university lecturer. The results of his experiments, however, seemed trivial and the concomitant development of what he believed (erroneously) to be a psychological symptom led him to abandon the project and seek medical advice. British doctors were unsympathetic, and he sought help at the Kaiser Wilhelm Institute in Berlin. He received sympathy there, but little else, and he turned to Theodor Reik, an early follower of Sigmund Freud, partly to obtain treatment and partly to learn enough about psychoanalysis to design ways of testing psychoanalytical hypotheses. The succeeding two and a half years did nothing for his complaint, but they provided an exceptional education, as he followed Dr Reik from Berlin to Vienna, and to The Hague, attending the clinical course in both the last cities.<br>
+<br>Returning to Britain in 1934 with fluent German, a hatred of fascism, and a sceptical attitude to all theories not validated by experiment, Cochrane enrolled as a medical student at University College Hospital (UCH), London. The outbreak of the Spanish Civil War and the intervention of fascist Germany and Italy led him to abandon his studies for membership of a field ambulance unit supporting the International Brigades, in which he was probably the only member with neither party political nor religious affiliation. After a year's service on the Aragon and Madrid fronts, he returned to UCH with valuable experience of wartime triage and the realities of left-wing politics.<br>
+<br>Cochrane qualified MB, BChir. (Cambridge, 1938) in time to complete a house physician's job at the West London Hospital and obtain a research appointment at UCH before war again intervened. He joined the Royal Army Medical Corps in 1940, and was posted to a general hospital in Egypt. He was then sent to Crete, where he was soon taken prisoner. There followed the darkest period of his life when, as medical officer for a prisoner-of-war camp in Salonika, he was confronted by major epidemics, severe malnutrition, and extreme Nazi brutality. During this time he undertook what he later described as his &#145;first, worst, and most successful controlled trial&#146; in search of a cure for famine oedema, finding it in small amounts of yeast obtained on the black market. When he returned to Britain in 1945, a Rockefeller fellowship enabled him to take a course at the London School of Hygiene, where he became enthusiastic about the conduct of controlled trials by random allocation of treatments and obtained his diploma in public health (1947). He then went for a year (1947) to the Phipps Clinic in Philadelphia, where he developed a lifelong interest in the scientific study of diagnostic and prognostic error. In 1948 he accepted an appointment with the Medical Research Council's pneumoconiosis research unit in Cardiff. There Cochrane designed and started an ambitious project to test the idea that tuberculosis played an important part in transforming the disease into its most disabling form.<br>
+<br>In 1960 Cochrane was appointed David Davies professor of tuberculosis and diseases of the chest at the Welsh National School of Medicine, and transformed his team into a new epidemiology unit, of which he became director in 1969, under the Medical Research Council. With this support, he continued his studies of the progress of pneumoconiosis and conducted population surveys to study the natural history and aetiology of anaemia, glaucoma, and other common diseases. He showed the importance of building in checks on the reproducibility of any diagnostic procedure and demonstrated that it was regularly possible to get over 90 per cent of the public to participate in health surveys. The social importance of his trials was lucidly expressed in his short book, <span class="italic">Effectiveness and Efficiency</span> (1972), which won him international acclaim. He became fellow of the Royal College of Physicians in 1965.<br>
+<br>In 1972 Cochrane became the first president of the new faculty of community (subsequently public health) medicine of the Royal College of Physicians. He had never been attracted by administration or ceremony and was relieved to hand over after two years. In this period, however, he succeeded in welding into a harmonious whole two mutually suspicious groups: academics in social medicine and practising medical officers of health. He was appointed MBE in 1945 and CBE in 1968, and had honorary doctorates from York (1973) and Rochester, USA (1977).<br>
+<br>Archie, as Cochrane was generally known, combined concern for public welfare with that for the individual and discovered late in life, as a result of the trouble he took over an illness of his sister's, that they both suffered from hereditary porphyria, which may have been responsible for the sexual condition that so affected his early career. He created a garden included in the national garden scheme and collected with discrimination contemporary paintings and sculpture. A man of medium height and athletic build, he had reddish hair and a permanently quizzical expression. He never married, having resolved to have no more love affairs after an unfortunate experience in the USA in 1947. He died of cancer after a long illness on 18 June 1988, at his nephew's home in Holt, near Wimborne, Dorset. He is commemorated in Green College, Oxford, to which he left a substantial legacy, by a residence for students and a fellowship for the director of the Cochrane Centre, set up by the Department of Health to promote overviews of controlled trials.<br>
+<br>Richard Doll<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. L. Cochrane and M. Blythe, <i>One man&#146;s medicine</i><i>: an autobiography</i> (1989) &middot; <em>The Times</em> (22 June 1988) &middot; personal knowledge (1996) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40680&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1989) &middot; A. Maynard and I. Chalmers, eds., <i>Non-random reflections on health services research</i> (1997)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>Oxford Brookes University, medical sciences video archive, recorded inverview with M. Blythe</p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph (as a young man), Green College, Oxford &middot; portrait, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40680&amp;istheme=&amp;target=RCP%20Lond.')">RCP Lond.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;681,456: probate, 8 Feb 1989, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Richard Doll, &#145;<span class="roman"><span class="headword">Cochrane,  Archibald Leman</span>  (1909&#150;1988)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/40680, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Archibald Leman Cochrane (1909&#150;1988): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/40680 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/40680/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

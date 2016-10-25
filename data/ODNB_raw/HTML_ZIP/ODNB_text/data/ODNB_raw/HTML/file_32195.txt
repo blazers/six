@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 32195;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/32/32195-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/32/32195-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=32195#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Burnside,  William</span>  (1852&#150;1927), <span class="occ">mathematician</span>, was born at 7 Howley Place, Paddington, Middlesex, on 2 July 1852, the elder son of William Burnside, merchant, of that address, and his wife, Emma Knight. His father was of Scottish ancestry; his grandfather had settled in London, and was a partner in the bookselling firm of Seeley and Burnside.<br>
+<br>Left an orphan at the age of six, Burnside was educated at Christ's Hospital&#151;then situated in Newgate Street&#151;and achieved distinction in both the grammar school and the mathematical school. He won a mathematical scholarship at St John's College, Cambridge, and began residence there in October 1871. In his day, all able mathematical students in the university were prepared for the tripos by private coaches, and Burnside's was W. H. Besant, one of the few rivals of the well-known Edward John Routh. In April 1873 Burnside migrated to Pembroke College. In the mathematical tripos of 1875 he was bracketed second wrangler with George Chrystal (1851&#150;1911); in the immediately subsequent examination for the Smith's prizes, Burnside was first and Chrystal second.<br>
+<br>Burnside was elected a fellow of Pembroke and appointed a lecturer at the college in 1875; he continued to be a fellow until 1886. College teaching at that time had slight influence upon the most capable students. However, in addition to the usual college courses, Burnside also lectured on hydrodynamics, a subject then developing into importance. He took a few private pupils and examined occasionally for the tripos, but it soon became apparent that he was devoting himself to mathematical studies beyond the organized range of the tripos.<br>
+<br>As an undergraduate, Burnside had proved an expert oar. After leaving Cambridge his main recreation was found in fishing during holidays in Scotland, and in this also he developed marked skill. Through all his years his lithe frame retained an unusual power of physical endurance. In 1885 he was appointed professor of mathematics at the Royal Naval College at Greenwich, and the rest of his teaching life was spent in that post.<br>
+<br>On 25 December 1886 Burnside married Alexandrina Urquhart (<i>b</i>. 1854/5), of Poolewe in the county of Ross, Scotland. His wife's father, Kenneth Urquhart, was a crofter. The couple had two sons and two daughters. Burnside retired in 1919. His old college at one time invited him to return as tutor and, on the death in 1903 of Sir George Gabriel Stokes, Pembroke invited him to return as master. Both invitations were declined, mainly because (outside his teaching) the administrative and social details of official duty were irksome to his temperament.<br>
+<br>At Greenwich Burnside worked in three areas, being concerned with ballistics, for gunnery and torpedo officers, with mechanics and heat, for engineer officers, and with dynamics (especially hydrodynamics), for naval constructors. He was elected a fellow of the Royal Society in 1893, served on the council of the society from 1901 to 1903, and was awarded a royal medal in 1904. He was president of the London Mathematical Society from 1906 to 1908, having received its De Morgan medal in 1899. In 1900 he was elected an honorary fellow of Pembroke College. He received the honorary degrees of ScD from Dublin University and of LLD from Edinburgh University.<br>
+<br>Burnside is remembered for his original contributions to mathematics. He published over one hundred and fifty papers. His book, the <span class="italic">Theory of Groups</span> (1897), is now an acknowledged classic and did much to establish group theory as a subject in its own right and with its own methods. He left a long manuscript of the <span class="italic">Theory of Probability</span>, which was published in 1928, after his death. His range of subjects, mainly in pure mathematics (although applied mathematics had been the Cambridge vogue of his earlier years), was extensive. As a writer he was clear and definite in argument, lucid and terse in exposition. Each of his papers dealt with a definite issue: nothing was elaborated beyond a main result, and subsidiary developments were avoided. He wrote on hydrodynamics and on potential theory, combining the established methods with the new analysis based on the use of complex variables. Several papers were devoted to elliptic functions and several to differential geometry, at a time when the subject was receiving little attention in England. He passed from the automorphic functions and their groups of transformations, where he was one of the first to understand Poincar&eacute;'s ideas which had opened up the area of geometrical function theory, to the general theory of discontinuous groups of finite order: on this subject he produced some fifty papers, each of them containing some definite contribution to the theory, and marked by clarity and terseness.<br>
+<br>The outbreak of war in 1914 slowed down Burnside's output of papers: the end of hostilities found him interested in the theory of mathematical probability, and he continued to produce fresh investigations. Ultimately failing health interfered with creative work, but it did not cramp active interest, and he was able to draft an exposition of his views on this subject.<br>
+<br>Burnside died at Cotleigh, West Wickham, Kent, on 21 August 1927, and was buried in the churchyard there. His wife survived him. In 2005 a lecture theatre at the University of Greenwich was named after him.<br>
+<br>A. R. Forsyth<span class="italic">, rev. </span> J. J. Gray </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. R. F., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32195&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 117A (1928), xi&#150;xxv &middot; personal knowledge (1937) &middot; J. J. Gray, &#145;Geometry in complex function theory&#146;, <i>Companion encyclopedia of the history and philosophy of the mathematical sciences</i>, ed. J. Grattan-Guinness, 1 (1994), 432&#150;9 &middot; b. cert. &middot; m. cert. &middot; d. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32195&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1927)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32195&amp;istheme=&amp;target=St%20John%20Cam.')">St John Cam.</a>, Larmor MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, photograph, 1917, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32195&amp;istheme=&amp;target=NPG')">NPG</a> &middot; Maull &amp; Fox, photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32195&amp;istheme=&amp;target=RS')">RS</a> &middot; photograph, repro. in <i>PRS</i>, facing p. xv &middot; photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=32195&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;12,160 13<i>s</i>. 9<i>d</i>.: probate, 29 Oct 1927, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. R. Forsyth, &#145;<span class="roman"><span class="headword">Burnside,  William</span>  (1852&#150;1927)</span>&#146;, rev. J. J. Gray, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, Oct 2005 [http://www.oxforddnb.com/view/article/32195, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Burnside (1852&#150;1927): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/32195 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/32195/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

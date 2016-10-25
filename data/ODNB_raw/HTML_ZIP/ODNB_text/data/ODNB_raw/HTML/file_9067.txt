@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 9067;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/9/9067-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/9/9067-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=9067#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Fairbairn, Sir  William</span>, first baronet  (1789&#150;1874), <span class="occ">engineer</span>, was born at Kelso, Roxburghshire, on 19 February 1789. He was the son of Andrew Fairbairn, a farmer. After serving in the navy during the American War of Independence, his father returned to Scotland, and married the daughter of a Jedburgh tradesman, a Miss Henderson, with whom he had five children, another of whom was <script>writeSeealsoLink('../view/article/9066/', "Peter Fairbairn (1799&#150;1861)")</script>, engineer and inventor. Fairbairn learned to read and do arithmetic at a parish school, and began to build boats and little mills. He had further schooling at Mullochy, and studied bookkeeping under an uncle who kept a school at Galashiels. In 1799 his father began to farm 300 acres at Dingwall, in the north of Scotland, but moved back to Kelso in 1801, and subsequently to Knaresborough, in Yorkshire. Aged fourteen, Fairbairn got employment on a bridge being built by John Rennie, until he was injured by an accident.<br>
+<br>Towards the end of 1803 Fairbairn's father moved to a farm near Newcastle upon Tyne belonging to the Percy Main colliery, and William got a job in the colliery. On 24 March 1804 he was apprenticed to John Robinson, a millwright, but continued his mathematical and other studies. Because of his technical ingenuity he was appointed to look after the engines at the colliery, and became acquainted with George Stephenson.<br>
+<br>At the end of his apprenticeship, in March 1811, Fairbairn obtained employment as a millwright at Newcastle. He then sailed for London in December 1811 and secured an introduction to the Society of Arts and to Alexander Tilloch (1795&#150;1825), the founder of the <span class="italic">Philosophical Magazine</span>, who employed him in the construction of a steam engine for digging. Fairbairn subsequently moved to Manchester and on 16 June 1816 he married Dorothy Mar (1788/9&#150;1882), youngest daughter of John Mar of Morpeth; they had seven sons and two daughters. His heir, <script>writeSeealsoLink('../view/article/62808/', "Thomas Fairbairn")</script>, became a successful art administrator and patron. In 1817 Fairbairn had a disagreement with his employer about a new Blackfriars Bridge over the River Irwell at Manchester, and this led to his setting up in partnership with an old shopmate, James Lillie. They soon acquired a good reputation by providing the machinery for a cotton mill, and their business rapidly increased. In 1824 Fairbairn went to Z&uuml;rich to erect two watermills. By an ingenious contrivance he surmounted the difficulties due to the irregular supply of water, and constructed wheels which worked regularly whatever the height of the river. By 1830 Fairbairn and Lillie had cash in hand of &pound;40,000, and were employing three hundred workers.<br>
+<br>The firm began to construct light iron steam passenger boats, but Fairbairn and Lillie lost heavily in a cotton mill venture, which crippled their resources as millwrights and led to a dissolution of the partnership in 1832, Lillie setting up in opposition. Fairbairn subsequently devoted his energies to shipbuilding. He first built his ships in sections at Manchester, but in 1835 decided to establish his works at Millwall, on the Thames in east London, in partnership with an old pupil, Andrew Murray. He subsequently found the strain too great and in 1844 abandoned the Millwall establishment, where two thousand men were employed. At Manchester he undertook many engineering schemes, experimented on the properties of iron, and, to meet a strike of his workmen, introduced the riveting machine, which was a great advance in the manufacture of boilers.<br>
+<br>In 1839 Fairbairn inspected the government works at Constantinople, and was decorated by the sultan, who also appointed him as &#145;chief fabricator&#146; of machinery for the Turkish government in England. He was consulted in 1840 on the drainage of the Haarlem Lake. In 1841 he gave advice to the British government on the prevention of accidents by machinery. In 1842 he took out a patent (no. 9409) for improvements in the construction of iron ships, but this proved too troublesome for general application. Fairbairn assisted Robert Stephenson with the design of the tubular bridge over the Menai Strait. The bridge was successfully raised in April 1848, but there was later a controversy over Fairbairn's contribution. In order to put the record straight he published his own version of events, <span class="italic">An account of the construction of the Britannia and Conway tubular bridges, with a complete history of their progress</span> (1849). He and Stephenson had also in October 1846 jointly taken out a patent for the new principle of wrought-iron girders that had been devised for the bridge.<br>
+<br>Fairbairn declined a knighthood in 1861, but accepted a baronetcy in 1869. In 1840 he bought the Polygon, Ardwick, near Manchester, where he lived until his death, and where he received many distinguished visitors. He often spoke at the British Association and similar meetings, and served as juror in the London exhibitions of 1851 and 1862, and at the Paris Exhibition of 1855. Made a member of the L&eacute;gion d'honneur in 1855, he also became a foreign member of the Institut de France. He received the gold medal of the Royal Society in 1860, and was president of the British Association in 1861. He received the honorary LLD degree of Edinburgh in 1860 and of Cambridge in 1862.<br>
+<br>Fairbairn was elected president of the Institution of Mechanical Engineers in 1854, and was president of the Manchester Literary and Philosophical Society from 1855 to 1860. He made numerous contributions to the <span class="italic">Transactions of the Royal Society</span> as well as to the proceedings of other learned societies. He also made many investigations into the properties of the earth's crust in conjunction with William Hopkins, the Cambridge mathematician, and was an authority upon a wide range of mechanical and engineering problems. He published a number of works, including a handbook for engineers (1856), an examination of the properties of iron (1861), and a treatise on mills (1861&#150;3), all of which went through further editions.<br>
+<br>Fairbairn caught a chill, from which he never recovered, at the opening of the new buildings of Owens College in Manchester in 1870. He died of a severe bronchial cold on 18 August 1874 at the house of his son-in-law, a Mr Bateman of Moor Park, near Farnham in Surrey. He was survived by his wife, and was buried at Prestwick, Northumberland. A giant water-wheel, designed by Fairbairn for a mill at Pateley Bridge in Yorkshire, was restored and reintegrated at Quarry Bank Mill at Styal in Cheshire in the 1980s by the National Trust. It is one of the few surviving examples of Fairbairn's contribution to water-wheel technology.<br>
+<br>James Burnley<span class="italic">, rev. </span> Robert Brown </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. Pole, ed., <i>The life of Sir William Fairbairn, bart.</i> (1877) &middot; S. Smiles, <i>Lives of the engineers</i>, new edn, 5 (1874); repr. with introduction by E. le Mar&eacute; as <i>The lives of George and Robert Stephenson</i> (1975) &middot; probate &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1874)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Museum of Science and Industry, Manchester, notebook on boiler efficiency, EN 12&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=BL')">BL</a>, letters to Charles Babbage, Add. MSS 37191&#150;37196
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=CUL')">CUL</a>, letters to T. R. Robinson
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=ICL')">ICL</a>, letters to W. C. Unwin and W. J. Unwin<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> P. Park, marble bust, 1855, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=RS')">RS</a> &middot; B. R. Faulkner, oils, 1872, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=RS')">RS</a> &middot; E. E. Geflowski, marble statue, <i>c.</i>1878, Town Hall, Manchester &middot; W. H. Hunt, oils, Institute of Mechanical Engineers, London &middot; P. Westcott, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a> &middot; stipple and line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=9067&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;120,000: probate, 22 Sept 1874, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James Burnley, &#145;<span class="roman"><span class="headword">Fairbairn, Sir  William</span>, first baronet  (1789&#150;1874)</span>&#146;, rev. Robert Brown, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2008 [http://www.oxforddnb.com/view/article/9067, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  William Fairbairn (1789&#150;1874): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/9067 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/9067/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

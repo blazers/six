@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 6031;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/6/6031-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/6/6031-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=6031#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Roger</span> <span class="st"> [<em>called </em>Roger Computista]</span>  (<em>fl. </em>after 1350), <span class="occ">lexicographer and Benedictine monk</span>, is known only from references in his own biblical dictionary, <span class="italic">Expositiones vocabulorum quae sunt in Biblia</span>. No evidence survives to account for the sobriquet Computista under which he is commonly known, though it may refer to mathematical skills. In the <span class="italic">Expositiones</span> Roger is referred to as the compiler (<i>collector</i>) of the work, Reginald Walsingham as its editor (<i>corrector</i>), and both men are described as monks of Bury St Edmunds. It can be assumed that Roger worked on this early form of dictionary in the years after 1350; it survives in three manuscripts, Bodl. Oxf., MS Bodley 238, fols. 200<i>v</i>&#150;262, Bodl. Oxf., MS Laud misc. 176, fols. 1<i>r</i>&#150;163 (both these are copies made in the last quarter of the fourteenth century), and Magd. Oxf., MS Lat. 112, fols. 172<i>r</i>&#150;212 (a fifteenth-century copy). Bale reports finding three other works by Roger in a manuscript at Magdalen. One of these, <span class="italic">Postillationes in evangelia</span>, may be identical with the sermons for Advent found after the dictionary in MS Lat. 112, fols. 212<i>v</i>&#150;219<i>v</i>; but <span class="italic">Constitutiones Cantuarienses</span>, though presumably to be equated with the fragment of a <span class="italic">Liber constitutionum Cantuariensium</span> in fols. 224<i>r</i>&#150;225<i>v</i> of the same volume, can have no connection with Roger, while no trace survives, here or elsewhere, of a treatise <span class="italic">De excommunicatione maiore</span>.<br>
+<br>The <span class="italic">Expositiones</span> forms a massive reference book which, in index form, provides explanations for almost 4000 biblical terms, listed according to the books of scripture in which they appear. The dictionary itself is preceded by an alphabetical list of all the words defined. Roger's brief definitions often trace the Greek, and sometimes the Hebrew, origins of words in the <span class="roman">Vulgate</span>, and occasionally he draws out the various shades of meaning between the different languages. However, there is no evidence that he himself had any knowledge of these languages, and he would have used the abbey's thirteenth-century Hebrew psalter (surviving as Bodl. Oxf., MS Laud or. 174), its many copies of the <span class="roman">Bible</span>, and a <span class="italic">Grammatica</span>. All the same, Roger's scholarship provides an example of the revitalization of the Benedictine intellectual tradition that took place at Bury in the second half of the fourteenth century, in response both to external criticism and to the severe impact of the black death. The latter seems to have caused the monastery serious problems of recruitment. In his short preface to the <span class="italic">Expositiones</span> Roger complains about the attitudes of contemporary novices towards scripture, and towards the effort needed to understand it, and reports that they like to blame their own ignorance and negligence on an alleged absence of handbooks to assist them. He adds that for the sake of future readers he has gone through all the glosses in the library, and collected a list of terms and definitions.<br>
+<br>Roger's work&#151;which is matched by that of his contemporary at Bury, Henry Kirkestede, whose bibliography of ecclesiastical writers was probably also compiled for the benefit of novices, and who in his <span class="italic">Speculum cenobitarum</span> echoes Roger's anxiety over the shortcomings of monastic newcomers&#151;shows little interest in the contemporary rationalistic trends of the Oxford schools. Rather he and his fellows were concerned to reanimate traditional claustral learning, based on the recitation of the liturgy, reflection on scripture, and the Benedictine rule. Even so, Roger's literal approach to <span class="roman">Bible</span> study anticipates fifteenth-century trends towards using scripture as a source of moral teaching, rather than in an allegorical and typological way. The <span class="italic">Expositiones</span> appears to have had an immediate impact, both in Oxford (where MS Bodley 238 was in the possession of New College from an early date) and in other learned communities&#151;MS Laud misc. 176 was in the library of the Bedford Franciscans. The achievements of Roger and his monastic contemporaries in the study of language and texts and the codification of knowledge, and in their attention to reform, especially in relation to the education of novices, show that the Benedictine order was indeed far from being a spent force, either intellectually or morally, in the second half of the fourteenth century.<br>
+<br>Jonathan Hughes </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>N. Heale, &#145;Religious and intellectual interests at St. Edmund's abbey at Bury and the nature of English Benedictinism, <i>c</i>.1350&#150;1450&#146;, DPhil diss., U. Oxf., 1995 &middot; R. Sharpe, <i>A handlist of the Latin writers of Great Britain and Ireland before 1540</i> (1997) &middot; Bodl. Oxf., MS Bodley 238, fols. 200<i>v</i>&#150;262 &middot; Bodl. Oxf., MS Laud misc. 176, fols. 1<i>r</i>&#150;163 &middot; Magd. Oxf., MS Lat. 112, fols. 172<i>r</i>&#150;212 &middot; R. H. Rouse, &#145;Bostonus Buriensis and the author of the <i>Catalogus scriptorum ecclesiae</i>&#146;, <em>Speculum</em>, 41 (1966), 471&#150;99 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6031&amp;istheme=&amp;target=Bale%2C%20Index')">Bale, <i>Index</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6031&amp;istheme=&amp;target=Bale%2C%20Cat.')">Bale, <i>Cat.</i></a> &middot; T. Arnold, ed., <i>Memorials of St Edmund's Abbey</i>, 3 vols., Rolls Series, 96 (1890&#150;96) &middot; M. R. James, <i>On the abbey of St Edmund at Bury</i>, Cambridge Antiquarian RS, 28 (1895)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6031&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Bodley 238, fols. 200<i>v</i>&#150;262
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6031&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Laud misc. 176, fols. 1<i>r</i>&#150;163
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6031&amp;istheme=&amp;target=Magd.%20Oxf.')">Magd. Oxf.</a>, MS Lat. 112, fols. 172<i>r</i>&#150;212<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jonathan Hughes, &#145;<span class="roman"><span class="headword">Roger</span>   (<em>fl. </em>after 1350)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/6031, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Roger (after 1350): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/6031 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

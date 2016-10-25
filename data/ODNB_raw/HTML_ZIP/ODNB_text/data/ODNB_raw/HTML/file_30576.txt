@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30576;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30576-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30576-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30576#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Banting, Sir  Frederick Grant</span>  (1891&#150;1941), <span class="occ">physician and medical researcher</span>, was born near the town of Alliston, Ontario, Canada, on 14 November 1891, the fourth son and fifth and youngest child of William Thompson Banting (1849&#150;1929), a farmer of Irish descent, and his wife, Margaret (1854&#150;1940), daughter of Alexander Grant, a miller of Scottish ancestry in Alliston.<br>
+<br>Banting was educated in local schools and in 1910 entered Victoria College at the University of Toronto. After having to repeat the first year of the arts programme, he decided to switch to medicine. On graduation in 1916 (officially the class of 1917), he was immediately granted a commission in the Royal Canadian Army Medical Corps. He served in England and France as a battalion medical officer, and was awarded the Military Cross for valour during an engagement at Cambrai in September 1918, during which he was seriously wounded by shrapnel. After the war Banting trained for a year in surgery at Toronto's Hospital for Sick Children, and when his staff appointment was not renewed, opened a practice in London, Ontario, as a physician and surgeon. With time on his hands, he accepted a post as a part-time demonstrator at the local University of Western Ontario.<br>
+<br>After doing some preparatory reading one night for a talk on the pancreas, Banting speculated that researchers' failure to isolate the long-sought internal secretion of the pancreas might have been due to the destructive action of enzymes in the pancreas's external secretion. He jotted down an idea he hoped would eliminate that problem:<blockquote>
+<div>Diabetus [<i>sic</i>]<br>
+</div>
+<div>Ligate pancreatic ducts of dog. Keep dogs alive till acini degenerate leaving Islets.<br>
+</div>
+<div>Try to isolate the internal secretion of these to relieve glycosurea [<i>sic</i>]<br>
+</div>
+</blockquote>Banting presented his idea to the professor of physiology at the University of Toronto, J. J. R. Macleod, who, with surplus resources at hand, agreed to allow him to test his hypothesis. Banting began work in May 1921, assisted by a graduating student, Charles H. Best, and under the supervision of Macleod. Preliminary results in the summer of 1921 convinced Banting and Best that an active diabetic principle could be prepared from extracts of degenerated pancreas. The research was intensified that autumn and a trained biochemist, James Bertram Collip, was added to the team in December at Banting's request.<br>
+<br>The first paper about the Toronto research, delivered by Banting, Best, and Macleod to the American Physiological Society in New Haven, Connecticut, in late December 1921, met with a cautious response. A clinical trial of extract of fresh beef pancreas, made by Banting and Best, on a fourteen-year old diabetic boy, Leonard Thompson, in Toronto General Hospital on 11 January 1922, was deemed a failure. But on 23 January 1922 injections of pancreatic extract, purified by a process developed by Collip, began working splendidly, eliminating the symptoms of Thompson's diabetes. Within a few months the medical world celebrated the Toronto group's breakthrough in isolating &#145;insulin&#146; as a spectacularly effective replacement therapy in the treatment of diabetes.<br>
+<br>Banting, who never understood the extent to which the emergence of insulin relied on a well-supported collaborative effort begun with his faulty idea, fought for and received acclaim as the primary discoverer. In 1923 the Ontario legislature created for him the first research professorship in a Canadian university. In the same year the parliament of Canada granted him a lifetime annuity of $7500. In 1923 the Nobel prize in medicine or physiology was awarded to Banting and Macleod. Banting immediately divided his share of the Nobel money with Best, as did Macleod with Collip. Banting's later honours included the Cameron prize (Edinburgh, 1927), the Flavelle medal of the Royal Society of Canada (1931), the Apothecaries' medal (London, 1936), and the F. N. G. Starr medal of the Canadian Medical Association (1936). He was elected to the Royal Society, London, in 1935, and became an honorary fellow or member of many British and foreign scientific societies. He was appointed KBE in 1934 in the last round of honours granted to Canadians.<br>
+<br>Banting's later research on the adrenal cortex, cancer, and other problems was unproductive, and he gradually became aware of the considerable limits of his scientific expertise. But his prominence meant that the outbreak of war in 1939 found him occupying the leading place in Canadian medical science. As head of the Medical Research Committee of the National Research Council of Canada, he worked enthusiastically to stimulate research, including investigation of chemical-biological warfare. His department of medical research at the University of Toronto became a centre for research in aviation medicine.<br>
+<br>Banting was twice married: in 1924 to Marion (<i>c</i>.1900&#150;<i>c</i>.1945), daughter of William Robertson, physician, of Elora, Ontario; they were divorced in 1932. In 1939 he married Henrietta (1912&#150;<i>c</i>.1976), daughter of Henry Tenny Ball, a customs officer, of Stanstead, Quebec. One son, William, came from the first marriage. Attempting to visit Britain for liaison and personal reasons, Banting died in a plane crash on 21 February 1941, south-west of Musgrave Harbour, Newfoundland. He was buried in Mount Pleasant cemetery, Toronto, on 3 March 1941.<br>
+<br>Banting was a rough-hewn, hard-drinking, obstinate, intelligent, and democratic Canadian. In his later years he was the &#145;good old boy&#146; and popular figurehead of Canadian medical research. In leisure hours he became one of Canada's most accomplished amateur painters, adopting the techniques and style of friends in the Group of Seven, Canada's national art movement.<br>
+<br>Memorials to Banting and the discovery of insulin abound at the University of Toronto and in medals and lectureships sponsored by diabetes associations around the world.<br>
+<br>Michael Bliss </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Bliss, <i>The discovery of insulin</i> (1982) &middot; M. Bliss, <i>Banting</i><i>: a biography</i> (1984) &middot; M. Bliss, &#145;Re-writing medical history: Charles Best and the Banting and Best myth&#146;, <em>Journal of the History of Medicine and Allied Sciences</em>, 48 (1993), 253&#150;74<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>National Research Council, Ottawa
+   &middot;
+ University of Toronto, Thomas Fisher Rare Book Library&nbsp;|&nbsp; University of Toronto, Thomas Fisher Rare Book Library, W. R. Feasby MSS, Best MSS, Collip MSS, Macleod MSS
+   &middot;
+ University of Toronto, records of insulin committee, board of governors
+	  &nbsp;<h3>FILM</h3>&nbsp;
+	<p>University of Toronto, Thomas Fisher Rare Book Library</p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photographs, 1921&#150;5, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30576&amp;istheme=&amp;target=Hult.%20Arch.')">Hult. Arch.</a> &middot; C. Williamson, oils, 1925, Banting Institute, Toronto &middot; F. Loring, bust, University of Toronto &middot; portraits, University of Toronto<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael Bliss, &#145;<span class="roman"><span class="headword">Banting, Sir  Frederick Grant</span>  (1891&#150;1941)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/30576, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  Frederick Grant Banting (1891&#150;1941): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30576 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

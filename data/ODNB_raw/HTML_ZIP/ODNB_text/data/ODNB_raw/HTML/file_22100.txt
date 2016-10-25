@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22100;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22100-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22100-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22100#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Poitou,  Philip  of</span>  (<em>d.</em> 1208), <span class="occ">bishop of Durham</span>, was a Frenchman of unknown origins, first recorded as clerk of the chamber to Richard I, whom he accompanied on the third crusade. He attested Richard's marriage settlement in Cyprus on 12 May 1191, and also royal charters in 1192, at Jaffa in January and at sea in November. He was with Richard when he landed on the Adriatic coast, and probably also in Austria. Attending the king in captivity at Worms, he was made archdeacon of Canterbury by Richard, but an appointment as dean of York by Geoffrey, archbishop of York, was ineffective. After Richard's release Philip continued in regular attendance, but he was also dispatched to Germany to convey a contribution towards Richard's ransom. It is a measure of the king's regard for him that late in 1195 he was chosen by Richard to be bishop of Durham, and elected by the chapter probably on 4 January 1196. But although the pope confirmed his election on 13 April, and he was ordained priest at Durham on 15 June, Philip remained unconsecrated for fifteen months. During this time, however, he managed to purchase a royal licence to revive the Durham mint, and to secure for his nephew Aimery the vacant archdeaconries of Durham and Carlisle.<br>
+<br>In 1196 Philip was sent from Normandy with the abbot of Caen to investigate the efficiency of the exchequer, bearing instructions to Archbishop Hubert Walter. At the turn of the year the chancellor William de Longchamp, Guillaume de Rupierre, bishop of Lisieux, and Philip were dispatched to Rome to put to the pope the king's case against the interdict imposed on Normandy by the archbishop of Rouen. Longchamp died on the way, but the other envoys secured a settlement at Rome. On 20 April 1197 Philip was consecrated bishop by the pope.<br>
+<br>Philip served as a royal justice while he was bishop-elect and after he was consecrated&#151;since he is often styled <i>magister</i>, he may have had the advantage of a university training. In September 1197 he was with the king at Rouen, but in December he was at the council at Oxford when the bishops of Lincoln and Salisbury refused knight service. He led Richard's delegation to the imperial election at Cologne in February 1198, and spent the following summer with the king in Normandy. In September Richard sent him and others an exultant letter reporting the success of his campaign at Gisors. In the same year Philip was one of five bishops sent by the king to Geoffrey, archbishop of York, in an unsuccessful attempt at reconciliation. Philip attended King John's coronation in 1199, but protested at its taking place in Archbishop Geoffrey's absence. Sent unsuccessfully by John to persuade William the Lion, king of Scots, to meet him at Nottingham, in the following year Philip was among those deputed to escort William to Lincoln, and he was present there when John received the Scottish king's homage. In February 1201 Philip set out on pilgrimage to Santiago de Compostela, but he was back at Chinon by late July, when the king resolved the question of Queen Berengaria's dower with the help of those who had witnessed her marriage settlement. From Chinon Philip returned to London carrying money on behalf of the king, but thereafter is not mentioned as being at court for two and a half years.<br>
+<br>As bishop, Philip recovered for his see the wapentake of Sadberge, purchased by his predecessor from Richard but afterwards resumed by the crown because it had not yet been paid for. Renewed payments to kings Richard and John secured its future as part of the temporalities. His relations with his chapter were stormy, stemming largely from his recurrent claim to present to the chapter's churches, and on one occasion the monks were forcibly ejected from a church. The monastic chronicle blames his nephew Aimery for fomenting the quarrel, but depicts the bishop as no less violently inclined. In one attempt to interfere in monastic affairs he besieged the cathedral and excommunicated the prior, a violent attempt being made to prevent the latter saying mass at the altar. Eventually, however, compromises were reached. The last seven years of Philip's life are ill-documented, although many undated episcopal acts may belong to this period. In 1203 he was included in papal commissions for Gerald of Wales's great suit over the diocese of St David's. He recurs as a witness to royal charters in March and May 1204, but thereafter only sporadically and not at all after February 1206, and when chroniclers name the bishop of Durham as one of the evil counsellors who encouraged John to defy the pope, they may well mean the next incumbent, Richard Marsh, rather than Philip. He died on 22 April 1208, a month after the declaration of the interdict, and according to the Durham chronicle he was buried by laymen in unconsecrated ground. If so, his body was later reinterred, as his grave cover is recorded in the Durham chapter house.<br>
+<br>A typical curial servant of the Angevin monarchs, Philip was trusted by both Richard and John. He ruled the see of Durham for more than ten years, and consolidated its franchise. His temperament, however, appears to have resembled that of his masters, and his posthumous reputation has suffered accordingly.<br>
+<br>M. G. Snape </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Chronica magistri Rogeri de Hovedene</i>, ed. W. Stubbs, 4 vols., Rolls Series, 51 (1868&#150;71) &middot; <i>Historiae Dunelmensis scriptores tres</i><i>: Gaufridus de Coldingham, Robertus de Graystanes, et Willielmus de Chambre</i>, ed. J. Raine, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=SurtS')">SurtS</a>, 9 (1839) &middot; L. Landon, <i>The itinerary of King Richard I</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=PRSoc.')">PRSoc.</a>, new ser., 13 (1935) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=Pipe%20rolls')"><i>Pipe rolls</i></a>, 2 Richard I &#150; 10 John &middot; T. D. Hardy, ed., <i>Rotuli chartarum in Turri Londinensi asservati</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=RC')">RC</a>, 36 (1837) &middot; <i>Radulphi de Coggeshall chronicon Anglicanum</i>, ed. J. Stevenson, Rolls Series, 66 (1875) &middot; D. M. Stenton, ed., <i>Pleas before the king or his justices, 1198&#150;1212</i>, 3, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=SeldS')">SeldS</a>, 83 (1967) &middot; <i>The letters of Pope Innocent III (1198&#150;1216) concerning England and Wales</i>, ed. C. R. Cheney and M. G. Cheney (1967) &middot; W. Greenwell, ed., <i>Feodarium prioratus Dunelmensis</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=SurtS')">SurtS</a>, 58 (1872), 220&#150;301 &middot; <i>Rogeri de Wendover liber qui dicitur flores historiarum</i>, ed. H. G. Hewlett, 3 vols., Rolls Series, [84] (1886&#150;9), vol. 2 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=Paris%2C%20Chron.')">Paris, <i>Chron.</i></a>, vol. 2 &middot; [J. T. Fowler], ed., <i>Rites of Durham</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22100&amp;istheme=&amp;target=SurtS')">SurtS</a>, 107 (1903), 55<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">M. G. Snape, &#145;<span class="roman"><span class="headword">Poitou,  Philip  of</span>  (<em>d.</em> 1208)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/22100, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Philip  of Poitou (<em>d.</em> 1208): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22100 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

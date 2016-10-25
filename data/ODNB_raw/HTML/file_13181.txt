@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13181;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13181-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13181-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13181#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Heywood,  James</span>  (<em>bap. </em>1687, <em>d.</em> 1776), <span class="occ">writer and poet</span>, son of John Heywood, was born at Cheetham Hill, Manchester, and baptized at Manchester on 21 February 1687. He was educated at the Manchester grammar school. For many years he carried on the business of a wholesale linen draper in Fish Street Hill, London. He was a governor of St Bartholomew's, Christ's, Bridewell, and Bethlem hospitals, and was elected alderman of Aldgate ward, but paid the customary fine of &pound;500 rather than serve the office. In his earlier years he contributed to <span class="italic">The Freethinker</span>, <span class="italic">The Plain-Dealer</span>, and other publications, and a letter of his is printed in no. 268 of <span class="italic">The Spectator</span>. These pieces, with some verses, he collected in a small volume, <span class="italic">Letters and Poems on Several Subjects</span> (1722; 2nd edn, with additions, 1726). The poems had previously been published with the title <span class="italic">Original Poems on Several Occasions</span> (1721). Many of his poems are addressed to &#145;Lucinda&#146;, and other titles include &#145;Advice to a Bashful Lover&#146; and &#145;To a Very Old Batchelor&#146;. His letters, which are mostly humorous, deal with contemporary conduct, especially that between the sexes. Heywood made no secret of his own keen interest in the female sex. He wrote: &#145;For my Part, when I see a beautiful young Lady, the sight of her diffuses a secret Satisfaction, and strikes my Mind with an inward Joy, and causes a sudden cheerfulness, and a Secret Delight&#146;  (Heywood, 51).<br>
+<br>Heywood is alluded to by Steele in <span class="italic">The Guardian</span> as a politician and brisk little man, who had the habit of twisting off the buttons of persons he conversed with. He died at his house in Austin Friars on 23 July 1776, aged eighty-nine. His wife, Catherine, referred to in his will, predeceased him.<br>
+<br>C. W. Sutton<span class="italic">, rev. </span> Michael Bevan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Heywood, <i>Letters and poems on several subjects</i> (1726) &middot; H. Drake, <i>Essays, biographical, critical, and historical, illustrative of the &#145;Tatler&#146;, &#145;Spectator&#146;, and &#145;Guardian&#146;</i> (1805), 3.331 &middot; will<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13181&amp;istheme=&amp;target=Man.%20CL')">Man. CL</a>, Manchester Archives and Local Studies, corresp. with Edward Chetham<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">C. W. Sutton, &#145;<span class="roman"><span class="headword">Heywood,  James</span>  (<em>bap. </em>1687, <em>d.</em> 1776)</span>&#146;, rev. Michael Bevan, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2007 [http://www.oxforddnb.com/view/article/13181, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Heywood (<em>bap. </em>1687, <em>d.</em> 1776): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13181 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/13181/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

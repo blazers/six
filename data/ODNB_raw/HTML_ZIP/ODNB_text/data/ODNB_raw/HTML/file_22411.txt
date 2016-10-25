@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22411;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22411-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22411-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22411#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Plunket,  Nicholas</span>  (<em>c.</em>1629&#150;1718), <span class="occ">historian</span>, was born in the north of co. Dublin, the son of James Plunket (<i>d</i>. <i>c</i>.1631) and his wife, Elizabeth Roper. Nothing is known of his education. In 1641 he succeeded to the family seat at Dunsoghly, co. Dublin, on the death of his grandfather who had mortgaged the property to Sir Henry Tichborne, and became Tichborne's ward. At an unknown date he married a daughter of Sir Thomas Esmonde; the couple had four children. Plunket appears to have seen military service in England and Ireland in the later 1640s. During the 1650s he served abroad, mostly in Flanders. He returned to Ireland after the restoration of the monarchy in 1660. By that time his first wife was dead, and he later married Elizabeth Fisher, with whom he had three children. Plunket had some difficulty in recovering his estate and, when he did, seems to have lived at Harristown rather than in Dunsoghly Castle. He left Ireland in the later 1680s, living for a while in London and, thanks to his connections through his mother's family, mixing in recusancy circles attached to the court of Catherine of Braganza, the queen dowager. He was in France in 1689 but back in London by 1691; he remained there for the rest of his long life, for a time living in Somerset House in the apartment of the dowager countess of Fingall, a lady-in-waiting to Queen Catherine.<br>
+<br>Nicholas Plunket of Dunsoghly is generally accepted as the compiler, and in part the author, of &#145;An account of the war and rebellion in Ireland since 1641&#146;, though for a time it was attributed to Sir Nicholas Plunkett (1602&#150;1680), the leading Catholic confederate. Thomas Carte, who described it as &#145;a collection of a vast number of relations of passages that happened in the Irish wars, made by a society of gentlemen who lived in that time, and were eye-witnesses of many of those passages&#146;, drew on it for his biography of the first duke of Ormond  (<span class="italic">DNB</span>). Almost two-thirds of the original manuscript has been lost; the remainder forms what is known as the Plunkett&#150;Dunne manuscript in the National Library of Ireland. In compiling the &#145;Account&#146; Plunket may have seen the surviving papers assembled by Sir Nicholas Plunkett, Catholic spokesman at Whitehall in 1661&#150;2, to demonstrate the loyalty of the dispossessed proprietors in the 1640s. He would also have had access to the extensive library at Somerset House. The whole tenor of the &#145;Account&#146;, which was not completed until the early eighteenth century, is strongly biased in favour of the Ormondist party in the confederacy, anti-clerical, and dismissive of Giovanni Rinuccini, &#145;this Bedlam of a nuncio&#146;  (Kelly, 439 n. 37). All of this fits with the high regard for both dukes of Ormond which Plunket is known to have had. Plans to publish the &#145;Account&#146; in the mid-eighteenth century came to nothing.<br>
+<br>Recent scholarship has discredited the view that Nicholas Plunket of Dunsoghly was the author of &#145;A light to the blind&#146;, an early eighteenth-century Jacobite tract, published in part by J. T. Gilbert as <span class="italic">A Jacobite Narrative of the War in Ireland 1688&#150;1691</span> (Dublin, 1892; reprinted Shannon, 1971). This is now thought to have been the work of Colonel Nicholas Talbot of Drogheda (<i>fl</i>. 1690). Despite spending the later decades of his life in England, Plunket does not appear to have forfeited his estate in Ireland and was able to leave money in his will to support an almshouse in Dublin for Catholic widows. He died in London in 1718.<br>
+<br>James McGuire </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Black Book, 1607&#150;1730, King's Inns, MS B 1/1 &middot; J. Lodge, <i>The peerage of Ireland</i>, rev. M. Archdall, rev. edn, 7 vols. (1789), vol. 6, pp. 180&#150;81; vol. 7, p. 49 &middot; M. &Oacute; Siochr&uacute;, <i>Confederate Ireland, 1642&#150;1649</i><i>: a constitutional and political analysis</i> (1999), 269&#150;71 &middot; &#145;Royal commission on historical manuscripts: second report&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22411&amp;istheme=&amp;target=Parl.%20papers')"><i>Parl. papers</i></a> (1871), 33.231, C. 441 [for T. Carte's abstract] &middot; B. F. E. Moore, &#145;Tombs in St Mary's ruined church, Killeen&#146;, <em>R&iacute;ocht na Midhe</em>, 4/4 (1970), 25&#150;6 &middot; C. Kenny, <i>King's Inns and the kingdom of Ireland</i> (1992) &middot; MSS relating to the settlement of Ireland, 1660&#150;62, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22411&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 4781, fols. 146, 155&#150;61, 276&#150;300 &middot; letters from Nicholas Plunket, TNA: PRO, SP Ire. 263/31, fol. 48, 263/110, fol. 184, 263/124, fol. 209 &middot; N. Plunket, letters, Bodl. Oxf., MS Carte 20, fols. 133, 207 etc. &middot; &#145;Account of the war and rebellion in Ireland since the year 1641&#146;, NL Ire., MS 345 &middot; P. Kelly, &#145;&#147;A light to the blind&#148;: the voice of the dispossessed &eacute;lite in the generation after the defeat at Limerick&#146;, <em>Irish Historical Studies</em>, 24 (1984&#150;5), 431&#150;62 &middot; B. McGrath, &#145;A biographical dictionary of the membership of the Irish House of Commons, 1640&#150;41&#146;, 2 vols., PhD diss., TCD, 1997<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22411&amp;istheme=&amp;target=NL%20Ire.')">NL Ire.</a>, Plunkett-Dunne MS, MS 345<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> left money for almshouse: F. E. Ball, <i>A history of the county of Dublin</i>, 6 vols. (1902&#150;20)<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James McGuire, &#145;<span class="roman"><span class="headword">Plunket,  Nicholas</span>  (<em>c.</em>1629&#150;1718)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/22411, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Nicholas Plunket (<em>c.</em>1629&#150;1718): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22411 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22411/2006-01"> [Previous version of this biography available here: January 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

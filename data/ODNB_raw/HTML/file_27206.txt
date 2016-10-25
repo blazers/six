@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27206;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27206-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27206-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27206#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hibernicus,  Thomas</span> <span class="st"> [Thomas of Ireland]</span>  (<em>c.</em>1270&#150;<em>c.</em>1340), <span class="occ">theologian</span>, was born in Ireland. He was already a master of arts in 1295, which suggests that he could have been born as early as 1265, but certainly no later than 1275. He may have studied in England for a short time, and it was certainly in England that he learned to copy books, because those examples of his handwriting that survive display many features that are distinctively English. However, he left England early in his scholarly career and studied arts in Paris, at the Sorbonne. He had graduated as master of arts by 9 June 1295, when as such he witnessed a document concerning college business. He went on to study theology and probably took the bachelor degree. His formal theological studies went no further, however, and he probably left the Sorbonne by 1306, because the earliest manuscript of his work, which dates from that period, describes him as &#145;one-time fellow&#146; of the college. He may have been appointed to a benefice, and he certainly remained in Paris, closely associated with the Sorbonne, for the rest of his life. He wrote almost exclusively on matters of pastoral theology, concerns that suggest he had experienced the work of pastoral care at first hand. He may have received a benefice from Nicolas de Bar-le-Duc, bishop of M&acirc;con, for whom he made a copy of his <span class="italic">Manipulus florum</span>. He died in Paris probably in the 1330s or 1340s, and left the Sorbonne at least seven books from his considerable library, including copies of his own works. He also bequeathed a substantial cash gift of 16 livres.<br>
+<br>Thomas Hibernicus's best-known and most influential work was the <span class="italic">Manipulus florum</span>, a handbook of pastoral theology and preaching material intended for the parish priest. He probably completed the text about the time he left the Sorbonne, and it was certainly in circulation by 1310. As Hibernicus explains in the prologue, the <span class="italic">Manipulus</span> was the product of many hours of research spent in the library of his old college. It gathered together some 6000 extracts from classical and patristic sources, along with a bibliography listing over 350 different works. The work was in every sense a compilation&#151;Hibernicus borrowed his subject list and extracts from many existing works, including the popular <span class="italic">Liber exceptionum</span> and the well-known collections of literary <i>exempla</i>, the <span class="italic">Florilegium Anglicanum</span> and <span class="italic">Florilegium Gallicanum</span>. But his organization of the extracts did represent a significant step forward. Arranged alphabetically under a comprehensive list of subject headings, and with a vast index, it was by far the most sophisticated and yet easy to use of contemporary reference works.<br>
+<br>Hibernicus also wrote three shorter works probably intended to complement each other, <span class="italic">De tribus punctis</span>, on the work of the secular clergy, <span class="italic">De tribus hierarchiis</span>, which expands the discussion of hierarchies included at the end of <span class="italic">De tribus punctis</span>, and <span class="italic">De tribus sensibus sacre scripture</span>, which explains the four senses of scripture. Hibernicus was notable for the extent to which he copied, reworked and edited his own works; at least two of the earliest copies of the <span class="italic">Manipulus</span> are in his own hand.<br>
+<br>The <span class="italic">Manipulus</span> exercised a vast influence on preachers, theologians, and bibliographers in late medieval Europe; almost 200 manuscripts are known to survive in English, French, and eastern European sources. It became the model for many later preaching handbooks and florilegia, and was a favourite source for late medieval sermons. It seems also to have played a practical role in the continuing work of pastoral care. In 1349 the text was incorporated into the first provincial statutes of the new archdiocese of Prague, and it continued to be a popular source-book for pastoral duties throughout the fifteenth century. Canon lawyers, such as the Englishman William Pagula (<i>d</i>. 1332), also made extensive use of it in their compilations. The <span class="italic">Manipulus</span> remained popular during the Renaissance, and a large number of editions were printed in the late fifteenth and sixteenth centuries.<br>
+<br>
+<a name="cosubject_13199"></a><span class="headword">Thomas de Hibernia</span>  (<em>d.</em> <em>c.</em>1270), a <span class="occ">Franciscan friar</span> also from Ireland, has often been confused with Hibernicus. He spent the greater part of his career in Italy where he studied under Peter de Hibernia. He was the author of the <span class="italic">Promptuarium morale</span>, a text on pastoral theology, but he was apparently reluctant to enter the priesthood himself&#151;so much so that he is said to have cut off his own left thumb to make himself ineligible. He died <i>c</i>.1270 and was buried in the convent at Acquila. Thomas Hibernicus has also been wrongly identified with another Franciscan, Thomas Palmer, or Palmerstown, from Palmerstown, Kildare, who was active in England in the later fourteenth century. He was a member of the Winchester convent in 1371, prior provincial of the order in England from 1393 to 1396, and prior of the London convent from 1397 to 1407. He probably died in 1415.<br>
+<br>James G. Clark </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. H. Rouse and M. A. Rouse, <i>Preachers, florilegia and sermons</i><i>: studies on the &#145;Manipulus florum&#146; of Thomas of Ireland</i> (1979), esp. 93&#150;112 &middot; F. Stegm&uuml;ller, ed., <i>Repertorium biblicum medii aevi</i>, 5 (Madrid, 1955), 365&#150;6 &middot; P. Glorieux, <i>La facult&eacute; des arts et ses ma&icirc;tres au XIII si&egrave;cle</i> (1971), 371&#150;2 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=27206&amp;istheme=&amp;target=Bale%2C%20Index')">Bale, <i>Index</i></a>, 440 &middot; L. Wadding, <i>Annales minorum</i>, ed. J. M. Fonseca and others, 2nd edn, 4 (1732), 321<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Biblioth&egrave;que Nationale, Paris, MSS lat. 15985, 15986<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> 16 livres, left to the Sorbonne, Paris<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James G. Clark, &#145;<span class="roman"><span class="headword">Hibernicus,  Thomas</span>   (<em>c.</em>1270&#150;<em>c.</em>1340)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/27206, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Hibernicus (<em>c.</em>1270&#150;<em>c.</em>1340): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27206 
+                <br />
+
+                
+
+ Thomas de Hibernia (<em>d.</em> <em>c.</em>1270): doi:10.1093/ref:odnb/13199<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

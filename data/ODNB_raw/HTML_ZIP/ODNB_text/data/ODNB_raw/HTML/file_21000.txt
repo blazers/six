@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21000;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21000-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21000-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21000#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Owen,  George</span>  (<em>c.</em>1598&#150;1665), <span class="occ">herald</span>, was born at Henllys, Nevern, near Newport, Pembrokeshire, the son of <script>writeSeealsoLink('../view/article/20999/', "George Owen (1552&#150;1613)")</script> of Henllys and his second wife, Anne or Ankred Obiled (<i>d</i> .1634), &#145;gott before mariage and in the life time of his firste wife&#146;  (London). Nothing is known about his early life or education, except that he appears to have inherited an interest in genealogy from his father. He was nominated Rouge Croix pursuivant on 28 February 1625 in the place of John Bradshaw, and appointed Windsor herald, but he was not confirmed in the office, despite an order sent by the earl marshal to the officers of arms, until 26 July 1626. He was promoted York herald by signet issued in December 1633 and by patent dated 3 January following, and created the next day. Owen may have been admitted to Gray's Inn on 4 August 1633, but he does not appear to have been called to the bar. He married Rebecca, daughter of Sir Thomas Dayrell of Livingstone Dayrell, near Buckingham. The couple had two sons, both of whom died young, and a daughter.<br>
+<br>In the course of his work Owen compiled, among other unpublished works, pedigrees of Worcestershire families (1634) and a short tract dated 1638 &#145;touching the precedence of a baronet's daughter&#146;  (BL, Add. MSS 19816, fols. 100&#150;124, and 14410, fol. 35). He also contributed to the 1641 <span class="roman">Golden Grove</span> pedigree roll, 19 feet long and &#145;splendidly illuminated and fully emblazoned in the most sumptuous manner&#146;, containing the pedigree of the Vaughans, earls of Carbery (College of Arms, London). In 1639 Owen and William le Neve, Clarenceux king of arms, were attached to the staff of the earl of Arundel and Surrey, earl marshal, commander of the expedition against the Scottish covenanters. In 1640 he was sent into Wales on the king's service. When the civil war broke out he was described as a commander in the royalist army and he was with the king at Oxford on 12 April 1643, when the university conferred on him the honorary degree of doctor of laws, and at Gloucester in August.<br>
+<br>Some time after February 1645, when Clarenceux, with the king's permission, appointed Owen his deputy during his absence abroad, he deserted the king. His petition to be admitted York herald under parliament was granted on 13 August 1646. He attended the funeral of the earl of Essex on 22 October that year, and was probably in attendance at the installation of Oliver Cromwell as lord protector on 26 June 1657. In October 1657 he was nominated Clarenceux but did not find favour with the Garter king of arms, Sir Edward Bysshe. He was said to have been &#145;peculiarly busy in promoting the cause of Parliament&#146;  (London) for which, it was claimed, he was rewarded in February 1659 by being made Norroy king of arms. He assisted at the lying-in-state and funeral of Oliver Cromwell and was probably at the installation of Richard Cromwell as protector.<br>
+<br>At the Restoration, Owen was allowed to resume his appointment as York herald. He walked in the procession at the coronation and on reaching Westminster Hall frustrated an attempt by the royal footmen to seize the canopy that had been carried over the king by the barons of the Cinque ports. At the banquet he proclaimed the champion's challenge. His last appearance seems to have been at the funeral of Archbishop Juxon of Canterbury at Oxford on 9 July 1663. Owen then resigned, and his son-in-law, John Wingfield, succeeded him as York herald. He retired to Pembrokeshire where he died on 23 May 1665.<br>
+<br>Dillwyn Miles </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. Stanford London, &#145;George Owen, York herald&#146;, <em>Transactions of the Honourable Society of Cymmrodorion</em> (1946), 78&#150;107<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21000&amp;istheme=&amp;target=AM%20Oxf.')">AM Oxf.</a>, George Owen, <i>York Herald</i>, &#145;A collection of all the Droyts and Fees as heretofore have beene paid to the Officers of Arms, taken out of Severall bookes of receipts and partitions; and remayning in the Office of Armes, MS 840, fol. 579
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21000&amp;istheme=&amp;target=Coll.%20Arms')">Coll. Arms</a>, &#145;The golden grove pedigree roll&#146;&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21000&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, Bronwydd MSS<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Dillwyn Miles, &#145;<span class="roman"><span class="headword">Owen,  George</span>  (<em>c.</em>1598&#150;1665)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/21000, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Owen (<em>c.</em>1598&#150;1665): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21000 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/21000/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

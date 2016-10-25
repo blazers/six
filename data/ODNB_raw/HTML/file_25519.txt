@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25519;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25519-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25519-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25519#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=25519&amp;orientation=p')"><img border="0" alt="  Algernon Sidney (1623&#150;1683), attrib. Justus van Egmont" onmouseover="status='  Algernon Sidney (1623&#150;1683), attrib. Justus van Egmont'" src="/images/article-imgs/25/25519_1_200px.jpg"></a><span class="imagecaption"><b>  Algernon Sidney (1623&#150;1683)</b>, attrib. Justus van Egmont</span>
+</div>
+<div class="para">
+<span class="headword">Sidney <span class="st"> [Sydney]</span>,  Algernon</span>  (1623&#150;1683), <span class="occ">political writer</span>, was born at Baynard's Castle, London, on 14 or 15 January 1623, the second surviving son of <script>writeSeealsoLink('../view/article/25525/', "Robert Sidney, second earl of Leicester (1595&#150;1677)")</script>, diplomat and politician, and Dorothy Percy (<i>d</i>. 1659), daughter of <script>writeSeealsoLink('../view/article/21939/', "Henry Percy, ninth earl of Northumberland")</script>. His older brother was <script>writeSeealsoLink('../view/article/25523/', "Philip Sidney (1619&#150;1698), Viscount Lisle and later third earl of Leicester")</script>, Cromwellian politician; his older sister was <script>writeSeealsoLink('../view/article/26120/', "Dorothy Spencer (1617&#150;1684), countess of Sunderland")</script> and Waller's Sacharissa; and a younger brother was <script>writeSeealsoLink('../view/article/25521/', "Henry Sidney (1641&#150;1704), earl of Romney")</script> and later an intimate of William III. From the Sidneys, Algernon inherited a humanist culture and protestant cause, from the Percys an ancient lineage and ungovernable pride. His great-uncle was Sir Philip Sidney, Elizabethan soldier and poet, the fame of whose protestant martyrdom at Zutphen (1586) resonated into Algernon's lifetime. It was because he saw his own struggles against popery and arbitrary power as continuing those of Sir Philip that Algernon's 1659 entry in the signature book of the University of Copenhagen read: &#145;PHILIPPUS SIDNEY MANUS HAEC INIMICA TYRANNIS EINSE PETIT PLACIDAM CUM LIBERTATE QUIETEM&#146; (&#145;This hand, enemy to tyrants, by the sword seeks peace with liberty&#146;; &#145;Lantiniana&#146;, 101). His imperiousness was improved by his early (1650s) residence at Petworth, household of his uncle Algernon, tenth earl of Northumberland. His <span class="italic">Court Maxims</span> described the &#145;powerful, gallant&#146; nobility of &#145;the Plantagenet Age&#146;, when Percy power was at its zenith  (Sidney, <span class="italic">Court Maxims</span>, 67); his <span class="italic">Discourses</span> praised the king-making prowess of Henry Percy, first earl of Northumberland, &#145;and his brave son Hotspur&#146;  (Sidney, <span class="italic">Discourses</span>, in <span class="italic">Works</span>, 205). Thus Burnet explained that on the one hand Sidney &#145;had studied the history of government in all its branches beyond any man I ever knew&#146;, and that on the other he was &#145;a man of most extraordinary courage &hellip; but of a rough and boisterous temper, that could not bear contradiction&#146;  (<span class="italic">Burnet's History</span>, 2.341). This lineage helped to establish two features of Sidney's perspective. The first concerned the importance of arms, whether against Counter-Reformation popery or overmighty kings. The second observed the decline in family fortunes under the Stuarts. In both respects, under the militarily invincible republican government of 1649&#150;53, he was to discover a cause for life.<h2>
+<a name="Earlylife16231649"></a>Early life, 1623&#150;1649</h2>Sidney was raised at the family seat of Penshurst Place, Kent, where the family's chaplain from 1633 was the divine and scholar Henry Hammond, echoes of whose work have been detected in Sidney's own writings. Sidney may have attended boarding-school for part of this period. In 1632, with his brother Philip, he accompanied his father on an embassy to Denmark. In 1636 Leicester was appointed ambassador-extraordinary to France; he arrived at Paris in May, again bringing his two eldest sons. Algernon would remain for five years in France, where his education was completed, either in Paris or at the Huguenot academy at Saumur, founded in 1602 by Sir Philip Sidney's friend Philippe Du Plessis Mornay. In Paris the Sidney family attended services at Charenton, where the minister was Jean Daill&eacute;, formerly chaplain to Du Plessis Mornay at Saumur, and praised by Algernon in the <span class="italic">Court Maxims</span>. In November 1636 the countess of Leicester wrote to her husband that she heard Algernon &#145;much comended by all that comes from you &hellip; [for] a huge deall of witt and much sweetness of nature&#146;  (<span class="italic">De L'Isle and Dudley MSS</span>, 6.64). In 1640 his uncle Northumberland tried to procure military employment for him with the prince of Orange. In 1641 the family returned to an England in crisis. On 14 June Leicester was appointed lord lieutenant of Ireland to replace the executed earl of Strafford, but in October Ireland was convulsed by rebellion. Over the winter of 1641&#150;2 forces backed by the English parliament arrived in Dublin to suppress the rebellion containing, by February 1642, Lord Lisle in command of a cavalry regiment and Algernon as captain of a troop of horse.<br>
+<br>At a court martial in Dublin on 5 April 1643 the Sidney brothers and four other commanders of cavalry were cleared of the charge of cowardice on 28 March near Old Ross, co. Wexford. A letter to his mother in June explained Sidney's desire both to leave Ireland (&#145;that which is &hellip; bad for that which may be better, I think not possibly worse&#146;) and to avoid the civil war in England:<blockquote>Nothing but extreame necessity shall make me thinke of bearing arms in England, and yet &hellip; theare is so few that abstaine from warre for the same reason I doe, that I doe not know wheather in many mens eyes it may not prove dishonourable to me. (J. T. Gilbert, ed., <span class="italic">History of the Irish Confederation</span>, 7 vols., 1882&#150;91, 1.xlviii&#150;xlx)</blockquote>Granted leave to return he landed, on 22 June, with Lisle at Chester, where their horses were stolen by royalist marauders. His letter to Orlando Bridgeman threatening to pursue this matter with his father at Oxford was intercepted by the parliamentary committee at Lancaster. The brothers were arrested and taken under guard to London. On 15 April 1644, however, Algernon Sidney was appointed colonel in the earl of Manchester's regiment of horse in the eastern association. His attainment of a parliamentarian command may have been assisted by the king's replacement of Leicester as lord lieutenant (October 1643) with Ormond, while his uncle Northumberland was a leading, if on occasion wavering, parliamentarian peer.<br>
+<br>On 2 July, at Marston Moor, Sidney charged<blockquote>with much gallantry at the head of my lord's regiment of horse, and came off with much honour, though with many wounds, to the grief of my lord, and many others, who is since gone to London for the cure of his wounds. (<span class="italic">Ash's Intelligence from the Armies in the North</span>, no. 6)</blockquote>Forty years later he would be depicted in a ballad declaiming: &#145;View my Hack'd Limbs, each honourable wound The Pride and Glory of my numerous Scars in Hell's best Cause the old republic Wars&#146;  (<span class="italic">Algernon Sidney's Farewel</span>, 1683). This action was the baptism by fire of what his <span class="italic">Paper Delivered to the Sheriffs</span> (1683) would call his adherence to &#145;that OLD CAUSE in which I was from my youth engaged, and for which thou hast often and wonderfully declared thyself&#146;  (Sidney, <span class="italic">Paper Delivered to the Sheriffs</span>, in <span class="italic">Works</span>, 39&#150;40). In April 1645 he declined a command in the New Model Army with &#145;extreame unwillingnesse &hellip; by reason of my lamenesse&#146;  (BL, Sloane MS 1519, fol. 112). In May he became governor of Chichester, for which Northumberland had served as an MP in the 1620s: the earl's signature headed his letter of appointment. In December 1645 Sidney became MP for Cardiff. Thereafter his votes in the house allied him with Northumberland and others, including Lord Saye and Sele, Sir John Evelyn, and William Pierrepoint. In September 1646 he and his brother Philip carried a banner at the funeral of the earl of Essex. In February 1647 both returned to Ireland, having been appointed respectively governor of Dublin and lord lieutenant of Ireland. After a brief stay in Munster they returned on 21 April, Lisle having been superseded in his command by Lord Inchiquin, lord president of Munster, Algernon Sidney losing his post to Colonel Michael Jones. Instead, in mid-1648 Sidney was appointed to the strategic governorship of Dover Castle.<h2>
+<a name="Republicandprotectorate16491659"></a>Republic and protectorate, 1649&#150;1659</h2>In 1659 Sidney was to defend the regicide as &#145;the justest and bravest act &hellip; that ever was done in England, or anywhere&#146;  (BL, Add. MS 32680, fols. 9&#150;10). In 1649, however, he disapproved of the army's interference in parliamentary politics as much as he had of that earlier by the king. To the managers of the trial he argued:<blockquote>First, the King could be tried by noe court; secondly, that noe man could be tried by that court. This being alleged in vaine, and Cromwell using these formall words (I tell you, wee will cut off his head with the crowne upon it) I &hellip; immediately went out of the room, and never returned. (Blencowe, 236&#150;9)</blockquote>Subsequently in the house he joined Sir Henry Vane jun. and Sir Arthur Hesilrige in speaking against an oath of allegiance which would have approved the judicial proceedings against Charles I. This made &#145;Cromwell, Bradshawe, Harrison, Lord Grey and others, my enemys, who did from that time continually oppose me&#146;  (ibid., 238). It may also have contributed to the rift between Sidney and local army officers which culminated in his replacement as governor of Dover in May 1651. Until late 1651 Sidney's parliamentary attendance was moderate and he served on six or seven committees. The most important was for Irish affairs, in the post conquest settlement of which he played a major role, and upon which by 1653 he was the government's senior authority. For his services in Ireland he was voted &pound;1809 13<i>s</i>. 6<i>d</i>. arrears of pay in October 1649.<br>
+<br>From 1652 Sidney's political commitment deepened and he was elected to the council of state in November. His work over the following six months was dominated by foreign affairs (reporting between December and April on meetings with the public ministers of Portugal, Spain, France, Sweden, Hamburg, Tuscany, Holland, and Austria) and, with Vane, by the First Anglo-Dutch War (1652&#150;4). Vane had worked in naval administration under Northumberland; Sidney was to ascribe to him the invention of &#145;the Frigat&#146;  (Sidney, &#145;Character&#146;). In this war the two men established a locus of military power alternative to that of the army. Both accordingly featured centrally in the drama of the Rump's ejection by Cromwell on 20 April 1653, of which Sidney left the most important eyewitness account. Thus when he later produced the most striking evocations of the republic's remarkable military achievements he was speaking of a personal experience which furnished the basis of his republican belief.<blockquote>[S]uch was the power of wisdom and integrity in those that sat at the helm, and their diligence in choosing men for their merit was blessed with such success, that in two years our fleets grew to be as famous as our land-armies; the reputation and power of our nation rose to a greater height, than when we possessed the better half of France, and the Kings of Scotland and France were our prisoners. All the states, kings and potentates of Europe, most respectfully, not to say submissively, sought our friendship. (Sidney, <span class="italic">Discourses</span>, in <span class="italic">Works</span>, 240&#150;41)</blockquote>Four years of kingless government had turned the Stuart record of military failure on its head.<br>
+<br>In 1683 Sidney said of Cromwell: &#145;you need not wonder I call him a tyrant, I did so every day in his life, and acted against him too&#146;. On 17 June 1656 Lord Lisle complained to his father about &#145;a play acted&#146; at Penshurst &#145;of publike affront&#146; to the lord protector during which the audience were so &#145;exceedingly pleased with the gallant relation of the chief actor in it &hellip; that by applauding him they put him severall times upon it&#146;  (<span class="italic">De L'Isle and Dudley MSS</span>, 6.400). Thus grew the legend of Sidney playing Brutus in Shakespeare's <span class="italic">Julius Caesar</span>. Lisle had been estranged from his father since December 1652 and the principal subject of his letter was the &#145;extreamest vanity&#146; of &#145;the younger sonne&#146; who &#145;now so dominere[s] in your house &hellip; [as to] command the whole&#146;  (Blencowe, 270&#150;71). Algernon's ascension to the position of <i>de facto</i> heir apparent coincided with his rise to republican power. It was no coincidence that his later <span class="italic">Discourses</span> took as its subject for refutation the primogeniture politics of Sir Robert Filmer's <span class="italic">Patriarcha</span>. Between 1648 and 1659 he became closely involved with his father's estate and legal affairs. From this developed his entanglement with those of his cousin and (from 1650) brother-in-law Thomas Smith, first Viscount Strangford. By 1655 he had become trustee of Strangford's estate, charged with managing it to clear his debts. In 1657 he became sole resident of Strangford's principal seat of Sterry in Kent. The process of reorganization, mortgage, and sale was still incomplete when, in May 1659, the restored Rump Parliament &#145;coma[n]ded &hellip; [him] into Sweadland in the Quality of a publique minister&#146;  (TNA: PRO, chancery pleading, C7 327/50).<h2>
+<a name="Balticambassador16591660"></a>Baltic ambassador, 1659&#150;1660</h2>In the restored Rump, Sidney's work was again dominated by European (including naval) affairs, alongside Vane, and by the settlement of Ireland. The dominant concern was war between Denmark and Sweden threatening English naval supplies from the Baltic Sound. This was an interest shared with the Dutch, who had lent naval support to Denmark against Charles X of Sweden, a Cromwellian ally. Vane's reorientation of English policy sought Anglo-Dutch co-operation in keeping local control of the sound divided. Sidney left for the sound in June. One of the other plenipotentiaries was Vane's brother-in-law Sir Robert Honeywood. The initial choice as third, Bulstrode Whitelocke, declined partly because &#145;I knew well the overruling temper and height of Colonel Sydney&#146;  (Whitelocke, 4.351). The mission would indeed be dominated by Sidney's unorthodox diplomatic style (&#145;a few shots of our cannon would have made this peace&#146;; Scott, <span class="italic">Republic</span>, 129). Observers remarked &#145;We shall soon see the results of such unprecedented methods of negotiation&#146;  (<span class="italic">CSP Venice</span>, <i>1659&#150;61</i>, 64), and Samuel Puffendorf's <span class="italic">History of the Reign of Charles X</span> begins a new chapter at this point entitled &#145;&Eacute;trange conduite des ambassadeurs anglois&#146;.<br>
+<br>The envoys arrived at Elsinore on 20 July &#145;<i>avec une magnifique escorte</i>&#146; under the command of the Cromwellian Edward Montague. As the Swedish king was not immediately available to receive them, and although Sidney &#145;confess[ed]&#146; that this was &#145;contrary to the ordinary way of ceremony&#146;, they began by meeting the Dutch to discuss the creation of a joint fleet capable, if necessary, of imposing peace terms. Relations with Charles X deteriorated rapidly, the king expressing amazement at the English &#145;wish to command all, as if they were masters&#146;  (<span class="italic">CSP Venice</span>, <i>1659&#150;61</i>, 66). With the Dutch, Sidney personally handed the king a treaty proposal already accepted by Denmark, and based upon the treaty of Roskilde (1658), threatening military action against the refuser. The king &#145;in great choler &hellip; told us, that we made projects upon our fleets, and he, laying his hand upon his sword, had a project by his side&#146;  (Sidney, &#145;Letters from Thurloe's state papers&#146;, in <span class="italic">Works</span>, 16). &#145;Everyone is amazed&#146;, it was reported, &#145;how Sidney stood up to him&#146;  (F. Guizot, <span class="italic">History of Richard Cromwell</span>, 2 vols., 1856, 1.160). It was in this context that the new Danish hero signed the visitor's book at the University of Copenhagen, quoted above, furnishing what would become the motto of the state of Massachusetts, USA.<br>
+<br>Yet trouble for this strategy was brewing from a crucial direction. When Montague announced his intention of returning with the fleet to England, Sidney gave &#145;his opinion, [that] for sending away the whole fleet he thought he should deserve to lose his head&#146;  (F. R. Harris, <span class="italic">The Life of Edward Montagu</span>, 2 vols., 1912, 1.149). Although the Venetians reported that the subsequent departure &#145;does not prevent the English from being held in great respect and practically the arbiters of the whole business&#146;  (<span class="italic">CSP Venice</span>, <i>1659&#150;61</i>, 90), in practice it severely undermined England's influence. After their capture of the Swedish island of Funen, Sidney's relations with the Dutch cooled. Following the sudden death of Charles X on 12 February 1660 he reported that though &#145;violently transported by ambition and choller&#146; the Swedish king was in fact &#145;a man of exceeding good wit, valiant, industrious, vigilant &hellip; whoe, by the many and great actions of his short reign deserves to be remembered with honour&#146;  (Blencowe, 166, 174&#150;6, 177&#150;8). Despite these and other difficulties a treaty was eventually signed by the Danes, Swedes, and all three mediating powers (including France) on 27 May 1660 which restored something like the <i>status quo ante</i> of 1658.<h2>
+<a name="Rome16601663"></a>Rome, 1660&#150;1663</h2>Late in 1659 Sidney had begged Whitelocke for more information concerning the fortunes of &#145;that cause, which by the help of God I shall never desert&#146;  (Blencowe, 170&#150;71). His initial response to the restoration of Charles II was to acknowledge its parliamentary authority.<blockquote>Since the Parliament hath acknowledged a king, I knowe &hellip; I owe him duty and the service that belongs unto a subject, and will pay it. If things are carried in a legall and moderate way, I had rather be in employment, than without any. (ibid., 186)</blockquote>Yet reports of his opinionated republicanism in Scandinavia had reached the English court. This included not only &#145;rough&#146; behaviour toward &#145;the King of Denmark, as also to the King of Sweden&#146;, but most damagingly a spirited defence of the regicide. &#145;If it were true&#146; responded the earl of Leicester, &#145;he must not thinke of coming into England, when that acsion was so much abhorred by all men, and by me in particular, that am his father&#146;  (BL, Add. MS 32680, fols. 9&#150;10). In addition, while prepared to &#145;submitte&#146;, Sidney drew the line at &#145;acknowledgement of our faults, in having bin against this king, or his father &hellip; I shall be better contented with my fortune, when I see theare was noe way of avoiding it, that is not worse than ruine&#146;  (Blencowe, 187&#150;8).<blockquote>I knowe the titles that are given me of fierce, violent, seditious &hellip; turbulent &hellip; I know people will say, I straine at knats, and swallow camels; that it is a strange conscience, that lets a man runne violently on, till he is deepe in civill blood, and then stays at a few words and complements &hellip; I have enough to answer this in my own minde; I cannot help it if I judge amisse &hellip; I walk in the light God hath given me; if it be dimme or uncertaine, I must beare the penalty of my errors: I hope to do it with patience, and that noe burden shall be very grievous to me, except sinne and shame. (ibid., 194&#150;8)</blockquote>On 28 July 1660, after the receipt of letters from England, he resolved against return for the time being. Despite his father's advice that he should live in Hamburg he reported: &#145;I dislike all the drunken countries of Germany, and the north, and am not much inclined to France. I think I shall choose Italy&#146;  (ibid., 195). The earl responded &#145;what to advise you, truly I knowe not; for you must give me leave to remember, of how little weight my opinions and counsel have been with you &hellip; in almost everything&#146;  (ibid., 239&#150;40).<br>
+<br>In Rome, while Sidney found that the city did not &#145;beare such signs of Ease, Satisfaction and Plenty&#146; as on his first visit in 1638, &#145;the Company of Persons excellent in all Sciences, which is the best Thing Strangers can seeke, is never wanting&#146;  (Collins, 2.700). An English observer reported: &#145;Colonel Sydney &hellip; has put himself into very great equipage, his coach and three lackeys; he is very gracious with some of the Cardinals, which some impute to his own Parts and wit, others to some recommendation from [Christina] the [ex] Queen of Sweade&#146;, whom Sidney had met in Hamburg  (<span class="italic">Egmont MSS</span>, 1.616). With the cardinals, particularly Christina's friend Azzolini, he became sufficiently familiar to send his father &#145;Characters&#146; of them in April 1661. &#145;I have much more Aquaintance amongst the prelates, than the nobility of this place,&#146; he reported, &#145;the most auncient Familyes [here], have lost all the Vigour and Virtue of their Auncestors&#146;  (Collins, 2.705). By mid-1661 he was living at the Villa de Belvedere at Frascati, at the invitation of Prince Pamphili, nephew of the previous pope.<blockquote>I &hellip; live now as a Hermite in a Palace. Nature, Art and Treasure, can hardly make a place more pleasant than this &hellip; In theis last Moneths &hellip; I have applied myself to studdy, a littel more thaen I have done formerly; and &hellip; I find soe much Satisfaction in it, that for the future I shall very unwillingly &hellip; put myself into any [other] Way of living. (ibid., 2.718&#150;21)</blockquote>Yet his contentment did not last. There was his isolation &#145;when I wander as a Vagabond through the World, forsaken of my Friends, poore, and knowne only to be a broken Limbe of a Ship-wrecked Faction&#146;  (ibid., 2.720). There was the &#145;Ruin of my Fortune&#146; in England, reducing him to financial dependence upon a father &#145;lesse carefull to give me some reliefe, than I hope[d]&#146;  (Blencowe, 190). This was particularly painful &#145;in a Place farre from Home &hellip; wheare I am knowne to be of a Quality, which makes all lowe and meane Wayes of living shamefull and detestable&#146;  (Collins, 2.717). Finally Sidney would complain that although he had &#145;hoped that noe man would &hellip; disturbe me in a most innocent exile &hellip; I was defended from such as [in Rome] designed to assassinate me, only by the charity of strangers&#146;  (Sidney, <span class="italic">Apology</span>, in <span class="italic">Works</span>, 3).<h2>
+<a name="Theexiles16631666"></a>The exiles, 1663&#150;1666</h2>In mid-1663, on his way to the Low Countries, Sidney visited Edmund Ludlow and other exiles at Vevey. Although his <span class="italic">Apology in the Day of his Death</span> later claimed that this trip was for &#145;the care of my private affaires&#146;  (Sidney, <span class="italic">Apology</span>, in <span class="italic">Works</span>, 3), Ludlow recorded that Sidney &#145;Now thinkes it seasonable to draw toward his Native Country, in Expectation of an Opportunity wherein he might be more Active &hellip; [in republican] Service&#146;  (Ludlow, 977). After presenting his host with a pair of Italian pistols, and thanking the magistrates of Bern for their care of the exiles, he visited the Calvinist academy at the University of Geneva where he inscribed the visitor's book: &#145;SIT SANGUINIS ULTOR JUSTORUM&#146; (&#145;Let there be revenge for the blood of the just&#146;; C. Borgeaud, <span class="italic">Histoire de l'Universit&eacute; de Gen&egrave;ve</span>, 5 vols., 1900&#150;59, 1.442&#150;3). This was the blood not only of the regicides but in particular of Vane, executed in 1662 (&#145;noble Vane &hellip; thy death gave thee a famous victory and a never perishing Crown&#146;; Sidney, <span class="italic">Court Maxims</span>, 49). In Brussels in December Sidney sat for the portrait by Justus van Egmont which was later hung at Penshurst. From Brussels he informed Leicester of his thoughts of spending &#145;the next summer as a Volunteere in Hungary&#146;  (Collins, 2.725). His hopes of transporting there &#145;a good strong Boddy of the best Officers and Soldiers of our old Army&#146; may have connected to another plan closer at hand. In early 1664 in the United Provinces, however, he found &#145;the spirits of those who understood seasons farre better than I &hellip; not to be fully prepared&#146;  (Blencowe, 259&#150;60). He retreated to Augsburg, where, in April 1665, he was the target of another assassination attempt.<br>
+<br>Thereafter Sidney returned to the United Provinces: &#145;Certaine I can have no peace in my owne spirite, if I doe not endeavour by all meanes possible to advance the interest of God's people&#146;. The context for this renewed hope was the Second Anglo-Dutch War (1665&#150;7). Burnet recorded: &#145;Algernon Sidney &hellip; came to de Wit, and pressed him to think of an invasion of England and Scotland &hellip; and they were bringing many officers to Holland to join in the undertaking&#146;  (BL, Add. MS 63057, 1.393). Ludlow was reluctant to join the Dutch, whom he blamed for the failure to protect the regicides Okey, Corbet, and Barkstead, kidnapped in Delft in 1662 by the English ambassador, Sir George Downing. In early 1666 Sidney's entreaties to his colleague culminated in a &#145;Letter stuffed with Invectives from the beginning to the End. Justifying the Dutch in what they did as to the delivery of our three freinds to be butchered&#146;, and accusing Ludlow of fixing himself &#145;unmoveably upon your own Imaginations, grounded upon the vainest, and most frivolous mistaken Informations that can possibly be given in things of such Importance&#146;  (Ludlow, 1079&#150;80, 1105). Sidney's other problem was the English republic's own previous military record. As De Witt asked: &#145;What would the effect be of turning England into a Commonwealth, if it could possibly be brought about, but the ruin of Holland?&#146;  (BL, Add. MS 63057, 1.393). By the middle of the year Sidney was in Paris, where the young Louis XIV, a Dutch ally, recorded: &#145;Sidney, an English gentleman, promised me to produce a great uprising &hellip; but the proposition he put to me to advance him 100,000 ecus &hellip; was more than I wished to expose on the word of a fugitive [so] I offered him [initially] only 20,000&#146;  (Louis XIV, <span class="italic">M&eacute;moires Pour les ann&eacute;es 1661 et 1666</span>, ed. J. Lognon, 1923, 213). As divisions among the exiles continued, and following a failed attempt, with French assistance, to spring John Lambert from prison on Jersey, Sidney received a pass from the French king to retire to Montpellier.<h2>
+<a name="CourtMaxims16651666"></a>Court Maxims, 1665&#150;1666</h2>The most important literary product of 1665&#150;6 was Sidney's <span class="italic">Court Maxims</span>, not published until 1996. Emotionally more intense than the later <span class="italic">Discourses</span>, its objective is the same: to argue for rebellion against the restored monarchy. In the process, particularly by its use of Grotius, it anticipates key features of Locke's as well as Sidney's later classic justifications of resistance. As the most important surviving attack upon the restoration process it seeks to persuade the English people that &#145;nothing is more reasonable than that they should repent of their choice <i>and endeavour to unmake what they have made</i>&#146;  (Sidney, <span class="italic">Court Maxims</span>, 7). In particular it appeals to the godly to resist the restoration of religious persecution.<blockquote>Who will endure that bishops, the greatest incendiaries in the whole world, should now preach the highest meekness? They who said it was better that all the streets in England and Scotland should run with blood than that the power of the clergy be diminished, say now, it is better that England should be dispeopled, and the best men in the nation banished and destroyed, than that their lusts should be resisted &hellip; At this day we find none to espouse &hellip; [non-resistance] but our Quakers, some few Anabaptists in Holland and Germany, and some &hellip; Socinians in Poland. &hellip; all christian churches have &hellip; made use of the sword &hellip; against such princes and their ministers as have governed contrary to law. (ibid., 101&#150;3)</blockquote>More broadly the <span class="italic">Court Maxims</span> is a systematic assault upon monarchy: &#145;as death is <i>the greatest evil that can befall a person, monarchy is the worst evil that can befall a nation</i>&#146;  (Sidney, <span class="italic">Court Maxims</span>, 20). This involves deploying an argument in interest language common to English and Dutch antimonarchism. As monarchy is private interest government and republicanism government in the public interest each is &#145;irreconcileably contrary&#146; to the other. The maxims of monarchy, in both domestic and international affairs, inevitably oppose the public interest of a nation. &#145;[A]ll people grow proud when numerous and rich &hellip; The least injury puts them into a fury. But if poor, weak, miserable and few they will be humble and obedient&#146;  (ibid., 72). On the basis of this analysis, developed from Machiavelli's <span class="italic">Discourses</span>, book 2, chapter 1, Sidney asserts an Anglo-Dutch republican &#145;unity of interest&#146; in &#145;extirpat[ing] the two detested families of Stuart and Orange&#146;  (ibid., 176). Finally to the &#145;maxims&#146; of princes the <span class="italic">Court Maxims</span> opposes the classical republican life of virtuous self-government.<blockquote>We need seek no other definition of a happy human life in relation to this world than that set down by Aristotle as the end of civil societies, namely, that men may in them enjoy <i>vita beata secundum virtutem</i> (Aristotle, <span class="italic">Politics</span>, bk III). For as there is no happiness without liberty, and no man more a slave than he that is overmastered by vicious passions, there is neither liberty, nor happiness, where there is not virtue. (ibid., 24)</blockquote>
+<h2>
+<a name="France16661677"></a>France, 1666&#150;1677</h2>Sidney spent most of his exile in a country in which he had previously not only lived but been educated. His later return to England he intended to be temporary, before final settlement in Gascony. In 1683 he was to inform his English fellow conspirators of the French saying that &#145;He who draws his sword against his prince &hellip; ought to throw away the scabbard&#146;  (Scott, <span class="italic">Crisis</span>, 289). The <span class="italic">Discourses</span> praises the readiness of the French nobility to act &#145;in the defence and vindication of their violated liberties &hellip; [if] the king &hellip; do [anything] against their laws&#146;  (Sidney, <span class="italic">Discourses</span>, in <span class="italic">Works</span>, 254&#150;5). Above all those families listed as having rebelled in the past &#145;fifty years &hellip; the houses of Conde, Soissons, Montmorency, Guise, Vendome, Angoulesme, Bouillon, Rohan, Longueville, Rochefoucault, Espernon&#146; include most of Sidney's own French associates. Rohan had been a friend of the earl of Leicester. Most important to Sidney were de Bouillon, Turenne, and De la Rochefoucauld, principal powers of the south-west and survivors of the noble Fronde (1650&#150;52).<br>
+<br>From Montpellier in 1666 Sidney sent his Quaker friend Benjamin Furly in Rotterdam his transcription of &#145;A Prophesy of St Thomas the Martyr&#146; (Bodl. Oxf., MS Eng. lett. C200, fols. 24&#150;5). He argued violently with a local doctor whose services had not pleased him (&#145;A physician does not exercise his art for himself, but for his patients&#146;; Sidney, <span class="italic">Discourses</span>, in <span class="italic">Works</span>, 342). He sought the assistance of Sir William Temple, ambassador in Brussels, in the passage of letters to his uncle Northumberland. In 1670 he paid an extended visit to Paris, coinciding with one by the Northumberland family. During the same period he called upon Turenne at Versailles and made, through him, an attempt to &#145;render his services to &hellip; the King of Great Britain&#146;, advising his majesty to found his &#145;security&#146; upon the provision of &#145;liberty of conscience&#146; to all his subjects  (Paris, Archives du Minist&egrave;re des Affaires &Eacute;trang&egrave;res, du Roy &agrave; Colbet, 29 July 1670). While rejecting this overture by &#145;a man of great courage and spirit, though also the most opinionated republican he had in his realm&#146;, Charles nevertheless attempted to implement this advice two years later  (TNA: PRO, Baschet correspondence 31/3, no. 125, 4 Aug 1670). About the same year Sidney retired to N&eacute;rac, in Gascony, within the duchy D'Albret of Turenne's nephew Maurice-Godefroi de la Tour, duc de Bouillon. Bouillon's grandfather was the Huguenot Henri de la Tour, &#145;ancien compagnon d'Henri IV, marechal de France&#146; and friend of Philippe Du Plessis Mornay. A letter written from N&eacute;rac in early 1677 informs us that Sidney occupied himself with riding and hunting, advising the duc de Bouillon about the corruption of his local officials, and visiting De la Rochefoucauld at his seat at Verteuil. It was during another visit to Paris in late 1676 that Sidney met his great-nephew George Savile, and the boy's uncle Henry Savile. From N&eacute;rac on 18 December he wrote to the latter that he did &#145;not value the leave you have obtained for me to return into my country after so long an absence, at a lower rate than the saving of my life&#146;  (Sidney, &#145;Letters to Savile&#146;, in <span class="italic">Works</span>, 56&#150;7). On his way back to England the following year Sidney had the series of conversations with Jean-Baptiste Lantin about his political experiences and opinions which remain recorded in the Biblioth&egrave;que Nationale, Fr MS 23254, fols. 99&#150;101.<h2>
+<a name="FamilypoliticsandRestorationcrisis16771683"></a>Family politics and Restoration crisis, 1677&#150;1683</h2>In 1678 Sidney explained: &#145;my desir of being &hellip; somme service unto my old father perswaded me to ask leave to comme over&#146;  (Forster, 79&#150;80). He returned in early September 1677 and Leicester died on 2 November. Thereafter, he wrote:<blockquote>I have no other businessse heare then to cleare some small contests that are growne between one of my brothers and me concerning that which he hath left me, and [then to] retire from hence &hellip; to purchase a convenient habitation in Gascony &hellip; where I may in quiet finish thoes days that God hath appointed for me. (ibid.)</blockquote>In the event, in the words of his <span class="italic">Apology</span>:<blockquote>When I prepared myself to return into Guascony &hellip; I was hindered by the earl of Leicester my brother, who questioned all that my father had given me for my subsistence; and by a long and tedious suite in chancery, detained me in England, until I was made a prisoner.</blockquote>In fact Robert Sidney's provision for his younger sons Algernon and Henry was punitively generous. Algernon collected &pound;5000 immediately, but was forced to seek a remaining &pound;5000, plus various rents and annuities, through proceedings in chancery. Pending settlement, and as executors of the earl's estate, Henry took up residence at Penshurst, and Algernon at Leicester House in London. It was from there that he became drawn into the gathering political crisis.<br>
+<br>Naturally one aspect of this involvement consisted of contacts with the French ambassador, Barillon. On 6 October Barillon reported:<blockquote>At the moment my most intimate liaison is with Mr. Algernon Sidney; he is the man in England who seems to me to have the greatest understanding of affairs; he has great relations with the rest of the Republican party; And nobody in my opinion is more capable of rendering service than him. (Paris, Archives du Minist&egrave;re des Affaires &Eacute;trang&egrave;res, correspondance politique, Angleterre XLI)</blockquote>After assisting the French-engineered fall of Danby in December 1678 Sidney received a payment of 500 guineas, and another a year later. Over the following three years, through the French ambassadors in England and the United Provinces, he sought to construct an Anglo-Dutch republican alternative to Stuart&#150;Orange foreign policy. Equally he attempted to convince Barillon &#145;that it is an old error to believe that it is against the interest of France to suffer England to become a republic&#146;  (Dalrymple, 2, appx, 313). Meanwhile Barillon reported Sidney's involvement with the politics of London:<blockquote>He is in the party of the independents and other sectaries &hellip; [who] were masters during the late troubles &hellip; they are strong in London &hellip; and it is through the intrigues of &hellip; Sidney that one of the two sheriffs, named Bethel, has been elected. (TNA: PRO, Baschet correspondence, 147, 402&#150;3)</blockquote>In 1679 the post-Danby court was dominated by two nephews of Sidney's, Halifax and Sunderland, and one cousin, Essex. Over the following five years close relationships with the former two gave way to a treasonable partnership with the latter. Until 1681 the other aspect of Sidney's personal political involvement was parliamentary. Despite his earlier promise to the king to steer clear of politics, he stood as a candidate in all three parliamentary elections of this period. His ally in these campaigns was the Quaker William Penn, to whom he may have been introduced by their mutual friend Benjamin Furly. Despite an apparent victory at Amersham in August 1679 described by William Harrington as &#145;the most remarkable thing about the[se] elections&#146;  (<span class="italic">Fitzherbert MSS</span>, 19), the result was disputed. A by-election was ordered in December 1680, the result of which was never adjudged by the interrupted Oxford parliament. Accordingly Sidney's influence upon the parliamentary campaign of this period was wielded primarily through his close friendship with the person who emerged as the leader of the House of Commons by late 1680: Sir William Jones. Following the king's dissolution of his last parliament at Oxford in April 1681 <span class="italic">A Just and Modest Vindication of the Proceedings of the Two Last Parliaments</span> (1681), called by Burnet &#145;the best writ paper in all that time &hellip; was at first penned by Sidney &hellip; and corrected by Jones&#146;  (<span class="italic">Burnet's History</span>, 2.276&#150;7).<h2>
+<a name="Discourses16811683"></a>Discourses, 1681&#150;1683</h2>Many echoes of the <span class="italic">Vindication</span> appear in Sidney's <span class="italic">Discourses Concerning Government</span>, written between 1681 and 1683. Although long and sometimes repetitive the <span class="italic">Discourses</span> places Sidney alongside Milton as the master of republican eloquence. It is the power of its prose, as much as any aspect of its content, which helps to account for the work's exceptional subsequent impact in Britain, continental Europe, and America. Polemically a refutation of Sir Robert Filmer's <span class="italic">Patriarcha</span> (1680), the practical purpose of the <span class="italic">Discourses</span> is again to argue for armed resistance to oppression.<blockquote>If the laws of God and men are therefore of no effect, when the magistracy is left at liberty to break them, and if the lusts of those, who are too strong for the tribunals of justice, cannot otherwise be restrained, than by seditions, tumults, and war, those seditions, tumults and wars, are justified by the laws of God and man &hellip; they who deny this deny all help against an usurping tyrant, or the perfidiousness of a lawfully created magistrate, who adds the crimes of ingratitude and treachery to usurpation. (Sidney, <span class="italic">Discourses</span>, in <span class="italic">Works</span>, 188, 193&#150;4)</blockquote>Beyond this task, which includes the only explicit seventeenth-century defence of &#145;rebellion&#146;, both word and thing, the <span class="italic">Discourses</span> has three notable features. One is the most sustained English development of Machiavelli's republican militarism: &#145;when a people multiplies, as they will always do in a good climate under a good government, such an enlargement of their territory, as is necessary for their subsistence, can only be acquired by war&#146;  (ibid., 178&#150;9). The second is its related defence of change.<blockquote>Changes are &hellip; unavoidable &hellip; To affirm [otherwise] &hellip; is no less than to render the understanding given to men utterly useless &hellip; whatever we enjoy, beyond the misery in which our barbarous ancestors lived, is due only to the liberty of correcting what was amiss in their practice, or inventing that which they did not know. (ibid., 304&#150;5, 404)</blockquote>The third is its defence of the principles (liberty, reason, and virtue) informing that classical moral philosophy which established the necessity of republican political architecture. Finally the <span class="italic">Discourses</span>, like the <span class="italic">Court Maxims</span>, was a defence of something going on in Sidney's life in practice. This was that self-defence of protestants, against persecution and popery, in which his ancestors had long been involved, and which had once again become necessary in England following the loyalist reaction.<h2>
+<a name="Imprisonmenttrialandexecution"></a>Imprisonment, trial, and execution</h2>From February 1683, following the death of the earl of Shaftesbury, Sidney and his friends, the younger John Hampden, the earl of Essex, and Lord Howard, became involved in treasonable discussions with Shaftesbury's associates Lord Russell and the duke of Monmouth. As in 1665 Sidney's plan was for a &#145;war in both kingdoms&#146;, beginning this time with a rebellion by the persecuted godly people of Scotland, which would, as in 1640, force the summoning of an English parliament upon a militarily ineffective arbitrary monarch. When the legal crackdown began in mid-1683 Sidney's arrest warrant was the first to be issued, on June 25. During the arrest a copy of the <span class="italic">Discourses</span> was discovered in his house and also taken into custody. Alongside an embellished subsequent &#145;confession&#146; by Howard, the government lacked a second witness to Sidney's treason. There followed several months in the Tower while it attempted to construct a case.<br>
+<br>During this period Sidney wrote a series of letters to his fellow prisoner John Hampden. These stressed the innocence of their actions, involving nothing<blockquote>which doth not agree with the Character of gentleman and Christian &hellip; Somme say the protestants of Holland, France, or &hellip; Piedmont were guilty of treason, in bearing arms against their princes, but [this] is ridiculous &hellip; when it is certaine, they sought noe more than the security of their own lives. (E. Sussex RO, Glynde Place MS 794, letter 1, 6 October)</blockquote>They made detailed preparations for any future trial, &#145;confident&#146;, however, in the absence of a second witness, &#145;that such rules being observed as the law requires, it is not possible to bring us into danger, though they could bring Jezabel's witnesses from hell to strengthen the Ld Ho[wa]rds testimony&#146;  (ibid., letter 7). This confidence disappeared in late October when an application by the prisoners for release under the provisions of the <span class="roman">Habeas Corpus Act</span> forced the government to determine its legal strategy. This was, remarkably, to use the manuscript <span class="italic">Discourses</span> as the second witness against Sidney: in the famous ruling of Lord Chief Justice Jeffreys: &#145;Scribere est agere&#146; (&#145;to write is to act&#146;). &#145;I could hardly believe he had said this&#146;, recorded Burnet, &#145;till I read it in the Printed Tryall&#146;  (BL, Add. MS 63057, 2.158).<br>
+<br>Sidney was arraigned on 7 November and tried, amid great public interest, on 21 November. His defence was legally weak, but politically extremely effective. At the insistence of his counsel his defence depended upon the attempt to deny authorship of words and actions which he would rather have owned. In practice the defence strategy may have been almost powerless to affect the outcome, given the role being played in this crisis by treason trials in general, and by politically selected juries in particular. Of this fact, as Jeffreys pointed out, Sidney was more aware than anyone, having earlier helped his friends Sheriff Bethel and Attorney-General Jones to develop this system. Under these circumstances, given his inability to save his life, his achievement became to expose as much as possible of what was taking place in order to do the government lasting harm. He drew attention to the political selection of the jury, to his own aristocratic ancestry, and to the extraordinary invocation of the death sentence for possession of an unpublished manuscript. While giving a fine display of stoic indifference to his personal fate, he raised a series of procedural objections, drawing attention to the wider fate of later Stuart political legality. Throughout the trial and at the arraignment he confronted the lord chief justice personally, depicting him as a social inferior and an irascible bully (&#145;Lest the means of destroying the best protestants in England should fail, the bench must be filled with such as had been blemishes to the bar&#146;  (Sidney, <span class="italic">Paper Delivered to the Sheriffs</span>, in <span class="italic">Works</span>). Thus if &#145;The scandale of this Tryall was so gross that I never met with a man that offered to defend it&#146;  (BL, Add. MS 63057, 2.158); if it laid the basis for the subsequent fame both of the <span class="italic">Discourses</span> and its author; and if the execution which followed was the last in this series for this reason, these were largely Sidney's personal achievements. As his uncle Halifax said two years later: &#145;Westminster Hall might be said to stand upon its head &hellip; when the reason of him that pleads is visibly too strong for those who are to judge and give sentence&#146;  (H. C. Foxcroft, <span class="italic">The Life and Letters of George Savile, Bart., First Marquis of Halifax</span>, 2 vols., 1898, 2.285&#150;6).<br>
+<br>Between sentence, passed on 26 November, and his execution, on 7 December, Sidney extended this public campaign. His <span class="italic">Apology</span> elaborated the case against the trial and set it in the context of his lifelong struggle<blockquote>to uphold the Common rights of mankind, the lawes of this land, and the true Protestant religion, against corrupt principles, arbitrary power and Popery &hellip; I doe now willingly lay down my life for the same; and having a sure witness within me, that God doth &hellip; uphold me &hellip; am very littell sollicitous, though man doth condemne me. (Sidney, <span class="italic">Apology</span>, in <span class="italic">Works</span>)</blockquote>Finally his paper delivered to the sheriffs on the scaffold sensationally owned the principles informing the <span class="italic">Discourses</span>. Having given the <span class="italic">Apology</span> to his servant Joseph Ducasse for transmission to posterity, he made sure to consign copies of the paper &#145;to my friends&#146;. Within a few days &#145;the Town was full of written copys&#146;  (BL, Add. MS 63057, 2.158&#150;9) and the government was forced to accede to a publication which attracted many replies. Sidney was beheaded on Tower Hill on the morning of 7 December 1683. On the scaffold he explained that he had come &#145;not to talk, but die &hellip; I have nothing to say to men&#146;  (<span class="italic">Account &hellip; of what Passed at Algernon Sidney's Execution</span>, 1683). The following day the king gave permission for his burial in &#145;the sepulchar of his family&#146; in the parish church at Penshurst  (<span class="italic">CSP dom.</span>, <i>1683&#150;4</i>, 138).<h2>
+<a name="Biographicalfortuneandhistoricalsignificance"></a>Biographical fortune and historical significance</h2>During his heyday as a whig patriot&#150;hero and martyr Sidney was the subject of many biographies, some appended to editions of the <span class="italic">Discourses</span> (of which there were at least fourteen between 1698 and 1805). That of G. W. Meadley, <span class="italic">Memoirs of Algernon Sidney</span> (1813), may be considered the best, and the fullest A. C. Ewald, <span class="italic">The Life and Times of Algernon Sidney</span> (2 vols., 1873). From 1885 he disappeared from view until in 1945 and 1947 two American scholars, Zera Fink and Caroline Robbins, laid the basis of twentieth-century interest in his political writings. Since 1985 a dramatic resurgence of work on both his life and thought has yielded six books and many articles, among which Blair Worden's &#145;The Commonwealth Kidney of Algernon Sidney&#146; (published in the <span class="italic">Journal of British Studies</span>, 24, 1985) was the first, and Jonathan Scott's two-volume study is the most comprehensive. With this have come numerous manuscript discoveries including that of the <span class="italic">Court Maxims</span>.<br>
+<br>It owed much to the high profile given to the <span class="italic">Discourses</span> by Sidney's martyrdom that for subsequent influence in Enlightenment Britain, America, the United Provinces, Germany, and France he had no seventeenth-century rival except John Locke. For modern scholars his claim to a major place among early modern political writers rests upon two foundations. The first, alongside Locke, is as one of the two pre-eminent seventeenth-century English resistance theorists, a status underlined by the recovery of the <span class="italic">Court Maxims</span>. The other is as the most influential of the English republicans. In particular his works exemplify two features of seventeenth-century English republicanism. The first is its debt, within a religious framework, to the moral philosophy of Greek antiquity (its Christian humanism). The second is its Machiavellian and Roman militarism.<br>
+<br>Jonathan Scott </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Sidney, <i>Sydney on government</i><i>: the works of Algernon Sydney</i>, ed. J. Robertson (1772) [incl. <i>Discourses concerning government</i>; <i>The apology of Algernon Sydney in the day of his death</i>; <i>The arraignment, trial and condemnation of Algernon Sydney</i>; <i>The very copy of a paper delivered to the sheriffs</i>; &#145;Letters of Algernon Sydney taken from the Sydney Papers&#146;; &#145;Letters of Algernon Sydney taken from the state papers of John Thurloe&#146;; &#145;Letters to Henry Savile jnr&#146;] &middot; A. Sidney, <i>Court maxims</i>, ed. H. Blom, E. H. Mulier, and R. Janse (1996) &middot; J. Scott, <i>Algernon Sidney and the English republic, 1623&#150;1677</i> (1988) &middot; J. Scott, <i>Algernon Sidney and the Restoration crisis, 1677&#150;1683</i> (1991) &middot; H. Sydney and others, <i>Letters and memorials of state</i>, ed. A. Collins, 2 vols. (1746) &middot; <i>Report on the manuscripts of Lord De L'Isle and Dudley</i>, 6 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=HMC')">HMC</a>, 77 (1925&#150;66) &middot; R. Blencowe, ed., <i>Sydney papers</i> (1825) &middot; A. Sidney, letters, 1683, E. Sussex RO, Glynde Place archives, no. 794 &middot; CKS, De Lisle papers &middot; T. Forster, ed., <i>Original letters of Locke, Algernon Sidney, and Anthony Lord Shaftesbury</i> (1830) &middot; &#145;Lantiniana&#146;, Biblioth&egrave;que Nationale, Paris, Fr MS 23254 &middot; TNA: PRO, Baschet correspondence 31/3, nos.125, 140&#150;56 &middot; <i>Bishop Burnet&#146;s History of his own time</i><i>: with the suppressed passages of the first volume</i>, ed. M. J. Routh, 6 vols. (1823) &middot; transcript of Burnet's &#145;History&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 63057, 2 vols. &middot; Sidney MSS, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 32680 &middot; E. Ludlow, &#145;A voyce from the watch tower&#146;, Bodl. Oxf., MS Eng. hist. c. 487 &middot; A. Sidney, &#145;The character of Henry Vane jnr&#146;, in V. A. Rowe, <i>Sir Henry Vane the younger</i><i>: a study in political and administrative history</i> (1970), appx F &middot; J. Dalrymple, <i>Memoirs of Great Britain and Ireland</i>, 3 vols. (1771&#150;8), vol. 2, appx &middot; Algernon Sidney chancery pleading, TNA: PRO, C7 327/50 &middot; [A. Sidney and W. Jones], &#145;A just and modest vindication of the proceedings of the two last parliaments&#146; (1681), 4 <i>State tracts of the reign of Charles II</i>  (1689), 4, appx 15 &middot; correspondance politique, Angleterre, Archives du Minist&egrave;re des Affaires &Eacute;trang&egrave;res, Paris &middot; Algernon Sidney to Monsieur Bafoy, Archives Nationales, Paris, R2/82 &middot; B. Whitelocke, <i>Memorials of English affairs</i>, new edn, 4 vols. (1853) &middot; <i>The journal of Edward Mountagu, first earl of Sandwich, admiral and general at sea, 1659&#150;1665</i>, ed. R. C. Anderson, Navy RS, 64 (1929) &middot; <i>The secret history of the Rye-House plot</i><i>: and of Monmouth's rebellion</i> (1754) &middot; B. Haydon, &#145;Algernon Sidney, 1623&#150;83&#146;, <em>Archaeologia Cantiana</em>, 76 (1961), 110&#150;33 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1683&#150;4</i>, 138 &middot; <i>Report on the manuscripts of the earl of Egmont</i>, 2 vols. in 3, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=HMC')">HMC</a>, 63 (1905&#150;9) &middot; <i>The manuscripts of Sir William Fitzherbert &hellip; and others</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=HMC')">HMC</a>, 32 (1893)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=S.%20Antiquaries%2C%20Lond.')">S. Antiquaries, Lond.</a>, MS notes
+   &middot;
+ Sevenoaks Library, Kent, MSS&nbsp;|&nbsp; Chatsworth House, Derbyshire, Halifax collection, A.1&#150;14
+   &middot;
+ Chatsworth House, Derbyshire, letters to Henry Savile
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=CKS')">CKS</a>, letters to his father
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=CKS')">CKS</a>, De Lisle MSS
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=E.%20Sussex%20RO')">E. Sussex RO</a>, Glynde Place archives, letters to John Hampden, no. 794
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, chancery court pleadings, C5&#150;C10
+   &middot;
+ Yale U., Beinecke L., letters to Benjamin Furly<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> I. W., oils, 1647; Sothebys, 14 March 1990 &middot; J. Hoskins, miniature, 1659, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=FM%20Cam.')">FM Cam.</a> &middot; J. Van Egmont, oils, 1663, Penshurst Place, Kent; copy, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; G. Bower, silver medal, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25519&amp;istheme=&amp;target=BM')">BM</a> &middot; J. Hoskins, miniatures, Buccleuch estates, Selkirk &middot; attrib. J. Van Egmont, portrait; Christies New York, August 2002 [<i>see illus.</i>] &middot; oils, Anglesey Abbey, Cambridgeshire<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> estate forfeit to crown upon conviction for treason 1683; last known letter, written between 22 and 25 Nov 1683, enclosed gifts totalling &pound;1883 to an unidentified &#145;dear friend and kinsman&#146;: Glynde Place archives no. 794, letter 10, E. Sussex RO<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jonathan Scott, &#145;<span class="roman"><span class="headword">Sidney ,  Algernon</span>  (1623&#150;1683)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/25519, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Algernon Sidney (1623&#150;1683): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25519 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/25519/2007-10"> [Previous version of this biography available here: October 2007]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 93077;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/93/93077-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/93/93077-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=93077#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Godwin <span class="st"> [Godwyn]</span>,  Matthew</span>  (1569?&#150;1587), <span class="occ">organist and choirmaster</span>, was probably born in July 1569. Although Godwin's parentage is uncertain, it seems likely that he was a close relative of Thomas Godwin (1517&#150;1590), dean of Canterbury Cathedral (1567&#150;84), and therefore also of Thomas's second son, Francis (1562&#150;1633), subdean of Exeter Cathedral (1587&#150;1601) and later bishop of Hereford. There are two reasons for suggesting such a relationship. First, Dean Godwin was given to finding cathedral posts for his family (his eldest son, Thomas, for instance, was made a porter). Second, Francis, like Matthew, had connections with Exeter Cathedral and according to the Oxford historian Anthony Wood &#145;omitted no opportunity in disposing of his preferments, in order to provide for his children&#146;  (Payne, &#145;Two early organists&#146;, 133). Francis, who was collated subdean of Exeter in 1587, could not have been Matthew's father, but may well have been his brother if Matthew was one of the three younger sons of Dean Godwin and his wife, Isabel, <i>n&eacute;e</i> Purfrey.<br>
+<br>Dean Godwin appears to have encouraged some expansion of Canterbury Cathedral's musical resources in the 1560s. The chapter's resolution on 15 February 1584 (not 20 January as is sometimes stated), &#145;that Mathew Godwyn shall be joyned in patent wyth Mr William Selbye yn his office of th'organyst and master of the children&#146;  (Payne, &#145;Two early organists&#146;, 134), was something of a gamble, for Godwin was not yet fifteen years old. To make matters worse, the semi-retirement of the aged incumbent, William Selby, who had held office since about 1541 when Thomas Tallis was briefly a lay clerk at the cathedral, had led to a period of instability in the musical establishment and a flurry of short-lived masters of the choristers. Four months later Selby was dead, and some time between 20 and 25 June 1584 Godwin received a new patent:<blockquote>Item: where Mathew Godwyn was lately joyned [in] patente with William Selby decessed in the office [of] organyst and master of the children &hellip; yt ys agreed that an other patent shall be made &hellip; to the said Mathew in such forme as the sayd Selby late had the same. (ibid.)</blockquote>During his four-month apprenticeship to Selby it is not known whether the young Godwin simply played the organ, or, if warranted by Selby's infirmity, he discharged the full range of duties. There is no means of assessing Godwin's success when he took over from Selby; but when Dean Godwin was made bishop of Wells in late 1584, Matthew was soon after sent to the provinces, perhaps to widen his experience.<br>
+<br>Godwin's next step was to obtain a university degree. The Oxford University register states that on 2 July 1585 he supplicated for, and on 14 July proceeded to, the degree of bachelor of music claiming, somewhat generously, that he had studied the subject for twelve years. At Oxford, seven years was the normal minimum period of study for the BMus, the candidate being required to compose as his &#145;exercise&#146; a motet or anthem for five voices (<i>canticum quinque partium</i>) and supervise its performance. However, the actual requirements for this degree varied widely at the time of Godwin's candidature, and there is no mention in the grace for his degree that he was expected to compose anything. In a brief note on Godwin (whose graduation he dated to 24 July 1585), Anthony Wood implied that little was known of Godwin the musician: &#145;whether he hath published any matters relating to the fac[ulty] of music&#146;, he wrote, &#145;I know not&#146;  (Wood, 230). Perhaps on account of his extreme youth, and in contrast to the more famous adolescent English music graduate, Thomas Ravenscroft, no musical compositions or theoretical writings by Godwin are known to be extant.<br>
+<br>Although the date of Matthew Godwin's departure from Canterbury is unknown, the <i>terminus ante quem</i> of his migration to Exeter may be fixed with some precision, thanks to the chance survival of a selection of extracts from missing chapter acts assembled for legal proceedings in the court of arches in 1607. According to a selective list of staff admissions and deprivations, Godwin was formally admitted to the office of organist at Exeter on 13 May 1586  (Devon RO, CC181/5a, fol. lv). However, he had less than a year to enjoy his new appointment before his death (12 January 1587), and is not mentioned again in the extant cathedral archives. Ironically, the final record of his career is also the most informative: the beautiful monument, in colour, situated under the north tower of the cathedral, shows the youth in academic dress, kneeling in prayer before an organ. It is accompanied by a Latin text that reads in translation: &#145;Erected by G: M: ER: to the everlasting memory of Matthew Godwin, a good, gentle, clever youth, bachelor of music, most worthy and expert chief musician of the Cathedral Churches of Canterbury and Exeter. He lived 17 years and 5 months, and departed hence to heaven on 12 January 1586 [i.e. 1587 <span class="smallcap">NS</span>]&#146;  (Shaw, 108). Godwin was formally succeeded at Exeter, as he had been at Canterbury, by Arthur Cocke, who was granted the office of organist on 19 April 1589.<br>
+<br>Ian Payne </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. W. Shaw, <i>The succession of organists of the Chapel Royal and the cathedrals of England and Wales from c.1538</i> (1991), 44&#150;5, 107&#150;8 &middot; I. Payne, &#145;Two early organists of Exeter Cathedral: Matthew Godwin and Arthur Cocke&#146;, <em>Devon and Cornwall Notes and Queries</em>, 35 (1982&#150;6), 133&#150;42 &middot; I. Payne, <i>The provision and practice of sacred music at Cambridge colleges and selected cathedrals, c.1547&#150;c.1646</i> (1993), 233 &middot; R. Bowers, &#145;The liturgy of the cathedral and its music, <i>c.</i>1075&#150;1642&#146;, <i>A history of Canterbury Cathedral, 598&#150;1982</i>, ed. P. Collinson and others (1995), 408&#150;50 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=93077&amp;istheme=&amp;target=Reg.%20Oxf.')"><i>Reg. Oxf.</i></a>, 2/1.145&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=93077&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.%3A%20Fasti')">Wood, <i>Ath. Oxon.</i>: <i>Fasti</i></a> (1815), 1.230<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> memorial, <i>c.</i>1587, Exeter Cathedral<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ian Payne, &#145;<span class="roman"><span class="headword">Godwin ,  Matthew</span>  (1569?&#150;1587)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Oct 2005 [http://www.oxforddnb.com/view/article/93077, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Matthew Godwin (1569?&#150;1587): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/93077 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

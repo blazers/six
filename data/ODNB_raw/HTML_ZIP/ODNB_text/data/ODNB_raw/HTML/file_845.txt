@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 845;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/845-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/845-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=845#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Atkinson,  Henry</span>  (1781&#150;1829), <span class="occ">mathematician and astronomer</span>, was born on 28 June 1781 at West Harle, Northumberland, the son of Cuthbert Atkinson, a schoolmaster, and his wife, Elizabeth. He was educated by his father, who ran a number of schools in small towns in Northumberland, and at an early age he began to help him run Bavington School. When he was thirteen his father, considering him capable of managing that school, resigned it to his charge, and opened another at West Woodburn. These two schools were superintended by father and son alternately. When he was about sixteen his father and he left the school at Bavington and opened another at West Belsay, which they continued to superintend alternately with the school at Woodburn. Atkinson afterwards moved to Stamfordham, where he kept a school, together with his sister, for more than six years. Then, with his sister, he moved to the adjoining village of Hawkwell. Finally, on 14 November 1808, he settled in Newcastle upon Tyne, where he spent the rest of his life.<br>
+<br>In Newcastle, Atkinson was a highly successful teacher of mathematics, and became active in pursuing his research interests in mathematics and astronomy. He read many papers to the Newcastle Literary and Philosophical Society, of which he became a member in June 1809, notably &#145;A new method of extracting the roots of equations of the higher orders&#146; (1809, recounting a discovery he claimed to have made in 1801), &#145;An essay on proportion&#146; (1811), and &#145;On the difference between the followers of Newton and Leibnitz concerning the measure of forces&#146; (1814). His sustained interests in astronomical research produced papers, <i>inter alia</i>, on &#145;The eclipses of Jupiter's satellites and on the mode of determining the longitude by these means&#146; (1810), on the comet of 1811 (1813), and on &#145;The possibility and &hellip; consequences of the lunar origin of meteoric stones&#146; (1815). Two of his papers, &#145;On the utility and probable accuracy of the mode of determining the sun's parallax by observations on the planet Mars near his opposition&#146; and &#145;An essay on astronomical and other refraction&#146;, were submitted to the Astronomical Society of London and published in their journal (<span class="italic">Memoirs of the Astronomical Society of London</span>, 2, 1826, 27&#150;36, 137&#150;260).<br>
+<br>In December 1822 Atkinson married Isabella, the daughter of John Riddell and the sister of the mathematician Edward Riddle, who until 1821 had been master of the Trinity House School, Newcastle. They had one son and two daughters. In 1823 Atkinson was unsuccessful in his candidacy for the mathematical mastership of Newcastle grammar school, an event which led to much local controversy and was attributed by some to his dissenting religious and political views. In the following year he also failed in his candidacy for the mathematical mastership at the Edinburgh Academy.<br>
+<br>An energetic researcher, Atkinson also read papers to the Literary and Philosophical Society on issues in economics, engineering, and metaphysics. Some of his papers were published in the <span class="italic">Newcastle Magazine</span>, of which he was mathematical editor for a number of years. In 1827 he delivered a course of lectures on astronomy to both the society and the mechanics' institute. He served on the committee of the society from 1817 to 1828 and was an active contributor of solutions to the mathematical problems in the <span class="italic">Gentleman's Diary</span> and the <span class="italic">Ladies' Diary</span>. He was also a leading figure in the Newcastle Unitarian church and a close friend of its controversial minister, William Turner. He died of lung disease at his home in Saville Row, Newcastle, on 31 January 1829, and was buried in St Andrew's churchyard.<br>
+<br>Joseph Gross </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. White, &#145;Memorials of the life of Henry Atkinson&#146;, <i>The local historian's table book &hellip; legendary division</i>, ed. M. A. Richardson, 3 (1846), 363&#150;75 &middot; R. Welford, <i>Men of mark 'twixt Tyne and Tweed</i>, 3 vols. (1895) &middot; M. A. Richardson, ed., <i>The local historian's table book &hellip; historical division</i>, 5 vols. (1841&#150;6), vol. 4 &middot; D. Orange, &#145;Rational dissent and provincial science: William Turner and the Newcastle Literary and Philosophical Society&#146;, <i>Metropolis and province</i><i>: science in British culture, 1780&#150;1850</i>, ed. I. Inkster and J. Morrell (1983), 205&#150;30 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=845&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Joseph Gross, &#145;<span class="roman"><span class="headword">Atkinson,  Henry</span>  (1781&#150;1829)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/845, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Henry Atkinson (1781&#150;1829): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/845 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

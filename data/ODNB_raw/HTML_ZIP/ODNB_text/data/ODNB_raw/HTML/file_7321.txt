@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7321;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7321-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7321-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7321#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Davy,  William</span>  (1744&#150;1826), <span class="occ">theologian</span>, son of Francis and Mary Davy, was born at Downhouse in the parish of Tavistock, Devon, on 4 March 1744. He was baptized on 27 April 1744 at the Presbyterian Abbey Chapel in Tavistock. He was educated at the Exeter Free Grammar School and, from 1762, at Balliol College, Oxford, where he graduated BA on 28 May 1766. After leaving the university he was ordained on the curacy of Moretonhampstead, Devon, where he married Sarah Gilbert, daughter of Mr W. Gilbert of Longbrooke, near Kingsbridge, on 15 June 1768. They had two daughters and one son. He next became curate of Drewsteignton, and in 1786 was appointed curate of Lustleigh, with a yearly stipend of &pound;40.<br>
+<br>In 1785&#150;6 he published a <span class="italic">System of divinity, in a course of sermons, on the being, nature, and attributes of God; on some of the most important articles of the Christian religion; and on the virtues and vices of mankind</span>, which was printed by R. Trewman of Exeter in six volumes. His systematic compilation of sermons by many different authors was judged to be a practical and acceptable collection by the <span class="italic">Monthly Review</span>. He had been encouraged to bring out this work by a long list of subscribers, but because many of them neglected to pay their subscriptions, the actual receipts were far less than the expenses, and the author found himself owing the printer more than &pound;100. He none the less determined to extend the work to twenty-six volumes, and being unable to risk a second loss he resolved to print the book himself.<br>
+<br>Davy was a skilled mechanic. After the sinking of the <i>Royal George</i> in Portsmouth harbour in 1782 he had travelled there with the plan of a diving bell to recover the property sunk in her; but although the plan was afterwards acted upon with considerable success, he received no remuneration. He used his mechanical skills to construct a press of an unusual design; then he bought some old types at a cheap rate from the printer R. Trewman, and in five months, by his own manual labour, produced forty copies of a specimen volume, consisting of 328 pages, besides prefatory matter. He sent twenty-six of these specimen volumes to the universities of Oxford and Cambridge, the Royal Society, the editors of several reviews, and to others who he thought might help him publish the whole work. He was bitterly disappointed. The <span class="italic">British Critic</span> gave a very favourable notice of the book, but this praise produced no other encouragement. William Enfield, writing in the <span class="italic">Monthly Review</span>, acknowledged that the project was a laudable undertaking but advised Davy to abandon it because, without financial support, &#145;his type is too bad, and his skill in the art of printing too defective, to leave him any hope of sending out the work with credit from his own press&#146;  (<span class="italic">Monthly Review</span>, 2nd ser., 18.268&#150;9). Few of those to whom he presented the specimen volume even acknowledged its receipt. He sought in vain the patronage of three successive bishops of Exeter&#151;Ross, Buller, and Courtenay&#151;and of Archbishop Moore and Bishop Porteus, but these prelates sent no financial assistance and declined to accept a dedication from him. Bishop Buller would not look at the specimen volume.<br>
+<br>In spite of these discouragements Davy, having fourteen copies remaining, recommenced his labours and taught his servant Mary Hole to compose the types; he patiently proceeded, with her assistance, to print fourteen copies of the other twenty-five volumes, each containing about 500 pages, completing the herculean task in 1807. Copies of this extremely curious <span class="italic">System of Divinity</span> are preserved in the Bodleian Library at Oxford, the Cambridge University Library, the London Institution, and the cathedral library, Exeter. The West Country Studies Library in Exeter has three sets, including Davy's own copy, as well as a three-volume manuscript list of contents (1816) and twelve volumes of &#145;Sermons on Various Subjects&#146;, also in manuscript. At first Davy could only afford sufficient type to print one page at a time. Numerous notes and amendments were accommodated on printed or manuscript slips carefully pasted in and folded. Sir Robert Harry Inglis, who presented a copy of the work to the British Library, considered it to be &#145;perhaps unparalleled in any age or country, as an effort of the combined skill, industry, and perseverance of one man, undaunted by age, poverty, and forty years of neglect&#146;  (R. H. Inglis to A. Panizzi, bound into the British Library copy of <span class="italic">A System of Divinity</span>, vol. 1, 1795, Cup.408.g.1). From 1818 Davy resided at Willmead, a small farm belonging to his son, but he continued to hold the curacy of Lustleigh.<br>
+<br>Besides his great work Davy printed in the same way a volume of extracts from it under the title <span class="italic">Divinity, or, Discourses on the being of God, the divinity of Christ, the personality and divinity of the Holy Ghost, and on the sacred Trinity</span> (1825). After considerable additions had been made to these discourses, a neat edition of them was published in 1825 at Exeter by Featherstone and Sparke in two volumes. Dr Pelham, bishop of Exeter, now tardily recognized the author's merits, and in December 1825 he presented Davy, then aged eighty-one, to the vicarage of Winkleigh, Devon. He held the benefice only about five months, and died in Winkleigh on 15 June 1826; he was buried in the chancel of Winkleigh church on 17 June. Despite his modest wealth he had presented a set of communion plate to Lustleigh church in 1822 and endowed a school in the parish, which opened in 1825.<br>
+<br>Thompson Cooper<span class="italic">, rev. </span> Ian Maxted </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>U. Radford, &#145;William Davy, priest and printer&#146;, <em>Report and Transactions of the Devonshire Association</em>, 63 (1931), 325&#150;39 &middot; C. Davy, &#145;Life&#146;, in W. Davy, <i>Divinity</i> (1827), vol. 1 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7321&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 95/2 (1825), 441&#150;3, 617 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7321&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 96/2 (1826), 88&#150;9 &middot; C. Torr, <i>Small talk at Wreyland</i>, 1 (1918), 32&#150;35; 3 (1923), 40&#150;41 &middot; S. Baring-Gould, <i>Devonshire characters and strange events</i> (1908), 123&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7321&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7321&amp;istheme=&amp;target=IGI')"><i>IGI</i></a> &middot; <em>Monthly Review</em>, 76 (1787), 473&#150;4 &middot; <em>Monthly Review</em>, new ser., 18 (1795), 268&#150;9 &middot; R. H. Inglis, letter to A. Panizzi, BL, Cup.408.g.1 [bound inside copy of W. Davy, <i>A system of divinity</i>, 1 (1795)]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Exeter Central Library, West Country Studies Library, sermons on various subjects, index to <i>System of divinity</i>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. Cooper, line engraving (aged eighty-two; after painting by W. Sharland), repro. in Davy, <i>Divinity</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Thompson Cooper, &#145;<span class="roman"><span class="headword">Davy,  William</span>  (1744&#150;1826)</span>&#146;, rev. Ian Maxted, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/7321, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Davy (1744&#150;1826): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7321 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

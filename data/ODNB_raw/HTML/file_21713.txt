@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 21713;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/21/21713-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/21/21713-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=21713#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pearson,  George</span>  (<em>bap. </em>1751, <em>d.</em> 1828), <span class="occ">physician and chemist</span>, the son of John Pearson, an apothecary, was baptized in Rotherham, Yorkshire, on 4 September 1751. After attending Doncaster grammar school he studied medicine at Edinburgh University from 1770 to 1774, graduating MD in 1773. He also studied chemistry under Joseph Black. After a short period at St Thomas's Hospital in London, he spent about two years in Europe. Pearson was married, and the father of at least two daughters. His eldest daughter, Frances Priscilla, married Sir John Dodson (1780&#150;1858). Pearson became a licentiate of the Royal College of Physicians in 1784, and in 1787 was appointed chief physician at St George's Hospital, London, where he lectured on chemistry, materia medica, and therapeutics. He became a fellow of the Royal Society in 1791 and was for several years a member of the council. From 1792 Pearson lectured in chemistry in his laboratory at Wilcomb Street, London, and in physic at 9 Great George Street, Hanover Square, London.<br>
+<br>During a visit to Europe in 1805&#150;6 Benjamin Silliman, the American chemist and geologist, met Pearson and breakfasted with him and his family. However, he remarked that he felt &#145;out of place&#146; in Pearson's company. Pearson was courteous, but apparently careless of his appearance. Silliman attended a lecture by Pearson which, he said, lasted two and a quarter hours without a break. &#145;There was no interval for breathing or for a gentle transition to a new subject. This mental repletion was not favourable to intellectual digestion.&#146; He also commented on the paucity of apparatus in Pearson's lecture rooms, which he described as shabby and ill-furnished. Pearson's experiments, Silliman continued, were not well performed  (G. P. Fisher, 1.144&#150;5).<br>
+<br>Notwithstanding this impression, Pearson seems to have been a competent chemist. His contributions to chemistry are not much mentioned in histories of the subject, but they were not trivial. On investigating James's Powder, a popular febrifuge which had made a fortune for Robert James, he found it to be a mixture of bone ash and antimony oxide  (&#145;Experiments and observations to investigate the composition of James's Powder&#146;, <span class="italic">PTRS</span>, 81, 1791, 317&#150;67). Extending the work of Smithson Tennant, who had shown that carbon was obtained on strongly heating powdered marble (calcium carbonate) with phosphorus, Pearson found that sodium carbonate could be similarly decomposed. By heating quicklime (calcium oxide) with phosphorus he discovered calcium phosphide, and observed the spontaneous combustion in air of the gas (phosphine) that was generated when he added water to this compound. Phosphine had been first discovered by Gengembre, an almost unknown chemist, in 1783, but as yet was little known  (&#145;Experiments made with the view of decompounding fixed air, or carbonic acid&#146;, <span class="italic">PTRS</span>, 82, 1792, 289&#150;308).<br>
+<br>In 1789 Adriaan van Troostwijk and Jan Deiman had succeeded in decomposing water by frictional electricity. Pearson, in collaboration with John Cuthbertson, who had assisted the Dutch chemists and constructed their apparatus, improved on their results in being able to show more convincingly that the gases obtained were hydrogen and oxygen  (&#145;Experiments and observations made with the view of ascertaining the nature of the gas produced by passing electric discharges through water&#146;, <span class="italic">Journal of Natural Philosophy, Chemistry and the Arts</span>, 1, 1797, 241&#150;8, 299&#150;305, 349&#150;55; abstract in <span class="italic">PTRS</span>, 87, 1797, 142&#150;58).<br>
+<br>Most of Pearson's other writings are on medical matters, several being devoted to investigating certain body fluids which occurred as a result of disease. Undoubtedly, in the history of chemistry, Pearson's most important work was his introduction into Britain of the new systematic nomenclature (the basis of the modern nomenclature in inorganic chemistry), devised by a group of French chemists, headed by Antoine Lavoisier, the man Pearson referred to as &#145;the immortal, and ever to be deplored Lavoisier&#146;  (Lawrence, 311). Pearson was one of the first British chemists to accept Lavoisier's oxygen theory of combustion, in place of the current theory of phlogiston. A feature of Lavoisier's <span class="italic">M&eacute;thode de nomenclature chimique</span> (1787) was a large folding sheet which listed in adjoining columns the current names of all known substances, and their proposed new names. Pearson published a translation of this, with additions and an explanatory text. He adopted the term &#145;nitrogen&#146; (from &#145;nitrog&egrave;ne&#146;, suggested by J. A. Chaptal in 1790) in preference to &#145;azote&#146;  (<span class="italic">A Translation of the Table of Chemical Nomenclature</span>, 1794; 2nd edn with additions, 1799).<br>
+<br>Pearson was one of the first physicians to express approval of the initiation by Edward Jenner of vaccination. Pearson collected a number of instances of an apparent immunity to smallpox of anyone who had contracted cowpox, and published them in his <span class="italic">An inquiry concerning the history of the cow pox, principally with a view to supersede and extinguish the small pox</span> (1798). In it he disclaimed any honour for the innovation, which he said belonged exclusively to Jenner.<br>
+<br>Subsequently, however, it became clear that Pearson was intent on claiming undue credit for this historic step in preventive medicine. In December 1799, he opened, without informing Jenner of his intention, an institute for vaccination, which he was to head, at 5 Golden Square. Though Pearson shortly afterwards invited Jenner, in a rather offhand manner, to be a corresponding physician, the latter resolutely refused the offer. The ensuing quarrel culminated in 1802 with Pearson's intense opposition to Jenner's successful petition for government compensation for loss of earnings resulting from his preoccupation with promoting vaccination. At the hearing Pearson attempted in several ways to belittle Jenner's achievement. Pearson died on 9 November 1828 as a consequence of a fall at his house in Hanover Square, London, and was buried at St George's cemetery, Bayswater.<br>
+<br>E. L. Scott </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; G. P. Fisher, <i>Life of Benjamin Silliman</i> (1866) &middot; R. B. Fisher, <i>Edward Jenner</i> (1991) &middot; &#145;Memoir of George Pearson&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 99/1 (1829), 129&#150;32 [with portrait] &middot; S. C. Lawrence, <i>Charitable knowledge</i><i>: hospital pupils and practitioners in eighteenth-century London</i> (1996) &middot; parish register (marriage), 9 Dec 1778, Rotherham &middot; J. Guest, <i>Historic notices of Rotherham</i> (1876), 522<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>, notes on his lectures<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> aquatint silhouette, 1801, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; T. West, etching, 1803, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; J. S., lithograph, pubd 1829 (after pen drawing), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; etching, 1829, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; F. Chantrey, pencil drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=NPG')">NPG</a> &middot; drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=RS')">RS</a> &middot; etching, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=NPG')">NPG</a> &middot; portrait (after drawing), repro. in R. A. Hadfield, <i>Faraday and his metallurgical researches</i> &middot; portrait, repro. in <i>Phil. Mag.</i>, 17 (1804) &middot; silhouette, line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=21713&amp;istheme=&amp;target=BM')">BM</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">E. L. Scott, &#145;<span class="roman"><span class="headword">Pearson,  George</span>  (<em>bap. </em>1751, <em>d.</em> 1828)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/21713, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Pearson (<em>bap. </em>1751, <em>d.</em> 1828): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/21713 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

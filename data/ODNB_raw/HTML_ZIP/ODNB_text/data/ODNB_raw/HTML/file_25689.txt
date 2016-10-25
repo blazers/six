@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25689;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25689-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25689-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25689#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Skinner,  William</span>  (1699/1700&#150;1780), <span class="occ">military engineer and army officer</span>, was born at St Christopher (St Kitts), West Indies, the son of Thomas Skinner, a merchant and younger son of William Skynner, mayor of Hull in 1665. Skinner's parents both died while he was a child, and he was adopted by Elizabeth, his father's sister, who married Talbot Edwards, the military engineer, as her second husband. Edwards, related by marriage to Sir Martin Beckman, chief engineer and master gunner of England, bequeathed his large collection of maps and plans, many of which had been Beckman's, to Skinner. Skinner was from a young age exposed to a culture of military engineering to which he willingly inclined himself.<br>
+<br>On 11 May 1719 Skinner was given a warrant as practitioner engineer and the following year was employed at the gun wharf, Devonport. In 1722 he was sent out to Minorca, where the works at St Philip's Castle under William Horneck provided him with practical experience of fortification on a large scale. In the summer of 1724 Skinner was moved to Gibraltar under Jonas Moore. There he participated in the first general survey of the rock and served in its defence during the siege of 1727. He was promoted to sub-engineer on 20 February 1727 and the following year was made barrack-master at Gibraltar in addition to his engineer duties. On 10 March 1730 he was made engineer-extraordinary and acted as chief in Moore's temporary absences in 1736 and 1738. He was promoted engineer-in-ordinary in 1739, and on 1 July 1741, after Moore was killed at Cartagena, Skinner was appointed chief engineer at Gibraltar.<br>
+<br>His promotion was then very rapid, for Skinner was named sub-director on 1 January 1744 and director on 30 September 1746. He was given a new challenge when in 1746 he was recalled to London. The board appointed him chief engineer in Scotland on 31 December 1746, with orders to survey the works at Edinburgh, Stirling, Dumbarton, and Blackness, as well as Fort William and Fort Augustus, following the great damage to the fortifications inflicted by the Jacobite rising. This work he began on arrival in Scotland in January 1747. The captain-general, William Augustus, duke of Cumberland, persuaded his father, George II, that a new fortress was required at Inverness, and had already settled on a plan which he ordered to be followed. Skinner postulated many sound reasons for it not to be pursued, and drew up a project of his own, which Cumberland quickly saw was better.<br>
+<br>The new fort near Inverness was to extend over 42 acres on a specially purchased site. Begun in 1748 Fort George was many years in the building and cost in excess of &pound;200,000. Lieutenant-Colonel James Wolfe, visiting the site in 1751, forecast that when finished it would be &#145;the most considerable fortress, and the best situated, in Great Britain&#146;  (Wright, 178). Skinner had the undiluted responsibility for directing the works and would not allow the smallest deviation from his plan. The principal contractor, with whom Skinner came to be on familiar terms, was John Adam, older brother of the architects Robert and James Adam.<br>
+<br>The summer season of each year found Skinner at the isolated Ardersier Point on the Moray Firth guiding the engineers, overseers, contractors, and soldiery. When absent he insisted on almost daily letters to keep him informed of progress in every detail, firing back trenchant criticisms and detailed instructions, always urging the work forward. Fort George was the culmination of Skinner's ambition, the fulfilment of the professional tradition to which he had been brought up; he called it his &#145;monument&#146;.<br>
+<br>In 1750 Thomas Lascelles retired and, though an appointment was made for a new surveyor-general, the post of chief engineer was left vacant. This deprived the corps of the most senior post they could aim for. Skinner considered himself in line for the promotion and confided, &#145;it's all I have been aspiring to this thirty-two years, having been so long constantly employed, which is ten years longer than most of the engineers on the establishment have been in the service&#146;  (BL, Add. MS 17500, fol. 35). Some weeks later he wrote:<blockquote>It is very hard that after thirty-two years in the Ordnance service with a good character with great trust and a constant attendance I should be put in competition with my junior [Thomas Armstrong, chief engineer at Minorca, had applied] who the whole world knows has never made a design in his life, but has always been employed in the executing of the designs of others. (ibid., fols. 48&#150;9)</blockquote>Nor was Skinner satisfied with his remuneration, pointing out that while he laboured in Scotland for 20<i>s</i>. a day, his counterparts in Minorca and North America had 50<i>s</i>. and 40<i>s</i>. respectively. Skinner was perhaps too useful in Scotland, and particularly at Fort George, for his appointment as chief engineer to be attractive to the board. With no other plausible candidate, the easiest option was to allow the post of chief engineer of Great Britain to lapse. Skinner was chief engineer in all but name, Cumberland referring to him as &#145;the King's first engineer&#146;  (Cumberland MSS, 48/82&#150;3). Skinner waited seven years until the board eventually appointed him to that post, on 14 May 1757, at which time he was also made colonel, the first military rank he had held.<br>
+<br>While the works at Fort George proceeded Skinner was often employed in other directions by order of the board. He presided over a committee that in 1754 recommended the erection of magazines at Purfleet as a depot for military ammunition and combustibles. In November 1755 Skinner received orders to proceed to Ireland, where, in conjunction with Thomas Eyre, surveyor-general there, he was to survey the fortifications. Their extensive and handsomely illustrated report in the following year gave account of Duncannon Fort, Kinsale, Limerick, Galway, and Athlone, and recommended the building of a new fort at Cork.<br>
+<br>In 1758 Colonel Skinner was called before the bar of the House of Commons in connection with a report he had made on the works carried out at Gibraltar by the governor, James O'Hara, second Baron Tyrawley. Tyrawley had meddled in the fortifications &#145;with no more economy than governors are apt to do, who think themselves above being responsible&#146;, as Horace Walpole put it  (Walpole, 3.15). Skinner's report had revealed Tyrawley's defensive innovations as inefficient and lacking in science. Tyrawley, enraged by these insinuations, attended the house and &#145;leaning on the bar, he browbeat Skinner, his censor, who stood on his left hand, with such arrogant humour, that the very lawyers thought themselves outdone in their own style of worrying a culprit&#146;  (ibid.). Skinner presumably allowed such rodomontade to pass over him, while the Commons soon forgot the affair.<br>
+<br>During 1758 Skinner was in Scotland and at Milford Haven, Pembrokeshire, supervising the works. In December, on intelligence of a French-inspired plot to take Gibraltar by surprise, he was abruptly dispatched under direct orders from the secretary of state, William Pitt, to take necessary measures for the defence of the rock. The supposed plot was shown to be of no substance even before Skinner's arrival at Gibraltar. Despite his presence there being quite unnecessary, permission for him to return was long sought by Skinner and by the Board of Ordnance before his eventual arrival home in September 1759. Soon thereafter he was ordered to Plymouth to report on the fortifications. He appears to have suffered intermittent poor health at this time, perhaps due to his heavy workload and frequent travelling.<br>
+<br>On 18 February 1761 Skinner was promoted to major-general and in May he made a flying visit to Portsmouth and the Isle of Wight, before making his habitual summer journey to Scotland. After arriving in early June he was recalled urgently to London by the king's particular command. His orders were to go to Belle &Icirc;le, just captured by a British expedition, to report on the defences and draw up plans for accommodating the troops which would garrison the island. Almost certainly he would have been at Belle &Icirc;le when news reached him of the death on 27 August of his only son, Captain William Skinner, at Coulehault on the coast of Dominica, while on service with his regiment.<br>
+<br>In the winter of 1761&#150;2 Skinner was again ill with what he referred to as &#145;my old disorder&#146;. The following winter he wrote to his friend John Adam:<blockquote>I begin to think a little rest will be necessary; I grow old and think and hope near fifty years servitude intitles me to a little indulgence; my only view is to see my monument on the Point [Fort George] finished with credit, as it has been so long my nursery, a short time more puts it out of our hands. (BL, Add. MS 17501, fol. 148)</blockquote>But his illness continued to plague him into the summer, when in June he found it necessary to inform the board that he was for the moment incapable of attending to any business. However, despite his ill health at this time, Skinner was to serve many more years as chief engineer. In 1769 he adjudicated on several projects for improving the defences of Gibraltar submitted by colleagues. On 30 April 1770 he was promoted lieutenant-general in the army, and later the same year, after a long period of neglect by the board, his pay as chief engineer was increased to the same as that of colonels-commandant of the Royal Artillery. Among Skinner's later projects were those for enlarging the gun wharf and erecting new magazines at Plymouth; also for remodelling and augmenting the lines at Chatham. The freedom of several Scottish and Irish cities was conferred upon him.<br>
+<br>Skinner's great talent lay in his thorough understanding of the principles of fortification and his mastery of the technical repertoire of the engineer. He was thus enabled to fulfil to perfection the duties of chief engineer of Great Britain owing to the superiority of his professional knowledge. Virtually every project or estimate from home and abroad was sent to him by the Board of Ordnance for consideration and report, the principal officers of the ordnance depending on his advice. Sometimes at the Office of Ordnance, but more often at home at Croom's Hill, Greenwich, Skinner examined the proposals of his junior colleagues and dispensed his wisdom.<br>
+<br>After sixty-one years' service as an engineer, twenty-three of them as chief engineer of Great Britain, Skinner died at Greenwich on 25 December 1780 in his eighty-first year. He was buried in the churchyard of St Alfege, Greenwich. Margaret Skinner (<i>n&eacute;e</i> Caldwell), his widow, applied for and was granted &pound;100 per annum extra to her widow's pension, on the grounds that her husband had saved little during his working life to provide for her, partly owing to his remuneration not being increased when he could have expected it.<br>
+<br>Paul Latcham </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. W. S. Conolly, &#145;Notitia historica of the corps of royal engineers&#146;, MS, <i>c.</i>1860, Royal Engineers Corps Library, Chatham &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 50 (1780), 591 &middot; J. M. Lambert, <i>The portraits and silver of the RE headquarters mess, Chatham</i> (1963), 12 [Skinner's portrait] &middot; I. MacIvor, <i>Fort George</i>, Historic Scotland guide (1996) &middot; W. Porter, <i>History of the corps of royal engineers</i>, 2 vols. (1889) &middot; H. Walpole, <i>Memoirs of King George II</i>, ed. J. Brooke, 3 vols. (1985) &middot; R. Wright, <i>The life of Major-General James Wolfe</i> (1864) &middot; board of ordnance, minutes, TNA: PRO, WO47 &middot; reports on Gibraltar, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 10034 &middot; corresp. while chief engineer in Scotland, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 17499&#150;17501 &middot; MSS relating to Gibraltar, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 57640 &middot; corresp., Royal Engineers Museum, Chatham, MSS 2001-64/2&#150;64/20; 4501.21; 4601.79, 1&#150;5; 4601.71 &middot; Royal Arch., Cumberland papers, box 22/167&#150;8, 170&#150;71; box 45/82&#150;4; box 48/82&#150;3; box 61/B5A&#150;B; box 66/VII.27.14<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, Gibraltar map, Add. MS 56092
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, maps, plans, and surveys, Add. MS 22875
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, maps, plans, and surveys, Maps K.Top.50.7.2, 50.23, 50.27, 50.30, 50.31, 50.33, 50.9 a&#150;i
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, reports on Gibraltar, Add. MS 10034
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, MSS, Add. MSS 33231 A&#150;PP, 33232&#150;33233
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, surveys
+   &middot;
+ Royal Engineers Museum, Chatham, corresp., 2001&#150;64/2&#150;64/20, CHARE: 4501.21, 4601.79.1&#150;5 (Belle-Isle), 4601.71&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, corresp. with Board of Ordnance while chief engineer in Scotland, Add. MSS 17499&#150;17501
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, MSS relating to Gibraltar, Add. MS 57640
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=BL')">BL</a>, Townshend papers, plans of Fort Monckton, Gosport, Add. MS 50008B, fols. 2, 3
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, plans and drawings of Fort George and other Scottish fortifications in the Board of Ordnance series, MSS 1646&#150;1648
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=Royal%20Arch.')">Royal Arch.</a>, William Augustus, duke of Cumberland MSS, box 22/167, 168, 170, 171; box 45/82&#150;84; box 48/82&#150;3; box 61/B5A, B5B; box 66/VII.27.14
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, Board of Ordnance minutes, WO 47<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> double portrait, oils (with his daughter), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25689&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; oils (after portrait), Royal Engineers' mess, Chatham; repro. in Lambert, <i>Portraits and silver</i>, 12<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Paul Latcham, &#145;<span class="roman"><span class="headword">Skinner,  William</span>  (1699/1700&#150;1780)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/25689, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Skinner (1699/1700&#150;1780): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25689 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/25689/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

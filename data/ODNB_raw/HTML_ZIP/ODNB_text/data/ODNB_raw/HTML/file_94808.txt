@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 94808;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/94/94808-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/94/94808-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=94808#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bray,  (William) John</span>  (1911&#150;2004), <span class="occ">telecommunications engineer</span>, was born on 10 September 1911 at 198 Walmer Road, Kingston, Portsmouth, one of the two sons of William James Bray, an engine room artificer on HMS <i>Achilles</i>, and his wife, Emily Eliza, <i>n&eacute;e</i> Clothier. The family moved to Yeovil during the First World War but afterwards returned to Portsmouth where John attended Milton primary school and Portsmouth southern grammar school. There he specialized in science and developed a strong interest in the novel field of wireless communication&#151;building a crystal receiver on which he listened through headphones to the output of the BBC's first regional transmitter, 6BM, at Bournemouth. In 1927 he became an apprentice in the naval dockyards, where he received a thorough theoretical and practical engineering training and won the Admiral Donaldson cup as &#145;top apprentice of all the yards&#146;. In his spare time he built a spark radio transmitter (with which he successfully, but illegally, transmitted Morse code messages over several miles) and, within a few years of the original invention, made a copy of John Logie Baird's &#145;spinning disc&#146; television receiver to pick up the flickering, stamp-sized image of a human head from the BBC's 2LO transmitter 100 miles or more away.<br>
+<br>By the early 1930s Bray knew that he wanted to become a professional electrical engineer. Aware that this required a more rigorous academic training, he applied for and won a Royal and Whitworth scholarship to the City and Guilds Engineering College (part of Imperial College, London), where he enrolled in 1932, and where he became secretary of the college's radio society. He became an ACGI (associate of the City and Guilds of London Institute, the equivalent of a BSc) with first-class honours in 1934 and, a year later, MSc (Eng). During the vacations he completed his naval apprenticeship&#151;helping maintain the telephone exchange at the HMS Vernon naval establishment and lay submarine telephone cables between the forts at Spithead.<br>
+<br>In 1935, persuaded by a friend in the engineering department of the Post Office (and rejecting an offer to join the Admiralty), Bray joined the organization to which he would devote the next fifty years. His main interest was radio, a technology that then played a big part in the Post Office's network (its long-wave transmitter at Rugby was among the most powerful in the world and it supervised all radio communications and broadcasting in the United Kingdom, collecting licence-fee income for the BBC as well as managing the allocation of frequencies). After initial training in the Post Office's research station at Dollis Hill, Middlesex, and practical experience at the headquarters of the Northern Ireland region, he returned to Dollis Hill as an assistant engineer with the radio experimental branch. There he undertook important experimental work on radio transmission, helping convert the Post Office's transatlantic and other short-wave radio links to single sideband operation and to build the multi-unit steerable antenna. Devised by Harald Friis of Bell Labs, this was the most complex short wave receiving system ever used for commercial purposes, and during the Second World War provided a channel for secure communication between the British and American governments. Bray took part in a number of top-secret wartime projects, such as radio direction finding and &#145;meaconing&#146; (disrupting enemy beam navigation devices).<br>
+<br>On 11 April 1936 Bray had married Margaret Earp (<i>d</i>. 1998), whose father, Fred, had been an engine-room artificer at the same time as Bray's father, with whom he remained a close friend. Their first daughter, Frances, was born in 1941. Their second, Elizabeth, arrived in 1945 but suffered from a spinal deformity and died at the age of eleven in 1956.<br>
+<br>After the war Bray worked on the design and development of microwave (very high frequency) radio systems and chaired a group within the International Radio Committee that set key world standards in the field. In 1954 he became head of the Post Office's inland radio branch, moving from Dollis Hill to a headquarters building near St Paul's Cathedral. Though this meant doing less hands-on research, he welcomed the chance to collaborate with other parts of the Post Office and to enhance his range of interests. One of the branch's key achievements during this time was the design of London's Post Office Tower, which became the centrepiece of the Post Office's high frequency telecommunications and broadcasting network after it was opened by the prime minister, Harold Wilson, in 1965. In 1955 he was awarded a Commonwealth Fund fellowship that enabled him to spend a sabbatical year in the USA studying telecommunications developments&#151;an experience that gave him an international outlook and a range of useful contacts.<br>
+<br>Two topics in particular then came to dominate Bray's working life: television and satellites. The United Kingdom's nascent television service had been shut down at the outbreak of the Second World War lest it prove a target for enemy bombing and because the supply industry had to make cathode ray tubes for radar. But it started afresh after the war and the Post Office provided links between transmitters, studios, sites for outside broadcasts, and the like. One of Bray's early tasks was to develop what became the ubiquitous licence detector van. Attention was also now turning to the use of satellites for communications purposes. The idea had been predicted as early as 1945 by the science-fiction writer Arthur C. Clarke, and Bray himself had anticipated it during the war by exploring the possibility of bouncing radio waves off the surface of the moon (something later achieved by Bell Labs). Satellites could, at least in theory, carry huge volumes of telecommunications and television traffic and also had immense military potential, but many practical obstacles had to be overcome. In 1960 Bray participated in a joint civil&#150;military mission sponsored by the cabinet office to study satellite and space developments in the USA. Its most important outcome was an agreement that the USA and the UK would hold a series of satellite communications tests and that, for this purpose, the Post Office would build one of three satellite&#150;earth stations, at its own expense. To implement this bold vision Bray was invited in 1961 to head the Post Office's newly established space communications systems branch. As he later wrote, so began &#145;the most exciting and rewarding phase of my professional career&#146;  (<span class="italic">Then, Now and Tomorrow</span>, 70). As the Telstar satellite was due for launch in July 1962, he had barely a year and a half to oversee the construction of the new earth station at Goonhilly, on the Lizard peninsula; and though its potential as a carrier of telecommunications signals was hugely important to the Post Office, Bray realized it was the television element that would capture the public imagination. He and his colleagues' furious&#151;and sometimes fraught&#151;activity met with total success when, on 11 July 1962, Raymond Baxter (for the BBC) and Ian Trethowan (for ITV) relayed to British viewers the first live television images to cross the Atlantic. Bray and his team were rightly proud of their achievement and were especially pleased that Goonhilly's open dish aerial (based in part on the design of the Jodrell Bank radio telescope) performed better than the more expensive covered radome built in the USA. Goonhilly became the largest operational satellite station in the world, handling television, telecommunications, and later internet traffic between Europe, the USA, and beyond. Bray was delighted when in 2003 Goonhilly's original dish aerial and the BT Tower (as the Post Office Tower had been renamed) were both listed&#151;regarding them as monuments to his life's work.<br>
+<br>Bray now returned to Dollis Hill, where he was soon promoted to become the Post Office's deputy director of research; he was appointed director in 1966. Though he was initially disappointed by the move back to research&#151;he felt it lacked the glamour of big &#145;operational&#146; projects like Goonhilly&#151;his last decade at the helm of the Post Office's research activity saw immense progress across a number of fields. Reliable semiconductor-based repeaters replaced the valve technology previously used for submarine telephone cables; pulse-code modulation underpinned a switch to digital technology throughout the system; optical fibre began to replace copper cable; and the Post Office's Viewdata service&#151;later called Prestel&#151;was an early version of the internet. Bray's final achievement was to mastermind the design and construction of the Post Office's huge new research centre at Martlesham Heath in Suffolk&#151;opened by the queen in November 1975, a few months after his retirement in July of that year. The building's main auditorium was named the John Bray lecture theatre in his honour.<br>
+<br>Bray was active in many professional bodies, including the Institution of Electrical Engineers, whose J. J. Thomson medal he received in 1977 for his &#145;distinguished contribution to electronic engineering&#146;. In 1967 he was made a fellow of the City and Guilds of London Institute; he was appointed CBE in 1975; and in 1978 he became a fellow of the Royal Academy of Engineering. He lectured widely in the UK and overseas. During his long retirement, he acted as a consultant to the National Council for Educational Technology and was a visiting professor at University College, London. He wrote two books on the history of telecommunications, <span class="italic">The Communications Miracle</span> (1995), and <span class="italic">Innovation and the Communications Revolution</span> (2002), as well as two autobiographies, <span class="italic">Memoirs of a Telecommunications Engineer</span> (1983) and <span class="italic">Then, Now and Tomorrow</span> (1999). He participated widely in the work of such international bodies as the International Telecommunications Union and was an associate member of the World Innovation Foundation. He was an active sailor whose largest boat was the 32 foot sloop-rigged <i>Sj&oslash;hest</i>. He wrote poetry and participated actively in the affairs of his East Anglian village. He died of prostate cancer at the St Elizabeth Hospice, Ipswich, on 6 September 2004, and was survived by his daughter Frances.<br>
+<br>David Robertson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Bray, <i>Memoirs of a telecommunications engineer</i> (1983) &middot; J. Bray, <i>Then, now and tomorrow</i> (1999) &middot; <em>The Times</em> (29 Oct 2004) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=94808&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2004) &middot; personal knowledge (2008) &middot; private information (2008) [Frances Vickers, daughter; C. May; R. Martin-Royle] &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;304,443: probate, 20 Jan 2005, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Robertson, &#145;<span class="roman"><span class="headword">Bray,  (William) John</span>  (1911&#150;2004)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2008; online edn, Sept 2010 [http://www.oxforddnb.com/view/article/94808, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  (William) John Bray (1911&#150;2004): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/94808 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/94808/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

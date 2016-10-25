@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 3145;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/3/3145-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/3/3145-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=3145#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Boys,  John</span>  (<em>bap. </em>1621, <em>d.</em> 1661), <span class="occ">translator and antiquary</span>, was baptized on 14 November 1621 at St Mary Northgate, Canterbury, the only son of John Boys (1590&#150;1640) of Hoad Court, Blean, Kent, and Mary (or Margaret), daughter of <script>writeSeealsoLink('../view/article/9974/', "Martin Fotherby")</script>, bishop of Salisbury. His grandfather Thomas Boys of Canterbury (<i>d</i>. 1625), otherwise Thomas of St Gregory's or Dr Thomas of Fredville, had inherited the estate from his uncle, Sir John Boys of St Gregory's Priory, &#145;a man of much note in his profession of the law&#146; who died childless in 1612  (Hasted, 3.565). Boys's immediate family on both sides was closely connected with Canterbury Cathedral for several generations.<br>
+<br>Little is known about Boys's education, profession, or settled residence. He was admitted to the Inner Temple in November 1640 and took the protestation oath in Blean in January 1642. With his wife, Ann (<i>d</i>. 1712), daughter of Dr William Kingsley, archdeacon of Canterbury Cathedral, Boys had some six children, all of whom, including the youngest, Damaris (<i>b</i>. 2 May 1658), were born in the city of Canterbury.<br>
+<br>Like several cousins and prominent Kentish men Boys was a committed loyalist, embroiled in the political upheavals of the time. On 24 January 1660 he presented a &#145;Declaration of the nobility, gentry, ministry and communalty of the county of Kent&#146; to the mayor at the town hall of Canterbury. The magistrates found the petition for a free parliament offensive, as Boys narrates in his &#145;Vindication of the Kentish declaration&#146; of the same day; unlike some friends, he narrowly escaped imprisonment. On 28 February 1660, with Sir John Boys of Bonnington, a kinsman acclaimed for his defence of the royalist stronghold Donnington Castle, Boys presented &#145;A letter of thanks to his excellency the L. General Monk&#146; at Whitehall, &#145;according to the order and advice of east Kent&#146; on the news that excluded members would be returned to parliament. &#145;A speech&#146; to be delivered on Charles II's landing at Dover on 25 May 1660 &#145;was prevented therein by reason his majesty made no stay at all in that town&#146;; so Boys sent a copy (all these documents were printed at the end of his <span class="italic">Aeneas his Descent into Hell</span> of 1661, under the title &#145;Certain pieces relating to the publick&#146;).<br>
+<br>Boys's principal contributions to the field of letters are his translations in 1661 of books 3 and 6 of Virgil's <span class="italic">Aeneid</span>: first, <span class="italic">Aeneas his Descent into Hell: as it is Inimitably Described by the Prince of Poets in the Sixth of his Aeneis</span>, and, second, <span class="italic">Aeneas his Errours, or, His Voyage from Troy into Italy: an Essay upon the Third Book of Virgils Aeneis</span>. No single separate translation of either of these books had yet appeared, while translations of other single books or parts of the <span class="italic">Aeneid</span> were common, especially of books 2 and 4. Both translations are accompanied by Boys's commentaries &#145;wherein all passages Critical, Mythological, Philosophical and Historical, are fully and clearly explained&#146;  (title-page, book 6). Boys cites numerous classical commentaries on the body politic and the public weal. His works, full of overt references to contemporary politics and undisguisedly royalist, follow Virgil's &#145;double design&#146;: &#145;the one was (in general) to represent heroical virtue in the person of his most accomplish'd Aeneas&#146;; &#145;The other was (in particular) to celebrate the Name and Family of Emperor Augustus&#146;  (&#145;Preface to the Reader, book 6&#146;). Before and immediately after the Restoration, most published translations of the <span class="italic">Aeneid</span> were similarly royalist, or loyalist. Book 6 congratulates Sir Edward Hyde on his succession as lord chancellor, praising his loyalty to the king; book 3 commends Lord Cornbury, Clarendon's son, to follow his father's illustrious example.<br>
+<br>Boys's verse compares badly with earlier verse translations of books 3 and 6, by Thomas Phaer, John Vicars, John Ogilby, and James Harrington, while his pentameters are better than Stanyhurst's hexameters. His heroic couplets mostly follow the sense of Virgil's lines; sometimes the rhymes were deemed felicitous enough for imitation by his successors, Richard Maitland and John Dryden. But Boys's ambitions were not poetic. They were purely against &#145;the fanaticks&#146; in name of the &#145;sober&#146; royalist cause. In their appreciation of the classical spirit of Virgil and his hero, Aeneas, most translators of the <span class="italic">Aeneid</span> until the end of the century were similarly dedicated to the public weal. Yet no published version is as bald a statement of commitment or <i>pietas</i>, of which the inclusion of those dated and signed documents involving public events at the end of book 6 is a testimony. They &#145;are monuments of loyalty rather than wit: I was alwayes Master of a better heart than head, and ever gloried more in sincere and honest thoughts, then in trim and adorn'd expressions&#146;  (<span class="italic">Aeneas his Descent</span>, 217). Book 6 ends with a Virgilian-styled epigram in Latin and English, honouring Charles II, and &#145;A Satyr&#146;, both dated &#145;Canter. Sept. 30. 1656&#146;. The latter appeared as a dedicatory poem in William Somner's <span class="italic">Dictionarium</span> (1659). Book 6 also has commendatory verses by Boys's cousin Charles Fotherby and Thomas Philipot. Both Somner and Philipot's father, John, acknowledge Boys's learning and antiquarian interests in respectively <span class="italic">Dictionarium</span> and <span class="italic">Villare Cantianum</span>. For the latter, published by Thomas as his own in 1659, Boys also wrote a dedicatory poem.<br>
+<br>Boys died on 18 March 1661. Like his father and five of his children, including his heir, John, a colonel who was knighted for his services, he was buried in Blean parish church. His wife later married Sir Richard Head, and was buried in Canterbury Cathedral in 1712.<br>
+<br>E. M. Knottenbelt </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>parish register, Canterbury Cathedral Archives, U3/100/1/1 &middot; parish registers, Canterbury Cathedral Archives [parishes of Blean (U3/62/1/1), St Mary Northgate (U3/103/1/1), Eythorn (U3/151/1/1)] &middot; W. H. Cooke, ed., <i>Students admitted to the Inner Temple, 1547&#150;1660</i> [1878], 308 &middot; H. A. C. Sturgess, ed., <i>Register of admissions to the Honourable Society of the Middle Temple, from the fifteenth century to the year 1944</i>, 1 (1949), 96 &middot; J. Foster, <i>The register of admissions to Gray&#146;s Inn, 1521&#150;1889, together with the register of marriages in Gray's Inn chapel, 1695&#150;1754</i> (privately printed, London, 1889), 156 &middot; J. Venn and J. A. Venn, <i>Matriculations and degrees, 1544&#150;1659</i> (1913), 88 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a>, 1/1.195&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a>, <i>1500&#150;1714</i>, 1.164 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; &#145;Boys, Sir John (1607&#150;1664)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> [cousin] &middot; &#145;Boys, Edward (1599&#150;1667)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> [uncle] &middot; &#145;Boys, John (1571&#150;1625)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> [great-uncle, dean of Canterbury] &middot; &#145;Fotherby, Martin (1549?&#150;1619)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> [father-in-law, bishop of Salisbury] &middot; &#145;Rogers, Richard (1532?&#150;1597)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> [grandmother's father] &middot; &#145;Somner, William (1598&#150;1669)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; &#145;Philipot, John (1509?&#150;1645)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; &#145;Philipot, Thomas (<i>d</i>. 1682)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; E. Hasted, <i>The history and topographical survey of the county of Kent</i>, 1 (1778), iv, 63, 103; 3 (1790), vol. 1, pp. iv, 63, 103; vol. 3, p. 565 &middot; Berry, <i>County genealogies, Kent</i> (1830), 438&#150;45 &middot; T. Corser, <i>Collectanea Anglo-poetica, or, A &hellip; catalogue of a &hellip; collection of early English poetry</i>, 2, Chetham Society, 55 (1861), 323&#150;5 &middot; R. C. F. Baker, &#145;Protestation returns: House of Lords records&#146;, transcription in preparation for publication, Institute of Heraldic and Genealogical Studies, Northgate, Canterbury &middot; Cowper, <i>Memorial inscriptions in Canterbury Cathedral</i> (1897), 16, 49, 219, 274, 286 &middot; will of Thomas Boys, Canterbury Cathedral Archives, 46, fol. 232 &middot; W. Somner, <i>The most accurate history of the ancient city and famous cathedral of Canterbury</i> (1661), 297, 322&#150;3 &middot; W. Somner, <i>Dictionarium Saxonica-Latino-Anglicanum</i> (1659) &middot; T. Philipott, <i>Villare Cantianum</i> (1659), 61, 124&#150;5, 169&#150;70, 178, 252&#150;3 &middot; Kennet, <i>Life of Mr Somner</i> (1693), 37&#150;8, 116&#150;17 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=Fasti%20Angl.%2C%201541%3F1857')"><i>Fasti Angl., 1541&#150;1857</i></a> [Canterbury], 12, 15, 36 &middot; L. B. Behrens, <i>Under thirty-seven kings</i> (1926), esp. 55&#150;63 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=3145&amp;istheme=&amp;target=IGI')"><i>IGI</i></a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> see Berry, <i>County genealogies</i>, 440, 445; Hasted, <i>The history</i>, vol. 3, p. 565<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">E. M. Knottenbelt, &#145;<span class="roman"><span class="headword">Boys,  John</span>  (<em>bap. </em>1621, <em>d.</em> 1661)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/3145, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Boys (<em>bap. </em>1621, <em>d.</em> 1661): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/3145 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

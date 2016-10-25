@@ -1,0 +1,407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 36950;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/36/36950-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/36/36950-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=36950#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=36950&amp;orientation=p')"><img border="0" alt="  Charles Thomson Rees Wilson (1869&#150;1959), by Walter Stoneman, 1919" onmouseover="status='  Charles Thomson Rees Wilson (1869&#150;1959), by Walter Stoneman, 1919'" src="/images/article-imgs/36/36950_1_200px.jpg"></a><span class="imagecaption"><b>  Charles Thomson Rees Wilson (1869&#150;1959)</b>, by Walter Stoneman, 1919</span>
+</div>
+<div class="para">
+<span class="headword">Wilson,  Charles Thomson Rees</span>  (1869&#150;1959), <span class="occ">physicist</span>, was born at Glencorse, Midlothian, on 14 February 1869, the youngest son of John Wilson and his second wife, Annie Clark Harper, of Glasgow. His father, a progressive sheep farmer who wrote on various experiments in farming, died when Wilson was four years old and the family moved to Manchester. With the financial help of his half-brother William, a Calcutta businessman, Wilson was educated at Manchester University, where he graduated BSc in 1887. In 1888 he won an entrance scholarship to Sidney Sussex College, Cambridge, where he obtained first-class honours in both parts of the natural sciences tripos. The death of his brother three months before he graduated caused Wilson to take up a teaching post at Bradford grammar school to support the family. Recognizing that it was impossible to carry on research in this position, he returned to Cambridge in 1894.<br>
+<br>It was a propitious time to return to Cambridge since new experimental challenges were about to open up with the discoveries of X-rays and radioactivity. J. J. Thomson was beginning the experiments which were to culminate in the discovery of the electron in 1897. In 1895 the university first admitted graduate students from outside Cambridge and the intake that year included Ernest Rutherford from New Zealand and John Townsend from Dublin. Wilson joined an &eacute;lite group of experimental physicists. The inspiration for his researches resulted from Wilson's experiences as a relief observer at the Ben Nevis observatory. In his own words:<blockquote>In September 1894, I spent a few weeks in the Observatory which then existed on the summit of Ben Nevis, the highest of the Scottish Hills. The wonderful optical phenomena shown when the sun shone on the clouds surrounding the hill-top, and especially the coloured rings surrounding the sun (coronas) or surrounding the shadow cast by the hill-top observer on mist and clouds (glories), greatly excited my interest and made me wish to imitate them in the laboratory. (Wilson, <span class="italic">Nobel Lectures</span>, 194)</blockquote>In the following year, caught in a thunderstorm on Ben Nevis, he experienced the enormous electrical forces released.<br>
+<br>During the period 1896&#150;9 Wilson held the Clerk Maxwell scholarship at the Cavendish Laboratory and his outstanding gifts as an experimental physicist were revealed. From 1895 to 1899 he carried out a series of brilliant experiments which established the main features of the condensation of water droplets from a supersaturated dust-free gas. An expert glass-blower, he patiently constructed many cloud chambers within which the formation of clouds and raindrops could be studied under perfectly controlled laboratory conditions. He found that once the cloud chamber had been rendered dust-free the formation of small numbers of condensation drops only occurred when the cooled air was exactly 4.2 times supersaturated, that is, the vapour pressure was 4.2 times the equilibrium pressure over a flat surface of water. The numbers of drops increased rather slowly with increasing supersaturation until the value 7.9 was approached when, instead of rain-like clouds, a fog filled the chamber. Wilson studied the effect of irradiating the cloud chamber with X-rays and ultraviolet light and found the key result that, at a supersaturation of 4.2, the fog appeared. He inferred that at a supersaturation of 4.2 water would condense on any charged nuclei present.<br>
+<br>The importance of this work was not lost on Thomson. By 1897 he had shown that the charge-to-mass ratio of the electron was about 2000 times greater than that of the hydrogen ion and so a direct experimental method was needed to measure the charge of the electron to find its mass. In a remarkable experiment of 1899 he used Wilson's cloud chamber technique to determine the number of electrons from the number of water droplets which condensed out. From the current carried by the particles he found a value for the charge of the electron which was within 40 per cent of the present value. This was a key experiment which confirmed beyond any doubt the tiny mass of the electron. In subsequent experiments, Harold Albert Wilson (no relation) improved the estimates by applying an electric field to the cloud chamber, which had the effect of stratifying the cloud into groups of drops with different charges which sank at different speeds. A problem arose because the drops tended to evaporate. Millikan solved this problem by using drops of heavy oil rather than water and this led to the famous Millikan oil-drop experiment in which the charge of the electron was determined to about one part in 1000.<br>
+<br>Wilson's studies of the formation of water droplets by ionizing particles led him to investigate the origin of the ions present in clean air and of the small, but reproducible, electrical conductivity of dust-free air. He devised a gold-leaf electroscope in which surface leakage from the charged leaf to the case of the instrument could not take place. He found that the conductivity of the gas in the electroscope was the same in daylight as in the dark and was independent of the sign of the charge. The ionization was equivalent to that expected from the continuous release of about twenty pairs of ions per second in each cubic centimetre of gas. In 1901 Wilson wrote: &#145;Experiments were now carried out to test whether the production of ions in dust-free air could be explained as being due to radiation from sources outside our atmosphere&#146;  (<span class="italic">PRS</span>, 68, 1901, 151&#150;61). This suggestion, that the ionization of air is caused by cosmic radiation, was followed up by experimental investigations in which the discharge of the electroscope was found to be indistinguishable outside and inside a railway tunnel near Peebles. The result was, however, inconclusive, largely because of the natural radioactivity present in rocks. In 1913 Hess showed that ionizing cosmic radiation is indeed incident upon the top of the atmosphere from high-flying balloon experiments.<br>
+<br>In 1900 Wilson was elected a fellow of Sidney Sussex, at the same time becoming a university demonstrator (1900&#150;01) and subsequently lecturer (1901&#150;19) in experimental physics. In 1908 he married Jessie Fraser (<i>d</i>. 1967), daughter of the Revd George Hill Dick, of Glasgow, and for half a century owed much to her sympathy and understanding. They had one son and two daughters.<br>
+<br>From 1903 to 1910 Wilson's main interest was atmospheric electricity and thunderstorms, and this was to remain a major field of interest to him, his last scientific paper (1956) being &#145;A theory of thundercloud electricity&#146;. His contributions on this subject brought out to the full his extreme skill and insight for physical measurement. Studies ranged from the fine-weather potential gradient in the low atmosphere and the associated earth currents, to measurements of the fields, currents, and field changes under electric discharge conditions. Such measurements allowed the altitude and magnitude of the region of charge separation in thunderclouds to be deduced, while the rate of recovery after discharge enabled the magnitude of the system of charge separation which brought about discharge to be estimated. In 1920 he suggested that the fields and currents in fine-weather conditions could be maintained by the currents in storms and showers, a view which has come to be broadly accepted. In later papers he developed his views on the mechanism of charge separation. While his proposed mechanism, which involved the movement, polarization, and charge collection of water droplets of differing size in a vertical potential gradient, must certainly operate, it is probably inadequate to describe the full magnitude of charge separation which takes place in nature. His contribution to the study of atmospheric electricity rests not upon the success of any particular theory, but rather upon the stimulus which his exceptional insight and experimental skill gave to the whole mode of investigation.<br>
+<br>In 1910 Wilson resumed condensation experiments with the intention of achieving conditions in which the track of a single ionizing particle might be made visible in the supersaturated gas of a cloud chamber. He developed a chamber in the form of a short cylinder in which controlled supersaturation was attained by the mechanical withdrawal of one end of the cylinder, the piston, through a specified distance, while the condensation phenomena were viewed through the front window at the other end. In 1911 the first cloud chamber photographs were published and these were quickly followed in 1912 by photographs with an improved chamber. Although many developments of cloud chamber techniques have led to the application of the method over a greatly extended field, the outstanding quality of the photographs published in 1912 can bear comparison with that of all subsequent work.<br>
+<br>The stimulus provided by these photographs to studies of atomic physics can hardly be overstated. Much of the picture had hitherto been painfully pieced together from indirect observations, but these could now be seen as a whole, often in striking detail. The photographs showed convincingly that ionization by X-rays was due to secondary electrons, while the large-angle scattering of alpha-particles, deduced just a year earlier by Rutherford from counting experiments, was there for all to see. According to Rutherford, the cloud chamber was the most original apparatus in the whole history of physics. As remarked by P. M. S. Blackett:<blockquote>Among the many discoveries made by the use of Wilson's cloud chamber, outstanding were those of the positive electron, pair production and cosmic ray shower phenomena, the &#956;-meson and its spontaneous decay, the charged and neutral V-particles and the negative cascade hyperon. (Blackett, 293)</blockquote>Rightly, the development of the cloud chamber is regarded as the pinnacle of Wilson's experimental genius. To quote Blackett again:<blockquote>There are many decisive experiments in the history of physics which, if they had not been made when they were made, would surely have been made not much later by someone else. This might not have been true of Wilson's discovery of the cloud method. In spite of its essential simplicity, the road to its final achievement was long and arduous: without C. T. R. Wilson's vision and superb experimental skill, mankind might have had to wait many years before someone else found the way. (ibid., 289)</blockquote>Wilson was promoted to the post of reader in electrical meteorology in 1919 and in 1925 he was elected Jacksonian professor of natural philosophy. For many years he was in charge of the final-year practical class at the Cavendish Laboratory. The simple but searching exercises he set demanded skill, which could often only be acquired by patient improvement of dexterity, and developed the aptitude for experiment of many of those who worked through this notable phase in the history of the Cavendish. As a lecturer Wilson was hesitant in delivery, his voice little above a whisper, and his blackboard writing almost invisible. Despite these drawbacks his teaching exhibited the outstanding characteristics of the man and the physicist. The simplicity, penetration, and elegance of his approach, above all in the field of physical optics, have been acknowledged by those who themselves were to become lecturers of distinction.<br>
+<br>Wilson was elected FRS in 1900 and received the Hughes medal (1911), a royal medal (1922), and the Copley medal (1935). In 1927 he was awarded the Nobel prize for physics jointly with A. H. Compton, and in 1937 he was appointed a Companion of Honour. He received the honorary ScD from Cambridge in 1947 and held honorary degrees from Aberdeen, Glasgow, Manchester, London, and Liverpool.<br>
+<br>Among the most distinguished physicists of his time, Wilson stands out in his quiet kindliness and modesty. Below average height, and slightly built, Wilson was a man whose interests remained throughout those of the countryman. His keen and continuing interest in the physics of atmospheric phenomena was closely linked with his enthusiasm for the mountains of Scotland, and particularly of Arran. At the age of eighty-six he flew for the first time in flights designed for students of meteorology. His interest was torn between the atmospheric phenomena around him, once so rough as to require a forced landing, and the interest provided by this new viewpoint over country which he had known so long from the ground. He retired from the Jacksonian chair in 1934, remaining in Cambridge for two more years before returning to Scotland. He settled in the village of Carlops near Edinburgh, no great distance from his birthplace, and there he spent the last twenty-three years of his life with his family. He died at Carlops on 15 November 1959.<br>
+<br>Malcolm S. Longair </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>P. M. S. Blackett, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=36950&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 6 (1960), 269&#150;95 &middot; <em>The Times</em> (16 Nov 1959) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=36950&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; A. B. Pippard, <i>Electron</i><i>: a centenary volume</i>, ed. M. Springford (1997) &middot; E. A. Davis and I. J. Falconer, <i>J. J. Thomson on the discovery of the electron</i> (1997) &middot; C. T. R. Wilson, &#145;Reminiscences of my early years&#146;, <em>Notes and Records of the Royal Society</em>, 14 (1959&#150;60), 163&#150;73 &middot; P. Galison and A. Assmus, &#145;Artificial clouds and real particles&#146;, <i>The uses of experiment</i><i>: studies in the natural sciences</i>, ed. D. Gooding, T. Pinch, and S. Schaffer (1989), chap. 8 &middot; C. T. R. Wilson, &#145;On the cloud method of making visible ions and the tracks of ionising particles&#146;, <i>Nobel lectures, physics, 1922&#150;41</i> (1965), 194&#150;215 &middot; C. T. R. Wilson, &#145;Ben Nevis sixty years ago&#146;, <em>Weather</em>, 9 (1954), 309&#150;11<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=36950&amp;istheme=&amp;target=CAC%20Cam.')">CAC Cam.</a>, corresp., papers relating to airships
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=36950&amp;istheme=&amp;target=RS')">RS</a>, notebooks and reports
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=36950&amp;istheme=&amp;target=U.%20Aberdeen%20L.')">U. Aberdeen L.</a>, MSS, photographs, and journals relating to atmospheric physics<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Stoneman, 1919, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=36950&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; W. Stoneman, photograph, 1933, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=36950&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. Gunn, oils, <i>c.</i>1936, Sidney Sussex College, Cambridge &middot; photographs, U. Cam., Cavendish Laboratory<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1671 8<i>s</i>. 9<i>d</i>.: confirmation, 20 Jan 1960, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Malcolm S. Longair, &#145;<span class="roman"><span class="headword">Wilson,  Charles Thomson Rees</span>  (1869&#150;1959)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/36950, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Thomson Rees Wilson (1869&#150;1959): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/36950 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/36950/2005-10"> [Previous version of this biography available here: October 2005]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

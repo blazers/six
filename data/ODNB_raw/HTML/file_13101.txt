@@ -1,0 +1,491 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13101;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13101-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13101-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13101#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=13101&amp;orientation=p')"><img border="0" alt="Sir  John Frederick William Herschel (1792&#150;1871), by John Jabez Edwin Mayall, c.1848" onmouseover="status='Sir  John Frederick William Herschel (1792&#150;1871), by John Jabez Edwin Mayall, c.1848'" src="/images/article-imgs/13/13101_1_200px.jpg"></a><span class="imagecaption"><b>Sir  John Frederick William Herschel (1792&#150;1871)</b>, by John Jabez Edwin Mayall, <em>c.</em>1848</span>
+</div>
+<div class="para">
+<span class="headword">Herschel, Sir  John Frederick William</span>, first baronet  (1792&#150;1871), <span class="occ">mathematician and astronomer</span>, was born on 7 March 1792 in Slough, the only child of the marriage in 1788 of <script>writeSeealsoLink('../view/article/13102/', "William Herschel (1738&#150;1822)")</script>, astronomer, and the widow Mary Pitt, <i>n&eacute;e</i> Baldwin (1762/3&#150;1832?). His father was of German ancestry, his mother English.<h2>
+<a name="Earlylifeandeducation17921813"></a>Early life and education, 1792&#150;1813</h2>At the time of John Herschel's birth, his father, William Herschel, had set aside his musical career and had established himself as an internationally prominent astronomer by his discovery in 1781 of the planet Uranus, his construction of the most powerful telescopes of the period, and his pioneering studies of stellar astronomy. To these efforts his sister <script>writeSeealsoLink('../view/article/13100/', "Caroline Lucretia Herschel (1750&#150;1848)")</script> made important contributions, as she also did to his son's upbringing. After attending Mr Bull's school at Newbury, and a short period of study at Eton College in 1800, John Herschel enrolled at Dr Gretton's private school at Hitcham, Buckinghamshire. More important, he received private instruction, especially in mathematics, from Alexander Rogers.<br>
+<br>On 19 October 1809 John Herschel entered St John's College, Cambridge. Widely recognized as very gifted, he graduated in 1813 as senior wrangler and first Smith's prizeman and was soon elected to a fellowship at St John's. In May 1813 the Royal Society elected Herschel, already a published mathematician, to membership.<br>
+<br>John Herschel's gift for mathematics, which brought such success in the Cambridge mathematical competitions, was also evident in his efforts, along with his fellow undergraduates and long-time friends <script>writeSeealsoLink('../view/article/962/', "Charles Babbage")</script> and George Peacock, to induce Cambridge University to set aside the Newtonian, fluxional methods of mathematical analysis in favour of instruction based on continental, Leibnizian techniques. The <script>writeSeealsoLink('../view/theme/95963', "Analytical Society")</script>, which these undergraduates formed under Herschel's leadership, emerged as a significant force for the reform of British mathematics. In 1813 Herschel and Babbage pressed this programme by publishing their <span class="italic">Memoirs of the Analytical Society</span> to exemplify the methods they favoured. Herschel, Babbage, and Peacock further supported this cause by translating from the French and publishing a calculus text written by Silvestre Lacroix as <span class="italic">An Elementary Treatise on the Differential and Integral Calculus</span> (1816).<h2>
+<a name="BetweenCambridgeandtheCape18131833"></a>Between Cambridge and the Cape, 1813&#150;1833</h2>Influenced in part no doubt by the difficulties in securing a position as a mathematician, Herschel was admitted to Lincoln's Inn in 1814 to prepare for the bar. None the less, his interests in empirical science increased during this period, stimulated by contacts with the chemist William Hyde Wollaston and the physician&#150;astronomer James South. Herschel's study of chemistry progressed to the point that in 1815 he came within one vote of being elected to the vacant professorship in chemistry at Cambridge. He returned to Cambridge as a sub-lector but, finding himself dissatisfied with &#145;pupillizing&#146;, he left Cambridge, writing to Babbage on 10 October 1816 that &#145;I am going, under my Father's directions, to take up the series of his observations where he has left them (for he has now pretty well given over regularly observing) and continuing his scrutiny of the heavens with powerful telescopes&#146;  (Buttmann, 20). Mathematics was not, however, entirely set aside, some significant publications by him appearing before 1820. The Royal Society recognized the importance of Herschel's mathematical work by awarding him in 1821 its Copley medal. Nor was chemistry completely abandoned; in fact, in 1819 he published the first and most important of a number of contributions he made to photochemistry. This was his detection that hyposulphite of soda (sodium thiosulphate or &#145;hypo&#146;) dissolves silver salts, a major discovery in the prehistory of photography.<br>
+<br>In 1820 Herschel played a key role in the creation of the Astronomical Society (from 1831 the Royal Astronomical Society). From its founding until 1827 he served as its foreign secretary, a role for which he was especially suited because of his numerous visits to the continent during the 1820s; increasing fame, and his gift for correspondence, made him very well known in international scientific circles. Herschel's continuing importance for that society is reflected in the fact that its members thrice (1827, 1839, and 1847) elected him to its presidency, the term of office extending for two years, and twice (1826 and 1836) awarded him the society's gold medal.<br>
+<br>Herschel's decision to take up astronomy under his father's tutelage attained expression in their collaboration in 1820 in the construction of a 20 foot focal length, 18.25 inch aperture reflecting telescope, very similar to the instrument that his father had used so productively. Herschel employed this as his main telescope for his observational astronomy, which centred on the period from 1820 to 1838. The son took over not only the elder Herschel's telescopic technology, but adopted much of his father's research programme, especially in regard to stellar astronomy. William Herschel had pioneered the observational study of nebulous patches and star clusters, having sighted and catalogued between 1780 and his death in 1822 approximately 2500 of these objects, whereas scarcely more than a hundred had been recognized by 1780. Moreover, William Herschel had catalogued 848 double stars, hoping thereby to detect stellar parallax and to show that some double stars were gravitationally linked. The first quest failed, but the second was successful. No less important, the elder Herschel had raised questions fundamental for stellar astronomy. What is the size and structure of the Milky Way? Are nebulae &#145;island universes&#146;, immensely distant systems of stars comparable in size and structure to our Milky Way? Can one trace the history of the stellar region? Are gravitational forces the key to deciphering this history? Gradually, from 1820 on, John Herschel took up this legacy, while simultaneously making an array of contributions to other areas of science.<h2>
+<a name="Frompolymathtophysicalscientist"></a>From polymath to physical scientist</h2>During the 1820s John Herschel emerged as Britain's first modern physical scientist. Possessing not only exceptional mathematical expertise but also extensive knowledge of and experimental dexterity in such areas as chemistry, mechanics, optical science, acoustics, and electricity, not to mention his unrivalled command of matters astronomical, he was in many ways the model for future British physical scientists. His most important contribution to physics during the 1820s consisted of his book length article &#145;Light&#146;, written for the <span class="italic">Encyclopaedia metropolitana</span> and completed in 1827. In it Herschel provided a mathematical treatment of most of physical optics in terms of the wave theory of light as recently worked out by Thomas Young and (more mathematically) by Augustin Fresnel. Continental scientists expressed their enthusiasm for Herschel's synthesis by having his treatise translated into French and German. His articles (also book length) titled &#145;Physical astronomy&#146; and &#145;Sound&#146; for the <span class="italic">Encyclopaedia metropolitana</span> were, especially the former, major contributions to science.<br>
+<br>The broadest and most synthetic of all Herschel's writings appeared in 1830 as his <span class="italic">Preliminary Discourse on the Study of Natural Philosophy</span>. Now recognized as a classic in the empiricist tradition of the philosophy of science, it was also a major statement of the important place of natural science in culture and society. A number of major scientists and philosophers were strongly influenced by it, including Charles Darwin, Michael Faraday, John Stuart Mill, and William Whewell. Written with the credibility accorded an accomplished scientist and with a quality of style rare among natural philosophers, Herschel's <span class="italic">Preliminary Discourse</span>, soon translated into Danish, French, German, and Italian, emerged as a powerful force in gaining recognition for the importance of scientific inquiry.<br>
+<br>Twentieth-century scholarship on the methodology of science tended to downplay the importance of Herschel's <span class="italic">Preliminary Discourse</span>, noting that William Whewell's <span class="italic">Philosophy of the Inductive Science</span> (1840) broke more successfully from the Baconian tendencies of the period and that John Stuart Mill's <span class="italic">System of Logic</span> (1843) was far more influential than either Herschel's or Whewell's volumes. Among the responses made to these claims are that Herschel's <span class="italic">Preliminary Discourse</span> actually did depart in major ways from the Baconian tradition, that Herschel very significantly influenced both Whewell and Mill, and that Herschel's intended audience was different from and broader than the philosophical audience addressed by Whewell and Mill.<br>
+<br>Although known for his judiciousness, tactfulness, and modesty, Herschel in the period around 1830 found himself at the centre of a controversy about science in England. His close friends Charles Babbage and James South had been outspoken in claiming not only that science had declined in England, but also that Britain's foremost scientific society, the Royal Society, needed major reform, not least rejection of the practice of electing to membership (and frequently to high office) aristocrats who typically possessed only limited interests in and even less knowledge of science. These criticisms reached the peak of intensity in 1830 when Herschel's friends persuaded him to allow his name to be put forward for the presidency of the Royal Society. His opponent in the election was the duke of Sussex, the brother of George IV. Although Herschel lost the election 119 to 111, the programme of the reformers was eventually largely adopted.<br>
+<br>On 3 March 1829 John Herschel married Margaret Brodie Stewart (1810&#150;1884), daughter of Alexander Stewart DD, a Scottish Presbyterian minister and Gaelic scholar. Their marriage, uniformly reported to have been fulfilling for both, was undoubtedly fruitful. Three sons&#151;the eldest, <script>writeSeealsoLink('../view/article/37539/', "Sir William James Herschel")</script>, became a judge and developer of fingerprinting&#151;and nine daughters came from the union, the youngest child, Constance, having been born when her father was sixty-three years of age. Herschel, who until his late fifties had been essentially without paid employment, managed the costs involved in raising and educating such a large family through inherited wealth, which seems to have come mainly through his mother. The high esteem in which nearly all his contemporaries held Herschel is reflected in the fact that in 1831 William IV raised him to knighthood in the Royal Guelphic Order.<h2>
+<a name="Stellarastronomy"></a>Stellar astronomy</h2>In the period between 1820 when Herschel erected his new 18.25 inch aperture reflecting telescope and 1833 when he disassembled it to take it to south Africa, Herschel's observational interests centred on double stars and nebulae, the latter gradually drawing the greater share of his interests. In March 1821, working in collaboration with James South and at first using refracting telescopes supplied by South, Herschel began searching for double stars. The first of their catalogues appeared in 1824, listing and describing 380 doubles and winning both the Lalande prize from the French Academy of Sciences and a gold medal from the Astronomical Society. This could be frustrating work, as he lamented in a letter of 23 July 1830 to his wife, Margaret: &#145;Two stars last night and sat up till two waiting for them. Ditto the night before. Sick of star-gazing&#151;mean to break the telescopes and melt the mirrors&#146;  (Clerke, 154). By the time in 1833 when Herschel set aside this work six catalogues had been published, recording observations of 3346 double and multiple stars. The mathematically astute astronomer also published in 1832 a graphical method of calculating the orbits of gravitationally linked doubles. This contribution, which won him a gold medal from the Royal Astronomical Society, was hailed as one of his greatest achievements, a proof of his father's 1803 determination, based on his observations of double stars, that Newton's laws of gravitational attraction rule remote stellar systems as they do our solar system.<br>
+<br>On 18 April 1825 Herschel announced to his Aunt Caroline his intention to take up the study of nebulae: &#145;These curious objects &hellip; I shall now take into my especial charge&#151;nobody else can see them&#146;  (<span class="italic">Memoir and Correspondence of Caroline Herschel</span>, 188). The first fruits of this resolve took the form of a careful study published in 1826 of the prominent nebulous patches in the constellations Orion and Andromeda. Another object studied by him with special care was Messier Object 51, which in his observation book for 1830 he described as a &#145;Brother System&#146;, indicating that he viewed it as a stellar system comparable to the Milky Way. By 1833 he had completed and published a catalogue of 2306 nebulae and star clusters, 525 of which he had himself discovered. Included in this publication were drawings of nearly a hundred of these objects. Recognizing the importance of this catalogue, the Royal Astronomical Society awarded Herschel its gold medal and the Royal Society bestowed its royal medal, both in 1836.<br>
+<br>The year 1833 saw the publication of Herschel's <span class="italic">Treatise on Astronomy</span>, which for nearly two decades was deemed the authoritative presentation in English of astronomical science. It was soon translated into Danish, French, and German. Herschel devoted only 10 per cent of that volume to stellar astronomy, which even at that date had as yet attracted few advocates. This section was, however, sufficient to indicate his convictions that most nebulous objects consist of stars, but that some may be formed of what his father had described as a shining fluid. During the period leading up to 1833 Herschel must have come to realize that the most important and timely extension that he could give to his father's nebular research programme, which had been confined to objects visible from England, would be to complement it by observing the comparable objects of the southern heavens. This vast project he took up in 1833.<h2>
+<a name="YearsattheCape18331838"></a>Years at the Cape, 1833&#150;1838</h2>On 13 November 1833 Herschel, along with his wife, their three small children, and his giant reflecting telescope, sailed from Portsmouth on the <i>Mountstuart Elphinstone</i>, bound for the Cape of Good Hope at the southern tip of Africa. One can easily imagine the anticipation experienced by Herschel on this voyage as gradually the spectacular celestial objects of the southern heavens, especially the Magellanic Clouds, revealed themselves to him. On 15 January 1834 the Herschel party arrived at Cape Colony where, a few days earlier, Thomas Maclear, the new director of Britain's Royal Observatory at the Cape, had disembarked. The challenges that Herschel and Maclear faced in this outpost of the British empire are suggested by the facts that the founding director of the Cape observatory had died in a scarlet fever epidemic a few years after taking his post and his successor (and Maclear's predecessor) had resigned after thirteen months in protest at the poor living conditions.<br>
+<br>Soon after arriving at the Cape, Herschel leased (and later purchased) a house, Feldhausen, 5 miles from Cape Town, where he set up his telescopes, most notably his 20 foot reflector. It was on 22 February 1834 that he began observing with this telescope, with systematic sweeps, as the Herschels called them, commencing on 5 March. Herschel was not far advanced in his search for southern nebulae when he experienced a major disappointment. He had carried with him a catalogue of nebulae published in 1828 by the astronomer James Dunlop, who had observed from Parramatta in New South Wales. Herschel's distress resulted from his recognition of the unreliability of Dunlop's catalogue; in fact, Herschel found that he could confirm only 206 nebulae reported by Dunlop, whereas another 629 seemed to be spurious. The locations to which Dunlop had assigned southern stars also proved unreliable, a problem that was resolved when Maclear agreed to remeasure the location of key stars.<br>
+<br>In Herschel's slightly more than four years at the Cape he observed and catalogued 1708 nebulae, all but 439 of which had not previously been reported. Moreover, these observations, when combined with his earlier observations of nebulae in the northern heavens, allowed him to prepare a chart forcefully demonstrating the theoretically important fact that nebulae appear to lie toward the poles of the Milky Way. Herschel's evidence for this distribution eventually created a very serious problem for those who identified nebulae as island universes comparable to the Milky Way; if this were the case nebulae should be randomly scattered over the heavens rather than oriented in terms of our Milky Way. Regarding the Milky Way itself, Herschel's Cape observations led him to back away from the traditional disc structure assigned to it in favour of a ring, or annulus.<br>
+<br>Herschel scrutinized various spectacular nebular objects of the southern skies with particular attention. Chief among these were the nebulae around Eta Carinae (or, as it was then known, Eta Argus), as well as the Large and Small Magellanic Clouds. For the first of these objects Herschel catalogued 1216 stars and provided a drawing of it, which like many of his drawings shows exceptional ability. He not only attempted a sketch of the Large Magellanic Cloud, but also catalogued 919 stars, nebulae, and clusters in it, whereas in the Small Magellanic Cloud (itself far larger than any northern hemisphere nebula) he catalogued 244. The most theoretically significant aspect of his observation of these objects was his detection within the Large Magellanic Cloud of nebulous structures alongside stars of nearly comparable brightness, which observation led later astronomers to doubt the claim that nebulae are island universes. How, it was asked, could these nebulous structures consist of millions of stars if adjacent individual stars rival in brightness the entire nebula?<br>
+<br>Although nebulae were the objects he most assiduously and systematically sought, Herschel also discovered and catalogued 2103 double star systems. Aware of the possibility that some of these could be gravitational doubles and would correspondingly have orbital motions, he made micrometrical measures of 417, thereby leaving an invaluable historical record of their relative positions. Three features of Herschel's work on nebulae and multiple stars are especially noteworthy. First, historians of astronomy, who typically write from the northern hemisphere, have perhaps not adequately recognized the importance of Herschel's opening up the southern heavens. Second, with Herschel's survey of the southern skies, he became and would long remain the only astronomer who had personally scrutinized with a major telescope the entire heavens. Third, Herschel's goal in observing and cataloguing so many thousands of nebulae and double stars systems was, like that of his father, not simply to locate nebulae and double star systems, but also to establish and record their appearance at the time of observation so that future observers could determine the degree to which these massive celestial objects change or evolve. Thus, a major legacy of the Herschels was not only to reveal the richness of the region beyond the solar system, but also to show that its objects should be seen as historical, possibly evolving entities.<br>
+<br>Although Herschel devoted most of his observational energies at the Cape to nebulae and double stars, other objects received attention. Both he and Maclear anxiously awaited a predicted apparition of Halley's comet, an event made special both by the brilliance of the comet and the rareness of its appearances, the last having occurred in 1758. Herschel observed the comet with care and proceeded to provide a valuable dynamical analysis of the changes it was seen to undergo. He also devoted a portion of ninety-five nights of observing to the Saturnian system, especially two of Saturn's satellites, Enceladus and Mimas. These very faint moons, although discovered by William Herschel in 1795, had never subsequently been sighted by another astronomer. These observations not only confirmed the existence of these satellites, but also allowed Herschel to establish their periods of revolution.<br>
+<br>The intensity of Herschel's dedication during his Cape period and the quality of the weather in the area are both suggested by the fact that in his four years there he completed a total of 382 stellar and nebular sweeps. This total can be compared with the 410 stellar sweeps Herschel had completed in the nine-year period between 1825 and 1833. Moreover, he actively contributed to the intellectual life of the colony, serving, for example, as president of the South African Literary and Scientific Institution. An ardent naturalist in regard to not only the heavens but also the earth, Herschel explored the flora, fauna, and geology of the region, making in the process a number of significant contributions in those areas. Not the least of his activities in regard to biological science took the form of two letters Herschel wrote from the Cape to Charles Lyell on the question of the evolution of organic forms. These letters, scholars have concluded, significantly influenced Charles Darwin in working out his ideas on biological evolution.<br>
+<br>The Herschel family, which in about four years at the Cape had expanded by three additional children, began their return voyage on 11 March 1838 aboard the <i>Windsor Castle</i>, arriving in London on 15 May 1838. Herschel's return to England was immediately hailed by a dinner in his honour on 15 June, attended by 400 scientists and other notables. This dinner and, thirteen days later, Herschel's elevation to the baronetcy at the coronation of Queen Victoria support the contemporary view of John Herschel as the foremost scientist of the period. He returned with masses of observations that required painstaking analysis and reduction. This process, from which other responsibilities and interests repeatedly distracted him, took nearly a decade. It was in 1847 that Herschel's <i>magnum opus</i> appeared as a splendidly printed volume funded by the duke of Northumberland: <span class="italic">Results of astronomical observations made during the years 1834, 5, 6, 7, 8 at the Cape of Good Hope; being the completion of a telescopic survey of the whole surface of the visible heavens, commenced in 1825 by Sir J. F. W. Herschel</span>. Honours and praise were showered on the volume, the Royal Society, for example, awarding Herschel his second Copley medal.<h2>
+<a name="ThemosteminentscientistinBritain18381850"></a>The most eminent scientist in Britain, 1838&#150;1850</h2>The honours and offices offered Herschel in the period after his return from the Cape indicate the esteem in which his contemporaries held him. By the end of 1839 he had been urged to stand for Oxford's Savilian professorship of astronomy, which he declined, and offered its degree of DCL, which he accepted. He also declined the presidencies of the Royal Society and the Geological Society, but accepted the presidency of the mathematics section of the British Association for the Advancement of Science and the presidency of the Royal Astronomical Society. Responsibilities, many of which accompanied these titles, began to take up a large portion of his life. Over the period from 1838 to about 1845 he served on the royal commission on standards, prepared two major reports on constellation reform, actively advised on James Ross's south polar expedition and on efforts to establish a worldwide network of magnetic and meteorological observatories, and in 1843 agreed to serve on the board of visitors for the Royal Observatory and as a trustee of the British Museum. All this was possible because with his return from the Cape, Herschel had terminated his large scale observational programme in astronomy.<br>
+<br>Despite such extensive service to British science, Herschel remained during this period creatively involved with science, especially the new science of photochemistry. In the years immediately after the announcement in early 1839 by L. J. M. Daguerre of his new photographic process and shortly thereafter by W. H. Fox Talbot of a different process, Herschel sought ways to improve and advance photographic science. His efforts, which involved hundreds of experiments, yielded three major papers (1839, 1840, and 1842) published by the Royal Society, for the first of which he was awarded the society's royal medal. It was in this period that Herschel's sodium thiosulphate came to be recognized as the most useful of all the chemicals proposed as the fixer for silver based photographic images. His other important contributions include his extensive experimentation on the light sensitivity of various metals and vegetable dyes, his working out of techniques of making photographs in colour or on glass plates, and his advancing of various terms now standard in photographic science, namely, &#145;positive&#146;, &#145;negative&#146;, &#145;snap-shot&#146;, and &#145;photographer&#146;.<br>
+<br>Herschel's experiments in photography, which had interrupted his efforts to write up his Cape observations, were themselves interrupted when, in April 1840, the Herschel family moved from Observatory House in Slough to a large home in Hawkhurst in Kent, which they named Collingwood House and which served as the chief family residence for the remainder of Herschel's life. Another distraction came in 1845 when Herschel served as president of the British Association meeting held that year in Cambridge. In the controversy that occurred in 1846&#150;7 concerning the discovery of the planet Neptune, Herschel became involved in many ways, not least as a peacemaker but also as a person who before the discovery had urged astronomers to look for the planet and after the discovery had suggested that William Lassell should search (as he successfully did) for a satellite.<br>
+<br>Herschel published two major books in 1849. One of these was the <span class="italic">Admiralty Manual of Scientific Enquiry</span>, for which he served as editor and to which he contributed an important essay on meteorology. Far more significant was his <span class="italic">Outlines of Astronomy</span>, which was based partly on his earlier and shorter <span class="italic">Treatise on Astronomy</span>. Hailed as the definitive presentation of astronomy available in English, Herschel's <span class="italic">Outlines</span> had by 1871 gone through eleven editions and also translations into Chinese and Arabic. Changes in these later editions record the evolution of Herschel's thought. For example, in the first edition Herschel, aware of the resolutions of nebulae into stars achieved by Lord Rosse and others, inclined to the view that all nebulae are composed of stars, but in the 1869 edition of <span class="italic">Outlines</span>, by then aware that William Huggins had spectroscopically shown the gaseous nature of at least some nebulae, Herschel returned to his father's notion that true nebulosity can and does exist.<h2>
+<a name="Masterofthemint18501855"></a>Master of the mint, 1850&#150;1855</h2>Possibly it was the prestige associated with a position once held by Isaac Newton that led Herschel in late 1850 to agree to accept the mastership of the Royal Mint. More probably, this decision was motivated either by his readiness to assume responsibility for overseeing a planned reform of the mint or by the financial needs of a man who in the first fifty-eight years of his life had never held a paid position, but who had responsibility for the support and education of his (by 1846) eleven children, a twelfth being born in 1855. Whatever the reason and with whatever reluctance may have been generated by his already frail health and by the necessity of taking up residence in London away from his beloved family, Herschel in December 1850 took up the appointment. The planned reform was both major and disruptive. Moreover, the need to expand production of coinage, to explore its decimalization, and to establish an Australian branch of the mint at Sydney, compounded his difficulties in serving as master. Tensions grew ever more severe, bringing Herschel by late 1854 to the verge of a nervous breakdown, and leading him to submit his resignation in early 1855. In April that year he returned to his family in Collingwood and sought to restore his health. The consensus among scholars is that Herschel was successful in bringing off the much needed reform in the mint, but that the toll that it took on his energies was excessive.<h2>
+<a name="Finalyears18551871"></a>Final years, 1855&#150;1871</h2>During the final seventeen years of Herschel's life problems of health&#151;gout, rheumatism that periodically confined him to a wheelchair, and severe bronchitis&#151;prevented extended travel and lessened the degree to which he could be present in person in the scientific community. But such difficulties did not stop him from writing or from corresponding. Eight books and monographs as well as over a hundred shorter writings published during this period attest to the continued vitality of his intellect. A number of the books and monographs from these years drew together earlier work. This was the case for his <span class="italic">Essays from the Edinburgh and Quarterly Reviews, with Addresses and other Pieces</span>, published in 1857 but incorporating the most important of the essays that he produced before that time. One example of the important writings appearing in this volume is Herschel's review, written in 1849, of Adolphe Quetelet's <span class="italic">Theory of Probabilities</span>. Recent scholarship has shown that this essay not only significantly influenced the development of social science in Britain, but also was a key factor in leading James Clerk Maxwell to the creation of the statistical approach to heat phenomena. Another significant compilation was Herschel's <span class="italic">Familiar Lectures on Scientific Subjects</span>, which appeared in 1866. This volume consisted mainly of essays that Herschel had written in the period after 1855 for such journals as <span class="italic">Good Words</span> and the <span class="italic">Cornhill Magazine</span>. Two of the fourteen essays in this volume were written as part of Herschel's extended campaign against Britain's adoption of the metric system. In this cause, Herschel was not alone, nor did he lack reasonable arguments.<br>
+<br>In 1861 Herschel published synthetic books on three separate topics, all of which had been written initially as major articles for the <span class="italic">Encyclopaedia Britannica</span>. These were <span class="italic">Meteorology</span>, <span class="italic">Physical Geography</span>, and <span class="italic">The Telescope</span>. Rather than presenting new research these studies drew on Herschel's decades of activity in these areas. Another production, which appeared in 1866, indicates his lifelong love of poetry and of foreign, including classical, languages: this was his translation of Homer's <span class="italic">Iliad</span> into hexameter verse.<br>
+<br>John Herschel's dedication to his father's legacy as well as to observing nebulae and double stars led him to devote much effort during the last decade of his life to compiling observations of these objects into two large catalogues. The first of two large compilations was published in 1865 in the Royal Society's <span class="italic">Transactions</span> as &#145;A catalogue of nebulae and clusters of stars&#146;, and listed 5079 known nebulae, all but 450 of which had been discovered by William and John Herschel. At the time of his death in 1871 John Herschel had nearly finished his other project, a catalogue of 10,320 double and multiple stars; completed by Charles Pritchard and Robert Main, it was published in 1874 in the Royal Astronomical Society's <span class="italic">Memoirs</span>.<br>
+<br>For approximately twenty-seven of the last thirty-one years of his life, Herschel lived at Collingwood House in Hawkhurst, over 40 miles from London. He may have been somewhat introverted by nature and isolated by location, but during those decades he was certainly no recluse, corresponding widely, even in the last decade of his life. In general he was extremely active as a correspondent, as is shown by the fact that over ten thousand letters to him, many from leading British and foreign scientists, have been preserved. His responses show remarkable breadth of learning, generosity, and judiciousness.<br>
+<br>Herschel died at Collingwood on 11 May 1871. Bronchial problems, which had beset him for many years, were probably the main cause of his death. His funeral, which took place in London on 19 May, was attended by most of the leading British scientists of the mid-Victorian period. Such was the esteem in which Herschel's contemporaries held him that he was buried in Westminster Abbey next to Newton, with whom he had at times been compared. In fact, in T. Romney Robinson's obituary notice on Herschel, he remarked that with the death of Herschel, &#145;British science has sustained a loss greater than any which it has suffered since the death of Newton&#146;  (Robinson, xvii).<br>
+<br>Herschel's exceptional human qualities, which made him almost universally liked and respected among his contemporaries, may have led Robinson and others to speak of Herschel in terms that overstate his significance. The judgement of history has been that Charles Darwin, James Clerk Maxwell, and possibly other British scientists of the nineteenth century surpassed John Herschel in the number of fundamental insights attained and discoveries made. None the less, few, if any, of his contemporaries surpassed Herschel in range of contributions, from astronomy to chemistry, from mathematics to meteorology, from physics to philosophy of science. Nor did any nineteenth-century astronomer of any nation surpass Herschel in range of knowledge of the heavens or in the magnitude of their contribution to extending the foundations for stellar and extra-galactic astronomy that William Herschel had laid. In this, the Herschels were prophetic because stellar astronomy was the astronomy of the future. Moreover, historians of science have come to recognize that many, perhaps most, of Herschel's British contemporaries saw his writings and his exemplary scientific life as providing a model for the future.<br>
+<br>Michael J. Crowe </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>A calendar of the correspondence of Sir John Herschel</i>, ed. M. J. Crowe, D. R. Dyck, and J. J. Kevin (1998) &middot; G. Buttmann, <i>The shadow of the telescope</i><i>: a biography of John Herschel</i>, ed. D. S. Evans, trans. B. E. J. Pagel (1970) &middot; B. Warner, ed., <i>John Herschel 1792&#150;1992</i><i>: bicentennial symposium</i> (1994) [incl. bibliography] &middot; D. S. Evans, T. J. Deeming, B. H. Evans, and S. Goldfarb, eds., <i>Herschel at the Cape</i><i>: diaries and correspondence of Sir John Herschel, 1834&#150;1838</i> (1969) &middot; B. Warner and N. Warner, eds., <i>Maclear and Herschel</i><i>: letters and diaries at the Cape of Good Hope, 1834&#150;1838</i> (1984) &middot; RS, Herschel papers &middot; A. M. Clerke, <i>The Herschels and modern astronomy</i> (1895); repr. (1901) &middot; D. G. King-Hele, ed., <i>John Herschel 1792&#150;1871</i><i>: a bicentennial commemoration</i> (1992) &middot; M. Hoskin, &#145;John Herschel's cosmology&#146;, <em>Journal for the History of Astronomy</em>, 18 (1987), 1&#150;34 &middot; L. J. Schaaf, <i>Out of the shadows</i><i>: Herschel, Talbot and the invention of photography</i> (1992) &middot; W. F. Cannon, &#145;John Herschel and the idea of science&#146;, <em>Journal of the History of Ideas</em>, 22 (1961), 215&#150;39 &middot; A. Chapman, &#145;An occupation for an independent gentleman: astronomy in the life of John Herschel&#146;, <em>Vistas in Astronomy</em>, 36 (1993), 71&#150;116 &middot; G. Good, &#145;John Herschel's optical researches and the development of his ideas on method and causality&#146;, <em>Studies in History and Philosophy of Science</em>, 18 (1987), 1&#150;41 &middot; C. J. Ducasse, &#145;John Herschel's methods of experimental inquiry&#146;, <i>Theories of scientific method</i><i>: the renaissance through the nineteenth century</i>, ed. E. H. Madden (1960), 153&#150;82 &middot; D. S. Evans, &#145;Herschel, John Frederick William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>, 6.323&#150;8 &middot; C. A. Lubbock, ed., <i>The Herschel chronicle</i><i>: the life-story of William Herschel and his sister Caroline Herschel</i> (1933) &middot; J. R. Panter, &#145;Sir John F. W. Herschel and scientific thought in early nineteenth-century Britain&#146;, PhD diss., University of New South Wales, 1976 &middot; S. S. Schweber, &#145;John F. W. Herschel: a prefatory essay&#146;, <i>Aspects of the life and thought of Sir John Frederick Herschel</i>, ed. S. S. Schweber (1981), 1.1&#150;158 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; M. J. Crowe, ed., <i>The letters and papers of Sir John Herschel</i><i>: a guide to the manuscripts and microfilm</i> (1991) [at the Royal Society] &middot; L. J. Schaaf, <i>Tracings of light</i><i>: Sir John Herschel and the camera lucida</i> (1989) &middot; Mrs J. Herschel, <i>Memoir and correspondence of Caroline Herschel</i> (1876) &middot; [T. R. Robinson], <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 20 (1871&#150;2), xvii-xxiii &middot; <em>Astronomical Register</em>, 9 (1872), 140&#150;41<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Belgian Royal Academy
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=BGS')">BGS</a>, geological notebook relating to Isle of Wight
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=BL')">BL</a>, notes on chemistry and acoustics, M/552&#150;553 [microfilm]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=CBS')">CBS</a>, papers relating to a pew in Upton parish church, Buckinghamshire
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=CUL')">CUL</a>, papers and poems
+   &middot;
+ Harvard U., Houghton L., corresp., notebooks, and papers
+   &middot;
+ Kodak Museum, Harrow, England
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>, corresp. and papers relating to photography
+   &middot;
+ National Archives of South Africa
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=NMM')">NMM</a>, accounts, corresp., papers; vistors's book
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=Ransom%20HRC')">Ransom HRC</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=RAS')">RAS</a>, corresp. and papers
+   &middot;
+ Royal Mint Library, London
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=RS')">RS</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, notebook
+   &middot;
+ Smithsonian Institution, Washington, DC
+   &middot;
+ University of Cape Town Library, corresp. and papers relating to education in Cape Colony
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>&nbsp;|&nbsp; American Philosophical Society, Philadelphia, letters to Sir Charles Lyell
+   &middot;
+ American Philosophical Society, Philadelphia, letters to W. H. Smyth
+   &middot;
+ Birr Castle, co. Offaly, archives, letters to earl of Rosse
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=BL')">BL</a>, corresp. with Charles Babbage, Add. MSS 37182&#150;37199, <i>passim</i>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, corresp. with Mary Somerville
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=CUL')">CUL</a>, Royal Observatory Archive, corresp. with Sir George Airy
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes, etc.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=GS%20Lond.')">GS Lond.</a>, letters to Sir R. I. Murchison
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=RBG%20Kew')">RBG Kew</a>, letters to Sir William Hooker
+   &middot;
+ Royal Institution of Great Britain, London, letters to John Tyndall
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, letters to Fox Talbot
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=TCD')">TCD</a>, letters to Sir William Rowan Hamilton
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, letters to Sir Edward Sabine, BJ3
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=Trinity%20Cam.')">Trinity Cam.</a>, letters to William Whewell
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, letters to Sir Roderick Murchison
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=U.%20St%20Andr.%20L.')">U. St Andr. L.</a>, letters to James Forbes<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> silhouette, <i>c.</i>1813, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=St%20John%20Cam.')">St John Cam.</a> &middot; A. E. Chalon, miniature, 1829, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a> &middot; H. W. Pickersgill, drawing, <i>c.</i>1835, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=NPG')">NPG</a> &middot; H. W. Pickersgill, oils, <i>c.</i>1835, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=St%20John%20Cam.')">St John Cam.</a> &middot; J. J. E. Mayall, daguerreotype, <i>c.</i>1848, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; E. H. Baily, marble bust, 1850, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=St%20John%20Cam.')">St John Cam.</a>; copy, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; J. M. Cameron, photograph, 1867, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. M. Cameron, photograph, 1867 (<i>The astronomer</i>), National Museum of Photography, Film and Television, Bradford, Royal Photographic Society collection &middot; J. M. Cameron, photograph, 1867, Deutsches Museum, Munich &middot; F. Croll, stipple (after daguerreotype by J. Mayall), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>Hogg's instructor</i> &middot; G. Gabrielli, engraving, repro. in P. Moore, <i>Sir John Herschel</i><i>: explorer of the southern sky</i> (1992) &middot; C. Herschel Gordon, oils (after photograph by J. M. Cameron) &middot; C. A. Jensen, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=RS')">RS</a> &middot; T. Webster, portrait (after photograph, 1871) &middot; drawing, repro. in <i>ILN</i> (28 June 1845), 404 &middot; plaster medallion (after W. Tassie), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13101&amp;istheme=&amp;target=NG%20Scot.')">NG Scot.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;30,000: probate, 20 June 1871, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael J. Crowe, &#145;<span class="roman"><span class="headword">Herschel, Sir  John Frederick William</span>, first baronet  (1792&#150;1871)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2009 [http://www.oxforddnb.com/view/article/13101, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  John Frederick William Herschel (1792&#150;1871): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13101 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/13101/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

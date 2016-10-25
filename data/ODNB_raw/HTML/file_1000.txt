@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1000;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1000-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1000-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1000#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bacon,  Nathaniel</span>  (<em>bap. </em>1593, <em>d.</em> 1660), <span class="occ">politician and author</span>, was baptized on 12 December 1593 at Coddenham, Suffolk, a younger son of <script>writeSeealsoLink('../view/article/989/', "Edward Bacon (1548/9&#150;1618)")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/998/', "Bacon, Sir Nathaniel")</script>], politician, and his wife, Helen, daughter and heir of Thomas Little, who owned Shrubland Hall, Suffolk. <script>writeSeealsoLink('../view/article/69745/', "Francis Bacon (1600&#150;1663)")</script> was his brother. Born into a Suffolk family long influential in law and politics, his father, who was the son of <script>writeSeealsoLink('../view/article/1002/', "Lord Keeper Sir Nicholas Bacon")</script> and half-brother to <script>writeSeealsoLink('../view/article/991/', "Sir Francis Bacon")</script>, came into possession of Shrubland Hall when he married. Nathaniel Bacon matriculated as a pensioner from Christ's College, Cambridge, in July 1606 and graduated BA in 1611. Admitted to Gray's Inn in August 1611, he was called to the bar in 1617 and became a bencher of Gray's in 1640. He lived for a time in Langham, Essex, where he served as a JP. It was probably during this period that he married his first wife, Elizabeth, daughter of Robert Maidstone of Boxtead, Essex, and widow of Edward Glascocke of Horsley, Essex. They had no children. His first wife had probably died by 1630, about which year he married Susanna, daughter of John Holloway of Oxford and widow of Matthew Alefounder of Dedham, Essex. They had three sons and five daughters. After returning to Suffolk he served as recorder of Bury and on 20 December 1642 was elected recorder of Ipswich.<br>
+<br>A staunch presbyterian&#151;his father had studied with Beza in Geneva&#151;Bacon was an early and determined opponent of Charles I. He was reported as refusing to pay the forced loan in 1628, and he worked diligently for the parliamentarian cause throughout the civil wars. In 1644 he became the chairman of the Cambridge committee of the eastern association, in which capacity he had extensive dealings with the earl of Manchester and probably with Oliver Cromwell, who had close ties to the association. In November 1645 Bacon was elected a recruiter MP for Cambridge University, and subscribed to the covenant. The lists of the <span class="italic">Commons Journals</span> show Bacon to have been an active member, serving on scores of committees that dealt with religious, legal, and military concerns. His most important committee duty came when he was appointed by the lower house to deal with the proposals for making accommodations with the king in 1648.<br>
+<br>Excluded from parliament at Pride's Purge in December 1648, Bacon was admitted to the Rump Parliament in June 1649 and subscribed to the engagement. Although he took the post of admiralty judge in 1649, he did not support the Commonwealth as enthusiastically as he had supported the Long Parliament, sitting on only three committees from January to September 1649. Still, his presbyterian zeal made him a valuable member, and he is considered one of five religious &#145;experts&#146; whose opinions carried special weight  (Worden, 126). His provincial base was established as Ipswich, where he lived in the house on St Margaret's Green latterly known as the Manor House, and where he was churchwarden of St Margaret's parish in 1650 and 1651 and town clerk from 1651 until his death. In 1654 he edited Ipswich corporation's records, compiling &#145;The annalls of Ipswiche&#146;, which was eventually published in 1884, edited by W. H. Richardson. As one of the MPs for Ipswich from 1654, during the protectorate, his staunch commitment to the Calvinist cause led him to support wholeheartedly the Commons' attack on the Quaker James Nayler, against whom Bacon railed vociferously and often during the second protectorate parliament. In 1657 he became a master of requests. He continued to hold this post in Richard Cromwell's government and also served in his parliament as well as in the restored Long Parliament of 1660.<br>
+<br>But Bacon's greatest service to anti-Stuart causes came in the form of a political tract entitled <span class="italic">An Historical Discourse of the Uniformity of the Government of England</span>, which was probably written using notes collected by John Selden. Published in 1647 to justify the Long Parliament's war against Charles I, with a continuation appearing in 1651, the work has been referred to as &#145;the English <i>Francogallia</i>&#146;  (Burgess, 96). Contemporaries of various political leanings would have agreed. Indeed, according to Bacon's co-religionist and fellow anti-royalist Richard Baxter, <span class="italic">An Historical Discourse</span> was one of the four most influential tracts written in support of the parliamentarian cause, the other three being Henry Parker's <span class="italic">Observations upon some of his Majesties Late Answers and Expresses</span> (1642), Philip Hunton's <span class="italic">Treatise of Monarchie</span> (1643), and William Prynne's <span class="italic">Soveraigne Power of Parliaments and Kingdomes</span> (1643). But the reach of Bacon's treatise extended far beyond the civil wars and interregnum. Continually republished well into the eighteenth century, when it won the praise of the elder William Pitt, <span class="italic">An Historical Discourse</span> was secretly reprinted in 1672, in 1682 at the time of the exclusion crisis, in 1689 at the revolution, again in 1739, and by 1750 in a fifth edition. So fearful were the royalists of Bacon's message that Charles II's government attempted to suppress it by prosecuting the radical printer John Starkey, perhaps a member of the Green Ribbon Club, who dared to publish it. Although Starkey and his like-minded friends might want to &#145;pretend it is only an old book reprinted and an historical discourse of past times without any application to the present&#146;, the king's government knew better. In fact, Bacon's treatise, containing as it did &#145;numerous extracts to prove the anti-monarchical&#146; agenda, was a &#145;dangerous book&#146; that was &#145;dedicated to the service of rebellion&#146; (<span class="italic">CSP dom.</span>, <i>1682</i>, 263, 608; <span class="italic">CSP dom.</span>, <i>1 March 1677&#150;28 Feb 1678</i>, 406, 409).<br>
+<br>Charles II and his advisers were right to be scared, for Bacon's <span class="italic">An Historical Discourse</span> argued with unrelenting force an anti-royalist ideology of enormous persuasive power. This was the radical ancient constitution which, according to modern scholarship, was first fully articulated during the civil wars by polemicists such as William Prynne and Bacon himself. Early a mainstay of the Long Parliament's cause, the ideology consisted of the following propositions: first, while government in general was from God, the particular form came from the people. In England the people in the remote past had made a contract with their ruler, a contract in which their obedience to him rested upon his governing according to the laws made by both king and community. The ruler who failed to act upon the bargain unkinged himself and left his subjects free to replace him with another. For proof of this theorizing, radical ancient constitutionalists such as Bacon turned to the <span class="italic">Modus tenendi parliamentum</span>, the <span class="italic">Mirror of Justices</span>, and the so-called laws of St Edward the Confessor. These three treatises, which claimed to date from the Saxon period but were in fact written in the early twelfth and early fourteenth centuries, described how institutions, especially the common law and a parliament that included the House of Commons, existed in Saxon England and had survived the Norman conquest intact. The continuity of Saxon institutions across the great divide of 1066 was assured when William I and all of his successors down to the Stuart period confirmed St Edward's laws in coronation charters, coronation oaths, and in documents such as <span class="roman">Magna Carta</span>. Stories supportive of this view of medieval history, which are now known to be wrong in important respects, could be read in the works of medieval chroniclers such as Matthew Paris and Henry Huntingdon and also in the more popular histories of Tudor and Stuart writers such as John Foxe, Raphael Holinshed, John Speed, and Richard Baker. By the 1640s, then, radical ancient constitutionalists could draw upon a large and substantial body of literature in support of their particular version of English history, law, and government.<br>
+<br>In <span class="italic">An Historical Discourse</span> Bacon turned repeatedly to the medieval past, especially St Edward's laws and the <span class="italic">Mirror of Justices</span>, to justify the Long Parliament's right to make war against Charles Stuart and the duty of the English people to transfer allegiance to the Cromwellian regime. Bacon wrote to help those who needed guidance in such difficult times. In order to act justly and lawfully, he suggested, they must turn to their own national history, and in particular, to Saxon times. Then they would learn that the Saxon monarchy had been elective and the Saxons' relationship with their king contractual. And, Bacon would argue at length, what held for Saxon rulers held for the Stuarts.<br>
+<br>Bacon found one part of St Edward's laws particularly apt for his polemical purposes. This was chapter 17, &#145;Of the Office of a King&#146;. It read: &#145;The King &hellip; who is the vicar of the highest King, was established for this, that he rule and defend the kingdom and the people of the Lord and, above all, the Holy Church from wrongdoers&#146;; but a king who failed in his duty &#145;loses the very name of king&#146;  (B. R. O'Brien, <span class="italic">God's Peace and King's Peace</span>, Philadelphia, 1999, 175&#150;7). To Bacon, as to Prynne before him and radical ancient constitutionalists throughout the rest of the century, this meant that rulers who broke the terms of the contract with their people deposed themselves and freed their subjects from allegiance. No mere &#145;dead word&#146;, the people's right to make and unmake kings was frequently put into practice in Saxon times, when the nation &#145;made the monarchical crown in this land to walk circuit into all parts of the country to fit heads to wear itself until the Normans came&#146;. This meant that &#145;a Saxon king was no other than a <i>primum mobile</i> set in a regular motion, by laws established by the whole body of the kingdom&#146;  (Bacon, 49&#150;51, 53, 112ff.).<br>
+<br>In addition to being ruled by a king of their own choosing, the Saxons were governed by a &#145;grand assembly&#146; of &#145;<i>king, baronibus, and populo</i>&#146;, that is, a parliament  (Bacon, 59, 60). As for the relationship among the constituent parts, the two houses held the upper hand. So much was clear from the <span class="italic">Mirror of Justices</span>, which described parliament's ancient right to govern the kingdom. This task necessarily entailed sitting in judgment of the king, since rulers could not be judges in their own causes. &#145;To sum up all&#146;, Bacon concluded in the 1647 portion of his work:<blockquote>the Saxon commonweal was a building of greatest strength downward even to the foundation &hellip; It was a beautiful composure, mutually dependent in every part from the crown to the clown, the magistrates being all choice men, and the king the choisest of the chosen. (ibid., 111&#150;12)</blockquote>Nor was this situation altered by the arrival of the Normans, despite royalist claims to the contrary. Indeed, William I never shook &#145;off the clog of Saxon law&#146; or &#145;raise[d] the title of conquest&#146;. Instead he followed the Saxon coronation ceremony, making &#145;a solemn covenant to observe those laws which were <i>bone &amp; approbate &amp; antiquae leges Regni</i>&#146;, that is, St Edward's laws. So, too, did William govern with parliament, as the Saxons had done. In fact, William went so far as to confirm St Edward's laws in a parliamentary assembly of 1070, a confirmation that deserved, in Bacon's view, to &#145;be called the first <span class="roman">Magna Carta</span> in Norman times&#146;  (Bacon, <span class="italic">An Historical Discourse</span> 115&#150;16, 118&#150;19, 155ff., 160ff.). And so it went with William I's heirs and successors, each of whom promised in his turn to govern according to the ancient Saxon laws. This explained how the people of Stuart England came to be governed by the very same laws and institutions as their Saxon predecessors.<br>
+<br>Writing a summation of his work in 1651, Bacon re-emphasized the continuity of an elective and contractual monarchy and a parliament which oversaw its proper functioning. With a salute to both past and present he wrote at the very end of his tract: &#145;as I found this nation a commonwealth, so I leave it, and so it may be forever&#146;  (Bacon). Since the &#145;commonwealth&#146; of which he wrote referred not to a utopia but to the government established after the regicide, Bacon's ancient constitutionalism was indeed of the radical sort. Living in Gray's Inn in 1660 he was a man of some wealth, receiving an annual salary of &pound;500 as master of requests and perhaps as much as &pound;1500 for his anti-royalist services. He died on or after 26 August 1660, when he made his will, and was buried at Barham on 1 September. His wife and seven children survived him&#151;his sons Philip and Francis and his daughters Elizabeth, Katherine, Hanna, Ellen, and Susanna. His eldest son, Nathaniel, predeceased him. The family were left land and property in Suffolk, including the family home at Ipswich, individual bequests of between &pound;250 to &pound;400, and Bacon's law, history, divinity, and philosophy books. The borough of Ipswich awarded Bacon's widow &pound;250 in 1661 in recognition of his work on the &#145;Annalls&#146;. His house in Ipswich was marked by a blue plaque by the Ipswich Society in 2000.<br>
+<br>Janelle Greenberg </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1000&amp;istheme=&amp;target=JHC')"><i>JHC</i></a>, 4&#150;6 (1644&#150;51) &middot; R. Baxter, <i>A holy commonwealth</i> (1659) &middot; <i>Diary of Thomas Burton</i>, ed. J. T. Rutt, 4 vols. (1828) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1000&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1652&#150;3</i>; <i>1655&#150;8</i>; <i>1677&#150;8</i>; <i>1682</i> &middot; M. B. Rex, <i>University representation in England, 1604&#150;1690</i> (1954) &middot; C. Holmes, <i>The eastern association in the English civil war</i> (1974) &middot; D. Underdown, <i>Pride's Purge</i><i>: politics in the puritan revolution</i> (1971) &middot; B. Worden, <i>The Rump Parliament, 1648&#150;1653</i> (1974) &middot; D. Brunton and D. H. Pennington, <i>Members of the Long Parliament</i> (1954) &middot; G. Burgess, <i>The politics of the ancient constitution</i><i>: an introduction to English political thought, 1603&#150;1642</i> (1992) &middot; J. Greenberg, <i>The radical face of the ancient constitution</i><i>: St Edward's laws in early modern political thought</i> (2001) &middot; J. G. A. Pocock, <i>The ancient constitution and the feudal law</i><i>: a study of English historical thought in the seventeenth century. A reissue with a retrospect</i> (1987) &middot; S. L. Kliger, <i>The Goths in England</i> (Cambridge, MA., 1952) &middot; L. G. Schwoerer, <i>The declaration of rights, 1689</i> (1981) &middot; R. L. Greaves, <i>Enemies under his feet</i><i>: radicals and nonconformists in Britain, 1664&#150;1677</i> (Stanford, CA., 1990) &middot; C. Hill, &#145;The Norman Yoke&#146;, <i>Puritanism and revolution</i> (1958), 50&#150;122 &middot; J. P. Reid, &#145;The jurisprudence of liberty: the ancient constitution in the legal historiography of the seventeenth and eighteenth centuries&#146;, <i>The roots of liberty</i><i>: Magna Carta, ancient constitution, and the Anglo-American tradition of rule of law</i>, ed. E. Sandoz (1993) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1000&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a> &middot; G. M. Coles, &#145;Bacon, Edward&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1000&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201558%3F1603')">HoP, <i>Commons, 1558&#150;1603</i></a>, 1.373&#150;4 &middot; N. Bacon, <i>An historical discourse of the uniformity of the government of England</i> (1647) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1000&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; will, TNA: PRO, PROB 11/305, sig. 106 &middot; private information (2007) [J. M. Blatchly] &middot; S. Westhorp, &#145;Memoir of Nathaniel Bacon&#146;, <i>The annalls of Ipswiche</i>, ed. W. H. Richardson (1884), i&#150;vi<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1000&amp;istheme=&amp;target=Folger')">Folger</a>, papers&nbsp;|&nbsp; Suffolk RO, Ipswich, corresp. with the bailiffs of Ipswich about troop movements in civil war, etc., incl. a brief account of the battle of Naseby from eyewitnesses<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> see will, TNA: PRO, PROB 11/305, sig. 106<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Janelle Greenberg, &#145;<span class="roman"><span class="headword">Bacon,  Nathaniel</span>  (<em>bap. </em>1593, <em>d.</em> 1660)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/1000, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Nathaniel Bacon (<em>bap. </em>1593, <em>d.</em> 1660): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1000 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1000/2007-10"> [Previous version of this biography available here: October 2007]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

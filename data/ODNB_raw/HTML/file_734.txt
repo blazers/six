@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 734;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/734-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/734-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=734#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Asgill,  John</span>  (<em>bap. </em>1659, <em>d.</em> 1738), <span class="occ">author</span>, was baptized on 25 March 1659 at Hanley Castle, Worcestershire, the son of Edward and Hester Asgill. His parents provided him with a religious education, and as a young man he attended both Anglican and nonconformist services. In 1686 he entered the Middle Temple, where he studied with the whig lawyer Giles Eyre. On 22 June 1691 he was named an assistant of the Company of the Royal Corporation, which concerned itself with employing the poor, and by September 1691 he was an assistant in the company of merchant adventurers interested in trade with north-western America. He was called to the bar in 1692, and in February 1695 he became a trustee of the Orphans' Fund.<br>
+<br>Convinced that merchants and traders made it difficult to raise funds secured by land, Asgill and Nicholas Barbon founded the first land bank on 29 May 1695. As they explained in <span class="italic">The Settlement of the Land-Bank</span> (1695), their institution funded mortgages through stock composed of liquid capital. By the autumn of 1695 they had subscriptions totalling &pound;350,000. A rival, John Briscoe, established his own land bank on 11 June but on 3 February 1696 the two institutions became affiliated as the Land-Bank United. Asgill and his partners pledged to raise at least &pound;2 million, and for the first seven years to lend at least &pound;500,000 p.a. to the government at 3&frac12; per cent interest. However, although it had some influential backers, including Edward Harley, by 1 August 1696 it had raised only &pound;2100, and by January 1699 it had closed.<br>
+<br>In 1698 Asgill published <span class="italic">An Essay on a Registry, for Titles of Lands</span>, arguing that such an entity would prevent the clandestine conveyance of lands and be worth the cost because it would provide assurance of ownership. In 1699 he was elected to the House of Commons for Bramber, Sussex. In June 1700 Asgill published the book that made him notorious, <span class="italic">An Argument Proving, that &hellip; Man may be Translated</span>. Christ, he argued, had discharged Christians from death, the punishment for having violated the law given to Adam, for Christ's covenant gives believers &#145;that absolute and indefeasible Estate of Eternal Life&#146;  (p. 52). Those who believe in translation will not die but go directly to heaven. The book elicited both mirth, as exemplified in the anonymous verse <span class="italic">The Way to Heaven in a String</span> (1700), and <span class="italic">An Account of Mr Asgil's &hellip; Translation</span> (1717), and outrage. Among the critics was Daniel Defoe, who rejected his thesis in <span class="italic">An Enquiry into the Case of Mr Asgill'[s] General Translation</span> (1704).<br>
+<br>Within days of the book's publication, Asgill left for Ireland to provide legal services to people affected by the <span class="roman">Act of Resumption</span> (1699), which established a commission to examine the disposal of Irish lands forfeited since 1688. Adept in this work, he amassed nearly &pound;10,000, part of which he used in June 1703 to purchase a life interest in the estate of the Jacobite Nicholas Brown, Viscount Kenmare, which was worth &pound;3500 p.a. By the same year he had married Kenmare's eldest daughter, Jane, who, though her parents were Catholic, had been raised as a protestant by her grandmother. When the Irish parliament met in September 1703, Asgill sat for Enniscorthy, co. Wexford, but at the outset the house briefly debated his <span class="italic">Argument</span>, and on 1 October a petition alleging that he had been improperly elected was referred to the elections committee. On 9 October he and William Lilly submitted a petition on behalf of the Hollow Sword Blades Company but two days later the Commons expelled him, having ordered his <span class="italic">Argument</span> to be burnt by the hangman. According to Edward Southwell, &#145;the character of the man and his generosity in his profession, together with several useful proposals he has for the improvement of the country&#146;, almost persuaded the house not to punish him, but the objections of his critics and his refusal to recant led to his ouster  (<span class="italic">CSP dom.</span>, <i>1703&#150;4</i>, 157). On 10 November Anthony Hammond, the guardian of Kenmare's children, petitioned the house, accusing Asgill of breach of trust, but it rejected his charges. Nevertheless, after Asgill left Ireland the leaser of part of Kenmare's estate had him outlawed for debt and thereafter refused to pay rent.<br>
+<br>In May 1705 Asgill again sat in the English House of Commons for Bramber. His legal problems worsened on 4 April 1707 when he was accused of financial misconduct, and on 11 June he was arrested and imprisoned for debt. In response to his plea to Robert Harley, the House of Commons appointed a committee on 10 November to investigate possible precedents for his discharge. While the committee undertook its work, the Commons heard accusations on 25 November that Asgill's <span class="italic">Argument</span> contained passages that contravened Christian principles. The house permitted him to resume his seat on 17 December, and the following day he defended his <span class="italic">Argument</span>. Unpersuaded, the Commons, having resolved that the work contained blasphemous statements, ordered that the hangman burn it and that Asgill be expelled. He petitioned the Commons in January 1708, protesting his innocence in his financial affairs. Unable to pay his debts, Asgill spent the rest of his life imprisoned in king's bench or the Fleet, practising law and writing numerous pamphlets. His wife, who died at some point between 1707 and 1712, shared his confinement.<br>
+<br>In <span class="italic">De jure divino</span> (1710) Asgill argued for the Hanoverian succession on grounds of heredity and divine right. Two years later he published <span class="italic">Mr Asgill's Defence upon his Expulsion from the House of Commons &hellip; in 1707</span>, defiantly maintaining that he still believed in translation, though asserting that he had originally intended only to have a few copies of his <span class="italic">Argument</span> printed for his personal use. He insisted he had neither blasphemed nor intended to criticize scripture. &#145;We are fallen into such a sort of Uniformity, that we would fain turn Religion into a Tyrant's Bed, <i>Torturing one another into our own Size of it only</i>&#146;  (p. 60).<br>
+<br>Asgill has plausibly been suggested as the author of the proem to <span class="italic">Dr D&#151;Nant's Prophecys</span> (1713), and his tory convictions were certainly compatible with those of Charles Davenant. The poem's author justified the right of citizens to speak out when those in power endangered the nation, and he castigated businessmen who engaged in activities that undermined protestant interests in Europe and threatened to bring the world under the rule of a single kingdom, an allusion to France. He had no tolerance for Jacobites, as he made clear in <span class="italic">The Pretender's Declaration Abstracted from Two Anonymous Pamphlets</span> (1713), which likened the Pretender to Lambert Simnel and Perkin Warbeck.<br>
+<br>Economic issues continued to interest Asgill in his late years. In <span class="italic">An Abstract of the Publick Funds</span> (1715) he proposed that parliament redeem all &#145;perpetual funds&#146; owed to the Bank of England (except for &pound;100,000), the East India Company, the South Sea Company, and other bankers, and replace these funds with a loan of &pound;2 million in specie, paid into the Bank of England, &#145;for circulating and maintaining the Credit of Exchequer Bills&#146; bearing 3 per cent interest  (p. 11). He further proposed that the Irish parliament grant a &#145;hereditary&#146; excise or customs to the crown in return for termination of quitrents imposed on selected landowners by the <span class="roman">Act of Settlement</span>. In <span class="italic">A Brief Answer to a Brief State</span> (1719) he asserted that commerce in printed calicoes should not be restricted, and in <span class="italic">The Computation of Advantages</span> (1721) he opposed a proposal for remission of &pound;7.5 million owed by the South Sea Company on the grounds that this would amount to unjust taxation on the public. His wide-ranging interests also led to tracts on the press, divorce, God's kingdom within believers, the <span class="roman">Peerage Bill</span>, the Marshalsea court, and the miracles of Christ. In <span class="italic">An Extract of the Act</span> (1729) he criticized the <span class="roman">Act for the Relief of Insolvent Debtors</span>, arguing that debtors should be allowed to retain 20 or 25 per cent of their possessions and a reasonable portion of their future earnings. Twice in 1731 he wrote in defence of the Charitable Corporation, arguing in <span class="italic">Remarks on the Bill</span> that it should be allowed to issue notes or bills, and in <span class="italic">An Essay upon Charity</span> that the 10 per cent interest it charged on loans was reasonable, and that loans were the greatest form of charity because they prevented penury.<br>
+<br>Some readers have interpreted Asgill's doctrine of translation as a spoof. Likening his irony to that of Defoe and Jonathan Swift and calling his thesis a clever piece of special pleading, Samuel Taylor Coleridge thought Asgill himself did not know if he was serious. Asgill's <span class="italic">Defence</span> seems to suggest as much: &#145;We Authors, when once we put Pen to Paper &hellip; can scarce tell a Man what a clock 'tis, without also entertaining him with some Tale of the Planets, or Lecture upon the Zodiack&#146;  (p. 35). Yet the fact that he refused to recant to save his parliamentary career suggests that he was either serious about translation or defending the right to espouse unorthodox views. He died in November 1738 in the parish of St George, Southwark, and was survived by his sister Martha, a spinster, and his niece Penelope, wife of Arthur Thornton.<br>
+<br>Richard L. Greaves </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Asgill, <i>A collection of tracts written by John Asgill esq; from the year 1700 to the year 1715</i> (1715) &middot; C. R. C., &#145;Asgill (translated John), the paradoxical writer&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=734&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 4th ser., 5 (1870), 569 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=734&amp;istheme=&amp;target=JHC')"><i>JHC</i></a>, 15 (1705&#150;8) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=734&amp;istheme=&amp;target=JHL')"><i>JHL</i></a>, 18 (1705&#150;9), 87, 90, 92, 98, 107 &middot; <i>The journals of the House of Commons of the kingdom of Ireland</i>, vol. 2, pp. 333&#150;4; vol. 3, pp. 31, 41, 106 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=734&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1690&#150;91</i>, pp. 422, 527; <i>1703&#150;4</i>, pp. 130&#150;31, 156&#150;7, 195 &middot; J. K. Horsefield, <i>British monetary experiments, 1650&#150;1710</i> (1960) &middot; <i>The manuscripts of the House of Lords</i>, new ser., 12 vols. (1900&#150;77), vol. 7, pp. 88&#150;9 &middot; <i>The manuscripts of his grace the duke of Portland</i>, 10 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=734&amp;istheme=&amp;target=HMC')">HMC</a>, 29 (1891&#150;1931), vol. 8, p. 297 &middot; N. Luttrell, <i>A brief historical relation of state affairs from September 1678 to April 1714</i>, 6 vols. (1857), vol. 5, pp. 345, 352; vol. 6, pp. 232, 238, 243, 246&#150;7 &middot; <i>The literary remains of Samuel Taylor Coleridge</i>, ed. H. N. Coleridge, 4 vols. (1836&#150;9), vol. 2, pp. 390&#150;97 &middot; <i>Specimens of the table talk of Samuel Taylor Coleridge</i>, 4th edn (1851) &middot; A. Kippis and others, eds., <i>Biographia Britannica, or, The lives of the most eminent persons who have flourished in Great Britain and Ireland</i>, 2nd edn, 5 vols. (1778&#150;93), vol. 1, pp. 289&#150;93 &middot; will, TNA: PRO, PROB 6/115, fol. 206<i>r</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Richard L. Greaves, &#145;<span class="roman"><span class="headword">Asgill,  John</span>  (<em>bap. </em>1659, <em>d.</em> 1738)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2010 [http://www.oxforddnb.com/view/article/734, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Asgill (<em>bap. </em>1659, <em>d.</em> 1738): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/734 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/734/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

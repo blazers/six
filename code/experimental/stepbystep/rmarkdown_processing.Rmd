@@ -1,0 +1,87 @@
+---
+output: html_document
+---
+Examination of ODNB processing results
+--------------------
+
+
+```{r setup, include=FALSE}
+setwd(gsub("sdfb_network.*", "sdfb_network", getwd()))
+source("code/ODNB/ODNB_setup.R")
+ODNBID = 25200
+## ODNB 18800 = Milton, 25200 = Shakespeare
+```
+
+
+## Table of contents {#toc}
+- [Raw HTML file](#rawHtml)
+- [Processed text file (accents removed, HTML cleaned up)](#rawplain)
+- [Extracted Metadata](#metadata)
+- [NER Tagging (after some aggregation)](#imptags)
+- [Final biography matches](#finmatch)
+
+
+## Raw HTML file (with empty lines stripped) {#rawHtml}
+[Return to Table of Contents](#toc)
+```{r loadhtml, echo=FALSE}
+setwd(gsub("sdfb_network.*", "sdfb_network", getwd()))
+load(zzfile_textproc_preproc_rawHTML)
+rawHTML = ODNB_rawHTML[[ODNBID]]
+s = rm_emptylines(rawHTML)
+for(j in seq_along(s)) {cat("[*** Line",j,"***]", s[j], "\n")}
+rm(ODNB_rawHTML)
+```
+
+## Processed text (right before NER) {#rawplain}
+[Return to Table of Contents](#toc)
+```{r loadplain, echo=FALSE}
+setwd(gsub("sdfb_network.*", "sdfb_network", getwd()))
+load(zzfile_textproc_preproc_splitcosub)
+cat("This biography is of cosubject type '", ODNB_cosubstatus[ODNBID], "'\n\n", sep = "")
+
+s = ODNB_cleantext[[ODNBID]]
+for(j in seq_along(s)) {cat("[*** Paragraph",j,"***]", s[j], "\n")}
+
+rm(ODNB_text, ODNB_cleantext)
+```
+
+## Metadata {#metadata}
+[Return to Table of Contents](#toc)
+```{r metadata, echo = FALSE}
+setwd(gsub("sdfb_network.*", "sdfb_network", getwd()))
+load(zzfile_textproc_preproc_metadata)
+trow = t(full_metadata[which(ODNBID == full_metadata$ID),])
+rownames(trow) = NULL
+colnames(trow) = NULL
+print(cbind(colnames(full_metadata), trow))
+```
+
+## Combined NER information {#imptags}
+[Return to Table of Contents](#toc)
+```{r imptags, echo = FALSE}
+setwd(gsub("sdfb_network.*", "sdfb_network", getwd()))
+load(zzfile_textproc_post_improvedpred)
+
+cat("All names found in biography: \n")
+print(ODNB_improvedpred[[ODNBID]][[1]])
+
+cat("All matches in biography: \n")
+print(ODNB_improvedpred[[ODNBID]][[2]])
+rm(ODNB_improvedpred)
+```
+
+## Final Matches {#finmatch}
+[Return to Table of Contents](#toc)
+```{r finmatch, echo = FALSE}
+setwd(gsub("sdfb_network.*", "sdfb_network", getwd()))
+load(zzfile_textproc_post_entitymatrix)
+keep = which(big_entity_matrix$DocumentNum == ODNBID)
+temp = big_entity_matrix[keep,]
+rownames(temp) = NULL
+temp$DocumentNum = NULL
+print(temp)
+```
+
+
+
+

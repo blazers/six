@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20991;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20991-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20991-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20991#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Owen,  David</span> <span class="st"> [<em>pseud. </em>Dewi Wyn o Eifion]</span>  (<em>bap. </em>1784, <em>d.</em> 1841), <span class="occ">poet</span>, was the son of Owen Dafydd and Catherine, his second wife, who lived on the farm of Y Gaerwen, in the parish of Llanystumdwy, Caernarvonshire. He was baptized in that parish on 18 June 1784, and was educated in local schools and, unusually, in a boarding-school at Bangor Is-coed, Flintshire, together with Owen, his younger brother. Owen Owen later established himself as a shopkeeper in Pwllheli and became a man of some importance in the life of the town. David Owen returned to Y Gaerwen and managed the farm himself after the death of his father in 1816.<br>
+<br>David Owen mastered the rules of <i>cerdd dafod</i>, the strict metres of Welsh poetry, at an early age. The commote of Eifionydd was noted for its rich poetic inheritance, and the ancient tradition of bardic teacher and disciple was still alive. His older friend and neighbour Robert Williams (Robert ap Gwilym Ddu), the best contemporary poet, was his main bardic instructor. He benefited, too, from a long acquaintance with David Thomas (Dafydd Ddu Eryri), the influential mentor of the nearby Arfon group of versifiers. Dewi soon became known to the Welsh public as a cantankerous competitor in the reformed eisteddfodau held in the early years of the nineteenth century under the auspices of the Gwyneddigion Society of London, whose leaders required that the main competition should be a prize for the <i>awdl</i>, a long poem in selected strict metres, with competitors using a pseudonym. Dewi's eisteddfod career was marked throughout by bitter controversy. He was declared second best in 1803. In 1805 the prize was first awarded to Bardd Cwsg (Hugh Maurice), a nephew of Owain Myfyr, the authoritative leader of the Gwyneddigion, who refused to reveal his name, and Dewi was then awarded the prize by default. In the Tremadog eisteddfod of 1811 he won a silver cup offered for the best poem on agriculture, but it was withheld owing to a conspiracy among influential members of the Gwyneddigion Society. The quarrel between the poet and the society finally came to a head in 1819. In the Denbigh eisteddfod of that year the society's medal was offered for the best poem on charity (<i>elusengarwch</i>); no announcement was made at the eisteddfod itself, but some three weeks later the Revd Edward Hughes of Bodfari was declared the winner, despite an inferior composition.<br>
+<br>These disappointments so mortified Dewi that, after several fierce onslaughts in verse and prose upon his foes, he gave up competition and wrote nothing of importance from 1823 until his death, apart from his well-known &#145;Stanzas to the Menai Bridge&#146; (1832).<br>
+<br>From 1827 on David Owen spent much of his time in Pwllheli to be with his brother, whose health was deteriorating. On Owen Owen's death in 1837 he returned to Y Gaerwen. By this time the poet was known as a man of considerable means and miserly character. Towards the end of his life he suffered from a deep religious depression; always attracted to the Baptist denomination, he did not officially join it until the year before his death. David Owen never married and died at Y Gaerwen on 17 January 1841. He was buried five days later in Llangybi churchyard. A collection of his main works appeared in 1842, and a final supplement was published in 1869.<br>
+<br>During his lifetime Dewi Wyn was much admired by Romantic critics as a poet of soaring imagination and sublimity. His faults were not ignored, but his genius was held to transcend those weaknesses often enumerated by modern critics: vacuous verbosity, repetitiveness, incoherent imagery, and an urge to exhaust every possible aspect of the poem's subject at interminable length. Dewi Wyn, more than any other poet of the time, was responsible for making the long poem as discursive essay an unfortunate fashion which survived into the early years of the twentieth century. Paradoxically, he regarded his most popular poem, the <i>awdl</i> on charity, as an attempt at the epic genre. His early work suggests that he might have become a poet of importance, but like many others he fell a victim to the demands of eisteddfod competition.<br>
+<br>E. G. Millward </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. J. Gruffydd, <em>Y Llenor</em>, 4 (1925), 9&#150;24 &middot; S. J. Williams, <i>Gw&#375;r ll&ecirc;n y bedwaredd ganrif ar bymtheg</i>, ed. D. Morgan (1968), 18&#150;30 &middot; E. G. Millward, &#145;Eifionydd y beirdd&#146;, <em>Transactions of the Caernarvonshire Historical Society</em>, 25 (1964), 42&#150;65 &middot; R. G. Llwyd, &#145;Bywyd Dewi Wyn o Eifion (1784&#150;1841) ac astudiaeth o'i weithiau a'i gysylltiadau llenyddol&#146;, MA diss., U. Wales, Aberystwyth, 1979<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20991&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, poems and MSS
+   &middot;
+ U. Wales, Bangor, Bangor collections<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> engraving (after portrait by W. Roos), repro. in D. Owen, <i>Blodau Arfon</i> (1842)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;3177: will, Cwrt Mawr collection, NL Wales<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">E. G. Millward, &#145;<span class="roman"><span class="headword">Owen,  David</span>   (<em>bap. </em>1784, <em>d.</em> 1841)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2007 [http://www.oxforddnb.com/view/article/20991, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  David Owen (<em>bap. </em>1784, <em>d.</em> 1841): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20991 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/20991/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

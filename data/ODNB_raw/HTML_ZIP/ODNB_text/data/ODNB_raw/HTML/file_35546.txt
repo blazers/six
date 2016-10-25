@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 35546;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/35/35546-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/35/35546-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=35546#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Plummer,  Henry Crozier Keating</span>  (1875&#150;1946), <span class="occ">astronomer and mathematician</span>, was born at St Giles's Road, Oxford, on 24 October 1875, the eldest son of William Edward Plummer (1849&#150;1928), the new senior assistant at the University of Oxford's observatory, and later director of the Liverpool observatory, and his wife, Sarah Crozier. Plummer was educated at St Edward's School and Hertford College, Oxford. He obtained a first class in mathematical moderations (1895) and finals (1897) and, after winning an open scholarship, second class in natural science (physics, 1898). After a year as assistant lecturer in mathematics at the University of Manchester, and another year as assistant demonstrator in the Clarendon Laboratory, Oxford, he was in 1901 appointed by H. H. Turner second assistant in the University of Oxford's observatory. The first graduate to assist there, he was valued highly by Turner, who in 1907 recommended Plummer for a travelling fellowship to Lick Observatory, California, where for a year he practised spectroscopy and astrophysical observations. In 1912 Plummer was appointed Andrews professor of astronomy in the University of Dublin, royal astronomer for Ireland, and director of the Dunsink observatory.<br>
+<br>Plummer published a large number of original papers. Initially concerned with Oxford's participation in the <span class="roman">Astrographic Catalogue</span>, he also produced papers dealing with dynamical astronomy, the dynamics of globular clusters, stellar motions, and cometary motions (including non-gravitational forces), and on photographic astrometry. In his papers on the theory of correlation, with typical courtesy and determination, he effectively demolished the conclusions reached by the redoubtable Karl Pearson respecting the photometric observation of variable stars. Plummer pointed out the danger of using correlation analysis without due regard to the physical nature of the quantities involved.<br>
+<br>In 1912, by succeeding Sir Edmund Whittaker at Dunsink, Plummer became the only Oxford graduate between 1842 and 1939 to direct a British observatory. Plummer had recognized the limitations of Dunsink but was ambitious. Since 1896 the assistant was Charles Martin, who had been sent over from the Royal Greenwich Observatory. Since 1905 Dunsink had taken only meridian observations for time; their visual parallax observations with the 12 inch South refractor of 1868 had been superseded by photographic methods. The only useful instrument was the 15 inch Isaac Roberts photographic reflector of 1889. Keen to undertake some spectroscopy Plummer made repeated requests for modern instruments, but the university could not afford them, and war intervened.<br>
+<br>Whittaker had devised an ingenious method for using the 15 inch to provide extremely accurate comparisons of stellar magnitudes for variable stars. Plummer and Martin began an extensive programme of photoelectric photometric observations of short period variable stars. Their determinations of changes in brightness achieved a high accuracy of about 0.03 magnitude. Plummer's analysis of the periodicity in the light curves revealed some curious relationships between the phases of the harmonics of some of them. In 1913 he made an important analysis of the cepheid variable Zeta Geminorum. The observed Doppler displacements were inconsistent with earlier theories that this star was a binary, and Plummer showed that the discrepancies could not be attributed to the gravitational action of a third body. This led him to the important conclusion that the Doppler displacements were due, at least in part, to radial displacements of the stellar atmosphere, which he took to indicate a new physical class of stars. He was not then more explicit, but two years later an analysis of the observations of another variable, RR Lyrae, included the first attempt at a theoretical investigation of pulsation, and thereby made a founding contribution to establishing the pulsation theory of cepheid variable stars. He became an authority, and this sound and original work assisted A. S. Eddington to develop his theory of stellar structure.<br>
+<br>It must have been a hard decision for a keen practical astronomer to end his career after only twenty years. But Plummer was not happy in Ireland. He was a bachelor and townsman. Dunsink was 5 miles from the city, and the frustrations of the climate compounded poor equipment, enforcing a preoccupation with theoretical topics. It left him time to write the work for which he is best known, his valuable <span class="italic">Introductory Treatise on Dynamical Astronomy</span> (1918), a stylish and thorough text on celestial mechanics. The political troubles in 1918 prompted him to leave. Although elected FRS in 1920, the possibility of the Glasgow observatory directorship failed to materialize that year. In 1921 Plummer was glad to accept the chair of mathematics at the Ordnance College, Woolwich (later the Military College of Science), which ended his astronomical career. He was not replaced at Dunsink; Martin was acting director until his death in 1936, when the observatory was closed. At Woolwich, Plummer produced two textbooks.<br>
+<br>In 1940 Plummer retired and settled in Oxford, where he was Halley lecturer in 1942. A fellow of the Royal Astronomical Society (RAS) since 1899, he was a council member (1935&#150;42), twice vice-president, and president (1939&#150;41); he did much to steer the RAS through the war years. In 1940 he undertook the preparation of a complete edition of Newton's works for the Royal Society but did not live to complete the task.<br>
+<br>Plummer was modest, calm, and self-effacing. As a mathematician interested in dynamics, the accuracy of measurements, and the theory of errors, he was competent; as an astronomer he was both competent and devoted to his true vocation. On 21 November 1924 he married an old friend, Beatrice Howard (1866/7&#150;1946), former wife of Llewellyn Oliver and daughter of Henry Howard Hayward, a surgeon. She predeceased him by a few months, and this blow probably hastened his own death at his home at 3 Canterbury Road, Oxford, on 30 September 1946. They had no children.<br>
+<br>W. M. H. Greaves<span class="italic">, rev. </span> Roger Hutchins </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. M. H. Greaves, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35546&amp;istheme=&amp;target=Obits.%20FRS')"><i>Obits. FRS</i></a>, 5 (1945&#150;8), 779&#150;89 &middot; J. M. A. Danby, &#145;Plummer, Henry Crozier&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35546&amp;istheme=&amp;target=DSB')"><i>DSB</i></a>, 11.49 &middot; W. M. Smart, <em>Monthly Notices of the Royal Astronomical Society</em>, 107 (1947), 57&#150;9 &middot; E. Whittaker, &#145;Henry Crozier Plummer&#146;, <em>The Observatory</em>, 66 (1945&#150;6), 394&#150;7 &middot; P. A. Wayman, <i>Dunsink observatory, 1785&#150;1985</i><i>: a bicentennial history</i> (1987) &middot; J. Lankford, &#145;The impact of photography on astronomy&#146;, <i>Astrophysics and twentieth-century astronomy to 1950</i>, ed. O. Gingerich (1984), 16&#150;39, esp. 34&#150;9, pt A &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <i>c.</i>1939&#150;1941, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35546&amp;istheme=&amp;target=RAS')">RAS</a> &middot; photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=35546&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;19,702 11<i>s</i>. 11<i>d</i>.: administration with will, 3 April 1947, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">W. M. H. Greaves, &#145;<span class="roman"><span class="headword">Plummer,  Henry Crozier Keating</span>  (1875&#150;1946)</span>&#146;, rev. Roger Hutchins, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/35546, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Henry Crozier Keating Plummer (1875&#150;1946): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/35546 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

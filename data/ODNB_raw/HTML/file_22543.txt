@@ -1,0 +1,409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22543;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22543-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22543-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22543#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=22543&amp;orientation=p')"><img border="0" alt="Sir  John Popham (c.1531&#150;1607), by unknown artist, in or before 1592" onmouseover="status='Sir  John Popham (c.1531&#150;1607), by unknown artist, in or before 1592'" src="/images/article-imgs/22/22543_1_200px.jpg"></a><span class="imagecaption"><b>Sir  John Popham (<em>c.</em>1531&#150;1607)</b>, by unknown artist, in or before 1592</span>
+</div>
+<div class="para">
+<span class="headword">Popham, Sir  John</span>  (<em>c.</em>1531&#150;1607), <span class="occ">judge and speaker of the House of Commons</span>, was born into a Somerset family of considerable antiquity. He was the second son of Alexander Popham of Huntworth (<i>d</i>. 1557) and Joan Stradling of St Donats, Glamorgan. He is said to have been educated at Balliol College, Oxford, but is not recorded as having taken any degree. He proceeded to the Middle Temple, where he was autumn reader in 1568 (on the <span class="roman">Statute of Fines</span>), Lent reader in 1573 (on the <span class="roman">Statute of Wills</span>), and treasurer in 1580. He served as recorder of Bridgwater and of Bristol, which latter borough he represented in the parliaments of 1571 and 1572. His legal career developed rapidly alongside his parliamentary activities. He was created serjeant-at-law in 1578, but discharged from the degree (as was the custom) on his appointment as solicitor-general in 1579. In 1581 he was elected speaker of the House of Commons, and later that year appointed attorney-general. In 1592 he resumed the coif and was appointed chief justice of the king's bench on the death of Sir Christopher Wray, retaining the position until his death.<br>
+<br>It was perhaps through his mother's connections that Popham met and married, by 1556, Amy, the daughter and heir of Hugh Adams of Castleton, Glamorgan. They had one son, <script>writeSeealsoLink('../view/article/22540/', "Sir Francis Popham")</script>, and six daughters, and were only parted by Popham's death more than fifty years later. Her property, together with land in Bridgwater and elsewhere subsequently left to him by his father, put the family on a secure economic base. This was soon built upon. Popham's legal practice was extremely lucrative, and he was able to invest substantially in lands in Somerset, Wiltshire, and Devon. At his death his estate, which passed largely to his eldest son, Sir Francis, was reputed to be worth &pound;10,000 per annum.<br>
+<br>Popham was an excellent technical lawyer. Lord Ellesmere described him as &#145;a man of great wisdom and of singular learning and judgement in the law&#146;  (<span class="italic">State trials</span>, 2.699); and Sir Edward Coke was no less fulsome in his praise: &#145;a most reverend Judge, of a ready apprehension, profound judgment, and excellent understanding in the true reason of the law&#146;  (Coke, fol. 75). During his tenure of the chief justiceship of the king's bench he moved the common law forward, in opposition to the strongly conservative tendencies of Chief Justice Sir Edmund Anderson of the court of common pleas. As attorney-general and then chief justice, he played an active part in many state trials. Most notably, he presided over the trials of the earl of Essex (where his own evidence as one of those sent by the queen to quell the incipient uprising was material), Sir Walter Ralegh (where he had to intervene to control the invective of the attorney-general, Sir Edward Coke), and the Gunpowder conspirators. He had a reputation for impartiality and &#145;wholesome severity&#146;  (Camden, under Wellington) in criminal matters, and was known as a hanging judge who opposed the overgenerous use of pardons. This is alluded to in a verse epistle to Ben Jonson, attributed to John Donne but probably by Sir John Roe:<blockquote>
+<div>And when I true friendship end<br>
+</div>
+<div>With guilty conscience let me be worse stonge,<br>
+</div>
+<div>Than with Pophams sentence theeves, or Cookes tongue<br>
+</div>
+<div>Traitors are.<br>
+</div> (<span class="italic">Poems of John Donne</span>, 2.214)</blockquote>Yet when he felt it appropriate he was capable of going far beyond the demands of judicial office in ensuring a fair trial for the accused: on one occasion he is reported to have prompted from the bench a poor man accused of a very minor act of sedition, feeding him with answers to the questions being put to him and then acquitting him of the charge. Like most lawyers of his time he collected notes of cases; a volume of reports attributed to him was published in 1656.As chief justice, Popham's duties extended far beyond the purely legal. He was heavily involved in enforcing religious policy, with providing advice relating to overseas trade, and more generally with economic regulation. He took his responsibilities very seriously. When charged with testing the efficacy of a new technique for the dyeing of cloth, for example, he carried out the necessary trials in the privacy of his own chamber with an independent assistant, using a variety of substances including scalding wine, vinegar, water, and salt, then subjected the dyed cloth to a rigorous regime of hard wearing, finally drawing up a patent for the technique in such terms that it would be void should the patentees attempt to pass off less effective dyes as the genuine product. Even well into his eighth decade, and notwithstanding that he was afflicted with the stone, he would travel between London and Wiltshire or sit up late into the night examining suspected traitors.<br>
+<br>Popham's severity towards thieves may have been notorious, but it was only the most visible aspect of his deep-seated and almost obsessive concern for the operation of the criminal justice system and for what he clearly recognized as the related question of the relief of poverty. On the one side, as chief justice he was assiduous in his oversight of the mechanics of the criminal law, and on the other side he was in all probability one of the principal architects of the poor law of 1598; but it was in the middle ground between these that his efforts were primarily concentrated. In an unprinted memorandum dated just before his death in 1607, written jointly with James Altham, he proposed the setting up of workhouses in Essex &#145;for loose and lewd people which are delivered and set free from imprisonment at every assize, so that they can be kept at some labour&#146;, in the absence of which they would in all probability turn out as common thieves. Similar sentiments underlay the foundation by his will of a house of correction or workhouse in Wellington, Somerset, coupled with a hospital for two orphans (&#145;not base-born&#146;) and twelve paupers, among whose duties was to be the management of the house of correction.<br>
+<br>Popham's work in parliament reveals other concerns. As well as intervening on a range of technical legal matters and the combined questions of poverty and vagabondage, he spoke several times on issues connected with maritime trade and the state of the navy. Later on in life he had an interest in reclaiming land by draining the fens, leading to a complaint in 1606 that &#145;covetous bloody Popham&#146; would ruin many poor people  (<span class="italic">CSP dom.</span>, <i>1603&#150;10</i>, 300). No less important was his involvement in early American colonization projects. He was said to be the principal patron of the Plymouth Company, and through it the main inspiration for the attempted colonization of Maine in 1606&#150;7. The foray proved unsuccessful after a particularly harsh winter brought about the death of most of the colonists, though a contemporary account suggests that the real cause of its decline was Popham's death and the consequential loss of leadership and direction in the company. He was, too, a prime mover in the foundation of the Virginia Company and the grant of its charter in 1606. There are clear hints that he saw this not simply as a means for increasing the wealth and prestige of the British crown, but also as a way to deal with the social problems caused by the numbers of &#145;cashiered captains, of poor artisans that would and cannot work, and of idle vagrants that may and will not work&#146;  (<span class="italic">Salisbury MSS</span>, 18.84); but, if this was his plan, there is no clear evidence that it was ever brought to fruition.<br>
+<br>John Aubrey's brief biography suggests that in his youth Popham himself was riotous and not wholly law-abiding, and hints at his having been a cutpurse. This is improbable, but there is more than a whiff of sharp practice about some of his business dealings. Most notable of these was his obtaining the manor of Littlecote, Wiltshire, on the death of Wild William Darell in 1589. Darell, who was involved in various intrigues and was several times prosecuted for slandering the queen, had conveyed the reversion of the land to Popham, his legal adviser, in 1586; the circumstances of the transaction are obscure, but since a similar arrangement had been made between Darell and his previous lawyer, Thomas Bromley, it may well have been intended as a means of ensuring the security of the property should he have been convicted. Whatever the truth of the matter, Popham's retention of the manor after Darell's death generated a degree of criticism and spawned some demonstrably inaccurate folk myths, uncritically retailed by Aubrey, which did not reflect well on Popham's probity.<br>
+<br>Few judges of the period were renowned for their elegant good looks, and Popham was no exception. Aubrey's description of him as &#145;a huge, heavy ugly man&#146;  (<span class="italic">Lives</span>, ed. Walker, 2.493), though uncharitable, was thoroughly well justified. He died on 10 June 1607, and was buried in the parish church at Wellington, Somerset, where his monument survives.<br>
+<br>David Ibbetson </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. L. Thorne, <i>The history and antiquities of the town of Wellington, Somerset</i> (1950), 27&#150;30 &middot; A. L. Humphreys, <i>Materials for the history of the town and parish of Wellington in the county of Somerset</i>, 1 (1908), 77 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201558%3F1603')">HoP, <i>Commons, 1558&#150;1603</i></a>, 3.234&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=Baker%2C%20Serjeants')">Baker, <i>Serjeants</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=Sainty%2C%20Judges')">Sainty, <i>Judges</i></a> &middot; C. H. Hopwood, ed., <i>Middle Temple records</i>, 4 vols. (1904&#150;5) &middot; <i>Calendar of the manuscripts of the most hon. the marquis of Salisbury</i>, 24 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=HMC')">HMC</a>, 9 (1883&#150;1976) &middot; <i>Report on the manuscripts of the marquis of Downshire</i>, 6 vols. in 7, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=HMC')">HMC</a>, 75 (1924&#150;95) &middot; <i>Report on the manuscripts of F. W. Leyborne-Popham</i>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=HMC')">HMC</a>, 51 (1899) &middot; <i>Report on the manuscripts of Lord De L'Isle and Dudley</i>, 6 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=HMC')">HMC</a>, 77 (1925&#150;66) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1603&#150;10</i> &middot; F. T. Colby, ed., <i>The visitation of the county of Somerset in the year 1623</i>, Harleian Society, 11 (1876) &middot; TNA: PRO, Popham papers, 30/34 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 28607, fols. 33&#150;110<i>v</i>; Hargrave MS 89, fols. 4&#150;20<i>v</i> &middot; will, TNA: PRO, PROB 11/38, fol. 56<i>v</i> [father's will] &middot; inquisition post mortem, TNA: PRO, C142/303/128 &middot; father's inquisition post mortem, TNA: PRO, C142/108/104 &middot; Essex RO, Q/SR 179/69 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=State%20trials')"><i>State trials</i></a> &middot; <i>Letters written by eminent persons &hellip; and &#145;Lives of eminent men&#146; by John Aubrey</i>, ed. J. Walker, 2 (1813), 492&#150;493 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 2.20 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Wiltshire</i>, 12.28 &middot; C. E. Long, &#145;Wild Darell of Littlecote, Wiltshire&#146;, <em>Arch and Nat Hist Mag</em>, 4 (1858), 209 &middot; C. E. Long, &#145;Wild Darell of Littlecote, Wiltshire&#146;, <em>Arch and Nat Hist Mag</em>, 6 (1860), 201, 390 &middot; G. Camdeno [W. Camden], <i>Britannia, sive, Florentissimorum regnorum, Angliae, Scotiae, Hiberniae</i> (1594) &middot; E. Coke, <i>Sixth report</i> &middot; <i>The poems of John Donne</i>, ed. H. J. C. Grierson (1912) &middot; W. Strachey, <i>The historie of travell into Virginia Britania</i>, ed. L. B. Wright and V. Freund, Hakluyt Society, 2nd ser., 103 (1953) &middot; S. M. Kingsbury, <i>An introduction to the records of the Virginia Company of London</i> (1905)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Hatfield House, Hertfordshire, letters and papers
+   &middot;
+ Inner Temple, London, letters
+   &middot;
+ papers, PRO 30/34&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=Hunt.%20L.')">Hunt. L.</a>, official corresp., incl. to Lord Chancellor Ellesmere<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> oils, in or before 1592; formerly Littlecote House Wiltshire; Sothebys, 21 Nov 1985, lot 808 [<i>see illus.</i>] &middot; oils, after 1592, Kimbolton School, Cambridgeshire &middot; G. P. Harding, watercolour drawing (after portrait, <i>c.</i>1592), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22543&amp;istheme=&amp;target=NPG')">NPG</a> &middot; engraving (after portrait, Littlecote House, Wiltshire, after <i>c.</i>1592) &middot; oils (version of portrait, in or before 1592); Christies, 12 April 1991, lot 1 &middot; tomb effigy, St John Baptist Church, Wellington, Somerset<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> approx. &pound;10,000 p.a.: <i>Letters written by eminent persons</i>; inquisition post mortem, TNA: PRO, C142/303/128<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Ibbetson, &#145;<span class="roman"><span class="headword">Popham, Sir  John</span>  (<em>c.</em>1531&#150;1607)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/22543, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  John Popham (<em>c.</em>1531&#150;1607): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22543 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22543/2006-10"> [Previous version of this biography available here: October 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 15834;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/15/15834-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/15/15834-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=15834#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Labelye,  Charles</span>  (<em>bap. </em>1705, <em>d.</em> 1762), <span class="occ">engineer and mathematician</span>, was born in Vevey, Switzerland, and baptized on 12 August 1705, the son of Fran&ccedil;ois Dangeau La B&eacute;lye and his wife, Elisabeth, <i>n&eacute;e</i> Grammont. The baptismal entry of a subsequent child in 1709 described the father as &#145;Monsieur Fran&ccedil;ois Dangeau, Sieur de la B&eacute;lye, refugi&eacute; en cette ville par sa Religion&#146;  (<span class="italic">DNB</span>). Labelye's Huguenot father is thought to have been related to the marquis de Dangeau, a prominent member of the court of Louis XIV and author of a volume of memoirs. Another child was baptized in 1714: one of the godparents was Madame de Warens, the associate of J. J. Rousseau  (Chavannes, 262).<br>
+<br>Labelye moved to England in the early 1720s: &#145;I was neither born nor bred in England, but in Swisserland; and never heard a word of English spoken, till I was near twenty years of age&#146; he wrote in 1739  (Labelye, vi), but he claimed in 1736 that he had been resident in London for some sixteen years. He soon made contact with Huguenot circles, in particular with J. T. Desaguliers (1683&#150;1744), and joined a French masonic lodge in 1725. He travelled to Madrid in 1727&#150;8, and is known to have visited the Low Countries at some point. By November 1728 he was back in London, and embarked on his career as a mathematician and engineer. In 1734 he supplied maps and plans of the Thames to promoters of a scheme to erect a bridge at Westminster, and in April 1735 wrote a letter to Desaguliers concerning the prevalent laws of motions and their mathematical implications which was subsequently published in Desaguliers's <span class="italic">Course of Experimental Philosophy</span> (1745, 2.77). Labelye's calculations concerning water flow were used by Nicholas Hawksmoor (1661&#150;1736) in his <span class="italic">Propositions for Erecting a New Stone Bridge at Westminster</span> in 1736. They were the first contribution to bridge building in Britain made by scientific theory. In that year he produced the &#145;Mapp of the downes &hellip; together with the soundings at low water, places of anchorage and all the necessary leading marks&#146;, in which he described himself as an &#145;Engineer, late Teacher of Mathematics in the Royal Navy&#146;  (TNA: PRO, MPH 218).<br>
+<br>It was the building of Westminster Bridge that brought Labelye to prominence. An act of parliament (9 Geo. II, cap. 29) was passed in 1736, entitled &#145;An act for building a bridge across the River Thames, from the New Palace Yard in the City of Westminster to the opposite shore in the county of Surrey&#146;. In June 1737 Labelye was one of five persons instructed to provide the commissioners of the bridge with surveys of the river, and in May 1738 he was appointed engineer at a yearly salary of &pound;100, with daily expenses of 10<i>s</i>. The selection of a foreigner for a work of such national prestige caused considerable resentment among Labelye's disappointed rivals: he had already been attacked as &#145;the Swiss imposter&#146; by the disappointed Batty Langley (1696&#150;1751). The various schemes were reviewed in a work published by John James (<i>d</i>. 1746) in 1736. The first pile for the bridge's foundations was driven in September 1738, and the first stone laid in January 1739 by Henry Herbert, ninth earl of Pembroke, the most active of the many Westminster Bridge commissioners.<br>
+<br>Labelye's commission initially extended only to the erection of stone piers; the design of the superstructure was not decided upon until 1740, when a modified version of Labelye's 1738 design was agreed upon. The final result consisted of a stone bridge of fifteen arches and fourteen piers. Labelye was assisted considerably in the architectural treatment of the bridge by the earl of Pembroke. Of particular significance was Labelye's employment of caissons&#151;huge open wooden boxes, built on the shore and sunk into the river bed&#151;within which the stone piers were constructed. The method was not new, but had never been tried on such a scale. Labelye published <span class="italic">A short account of the methods made use of in laying the foundation of the piers of Westminster Bridge</span> in 1739, and the anonymous <span class="italic">Present State of Westminster Bridge</span> is believed also to be by Labelye. A prospectus for a large work on the bridge was issued in 1744, but not proceeded with. Labelye's <span class="italic">The Description of Westminster Bridge</span>, a slightly expanded version of his 1739 work, appeared in 1751, and the caisson design was published in Belidor's <span class="italic">Architecture hydraulique</span> (vol. 4, 1752). The bridge was substantially complete by late 1746 but some piers had begun to show signs of excessive settlement. Labelye was obliged to oversee an expensive programme of repair, while Batty Langley saw fit to publish <span class="italic">A Survey of Westminster Bridge, as 'tis now Sinking into Ruin</span>, in which Labelye was termed &#145;an insolvent ignorant, arrogating Swiss&#146;, and attacked in a cartoon. The bridge was not opened to traffic until November 1750.<br>
+<br>In a petition to the bridge commissioners of February 1751 Labelye observed how much money he had saved the project, and how much he had suffered on behalf of the commission, &#145;in whose service I have spent above 12 years and the prime of my life, and greatly impaired my health having contracted asthma (daily growing upon me) by my constant attendance on the works, especially on the water in winterly and rainy weather&#146;  (Ruddock, 17). He also claimed to have turned down several lucrative offers from abroad. He was accordingly granted a gratuity of &pound;2000 from the bridge commissioners, and was retained as engineer at a salary of &pound;150. The largest stone bridge built up to that time in Britain, Westminster Bridge attracted considerable attention at home and abroad and was depicted in numerous paintings and engravings. In 1752 the bridge was described as &#145;the most magnificent monument of our times&#146;  (Belidor, 4.191).<br>
+<br>Other projects occupied Labelye, although his only other bridge was that over the Thames at Brentford, commenced in 1740 and completed in 1742. He was consulted in 1746 by the corporation of London concerning London Bridge, but his proposals were not acted upon. Labelye's design for a harbour at Sandwich was engraved by Harris about 1740, and in 1747 he prepared a report on Yarmouth harbour. He also produced a report in 1748 on the improvement of the River Wear and the port of Sunderland.<br>
+<br>Labelye enjoyed the patronage of John Russell, fourth duke of Bedford, as well as that of the earl of Pembroke. In 1744 the duke asked him to prepare a report on the drainage of the fens: this was published in 1745 as <span class="italic">The Result of a View of the Great Level of the Fens</span>, and revealed Labelye's familiarity with continental drainage systems. Late in 1745 Labelye was asked to prepare a report on the viability of repairing the Howland Great Wet Dock in Rotherhithe. The resulting report, written in April 1746, recommended selling the dock to the Royal Navy: that the duke of Bedford was first lord of the Admiralty cannot have escaped Labelye's attention.<br>
+<br>Labelye was naturalized by act of parliament in 1746 (19 Geo. II, cap. 26), but the criticisms of Westminster Bridge and the effect upon his health resulted in a decision to leave England. Little is known of his later life. In April 1752 he departed for southern France, and in 1753 he was encountered in Naples. He subsequently lived in Paris, where he became acquainted with Jean-Rodolph Perronnet, head of the &Eacute;cole des Ponts et Chauss&eacute;es, to whom he bequeathed papers and a model of Westminster Bridge.<br>
+<br>Several dates have been proposed for Labelye's death. According to Pierre-Charles Lesage he died in France about 1770 (<span class="italic">Recueil de divers m&eacute;moires extrait de la Biblioth&egrave;que des Ponts et Chauss&eacute;es</span>, 1810); two later publications, <span class="italic">Le conservateur Suisse</span> (1817) and Albert de Montet's <span class="italic">Dictionnaire biographique des genevois et des vaudois</span> (1877), give 17 December 1781. However, an earlier date of 1762 appears more likely given several obituary notices in the English press of which the earliest (<span class="italic">London Chronicle</span>, 25 Feb 1762) noted news &#145;by letters from Paris&#146; of Labelye's death &#145;in a pretty advanced age&#146;; similar notices were carried in the <span class="italic">Gentleman's Magazine</span>, which gave the date of death as 18 February in Paris  (<span class="italic">GM</span>, 32, 1762, 94) and in the <span class="italic">Norfolk Gazette</span> (6 March 1762); in August 1764 the <span class="italic">Gazeteer and New Daily Advertiser</span> referred to the &#145;late ingenious Mr Labelye&#146;. The <span class="italic">London Chronicle</span> commented that, as a British citizen, Labelye had refused requests to work on French fortifications while living in that country. He is not known to have married, or fathered any children. Westminster Bridge was rebuilt in 1854&#150;62.<br>
+<br>Roger Bowdler </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15834&amp;istheme=&amp;target=Colvin%2C%20Archs.')">Colvin, <i>Archs</i>.</a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15834&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; R. J. B. Walker, <i>Old Westminster Bridge</i><i>: the bridge of fools</i> (<i>c.</i>1979) &middot; T. Ruddock, <i>Arch bridges and their builders, 1735&#150;1835</i> (1979) &middot; N. Kent, &#145;Innovator in stone: Charles Labelye, 1705&#150;82&#146;, <em>Country Life</em>, 174 (1983), 1374&#150;6 &middot; J. Chavannes, <i>Les r&eacute;fugi&eacute;s fran&ccedil;ais dans le pays de Vaud et particuli&egrave;rement &agrave; Vevey</i> (Lausanne, 1874) &middot; C. Labelye, <i>A short account &hellip; of Westminster bridge</i> (1739), VI &middot; J. James, <i>A short review of the several pamphlets and schemes &hellip; in relation to building a bridge at Westminster</i> (1736) &middot; B. F. de Belidor, <i>Architecture hydraulique</i>, 4 (1752) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15834&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 1st ser., 32 (1762), 94<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15834&amp;istheme=&amp;target=Inst.%20CE')">Inst. CE</a>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15834&amp;istheme=&amp;target=LMA')">LMA</a>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=15834&amp;istheme=&amp;target=Norfolk%20RO')">Norfolk RO</a>, report on Yarmouth harbour<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. Ryle, portrait (of Labelye?), repro. in Sotheby's sale catalogue (31 Oct 1990), lot 275<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Roger Bowdler, &#145;<span class="roman"><span class="headword">Labelye,  Charles</span>  (<em>bap. </em>1705, <em>d.</em> 1762)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2009 [http://www.oxforddnb.com/view/article/15834, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Labelye (<em>bap. </em>1705, <em>d.</em> 1762): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/15834 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/15834/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 53868;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/53/53868-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/53/53868-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=53868#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Wing,  Vincent</span>  (1619&#150;1668), <span class="occ">astronomer, astrologer, and land surveyor</span>, was born on 9 April 1619 at North Luffenham, Rutland, the son of Vincent Wing (1587&#150;1660) of North Luffenham. The family, settled there for three generations but originally from Wales, was of &#145;rather good, than great&#146; standing, in the words of Wing's friend and biographer John Gadbury  (Gadbury, 1).<h2>
+<a name="Astronomyandpracticalmathematics"></a>Astronomy and practical mathematics</h2>Wing was the founder of a remarkable dynasty of mathematical practitioners in the east midlands. His parents' limited means and the unsettled times ruled out any chance of a university education. Instead Wing taught himself arithmetic, surveying, and dialling by the age of twenty, mastered Latin, and acquired a competence in Greek. He spent the rest of his life practising as a surveyor and diallist in the east midlands, living in domestic harmony with his wife Alice. His <span class="italic">Geodates practicus, or, The Art of Surveying</span> (1664) provided a thorough exposition of the principles and practice of land and quantity surveying, using some of his own commissions as case studies. It describes the use of instruments, including a chain scale he had invented and demonstrated in 1637 at the age of eighteen. He intended the book to be of use for bricklayers, plasterers, and other craftsmen, and included some useful tables on their costs and charges.<br>
+<br>Wing's fame rested primarily on his achievements in astronomy, as a champion of the new astronomical systems of Copernicus and Tycho Brahe. Here too his interest began early, no doubt kindled by his father, who had made astronomical observations of his own in 1621. Wing mentions observing a solar eclipse when he was eleven, in 1630, probably with his father, adding that &#145;being then in my tender years, I could not make an accurate Observation&#146;  (<span class="italic">Harmonicon coeleste</span>, 1651, 157). In 1649 he published <span class="italic">Urania practica, or, Practical Astronomie</span>, written jointly with his friend the mathematician William Leybourn. It supplied an ephemeris for nineteen years, with notes on the application of the data in astrology and navigation, and the brief section on cosmology set out the planetary system as formulated by Tycho Brahe. The work was dedicated to the Rutland MP, Sir James Harrington, and carried admiring verses from Wing's father and several friends, including the surveyor Silvanus Morgan.<br>
+<br>Wing's next work, the pioneering <span class="italic">Harmonicon coeleste</span> (1651), was a far more important publication, the first significant English treatise on planetary astronomy since the Copernican revolution; &#145;its my hap indeed to appear first upon the English Theatre&#146;, he remarked  (<span class="italic">Harmonicon</span>, sig. Aa5). It was dedicated to his neighbour Baptist, Lord Noel (1611&#150;1682), and commended to &#145;all Scholars, Astronomers, Astrologers, Divines, Physitians, Historiographers, Politicians and Poets&#146;. It carried enthusiastic tributes by Leybourn and John Booker. Wing explained in detail the application of logarithms to astronomical problems, drawing on earlier works by Edmund Gunter, Henry Briggs, and others, before describing the solar system according to the Copernican model. He discussed the size, distance, and motions of the planets, with extensive tables based on the observations of Tycho Brahe and Kepler, supplemented by others more recent made by Wing himself and his friends Leybourn and Robert Billingsley, a young Rutland neighbour studying at Cambridge. Wing described his next substantial work, <span class="italic">Astronomia instaurata</span> (1656), a &#145;compendious Restauration of Astronomie&#146;, as a supplement to the <span class="italic">Harmonicon</span>; it covered some of the same ground, adding new tables and an appendix giving further planetary observations.<br>
+<br>Wing's last and most important work, <span class="italic">Astronomia Britannica</span> (1669), appeared shortly after his death. This was a large-scale Latin treatise on the size, distance, and motions of the planets according to the Copernican system, documented by numerous observations by Tycho Brahe, Bullialdus, Gassendus, and other continental astronomers, and by Wing himself and a group of English astronomers with midlands connections, notably Samuel Foster, John Palmer, and John Twysden. This volume, aimed at a European as well as English readership, was the most significant English astronomical work of its time and made a considerable impact both in England and on the continent. John Gadbury claimed that in fame and honour Wing was now indeed the equal of Kepler, Tycho Brahe, and (somewhat implausibly) Julius Caesar. Wing's powerful advocacy of Copernicanism, in both scholarly and popular writings, played a significant part in its triumph over Tycho Brahe's system in the mid-century. Wing also published <span class="italic">Ephemerides</span> for seven years (1652), thirteen years (1658), and thirty years (1669), which were regarded as the best in print by John Flamsteed, also a midlander and a fairly regular correspondent. Despite his Rutland base, Wing was on friendly terms with most of the leading mathematicians of the day, including Sir Charles Scarburgh, John Pell, Edmund Wingate, John Wallis, John Wyberd, and George Atwell, and with the leading London instrument makers, especially Walter Hayes. Wing had some critics too, however: in 1649 Jeremy Shakerley, then a very young man, published a sharp attack on the accuracy of Wing's and Leybourn's data in <span class="italic">Anatomy of &#145;Uranica practica&#146;</span>, to which Wing replied in <span class="italic">Ens fictum Shakerley</span>. Some years later Wing also quarrelled with Thomas Streete, author of the most important rival planetary tables. In <span class="italic">Examen astronomiae Carolinae</span> (1665) Wing criticized Streete's tables as seriously flawed; Streete hit back, and rival supporters continued their quarrel for a generation after after both combatants had died.<h2>
+<a name="Astrologyandpolitics"></a>Astrology and politics</h2>Wing was an astrologer as well as astronomer, publishing an almanac for the Company of Stationers from 1641 until his death. He explained in the first edition that it was the astronomical errors in existing titles that had prompted him to publish, though he defended the influence of the stars on political events as well as the weather and the human body. Gadbury later claimed that Wing was always loyal to the crown and a devoted churchman, but this appears misleading. Though his early political prophecies were discreetly worded, Wing appears to have been a moderate parliamentarian. In the 1647 almanac he recalled the great &#145;victory&#146; at Naseby  (sig. C<i>v</i>), while in 1648 he looked for a settlement with the king so that the work of reformation &#145;so happily begun&#146; might be completed, and religion reduced to its original purity  (<span class="italic">Almanac</span>, 1648, sig. C7<i>v</i>). In his almanac for 1649 (written in mid-1648) he predicted the defeat of the Scots and hinted at the downfall of the king. Other evidence points the same way. He mentions having been, in 1645, &#145;employed in the publique affaires of the Kingdome&#146;  (<span class="italic">Harmonicon coeleste</span>, 157) and ostentatiously dated his almanac for 1648 from Belvoir Castle, seat of the parliamentarian earl of Rutland. He dedicated his <span class="italic">Ephemerides</span> (1652) to his patron, the regicide Thomas Waite, MP for Rutland.<br>
+<br>In the 1650s Wing used his almanacs to launch jingoistic attacks on the Dutch, French, and Spanish. The almanacs also reflect the apocalyptic mood of the era, which he fully shared, but he was a fierce and consistent enemy of the sectarian radicals, and the almanacs of the later 1650s show a generally more conservative spirit. In the 1650s he was the friend of the royalist astrologer George Wharton, as well as the parliamentarians Lilly and Booker. Wing welcomed the Restoration with enthusiasm, and even claimed (not very convincingly) to have hinted at it in his almanac for 1660. He now spoke of the &#145;Egyptian Bondage&#146; of the parliamentary regime  (<span class="italic">Almanack</span>, 1661, sig. C5<i>v</i>), called for justice against the regicides, and denounced the Quakers.<br>
+<br>With the approach of 1666 Wing's old millenarian hopes assumed a new, royalist garb. He predicted upheavals leading to the fall of Rome, after which a royal conqueror would arise in Britain who would bring peace and unity to the world before the final apocalypse. Despite his political shifts, his almanacs remained moralistic and pious in tone. Gadbury called them &#145;in a manner, Sermons&#146;  (Gadbury, 11), and they contained frequent denunciations of worldly vanity, and attacks on the greed of enclosing landlords. (Wing approved in principle of enclosure, which provided part of his livelihood, but he insisted on proper provision for the poor to prevent depopulation.) Wing also used his annual almanacs to popularize astronomical knowledge. In the 1640s his almanacs followed Tycho Brahe's system, but from the early 1650s adopted a firmly Copernican stance.<br>
+<br>Gadbury observed that as a surveyor Wing was for thirty years &#145;constantly upon business, riding early and late, in all kinds of weather&#146;  (Gadbury, 23, <i>recte</i> 31), and thought this contributed to the consumption which led to his death. He died at North Luffenham on 20 September 1668 survived by his wife, Alice, and by two sons and three daughters. He was buried at North Luffenham on 21 September. Gadbury described him as &#145;a most careful and loving Husband, And a kind and Indulgent Father&#146;  (Gadbury, 22, <i>recte</i> 30); as well as land in North Luffenham, Wing left The Cock inn and five cottages in Stamford.<h2>
+<a name="TheWingdynasty"></a>The Wing dynasty</h2>Wing's almanac was continued in the years 1670&#150;72 under the name of his elder son Vincent (1656&#150;1678), and then lapsed. It was revived in 1680 by his nephew John. <a name="cosubject_53868"></a><span class="headword">John Wing</span>  (<em>bap. </em>1662, <em>d.</em> 1726), <span class="occ">surveyor and almanac maker</span>, baptized on 5 April 1662, was the son of Moses Wing (<i>bap</i>. 1629, <i>d</i>. 1697?), Vincent Wing's brother. He was a surveyor at North Luffenham, before moving in 1683 to Pickworth, in Rutland, near Stamford, where he practised and taught surveying and all branches of mathematics, including dialling, laying out enclosures, building plans, and music. (His own music teacher, Gilbert Clerk of Stamford, was also a diallist and became a lasting friend.) In 1710, when Wing made a survey of Pickworth, he was also farming 152 acres there. In 1693 he published an advanced textbook on pure and applied mathematics, <span class="italic">Heptarchia mathematica</span>, stressing its value for masons, carpenters, and glaziers as well as gentlemen, surveyors, astronomers, and diallists. A few years later he issued his <span class="italic">Geodates practicus redivivus</span> (1700), a revised and expanded edition of his uncle's treatise on surveying, which now included a detailed account of the &#145;Empereal Table&#146;, an instrument of his own invention. He referred in the book to his twenty-six years' experience in surveying.<br>
+<br>In his early years as an almanac maker, John Wing's productions were unremarkable, following Vincent's in form and content, and politically bland. In the 1690s, however, he adopted a fiercely anti-French line and by the 1700s had become firmly associated with the leading whig compilers John Partridge and Francis Moore. His strongly protestant line in the early 1700s was infused with vague millennial hopes and some echoes of hermeticism, though by 1708 he was looking for an honourable peace and the revival of trade. Like his uncle before him, he also used his almanacs to popularize the new astronomy. He explained and defended Copernicanism, noting in 1690 that many people still adhered to the Ptolemaic system, and wrote brief essays on tides, gravity, the periodicity of comets, and the possibility of other solar systems and inhabited planets within the universe. In the editions for 1712&#150;13 he published an essay on the excellence of mathematics, acknowledging that it was taken almost verbatim from a printed lecture (by John Arbuthnot) given in the Sheldonian Theatre at Oxford in 1701, a good example of the way almanacs bridged the &eacute;lite and popular worlds.<br>
+<br>Like many almanac makers Wing was also drawn into controversy with rival compilers, notably in a public feud with the tory astrologer George Parker which began in the mid-1690s and lasted almost a decade. It began with a quarrel over their rival astronomical tables; Parker followed those of Thomas Streete, his tutor, Wing those of his uncle Vincent. In 1703 Parker published a denunciation of Wing's <span class="italic">Scientia stellarum</span>, astronomical tables published as an appendix to his book on surveying, denouncing Wing as a vain charlatan. At the end of the 1680s, he alleged, Wing had tried to rush into print a manuscript entitled &#145;Astronomia nova Britannica&#146;, which he had been forced to abandon when Henry Coley exposed it as only half completed. Wing had then reworked the manuscript as <span class="italic">Scientia stellarum</span>, which he had published despite John Flamsteed's warning that it was itself full of crude errors. Wing issued a pained rebuttal of all these charges in his almanac for 1704, pointing out that his project was essentially an English summary of his uncle's <span class="italic">Astronomia Britannica</span>, and claiming that Flamsteed, on whose astronomical observations it drew, had commended it.<br>
+<br>Little is known of Wing's personal life, except that his wife's first name was Priscilla. He died at Pickworth in 1726, and was buried there on 26 November. The almanac was continued by his son Tycho; it still appeared under John's name until 1739, though the prefaces were often signed by Tycho. <a name="cosubject_29730"></a><span class="headword">Tycho Wing</span>  (<em>bap. </em>1696, <em>d.</em> 1750) was baptized on 9 May 1696; he too practised as a <span class="occ">surveyor</span>, and boarded pupils to whom he taught mathematics, surveying, and navigation. He was a friend of the Revd Dr Stukeley, the antiquary, and also served as coroner for Rutland in the years 1727&#150;42. He married Eleanor Peach of Stoke Dry and they had at least four children.<br>
+<br>Tycho Wing was an enthusiastic champion of astrology, which in 1744 he called &#145;the most sublime and excellent of sciences&#146;  (<span class="italic">Almanack</span>, 1744, sig. C7). In the 1740s his almanacs featured fierce attacks on the French, and renewed millennial speculations drawing on Sir John Floyer's writings as well as the much older predictions of Alsted and Lilly. Tycho advertised his surveying practice in many almanacs besides his own, and compiled several of the other titles. In 1731 his astronomical data was attacked by his neighbour and rival Edmund Weaver of Frieston, a physician, astrologer, and surveyor, and in the early 1740s Wing and Charles Leadbetter, the other leading compiler of the period, denounced each other as charlatans, in time-honoured fashion. Tycho Wing died on 16 April 1750, and was buried at Pickworth on 19 April. After his death his younger son Vincent Wing (1727&#150;1776) used the almanacs that still went out in the family's name to advertise his own services as a surveyor, though there is no clear evidence that he compiled them. In his later years Tycho Wing had worked in partnership with his elder son John Wing (1723&#150;1780), a notable surveyor who served very successfully as agent for the duke of Bedford's estates at Thorney, Cambridgeshire, in 1751&#150;60 and 1764&#150;80, and for the ducal estates in Hampshire in the intervening years. John was succeeded as agent at Thorney by his grandson, Tycho Wing (1794&#150;1851), known as &#145;King of the Fens&#146;, who according to the sixth duke of Bedford in 1833 had &#145;immortalized himself&#146; by his work there  (Bendall, 162). An earlier Tycho Wing (<i>b</i>. 1726), another son of the first Tycho Wing, settled in London and kept a shop in the Strand making and selling mathematical instruments. As practical and largely self-taught mathematicians the Wing dynasty thus flourished for six generations, a remarkable example of sustained achievement.<br>
+<br>Bernard Capp </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. S. Capp, <i>Astrology and the popular press</i><i>: English almanacs, 1500&#150;1800</i> (1979) &middot; J. Gadbury, <i>A brief relation of the life and death of &hellip; Mr Vincent Wing</i> (1670) &middot; E. G. R. Taylor, <i>The mathematical practitioners of Tudor and Stuart England</i> (1954) &middot; A. S. Bendall, <i>Maps, land and society</i><i>: a history, with a carto-bibliography of Cambridgeshire estate maps, c.1600&#150;1836</i> (1992) &middot; private information (2004) [Tycho Wing] &middot; E. Green, <i>Pedigree of the family of Wing</i> (1886) &middot; Wing correspondence, Bodl. Oxf., MSS Ashmole &middot; E. G. R. Taylor, <i>The mathematical practitioners of Hanoverian England, 1714&#150;1840</i> (1966) &middot; P. G. Dennis, ed., <i>The registers of North Luffenham in the county of Rutland</i> (privately printed, London, 1896)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53868&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MSS Ashmole<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> T. Cross, line engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53868&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53868&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=53868&amp;istheme=&amp;target=V%26AVictoria%20and%20Albert%20Museum%2C%20London')">V&amp;A</a>; repro. in V. Wing, <i>Astronomia Britannica</i> (1652) [<i>see illus.</i>]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bernard Capp, &#145;<span class="roman"><span class="headword">Wing,  Vincent</span>  (1619&#150;1668)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/53868, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Vincent Wing (1619&#150;1668): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/53868 
+                <br />
+
+                
+
+ John Wing (<em>bap. </em>1662, <em>d.</em> 1726): doi:10.1093/ref:odnb/53868<br> Tycho Wing (<em>bap. </em>1696, <em>d.</em> 1750): doi:10.1093/ref:odnb/29730<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

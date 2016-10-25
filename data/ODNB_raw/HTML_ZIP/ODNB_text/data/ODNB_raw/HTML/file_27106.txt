@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 27106;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/27/27106-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/27/27106-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=27106#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Telfer,  James</span>  (1800&#150;1862), <span class="occ">poet and novelist</span>, was born on 3 December 1800 in Southdean, Roxburghshire, the son of John Telfer and his wife, Isabella, <i>n&eacute;e</i> Taylor, a domestic servant. His father was a shepherd, and Telfer at first supported himself in the same line of work, but through a process of self-education he eventually gained a post as schoolmaster at Castleton, Roxburghshire; after 1834, he was auxiliary schoolmaster at a small country school at Saughtrees, Liddesdale, Roxburghshire, where he remained until his death. Never earning more than &pound;20 a year, he none the less married Janet Beattie, supported a family, and from time to time continued to write.<br>
+<br>Telfer's interest in writing was spurred on by a youthful acquaintance with James Hogg, who befriended and encouraged him. His first book was <span class="italic">Border Ballads and other Miscellaneous Pieces</span> (1824), dedicated to Hogg, and to some degree imitative of him. Some of the poems are marred by conventionalized sentimental diction, but the poems that make use of Scots dialect are often remarkable for their pace, intensity, and humour. Of these, several combine folkloric subjects with a wit and charm reminiscent of Burns: &#145;The Gloamyne Buchte&#146; deals with a young couple's tryst being interrupted by the appearance of a bizarre supernatural creature who sings a fantastic song about stealing children, and &#145;The Kerlyn's Brocke&#146; is a wild and delightful evocation of a witches' sabbath. Though forgotten today, these are minor gems that, along with lyrics like &#145;Love has stown my wits away&#146;, deserve a place in anthologies of the period.<br>
+<br>Telfer also published a novel, <span class="italic">Barbara Gray, or, The Widow's Daughter</span> (1835), which was popular enough to be reprinted in a collection of his work in 1852. Though uneven and sometimes prolix, <span class="italic">Barbara Gray</span> is still worth reading, being animated primarily by angry social protest against rapacious landowners in rural Scotland&#151;a stronger theme than the mature Telfer was comfortable with, for he wrote in the preface to the reprinted edition that he hoped he would not be accused of a &#145;design to promote discontent&#146;. (This may have been politic, for the 1852 volume is dedicated to the duke of Northumberland.) The novel's bleak conclusion emphasizes the helplessness of the poor, a condition with which Telfer was quite familiar. The vicious landowner's persecution and seduction of Barbara Gray seems inspired by the novels of Richardson, as does her slow descent into misery and death thereafter. But despite its melodrama and its darkness, <span class="italic">Barbara Gray</span> is also a skilful tale of love and loss set amid an often beautifully evoked highland landscape. It suggests that Telfer might have developed into a capable and original novelist, but he published no other books of fiction. He died of apoplexy on 18 January 1862 at his home in Saughtrees.<br>
+<br>Raymond N. MacKenzie </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. Rogers, <i>The modern Scottish minstrel, or, The songs of Scotland of the past half-century</i>, 4 (1857) &middot; d. cert.<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Raymond N. MacKenzie, &#145;<span class="roman"><span class="headword">Telfer,  James</span>  (1800&#150;1862)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/27106, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Telfer (1800&#150;1862): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/27106 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

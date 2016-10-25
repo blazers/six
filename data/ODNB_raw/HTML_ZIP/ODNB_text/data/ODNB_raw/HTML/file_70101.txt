@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 70101;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/70/70101-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/70/70101-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=70101#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Westcote <span class="st"> [Westcott]</span>,  Sebastian</span>  (<em>c.</em>1515&#150;1582), <span class="occ">musician and theatrical entrepreneur</span>, was born at Chulmleigh in Devon, the son of Joan Westcote, Westcote being a common local name. No record survives of his education, musical training, and early employment; however, close by lay the important collegiate church and choral foundation of Crediton, and his having been educated in that town might explain his generous conferment of relief upon its poor by his will. As a Catholic layman he cannot be equated with the man of this name who was a stipendiary priest of Chulmleigh about 1541, and it appears most unlikely that he can be identified with the Sebastian Westcote who occurs in 1545 among Henry VIII's yeomen of the chamber.<br>
+<br>Although still not employed at St Paul's Cathedral, London, in November 1541, Westcote had been engaged as one of the six lay vicars-choral (singing-men) of its choir for a period sufficiently long by 7 October 1547 not only to be named as legatee and sole executor of his eminent colleague John Redford, but to be appointed to succeed Redford (certainly by Christmas 1548) as master of the choristers and almoner. He is likely to have been at least thirty to be considered for such an important post. His duties were to attend daily in the cathedral, directing the eighteen men and ten chorister boys of the choir in executing the music of the services; the training of the boys was his special obligation. Until May 1549, and again from December 1553 until June 1559, the services sung each day were the ten principal observances of the Latin, Catholic rite of Salisbury (Sarum) use; from 1549 to 1553, and after June 1559, these were replaced by the three daily services ordered by the vernacular <span class="roman">Book of Common Prayer</span>. Scarcely any appointment in church music outside the Chapel Royal carried greater responsibility, especially in respect of the occasional services of national thanksgiving, celebration, or penitence that were conducted at St Paul's by royal command.<br>
+<br>Almost immediately Westcote embarked on supplementary enterprises of his own. The abolition of obits in 1548 and the imposition of a much attenuated liturgy in 1549 simultaneously reduced the choristers' sources of income and visited upon them unwonted volumes of spare time. By nature impresario as well as entrepreneur, Westcote addressed both problems by engaging for profit the boys' natural capacities as performers. As singers and instrumentalists he made them available to entertain livery companies such as the Merchant Taylors at their major feasts and gentlemen such as Sir William Petre at their London homes. More significantly, Westcote revived John Redford's capacity for employing the boys' abilities as actors, and in the festive season of Christmas 1551, with his colleague John Heywood (minor canon of St Paul's, <i>c</i>.1530&#150;<i>c</i>.1572), he mounted a play before Princess Elizabeth at her residence of Hatfield House.<br>
+<br>So began a long-lived and fruitful connection. Even though the restoration both of the lost revenues and of the Catholic service in December 1553 effectively prescribed an end to such extra-curricular activities, Westcote was still able to take the boys on a return visit to Hatfield in April 1557 to entertain the princess with a play; and in August 1559 Elizabeth, now queen, inspired the earl of Arundel to invite the choristers, under Westcote and Heywood, to present a play before her at Nonsuch Palace. Thus established as particular favourites of the queen, and expedited by the cathedral's return in 1559 to the attenuated vernacular service, Westcote and the &#145;Children of Paul's&#146; were invited to court to entertain Elizabeth with a play at Christmas 1560 and regularly thenceforth, twice or (after 1570) once in each winter festive season right through until Westcote's death in 1582. Although not the only troupe of amateur boy actors so favoured, Paul's boys were by far the most frequent invitees, and between August 1559 and December 1581 mounted at court not fewer than twenty-eight productions. So elevated and so constant a degree of royal favour probably rendered Westcote the leading producer and arbiter of taste in English drama between 1560 and the later 1570s.<br>
+<br>Before their presentation at court the plays were rehearsed in the hall of the lodging of the boys and their master; this lay in St Paul's Churchyard adjacent to the cathedral nave's south aisle. At some stage, and for a charge, Westcote began to admit members of the public to watch the final rehearsals; by December 1575 this was becoming a regular business, and the city authorities resolved to invite the chapter in effect to bring Westcote's unregulated enterprise to an end. It appears that the canons ignored the city, and that each year thereafter Westcote presented on his home premises a brief winter season of perhaps one or two plays for public enjoyment; moreover, his testamentary bequests indicate that by 1582 his household was being augmented by five commensals, possibly all former choristers now briefly retained to amplify the amateur acting troupe of ten cathedral boys.<br>
+<br>To inaugurate England's earliest semi-permanent indoor theatre constituted Westcote's greatest innovative enterprise. Of his dramatic presentations the titles of eleven are now known, though the texts of only two or three; not known is the number (if any) that were of his own authorship. It has been inferred that his tastes were broad, encompassing old-fashioned interludes as well as modern plays; they extended to moralities, Roman history, tragedies from Greek mythology, and some comedies, all probably well laced with the vocal and instrumental music which was the boys' speciality. Not only broad-minded in his patronage of playwrights, Westcote's creation of a fashionable indoor theatre did much to channel a middle-class public eager to be associated with courtly values towards an enthusiasm for drama. Indeed, it is as inadvertently a seminal figure in the London commercial theatre which within a generation was to produce Marlowe and Shakespeare that Westcote is now most remembered.<br>
+<br>Westcote was overtly Catholic, and it was not until 1554, under a Marian chapter, that he was formally appointed master of the choristers at St Paul's. His adherence became evident at Bishop Grindal's visitation of 1561; he declined the protestant communion and refused to subscribe to the royal supremacy, and consequently was ejected from his ecclesiastical benefice of vicar-choral in 1564. Nevertheless, he was well known to enjoy the queen's favour, and, especially following intervention on her behalf through the earl of Leicester, despite his refusal to subscribe to the thirty-eight articles of religion (as they were between 1563 and 1571), he was left in full enjoyment of his lay appointment as master of the choristers. In 1574, while certain of his friends laboured under suspicion of treason, Elizabeth found it politic to decline to receive the play prepared for Shrovetide, and for eleven weeks at the start of 1578 he was even imprisoned &#145;for papistry&#146;; however, the queen's favour protected him from inconveniences any more serious than these. More routinely, in 1571 he is found in York recruiting singing-boys for the choir, and at Christ's Hospital, London, in 1580. Irrespective of his purely seasonal theatrical sidelines, day-to-day responsibility for the cathedral's music remained his primary professional concern. Though evidently accomplished, his choristers were never more than intermittent actors, and never did they become transformed from a professional liturgical ensemble to a professional &#145;theatre company&#146;.<br>
+<br>Westcote was particularly eminent as a pedagogue to young musicians. Among his choristers were the future composers Nicholas Carleton, Robert Knight, Thomas Wilkinson, and William Fox, and the hugely accomplished Thomas Morley and Peter Phillips; greatest of all was William Byrd, whose two elder brothers Simon and John were also Westcote's boys. Many of these learned from him not only music, but also, as Grindal feared, Catholic sympathies and belief. Towards the end of his life, however, he taught by deputy, and it was not Westcote but his assistant John Bold (Bolt) whom Morley later remembered with respect as his principal teacher.<br>
+<br>Already styled &#145;gentleman&#146; in 1554, Westcote died sufficiently wealthy to make bequests which exceeded &pound;240 in cash and included much domestic property, some silver and rings, and a valuable chapter lease with stock, goods, and chattels. His bequests to the choristers' house included his chest of violins and viols &#145;to exercise and learn the children and choristers there&#146;. &#145;Grieved with sickness&#146;, he made his will on 3 April 1582; death was imminent, since probate was granted on 14 April, and his successor was in office by 17 May 1582.<br>
+<br>Roger Bowers </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>GL, St Paul's Cathedral MSS &middot; T. Lennam, <i>Sebastian Westcott, the children of Paul's, and &#145;The marriage of wit and science&#146;</i> (1975) &middot; H. N. Hillebrand, <i>The child actors</i>, 2 vols. (1926), 1&#150;355 &middot; M. Shapiro, <i>Children of the revels</i> (1977), 11&#150;14 &middot; R. Gair, <i>The Children of Paul's</i><i>: the story of a theatre company, 1553&#150;1608</i> (1982) &middot; R. Gair, &#145;The conditions of appointment for masters of the choristers at Paul's (1553&#150;1612)&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=70101&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 225 (1980), 116&#150;21 &middot; R. Bowers, &#145;The playhouse of the choristers of Paul's, <i>c.</i>1575&#150;1608&#146;, <em>Theatre Notebook</em>, 54 (2000), 70&#150;85 &middot; L. P. Austern, <i>Music in English children's drama of the later Renaissance</i> (1992) &middot; A. Gurr, <i>The Shakespearian playing companies</i> (1996), 218&#150;29 &middot; H. N. Hillebrand, &#145;Sebastian Westcote, dramatist and master of the children of Paul's&#146;, <em>Journal of English and German Philology</em>, 14 (1915), 568&#150;84 &middot; M. Shapiro, &#145;The children of Paul's and their playhouse&#146;, <em>Theatre Notebook</em>, 36 (1982), 3&#150;13 &middot; A. Brown, &#145;Three notes on Sebastian Westcott&#146;, <em>Modern Language Review</em>, 44 (1949), 229&#150;32 &middot; A. Brown, &#145;A note on Sebastian Westcott and the plays presented by the children of Paul's&#146;, <em>Modern Language Quarterly</em>, 12 (1951), 134&#150;6 &middot; A. Brown, &#145;Sebastian Westcott at York&#146;, <em>Modern Language Review</em>, 47 (1952), 49&#150;50 &middot; E. A. J. Honigmann and S. Brock, eds., <i>Playhouse wills, 1558&#150;1642</i><i>: an edition of wills by Shakespeare and his contemporaries in the London theatre</i> (1993), 48&#150;53 &middot; T. Morley, <i>A plain and easy introduction to practical music</i>, ed. R. A. Harman (1952) &middot; H. Berry, &#145;Sebastian Westcott, the children of St Paul's, and Professor Lennam&#146;, <i>Renaissance and Reformation</i>, 14 (1978), 68&#150;87<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;243 in cash; also much domestic property, silver, and jewellery, and the remaining years of a St Paul's chapter lease: will, Hillebrand, <i>The child actors</i> Honigmann and Brock, <i>Playhouse wills</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Roger Bowers, &#145;<span class="roman"><span class="headword">Westcote ,  Sebastian</span>  (<em>c.</em>1515&#150;1582)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/70101, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Sebastian Westcote (<em>c.</em>1515&#150;1582): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/70101 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

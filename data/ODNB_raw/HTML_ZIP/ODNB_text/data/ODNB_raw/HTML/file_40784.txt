@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 40784;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/40/40784-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/40/40784-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=40784#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Hogge,  Ralph</span>  (<em>d.</em> 1585), <span class="occ">gun-founder</span>, was a leading figure in the expansion of the iron industry in the Sussex Weald. Nothing is known of his parentage or place of birth, though he was probably born in Sussex. He had business connections with Brian Hogge, a brother or close relative, who worked in the ordnance office for fifty years. Holinshed gave to Hogge and Peter Baude the credit of being, in 1543, the first to cast iron guns in England, at a furnace in Buxted, Sussex. This achievement is more likely to have been the first successful casting of an iron gun in one piece, breach and barrel together. Hogge's part, though important, was probably that of the skilled furnace master. He and Baude, then the leading bronze gun-founder, would have worked under the direction of William Levett, the king's &#145;gunstonemaker&#146;, who went on to supply cast-iron ordnance until his death in 1554. In his will Levett left Hogge, his &#145;servant&#146;, &pound;10 and a quantity of iron  (TNA: PRO, PROB/11/37/5).<br>
+<br>Hogge may at first have worked Levett's furnaces, for on 14 November 1559 he was appointed to Levett's post of &#145;gunstonemaker&#146;. Then on 13 May 1560 he was married at Maresfield, Sussex, to Margaret Henslowe, from a well-to-do family; her father, Edmund, was master of the game in Ashdown Forest. Hogge being of humbler origins, the marriage would have been a significant upward step in his career. He opened two new furnaces near Maresfield and his production began to be reflected in contemporary records: the lease of woodlands in Fletching, where he lived, and the delivery of guns, shot, and iron materials to the ordnance. The navy however preferred bronze to cast-iron guns.<br>
+<br>Nevertheless, before the end of the 1560s as many as eight furnaces within a few miles of Buxted were casting iron guns; and this over-production was to characterize the industry for the rest of the century. To the alarm of the privy council and the merchant community, guns surplus to local needs were finding eager purchasers abroad: they were bought by privateers, pirates, and even the Spanish. The council's response was, on 5 March 1568, to vest in Ralph Hogge an exclusive right to the export of guns and shot. This should have bolstered Hogge's business while ensuring for the state an immediate supply of ordnance in time of danger. But Hogge's monopoly was soon challenged. By 1574 he was complaining bitterly to the council of the ease with which iron guns were sold across the channel. He appears to have reduced his own capacity to one furnace.<br>
+<br>The threat to national security and trade caused sharp alarm in the council; and vigorous efforts were made, without in the end much success, to eliminate these clandestine sales. Hogge, however, believed that at last his concession would be protected and that increased production was justified. Within two years he was managing four furnaces capable of turning out guns, all conveniently close together in the Maresfield and Buxted area.<br>
+<br>Hogge is the only sixteenth-century founder of iron guns of whose transactions some record has survived. Between 1576 and 1578 he used his brother-in-law John Henslowe as an agent. Henslowe recorded regular payments to woodcutters, colliers, miners, and carriers; and he also accounted to Hogge for occasional sales of guns and shot. The accounts cover a short period only and Henslowe was not the only agent used. Despite this it is possible to construct a picture of the likely surplus Hogge earned. From one furnace with a mixed output of guns, shot, and pig iron Hogge might have shown an annual surplus of &pound;300. Working three or four furnaces should have given him, for those days, a very good income. However, there is no evidence that Hogge was in fact making vast amounts of money, or was sharing it with partners or investors. The only sign of affluence was his construction in 1581 of a house of modest size in Buxted (subsequently known as Hogge House), perhaps for his retirement.<br>
+<br>About this time, however, Hogge took a case against another agent, accusing him of embezzling &pound;6000. In the course of this dispute (which was never settled) Hogge claimed that he himself could neither read nor write and was so disabled he could not physically supervise his furnaces. If true, this suggests that towards the end of his career Hogge's affairs were in disarray due to a combination of factors: rapid expansion; lack of education and managerial ability; physical handicaps; and the need to rely on agents who may have been both inefficient and dishonest.<br>
+<br>Hogge died in 1585 and was buried at St Margaret the Queen, Buxted, on 14 December. Although the leading sixteenth-century producer of cast-iron guns, he died by no means a rich man. His will made no mention of ironworks or equipment  (TNA: PRO, PROB/11/69). All he had was his house, which he left to his widow for her lifetime and then, since they had no children, to his nephew Thomas, who quickly sold the reversion. John Henslowe moved in with his sister, claiming that Hogge had mortgaged the property to him for &pound;120. This claim eventually failed after many years of dispute.<br>
+<br>Edmund Teesdale </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. B. Teesdale, <i>Gunfounding in the Weald in the sixteenth century</i> (1991) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40784&amp;istheme=&amp;target=APC')"><i>APC</i></a>, <i>1542&#150;99</i> &middot; TNA: PRO, C66/940 m22 &middot; Dulwich MS (Henslowe's diary), Dulwich College &middot; TNA: PRO, C66/1040 &middot; TNA: PRO, SP12/95/16, 79 &middot; TNA: PRO, C3/K5/30 &middot; will, TNA: PRO, PROB 11/69 &middot; R. Holinshed and others, eds., <i>The chronicles of England, Scotland and Ireland</i>, 2nd edn, ed. J. Hooker, 3 vols. in 2 (1586&#150;7) &middot; will of William Levett, TNA: PRO, PROB 11/37/5 &middot; C. Little, ed., <i>Maresfield parish registers</i>, 1 (1980) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=40784&amp;istheme=&amp;target=VCH')"><i>VCH</i></a>  <i>Sussex</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> left property to wife during her lifetime and thereafter to nephew; legacies of &pound;10 each to niece, sister-in-law, and brother-in-law: will, TNA: PRO, PROB 11/69<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Edmund Teesdale, &#145;<span class="roman"><span class="headword">Hogge,  Ralph</span>  (<em>d.</em> 1585)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/40784, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Ralph Hogge (<em>d.</em> 1585): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/40784 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/40784/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

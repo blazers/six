@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 28943;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/28/28943-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/28/28943-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=28943#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Webster,  John</span>  (1578<span class="mult">x</span>80&#150;1638?), <span class="occ">poet and playwright</span>, was born in London, the son of John Webster (<i>c</i>.1550&#150;1614/15) and Elizabeth, daughter of Thomas Coates, blacksmith, of St Giles Cripplegate. The parish records of St Sepulchre, Newgate, where the family lived, were destroyed in the great fire of London, but surviving documentary sources indicate that there were at least five children of the marriage, which took place on 4 November 1577. That John Webster the younger, as he is referred to in documents of the time, was the first son is suggested by the fact that he was given his father's name, but since this cannot be proved his birth cannot be dated more precisely than 1578&#150;80.<br>
+<br>John Webster the elder, probably a Londoner, spent his entire working life in the parish of St Sepulchre, where in Cow Lane, Smithfield, he both lived and ran a thriving business, building and hiring out coaches and wagons. He also became a prominent member of the Guild of Merchant Taylors, to which coach makers, with no guild of their own, were admitted on the grounds of community of interest, there being &#145;a close and obvious connection between tailors, who made trappings for funerals, plays and pageants, and the men who provided hearses for coffins&#146;  (Edmond, &#145;In search of John Webster&#146;, 1621).<br>
+<br>Though the school's records for the period are incomplete, John Webster the younger presumably attended Merchant Taylors' School, where he would have remained until the age of sixteen or seventeen&#151;between 1594 and 1598&#151;after which it seems likely that he spent one or perhaps two years at the New Inn, one of the inns of chancery, in preparation for admission to the inns of court, since an entry in the records of the Middle Temple, dated 1 August 1598, notes the admission to the society of &#145;Magister Johannes Webster nuper de Novo Hospitio generosus, filius et heres apparens Johannis Webster de London generosi&#146; (&#145;Master John Webster, formerly of the New Inn, gentleman, son and heir apparent of John Webster of London, gentleman&#146;). Webster may have intended practising law, but young men of means often lived and studied at one of the inns with no intention of doing so, and it is even possible that he was sent to the Middle Temple &#145;to qualify him for helping with large mercantile ventures, and for dealing with distinguished customers&#146;  (Bradbrook, 4). If so, then it may be assumed that subsequently John Webster the younger ran the office, while his father and brother Edward, also a qualified coach builder, ran the works.<br>
+<br>Such involvement in the family business would explain how Webster made a living, given his slowness of composition. It may also help to explain that slowness, if office duties occupied a good deal of his time. Henry Fitzgeffrey's famous jibe about &#145;Crabbed (<i>Websterio</i>) / The <i>Play-wright</i>, <i>Cart-wright</i>&#146;  (Fitzgeffrey, sig. F6<i>v</i>&#150;F7<i>r</i>) is generally assumed to be a cut at Webster's family connections, but may allude more precisely to the fact that the dramatist was himself actively engaged in the running of the business in Cow Lane. Also germane, perhaps, is Webster's decision (in June 1615) to claim membership of the Merchant Taylors by patrimony. This is generally assumed to be associated with the death of his father, at some time between April 1614 and February 1615. But there would be added point to the dramatist's application for membership of the Merchant Taylors were he actively involved in the coach building business.<br>
+<br>But whether or not Webster intended taking up the law, it seems, from the knowledge that he displays in his plays and the frequency with which they include trial scenes, that some time, at least, was spent in legal study. Acrid portraits of the lawyer in <span class="italic">The White Devil</span>, Contilupo and Sanitonella in <span class="italic">The Devil's Law-Case</span>, and the Orator in <span class="italic">Appius and Virginia</span> make it at least possible that, like the dramatist John Marston, who was living (but not, it seems, studying) at the Middle Temple at the same period, the young Webster grew disenchanted with the law and turned to a less lucrative but more appealing profession.<h2>
+<a name="Earlycareer"></a>Early career</h2>The first evidence of Webster's writing for the stage is an entry in Philip Henslowe's diary for 22 May 1602, noting a payment of &pound;5 &#145;unto antoney monday &amp; mihell drayton webester &amp; the Rest mydelton in earneste of A Boocke called <span class="roman">sesers ffalle</span>&#146;  (<span class="italic">Henslowe Papers</span>, 201). A week later a further &pound;3 was paid to &#145;Thomas dickers drayton myddellton &amp; Webester &amp; mondaye in fulle paymente for ther playe called <span class="roman">too shapes</span>&#146;  (ibid., 202). The entries are taken to refer to the same play, now lost. Written for the Admiral's Men, it presumably dealt with the life and death of Julius Caesar.<br>
+<br>Further evidence of Webster's dramatic activity comes from a series of entries in Henslowe's diary made later in the same year. In October a team comprising Henry Chettle, Thomas Dekker, Thomas Heywood, Webster, and &#145;mr smythe&#146; were paid a total of &pound;5 16<i>s</i>. for two parts of &#145;A playe called <span class="roman">Ladey Jane</span>&#146;  (<span class="italic">Henslowe Papers</span>, 218), while in November Henslowe paid the same group (minus &#145;smythe&#146;) &pound;7 for &#145;A playe called <span class="roman">cryssmas comes but once A yeare</span>&#146;  (ibid., 219). Webster, it seems, was serving an apprenticeship as part of a team in which professionals like Dekker and Heywood took the lead. <span class="italic">Caesar's Fall</span> and <span class="italic">Christmas Comes but Once a Year</span> were presumably potboilers, but like the two parts of <span class="italic">Lady Jane</span>, which it is generally agreed survive in corrupted form as <span class="italic">Sir Thomas Wyatt</span>, served to initiate Webster into writing for the theatre.<br>
+<br>Regular entries in Henslowe's diary cease in March 1603, and there is no surviving evidence of Webster's dramatic activity until 1604, when his name is linked with that of Marston on the title-page of the third edition of the latter's <span class="italic">The Malcontent</span>. What is meant by the words &#145;Augmented by Marston. With the additions played by the Kings Maiesties servants. Written by Ihon Webster&#146; has long been debated, but it is now generally agreed, as by Hunter and by Lake (1981), that Webster wrote not only the induction but also additional material involving the clown, Passarello. Providing a comic scenario both for the delicate task of justifying the &#145;theft&#146; of <span class="italic">The Malcontent</span> from the boys' company, the Children of the Chapel Royal, by whom it was first played, and for explaining the reasons for the &#145;additions&#146;, Webster displays considerable skill.<br>
+<br>Later in 1604 there appeared <span class="italic">Westward Ho</span>, the first of two city comedies written by Dekker and Webster for the Children of Paul's. A racy account of London middle-class culture, it gave rise within months to a kindred piece by Marston, George Chapman, and Ben Jonson&#151;<span class="italic">Eastward Ho</span>&#151;in the prologue to which the dramatists refer to &#145;that which is opposed to ours in title&#146; as &#145;good, and better cannot be&#146;. Both <span class="italic">Westward Ho</span> and the more strongly satirical <span class="italic">Northward Ho</span>, written by Dekker and Webster in 1605, were highly popular and frequently performed.<br>
+<br>A gap of five years separates the publication in 1607 of the <span class="italic">Ho</span> plays and <span class="italic">Sir Thomas Wyatt</span> and the appearance of Webster's first tragedy, <span class="italic">The White Devil</span>. Such a hiatus invites speculation, even though Webster admitted, in &#145;To the reader&#146;, that he &#145;was a long time in finishing this tragedy&#146;. It is possible, of course, that Webster was working on his tragedy over the entire five years, but two other explanations for the silence are possible. One is domestic and financial, relating to his marriage, which may have forced him to put most of his time and energy into earning a living, perhaps in his father's business. The second, particularly intriguing, derives from the discovery in 1985 of the Melbourne manuscript, a 144-line fragment of a play on the subject of Alessandro de' Medici, duke of Florence&#151;a fragment of which Antony Hammond and Doreen del Vecchio consider Webster more likely to be the author than any other known Jacobean dramatist, and which they date, tentatively, early in the period 1605&#150;30. It is thus possible that in the five years between <span class="italic">Northward Ho</span> and <span class="italic">The White Devil</span> Webster did some work, at least, on a tragedy which he either abandoned or never felt happy to acknowledge or offer for performance.<h2>
+<a name="Marriageandfamily"></a>Marriage and family</h2>While the details of Webster's literary activity between 1605 and 1612 are uncertain, significant moments in his personal life during those years can be established. His marriage, on 18 March 1606, took place not at St Sepulchre's, nor in the parish of his bride, Sara Peniall (<i>bap</i>. 1589), but at St Mary's in Islington, then a village outside London  (M. Edmond, &#145;Webster's wife&#146;, <span class="italic">TLS</span>, 24 Oct 1980). The reason for this, and for marrying, by special licence, during Lent, is to be found in the fact that fewer than two months later Sara Webster gave birth to their first child, John, baptized on 8 May 1606 at St Dunstan-in-the-West, Fleet Street, &#145;out of Simon Penials sadler&#146; (M. Eccles, &#145;John Webster&#146;, <span class="italic">TLS</span>, 21 Jan 1977; M. Edmond, &#145;John Webster&#146;, <span class="italic">TLS</span>, 11 March 1977). That other children were born to John and Sara Webster is clear from the will of Margery Pate, who in 1617 left 20<i>s</i>. each to their son John and his sisters, Elizabeth and Sara, and 40<i>s</i>. to &#145;the rest of Websters Children&#146;  (Edmond, &#145;In search of John Webster&#146;, 1622).<h2>
+<a name="Theyearsofgreatness"></a>The years of greatness</h2>
+<span class="italic">The White Devil</span> was first performed by Queen Anne's Men at the Red Bull in Clerkenwell, probably early in 1612. In an address &#145;To my loving, and Loved Friends and Fellowes, the Queenes Maiesties Servants&#146;, prefacing his <span class="italic">If this be not a Good Play, the Devil is in it</span>, Webster's friend and collaborator Dekker had wished the company a &#145;<i>Faire</i> and <i>Fortunate Day</i> to your <i>Next New-Play</i> (for the <i>Makers-sake</i> and your <i>Owne</i>)&#146;. That the &#145;<i>Next New-Play</i>&#146; was <span class="italic">The White Devil</span> is clear from Webster's echoing, in his address &#145;To the reader&#146;, Dekker's wish for a &#145;<i>Full</i>, <i>Free</i>, and <i>Knowing Auditor</i>&#146;. The audience, however, was unappreciative, as is clear from Webster's acerbic comment that &#145;most of the people that come to that Play-house, resemble those ignorant asses (who visiting Stationers shoppes their use is not to inquire for good bookes, but new bookes)&#146;  (<span class="italic">The White Devil</span>, &#145;To the reader&#146;). Yet such a reception should not have been surprising, given the unsophisticated fare generally staged at the Red Bull  (Gurr, 218). To an audience perhaps anticipating a more direct and literal handling of the diabolic, as by Dekker in <span class="italic">If this be not a Good Play</span>, the complexity and sophistication of <span class="italic">The White Devil</span> would have come as a shock  (A. Leggatt, &#145;The failure of <i>The White Devil</i>&#146;, <span class="italic">Jacobean Public Theatre</span>, 1992, 123&#150;9).<br>
+<br>As Hammond notes, Vittoria Corombona, Webster's &#145;white devil&#146;, &#145;marks a new departure in Jacobean drama, a heroine &hellip; thoroughly corrupt, but with whom it is impossible not to sympathize&#146;  (Hammond, 292). In a male-dominated world, she manipulates those around her (and particularly the infatuated Duke Brachiano) in order to attain, at least for a time, freedom of action. Her dominance, dramatically, is demonstrated in three great scenes, &#145;the Arraignment of Vittoria&#146;, in which she defends herself against charges of immorality (but manages to convince an audience, and many critics, that she is actually on trial for her life), the quarrel with Brachiano in the House of Convertites, to which she has been confined, and the last scene, where she faces death with immense and memorable courage.<br>
+<br>Sharing that death scene, equally memorably, is Vittoria's brother Flamineo, whose courage, wit, and resourcefulness match his sister's. The classic Jacobean malcontent, as Brachiano's secretary he promotes the liaison with Vittoria with an eye to his own advancement, murdering his brother-in-law to clear the way for Brachiano and Vittoria to marry. In doing so he displays a moral insouciance which, as his hopes of advancement fade after he murders his brother, is seen to mask uncertainty and a vestigial remorse.<br>
+<br>Webster probably began work on his second tragedy, <span class="italic">The Duchess of Malfi</span>, soon after the completion of <span class="italic">The White Devil</span>, but in November 1612 set the new play aside to compose <span class="italic">A Monumental Column</span>, commemorating the death, on the 6th of that month, of Henry, prince of Wales. Webster's elegy, published with those of Heywood and Cyril Tourneur, was entered in the Stationers' register on Christmas day 1612, and in it the poet excuses his &#145;worthlesse lines&#146; on the grounds that &#145;I hasted, till I had this tribute paid / Unto his grave&#146;  (lines 310&#150;11). Haste may also explain Webster's extensive reuse of material in his half-finished tragedy, but parallels&#151;as between the experiences of Bosola and Webster's account, in the elegy of:<blockquote>
+<div>
+<i>Sorrow</i> that long had liv'd in banishment,<br>
+</div>
+<div>Tug'd at the oare in <i>Gallies</i>
+<br>
+</div> (lines 162&#150;3)</blockquote>&#151;suggest that <span class="italic">A Monumental Column</span> embodies views important to Webster and given utterance also in <span class="italic">The Duchess of Malfi</span>. Webster evidently felt deeply the death of a prince of whom much was hoped, but his elegy remains, as Hammond remarks, &#145;obstinately earthbound: the brilliance and originality of Webster's imagery seemingly deserts him in the formal couplets of this poem&#146;  (Hammond, 293).<br>
+<br>By general consent Webster's masterpiece, <span class="italic">The Duchess of Malfi</span> was first performed before 16 December 1614, when William Ostler, the first Antonio, died. Mindful, presumably, of the poor reception of <span class="italic">The White Devil</span> at the Red Bull, Webster had offered his second tragedy to the King's Men. The outcome seems to have been a happy one, with <span class="italic">The Duchess of Malfi</span> well received by the more sophisticated audience at the Blackfriars  (Gurr, 220) and, later, at the second Globe.<br>
+<br>The Duchess herself is one of the greatest of tragic heroines, and her struggle, in the face of opposition from her brothers, Ferdinand and the Cardinal, to live a life true to her feelings is given memorable expression in verse as brilliant as that of <span class="italic">The White Devil</span>, but within a dramatic structure clearer and less convoluted than that of the earlier tragedy. Her brothers are also brilliantly portrayed, Ferdinand volatile, obsessive, and perhaps driven by an incestuous passion for his sister, and the Cardinal cold, ruthless, and concerned above all with family honour, while Bosola, their spy in the Duchess's household, is a compelling portrait of a man divided within himself, serving evil, yet drawn to admire and sympathize with the Duchess, whom he is employed to torment and finally to kill.<br>
+<br>The Duchess's death scene is the most celebrated in Webster, and one of the greatest in Jacobean drama. Separated from her husband, Antonio, and her children, tormented by madmen introduced by Ferdinand, and then tested to the limits of endurance by the disguised Bosola, the Duchess passes from pride of rank (&#145;I am Duchesse of <i>Malfy</i> still&#146;; <span class="smallcap">IV</span>.ii, line 131) through stoic endurance to Christian humility, kneeling in acceptance of death, since<blockquote>
+<div>heaven gates are not so highly arch'd<br>
+</div>
+<div>As Princes pallaces, they that enter there<br>
+</div>
+<div>Must go upon their knees<br>
+</div> (<span class="smallcap">IV</span>.ii, lines 219&#150;21)</blockquote>Such transcendence is followed by retribution as Ferdinand sinks into madness and the Cardinal into cowardice, while Bosola, who kills both, dies &#145;In a mist&#146;  (<span class="smallcap">V</span>.v, line 93), still a divided soul, unaware of how much he has done, wittingly or unwittingly, to assist the Duchess to reach spiritual peace.<br>
+<br>Webster's next surviving play, <span class="italic">The Devil's Law-Case</span>, was probably completed about 1618, but it seems that in the interval there appeared another, now lost, entitled &#145;Guise&#146;. Lists of printed plays dating from 1656&#150;71 disagree as to its genre, but Samuel Sheppard, writing <i>c</i>.1650, speaks of Webster's &#145;three noble tragedies&#146;  (Forker, 460), and it seems safe to assume that the lost work was a tragedy. Since in his dedication of <span class="italic">The Devil's Law-Case</span> to Sir Thomas Finch Webster himself linked &#145;Guise&#146; with <span class="italic">The White Devil</span> and <span class="italic">The Duchess of Malfi</span>, a work of considerable importance has presumably been lost.<br>
+<br>Early in 1614, a few months after the author's death in the Tower of London, there appeared one of Jacobean England's bestsellers, Sir Thomas Overbury's <span class="italic">The Wife</span>. A second edition of the poem later that year was accompanied by twenty-two &#145;Characters&#146; written &#145;<i>by</i> [Overbury] <i>himselfe and other</i> learned gentlemen his friends&#146;. By the eleventh edition, in 1622, the twenty-two characters (brief generalized sketches of personality and occupational types) had become eighty-three, of which thirty-two, added in the sixth edition (1615), were by Webster. It is generally accepted, also, that Webster edited the sixth edition, as he may have edited the four which preceded it, and the suggestion  (Forker, 122) that Webster perhaps acted as Overbury's literary executor and gathered together the original collection of characters, then circulating in manuscript, is plausible, since it is highly likely that Webster had known Overbury since their days at the Middle Temple, which the latter also entered in 1598.<br>
+<br>Some of Webster's characters, such as &#145;An Excellent Actor&#146; and &#145;A Franklin&#146;, describe idealized figures, but the majority are, like &#145;An Ordinary Widow&#146;, satiric in tone. A similar tone pervades <span class="italic">The Devil's Law-Case</span>, written probably for performance by the Queen's Men at their new private theatre, the Cockpit in Drury Lane. A tragicomedy, in which theatricality and contrivance co-exist with near tragic elements, <span class="italic">The Devil's Law-Case</span> has the characteristic Websterian bite, particularly in the figure of the merchant, Romelio, a bourgeois reworking of the malcontents of the two great tragedies, Flamineo and Bosola. The leading women in the play, Romelio's sister, Jolenta, and their mother, Leonora, lack the stature or magnetism of Vittoria and the Duchess, but there is power none the less in Leonora's admission to her waiting woman that:<blockquote>
+<div>we have growne old together,<br>
+</div>
+<div>As many Ladies and their women doe,<br>
+</div>
+<div>With talking nothing, and with doing lesse:<br>
+</div>
+<div>We have spent our life in that which least concernes life,<br>
+</div>
+<div>Only in putting on our clothes<br>
+</div> (<span class="smallcap">III</span>.iii, lines 419&#150;22)</blockquote>
+<h2>
+<a name="Latercareer"></a>Later career</h2>The last of Webster's major plays, <span class="italic">The Devil's Law-Case</span> is also the last, it seems, that he wrote unaided. Why he wrote only in collaboration in his later years is unclear, though in general the plays suggest fitful artistic inspiration. The first of the collaborative works, <span class="italic">Anything for a Quiet Life</span>, was written <i>c</i>.1621. The title-page of the only edition (1662) of this city comedy attributes it to Thomas Middleton, but all the evidence, including computer-aided linguistic testing, points to collaboration and to Webster's authorship of perhaps 45 per cent of the play (D. J. Lake, <span class="italic">The Canon of Thomas Middleton's Plays</span>, 1975, 175&#150;84; M. P. Jackson, <span class="italic">Studies in Attribution: Middleton and Shakespeare</span>, 1979, 142&#150;4). Paid little attention by Middleton or Webster scholars, <span class="italic">Anything for a Quiet Life</span> is an uneven work, with several strong scenes, but overall the weakest of Webster's late collaborations.<br>
+<br>1624 was a busy year for Webster. In the spring and early summer he was at work on <span class="italic">A Cure for a Cuckold</span>, which the master of the revels, Sir Henry Herbert, licensed on 26 July  (<span class="italic">Control and Censorship</span>, 153). Herbert gives Webster as sole author, but the only edition (1661) also credits William Rowley, while it may be that Heywood too had a hand in the tragicomedy (Gray; Jackson, &#145;Late Webster&#146;). Webster wrote, it seems, the major scenes in the main plot, involving the couples, Lessingham and Clare and Annabel and Bonvile, and Rowley was responsible for the fine comic subplot, featuring the seaman, Compass, of what is generally agreed to be the best of Webster's late collaborative work.<br>
+<br>Later in 1624 Webster and Rowley joined Dekker and Ford in writing the now lost &#145;A Late Murther of the Son upon the Mother, or, Keep the Widow Waking&#146;. The play dramatized two recent scandals: Nathaniel Tindall's murder of his mother and the tricking into matrimony of an elderly widow, Anne Elsdon, by an unscrupulous fortune-hunter. Mistress Elsdon was resident in the parish of St Sepulchre, and her son-in-law, Benjamin Garfield, the son of a friend and fellow councilman of John Webster the elder, instigated legal proceedings to prevent further performances of &#145;Keep the Widow Waking&#146;. It is through legal records that the available knowledge of the play has been established  (C. J. Sisson, <span class="italic">Lost Plays of Shakespeare's Age</span>, 1936, 80&#150;124).<br>
+<br>Webster's other project in 1624 was the lord mayor's pageant, <span class="italic">Monuments of Honour</span>. Written at the behest of the Merchant Taylors' Company to celebrate the election of one of its own, Sir John Gore, it is one of the most elaborate civic pageants of which records survive. The Merchant Taylors spent over &pound;1000 on it, of which &pound;270 was paid to &#145;Iohn Webster the Poet&#146; and three others, John Terry, William Patten, and George Lovett, who built &#145;all the land &amp; water shewes&#146;  (Forker, 9). A major feature of <span class="italic">Monuments of Honour</span> is a &#145;show&#146; called &#145;The Monument of Gratitude&#146;, which features and eulogizes the dead Henry, prince of Wales.<br>
+<br>The following year, 1625, brought yet another collaboration, with Webster joining (linguistic evidence suggests) with Ford and Philip Massinger to complete <span class="italic">The Fair Maid of the Inn</span>, a tragicomedy on which John Fletcher (perhaps with Massinger) was working before Fletcher's death of the plague in August, Webster writing nearly half of the play  (C. Hoy, &#145;The shares of Fletcher and his collaborators in the Beaumont and Fletcher canon&#146;, <span class="italic">Studies in Bibliography</span>, 13, 1960, 100&#150;08). And Webster seems again to have collaborated (here with Heywood) on what is generally agreed to be his last play, the tragedy <span class="italic">Appius and Virginia</span>, although the title-page of 1654 credits him alone; Webster was, however, responsible for well over half of the play  (Jackson, &#145;John Webster and Thomas Heywood&#146;). Treating the story of Virginius, the Roman general who killed his daughter Virginia to prevent her dishonour at the hands of the corrupt decemvir Appius, <span class="italic">Appius and Virginia</span> exhibits a classical austerity, emphasizing the Roman virtues of duty and honour and the priority of public over private claims upon the individual. It also seems to provide a vehicle for criticism of the duke of Buckingham, the deeply unpopular favourite of King Charles I  (<span class="italic">Works</span>, 2).<br>
+<br>The dating of <span class="italic">Appius and Virginia</span> is in doubt, despite general agreement that it is probably Webster's last work. Apparently topical references have been adduced in support of a date of about 1624&#150;6. A plausible chronology of Webster's last plays is thus 1624 for <span class="italic">A Cure for a Cuckold</span>, &#145;Keep the Widow Waking&#146;, and <span class="italic">Monuments of Honour</span>, 1625 for <span class="italic">The Fair Maid of the Inn</span>, and 1626&#150;7 for <span class="italic">Appius and Virginia</span>.<br>
+<br>After the characters, Webster published no further non-dramatic prose, unless, as has been suggested  (Forker, ix), he was the &#145;<i>I. W.</i> Gent.&#146; who wrote <span class="italic">A Speedie Post</span> (1625), a collection of specimen letters &#145;for the helpe of such as are desirous to learne to write letters&#146;. Nor, after <span class="italic">A Monumental Column</span>, did he produce significant non-dramatic verse, the most intriguing being verses in Latin and English accompanying an engraving of King James I and his family. In its original form this must predate the king's death in March 1625, but the only surviving copy is a version altered after October 1633 to take account of the birth of the first four of Charles I's children, as well as the death of James himself. Whatever their historical interest, however, the verses are undistinguished. Throughout his writing career, it is by his plays that John Webster must be judged.<h2>
+<a name="Lastyearsanddeath"></a>Last years and death</h2>It is not known when Webster died. Heywood's reference to him in the past tense in <span class="italic">Hierarchie of the Blessed Angels</span> (licensed 7 November 1634) suggests that he was by then dead. But since Dekker and Middleton, both dead, are referred to in the present tense, little weight can be attached to this. Nor is it clear what significance is to be attached to William Hemminges's facetious allusion, in 1632, to the refusal of &#145;webster's brother&#146; to &#145;lend a Coach&#146; for the funeral of Thomas Randolph's finger because:<blockquote>
+<div>he swore thay all weare hired to Convey<br>
+</div>
+<div>the Malfy dutches sadly on her way<br>
+</div> (<span class="italic">William Hemminge's Elegy on Randolph's Finger</span>, ed. C. G. Moore-Smith, 1923, 12)</blockquote>Forker  (p. 58) believes that such a jest would be inappropriate were the dramatist dead, and particularly if recently so, whereas Bradbrook  (p. 194) takes it to imply that the dramatist was now dead and his brother Edward head of the family.<br>
+<br>Where John Webster died and where he was buried are also unknown. If he still lived in Nag's Head Lane, by St Sepulchre's Church, as he did shortly after his marriage, then he was presumably buried there, with his parents, brother, and sister-in-law. But an entry in the parish register of St James, Clerkenwell, stating that &#145;John Webster was buried&#146; on 3 March 1638 may quite plausibly refer to the dramatist. For the parish of St James adjoined that of St Sepulchre, and it was there that both Dekker and Rowley were buried. There would be nothing surprising in Webster, in his last years, living close to old friends and colleagues.<h2>
+<a name="Personalityandcriticalassessment"></a>Personality and critical assessment</h2>Of Webster's personality we know little, yet can infer a good deal, particularly from the dedications and addresses prefacing <span class="italic">The White Devil</span>, <span class="italic">A Monumental Column</span>, <span class="italic">The Devil's Law-Case</span>, and <span class="italic">Monuments of Honour</span>. The impression they create is of a man assertive of his own worth yet thin-skinned and sensitive to criticism. It is a personality recognizable, travestied, in Fitzgeffrey's malicious portrait of &#145;Crabbed (<i>Websterio</i>) / The <i>Play-wright</i>, <i>Cart-wright</i>&#146;, a portrait which lampoons Webster's slowness in composition:<blockquote>
+<div>Was ever man so mangl'd with a Poem?<br>
+</div>
+<div>See how he drawes his mouth awry of late,<br>
+</div>
+<div>How he scrubs: wrings his wrests: scratches his Pate<br>
+</div>
+</blockquote>and as a critic:<blockquote>
+<div>Heer's not a word <i>cursively</i> I have <i>Writ</i>,<br>
+</div>
+<div>But hee'l <i>Industriously</i> examine it.<br>
+</div>
+<div>And in some 12. monthes hence (or there <i>about</i>)<br>
+</div>
+<div>Set in a shamefull sheete, my errors <i>out</i>.<br>
+</div>
+<div>But what care I it <i>will</i> be so obscure,<br>
+</div>
+<div>That none shall understand him (I am sure.)<br>
+</div> (Fitzgeffrey, sig. F6<i>v</i>&#150;F7<i>r</i>)</blockquote>Other aspects of his personality, however, belie the epithet &#145;crabbed&#146;. There is evidence, for instance, of his good relationship with the companies which performed his plays in his praise of the cast of <span class="italic">The White Devil</span>, and particularly Richard Perkins, almost certainly the first Flamineo, and in his inclusion of a cast list in the 1623 quarto of <span class="italic">The Duchess of Malfi</span> (both &#145;firsts&#146; by an English dramatist). Equally, he is generous, in the prefatory address to <span class="italic">The White Devil</span>, in his praise of his fellows Chapman, Jonson, Francis Beaumont, Fletcher, Shakespeare, Heywood, and Dekker, and he worked harmoniously, so far as can be established, with a range of dramatists from the first rate, such as Middleton and Ford, to the mediocre, like Munday and Chettle. Moreover, as the dedicatory poems to <span class="italic">The Duchess of Malfi</span> attest, he enjoyed the friendship and esteem of such men as Middleton, Ford, and Rowley.<br>
+<br>Of the social circles in which Webster moved next to nothing is known, though some details can be inferred. Through his family he would have had a wide range of acquaintance, at least, among the wealthier citizens of London, while his sojourn at the inns of court would have brought him into contact with lawyers and writers such as Marston and Overbury. Among fellow dramatists, he seems to have maintained the longest and closest relationships with Heywood and with Dekker, to whom in 1613 John Webster the elder lent &pound;40, a sum which the chronically insolvent Dekker had difficulty in repaying. With Shakespeare, however, as with Chapman, Jonson, Beaumont, and Fletcher, Webster seems, despite his approbation, to have had little contact, this perhaps because, <span class="italic">The Duchess of Malfi</span> apart, he worked almost exclusively with Queen Anne's Men rather than the King's Men.<br>
+<br>Critically, Webster has been the centre of disagreement more profound than that over any of his fellow dramatists, with his status as a great poet conceded but his dramaturgy and his vision of life fiercely criticized (T. S. Eliot, <span class="italic">Collected Essays</span>, 1951, 117, describing him as &#145;an interesting example of a very great literary and dramatic genius directed towards chaos&#146;) and equally fiercely defended. After the 1960s, however, the nature of the debate changed, the issue no longer being whether Webster had a coherent world vision but what that vision might be, and equally, acknowledging their existence, what the structural principles underlying Webster's two great tragedies are. In the 1960s there was a tendency to see Webster as a proto-existentialist, but since then he has been viewed in more strictly Jacobean terms, debate about his world vision centring on whether he is a providentialist, albeit with doubts and anxieties (P. B. Murray, <span class="italic">A Study of John Webster</span>, 1969; T. McAlindon, <span class="italic">English Renaissance Tragedy</span>, 1986), or a Renaissance sceptic, interrogating the traditional providential view of the world  (J. Dollimore, <span class="italic">Radical Tragedy</span>, 1984). Likewise, analysis of a range of features in <span class="italic">The White Devil</span> and <span class="italic">The Duchess of Malfi</span> from imagery to emblems and from symbolism to staging has revealed that structures earlier decried as &#145;a gothic aggregation&#146;  (J. R. Brown, in Hunter and Hunter, 241) or &#145;broken-backed&#146;  (W. Archer, in Hunter and Hunter, 95) are organized according to principles just as rigorous as those governing the well-made play, but involving circularity, parallelism, and repetition rather than a strictly linear and narrative-based development (<span class="italic">Works</span>, ed. Gunby and others, 1.57&#150;81, 381&#150;407; C. Luckyj, <span class="italic">A Winter's Snake</span>, 1989). Seminal in respect of this revised understanding is I.-S. Ekeblad's article &#145;The &#147;impure art&#148; of John Webster&#146; (<span class="italic">Review of English Studies</span>, 9, 1958, 253&#150;67).<br>
+<br>The greatly increased critical attention devoted to Webster has been matched (indeed stimulated) by a greatly increased number of productions of his two great tragedies. Highly acclaimed London productions of <span class="italic">The Duchess of Malfi</span> (1945) and <span class="italic">The White Devil</span> (1947) marked the beginning of regular commercial exposure. Great actors such as Robert Helpman, John Gielgud, Eric Porter, Bob Hoskins, and Ian McKellen have brought distinction to the roles of Ferdinand, Bosola, and Flamineo, but the most memorable performances have on the whole been by the great women actors, including Peggy Ashcroft, Margaret Rawlings, Glenda Jackson, Helen Mirren, Judi Dench, Eileen Atkins, Juliet Stevenson, and Harriet Walter, who have played the Duchess and Vittoria. In general, indeed, productions have been measured by the success of the female leads, reinforcing on the stage the impression which <span class="italic">The White Devil</span> and <span class="italic">The Duchess of Malfi</span> create in the study: that the tragedies revolve around the two female figures after whom they are named.<br>
+<br>&#145;Webster was much possessed by death&#146;; so, famously, wrote T. S. Eliot in &#145;Whispers of Immortality&#146;  (<span class="italic">Collected Poems, 1909&#150;62</span>, 1963, 55). So indeed he was, and the death scenes of Vittoria and her brother Flamineo and of the Duchess are intensely moving. But Webster was much possessed also by life, and by what Catherine Belsey has described as &#145;the problem of how to survive in a corrupt world&#146;  (&#145;Emblem and antithesis in <i>The Duchess of Malfi</i>&#146;, <span class="italic">Renaissance Drama</span>, 11, 1980, 133). His vision of that world and the struggle to live a life of integrity within it matures and mellows as he moves from the almost unrelieved darkness of <span class="italic">The White Devil</span>, where Vittoria, Flamineo, and her lover, Brachiano, perish without ever emerging from the mist which is Webster's standard metaphor for moral and spiritual disorientation, through <span class="italic">The Duchess of Malfi</span>, where the darkness which envelops Bosola and the Duchess's brothers is relieved by her progression from pride to humility and from despair to faith, to <span class="italic">The Devil's Law-Case</span>, where the plots of Romelio and his mother Leonora are foiled and they are rescued from evil by the efforts of the law (in the person of Ariosto) and the church (the Capuchin), to share in the play's (just) comic outcome.<br>
+<br>Compared with those of contemporaries such as Shakespeare, Middleton, Fletcher, and Massinger, Webster's dramatic output is small. Of the fifteen or so plays in which he had a hand, four are lost, and a fifth&#151;the Melbourne manuscript, if his&#151;is a fragment, while a further seven are collaborative. And though of these four (the two <span class="italic">Ho</span> plays, <span class="italic">A Cure for a Cuckold</span>, and <span class="italic">Appius and Virginia</span>) deserve better than their long-standing stage neglect, it is by the two great tragedies and <span class="italic">The Devil's Law-Case</span> that Webster must ultimately be judged. The last of these has gained critical attention but lacks stage exposure, there having been only three commercial productions since the seventeenth century. But with <span class="italic">The White Devil</span> and <span class="italic">The Duchess of Malfi</span> firmly established in the commercial repertory, Webster's reputation as the greatest English tragic writer for the stage after Shakespeare seems assured. The famous lines in these tragedies&#151;&#145;I am Duchesse of <i>Malfy</i> still&#146;, &#145;Cover her face: Mine eyes dazell: she di'd yong&#146;  (<span class="italic">The Duchess of Malfi</span>, <span class="smallcap">IV</span>.ii, line 251), and<blockquote>
+<div>My soule, like to a ship in a blacke storme,<br>
+</div>
+<div>Is driven I know not whither<br>
+</div> (<span class="italic">The White Devil</span>, <span class="smallcap">V</span>.vi, lines 243&#150;4)</blockquote>&#151;which so caught the imagination of nineteenth-century critics like Lamb and Swinburne, resonate still, but not in isolation. Rather, they are to be seen as moments of transcendence in highly subtle and coherent works of art, in which all the resources of poetic drama are directed towards the embodiment of a complex and powerful vision of human existence.<br>
+<br>David Gunby </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The works of John Webster</i>, ed. D. Gunby and others, 2 vols. (1995&#150;) [<i>The white devil</i>, <i>The duchess of Malfi</i>, and <i>The devil's law-case</i> are cited from this edn] &middot; <i>The complete works of John Webster</i>, ed. F. L. Lucas, 4 vols. (1927) [all other Webster texts are cited from this edn] &middot; <i>The dramatic works of Thomas Dekker</i>, ed. F. T. Bowers (1953&#150;61) &middot; C. R. Forker, <i>Skull beneath the skin</i><i>: the achievement of John Webster</i> (1986) &middot; M. C. Bradbrook, <i>John Webster</i><i>: citizen and dramatist</i> (1980) &middot; A. Hammond, &#145;John Webster&#146;, <i>Jacobean and Caroline dramatists</i>, ed. F. Bowers, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28943&amp;istheme=&amp;target=DLitB')">DLitB</a>, 58 (1987) &middot; <i>The Henslowe papers</i>, ed. R. A. Foakes (1977) &middot; M. Edmond, &#145;In search of John Webster&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28943&amp;istheme=&amp;target=TLS')"><i>TLS</i></a> (24 Dec 1976), 1622 &middot; H. Fitzgeffrey, <i>Satyres</i><i>: and satyricall epigrams</i> (1617) &middot; G. K. Hunter and S. K. Hunter, eds., <i>John Webster</i> (1969) &middot; A. Gurr, <i>The Shakespearean stage, 1574&#150;1642</i>, 3rd edn (1992) &middot; <i>The control and censorship of Caroline drama</i><i>: the records of Sir Henry Herbert, master of the revels, 1623&#150;73</i>, ed. N. W. Bawcutt (1996) &middot; M. P. Jackson, &#145;John Webster and Thomas Heywood in <i>Appius and Virginia</i>: a bibliographical approach to the problem of authorship&#146;, <em>Studies in Bibliography</em>, 38 (1985), 217&#150;35 &middot; H. D. Gray, &#145;<i>A cure for a cuckold</i> by Heywood, Rowley and Webster&#146;, <em>Modern Language Review</em>, 22 (1927), 389&#150;97 &middot; M. P. Jackson, &#145;Late Webster and his collaborators: how many playwrights wrote <i>A cure for a cuckold</i>?&#146;, <em>Papers of the Bibliographical Society of America</em>, 95/3 (2001), 295&#150;313 &middot; D. J. Lake, &#145;Webster's additions to <i>The malcontent</i>&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28943&amp;istheme=&amp;target=N%26Q')"><i>N&amp;Q</i></a>, 226 (1981), 158 &middot; <i>John Marston, The malcontent</i>, ed. G. K. Hunter (1975) &middot; <i>George Chapman, Ben Jonson, John Marston</i><i>: Eastward Ho</i>, ed. R. W. Van Fossen (1979) &middot; parish register, London, St Giles Cripplegate, 4 Nov 1577, GL [marriage: John Webster and Elizabeth Coates, parents] &middot; C. H. Hopwood, ed., <i>Middle Temple records</i>, 4 vols. (1904&#150;5) &middot; parish register, Islington, St Mary, 18 March 1606 [marriage] &middot; parish register, London, St James, Clerkenwell, 3 March 1638 [burial]<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">David Gunby, &#145;<span class="roman"><span class="headword">Webster,  John</span>  (1578<span class="mult">x</span>80&#150;1638?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/28943, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Webster (1578<span class="mult">x</span>80&#150;1638?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/28943 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30834;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30834-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30834-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30834#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bose, Satyendranath <span class="st"> [Satyendra Nath]</span></span>  (1894&#150;1974), <span class="occ">physicist</span>, was born on 1 January 1894 in Calcutta, the only son and eldest of the seven children of Surendranath Bose (1867/8&#150;1964), an accountant with the East Indian Railways, and later one of the founders of a small chemical and pharmaceutical company, and his wife, Amodini Devi (<i>d</i>. 1939), who had little education but much domestic ability in bringing up a large family. Bose attended the local elementary school in Calcutta until he moved to the Hindu School in 1907. He was much interested in science, in which he was encouraged by the headmaster and mathematics teacher. In 1909 he entered Presidency College, Calcutta, and was awarded science degrees in 1913 (BSc) and 1915 (MSc) with top place in various branches of mathematics. In that year Bose married Ushabala, daughter of Dr Jogendra Nath Ghosh. They later had two sons and five daughters.<br>
+<br>Since Indians were then denied entry to the administrative government service, Bose continued to study physics, in spite of the lack of appropriate textbooks and literature. With much of Europe at war, little was known in India at that time about recent developments of quantum theory in Germany and elsewhere. Moreover, there were no adequate laboratories or equipment for research. In 1914 the University College of Science, for postgraduate studies and research, was established at Calcutta. Some recent European books were obtained, and research was published on new aspects of physics. In 1917 Bose and his lifelong friend Meghnad Saha (1893&#150;1956) became lecturers there, and Bose learned French and German to gain access to recent literature.<br>
+<br>Bose developed a special interest in statistical mechanics, and was much stimulated by J. Willard Gibbs's book on <span class="italic">Elementary Principles in Statistical Mechanics</span> (1902), from which he learned more about phase space and Boltzmann statistics. Arthur Eddington's analysis of the data from the solar eclipse of 1919 verified the deflection of starlight by the sun's gravitational field, confirming one of Einstein's predictions in respect of general relativity, turning Bose's attention to relativity and Einstein's recent papers about it. He translated for circulation in India Einstein's paper of 1905 on the special theory of relativity, and in 1916 that on the general theory of relativity. Although these translations were somewhat defective, they presented the first English texts of Einstein's work.<br>
+<br>In 1921 Bose went to the new Dacca University as a reader in physics. He had now studied Planck's theory of heat radiation, and became interested in Planck's radiation formula, the expression which gives the distribution of energy in the radiation from a black body. This had been one of the starting points of the quantum theory. Neither Planck nor Einstein had been satisfied with their attempts to derive this formula by classical methods. The basic assumptions of the quantum theory were not reconcilable with the laws of classical electrodynamics. In this context Bose made his single great contribution. He derived the Planck formula in a logical manner using the principles of Boltzmann statistics. Aware that his derivation was the logical outcome of Einstein's own line of thought, in June 1924 Bose sent his paper to Einstein, who, recognizing its merit, immediately translated it himself. As &#145;Plancks Gesetz und Lichtquantenhypothese&#146; it was published in August of that year in <span class="italic">Zeitschrift f&uuml;r Physik</span>, vol. 26. This epoch making paper contained the first correct treatment of the thermodynamics of the photon gas and laid the foundation of quantum statistics. Bose considered his next paper, &#145;Warmegleichgewicht in Strahlungsfeld bei Anwesenheit von Materie&#146;, published later that year in vol. 27 of the <span class="italic">Zeitschrift</span>, to be his best scientific contribution. It was likewise translated by Einstein, who on this occasion contested Bose's hypothesis about the probability of elementary radiative processes.<br>
+<br>Bose longed to meet European scientists, and in 1924 applied to Dacca University for a leave of absence of two years to study abroad. After seeing Einstein's letter to Bose expressing high appreciation of the latter's achievement, the university granted him leave and made adequate financial provision for his family during this period. He first went to Paris, in 1924, where he met Langevin, Madame Curie, and the de Broglies, and among many other things learned something about spectroscopy and crystallography. In October 1925 he went to Berlin and met Einstein, who had made many advances during the previous twelve months, partly arising from Bose's ideas, but who was now mainly interested in a unified field theory. Through Einstein, Bose was delighted to meet many of the distinguished scientists in Berlin at that time. He heard talks by Max Born and others about the new quantum mechanics.<br>
+<br>Bose returned to Dacca in 1926 and was appointed a professor of physics in 1927. In the years following 1924 Bose's research interests widened. His forte lay in his profound understanding of basic science, which found expression outside physics, and research workers on other disciplines benefited from discussions with him. In the years 1952&#150;4 he renewed his interest in the theory of relativity. In 1946 he became the Khaira professor of physics at Calcutta University. He retired in 1956, became the vice-chancellor of Viswa-Bharati University, Santiniketan, and in 1958 accepted the honorific appointment of national professor (<i>Padma Vibhushan</i>).<br>
+<br>Throughout his life Bose tried to improve education, science, and culture in India, and to encourage the use of better technology for the people's welfare. He was proud of his Bengali origins and hoped for Indian independence; he grieved when Bengal was divided in 1947. He was president of the physics section of the Indian Science Congress (1939), general president of the thirty-first session of the Indian Science Congress, Delhi (1944), and president of the National Institute of Science of India (later the National Academy of Sciences) in 1949. In 1958 he was elected a fellow of the Royal Society of London. To those who asked why he had never visited the United States of America, Bose would explain that as he had already visited Russia the American authorities considered him a communist sympathizer (this was in the McCarthy era) and refused him a visa.<br>
+<br>It is rare, indeed, for any scientist living in an environment or milieu which could not really teach, or help him, to make an important contribution like that of Bose, and send it to a leading world scientist whom he had never met asking for an assessment of its value. Bose's name is now established by the terms Bose&#150;Einstein statistics, which are used in the interpretation of numerous physical phenomena, and bosons (particles obeying Bose&#150;Einstein statistics).<br>
+<br>Plans were in hand at various places in India to celebrate Bose's eightieth anniversary when he died in Calcutta on 4 February 1974.<br>
+<br>H. W. Thompson<span class="italic">, rev. </span> 
+</div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Mehra, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30834&amp;istheme=&amp;target=Memoirs%20FRS')"><i>Memoirs FRS</i></a>, 21 (1975), 117&#150;54 &middot; W. A. Blanpied, &#145;Bose: co-founder of quantum statistics&#146;, <em>American Journal of Physics</em>, 40 (1972), 1212&#150;20 &middot; N. N. Ray, &#145;Professor S. N. Bose: an impression of his personality&#146;, <i>Satyendranath Bose, 70th birthday commemorative volume</i> (1965) &middot; <em>Nature</em>, 249 (1974), 499<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Mehra, <i>Memoirs FRS</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">H. W. Thompson, &#145;<span class="roman"><span class="headword">Bose, Satyendranath </span>  (1894&#150;1974)</span>&#146;, rev. <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/30834, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Satyendranath Bose (1894&#150;1974): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30834 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

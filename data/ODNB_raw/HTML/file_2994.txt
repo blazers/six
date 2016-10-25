@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2994;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2994-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2994-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2994#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bourchier,  Thomas</span>  (<em>d.</em> <em>c.</em>1586), <span class="occ">Observant Franciscan friar</span>, is of obscure origins. Wadding and Sbaralea suggested that he might be identical with another Franciscan, Thomas Langton, but Parkinson has Langton and Bourchier as two distinct men. Thomas was descended from the Bourchiers who were earls of Bath, but his place of birth is unknown. He was educated at Magdalen College, Oxford, and went to Paris for religious reasons, where he became a Franciscan, if he was not one before then. Wolfgang Eder, the printer of the Ingoldstadt edition (1583) of Bourchier's <span class="italic">Historia</span>, said on good authority that Bourchier entered the order in 1566, which would suggest that he died in his forties. However, Davenport said that he became a Franciscan at Greenwich in the reign of Queen Mary, and Gillow gives the year 1558.<br>
+<br>Bourchier received a doctorate in theology at the Sorbonne, and was highly respected for holiness and learning. He eventually went to Rome, stayed at the Aracoeli friary, and was appointed a penitentiary at the basilica of St John Lateran. He wrote much, said John Pits, who knew him. At the time of his death he was, according to the rather prejudiced Robert Parsons, &#145;younge, stronge, lustie, and vehement in the faction&#146; against the Jesuits in the setting up of the English College in Rome. In 1585 a &#145;frier boutser&#146;  (<span class="italic">Memoirs</span>) corresponded with Sir Francis Walsingham, Queen Elizabeth's secretary of state, perhaps officially, about moderation in matters of religion.<br>
+<br>Thomas Bourchier's reputation rests principally on his work as an ecclesiastical historian. The first edition of his history was entitled <span class="italic">Historia ecclesiastica de martyrio fratrum ordinis divi Francisci, dictorum de observantia</span>, and was printed in Paris in 1582. The book covered the period between 1536 and 1582. Well aware of the death of many at home and abroad for religious reasons, Bourchier wrote accounts of five Observant Franciscan martyrs in England; other martyrs in the Netherlands and the Spanish Netherlands; two Irish martyrs, <script>writeSeealsoLink('../view/article/20638/', "Bishop Patrick O'Healy")</script> and Conn O'Rourke (beatified in 1992); and finally the martyrs of Flanders, including the Scot John Gray. The title and contents were rearranged in the Ingoldstadt edition of 1583. Bourchier's <span class="italic">Historia</span> was the first published account of the martyrs, and is important for the transmission of the <i>fama martyrii</i>. That his work is generally reliable is clear from the detailed account of the two Irish martyrs (<i>d</i>. 1579), which he probably got from an Irish source in Paris; Bourchier had, in fact, lived for a while with O'Healy and O'Rourke in the Paris friary, 1578&#150;9. Pages 185&#150;234 read like a long sermon or address on self-defence in the fight against evil and the consequences of being overcome, using examples from the animal world. This is applied to Henry VIII and Elizabeth I, who were learned persons; Bourchier said Elizabeth knew Latin, Greek, French, Italian, Spanish, and German. According to Allison and Rogers the account of the Flemish martyrs is by Florentinus van Oyen of Leiden. There were several further editions of Bourchier's work, which were used by many Franciscan chroniclers and others. He did not edit, as was thought, the Latin translation by Socolovius of <span class="italic">Censura orientalis ecclesiae</span> by Hieremias II, patriarch of Constantinople. He had hoped to publish the <span class="italic">Liber ad fratres</span> of the English martyr Thomas Belchiam, written to inspire the friars and others to stand firm in their faith.<br>
+<br>Thomas Bourchier died at the basilica of St John Lateran, Rome, about 1586. He was probably buried with the friars of Aracoeli.<br>
+<br>Ignatius Fennessy </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>L. Waddingus [L. Wadding], <i>Scriptores ordinis minorum</i> [new edn] (1906) &middot; J. H. Sbaralea, <i>Supplementum &hellip; ad scriptores &hellip; S. Francisci</i>, 3 vols. (Rome, 1908&#150;36) &middot; A. F. Allison and D. M. Rogers, eds., <i>The contemporary printed literature of the English Counter-Reformation between 1558 and 1640</i>, 1 (1989) &middot; C. Walmesley, &#145;The Venerable Thomas Cort&#146;, <em>Archivum Franciscanum Historicum</em>, 19 (1926), 169&#150;80 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2994&amp;istheme=&amp;target=Gillow%2C%20Lit.%20biog.%20hist.')">Gillow, <i>Lit. biog. hist.</i></a> &middot; [A. Parkinson], <i>Collectanea Anglo-minoritica</i> (1726) &middot; Franciscus &agrave; Sancta Clara [C. Davenport], <i>Manuale missionariorum regularium</i> (1658) &middot; J. Pits, <i>Relationum historicarum de rebus Anglicis</i>, ed. [W. Bishop] (Paris, 1619) &middot; <i>Dermot O'Hurley, archbishop and companions 1579&#150;1654</i>, Congregation for the Causes of Saints, 1 (1988) [Prot. N. 114] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2994&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, 1st edn &middot; J. H. Pollen, <i>The English Catholics in the reign of Queen Elizabeth</i> (1920), 248 &middot; &#145;The memoirs of Father Robert Persons&#146;, ed. J. H. Pollen, <i>Miscellanea, II</i>, Catholic RS, 2 (1906), 12&#150;218, esp. 34&#150;5, 206<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ignatius Fennessy, &#145;<span class="roman"><span class="headword">Bourchier,  Thomas</span>  (<em>d.</em> <em>c.</em>1586)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/2994, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Bourchier (<em>d.</em> <em>c.</em>1586): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2994 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

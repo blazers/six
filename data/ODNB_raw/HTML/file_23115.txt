@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23115;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23115-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23115-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23115#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Randolph <span class="st"> [<em>formerly </em>Randall]</span>,  Charles</span>  (1809&#150;1878), <span class="occ">marine engineer and shipbuilder</span>, was born on 26 June 1809 in Stirling, the son of Charles Randall, bookseller, printer, and stationer, and his wife, Mary, <i>n&eacute;e</i> Steadman. He was educated at Stirling high school, Glasgow grammar school, the University of Glasgow, and at Anderson's Institution in Glasgow where he attended lectures by the chemist Dr Andrew Ure, brother of Isabella Ure, the wife of <a href="#cosubject_8610">John Elder [<i>see below</i>]</a>. He was then apprenticed as a wright (engineer) in William Kinross's coachworks in Stirling, subsequently transferring to Robert Napier's works at Camlachie where he was trained by <a href="#cosubject_61599">David Elder [<i>see below</i>]</a>.<br>
+<br>
+<a name="cosubject_61599"></a><span class="headword">David Elder</span>  (1784&#150;1866)<span class="occ"></span>, born at Little Seggie, Kinross-shire, had been apprenticed in the works of his father, Charles Elder, whose family had been wrights in Fife for generations. Like others of his contemporaries he had supplemented his training with much private study, particularly in hydraulics and hydrodynamics. He left the family business at the turn of the century to gain experience in the construction industry, particularly in building and fitting out large cotton mills in the Glasgow area. In the late 1810s he supervised the commissioning of Mile End factory for J. Clark &amp; Co. of Paisley and James Dunlop's Broomward mill. In 1821 he went to work for Robert Napier. The following year he helped Napier build his first marine engine and went on to make many improvements in the design of the engines built by the firm. He also developed special machine tools for turning and boring the large cylinders and other components, training cartwrights and joiners in their use. The reputation of Napier's engines for reliability in service owed much to Elder's skill in design and production.<br>
+<br>During his apprenticeship Charles Randall changed his name back to the original Randolph, which the family had not used since his grandfather's participation in the Jacobite rising of 1745. On becoming a journeyman he worked in two Manchester firms: Omerods, and Fairbairn and Lillie. He returned to Glasgow in 1834 to open a millwright's business in Centre Street in partnership with his cousin Richard Cunliffe, a yarn merchant with contacts in the local textile trades. The new firm soon won fame for the accuracy of its gear-cutting and machining. In 1839 John Elliot (<i>d</i>. 1842), a manager with Fairbairn and Lillie, joined the partnership, which then traded as Randolph, Elliot &amp; Co., and extended its activities to England, Ireland, and mainland Europe.<br>
+<br>
+<a name="cosubject_8610"></a><span class="headword">John Elder</span>  (1824&#150;1869)<span class="occ"></span> was born at Glasgow on 8 March 1824, the third son of David Elder, who was then manager of Robert Napier's Lancefield and Vulcan engine works. He was educated at Glasgow grammar school and subsequently attended classes at the University of Glasgow under Lewis Gordon, newly appointed professor of civil engineering. Elder was a premium apprentice for five years at Robert Napier &amp; Sons in Glasgow, where he was trained by his father. He showed an extraordinary talent as a marine engineer and man of business. He then worked for a year as a pattern maker at Messrs Hick of Bolton-le-Moors, Lancashire, before being appointed draughtsman to Great Grimsby docks. He returned to Glasgow to become Napier's drawing-office manager and chief draughtsman in 1848. While there he assisted his father in the design and construction of six vessels for the Cunard Company. Later the firm became involved in a dispute with the Pacific Steam Navigation Company over a contract for four paddle-steamers, which needed to be modified to meet the specification. When Napier incurred penalties for late delivery, John Elder reputedly decided to leave and accept a partnership with Randolph, Elliot &amp; Co., which was rechristened Randolph, Elder &amp; Co. His real motive in moving was probably because he realized that there was little prospect of his gaining a partnership in Napier's firm when James R. Napier, Robert Napier's son and himself a brilliant engineer, was managing the shipyard. David Elder continued to work for Napier until his death at the age of eighty-two in Glasgow on 31 January 1866. A deeply religious man, he was a member of the Scottish Episcopal church and was well known for his interest in theology. He was a keen musician, and he not only played organs but also built them.<br>
+<br>Randolph, Elder &amp; Co. diversified at once into the fast-expanding marine engineering business and with the help of W. J. Macquorn Rankine, then professor of civil engineering at the University of Glasgow, began experimenting with a two-cylinder compound engine following the example of other marine engineers. John Elder had for some time been concerned to improve the efficiency of marine engines by reducing friction of the moving parts, which would increase the power and cut coal consumption. Where others had failed Elder succeeded, because, according to Macquorn Rankine, he &#145;had thoroughly studied and understood the principles of the then almost new science of thermodynamics&#146;  (Macquorn Rankine, 29&#150;30). The partners took out their first patent for a compound engine in 1853. The pistons of the high- and low-pressure cylinders were diametrically opposed so as to balance and largely neutralize strain and friction on the bearings, an aspect of engineering previously neglected. The new engines installed in the <i>Brandon</i> for the London and Limerick Steamship Company in 1854 reduced coal consumption per indicated hp from 4&frac12; lb to 3&frac12; lb. By experimenting with James Watt's proposal for steam-jacketing cylinders they were able to further reduce coal consumption to between 2 lb and 2&frac12; lb.<br>
+<br>Despite suspicion of the high piston speeds which these engines achieved, success was almost immediate and orders flowed in to the firm, notably from the Pacific Steam Navigation Company. John Elder described these developments in a series of scientific papers read at meetings of the British Association for the Advancement of Science between 1858 and 1860. In 1858 the partners began iron shipbuilding at a yard in Govan. Early in 1859 their engine works was burnt down and an imposing new shop with an Egyptian fa&ccedil;ade was constructed, capable of handling the massive cylinders for their engines. At the height of this success Elder, who was a man of striking good looks, was married on 31 March 1857 by his close friend the Revd Norman Macleod to Isabella Ure (1830&#150;1905) [<i>see </i><script>writeSeealsoLink('../view/article/47543/', "Elder, Isabella")</script>], who later helped pioneer the higher education of women in the west of Scotland.<br>
+<br>Randolph Elder continued to develop its engines, experimenting in the 1860s with both triple and quadruple expansion and water-tube boilers. To the frustration of their competitors they either together or separately patented all their innovations. In 1863 they built their first high-speed naval compound engine, which when demonstrated in HMS <i>Constance</i> totally outperformed competitors with conventional engines. During the American Civil War the firm constructed in five months in 1864 five blockade runners fitted with these engines. This must have strained relations with Macleod, a fervent supporter of anti-slavery. During that year Randolph Elder moved to a new, large shipyard at Fairfield, further down the River Clyde in Govan, which was considered to be about as complete and convenient a shipbuilding establishment as any in the world. By now the firm was undoubtedly the most successful shipbuilding and marine engineering business on the Clyde, employing some 4000 people, and the three partners were very rich men. Randolph and Richard Cunliffe withdrew from the partnership in 1868 but remained as investors. In the previous fifteen years the firm had supplied 111 sets of marine engines with an aggregate 20,145 indicated hp and had built 106 ships. John Elder continued as sole partner and began building a new engine works, which farsightedly included a boiler shop, separate from and to the west of the engine works, as well as a floating dock and repair slip. In his first year in business Elder constructed fourteen steamships and three sailing-ships of a total of over 25,000 tons, nearly double the production of any other Clyde yard. He attributed this achievement to a willingness to innovate continuously. During the late 1860s he devoted a great deal of time to experiments with the use for naval monitors of round hulls propelled by water-jets that could be used safely in shallow water.<br>
+<br>Like his father, Elder was a deeply committed Christian and keenly interested in schemes to foster the social, intellectual, and religious welfare of his workforce. He organized and contributed to an accident and sick fund and in 1869 was planning to build new model houses and schools near the works. He was prevented from realizing this scheme by a serious liver complaint, which led to his death in London at the early age of forty-five on 17 September 1869. His funeral, according to Norman Macleod, who conducted the service,<blockquote>was one of the most impressive sights I ever witnessed. The busy works south of the Clyde were shut, forge and hammer at rest, and silent as the grave. The forest of masts along the river were draped in flags, lowered half mast in sign of mourning.</blockquote>Of the man, he recalled:<blockquote>His religion was a life, not confined to the church or to Sunday, but carried out every day in the family, in the counting house, in society, and in business, manifested in untarnished honour, in the sweetest temper, in gentle words and most remarkable and most unselfish considerations for the feelings and the wants of others. (Craig, 36&#150;7)</blockquote>He had only recently been elected president of the Institution of Engineers and Shipbuilders of Glasgow. With Macquorn Rankine, he served as an officer in the 1st (Lanarkshire) rifle volunteers. As he had no heir, his wife inherited his large estate.<br>
+<br>On his retirement in 1868 Charles Randolph turned his attention to the improvement of the River Clyde, and he presented a long and unsolicited report on its development to the Clyde Navigation trustees in the same year. With a barrage of statistics he forecast with some accuracy that the trust's existing plans would be unable to cope with demand over the next fifty years. As a trustee he played an important part in its affairs over the next decade, particularly in the construction of Queen's Dock at Stobcross on the north bank of the river. He was also concerned to improve Glasgow's sewage disposal, helping to found the Glasgow Sanitary Association and supporting the construction of outfall sewers. Parsimony and competing priorities delayed action until after his death.<br>
+<br>Randolph remained active in business, and in 1868 he helped establish the British and African Steam Navigation Company in partnership with Glasgow and Liverpool investors, including James Buchanan Mirrlees, Thomas Coats, and S. R. Wilson; he served as its first chairman. He was a director of the Glasgow-based Tharsis Sulphur and Copper Company, the Glasgow and South Western Railway Company, the Lochgelly Coal Company in Fife, the Bent Colliery Company at Hamilton, the Scottish Commercial Insurance Company, Nobel's Explosives Ltd, and the British Dynamite Company, the last of which he was also chairman. He never lost his appetite for invention, and in his later years he built a steam carriage that, unlike most others, was successful. He was an active member of the Philosophical Society of Glasgow and was much interested in education. He married Margaretta Sainte Pierre; the marriage was childless but they adopted a daughter, Agnes, who at the time of her father's death was married to Andrew Rintoul, a Glasgow merchant. Randolph died at his home, 14 Park Terrace, Glasgow, on 11 November 1878 and was buried in the old Holyrood churchyard, Stirling. He left &pound;60,000, almost half of his estate, to the University of Glasgow to complete the Common, or Bute, Hall; the antechamber and the grand south staircase were named in his honour. In recognition of his munificence the university commissioned a portrait by the artist Duncan Macnee. There is no doubt that John Elder and Charles Randolph, by pioneering the compound engine, ensured the Clyde's continuing technical domination of the world shipbuilding industry in the second half of the nineteenth century. They were atypical in that, unlike many leading-edge firms in Britain at the time, they took great care to protect all their inventions and innovations by patent, which frustrated other shipbuilders throughout the world who had themselves been trying to design similar two-cylinder engines. In their lives they reflected the liberal Christian ideas of Norman Macleod and John Caird that dominated Glasgow society at the time.<br>
+<br>Michael S. Moss </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. Slaven, &#145;Randolph, Charles&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23115&amp;istheme=&amp;target=DSBB')"><i>DSBB</i></a> &middot; P. N. Davies, &#145;Elder, Alexander&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23115&amp;istheme=&amp;target=DSBB')"><i>DSBB</i></a> &middot; <em>Glasgow Herald</em> (12 Nov 1878) &middot; <em>Stirling Journal</em> (17 Nov 1878) &middot; <em>Proceedings of the Philosophical Society of Glasgow</em>, 11 (1877&#150;9), 521&#150;2 &middot; J. MacLehose, ed., <i>Memoirs and portraits of one hundred Glasgow men who have died during the last thirty years</i>, 2 vols. (1886) &middot; J. McAlpine, &#145;Biography of Isabella Elder&#146;, U. Glas., archives, Ure Elder MSS, DC 122 &middot; W. J. Macquorn Rankine, <i>A memoir of John Elder, engineer and shipbuilder</i> (1883) &middot; P. N. Davies, <i>The trade makers</i><i>: Elder Dempster in West Africa, 1852&#150;1972</i> (1973) &middot; A. Craig, <i>The Elder Park, Govan</i> (1891) &middot; J. R. Napier, &#145;Memoir of the late David Elder, engineer&#146;, <em>Transactions of the Institution of Engineers and Shipbuilders in Scotland</em>, 9 (1865&#150;6), 92&#150;105 &middot; <i>The &#145;building of the ship&#146;</i><i>: being an historical and descriptive narrative of the works of the Fairfield Shipbuilding &amp; Engineering Co. Ltd</i> (privately printed, London, 1891) &middot; <i>Historical and descriptive account of the works of the Fairfield Shipbuilding and Engineering Company (Limited)</i> [1898] &middot; J. F. Riddell, <i>Clyde navigation</i><i>: a history of development and deepening of the River Clyde</i> (1979) &middot; D. D. Napier, <i>David Napier, engineer, 1790&#150;1869</i><i>: an autobiographical sketch with notes</i>, ed. D. Bell (1912) &middot; d. cert. &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23115&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1879) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23115&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Mitchell L., Glas., Strathclyde Regional Archives, records of Fairfield Shipbuilding and Engineering Co. previously John Elder &amp; Co. and Randolph Elder &amp; Co., UCS2
+   &middot;
+ U. Glas., Archives and Business Record Centre<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> D. Macnee, portrait, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23115&amp;istheme=&amp;target=U.%20Glas.')">U. Glas.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;114,305 16<i>s</i>. 5<i>d</i>.: confirmation, 29 Jan 1879, <i>CCI</i> &middot; &pound;12,955 5<i>s</i>. 3<i>d</i>.: eik additional estate, 30 June 1879, <i>CCI</i> &middot; &pound;188,028 15<i>s</i>. 1<i>d</i>.&#151;John Elder: confirmation, 29 Oct 1869, <i>CCI</i> &middot; &pound;9817 3<i>s</i>. 6<i>d</i>.&#151;David Elder: confirmation, 14 March 1866, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael S. Moss, &#145;<span class="roman"><span class="headword">Randolph ,  Charles</span>  (1809&#150;1878)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2008 [http://www.oxforddnb.com/view/article/23115, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Charles Randolph (1809&#150;1878): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23115 
+                <br />
+
+                
+
+ David Elder (1784&#150;1866): doi:10.1093/ref:odnb/61599<br> John Elder (1824&#150;1869): doi:10.1093/ref:odnb/8610<br>
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/23115/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

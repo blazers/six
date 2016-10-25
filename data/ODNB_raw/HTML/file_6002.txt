@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 6002;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/6/6002-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/6/6002-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=6002#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Columbanus</span> <span class="st"> [St Columbanus, Columban]</span>  (<em>d.</em> 615), <span class="occ">missionary and monastic founder</span>, was born in the Irish province of Leinster.<h2>
+<a name="Originsandeducation"></a>Origins and education</h2>Traditionally Columbanus's date of birth has been assumed to be somewhere about the year 543, though the reliability of this is questionable, since it was established on the basis of a reference in a poem whose former attribution to the saint is now in serious doubt. The first date that can be established with some certainty is that of his arrival in Gaul. In a letter probably written in 603 he remarks that he has spent twelve years in Gaul, which would mean that he arrived in 590&#150;91. According to his biographer Jonas, Columbanus was by then twenty years of age; in some manuscripts this was changed to thirty years, which seems closer to the mark. Columbanus might therefore have been born somewhere about 560&#150;70, though an even earlier date cannot be excluded.<br>
+<br>Thanks to Jonas, much is known of Columbanus's life. Jonas was from Susa, and entered the monastery of Bobbio three years after Columbanus had died there. Not only did he have access in Bobbio to people who had known his subject, he also travelled with Amandus to visit other monasteries founded by Columbanus, in order to gather information for his literary works. His life is the main source of information for Columbanus's youth; Columbanus's own extant works add to Jonas's tale only for his later life.<br>
+<br>Although her name is unrecorded, Columbanus's mother plays a significant role in the life; his father is not mentioned once. As is customary in saints' lives, Jonas starts his story with a premonition of the child's future greatness. He records how Columbanus's mother while pregnant had a dream in which a radiant sun came out of her body to light the world that had been lying in the darkness of a silent night. It was explained to her that this signified that the child she was bearing would be a man of such great talents that he would be of much help, not only for his own salvation, but also for that of his fellow men. According to Jonas, Columbanus's mother took charge of her son's education, in the course of which he was instructed in grammar and the liberal arts. This suggests that she was of some social standing. It was also his mother who tried with all her might to prevent her son from leaving his parental home to take up the monastic life. She stood in the doorway to obstruct his departure, but broke down before her son's determination. With one big step he then leapt over his crying mother and over the threshold, never to return again.<br>
+<br>Columbanus is said to have been an attractive young man. Lascivious girls fell in love with him, but he defended himself with the sword of the gospels, because he did not want his studies in grammar, rhetoric, geometry, and Holy Scripture to have been in vain (as Jonas explains with another hagiographical topos). An unnamed anchoress induced him to take up the monastic life. His first teacher was a certain Sinilis, maybe Mo Sinu (or Sillan), who at that time may have been a teacher in one of the daughter houses of Bangor (Down), of which monastery he later became abbot. Under his supervision Columbanus apparently wrote a commentary on the psalms, and &#145;several other works that were useful in chant and instruction&#146;  (Jonas, 69). Thereafter he entered the monastery of Bangor under its founder abbot, Comgall. After a number of years the characteristically Irish inclination towards pilgrimage (<i>peregrinatio</i>) made itself felt, and he asked the abbot for permission to leave the monastery. Comgall reluctantly gave his consent and let Columbanus go, together with twelve companions.<h2>
+<a name="FoundationsinMerovingianGaul"></a>Foundations in Merovingian Gaul</h2>Columbanus and his followers arrived in Brittany about 591. From there they went to Frankish Gaul, where, according to Jonas&#151;who certainly exaggerated in order to highlight his hero's achievements&#151;Christian life had sunk to a very low level. The ascetic life of these foreign monks apparently so impressed the Merovingian king (of uncertain identity) and his entourage that they enabled Columbanus to found the monastery of Annegray, some 10 miles east of Luxeuil-les-Bains in Burgundy. This community grew steadily because of its attraction to members of Merovingian aristocratic families. In a few years it had become so overcrowded that it was necessary to found a new community in the neighbourhood: the monastery of Luxeuil. This foundation was sponsored by a grant from King Childebert II. Again this house attracted a great multitude of monks, so that yet another foundation, that of Fontaines, 5 miles north-west of Luxeuil, became necessary. Jonas tells that the community of Fontaines numbered some sixty monks, while the three houses together counted two hundred and twenty monks. The precariousness with which their inmates maintained a bare subsistence in these communities seems to be reflected in Jonas's concern with questions of food shortages and in his accounts of miracles which relieved the monks. Following the Irish custom, Columbanus ruled these three houses in person.<br>
+<br>From the moment of their foundation Columbanus's monasteries appear to have enjoyed immunity from episcopal interference. Columbanus may even have brought a monastic bishop with him, for in one of his letters he refers to the altar in Luxeuil that was blessed by the holy Bishop Aid. Aid may have been one of his early companions, since the name is clearly a form of the Irish &Aacute;ed, unless Columbanus is referring to a portable altar that he took from Ireland after Aid had blessed it. Foundation charters of these monasteries have not survived, but other monasteries in the Columbanian tradition received written monastic immunities. Nevertheless, Columbanus came into conflict with the Frankish episcopacy over the Irish method of calculating the date of Easter. During this controversy he appealed to Pope Gregory the Great in a fascinating, self-conscious letter, probably dating from the year 600, in which he challenged the pope to abandon the fifth-century Victorine calculation in favour of the Irish one that he attributed to Anatolius. In a letter from 603 to the bishops assembled in Chalon-sur-Sa&ocirc;ne to discuss the case, his tone was much more yielding. The pressure on him, including a threat of banishment, had become so great that he now wanted to be left in peace to follow his own customs. Other differences of opinion may also have played a role, since Columbanus in this letter stressed the different vocations of secular clerics and monks. When the bishops remained hostile, Columbanus again appealed to the pope, this time probably to Gregory's successor Sabinian, whose name he did not yet know. Again he asked to be left in peace and for permission to observe the customs of his fatherland, especially since he still considered himself to be in his homeland (<i>in patria</i>), an expression which possibly refers to some sort of monastic immunity.<br>
+<br>Notwithstanding these difficulties with local bishops, Columbanus remained in royal favour until 609&#150;10. According to Jonas, King Theuderic II of Burgundy, the southernmost of the three kingdoms which comprised the Merovingian realm, was very pleased to have a man of such renown in his kingdom and invited him to court. On one such occasion Brunechildis, the king's grandmother, presented the king's sons to the holy man for a blessing. But the saint refused this, apparently because the children had not been born in lawful wedlock. Theuderic and Brunechildis urgently needed legitimate heirs, so Columbanus's staunch refusal posed a significant threat to their authority. Jonas particularly blames Brunechildis for the conflict, depicting her as a second Jezebel, while the king seems to have been more cautious. Columbanus broke off all contact with the royal court and Theuderic retaliated by banishing Columbanus from his kingdom and commanding him to return to his native country. The holy man, however, refused to leave his monastery, whereupon the king's men tried in vain to force him into exile. In the end Columbanus yielded, not to force, but out of compassion for the king's men, who would have been killed if they had not succeeded in their task. At least, that is how Jonas describes this episode, in which Columbanus's power and determination are highlighted.<br>
+<br>Columbanus's banishment from Burgundy did not mean the end for his foundations. Some of his followers remained behind, while another group followed him. According to Jonas, only the foreigners were expelled, while the indigenous monks were allowed to stay. In a consolatory letter sent to the brethren he left behind, Columbanus hints at some disagreement among his followers, which may have caused some of his monks to flee to the Austrasian court.<h2>
+<a name="Exilewanderingsanddeath"></a>Exile, wanderings, and death</h2>Columbanus was taken to Nantes in Brittany, where Bishop Soffronius and Count Theudald were to ensure he departed for Ireland. While Jonas holds a miracle responsible for the fact that Columbanus did not, in the event, sail away, in his consolatory letter Columbanus suggests that he was urged to flee. He then turned to King Chlothar II of Neustria (the western Merovingian kingdom), who tried to persuade him to settle in his kingdom. For reasons which remain obscure, Columbanus declined this offer. The motives Jonas provides, namely that Columbanus foresaw trouble between Chlothar and the Austrasian king, Theudebert, on his account and wanted to continue his pilgrimage, do not seem very convincing. Travelling via Meaux and Ussy-sur-Marne (where he blessed the aristocratic children Burgundofara, Dado, and Ado, who would later found monasteries in the Columbanian tradition), Columbanus arrived at the court of Austrasia (the eastern Merovingian kingdom), where he met some of his former monks who had come there as refugees. Since King Theudebert II received him with due respect, Columbanus offered to settle down in the ancient city of Bregenz, on Lake Constance, to Christianize the neighbourhood. He miraculously interfered with an apparently pagan beer-offering, in which, however, Christians also seem to have participated; he condemned this practice in his penitential. But, according to Jonas, Bregenz did not appeal to Columbanus and he subsequently travelled to Italy, leaving his disciple Gall behind, probably after a quarrel, as Gall's biographies suggest.<br>
+<br>In Italy, Columbanus was received honourably by the Lombard King Agilulf and in Milan he preached against the Arians and took sides in the Three Chapters controversy (a dispute arising from a condemnation of Nestorian heresy issued by the emperor Justinian) against Pope Boniface IV. Finally, he founded a new monastery at Bobbio, on the River Trebbia in north-west Italy, where he died on 23 November 615.<h2>
+<a name="Lettersandpenitentialwritings"></a>Letters and penitential writings</h2>While some of Columbanus's writings are still extant, some have been lost, and others attributed to him are of dubious authenticity. Among the first group, the letters are the most personal. Six letters have survived, three addressed to popes: one to Gregory the Great, one probably to his successor Sabinian, and one to Boniface IV. A fourth letter is addressed to the Frankish bishops who assembled at Chalon-sur-Sa&ocirc;ne to discuss the Easter question; another is written from Nantes to his disciples who had remained behind in Luxeuil; and the sixth is a letter of instruction addressed to an unknown pupil. The letters seem to have been collected at Bobbio, possibly by his biographer; a manuscript containing all six was available there in the seventeenth century, but has since been lost. Only the sixth letter, addressed to the anonymous disciple, has been preserved in manuscript form, since it was transmitted in combination with his sermons and penitential.<br>
+<br>Columbanus's penitential, a handbook intended as a manual for hearing confession and assigning an appropriate penance for each sin, has also only been preserved in manuscripts from Bobbio. The work documents Columbanus's adherence to the Irish custom of secret penance, which in this form had previously been unknown on the continent. In Gaul up to that time penance had normally been a public affair, to be administered by the bishop only once in a lifetime. In Ireland, in contrast, the monastic custom of devotional confession had been extended to the clergy and laity; and this structure is nicely reflected in Columbanus's penitential, which is divided into three parts: one devoted to monks, one to secular clerics, and one to the laity. This Irish form of penance was repeatable and could be administered by a simple priest, and perhaps even by monks. Although Irish customs differed in this respect from continental ones, the introduction of this new form of penance does not seem to have aroused any controversy, not even at the Council of M&acirc;con of 626&#150;7, where the former Columbanian monk Agrestius attacked Columbanus's teachings. From Jonas's life it seems that the medicine of penance (<i>penitentiae medicamenta</i>) was particularly attractive to the population in Gaul. Columbanus made extensive use of older insular works of this genre, such as the penitential of Finnian.<br>
+<br>Columbanus's <span class="italic">Regula coenobialis</span> is a sort of monastic penitential prescribing penances for sinful behaviour by monks. It goes into considerable detail, providing the appropriate penance for scratching on the table with a knife, for not blessing the spoon, or for losing crumbs of food. Penances consist mainly of corporal punishment, psalm singing, and fasting. The ritualism of this rule was criticized by Agrestius, but apparently the bishops assembled at M&acirc;con saw nothing irregular in it. The <span class="italic">Regula coenobialis</span> shows striking similarities to early insular penitentials by Columbanus and others; it was even called a penitential in one ninth-century manuscript. Columbanus's <span class="italic">Regula monachorum</span>, on the other hand, is a totally different kind of text. It is a moral treatise concerned with an exposition of monastic virtues, among which those of obedience, silence, and fasting seem to be of paramount importance. Apart from some provisions regulating daily worship, the text contains no practical regulation whatsoever.<br>
+<br>The textual history of these rules and of the penitential is rather complicated. They seem to have been freely abridged or enlarged as seemed appropriate, and it is not always clear which parts were originally written by Columbanus or reflect his actual teaching, and which were added later. Nevertheless, these texts can be said to stand in the tradition of Columbanian monasticism. This is not so clear with the thirteen sermons attributed to Columbanus.<h2>
+<a name="Sermonsandpoems"></a>Sermons and poems</h2>The authenticity of the sermons has been questioned on the basis of a passage in which the author speaks of Faustus, bishop of Riez in the fifth century, as his teacher. The two do not coincide chronologically, which would seem to rule out Columbanus as author of this text and therefore of the whole collection of sermons. However, early medieval rhetorical conventions appear to have permitted referring to a dead person as one's teacher. The collection seems to have been intended as a coherent series of sermons to be used for a monastic audience. Their emphasis on trinitarian matters suggests that they might have been written in Milan, where Columbanus condemned Arianism and took sides in the Three Chapters controversy. The strong moral content of the sermons is similar to the tenor of his <span class="italic">Regula monachorum</span>. The manuscript tradition strongly suggests a Columbanian origin, and parallels with the poem known as <span class="italic">Carmen de mundi transitu</span>, which is generally accepted as a genuine work by Columbanus, strengthen this supposition. Stylistically the sermons would fit nicely with what is known of Columbanus as an author, while the sources used in them point in the same direction. The fifth sermon, a short tract on the miseries of the human life, had a wider circulation than the rest, and was particularly associated in manuscripts with Columbanus's monastic rules.<br>
+<br>The attribution of poems to Columbanus has been hotly disputed. The editor of his collected writings included five poems as written by him, but of these only the <span class="italic">Carmen de mundi transitu</span> is now regarded as being from his hand. A case has been made, however, for the three poems addressed to Seth, Hunaldus, and Fidolius; the first of these might be Columbanus's disciple Gall, who seems to have been known by this nickname. The hymn &#145;Precamur patrem&#146; in the antiphonary of Bangor could also be the work of Columbanus, written before he left Ireland, as it seems to conform to the intricate stylistic features of which Columbanus made ample use.<br>
+<br>Columbanus is also said to be the author of a commentary on the psalms, which has probably been lost. The same fate awaited his work against Arianism and on the Three Chapters controversy, written while in Milan. From his letters it is clear that parts of his correspondence, in particular with the papacy, have also been lost. Two short tracts <span class="italic">De homine misero</span> and <span class="italic">De VIII vitiis principalibus</span>, though usually counted among the dubious works of Columbanus, stand a good chance of being authentic.<h2>
+<a name="Achievementandcult"></a>Achievement and cult</h2>Columbanus is regarded as the instigator of Hiberno-Frankish monasticism, in which Irish monastic vigour was soon taken up by Franks. His immediate successors in Luxeuil and Bobbio, for example, were Franks. Many monasteries in Gaul followed Columbanus's rule in combination with the rule of St Benedict, and possibly other monastic regulations, as exemplified, for example, by the rules of Donatus and Waldebert. Perhaps it was from such foundations that the rule of St Benedict reached England. Columbanus's penitential was also influential mainly in combination with other texts. His injunctions form the basis of the so-called &#145;simple&#146; Frankish penitentials, in which they were combined with canons from Frankish councils. These texts were in turn incorporated in compilations that added material from the penitential of Theodore of Canterbury and that of the Irish abbot Cummene Fota. Columbanus's cult did not spread far beyond the monasteries he had founded, Luxeuil and Bobbio, and the foundation of his disciple Gall, the abbey of St Gallen in Switzerland. His literary remains, almost without exception, come from these places, where they were apparently well preserved. It was also in Bobbio that Jonas wrote his life to honour this vigorous monk, and to keep alive the legacy of a man who was, in his own words, a &#145;dissenter whenever necessary&#146;  (Walker, 56).<br>
+<br>Rob Meens </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Jonas, &#145;Vita Columbani abbatis discipulorumque eius&#146;, <i>Passiones vitaeque sanctorum aevi Merovingici</i>, ed. B. Krusch, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6002&amp;istheme=&amp;target=MGH%20Scriptores%20Rerum%20Merovingicarum')">MGH Scriptores Rerum Merovingicarum</a>, 4 (Hanover, 1902) &middot; <i>Sancti Columbani opera</i>, ed. G. Walker and G. S. M. Walker, Scriptores Latini Hiberniae, 2 (1957); repr. (1970) &middot; M. Lapidge, ed., <i>Columbanus</i><i>: studies on the Latin writings</i> (1997) &middot; H. B. Clarke and M. Brennan, eds., <i>Columbanus and Merovingian monasticism</i> (1981) &middot; K. Sch&auml;ferdiek, &#145;Columbans Wirken im Frankenreich (591&#150;612)&#146;, <i>Die Iren und Europa im fr&uuml;heren Mittelalter</i>, ed. H. L&ouml;we, 1 (Stuttgart, 1982), 171&#150;201 &middot; I. Wood, &#145;The <i>Vita Columbani</i> and Merovingian hagiography&#146;, <em>Peritia</em>, 1 (1982), 63&#150;80 &middot; J. Laporte, <i>Le p&eacute;nitentiel de saint Colomban</i>, Monumenta Christiana Selecta, 4 (Tournai, 1958) &middot; <i>Saint Colomban: r&egrave;gles et p&eacute;nitentiels monastiques</i>, ed. and trans. A. de Vog&uuml;&eacute;, P. Sangiani, and J. B. Juglar, 2 (B&eacute;grolles-en-Manges, 1989) &middot; J. W. Smit, <i>Studies on the language and style of Columba the Younger (Columbanus)</i> (1971) &middot; M. Lapidge, &#145;The authority of the Adonic verses <i>Ad Fidolium</i> attributed to Columbanus&#146;, <em>Studi Medievali</em>, 3rd ser., 18 (1977), 249&#150;314 &middot; P. C. Jacobsen, &#145;Carmina Columbani&#146;, <i>Die Iren und Europa im fr&uuml;heren Mittelalter</i>, ed. H. L&ouml;we, 1 (Stuttgart, 1982), 434&#150;67 &middot; D. Schaller, &#145;Die Siebensilberstrophen &#147;de mundi transitu&#148;&#151;eine Dichtung Columbans?&#146;, <i>Die Iren und Europa im fr&uuml;heren Mittelalter</i>, ed. H. L&ouml;we, 1 (Stuttgart, 1982), 468&#150;83 &middot; M. Herren, &#145;A ninth-century poem for St Gall's feast day and the <i>Ad Sethum</i> of Columbanus&#146;, <em>Studi Medievali</em>, 3rd ser., 24 (1983), 487&#150;520 &middot; M. Lapidge, &#145;Columbanus and the &#147;antiphonary of Bangor&#148;&#146;, <em>Peritia</em>, 4 (1985), 104&#150;16 &middot; D. Howlett, &#145;The earliest Irish writers at home and abroad&#146;, <em>Peritia</em>, 8 (1994), 1&#150;17 &middot; D. Howlett, &#145;Two works of Saint Columban&#146;, <em>Mittellateinisches Jahrbuch</em>, 28 (1994), 27&#150;46 &middot; H. L&ouml;we, &#145;Columban und Fidolius&#146;, <em>Deutsches Archiv</em>, 37 (1981), 1&#150;19 &middot; P. Wormald, &#145;Bede and Benedict Biscop&#146;, <i>Famulus Christi</i><i>: essays in commemoration of the thirteenth centenary of the birth of the Venerable Bede</i>, ed. G. Bonner (1976), 141&#150;69 &middot; H. L. C. Tristram, <i>Early insular preaching</i><i>: verbal artistry and method of composition</i> (Vienna, 1995) &middot; <i>Acta sanctorum</i><i>: November</i>, 2/2 (Brussels, 1931), 617<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Rob Meens, &#145;<span class="roman"><span class="headword">Columbanus</span>   (<em>d.</em> 615)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/6002, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Columbanus (<em>d.</em> 615): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/6002 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

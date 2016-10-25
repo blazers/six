@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 26171;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/26/26171-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/26/26171-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=26171#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Spottiswoode,  William</span>  (1825&#150;1883), <span class="occ">mathematician and physicist</span>, was born in London on 11 January 1825, the eldest son of Andrew Spottiswoode (1787&#150;1866), member of parliament for Saltash (1826&#150;30) and Colchester (1830&#150;31), and partner in the firm of Eyre and Spottiswoode of New Street Square, queen's printers, and his wife, Mary, eldest daughter of <script>writeSeealsoLink('../view/article/16991/', "Thomas Norton Longman")</script> [<i>see under </i><script>writeSeealsoLink('../view/article/16988/', "Longman, Thomas")</script>], the publisher. Spottiswoode passed from a school at Laleham to Eton College, from where he was expelled for letting off fireworks in the town, thus offending against a decree by the headmaster, Dr Hawtrey. Transfer to Harrow School proved a gain for Spottiswoode, since Eton had an inferior academic record, and mathematics, a subject which attracted him, was not even compulsory there. He went to Balliol College, Oxford, in 1842, graduated BA in 1846 with a first class in mathematics, and gained his MA in 1848.<br>
+<br>In 1845 and 1846 Spottiswoode rowed for Oxford against Cambridge. While he was at Oxford, his father lost his capital through financial speculation and Spottiswoode took over as queen's printer; he showed financial acumen and steadily rebuilt the fortunes of the printing firm, which became a model company of the patriarchal Victorian type. Spottiswoode gave scientific lectures in the school set up for its employees, and throughout his life remained in close contact with the day-to-day working of the company and exercised an interest in the welfare of its employees. He always reserved time for his scientific and literary pursuits. During his annual holidays he travelled widely in other countries, and in 1856 travelled in eastern Russia, publishing in the following year <span class="italic">A Tarantasse Journey through Eastern Russia in the Autumn of 1856</span>. In 1860 he visited Croatia and Hungary.<br>
+<br>Meanwhile Spottiswoode was pursuing the mathematical studies which had first attracted him at university, and in 1847 he issued <span class="italic">Meditationes analyticae</span>, his earliest scientific publication. This was a miscellany of thirteen chapters including such topics as the curvature of surfaces, the calculus of variations, and physical astronomy. From the first he showed &#145;extraordinary liking for, and great skill in, what might be called the morphology of mathematics&#146;  (<span class="italic">Nature</span>), according to his tutor at Oxford, Bartholomew Price. By his own account it was W. F. Donkin, the Savilian professor, who &#145;first inspired [him] with a sense of the magnificence of mathematics&#146;  (<span class="italic">Proceedings</span>, 491). After Sir William Rowan Hamilton discovered quaternions in October 1843, Spottiswoode began contributing papers on the new algebras. He was one of the first English mathematicians to publish work in continental journals and thus break the introspection which had hindered English mathematics for more than a century.<br>
+<br>Spottiswoode's <span class="italic">Elementary Theorems Relating to Determinants</span> (1851) was the first attempt to bring together the main ideas on this topic and to present them in textbook form. At the request of the editor of &#145;Crelle's journal&#146; (<span class="italic">Journal f&uuml;r die Reine und Angewandte Mathematik</span>, published from Berlin) he remodelled and expanded this work, taking account of the rapid progress then being made in the theory of determinants. The result was published in the journal in 1856. Spottiswoode's style was neat and precise, reflecting work efficiently executed. His attraction to determinants owed much to his aesthetic sense of symmetry. Like many mathematicians of this period his interests were wide, and he also published on invariant theory, geometry, and the calculus of operations. His high rank as a mathematician was mainly the result of his series of memoirs on the contact of curves and surfaces, contributed to the <span class="italic">Philosophical Transactions</span> of 1862 and subsequent years. On 27 April 1861 Spottiswoode married Eliza Taylor Arbuthnot, of Bexley, Kent, the eldest daughter of William Urquhart Arbuthnot, member of the Council for India. Their at-homes in Grosvenor Place, held at the height of the London season, attracted the cream of Victorian science and cabinet ministers alike. During these events the latest news in science would invariably be demonstrated in the laboratory which occupied part of the house.<br>
+<br>In 1871 Spottiswoode turned his attention to experimental physical science. At first he devoted his researches to the polarization of light; subsequently he studied the electrical discharge in rarefied gases. On these subjects he gave popular lectures to crowded audiences at the Royal Institution, at the South Kensington College of Science, and at the British Association. He was constantly active in the cause of science and was a member of the ginger group known as the <script>writeSeealsoLink('../view/theme/92539', "X Club")</script> which was founded in 1864 and met regularly in the St George's Hotel in Albemarle Street near Piccadilly, the only London club to which he belonged. An inveterate member of scientific societies, he served as an officer on many of their committees. He was elected to the Royal Society on 2 June 1853, and joined the Ethnological Society, the Royal Asiatic Society, the Society of Antiquaries, and the Royal Astronomical Society. During a difficult period in the history of the Royal Geographical Society he acted as its secretary (with Francis Galton). His financial abilities were put to good use in the cause of science&#151;he was treasurer of the British Association for the Advancement of Science (1861&#150;74), of the Royal Institution (1865&#150;73), and of the Royal Society (1871&#150;8). He served as president of the mathematical section of the British Association in 1865 and of the recently formed London Mathematical Society in 1870&#150;72. He reached the top of the administrative side of the scientific establishment by being president of the British Association in 1878, and on 30 November that year was elected president of the Royal Society.<br>
+<br>Spottiswoode remained president of the Royal Society until his death. He was awarded the honorary degrees of LLD at Cambridge, Dublin, and Edinburgh, and DCL at Oxford; he became a correspondent of the Institut de France (Acad&eacute;mie des Sciences) for the geometrical section after a sharp contest with M. Borchardt in 1876. He was not only a mathematician and physicist but also an accomplished linguist, possessing a remarkable knowledge of both European and oriental languages. He translated <span class="italic">Jewish Literature from the Eighth to the Eighteenth Century</span> (1857) from Moritz Steinschneider's original, and delved into the history of mathematics and astronomy in India by reading original sources. The results were published by the Royal Asiatic Society. His scientific publications included <span class="italic">The Polarisation of Light</span> (1874), <span class="italic">Polarised Light</span> (vol. 2 of <span class="italic">Science Lectures</span>, published by the Department of Science and Art, 1879), <span class="italic">A Lecture on the Electrical Discharge, its Form and Functions</span> (1881), and about a hundred scientific memoirs in various journals.<br>
+<br>Spottiswoode was described by a contemporary as a &#145;dark, grave, student like but aristocratic-looking person&#146;. He was a member of the board of visitors of the Royal Observatory, Greenwich, and his chairmanship of a visitation was one of the last official duties he performed. He went to Italy on a short holiday to recuperate from overwork and the after-effects of a tricycle accident but after returning home contracted typhoid, and three weeks later died, on 27 June 1883, at his home, 41 Grosvenor Place. He was fifty-eight years old and his death was regarded as a national loss. In recognition of his position as president of the Royal Society and his contribution to science he was buried on 5 July in Westminster Abbey in the presence of civic dignitaries and the whole scientific establishment.<br>
+<br>A. J. Crilly </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. B. K. [A. B. Kempe], <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 38 (1884&#150;5), xxxiv-xxxix &middot; <em>Nature</em>, 27 (1882&#150;3), 596&#150;601 &middot; <em>The Observatory</em>, 6 (1883), 231&#150;2 &middot; F. Galton, <em>Proceedings</em> [Royal Geographical Society], new ser., 5 (1883), 489&#150;91 &middot; <i>Encyclopaedia Britannica</i>, 9th edn, 22 (1887), 431&#150;2 &middot; <em>The Times</em> (28 June 1883) &middot; <em>The Times</em> (29 June 1883) &middot; <em>The Times</em> (30 June 1883) &middot; <em>The Times</em> (5 July 1883) &middot; <em>The Times</em> (6 July 1883) &middot; R. A. Austen-Leigh, <i>The story of a printing house</i>, 2nd edn (1912) &middot; J. E. Ritchie, <i>Famous city men</i> (1884), 236&#150;49 &middot; election certificate, RS &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=Foster%2C%20Alum.%20Oxon.')">Foster, <i>Alum. Oxon.</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Royal Institution of Great Britain, London, list of apparatus and notes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=RS')">RS</a>&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=CUL')">CUL</a>, letters to Sir George Stokes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=ICL')">ICL</a>, college archives, letters to Thomas Huxley
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=RAS')">RAS</a>, letters to Royal Astronomical Society<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. C. Belt, marble bust, exh. RA 1880, Royal Institution of Great Britain, London &middot; J. Collier, oils, 1884, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=RS')">RS</a> &middot; G. J. Stodart, engraving, repro. in <em>Nature</em>, facing p. 597 &middot; G. J. Stodart, stipple (after photograph by Van der Weyde), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=NPG')">NPG</a> &middot; G. F. Watts, portrait, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=RS')">RS</a> &middot; T. Woolner, marble bust, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=RS')">RS</a> &middot; lithograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=NPG')">NPG</a> &middot; wood-engraving, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=26171&amp;istheme=&amp;target=NPG')">NPG</a>; repro. in <i>ILN</i> (7 July 1883)<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;187,077 19<i>s</i>. 3<i>d</i>.: probate, 15 Aug 1883, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. J. Crilly, &#145;<span class="roman"><span class="headword">Spottiswoode,  William</span>  (1825&#150;1883)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2006 [http://www.oxforddnb.com/view/article/26171, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Spottiswoode (1825&#150;1883): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/26171 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/26171/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

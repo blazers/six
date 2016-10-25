@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 23149;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/23/23149-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/23/23149-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=23149#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Rastell,  John</span>  (<em>c.</em>1475&#150;1536), <span class="occ">lawyer and printer</span>, was the son of Thomas Rastell (<i>d</i>. 1505?); he was probably born in Coventry, though John Bale later claimed Rastell was a Londoner by birth. Rastell's father and grandfather both had civic and legal responsibilities in Coventry, and in 1489 Rastell was admitted to the city's Corpus Christi Guild (fourteen being the normal age for admission). The first instalment of his guild fee was paid by Joan Symonds, widow of a former mayor of Coventry, who acted as godmother to Rastell's daughter (probably named after her), and may well have been his aunt; in 1507 Rastell benefited significantly by her will.<br>
+<br>Rastell acquired French and Latin, requisites for a legal career that was furthered at Middle Temple, London, where he was an &#145;utter&#146; (outer) barrister by 1502, with Christopher St Germain of Coventry as a companion. (Anthony Wood's later claim that Rastell matriculated at Oxford conflates Rastell with a contemporary namesake.) Perhaps as early as 1497 Rastell married Elizabeth (1482&#150;1537), daughter of <script>writeSeealsoLink('../view/article/19183/', "Sir John More")</script> and sister of <script>writeSeealsoLink('../view/article/19191/', "Thomas More")</script>; they had three children: Joan (who later married the playwright John Heywood), John (<i>b</i>. <i>c</i>.1497), and <script>writeSeealsoLink('../view/article/23151/', "William Rastell (d. 1565)")</script>. By 1504, Rastell was residing in Coventry, where, in 1506 after an interim, he succeeded his father as coroner, an office that involved presiding over the court of statute merchants and acting as clerk of recognizances of debts. About this time, Thomas More visited his sister and brother-in-law in Coventry.<br>
+<br>Possibly discouraged by Coventry's economic decline and castigated for Lollard tendencies, Rastell resigned as the coroner in 1508, and by the following year he had taken his family to London, where he ran a successful legal practice for over twenty years; something is known of his involvement in chancery suits during 1529&#150;32. From about 1509 he also seems to have begun to print and publish: initially where he was dwelling &#145;at the Fleet Bridge at the Abbot of Winchcombe's Place&#146;, then by 1515 near St Paul's (where his premises comprised a room for the press, a shop, and living quarters), and eventually from Michaelmas 1519 at Paul's Gate, Cheapside. Rastell's shop sign was a mermaid; one of his two printing devices included a merman and mermaid.<br>
+<br>Perhaps the first book Rastell printed was a Thomas More translation, <span class="italic">The Lyfe of Iohan Picus</span> (with related material) (<i>c</i>.1509)&#151;the unspecified author being Gianfrancesco Pico. Also of this early phase of Rastell's printing was his compilation of the statutes of Edward V and Richard III. He concentrated on producing law books, and over the years came increasingly to edit or write the books his press produced. Over his career his publication list came to comprise over fifty titles (a few he re-edited, some reprinted), including, in 800 folio leaves, the ambitious <span class="italic">La grande abbregement de la ley</span> (1514&#150;16) by Anthony Fitzherbert&#151;appointed Coventry's recorder in 1509&#151;in three volumes and priced at 40<i>s</i>. (Only the first volume was printed by Rastell, his small press being utilized for humanistic texts of More's circle); its <span class="italic">Tabula</span>, compiled by Rastell, appeared in February 1517. Other publications (most, seemingly, from his own press) included a liturgy, of which only two leaves survive; works on literacy and astrology; <span class="italic">A C. Mery Talys</span> (<i>c</i>.1524&#150;5), compiled if not written by Rastell, and apparently the earliest printing of the so-called &#145;Shakespeare's jest book&#146;; and <span class="italic">The Pastyme of People</span> (1529&#150;30). This last work, more familiarly known as &#145;Rastell's chronicle&#146;, was based by Rastell on Robert Fabyan's chronicle, its second part enhanced with eighteen full-page woodcut portrait effigies of English monarchs from William I to Richard III, thereby forming the first English printed portrait-book.<br>
+<br>Some time between November 1519 and mid-1520 Rastell printed his <span class="italic">New Interlude and a Mery of the Nature of the .iiij. Elements</span>, a moral play that not only was apparently the first English printed work to define the New World as America but also, in its inclusion of a three-part song, &#145;Tyme to pas&#146;, with music, marked the first attempt anywhere in Europe to print a musical score. About 1525&#150;7 he also provided music for the ballad &#145;A Wey Mornynge&#146; on a printed broadside. Music printing normally required each page to be printed twice; however, Rastell's music type&#151;cut for him probably in northern Europe&#151;was specially cast, enabling him to be the first printer to print music in a single impression. Innovative, too, was his 1513 introduction from Rouen of small secretary-type for law books in French; the font, much worn, was still in service in 1528. A 1535 reference to a &#145;castynghowse&#146; suggests that Rastell was able to cast at least some of his types in-house  (Devereux, 29).<br>
+<br>Rastell's move to London in 1508&#150;9 may have been encouraged by Sir Edward Belknap, formerly of Coventry and then a privy councillor with court influence, as Belknap engaged Rastell in an organizational capacity during the 1512&#150;14 French war. In January 1515 Rastell leased a country house and grounds at Monken Hadley, near High Barnet, where he cleared land and pursued gentlemanly recreations; Thomas Cromwell was among the guests. As master of wards, on 7 October 1515 Belknap also secured for Rastell lands and goods of the Lollard heretic Richard Hunne, on the understanding that, as ward of Hunne's two daughters, Rastell provided the crown with their dowries. Rastell defaulted in this, his American venture having failed, and in May 1523 Hunne's property was granted to another, though Rastell managed to retain possession until 1529, when he finally lost the lawsuit. Rastell was litigious by nature and was prone to financial misjudgements: he lost his estate at Monken Hadley in a court case in 1534, when he brought a suit against Dame Alice [<i>see </i><script>writeSeealsoLink('../view/article/46912/', "More, Alice")</script>], his mother-in-law, and Richard Staverton, his brother-in-law, for mismanaging his property during a forced absence in Ireland. That same year he was involved in a court case regarding his Paul's Gate premises.<br>
+<br>Late in 1516 More's <span class="italic">Utopia</span> was printed in Louvain, and this may have inspired Rastell to undertake a commercial and explorative venture to &#145;this newe landys founde latley / Ben callyd America by cause only / Americus dyd furst then fynde&#146;, the object being to settle the land claimed for England in 1497, and to search for the north-west passage to Asia  (<span class="italic">Four Elements</span>, lines 838&#150;40). Royal letters of recommendation were granted to him and two London merchants, with a small loan, on 5 March 1517. The expedition starting late in the summer was assigned at least one royal ship and comprised at least four vessels with supplies. However, the venture proved a financial disaster. Rastell's ship, with the printer Thomas Bercula on board, reached Waterford, where the sailors abandoned him, and then sold his cargo in Bordeaux. As a result Rastell sojourned in Ireland from the summer of 1517 for some two years, taking the opportunity to write his <span class="italic">Four Elements</span>.<br>
+<br>Belknap was also responsible for Rastell's involvement in the beautifying of the roof of the temporary royal pavilion at the Field of Cloth of Gold in 1520; in the same year and in the same capacity Rastell probably painted the roof of the Roundhouse in Calais. In 1522 Rastell wrote and choreographed the pageant performed in London at the king's meeting with the emperor; five years later he did the same for the opening entertainment, on 5 May 1527, at the theatre at Greenwich, a theatre which he had helped decorate. In August 1524 he served as &#145;trenchmaker&#146; under Charles Brandon, duke of Suffolk, during the French campaign. In the same year he took a forty-year lease on an acre or so of land at Finsbury Fields, where he built a house and the earliest known permanent Tudor stage, at which he held public performances. (He later initiated a lawsuit against the theatrical manager, John Walton, over damage to stage properties.)<br>
+<br>More was probably instrumental in returning Rastell in 1529 to the so-called Reformation Parliament for the Cornish borough of Dunheved, and Rastell was commissioned to print the statutes passed by the parliament's first session. Initially, Rastell opposed religious change: he had already published Christopher St Germain's neutral <span class="italic">Dialogus de fundamentis legum Angliae et de conscientia</span> (1528) and in 1529 he published More's <span class="italic">Dyaloge</span> concerning heresies, which was directed against the rising tide of Lutheranism in England. That year he spent some six months in France on government business, probably seeking support from the academics of Paris University for the king's divorce. In October 1530 he printed his own <span class="italic">New Boke of Purgatory</span>, backing More's <span class="italic">Dialogue</span>. A printed exchange with the young John Frith followed, with the resulting conversion of Rastell to the reformed faith marking the parting of the way with his brother-in-law. Rastell became an agent to Thomas Cromwell, and in 1533 was appointed to investigate legal fraud in London; that same year, he shared a lead-mining lease (which proved unsuccessful) in Dartmoor with Cromwell and others. In 1534 he served on a commission investigating lawlessness in Wales.<br>
+<br>Rastell's printing and publishing apparently brought him a steady income until the early 1530s. Following his conversion in 1531, he began issuing protestant treatises: the business declined to the extent that a young servant of his, William Mayhewe, eventually took over its operation, and by summer 1533 half the shop was leased out to the bookseller John Gough, known for selling heretical publications. Sending a draft of his &#145;Book of the charge&#146; to Cromwell, probably in 1534, Rastell petitioned for permission to print it as issued by the king for distribution to all judges and officials in legal courts, so they would learn the true faith. In spring 1535 he daily visited the Charterhouse seeking to convert its monks. Increasingly radical, he looked in vain to Cromwell for privileges to print and publish protestant tracts, including one on allowing priests to marry, while his type appears to have been used for the anonymously printed <span class="italic">Dyaloge betwene Clemente and Bernarde</span> (<i>c</i>.1532), opposed to convocation's taxation powers. Consistent with these views, Rastell himself denied clerical rights to tithe in 1535; he appeared before Cranmer and was committed to prison. He was still in custody on 20 April 1536, six days after parliament was dissolved, when he made his will, in which he named Henry VIII as one of his executors, as &#145;I am moste in daunger to the kings grace by bondes and oders of his comyn lawe&#146;  (Plomer, <span class="italic">Abstracts</span>, 5). Rastell died in poverty in the Tower about 25 June, a prime example of the turn of fortune's wheel in Tudor England.<br>
+<br>Cecil H. Clough </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>A. J. Geritz and A. L. Laine, <i>John Rastell</i> (1983) &middot; A. Harding, &#145;Rastell, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23149&amp;istheme=&amp;target=HoP%2C%20Commons%2C%201509%3F58')">HoP, <i>Commons, 1509&#150;58</i></a>, 3.176&#150;9 &middot; A. W. Reed, <i>Early Tudor drama</i> (1926), 1&#150;20, 187&#150;233 &middot; H. R. Plomer, &#145;John Rastell and his contemporaries&#146;, <em>Bibliographica</em>, 2 (1896), 437&#150;51 &middot; J. Rastell, <i>The four elements</i>, ed. R. Coleman (1971), 1&#150;24 &middot; <i>Three Rastell plays</i>, ed. R. Axton (1979), 1&#150;27 &middot; A. W. Pollard, &#145;Pleadings in <i>Rastell</i> v. <i>Walton</i>, a theatrical lawsuit, <i>temp.</i> Henry VIII&#146;, <i>An English garner</i><i>: fifteenth century prose and verse</i> (1903), 305&#150;21 &middot; S. Anglo, &#145;Le champ du Drap d'Or&#146;, <i>F&ecirc;tes et c&eacute;r&eacute;monies au temps de Charles Quint</i>, ed. J. Jacquot and E. Konigson (1960), 113&#150;34, esp. 130&#150;31, 134 &middot; S. Anglo, &#145;The imperial alliance and the entry of the emperor Charles V into London&#146;, <em>Guildhall Miscellany</em>, 2 (1960&#150;68), 131&#150;55 &middot; A. Hyatt King, &#145;Rastell reunited&#146;, <i>Essays in honour of Victor Scholderer</i>, ed. D. E. Rhodes (1970), 213&#150;18 &middot; A. Hyatt King, &#145;The significance of John Rastell in early music printing&#146;, <em>The Library</em>, 5th ser., 26 (1971), 197&#150;214 &middot; C. H. Clough, &#145;The enigma of Richard III's woodcut portrait of 1529&#146;, <em>The Ricardian</em>, 11 (1997&#150;9), 114&#150;39 &middot; C. Warner, &#145;<i>A dyaloge betwene Clemente and Bernarde</i>, <i>c.</i>1532: a neglected tract belonging to the last period of John Rastell's career&#146;, <em>Sixteenth Century Journal</em>, 29 (1998), 55&#150;65 &middot; R. J. Roberts, &#145;John Rastell's inventory of 1538&#146;, <em>The Library</em>, 6th ser., 1 (1979), 34&#150;42 &middot; H. R. Plomer, <i>Abstracts from the wills of English printers and stationers from 1492 to 1630</i> (1903), 5&#150;6 &middot; A. J. Geritz, &#145;The marriage date of John Rastell and Elizabeth More&#146;, <em>Moreana</em>, 52 (1976), 23&#150;4 &middot; E. J. Devereux, <i>A bibliography of John Rastell</i> (1999) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23149&amp;istheme=&amp;target=Rymer%2C%20Foedera')">Rymer, <i>Foedera</i></a>, 3rd edn, 6/1.131 &middot; D. B. Quinn, &#145;Rastell, John&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=23149&amp;istheme=&amp;target=DCB')"><i>DCB</i></a>, vol. 1 &middot; A. J. Geritz, &#145;The relationship of brothers-in-law Thomas More and John Rastell&#146;, <em>Moreana</em>, 139&#150;40 (1999), 35&#150;48 &middot; J. Parr, &#145;John Rastell's geographical knowledge of America&#146;, <em>Philological Quarterly</em>, 27 (1948), 229&#150;40<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> had significant debts at death: will, Geritz and Laine, <i>John Rastell, 21&#150;22, 26</i> &middot; Roberts, &#145;inventory&#146;, 34&#150;42<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Cecil H. Clough, &#145;<span class="roman"><span class="headword">Rastell,  John</span>  (<em>c.</em>1475&#150;1536)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/23149, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Rastell (<em>c.</em>1475&#150;1536): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/23149 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

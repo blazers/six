@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 47476;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/47/47476-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/47/47476-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=47476#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Edington,  Thomas</span>  (1742&#150;1811), <span class="occ">ironmaster and merchant</span>, about whose early life little is known, joined the Carron Company about March 1764 as a travelling salesman. Apart from selling Carron's products, Edington served as the eyes and ears of the company in other iron-working districts. Carron had purchased Cramond ironworks on 21 December 1759, and Edington became its manager in February 1765. Cramond was engaged on rolling and slitting bar iron, and Edington applied to its operations the lessons he had learned at Bedlington slit mill (1764) and at Ambrose Crowley's Winlaton works (1766).<br>
+<br>The key to Edington's later career was his association with the Cadell family. William Cadell (1708&#150;1777), of Prestonpans and Cockenzie, shipmaster, merchant, and industrialist, was a founding partner at Carron, and his son, also William (1737&#150;1819), became general manager. In October 1770 the Cadells exchanged their Carron shareholding for the Cramond works; Edington had clearly impressed them with his technical knowledge and business skills and remained as manager. This alliance was firmly cemented when Edington married, on 13 November 1772, Christian Cadell, daughter of William senior; they had nine children. During this time Edington also became &#145;joint proprietor&#146; of Cramond.<br>
+<br>Edington improved and extended Cramond ironworks, adding a furnace for producing steel (possibly the first in Scotland). Initially, the main products were hoops for wine and spirit casks, handle iron to be fitted to cast-iron products at local foundries, pan plates for the saltworks of the Forth, and, most importantly, rod iron for nails (300 tons being produced annually in the 1770s), sold to the nailers of Fife and Stirling and exported by Glasgow merchants. In the 1780s a wider product range included spades and shovels, plough socs, files, and a great variety of nails.<br>
+<br>Cramond ironworks depended upon imported Swedish and Russian bar iron, which rose in price, thereby encouraging the younger William Cadell and Edington to seek cheaper supplies by investing in blast furnaces and associated bar-iron plants. The first venture was the Clyde ironworks, which became Edington's responsibility. A contract of copartnery (19 December 1786) specified a capital of &pound;6000, split into twenty-four shares, of which Edington took eighteen (&pound;4500) while the resident partner, John Mackenzie of Strathgarve (Ross-shire), had six (&pound;1500). On 7 April 1787 Edington transferred six shares to William Archibald Cadell (1775&#150;1855), but these were controlled by his father, William. This syndicate was also involved at Omoa ironworks through John Mackenzie.<br>
+<br>Clyde was built under Edington's supervision on 600 acres of the Carmyle estate near Glasgow. This ironworks was dependent upon local supplies of coal and ironstone, under the control of James Dunlop (1741&#150;1816) of Garnkirk who contracted to supply Edington with 20,000 tons of coal annually, but his bankruptcy (1793) led Cadell and Edington to open new coal seams with Dunlop's agreement (1795). Meanwhile, John Mackenzie's death (2 December 1788) caused Edington to move from Cramond to Glasgow. However, he retained his minority shareholding (<sup>8</sup>/<sub>28</sub>) in a capital valuation which increased from &pound;13,286 in 1772 to &pound;30,148 in 1792.<br>
+<br>Three malleable-iron companies&#151;Smithfield, Dalnottar, and Cramond&#151;formed a partnership in 1787 to exploit Ayrshire minerals at Muirkirk ironworks. Muirkirk became a major source of bar iron for Cramond, but like Clyde it was heavily engaged in armaments production during the French wars. Gradually, Edington withdrew his investments in Clyde, Muirkirk, and Cramond and turned to engineering and foundry work; and about 1797 he opened the very successful Phoenix foundry in partnership with two of his sons, James and Thomas.<br>
+<br>In association with members of the Cadell family, Thomas Edington played a key role in the development of a coke-fired iron industry in Scotland on a large scale in the last two decades of the eighteenth century. A member of the Church of Scotland and a trustee of Anderson's Institution for scientific education, Edington, and his sons James and Thomas, also joined the Glasgow Highland Society (1809). Edington died in Glasgow in May 1811. His heir was not one of his sons in the iron business but Lieutenant John Edington of the 12th regiment of dragoons.<br>
+<br>John Butt </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>P. Cadell, <i>The iron mills at Cramond</i> (1973) &middot; B. C. Skinner, <i>The Cramond ironworks</i> (1965) &middot; J. Sinclair, <i>Statistical account of Scotland</i>, 7 (1793), 386&#150;8 &middot; J. R. Hume and J. Butt, &#145;Muirkirk, 1786&#150;1802: the creation of a Scottish industrial community&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=47476&amp;istheme=&amp;target=SHR')"><i>SHR</i></a>, 45 (1966), 160&#150;83 &middot; Cadell of Grange muniments, NL Scot., Acc. 5381 &middot; Members of the Glasgow Highland Society, Mitchell L., Glas., C 311729 &middot; Service of heirs, NA Scot., C22/105 &middot; register of deeds, NA Scot., DAL, vol. 312, May&#150;Aug 1811 &middot; Cramond kirk session records, NA Scot. &middot; Melville Castle muniments, NA Scot., GD 51/6/1010 &middot; <i>Edington</i> v. <i>Hamilton</i>, 1793, NA Scot., court of session papers &middot; <i>Clyde Ironworks</i> v. <i>Dunlop</i>, 1805, NA Scot., court of session papers &middot; <i>Edington</i> v. <i>Herriott</i>, 1806, NA Scot., court of session papers &middot; R. H. Campbell, <i>Carron Company</i> (1961)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=47476&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, court of session papers, <i>Clyde Ironworks</i> v. <i>Dunlop</i> (1805)
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=47476&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, court of session papers, <i>Edington</i> v. <i>Hamilton</i> (1793)
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=47476&amp;istheme=&amp;target=NA%20Scot.')">NA Scot.</a>, court of session papers, <i>Edington</i> v. <i>Herriott</i> (1806)
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=47476&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, Cadell of Grange muniments, Acc. 5381<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">John Butt, &#145;<span class="roman"><span class="headword">Edington,  Thomas</span>  (1742&#150;1811)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/47476, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Edington (1742&#150;1811): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/47476 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

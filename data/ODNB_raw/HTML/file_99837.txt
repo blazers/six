@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 99837;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/99/99837-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/99/99837-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=99837#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Cushing,  David Henry</span>  (1920&#150;2008), <span class="occ">marine ecologist</span>, was born on 14 March 1920 at 10 Prudhoe Street, Alnwick, Northumberland, the son of William Ewart Wittrick Cushing (1891&#150;1980), schoolmaster, and his wife, Isobel, <i>n&eacute;e</i> Batchelder (1892&#150;1988). He attended Duke's School, Alnwick, and the Royal Grammar School, Newcastle upon Tyne. In 1938 he went as a Horsley scholar to Balliol College, Oxford, to complete a war-shortened degree in zoology. (In 1950 he completed his DPhil thesis on the vertical migration of zooplankton under Sir Alister Hardy.) In April 1941 he was commissioned, from the officer cadet training unit, into the Royal Artillery. He served in various anti-aircraft regiments, ending in 1945 with service with the 1st Royal Fusiliers and the 8th Indian division. On 29 April 1943, at St Barnabas's Church, Dulwich, he married Diana Romola Camilla Antona-Traversi (<i>b</i>. 1919), daughter of Hugo Antona-Traversi, a translator for the BBC; they had one daughter, Camilla.<br>
+<br>In 1946 Michael Graham persuaded Cushing to join an expanding team of oceanographers and fisheries scientists at the government's Fisheries Laboratory in Lowestoft (later the Centre for Environment, Fisheries, and Aquaculture Science). He remained at Lowestoft for the rest of his career, eventually becoming deputy director and head of the fish population dynamics division from 1974 to his retirement in 1980.<br>
+<br>Cushing's early work was immediately innovative. The new technologies developed in the war years allowed him to investigate acoustic means of mapping the movements of fish and zooplankton, and &#145;calibrate&#146; the returned signal strength to estimate the abundance of fish stocks. He was also interested in how production was regulated in the sea&#151;whether it was determined primarily by a bottom-up nutrient input or a top-down predation. In 1954 he followed a North Sea plankton patch with thirteen research cruises over three months, and mathematically modelled the processes and results to show the different roles of nutrients and predators. The use of observation and modelling was to be used throughout his career; but events took an abrupt change.<br>
+<br>The East Anglian herring fishery, off Lowestoft and Yarmouth, was without equal, and for hundreds of years fed Europe. In 1955 it failed. Cushing was called in as part of the team at Lowestoft to solve the herring crisis. It had a profound effect on the direction of his, and future, science, and on his view of science serving society. Only in 1977 was the fishery closed, by which time a 5 million tonne breeding stock had fallen to 50,000 tonnes. A fishery, a market, and a culture was lost. Cushing considered that the failure was as much one of science as of management. Managers needed better science based on fuller understanding and not just empiricism.<br>
+<br>Out of this crisis came some outstanding science. Cushing demonstrated that the failure was due to reduced &#145;recruitment&#146; (young fish) caused by a diminished parent stock. The science of the relationships between stock and recruitment was born. It is this relationship that determines the sustainability of fish stocks, and failures of recruitment due to fishing Cushing termed &#145;recruitment overfishing&#146;. Fish stocks are also very variable, due to extreme fluctuations in the numbers of recruits from year to year or over longer periods. Both the form of the stock&#150;recruit relationships and the causes of this variability lie in the very early life history of the fish, as larvae. Cushing explained the variability in his &#145;match-mismatch&#146; hypothesis, wherein good recruitments follow the coincidence of larval production with the production of larval food determined by weather or climate.<br>
+<br>Cushing produced ten books, including <span class="italic">The Arctic Cod</span> (1966), <span class="italic">Fisheries Biology</span> (1968), <span class="italic">Marine Ecology and Fisheries</span> (1975), <span class="italic">Climate and Fisheries</span> (1982), and <span class="italic">The Provident Sea</span> (1988). His last book was <span class="italic">Towards the Science of Recruitment</span> (1996). His global recognition can be appreciated from his various awards: the Rosenstiel gold medal (1980), the Albert medal for oceanography (1984), and the Ecology Institute prize (1993). He was elected a fellow of the Royal Society in 1977. Approaching retirement, he instigated the <span class="italic">Journal of Plankton Research</span> and remained as editor until 2001. His last scientific paper, published in this journal in 2000, was written with his close colleagues Joe Horwood and Tim Wyatt. It was on stock and recruitment. The journal instituted an annual David Cushing prize for the best publication by a young scientist.<br>
+<br>Cushing enjoyed art and wine, spending many summers touring southern Europe. He died at the James Paget Hospital, Gorleston, Norfolk, on 14 March 2008, after suffering a stroke; he was survived by his wife and daughter. He had been driven by the need for the understanding and application of marine ecology in the management of fisheries. He was an iconoclast whose influence was truly global. In Cushing's Festschrift Robert Dickson's use of Samuel Johnson's quotation was not out of place: &#145;The true genius is a mind of large general powers, accidentally determined to some particular direction&#146;.<br>
+<br>Joseph Horwood </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. H. Cushing, &#145;A link between science and management in fisheries&#146;, <em><i>Fishery Bulletin</i></em>, 72 (1974), 859&#150;64 &middot; K. M. Brander and R. R. Dickson, &#145;Papers in appreciation of David Henry Cushing, FRS&#146;, <em><i>Fisheries Oceanography</i></em>, 2 (1993), 109&#150;13 &middot; <em><i>The Times</i></em> (27 March 2008) &middot; <em><i>The Independent</i></em> (11 April 2008) &middot; R. Harris, editorial, <em><i>Journal of Plankton Research</i></em>, 30 (2008), 491&#150;4 &middot; <em><i>Balliol College Register</i></em> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=99837&amp;istheme=&amp;target=WW')"><i>WW</i></a> (2008) &middot; personal knowledge (2012) &middot; private information (2012) &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;141,934: probate, 22 May 2008, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Joseph Horwood, &#145;<span class="roman"><span class="headword">Cushing,  David Henry</span>  (1920&#150;2008)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Jan 2012 [http://www.oxforddnb.com/view/article/99837, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  David Henry Cushing (1920&#150;2008): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/99837 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

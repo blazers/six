@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 37100;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/37/37100-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/37/37100-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=37100#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Aitken,  John</span>  (1839&#150;1919), <span class="occ">meteorologist and experimental scientist</span>, was born on 18 September 1839 at Falkirk, Stirlingshire, the fourth son of Henry Aitken of Darroch, the head of a well-known legal firm, and his wife, Margaret Russell. He was educated at Falkirk grammar school and the University of Glasgow, where he studied natural philosophy under William Thomson as well as engineering. Intending to pursue a career in engineering, he served two years' apprenticeship in Dundee, followed by a further three years with Napier &amp; Sons, a Glasgow shipbuilding firm. After completing his apprenticeship, however, he suffered a breakdown in health, causing him to abandon his chosen profession. He had inherited sufficient wealth to live a life of leisure but elected to pursue his earlier interest in natural philosophy. His training as an engineer proved invaluable for his purpose, for he was able not only to devise the experiments he wanted to make, but also to construct the apparatus needed to perform them. He never married, and he converted much of his Falkirk home into a scientific laboratory and workshop.<br>
+<br>Aitken's interests extended across a wide spectrum of physical science although his first contribution to the scientific literature was an article on an engineering subject&#151;that of safety valves&#151;published in <span class="italic">Engineering</span> (3 May 1867). His later work covered a broad range. His outstanding experimental skills were first exhibited in a paper on colour sensation that he presented to the Royal Scottish Society of Arts in 1872. He tried to co-ordinate his results into a modified form of Young's three-colour theory, introducing considerations of a physiological rather than a physical character and emphasizing the influence of the surrounding background, and also fatigue, in affecting the apparent colour perceived.<br>
+<br>Aitken's early work on colour theory was followed by investigations into oceanic circulation, glacier motion, and changes of state, and the latter led him to a study of condensation in the earth's atmosphere. It was here that Aitken was to make the greatest impact. He designed an ingenious instrument, the Aitken dust counter, with which he showed that it was possible to count the number of dust particles (by which he meant condensation nuclei) in a closed sample of saturated air. Aitken expanded the air slightly using an air pump, thereby causing cooling and consequent condensation onto the dust particles, and so forming water droplets. The droplets then fell onto a silvered surface which had been ruled into squares, and the number of the droplets could easily be counted. He developed the instrument into a final portable form that was capable of considerable precision in the hands of a skilful operator.<br>
+<br>Using his dust counter Aitken showed that condensation does not take place under normal atmospheric conditions, even at high supersaturations, without the presence of dust particles to act as nuclei, and he also performed an exemplary series of control experiments to counter any possible objections to his theory. He then took his experiments a stage further by showing that a more sudden expansion can result in condensation occurring in air from which dust has been removed by filtration. C. T. R. Wilson later demonstrated that under these circumstances the condensation takes place on ions in the free air, but this effect can only be achieved in the laboratory using a greater and more rapid degree of expansion, and hence cooling, than occurs naturally in the atmosphere. It is also worth noting that J. J. Thomson, in his classical experiments on mass and charge of an electron, made use of Aitken's condensation method in obtaining some of the measurements on which the determination of these small quantities depended.<br>
+<br>Subsequent work by Aitken was largely within the field of meteorology, although he did maintain other interests. He made significant contributions to the study of dew formation, showing that the vapour which condenses as dew on cold surfaces comes from the ground below as well as from the air above, and that the &#145;dewdrop&#146; on leaves of plants is actually exuded sap. He also disagreed with Sir Napier Shaw regarding the probable causes of cyclonic development (1917), although he acknowledged that he was himself handicapped by a lack of &#145;mathematical equipment&#146; for this sort of investigation, and at his death he left behind a paper pointing to inadequacies in the standard Stevenson thermometer screen which, he considered, gave readings in calm and sunny conditions that were too high.<br>
+<br>Following publication of his paper on dust, fog, and clouds  (<span class="italic">Transactions of the Royal Society of Edinburgh</span>, 30, 1883, 337&#150;68), Aitken was recognized as one of the great experimenters of the day. He was on intimate terms with Lord Kelvin and corresponded with Rayleigh and William Ramsay. Bearded and dignified, he was an original thinker who remained outside the mainstream of scientific activity. This had some disadvantages, but it helped him take an individual approach to problems; he remained in touch with other workers, and his findings were always made available. Although he lived a quiet country life, with country pursuits his main recreation, and never lived away from Falkirk, he was not a recluse and travelled widely within Europe.<br>
+<br>Honours awarded to Aitken included fellowship of the Royal Society of Edinburgh in 1875 and its Keith (1883) and Gunning (1895) prizes; fellowship of the Royal Society in 1889 and its royal medal in 1917; and LLD from the University of Glasgow in 1899. He died at his home, Ardenlea, Arnothill, Falkirk, on 13 November 1919.<br>
+<br>Jim Burton </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Collected scientific papers of John Aitken</i>, ed. C. G. Knott (1923), vi&#150;xviii &middot; C. G. Knott, <em>Proceedings of the Royal Society of Edinburgh</em>, 41 (1920&#150;21), 177&#150;81 &middot; <em>Nature</em>, 104 (1919&#150;20), 318, 337&#150;8, 376 &middot; <em>The Scotsman</em> (15 Nov 1919) &middot; <em>British Weekly</em> (20 Nov 1919) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37100&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37100&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, corresp. and papers&nbsp;|&nbsp; U. Leeds, Brotherton L., letters to A. Smithells<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=37100&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;99,329 2<i>s</i>. 10<i>d</i>.: confirmation, 13 March 1920, <i>CCI</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Jim Burton, &#145;<span class="roman"><span class="headword">Aitken,  John</span>  (1839&#150;1919)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/37100, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Aitken (1839&#150;1919): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/37100 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

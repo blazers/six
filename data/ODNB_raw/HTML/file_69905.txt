@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 69905;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/69/69905-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/69/69905-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=69905#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Henrisoun,  James</span>  (<em>d.</em> before 1570), <span class="occ">merchant and propagandist</span>, was apparently a native of Edinburgh and by 1527 owned land on the south side of the High Street. He made his living principally by trading to the Low Countries, where he bought military supplies for the crown. In this he co-operated with Francis Aikman, another Edinburgh burgess who was also a protestant, and he came to share Aikman's religious beliefs. He made repeated efforts to secure the position of conservator of Scottish privileges in the Netherlands, and eventually did so on 16 January 1543 from the second earl of Arran, the governor of Scotland, who was then inclined towards protestantism, but he lost it again the following year; in May 1544, as the regime became increasingly Catholic, Henrisoun presented himself to Edward Seymour, earl of Hertford, during the earl's assault on Edinburgh (when Henrisoun's own house was burnt) and asked to be taken into the service of Henry VIII. Consequently he went to London with the English army as it returned home, and as &#145;James Harryson, Scottishman&#146; was recorded in March 1546 as &#145;received to the King's service with a gift of 200 crowns by year&#146;, which was then twelve months in arrears  (<span class="italic">LP Henry VIII</span>, vol. 21, pt 1, no. 462).<br>
+<br>After three years in obscurity Henrisoun's time came following the old king's death, when Seymour, now duke of Somerset and lord protector, adopted a much more forward Scottish policy. Henry had made little use of propaganda, but under Somerset five significant pieces were printed and circulated, and Henrisoun had a major hand in at least three of them. The most important was the first, <span class="italic">An exhortacion to the Scottes to conforme them selfes to the honorable, expedient, and godly union betwene the twoo realmes of Englande and Scotlande</span> (<span class="italic">ESTC</span>, 12857), probably written in summer 1547 to accompany the English campaign which culminated in Somerset's great victory at Pinkie on 10 September. Dedicated to the protector, it formed part of an English attempt to persuade the Scots to agree to the provisions of the treaty of Greenwich of 1543, which had stipulated that Queen Mary was to marry Prince Edward (now Edward VI) in 1553. In an argument which makes massive use of the word &#145;Britain&#146; (about 100 appearances) Henrisoun argues that the island had once formed a political unity and urges that for its inhabitants the single word &#145;Briton&#146; should be substituted for the &#145;hatefull termes of Scottes and Englishmen&#146;  (<span class="italic">Exhortacion</span>, 228). There is heavy stress on the material benefits which will flow from union and emphasis too on how such a marriage can help the two countries to &#145;agre in the concorde &amp; unite of one religion, &amp; the same the pure, syncere &amp; incorrupt religion of christ&#146;  (ibid., 231).<br>
+<br>Two further treatises followed soon afterwards. In September 1547 came a <span class="italic">Proclamation</span> (<span class="italic">ESTC</span>, 7811) and in February 1548 <span class="italic">An epistle or exhortacion, to unite &amp; peace</span> (<span class="italic">ESTC</span>, 9181). Both urge the Scots to commit themselves to union with England through the marriage of Mary and Edward while simultaneously rejecting links with France and the papacy, and each stresses English magnanimity and the likely gains for the Scots. No author is named, but it seems certain that Henrisoun was closely involved in their production. Then in July 1548 he submitted to the king &#145;The godly and golden booke for concorde of England and Scotland&#146; (TNA: PRO, SP 50/4, fols. 128&#150;37), an even more radical manifesto of the benefits which Scotland will enjoy through union with England. As well as swifter justice, a revitalization of the personnel and structure of the church, and security of tenure for &#145;poor labourers of the grounde&#146;, Henrisoun advocates instruction for the Scots in a range of modern skills, such as mining, draining marshlands, and making sawmills, and the provision of 100 ships, along with an equal number of instructors, to revive the fishing industry in the Scottish ports. There was even to be a canal &#145;to drawe the weste and easte sees togither so that partable vessles shall goo between&#146;  (Merriman, <span class="italic">Rough Wooings</span>, 284). By now, however, continued Scottish resistance was causing Somerset to lose interest in proposals for peaceful union. Henrisoun, by contrast, appears to have believed in the cause he was promoting and in 1549 remonstrated at length with the protector over the counter-productive ravages now being inflicted by English armies on lowland Scotland.<br>
+<br>Following Somerset's fall from power in October 1549 Henrisoun found himself without either patron or employment and complained to the privy council of the government's ingratitude and neglect, threatening to detail his misfortunes in print. He had lost his burgess status in Edinburgh by 1546 and his property in the town in 1549. Approaches to fellow Scots, and even to Mary of Guise, brought no result. Restoration and rehabilitation finally came from an unforeseeable direction. In April 1551 Robert Stewart, a member of the king of France's Scots guard, arrived in London and sought out the duke of Northumberland, now head of the English government, with a plot so extraordinary that at first he would not divulge the details to Northumberland, but revealed them to Henrisoun instead, thinking him to be &#145;un bon Anglois&#146;  (Merriman, &#145;James Henrisoun&#146;, 100). A kinsman of her cook, Stewart had easy access to Queen Mary's kitchen, and he proposed to put poison in the young queen's food. Henrisoun promptly revealed Stewart's scheming, the would-be assassin was arrested and transported to France and execution, and the whistle-blower reaped his reward.<br>
+<br>By January 1553 Henrisoun was back in Scotland, enjoying a pension from Mary of Guise, and on 21 May 1554 he was once more made conservator of Scottish privileges in the Low Countries. Failing health meant that he had to employ a deputy, but on 30 October 1555 he was made overseer of the crown's mines and fishings, for his services &#145;in conservatioun of hir hienes persoun the tyme he was in Ingland&#146;  (<span class="italic">Register of the Privy Seal</span>, 1548&#150;56, no. 3068). Meanwhile he remained intellectually vigorous. On 7 October 1552 he presented a set of strikingly original proposals for the regeneration of Edinburgh, including a school, a playground, a covered market, piped water to four fountains, and a new town hall, or tollbooth. Many of these suggestions progressed from Henrisoun's drawing-board into reality, none so dramatically as his remarkable vision of a new hospital with &#145;ane priest, ane surrigiane, ane meddicinar, and 40 beddis&#146;  (Merriman, &#145;James Henrisoun&#146;, 102). By 1562 contributions were being collected (Henrisoun himself gave money) and construction began in 1567, to be completed in 1578. Henrisoun lived to see only the beginning of the work, since he appears to have been dead by 1570.<br>
+<br>Marcus Merriman </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. Merriman, &#145;James Henrisoun and &#147;Great Britain&#148;: British union and the Scottish commonweal&#146;, <i>Scotland and England, 1286&#150;1815</i>, ed. R. A. Mason (1987), 85&#150;112 &middot; M. Merriman, <i>The rough wooings</i><i>: Mary queen of Scots, 1542&#150;1551</i> (2000) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=69905&amp;istheme=&amp;target=LP%20Henry%20VIII')"><i>LP Henry VIII</i></a>, vol. 21/1 &middot; M. Livingstone, D. Hay Fleming, and others, eds., <i>Registrum secreti sigilli regum Scotorum / The register of the privy seal of Scotland</i>, 4 (1952) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=69905&amp;istheme=&amp;target=CSP%20Scot.')"><i>CSP Scot.</i></a>, <i>1547&#150;63</i> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=69905&amp;istheme=&amp;target=ESTC')"><i>ESTC</i></a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Marcus Merriman, &#145;<span class="roman"><span class="headword">Henrisoun,  James</span>  (<em>d.</em> before 1570)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, April 2016 [http://www.oxforddnb.com/view/article/69905, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Henrisoun (<em>d.</em> before 1570): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/69905 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/69905/2016-04"> [Previous version of this biography available here: April 2016]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

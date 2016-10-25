@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1313;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1313-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1313-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1313#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bannerman,  James</span>  (1807&#150;1868), <span class="occ">Free Church of Scotland minister and theologian</span>, was born on 9 April 1807 in the manse of Cargill, Perthshire, the son of James Patrick Bannerman (<i>d</i>. 1807), minister of Cargill. He was educated at Perth Academy and, from 1822, Edinburgh University and Divinity Hall. He was licensed by the presbytery of Perth in January 1833 and, after assisting briefly at Dron, he became minister of Ormiston, in East Lothian, in the August of that year. On 2 April 1839 he married David Anne (<i>d</i>. 1879), the daughter of David Douglas, Lord Reston, a senator in the courts of justice. They had three sons and six daughters.<br>
+<br>Bannerman played a leading part in the events leading up to the Disruption in 1843. In 1840 the general assembly appointed him as convenor of the committee charged with providing temporary ministers for the contested parishes of Strathbogie; in the same year, he published a <span class="italic">Letter to the Marquis of Tweedale on the Church Question</span>, a trenchant reply to speeches in support of patronage made at a meeting in Haddington. In 1841 he visited London in a delegation representing the non-intrusionist position to the government. Later he was also prominent in unsuccessful negotiations for the union of the presbyterian churches of Scotland and England. In 1849 he was appointed professor of apologetics and pastoral theology in the Free Church New College in Edinburgh, an office which he held until his death. In 1850 he received a DD from Princeton College, New Jersey.<br>
+<br>Bannerman published several theological works: one of the most significant, <span class="italic">Inspiration: the Infallible Truth and Divine Authority of the Holy Scriptures</span> (1865), was criticized by the theologian A. B. Davidson (1831&#150;1902) for calling forth &#145;no opposition and no assent&#146;  (Drummond and Bulloch, 263). Nevertheless, it sounded a cautious retreat from the fundamentalism of Free Church orthodoxy, as Bannerman dissociated himself from the theory of verbal inspiration and accepted translations (and even paraphrases) as equally valid with the Greek and Hebrew scriptural originals. Also important (but less original) was the posthumous <span class="italic">The Church of Christ</span> (1868), which was praised by Robert Rainy as &#145;a fresh statement of our fundamental principles&#146;  (Bannerman, 1.viii). Bannerman died in Edinburgh on 27 March 1868.<br>
+<br>Rosemary Mitchell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1313&amp;istheme=&amp;target=Fasti%20Scot.')"><i>Fasti Scot.</i></a>, 1.342&#150;3 &middot; J. A. Wylie, <i>Disruption worthies</i><i>: a memorial of 1843</i>, ed. J. B. Gillies, new edn (1881), 15&#150;22 &middot; A. L. Drummond and J. Bulloch, <i>The church in Victorian Scotland, 1843&#150;1874</i> (1975), 263&#150;4 &middot; D. D. Bannerman, &#145;Editor's preface&#146;, in J. Bannerman, <i>The church of Christ</i>, 2 vols. (1868), 1.v&#150;ix<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1313&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, papers<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;28,775 8<i>s</i>. 3<i>d</i>.: inventory, 1868, Scotland &middot; &pound;35,085 6<i>s</i>. 10<i>d</i>.: corrective inventory, 2 Dec 1881, NA Scot., SC70/1/203/885 (1868)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Rosemary Mitchell, &#145;<span class="roman"><span class="headword">Bannerman,  James</span>  (1807&#150;1868)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1313, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Bannerman (1807&#150;1868): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1313 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

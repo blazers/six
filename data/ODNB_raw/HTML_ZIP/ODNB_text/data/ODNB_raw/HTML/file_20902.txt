@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20902;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20902-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20902-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20902#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Osmund</span> <span class="st"> [St Osmund]</span>  (<em>d.</em> 1099), <span class="occ">bishop of Salisbury</span>, canonized in 1457, was the founder of a community of canons at the newly established see of Salisbury, and, after his death, came to be regarded as the founder also of the widely influential Salisbury liturgy, the use of Sarum.<br>
+<br>Almost nothing is known of Osmund's family, date of birth, place of origin, or education, although it is generally assumed that he was of continental birth and came to England after the conquest. An <i>avunculus</i>, Arestaldus, was included in the names listed for commemoration in the martyrology that John Leland saw at Salisbury on the eve of the Reformation. Fifteenth-century tradition claimed that Osmund was William I's nephew, the son of an otherwise unrecorded sister; she and her husband are named variously as either Isabella and Henry, count of S&eacute;ez  (Jones and Macray, 373), or Margaret and Lucillus  (Oxford, Jesus College, MS 114, fol. 27<i>v</i>). No support for such claims can be found in earlier sources; the bull of canonization of 1 January 1457 refers in less specific terms to Osmund as &#145;stirpe regia, ac etiam ducali nobilissima ortus prosapia&#146; (&#145;Of royal lineage, and indeed born into the most noble ducal family)&#146; Malden, 227).<br>
+<br>Before his elevation to the episcopate, Osmund was one of William I's chaplains, and from 1070 until 1078 was royal chancellor. His term as chancellor is important for the virtual abandonment of the use of the vernacular for royal writs, and the adoption of Latin as the usual language for royal executive and administrative instruments. Although relinquishing the post on becoming bishop of Salisbury in 1078, Osmund continued to be involved in royal administration during the reigns of both William I and William II. On 1 December 1088, for example, he summoned the disgraced William of St Calais, then awaiting permission to begin his exile, to attend the king's court that Christmas at London. He also allowed the scribal resources available to him as bishop of Salisbury to be drawn upon for secular administrative purposes: scribes who participated in the production of books for the community at Salisbury were also involved in copying geld accounts for the south-west, datable to 1086, and parts of the <span class="roman">Exon Domesday</span>, the draft return for the south-western circuit of the Domesday inquiry. Although no explicit evidence survives of Osmund's participation in the Domesday Survey, his previous experience as royal chancellor, and the known involvement of Salisbury scribes, make it highly probable that he too was involved, perhaps as a circuit commissioner.<br>
+<br>Osmund's bishopric of Salisbury comprised the recently united sees of Sherborne and Ramsbury (Dorset, Wiltshire, and Berkshire). In 1075 his predecessor, Hermann, had been granted permission to move the see to Old Sarum, an episcopal manor and the site of a royal castle close to the present city of Salisbury, but he had been able to do little more than initiate the building of a cathedral, before dying on 20 February 1078. Osmund, therefore, came to be viewed as the true founder of the cathedral and its chapter. He introduced a community of canons, probably in 1089, and, in his foundation charter of 1091, granted an endowment comprising a substantial proportion of the episcopal lands. The cathedral, built just outside the inner fortifications of the royal castle, was completed in 1092, and was dedicated on 5 April 1092.<br>
+<br>Rather less is known than used to be thought about the character of the community that Osmund established. The so-called <span class="italic">Institutio Osmundi</span>, purporting to date from 1091, which describes a secular cathedral chapter with a hierarchy of dignitaries and canons holding territorial prebends, and which appeared to establish a blueprint followed by other non-monastic cathedral chapters in England, has been demonstrated to have been a later compilation, begun in the mid-twelfth century and subsequently revised and elaborated. In his foundation charter, Osmund mentioned neither dignitaries nor prebends, but stated merely that he had made his grant to the canons <i>illis viventibus canonice</i> (&#145;to those living canonically&#146;; Greenway, 98). Although neither here nor elsewhere did Osmund spell out what he meant by &#145;living canonically&#146;, the early community appears to have had a less hierarchical structure, and to have led a more fully common life, than became the norm for secular cathedral chapters, including Salisbury, during the twelfth century. Evidence of communal activity is provided by the large number of manuscript books produced at Salisbury during the late eleventh century, the work of numerous scribes, often working in close collaboration. Some of these scribes may well have been canons, since William of Malmesbury records that Osmund himself copied and even bound books for his community. It has also been suggested that the assignation of a prebend to the bishop in the mid-twelfth century (a practice in England unique to Salisbury), may have had its roots in Osmund's own regular participation in the ministry of the high altar in the cathedral, since the income of the prebend was derived from a portion of the oblations of the high altar  (<span class="italic">Fasti Angl., 1066&#150;1300</span>, xxv).<br>
+<br>The content and appearance of the books produced at Salisbury in the late eleventh century lend weight to William of Malmesbury's claim that Osmund's canons were renowned for the fame of their learning, and that he was able to attract learned clerks from far and wide. The books comprise one of the first substantial collections of patristic texts to have been formed in England since the eighth century, and bear witness to a level of interest in biblical and theological scholarship comparable with that of the leading centres of learning on the continent. The styles of handwriting suggest that those who wrote the books had come to Salisbury from many different centres, both in England and on the continent, while the textual affiliations of some of the works copied suggest direct contact with religious houses not only in Normandy but elsewhere in northern France, the Low Countries, and even further afield. Osmund's personal influence may well have been instrumental in acquiring from the continent exemplars of texts then rare in England.<br>
+<br>William of Malmesbury drew attention to the fame not only of the Salisbury canons' intellectual prowess but also of their singing. Unfortunately the late-eleventh-century books which survive from Salisbury shed no light on the early history of the Salisbury liturgy with which Osmund has long been associated. By at least the mid-fourteenth century he had come to be regarded as the author of the Salisbury <span class="italic">Ordinale</span> and <span class="italic">Consuetudinarium</span> which summarize the procedural and liturgical custom of Salisbury, and which act as a general guide to the use of Sarum. But both texts were compiled a century after Osmund's death; an absence of contemporary evidence makes it very difficult to prove what part he may have played in laying the foundations for the customs that they describe.<br>
+<br>The details of Osmund's activities within his diocese are also very poorly recorded; his only surviving <i>acta</i> are his episcopal profession to Archbishop Lanfranc and his foundation charter. He seems to have been in the forefront of efforts in England to exert episcopal authority more rigorously over the diocesan clergy and laity. Contemporary annotations in the late-eleventh-century Salisbury copy of the canon law compilation known as the <span class="italic">Collectio Lanfranci</span>  (Salisbury Cathedral, MS 78), reveal a deep concern for the proper conduct of diocesan bishops and for matters of clerical discipline, and may well reflect Osmund's own concerns. He was certainly known as a stern disciplinarian, dealing harshly with those who failed to meet the high standards that he set himself. He promoted the cult of his most illustrious predecessor as bishop of the region, St Aldhelm, by attending the retranslation of his remains at Malmesbury, and acquiring a relic of the saint's left arm. This activity, reported in some detail by William of Malmesbury in his life of Aldhelm, may have been the source for Ranulf Higden's claim that Osmund <i>dictavit</i> a life of Aldhelm  (<span class="italic">Polychronicon</span>, 7.294).<br>
+<br>Osmund died in December 1099 after a long, lingering illness. His death was recorded by John of Worcester as Saturday 3 December, but the bull of canonization of 1457 gives 4 December, which was then assigned as his feast day. He was buried at Old Sarum. A new and more elaborate tomb was constructed in the second half of the twelfth century, which was relocated in 1226 to the newly completed lady chapel of the present Salisbury Cathedral.<br>
+<br>Osmund's contemporaries acknowledged his outstanding qualities of holiness and moral probity. Unlike some of his fellow bishops, especially those who had been promoted from the royal curia as he himself had been, Osmund was noted for his chastity, for his lack of greed or worldly ambition, and for not extorting heavy exactions from the monasteries within his diocese. Faricius, monk of Malmesbury and later abbot of Abingdon, both monasteries within the Salisbury diocese, referred to him as &#145;an orthodox bishop, a man of humility, worthy to be honoured and praised for his wisdom and holiness&#146;  (<span class="italic">Patrologia Latina</span>, 89.84). His humility was also noted by Eadmer who recorded that Osmund was one of only two bishops who begged forgiveness of Anselm for their failure to take his part against William II at the Council of Rockingham in 1095. Apart from a reference to the accusation of parsimony which William of Malmesbury subsequently erased, the only criticism levelled against Osmund came from the pen of the hagiographer Goscelin, who had been a frequent associate of Osmund's predecessor, Bishop Hermann. He did not find the new incumbent so welcoming, but referred to Osmund bitterly as &#145;the king who knew not Joseph&#146; (<span class="roman">Exodus</span> 1:8), and claimed that he was forced to leave by &#145;viperine envy and the barbarity of a step-father&#146;  (Goscelin, <span class="italic">Liber confortatorius</span>, 29, 82). It is not known what provoked this enmity.<br>
+<br>Osmund's reputation for holiness and for instituting the cathedral chapter and its customs grew steadily from the middle of the twelfth century onwards, gathering pace during the early thirteenth century, and culminating in the first petition for his canonization in 1228. The earliest datable miracle at the site of his tomb dates from between 1155 and 1165, about the time that the <span class="italic">Institutio</span> associated with his name was first compiled, while the earliest surviving reference to him as &#145;saint&#146; occurs in the treasurer's inventory of 1214. Although the commission ordered by Gregory IX on 30 May 1228 to inquire into Osmund's life and miracles came to nothing, Osmund's tomb continued to be venerated and, as the fame and influence of the cathedral and its customs spread throughout the province of Canterbury, so too was his name increasingly associated with the texts that set out the use of Sarum. Further unsuccessful petitions for his canonization were made during the episcopacies of Ralph Erghum (1375&#150;88), Robert Hallum (1407&#150;17), and John Chaundeler (1417&#150;26). A final petition was submitted in 1452, which, after various delays, resulted in Calixtus III's bull of 1 January 1457 which formally proclaimed Osmund a saint.<br>
+<br>Teresa Webber </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Willelmi Malmesbiriensis monachi de gestis pontificum Anglorum libri quinque</i>, ed. N. E. S. A. Hamilton, Rolls Series, 52 (1870) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20902&amp;istheme=&amp;target=Fasti%20Angl.%2C%201066%3F1300')"><i>Fasti Angl., 1066&#150;1300</i></a> [Salisbury] &middot; D. Greenway, &#145;The false <i>Institutio</i> of St Osmund&#146;, <i>Tradition and change</i><i>: essays in honour of Marjorie Chibnall</i>, ed. D. Greenway, C. Holdsworth, and J. Sayers (1985), 77&#150;101 &middot; T. Webber, <i>Scribes and scholars at Salisbury Cathedral, c.1075&#150;c.1125</i> (1992) &middot; A. R. Malden, ed., <i>The canonization of Saint Osmund</i> (1901) &middot; Fabricius of Malmesbury, &#145;Vita S. Aldhelmi&#146;, ed. J. A. Giles, <i>Patrologia Latina</i>, 89 (1850), 63&#150;84 &middot; C. H. Talbot, ed., &#145;The <i>Liber confortatorius</i> of Goscelin of Saint Bertin&#146;, <em>Studia Anselmia</em>, 37 (1955) &middot; <i>Polychronicon Ranulphi Higden monachi Cestrensis</i>, ed. C. Babington and J. R. Lumby, 9 vols., Rolls Series, 41 (1865&#150;86) &middot; <i>Eadmeri historia novorum in Anglia</i>, ed. M. Rule, Rolls Series, 81 (1884) &middot; W. H. Rich Jones and W. Dunn Macray, eds., <i>Charters and documents illustrating the history of the cathedral, city, and diocese of Salisbury, in the twelfth and thirteenth centuries</i>, Rolls Series, 97 (1891) &middot; D. Bates, ed., <i>Regesta regum Anglo-Normannorum</i><i>: the acta of William I, 1066&#150;1087</i> (1998) &middot; D. Stroud, &#145;The cult and tombs of St Osmund at Salisbury&#146;, <em>Wiltshire Archaeological and Natural History Magazine</em>, 78 (1984), 50&#150;54 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20902&amp;istheme=&amp;target=John%20of%20Worcester%2C%20Chron.')">John of Worcester, <i>Chron</i>.</a> &middot; W. H. Rich Jones, ed., <i>Vetus registrum Sarisberiense alias dictum registrum S. Osmundi episcopi</i><i>: the register of St Osmund</i>, 2 vols., Rolls Series, 78 (1883&#150;4), 2.55 &middot; Jesus College, Oxford, MS 114, fol. 27<i>v</i> &middot; B. R. Kemp, ed., <i>Salisbury, 1078&#150;1217</i>, English Episcopal Acta, 18 (1999)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Teresa Webber, &#145;<span class="roman"><span class="headword">Osmund</span> [St Osmund]  (<em>d.</em> 1099)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2011 [http://www.oxforddnb.com/view/article/20902, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Osmund [St Osmund] (<em>d.</em> 1099): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20902 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/20902/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 28500;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/28/28500-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/28/28500-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=28500#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Walker,  John</span>  (1759&#150;1830), <span class="occ">vaccinator and writer</span>, was born on 31 July 1759 at Cockermouth, Cumberland, one of the several children of a blacksmith and ironmonger. He was educated at the free grammar school in the town and was intended for an artistic career. However, plans for an apprenticeship were abandoned and he spent five years in his father's business, engraving ornamental metalwork. During this time he received some training in drawing. In 1779 Walker travelled to Dublin with the romantic ambition of joining a privateer. The ship had already been taken by the French, so he resumed his artistic studies and within a year was publishing engravings in magazines. In 1784 he took up teaching, gradually building up a large and successful school on Usher's Island, Dublin. However, he continued to produce engravings and began to write to supplement his income, publishing an <span class="italic">Elements of Geography and of Natural and Civil History</span> in 1788 and a <span class="italic">Universal Gazetteer</span> in 1795.<br>
+<br>By this time Walker had settled in London and had again changed his career, this time for medicine. He undertook a conventional course of study, spending three years at Guy's Hospital, with a brief visit to Paris in 1797. He reportedly spent time in Edinburgh in 1799&#150;1800, although he did not matriculate at the university. Walker graduated MD from Leiden University in 1799, and later published his thesis on the function of the heart and blood vessels. He became a licentiate of the Royal College of Physicians, London, in 1812, and was for a long time member of the Physical Society of Guy's Hospital. According to his first biographer, Walker was able to pursue these studies through the generosity of Anne Bowman, a native of Cockermouth, whom he married in a civil ceremony in Glasgow on 23 October 1799. The couple had no children.<br>
+<br>If Walker's medical education was conventional, his career was not. He never set up in practice, but always worked in vaccine institutions, then a new arena of practice. This unusual career path was dictated largely by Walker's confrontational character, his scepticism of the merits of orthodox medical treatment, and his unconventional views in religion and politics. Walker was brought up a Baptist but in the 1780s he attempted to join the Society of Friends. He was never formally accepted in the Quaker faith, because of his doubts about the divinity of Christ and his critical views of contemporary Quaker principles. However, he rigidly adhered to the outward conventions of Quaker life, attending meetings and adopting their distinctive style of address and garb. The latter caused difficulty on numerous occasions, when Walker refused to remove his hat at table as etiquette demanded. In Paris this behaviour provoked a minor scandal at the Conseil des Anciens. Walker's politics were radical. In Paris he was acquainted with Thomas Paine, Thomas Muir, and James Napper Tandy, and translated the manifesto of the Theophilanthropists, an atheistic society. He embraced a number of radical causes that included opposition to slavery, to the employment of children as chimney sweeps, and to cruelty to animals.<br>
+<br>Walker first became involved in vaccination against smallpox in 1800, when he was asked by Dr Marshall to join an expedition to the Mediterranean. The two practitioners carried out successful vaccinations in Gibraltar, Minorca, Malta, and Naples, and Walker went on to join Sir Ralph Abercromby's expedition to Egypt, vaccinating the troops and working as a surgeon. He also undertook various journeys in Egypt, which provided the material for his travel book <span class="italic">Fragments of Letters and Other Papers</span> (1802). In Egypt he caused much confusion by persistently sporting a large beard, by which he was mistaken for a Jew and assaulted.<br>
+<br>On his return in 1802 Walker immediately began to practise vaccination in London, and in 1803 he was appointed resident vaccinator to the Royal Jennerian Society, a charity which provided free vaccination to the poor. The post offered a small salary and a house at the main vaccine station in Salisbury Court, Fleet Street. Walker's singular temperament did not, however, allow a quiet life. In 1806 he became embroiled in a dispute with Jenner, ostensibly over vaccination technique, although the true causes are now obscure. The society split into factions: Jenner and the society's medical board demanded Walker's dismissal, while the lay board of directors, which included a number of Quakers, consistently supported him. Walker was forced to resign, but did not go gracefully. He published a scurrilous &#145;Jenneric opera&#146; in the anti-vaccination <span class="italic">Medical Observer</span>, which drew a similarly bad-tempered response from Jenner's camp. The society alleged that Walker refused to hand over vaccination registers and had taken a shop at the entrance to Salisbury Court from which he waylaid patients before they could reach the vaccination station. Walker and his supporters set up a rival charity, the London Vaccine Institution, which flourished as the Jennerian Society declined. In 1813 Walker added insult to injury by reviving the moribund Royal Jennerian Society, which was eventually amalgamated with the London Vaccine Institution. Despite its controversial beginnings, and Walker's rough and ready style of dealing with patients, the London Vaccine Institution proved the most successful vaccine charity of its day, providing free vaccination to thousands of Londoners. It also sought to encourage free vaccination in the provinces by recruiting local practitioners as associate vaccinators. Walker himself worked hard in the cause until a few days of his death. He continued to publish on a wide range of topics, such as vaccination and popular science; he even made Latin translations. He died in London on 23 June 1830 from a lung disease, probably tuberculosis.<br>
+<br>Deborah Brunton </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Epps, <i>The Life of John Walker M.D.</i> (1832) &middot; R. B. Fisher, <i>Edward Jenner</i> (1991) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28500&amp;istheme=&amp;target=Munk%2C%20Roll')">Munk, <i>Roll</i></a> &middot; H. Lonsdale, <i>The worthies of Cumberland</i>, 6 (1875) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28500&amp;istheme=&amp;target=DNB')"><i>DNB</i></a>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> G. Cruikshank, coloured etching, 1812, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28500&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Deborah Brunton, &#145;<span class="roman"><span class="headword">Walker,  John</span>  (1759&#150;1830)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/28500, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Walker (1759&#150;1830): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/28500 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

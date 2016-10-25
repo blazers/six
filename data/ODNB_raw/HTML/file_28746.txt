@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 28746;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/28/28746-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/28/28746-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=28746#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Warington,  Robert</span>  (1807&#150;1867), <span class="occ">chemist</span>, was born on 7 September 1807 at Sheerness, the third son of Thomas Warington, a provisioner of ships. His early childhood was spent in, among other places, Portsmouth and Boulogne. In 1818 he entered the Merchant Taylors' School and in November 1822 he was apprenticed for five years to the practical and manufacturing chemist John Thomas Cooper. There he became familiar with the rapidly evolving opportunities for a metropolitan chemist, such as the electrolytic manufacture of the recently discovered halogens and alkalis and the teaching of chemistry to medical students, required by the <span class="roman">Apothecaries Act</span> of 1815. In 1828 he was appointed an assistant to Edward Turner, first professor of chemistry in the new University of London. From 1831 until 1839 his principal employment was as a brewery chemist to the firm of Truman, Hanbury, and Buxton; he was among the first professional chemists to hold such a position. From 1842 to 1866 he was chemical operator and resident director to the Society of Apothecaries, giving up the position because of illness shortly before his death. From 1854 to 1861 he also served as a referee to several of the metropolitan gas companies. In 1835 he married Elizabeth, daughter of George Jackson, surgeon and microscopist; they had three children.<br>
+<br>Recognizing the need for a professional association among the numerous young metropolitan chemists, Warington was instrumental in organizing the Chemical Society of London (later the Chemical Society) in early 1841. In large part it was initially to be a self-help institution, housing a laboratory, a library, and reagent resources that would have been beyond the means of most of its members. For the society's first decade Warington was honorary secretary, and he served as vice-president of the Chemical Society in 1851&#150;4 and 1862&#150;5. Warington was also involved in the establishment of the Cavendish Society (1846), formed to facilitate the translation and publication of important works in chemistry, and served as co-secretary of the society from 1846 to 1849. In 1845 he was a member of the provisional committee that established the Royal College of Chemistry. In June 1864 he was elected fellow of the Royal Society.<br>
+<br>Most of Warington's scientific papers, of which there were about forty, dealt with the analysis of materials of commerce, such as tea, glass, distilled water, and guano, or the balanced aquarium, which he invented in 1850 as a device to illustrate complementary chemical activities of plants and animals that sustain life on earth, and which he presented initially to the Chemical Society; ownership of such an aquarium quickly became a popular hobby, providing a conversation piece for the mid-Victorian parlour. For Warington, however, the aquarium was an instrument for tentative explorations in what would now be called aquatic ecology. In this work he anticipated the popular naturalist P. H. Gosse, who would refocus the attention of aquarium enthusiasts on marine creatures. These interests were followed by his son <script>writeSeealsoLink('../view/article/36744/', "Robert Warington")</script>, who became an agricultural chemist and bacteriologist of note, and served as professor of rural economy at Oxford from 1894 to 1897.<br>
+<br>In his post at the Society of Apothecaries Warington was concerned with modernizing the pharmacopoeia. In 1851 he took over revision of the pharmacopoeia of the Royal College of Physicians after the death of Richard Phillips, and after the 1858 reform of the medical profession he was centrally engaged in preparation of a national compendium. He was joint editor, with Boverton Redwood, of the second edition of the <span class="italic">British Pharmacopoeia</span> (1867), though by that time he was too ill to take an active role. This work chiefly entailed discovering chemical protocols by which practitioners could estimate the quality of raw materials and produce medicaments of known strength.<br>
+<br>Warington was author of <span class="italic">A Series of Chemical Tables, Arranged for the Use of the Chemical Student</span> (1833), and assisted F. J. Farre and R. Bentley in preparation of a <span class="italic">Manual of Materia Medica and Therapeutics: being an Abridgement of &hellip; Dr. [Jonathan] Pereira's Elements of materia medica &hellip;</span> (1865). His most important contributions were not published articles and books, however, but his efforts in organizing metropolitan chemists and in standardizing pharmaceutical manufacture. He died at Poplar Cottage, Budleigh Salterton, Devon, on 12 November 1867. He was survived by his wife and sons.<br>
+<br>Christopher Hamlin </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28746&amp;istheme=&amp;target=JCS')"><i>JCS</i></a>, 21 (1868), xxxi &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28746&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 16 (1867&#150;8), xlix &middot; C. Hamlin, &#145;Robert Warington and the moral economy of the aquarium&#146;, <em>Journal of the History of Biology</em>, 19 (1986), 131&#150;53 &middot; T. Redwood and J. Bell, <i>The progress of pharmacy</i> (1880) &middot; R. F. Bud and G. K. Roberts, <i>Science versus practice</i><i>: chemistry in Victorian Britain</i> (1984) &middot; E. W. Stieb and G. Sonnedecker, <i>Drug adulteration</i><i>: detection and control in nineteenth-century Britain</i> (1966) &middot; W. H. Brock, &#145;The society for the perpetuation of Gmelin: the Cavendish Society, 1846&#150;1872&#146;, <em>Annals of Science</em>, 35 (1978), 599&#150;617 &middot; <i>Catalogue of scientific papers</i>, Royal Society &middot; R. Warington and B. Redwood, eds., <i>British pharmacopoeia</i>, 2nd edn (1867) &middot; <em>Chemical News</em> (20 Dec 1867), 316 &middot; <em>The Times</em> (14 Nov 1867) &middot; <em>The Times</em> (15 Nov 1867) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28746&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1867) &middot; G. K. Roberts, &#145;The establishment of the Royal College of Chemistry: an investigation of the social context of early Victorian chemistry&#146;, <em>Historical Studies in the Physical Sciences</em>, 7 (1976), 437&#150;85<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Rothamsted Experimental Station Library, Harpenden, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28746&amp;istheme=&amp;target=RS')">RS</a>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28746&amp;istheme=&amp;target=RSA')">RSA</a>
+<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portraits, Chemical Society &middot; portraits, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=28746&amp;istheme=&amp;target=RS')">RS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;16,000: probate, 7 Dec 1867, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Christopher Hamlin, &#145;<span class="roman"><span class="headword">Warington,  Robert</span>  (1807&#150;1867)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/28746, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Robert Warington (1807&#150;1867): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/28746 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

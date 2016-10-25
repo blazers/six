@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20865;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20865-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20865-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20865#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Osbern</span>  (<em>d.</em> 1094?), <span class="occ">Benedictine monk, hagiographer, and musician</span>, was precentor of Christ Church, Canterbury, whose life centred around the saints and relics of his priory. The earliest information concerning him comes from his <span class="italic">Miracula S. Dunstani</span>, where he describes how as a boy he was witness to two of the saint's miracles. It is also known that he visited Dunstan's cell at Glastonbury, perhaps as a pilgrim, and that later in life he experienced directly the saint's miraculous powers when Dunstan enabled him to win an apparently hopeless legal battle.<br>
+<br>This love for Christ Church's saints perhaps brought Osbern into conflict with Archbishop Lanfranc, who seems initially to have played down the role of relics in monastic devotion. The first indication of trouble between the two appears about 1076, when, as a disciplinary action, Osbern was sent to Bec to study with Anselm, at that time prior. The exact character of the problem is unknown, but in a letter to Prior Henry, Anselm begs indulgence for Osbern &#145;who knows himself to have sinned not through pride but through imprudence&#146;  (<span class="italic">Anselmi opera omnia</span>, letters 58, 66). Disobedience to Prior Henry was in fact to be a recurring theme in Osbern's life.<br>
+<br>Another of Anselm's letters on Osbern's behalf, written to Lanfranc, provides a surprisingly intimate picture of the monk. He was possessed of a quick mind and a tenacious memory, one who had &#145;grown venerably fat&#146; under Anselm's tutelage  (<span class="italic">Anselmi opera omnia</span>, letter 39). He also suffered from a recurrent and debilitating illness which manifested itself in a variety of symptoms, making Osbern perhaps especially dependent upon the aid of the saints. Anselm concludes the letter with a request for a life of St Dunstan and for the <span class="italic">Regularis concordia</span>, which demonstrates that Osbern was not without influence on Anselm, and that his thoughts were never far from the Canterbury saints.<br>
+<br>In 1080 Osbern returned to Canterbury, perhaps with Anselm during the latter's first visit to Christ Church. During that visit Anselm convinced a sceptical Archbishop Lanfranc of the validity of St &AElig;lfheah's martyrdom. Lanfranc then embraced the cult with some enthusiasm and commissioned a verse <i>passio</i> of the martyr from Osbern. Later, apparently under his own initiative, Osbern composed a prose life and an account of the saint's translation from London to Canterbury during the reign of Cnut. Almost nothing seems to have been known about &AElig;lfheah's career, but Osbern expanded freely on the few details that he did have. At least one event&#151;&AElig;lfheah's reception of two pallia at Rome, one of them belonging to the pope himself&#151;he took from the career of Lanfranc.<br>
+<br>Osbern wrote his other book, the <span class="italic">Vita et miracula S. Dunstani</span>, during the vacancy after Lanfranc's death. Two earlier lives of Dunstan existed which Osbern used, but again he expanded freely upon the information he had to hand. Some of the details that he added&#151;such as the story of the saint's catching the devil's face in hot tongs, or the description of Dunstan's deathbed rising towards the ceiling in anticipation of his ascension towards heaven&#151;became the most well-known events associated with Dunstan's life. Osbern's was also the first life to state repeatedly and explicitly Dunstan's position of leadership in the tenth-century monastic revival. Earlier lives had made only oblique references to Dunstan's role as a reformer, but Osbern characterized the archbishop as one who directly and forcefully expelled secular canons from their churches. This portrait is undoubtedly inaccurate. But it must have seemed an important claim to make if, as Eadmer suggests in his <span class="italic">Historia novorum</span>, Christ Church's monastic status was under attack during Lanfranc's archiepiscopate.<br>
+<br>The full extent of the authority enjoyed by Osbern within the Christ Church community is indicated by two letters he wrote to Anselm in 1093, enjoining the abbot of Bec to accept the office of archbishop to which he had been elected. He also urges Anselm to take no action towards his consecration or in regard to any ecclesiastical issue without first consulting Osbern himself. This sense of authority must have brought him into further conflict with Prior Henry, and in fact Eadmer does say that, during the vacancy, Osbern led a search of Christ Church's relics without first seeking permission from the prior, as monastic obedience required.<br>
+<br>The last extant reference to Osbern is in one of Anselm's first letters as archbishop, addressed to Prior Henry, Osbern, and to certain other monks. The letter concerns disorder at the monastery because of the reluctance of some of the brethren to obey Henry's commands. Whether Anselm addressed Osbern as a respected member of the community who could restore order or as a possible source of the turmoil itself must remain uncertain. Osbern may have been the disobedient monk whose death in 1094 is reported by Goscelin.<br>
+<br>Osbern was also a renowned musician. None of his musical compositions has been identified, which is unfortunate, since William of Malmesbury described Osbern as &#145;taking the prize&#146; in music.<br>
+<br>J. C. Rubenstein </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>Osbern of Canterbury, &#145;Vita Sancti Dunstani&#146;, <i>Memorials of St Dunstan, archbishop of Canterbury</i>, ed. W. Stubbs, Rolls Series, 63 (1874), 68&#150;164 &middot; Osberno, &#145;Vita s. Alphegi archiepiscopi Cantuariensis&#146;, <i>Anglia sacra</i>, ed. [H. Wharton], 2 (1691), 122&#150;48 &middot; <i>Willelmi Malmesbiriensis monachi de gestis regum Anglorum</i>, ed. W. Stubbs, 2 vols., Rolls Series (1887&#150;9) &middot; <i>S. Anselmi Cantuariensis archiepiscopi opera omnia</i>, ed. F. S. Schmitt, 6 vols. (1938&#150;61) &middot; <i>Eadmeri historia novorum in Anglia</i>, ed. M. Rule, Rolls Series, 81 (1884) &middot; &#145;<i>Edmeri Cantuarensis cantoris nova opuscula de sanctorum veneratione et obsecratione</i>&#146;, ed. A. Wilmart, <em>Revue des Sciences Religieuses</em>, 15 (1935), 184&#150;219, 354&#150;79 &middot; J. C. Rubenstein, &#145;The life and writings of Osbern of Canterbury&#146;, <i>Canterbury and the Norman conquest</i><i>: churches, saints and scholars, 1066&#150;1109</i>, ed. R. Eales and R. Sharpe (1995), 27&#150;40 &middot; M. L. Colker, &#145;A hagiographic polemic&#146;, <em>Mediaeval Studies</em>, 39 (1977), 60&#150;108, esp. 68&#150;96<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">J. C. Rubenstein, &#145;<span class="roman"><span class="headword">Osbern</span>  (<em>d.</em> 1094?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/20865, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Osbern (<em>d.</em> 1094?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20865 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

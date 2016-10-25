@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22005;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22005-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22005-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22005#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pery,  Edmond Henry</span>, first earl of Limerick  (1758&#150;1844), <span class="occ">politician</span>, was born on 8 January 1758 in Ireland, the only son of William Cecil Pery, first Baron Glentworth of Mallow (1721&#150;1794), Church of Ireland bishop successively of Killala and Limerick, and his first wife, Jane Walcott. He was educated by a private tutor before entering Trinity College, Dublin, in 1773, but did not take a degree. He trained at Lincoln's Inn from December 1775. He travelled on the continent to France, Italy, and Germany (1777&#150;9) and on 29 January 1783 married Mary Alice Ormsby (1762/3&#150;1850), only daughter and heir of Henry Ormsby and Mary Hartstonge.<br>
+<br>In 1786 Pery entered the Irish House of Commons as member for the county of Limerick. He retained this seat until 4 July 1794, when he succeeded to the Irish peerage on the death of his father. Though of overbearing manners he was a successful politician. His political importance and his success were largely due to his family connections and location. He was the heir not only of his father but also of his uncle, Edmond Sexton Pery, speaker of the Irish House of Commons, who was noted for his &#145;head well filled with Machiavellian brains&#146;  (Bodkin, 202). His second asset was the Pery family's interest in Limerick city and county. He closely attached himself to the protestant ascendancy party, which dominated the government after Lord Fitzwilliam's recall in 1794. For his services to the government he was made keeper of the signet in 1795, and in 1797 clerk of the crown and hanaper. On the outbreak of the rising of 1798 he raised a regiment of dragoons for service against the rebels at his own expense. He strongly supported the chancellor, Lord Clare, another co. Limerick magnate, in furthering the scheme for a union between England and Ireland. He spoke frequently on its behalf in the Irish House of Lords, and did much to obtain the support of the influential citizens of Limerick. In return for these services he was created Viscount Limerick in 1800, with the promise of an earldom, and was one of the twenty-eight temporal lords elected to represent the peerage of Ireland in the parliament of the United Kingdom after the legislative union had been carried out.<br>
+<br>Limerick continued to exercise political influence after the union, for Limerick city, which had previously returned two MPs to the Irish parliament, now returned one to the imperial parliament. It a was county-borough constituency comprising both burgesses and freeholders, and the Perys controlled the freeholders. On 11 February 1803 he was raised to the dignity of earl of Limerick in the peerage of Ireland, and on 11 August 1815 he was made a United Kingdom peer, with the title Baron Foxford. Subsequently Limerick resided mainly in England. He took a prominent part in Irish debates in the House of Lords and steadily opposed any concession to the Irish Catholics. He died on 7 December 1844 at Southill Park, near Bracknell in Berkshire, and was buried on 23 December in Limerick Cathedral. Barrington described him as &#145;always crafty, sometimes imperious, and frequently efficient&#146;, and added, &#145;He had a sharp, quick, active intellect, and generally guessed right in his politics&#146;  (Barrington, 2.122). He was succeeded in his titles and property by his second grandson, William Henry Tennison Pery.<br>
+<br>G. P. Moriarty<span class="italic">, rev. </span> E. M. Johnston-Liik </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>E. M. Johnston-Liik, <i>History of the Irish parliament, 1692&#150;1800</i>, 6 vols. (2002) &middot; M. MacDonagh, <i>The viceroy's post-bag</i> (1904), 50, 83&#150;5, 195, 365 &middot; M. Bodkin, ed., &#145;Notes on the Irish parliament in 1773&#146;, <em>Proceedings of the Royal Irish Academy</em>, 48C (1942&#150;3), 145&#150;232 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22005&amp;istheme=&amp;target=GEC%2C%20Peerage')">GEC, <i>Peerage</i></a> &middot; A. J. Webb, <i>A compendium of Irish biography</i> (1878) &middot; J. Barrington, <i>Historic memoirs of Ireland</i>, 2nd edn, 2 vols. (1833) &middot; <i>Correspondence of Charles, first Marquis Cornwallis</i>, ed. C. Ross, 3 vols. (1859) &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22005&amp;istheme=&amp;target=NL%20Ire.')">NL Ire.</a>, corresp. and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22005&amp;istheme=&amp;target=BL')">BL</a>, corresp. with Sir Robert Peel, Add. MSS 40230&#150;40278<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> T. A. Dean, stipple and line engraving, pubd after 1803, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22005&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> &middot; T. A. Dean, stipple, pubd 1840 (after G. Dawe), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22005&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22005&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; G. Hayter, group portrait, oils (<i>The trial of Queen Caroline, 1820</i>), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22005&amp;istheme=&amp;target=NPG')">NPG</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;6000 p.a. excl. rents from Limerick city: E. Wakefield, <i>Account of Ireland: statistical and political</i> (1812)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">G. P. Moriarty, &#145;<span class="roman"><span class="headword">Pery,  Edmond Henry</span>, first earl of Limerick  (1758&#150;1844)</span>&#146;, rev. E. M. Johnston-Liik, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2014 [http://www.oxforddnb.com/view/article/22005, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edmond Henry Pery (1758&#150;1844): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22005 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22005/2009-10"> [Previous version of this biography available here: October 2009]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

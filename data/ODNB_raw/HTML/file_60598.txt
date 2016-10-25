@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 60598;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/60/60598-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/60/60598-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=60598#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Korn,  Arthur</span>  (1891&#150;1978), <span class="occ">architect and planner</span>, was born in Breslau, Lower Silesia, Germany, on 4 June 1891, the son of Moritz Korn, a machine tool dealer, and his wife, Martha Ebstein. Following studies at the Luisenst&auml;dtisches Gymnasium in Berlin, Korn attended a carpentry trades school (<i>c</i>.1908&#150;1909), and later completed his professional studies at the Royal Art and Trade School in Berlin (1909&#150;11). Subsequently he worked as an architectural assistant and, for a short time, in the city planning office of greater Berlin, where he came under the influence of Raymond Unwin's recently translated <span class="italic">Town Planning in Practice</span> (1909).<br>
+<br>Following war service as a volunteer, Korn went into practice with Eric Mendelsohn in Berlin; although the association was short-lived, Korn recalled it as critically formative: &#145;I owe all my further development to Mendelsohn&#146;  (Korn, &#145;55 years&#146;, 264). From 1919 to 1922 he worked solo, subsequently forming a partnership with Siegfried Weitzmann, with whom he built a number of houses, shops, offices, and industrial buildings in Berlin and elsewhere. During the 1920s Korn was actively associated with German modernist architectural groups such as the Novembergruppe and the Ring. Photographs of Korn and Weitzmann's Villa Goldstein in Berlin were published in Walter Gropius's visual anthology of the new architecture, <span class="italic">Internationale Architektur</span> (1924); Korn himself published a seminal survey, <span class="italic">Glas im Bau und als Gebrauchsgegenstand</span> (1929), which drew attention to the potential of the new architecture and new materials.<br>
+<br>In 1929 Korn's interest in town planning was sharpened by a trip to the USSR as a consultant, during which he made contacts with Soviet modernist architects and planners. In the same year he co-founded the Collective for Socialist Building, and made proposals for the future development of Berlin, which were exhibited in 1930. After Hitler's accession to power and the incorporation of the Bund Deutscher Architekten (BDA) in the Reichskulturkammer, Korn was forbidden to practise in Germany. He emigrated to Yugoslavia, where he worked as an independent architect and planner in Zagreb between 1935 and 1937.<br>
+<br>Korn first visited England in 1930 and again in 1934, as a delegate of the Congr&egrave;s Internationaux d'Architecture Moderne, and in 1937 he settled in Britain. Here, too, he associated himself actively with modernist tendencies: he joined the Modern Architectural Research (MARS) Group; he worked as an assistant to F. R. S. Yorke and E. Maxwell Fry; and he was a consultant for Jack Pritchard's Isokon Furniture Company, for which he proposed new developments on the eve of war. As chair of the MARS Group's town planning subcommittee from 1938, Korn was instrumental&#151;in collaboration with Fry, Eugene Kent, Godfrey Samuel, and others&#151;in the development of the MARS plan for London (published in 1942) which drew, in part, on the proposals he had made for Berlin in 1929&#150;30: the plan envisaged a radical reconfiguration of the city, organized around evenly distributed neighbourhood units, linked by a rationalized and integrated transport system. It was chiefly through his ideas about town planning, promulgated through his writing and particularly through his teaching, that Korn would be influential in Britain in the first two decades after the Second World War.<br>
+<br>Interned as an enemy alien during the early part of the war, from 1939 to 1940, Korn's career took a new turn after his release when, from 1941, he began to teach. He taught architecture and planning first at the Oxford School of Architecture (1941&#150;5)&#151;now part of Oxford Brookes University&#151;and subsequently, until his retirement, at the Architectural Association in London (1945&#150;65). In 1953 he codified some of his ideas on town planning in a book, <span class="italic">History Builds the Town</span>. Former students and colleagues respected him not only for his firsthand association with the rise of European modernist architectural design and planning but for his infectious enthusiasm as a teacher: &#145;What was wonderful about Arthur was that he showed us how town planning could make the impossible possible&#146; said Leslie Ginsburg, a former Architectural Association student and friend of Korn. Korn not only had a &#145;most un-English&#146; enthusiasm for architecture in general but, as the title of his book suggests, he sought to locate his planning precepts in a historical continuum, enthusing about the lessons to be drawn from historic English type forms (such as those of the Cambridge quads and formal London squares) as much as from recent examples. Nevertheless, he insisted that his students should not treat such lessons as mere formulae. As Ginsburg observed:<blockquote>Korn's ebullient but sharply perceptive methods of teaching shook us out of the complacent feeling that once we had carried out the planning &#145;motions&#146; all would be well &hellip; he insisted that it was our duty to aim high, to design for the best. (Sharp and others, 11/3)</blockquote>Before he settled in Britain Korn had married Elizabeth von Friedlaender, a painter and teacher. On 21 March 1942 he married Emanuela Georgina Krizan (<i>b</i>. 1899/1900), daughter of Franz Krizan, a chemist. He nursed her devotedly in her final years. Korn had two daughters. Following his retirement, Korn settled in Austria in 1969; he died at Klosterneuberg, Austria, on 14 November 1978.<br>
+<br>Charlotte Benton </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>B. Housden, &#145;Arthur Korn, 1891 to the present day&#146;, <em>Architectural Association Journal</em>, 73 (1957), 114&#150;35 &middot; D. Sharp and others, <em>Architectural Association Quarterly</em>, 11 (1979), 49&#150;54 &middot; A. Korn, &#145;55 years in the modern movement&#146;, <em>Arena</em> (April 1966), 263&#150;5 &middot; H. A. Strauss and W. R&ouml;der, eds., <i>Biographisches Handbuch der deutschsprachigen Emigration nach 1933 / International biographical dictionary of central European &eacute;migr&eacute;s, 1933&#150;1945</i>, 3 vols. (1980&#150;83) &middot; C. Benton and others, <i>A different world</i><i>: emigr&eacute; architects in Britain, 1928&#150;1958</i> (1995) [exhibition catalogue, RIBA, 23 Nov 1995 &#150; 20 Jan 1996] &middot; m. cert. [Arthur Korn and Emanuela Krizan]<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <i>c.</i>1928, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=60598&amp;istheme=&amp;target=Hult.%20Arch.')">Hult. Arch.</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Charlotte Benton, &#145;<span class="roman"><span class="headword">Korn,  Arthur</span>  (1891&#150;1978)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/60598, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Arthur Korn (1891&#150;1978): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/60598 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

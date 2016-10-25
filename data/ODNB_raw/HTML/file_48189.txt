@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 48189;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/48/48189-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/48/48189-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=48189#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Siemens,  Alexander</span>  (1847&#150;1928), <span class="occ">electrical engineer</span>, was born on 22 January 1847 in Hanover, Germany, the son of Gustav Siemens, a judge, and his wife, Sophie, <i>n&eacute;e</i> Heisse. His father was a third cousin of the engineers Charles and <script>writeSeealsoLink('../view/article/25528/', "William Siemens")</script>, and, after his education at the polytechnic in Hanover, Alexander arrived in England in 1867 to gain practical experience working with William at Siemens Brothers, Woolwich. In the following years he travelled extensively in Europe, the Middle East, and North America. In 1868 he returned to Germany to study at the University of Berlin, although his studies were interrupted when he was sent to Persia to assist with the building of the Indo-European telegraph. In 1869 he was working on cable-laying in the Black Sea.<br>
+<br>When Prussia annexed Hanover, Siemens became a Prussian citizen, and he served as a private in the Prussian army in the Franco-Prussian War of 1870&#150;71. He was wounded at the battle of Beaune la Rolande, and was awarded the Iron Cross. After the war he returned to England, and again worked with William Siemens, assisting with the building of regenerative gas furnaces for producing wrought iron and steel direct from the iron ore. He was also involved in the development of the furnace for cremation. In 1875 he joined the cable ship <i>Faraday</i> and took part in several cable-laying and cable-repairing expeditions, mainly in the north Atlantic. In 1876 and 1877 he spent some time in Canada and the USA, building furnaces there.<br>
+<br>Siemens returned to England in 1877, and became a naturalized British subject in 1878. Most of his work thereafter was electrical, and he became manager of the electric light department of Siemens Brothers in 1879. The company manufactured electric generators, arc lamps, and cables for the lighting industry, but was not initially involved in the manufacture of filament lamps.<br>
+<br>In 1881 Alexander Siemens married Louisa Frances Dodwell of Campden, Gloucestershire; they had three daughters. In the autumn of that year the world's first public electricity supply system, supplying electricity to a small number of private houses as well as street lighting, opened in Godalming, Surrey. Siemens Brothers' initial involvement was just to supply the equipment. Later they took over the enterprise, which was never viable, in order to gain practical experience of the emerging electric lighting industry. Alexander Siemens continued to be involved in submarine telegraphy, including laying a telegraph cable in the Amazon River in 1896.<br>
+<br>Practical electric motors for railway traction were being developed from about 1890. In 1892 Siemens read a paper to the British Association on &#145;Electric locomotives on the City and South London Railway&#146;, the first deep-level &#145;tube&#146; underground railway.<br>
+<br>When Siemens Brothers became a limited company in 1880, Siemens became a director, and he was made managing director in 1889, a post he held until 1899. In that year the firm was reorganized, with new capital being brought in. George von Chauvin became managing director, although Siemens remained on the board until his retirement in 1918.<br>
+<br>In 1871 Siemens was a founder member of the Society of Telegraph Engineers and Electricians, which became the Institution of Electrical Engineers (IEE) in 1888. His contributions to discussions on papers read at the institution showed a grasp both of technical detail and of the wider commercial and legal considerations affecting the electrical industry. He became president of the institution in 1894, and again in 1904, and he was president of the Institution of Civil Engineers in 1910&#150;11. His first presidential address to the IEE included an analysis of the various orders and licences granted under the <span class="roman">Electric Lighting Acts</span>, 1882 and 1888. The acts had been much criticized for retarding the development of the electrical industry, but Siemens argued that considerable blame lay with those promoting electrical enterprises, who had had exaggerated expectations and made reckless assertions. In his second presidential address he made a strong plea for the introduction of the metric system, so that everyone would enjoy the benefit, which electrical engineers already had, of standard units of measurement.<br>
+<br>As a leading figure in the electrical industry, and with a known interest in standards, Siemens was appointed by the British government as one of the British delegates to the International Electrical Congress at Chicago in 1893. In 1901 he was appointed a delegate to the similar congress in Paris. His interest in standards of measurement also led in 1897 to his appointment to a government committee considering the desirability of setting up a national physical laboratory. When the laboratory was established, in 1901, he served on its executive board. In retirement he lived at Westover, Milford-on-Sea, Hampshire, where he died, from heart failure, on 16 February 1928. He was survived by his wife.<br>
+<br>Brian Bowers </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. D. Scott, <i>Siemens Brothers, 1858&#150;1958</i> (1958) &middot; <em>Electrical Trades Directory</em> (1907) &middot; &#145;Siemens, Sir William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48189&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <em>Journal of the Institution of Electrical Engineers</em>, 66 (1928), 1242&#150;3 &middot; &#145;Reminiscences of Alexander Siemens&#146;, Inst. ET, I/6.2 &middot; R. Appleyard, <i>The history of the Institution of Electrical Engineers, 1871&#150;1931</i> (1939)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48189&amp;istheme=&amp;target=Inst.%20ET')">Inst. ET</a>, memoirs, I/6.2<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photographs, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=48189&amp;istheme=&amp;target=Inst.%20ET')">Inst. ET</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;7277 13<i>s</i>. 8<i>d</i>.: probate, 3 May 1928, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Brian Bowers, &#145;<span class="roman"><span class="headword">Siemens,  Alexander</span>  (1847&#150;1928)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2011 [http://www.oxforddnb.com/view/article/48189, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Alexander Siemens (1847&#150;1928): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/48189 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/48189/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 2743;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/2/2743-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/2/2743-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=2743#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bockenfield <span class="st"> [Bocfeld, Buckfield]</span>,  Adam  of</span>  (<em>d.</em> 1279<span class="mult">x</span>92), <span class="occ">commentator on Aristotle</span>, was born at Bockenfield near Morpeth in Northumberland, on lands he eventually inherited from his father, Robert of Graunteleye. Since Adam's name differs from his father's, the supposition is that his name is toponymic. Adam's position as a landowner led him into several judicial actions between 1255 and 1278. However, his name first appears in 1238, when he was among those arrested in an Oxford riot. Owing to the efforts of Robert Grosseteste, then bishop of Lincoln (<i>d</i>. 1253), the king ordered that Adam de Bokingfeld and three others were to be allowed to leave Oxford, should they so wish. In 1243, now styled master, Bockenfield was presented by the prior and convent of Durham to the church of West Rounton in Yorkshire, and in 1249 was granted the living of Iver in Buckinghamshire by Grosseteste. For the latter appointment Adam enjoyed the strong support of Adam Marsh (<i>d</i>. 1259), an Oxford friend and colleague, who wrote that &#145;his profession of the sacred scriptures [<i>divinorum eloquiorum</i>] as well as humane letters renders him worthy of commendation&#146;  (<span class="italic">Monumenta Franciscana</span>, 165). By 1263 he was a canon of Lincoln Cathedral, and in that capacity installed a new abbess of Little Marlow, Buckinghamshire, in 1264. By order of the pope, moreover, Adam and the archdeacon of Lincoln were appointed in 1267 to collect the papal tithe in the diocese. Before 1276 he had resigned the West Rounton living, and by late 1278 his name is omitted from a listing of the canons of Lincoln. Since his will was proved during the archbishopric of John Peckham, it is assumed that he died between 1279 and 1292, probably some years after he retired from active teaching.<br>
+<br>Bockenfield's contribution to the discipline he professed was as commentator on all of the treatises that constituted the <i>corpus vetustius</i> of Aristotle, as well as three falsely ascribed works. Several of these have two or three recensions, so that a total of at least twenty-two works issued from his hand. Of these only a part of the commentary on the <span class="italic">Metaphysics</span> and the commentary on the <span class="italic">De anima</span> have been edited; an edition of the commentary on the <span class="italic">De vegetabilibus</span>, which incorporates most of Alfred of Shareshill's glosses on the same work, is in preparation. The impressive number of manuscripts containing some or all of Adam's commentaries&#151;fifty-eight at the latest count&#151;testifies to the vogue these works enjoyed, especially on the continent, where most of the copies are found. At the same time, the fact that they stopped being copied at a relatively early date (virtually by the end of the thirteenth century) most probably means that the kind of glossing they represented, namely a literal exposition and analysis in the manner of Averroes's middle commentaries, had by then passed out of fashion. In the middle decades of the century, however, and before the new translations of Aristotle began to make their appearance in the 1260s, Adam was by every measure the most influential English commentator on that philosopher.<br>
+<br>R. James Long </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. Powell, &#145;The life and writings of Adam of Buckfield with special reference to his commentary on the <i>De anima</i> of Aristotle&#146;, BLitt diss., U. Oxf., 1964 &middot; C. H. Lohr, &#145;Medieval Latin Aristotle commentaries&#146;, <em>Traditio</em>, 23 (1967), 314&#150;413, esp. 317&#150;23 &middot; F. Pelster, &#145;Adam von Bocfeld (Bockingfeld), ein Oxforder Erkl&auml;rer des Aristoteles um die Mitte des 13. Jahrhunderts&#146;, <em>Scholastik</em>, 11 (1936), 196&#150;224 &middot; S. H. Thomson, &#145;The works of Magister Adam of Bocfield (Bouchermefort)&#146;, <em>Medievalia et Humanistica</em>, 2 (1944), 55&#150;87 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2743&amp;istheme=&amp;target=Emden%2C%20Oxf.')">Emden, <i>Oxf</i>.</a>, vol. 1 &middot; A. Maurer, &#145;Adam of Buckfield, <i>Sententia super secundum metaphysicae</i>&#146;, <i>Nine mediaeval thinkers</i>, ed. J. R. O'Donnell (1955), 99&#150;144 &middot; R. J. Long, &#145;The reception and interpretation of the pseudo-Aristotelian <i>De plantis</i> at Oxford in the thirteenth century&#146;, <i>Knowledge and the sciences in medieval philosophy</i>: <i>proceedings of the eighth international congress of medieval philosophy</i> [Helsinki 1987], ed. R. Ty&ouml;rinoja, A. Lehtinen, and D. F&oslash;llesdal, 3 (1990), 111&#150;23 &middot; M. Grabmann, &#145;Die lateinische Averroismus des 13. Jahrhunderts und seine Stellung zur christlichen Weltanschauung&#146;, <em>Sitzungsberichte d. Bayerischen Akademie</em> (1931), 33 &middot; M. Grabmann, &#145;Die Aristoteleskommentatoren Adam von Bocfeld und Adam von Bouchermefort: die Anf&auml;nge der Erkl&auml;rung des &#147;neuen Aristotel&#148; in England&#146;, <em>Mittelalterliches Geistesleben</em> (1936), 138&#150;82, 613&#150;16 &middot; M. Grabmann, &#145;Mitteilungen &uuml;ber Werke des Adam v. Bocfeld aus MS Lat. Quart. 906 der Preussischen Staatsbibliothek in Berlin&#146;, <em>Divus Thomas</em>, 17 (1939), 3&#150;25 &middot; S. H. Thomson, &#145;A further note on Master Adam of Bocfeld&#146;, <em>Medievalia et Humanistica</em>, 12 (1958), 23&#150;32 &middot; D. A. Callus, &#145;Two early Oxford masters on the plurality of forms&#146;, <em>Revue Neo-Scholastique de Philosophie</em>, 42 (1939), 411&#150;45 &middot; L. J. Bataillon, &#145;Adam of Bocfeld: further manuscripts&#146;, <em>Medievalia et Humanistica</em>, 13 (1960), 35&#150;39 &middot; R. J. Long, &#145;Adam of Buckfield and John Sackville: some notes on Philadelphia Free Library MS Lewis European 53&#146;, <em>Traditio</em>, 45 (1989&#150;90), 364&#150;7 &middot; D. A. Callus, &#145;Introduction of Aristotelian learning to Oxford&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2743&amp;istheme=&amp;target=PBA')"><i>PBA</i></a>, 29 (1943), 229&#150;81, esp. 255&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2743&amp;istheme=&amp;target=Paris%2C%20Chron.')">Paris, <i>Chron.</i></a>, vol. 3 &middot; <i>Commentarii de scriptoribus Britannicis, auctore Joanne Lelando</i>, ed. A. Hall, 2 (1709), 269 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=2743&amp;istheme=&amp;target=Bale%2C%20Cat.')">Bale, <i>Cat.</i></a>, 2.45&#150;6 &middot; J. S. Brewer, ed., <i>Monumenta Franciscana</i>, 1, Rolls Series, 4 (1858), 165 &middot; T. B. Noone, &#145;Evidence for the use of Adam of Buckfield's writings at Paris&#146;, <em>Mediaeval Studies</em>, 54 (1992), 308&#150;16<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. James Long, &#145;<span class="roman"><span class="headword">Bockenfield ,  Adam  of</span>  (<em>d.</em> 1279<span class="mult">x</span>92)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/2743, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Adam  of Bockenfield (<em>d.</em> 1279<span class="mult">x</span>92): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/2743 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1320;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1320-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1320-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1320#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Banting,  William</span>  (1796/7&#150;1878), <span class="occ">writer on diet</span>, was a funeral director in St James's Street, London. He may have been the William Banting, son of Thomas Banting and his wife, Ann, who was baptized at St Martin-in-the-Fields, Westminster, in December 1796. On 20 January 1818 he married at St Mary's, Newington, London, Mary Ann Thurmott (1793&#150;1862).<br>
+<br>Banting was somewhat short (5 feet 5 inches), and as he got older suffered great personal distress from his increasing fatness. It was said that by the time he was sixty he found himself unable to stoop to tie his shoes, &#145;or attend to the little offices which humanity requires, without considerable pain and difficulty&#146;. He was forced to go downstairs slowly backwards, to avoid the jar of increased weight on the ankle joints, and with every exertion &#145;puffed and blowed in a way that was very unseemly and disagreeable&#146;. His doctors told him to take exercise, which he did; he walked long distances, rowed, and took up other sports. But all this only improved his appetite and added to his weight, and no other solution was offered. On 26 August 1862 at the age of sixty-five, he weighed 14 st 6 lb, an amount which he found unbearable. After further trying a course of fifty Turkish baths and &#145;gallons of physic&#146; without any success, he happened to consult a surgeon, Mr William Harvey, for an increasing problem of deafness. Mr Harvey, believing that obesity was the source of the hearing problem, suggested that Banting cut out bread, butter, milk, sugar, beer, soup, potatoes, and beans, and in their place adopt a diet of mainly flesh meat, fish, and dry toast. The result of this treatment was a gradual reduction of 46 lb in weight, and better health at the end of several weeks than Banting had enjoyed for the previous twenty years.<br>
+<br>The delight at being so much relieved by such simple means induced Banting to write and publish a pamphlet entitled <span class="italic">A Letter on Corpulence, Addressed to the Public</span> (1863), in which he singled out sugar and fats as the chief causes of obesity. Written in plain, sensible language, this tract became an overnight success. There were four editions by 1869, and it was successfully translated into French and German. &#145;To bant&#146;, or &#145;banting&#146;, became a popular phrase for adopting a slimming diet and continued in use well into the twentieth century; it remains the accepted word in some languages, such as Swedish. Thousands took up the Banting dietary principles, and thus threw the medical profession into great confusion over the right &#145;carbonaceous and nitrogenous qualities of food&#146;&#151;doctors were especially concerned at the exclusion of milk. As a <span class="italic">Times</span> leader commented: &#145;Whatever medical men may say, the chymistry of digestion is at present very little understood, and the reason amateurs are beginning to dogmatise upon it is that physicians have neglected a material part of their own science&#146;  (<span class="italic">The Times</span>, 19 Sept 1864). Certainly a great deal of research was undertaken in food chemistry in the last quarter of the century; and far greater attention was paid to diet in the patient's regimen after Banting.<br>
+<br>Banting scrupulously donated the profits of his book to charity, and continued to take an interest in charitable hospitals until his death at his house in The Terrace, Kensington, London, on 16 March 1878, aged eighty-one. According to Banting's will, he had three daughters and two sons.<br>
+<br>Robert Harrison<span class="italic">, rev. </span> Virginia Smith </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>The Times</em> (19 Sept 1864), 7a &middot; &#145;William Banting, his system of diet&#146;, <em>The Times</em> (27 Sept 1864), 9f &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1320&amp;istheme=&amp;target=Blackwood')"><i>Blackwood</i></a>, 96 (1864), 607&#150;17 &middot; T. Tanner, <i>The practice of medicine</i>, 1 (1865), 148 &middot; <i>Banting up-to-date</i> (1902) &middot; will &middot; private information (2004) [David Banting]<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;70,000: probate, 8 April 1878, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Robert Harrison, &#145;<span class="roman"><span class="headword">Banting,  William</span>  (1796/7&#150;1878)</span>&#146;, rev. Virginia Smith, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2011 [http://www.oxforddnb.com/view/article/1320, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Banting (1796/7&#150;1878): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1320 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1320/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

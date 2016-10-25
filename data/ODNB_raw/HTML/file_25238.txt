@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25238;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25238-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25238-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25238#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Sharpey,  William</span>  (1802&#150;1880), <span class="occ">physiologist</span>, was born at Arbroath, Forfarshire, on 1 April 1802. He was the youngest of five children of Henry Sharpey (1758&#150;1801), a shipping agent from Folkestone, Kent, who died before William was born, and his wife, Mary Balfour (1774&#150;1836), from a well-known Arbroath family. Two other sons died in infancy; two daughters subsequently married. Sharpey's mother married, in 1806, William Arrott, a medical practitioner in the town, raising two daughters and four sons, three of whom became doctors.<br>
+<br>Sharpey was educated at his local school and entered the University of Edinburgh in November 1817 to study the humanities and natural philosophy. He commenced medical studies in 1818, learning anatomy from John Barclay at the extramural school; he obtained the diploma of the College of Surgeons of Edinburgh in 1821. Rather than take up medical practice he sought further education and spent some months at the Brookes school of anatomy in London before going to Paris for a year, learning anatomy and surgery. Here he met James Syme, the famous Edinburgh surgeon, with whom he maintained a close friendship for the rest of his life. In August 1823 Sharpey graduated MD at Edinburgh with a thesis on stomach cancer and then returned to Paris for the greater part of 1824. He went home to Arbroath, where he assisted in his stepfather's practice, but he soon decided to devote himself entirely to anatomical and physiological pursuits.<br>
+<br>Sharpey therefore returned to the continent in 1827, spending time with Panizza in Pavia, Rudolphi in Berlin, and Tiedemann in Heidelberg, among others. Back in Edinburgh by 1829 he prepared a thesis, &#145;On the pathology and treatment of false joints&#146;, which obtained for him the fellowship of the College of Surgeons of Edinburgh in 1830 and his recognition by the college as an extramural teacher. He gave his first course of lectures at the extra-academical school in 1831&#150;2 in association with Allen Thomson, who became his lifelong friend and correspondent. Sharpey was successful as a teacher; the numbers in his class rose in each of the five years he was in Edinburgh.<br>
+<br>During this time Sharpey undertook his only piece of research, on ciliary movement, which gained him election to the Royal Society of Edinburgh in 1834. Although not the first to recognize cilia, he made an original contribution in the <span class="italic">Edinburgh Medical and Surgical Journal</span> in 1830, well before the classical paper of Purkinje and Valentin (1834), which he translated into English. He also wrote a scholarly review of the subject for Todd's <span class="italic">Cyclopaedia of Anatomy and Physiology</span> (1836). In the summer of 1836, at the suggestion of Richard Quain, he successfully applied for the new chair of anatomy and physiology at University College, London, which he held until he retired in 1874. There he taught, for the first time in England, a course of systematic physiology; previously this subject had been treated only as an appendage to anatomy. Almost unwittingly he acquired the reputation for which he is now chiefly remembered: the father of modern physiology in Britain. This is a somewhat paradoxical title since he was neither a laboratory physiologist nor the founder of a notable school of physiology. Nor did he write a textbook on the subject, although he often complained of the lack of a suitable one for his students. His only writing during his professorship was as a joint author of several editions of Quain's <span class="italic">Elements of Anatomy</span>.<br>
+<br>Nevertheless, Sharpey had a considerable personal influence which motivated a number of distinguished physiologists of the next generation. In part this was due to his position as a secretary of the Royal Society which he held from 1854 to 1872, concurrently with his professorship; he had been elected FRS in 1839 and was a member of its council from 1844. During this time he communicated many valuable papers by non-fellows to meetings of the society and he refereed over sixty manuscripts submitted for publication in its <span class="italic">Transactions</span>. A significant example of the latter was his report on the classical paper by A. V. Waller on degeneration in nerve (1850). From his extensive knowledge of continental work Sharpey was able to refer to earlier papers on this subject which Waller had missed but he also recognized the importance of the new work and recommended its publication.<br>
+<br>It was through his teaching at University College that Sharpey's influence was strongest. His lectures stimulated the interest of John Marshall, the anatomist, who wrote a textbook of physiology (1867) based on Sharpey's course, and Joseph Lister, who published some valuable physiological papers on vasomotor nerves and inflammation before taking up his surgical career. However, the single most important event which led to the re-establishment of British physiology was the foundation, on Sharpey's recommendation, of a lectureship in practical physiology at University College in 1855. The first holder, J. B. Hayes, a Sharpey pupil, left after giving only one course; he was succeeded in turn by George Harley, Michael Foster, Edward Schafer, who later took the name Sharpey-Schafer as a mark of his profound admiration for his teacher, and John Burdon Sanderson. These former students and colleagues were directly responsible for the development of physiology as an independent discipline based at first on University College, London, but extending to the establishment of distinguished schools of physiology at Cambridge, Oxford, and Edinburgh. They all acknowledged their gratitude and their affection for their teacher. His strong support for physiology was shown by his evidence to the 1875 royal commission on the use of animals in experiments and also as a founder member of the Physiological Society the following year. He and Charles Darwin were immediately elected honorary members. Other distinctions included membership of the General Medical Council, a trustee of the Hunterian Museum and, in 1860, an honorary LLD from Edinburgh University.<br>
+<br>In 1871 a Sharpey scholarship in physiology was established in his honour by his colleagues at University College, to which he subsequently bequeathed the greater part of his modest estate. His former students and his obituarists wrote warmly of Sharpey's personal qualities as a teacher and friend. His letters to Allen Thomson over a period of forty years show him to be shrewd, witty, observant, and greatly interested in the activities of all those who shared his academic world. He displayed a lack of financial ambition and showed no animosity to those with whom he disagreed. He had the power of attaching his pupils by ties of personal affection as well as those of common scientific interest. Sharpey's knowledge was wide, accurate, and up to date, and included the works of French and German authors. His loyalty to the two institutions which he served, University College and the Royal Society, never wavered, even when he was offered the prospect of the chair of anatomy at Edinburgh. He enjoyed visiting Scotland, travelling by sea to Dundee before the railway line opened in the 1840s.<br>
+<br>Of the few anecdotes about Sharpey on record, one which shows his self-deprecating humour was his remark, to George Harley, that, as he was now an old man he should find a young wife since, in anticipation of marriage, he had contributed for fifty years to a Scottish Widows Fund which now refused to pay out unless there was a widow.<br>
+<br>Sharpey never married, however. In London he lived mainly in the Russell Square area and Hampstead, where he was looked after by his niece Mary Colvill, daughter of his sister Elizabeth. She died in 1878 and he took lodgings at 50 Torrington Square, where he died on 11 April 1880 after an attack of bronchitis. He was buried on 17 April in the family plot in the abbey graveyard at Arbroath, the home town which he always remembered with affection.<br>
+<br>A. H. Sykes </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>D. W. Taylor, &#145;The life and teaching of William Sharpey, &#147;father of modern physiology&#148; in Britain&#146;, <em>Medical History</em>, 15 (1971), 126&#150;53, 241&#150;59 &middot; L. S. Jacyna, ed., &#145;A tale of three cities: the correspondence of William Sharpey and Allen Thomson&#146;, <em>Medical History</em>, suppl. 9 (1989) [whole issue] &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 31 (1880&#150;81), x-xix &middot; correspondence relating to the Royal Society, UCL, MS Add. 227 &middot; lecture notes by W. Sharpey, UCL, MSS Add. 278&#150;284 &middot; W. Sharpey, reports, RS &middot; U. Glas., Allen Thomson MSS &middot; Wellcome L., Sharpey-Schafer MSS &middot; E. Sharpey-Schafer, <i>History of the Physiological Society</i> (1927) &middot; U. Edin. L., letters and theses of William Sharpey &middot; H. H. Bellot, <i>University College, London, 1826&#150;1926</i> (1929) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=BMJ')"><i>BMJ</i></a> (24 April 1880), 606 &middot; G. L. Geison, <i>Michael Foster and the Cambridge school of physiology</i><i>: the scientific enterprise in late Victorian society</i> (1978) &middot; bap. reg. Scot.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Arbroath Museum, letter-book used as secretary of the Royal Society; academic certificates
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=RS')">RS</a>, corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=U.%20Edin.')">U. Edin.</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=UCL')">UCL</a>, corresp. relating to Royal Society
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=UCL')">UCL</a>, lecture notes
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>, corresp. and MSS&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=CUL')">CUL</a>, corresp. with Sir George Stokes, etc.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=NHM')">NHM</a>, corresp. with Sir Richard Owen and William Clift
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=U.%20Glas.%20L.')">U. Glas. L.</a>, corresp. with Allen Thomson<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> Maull &amp; Polyblank, photograph, 1855, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=NPG')">NPG</a> &middot; W. H. Thornycroft, marble bust, exh. RA 1872, University College Hospital, London; reduced plaster model, University Museum, Oxford &middot; photograph, 1874, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; Beynon &amp; Co., colour lithograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a> &middot; photograph, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25238&amp;istheme=&amp;target=Wellcome%20L.')">Wellcome L.</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;8000&#151;effects in England: probate, 21 May 1880, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. H. Sykes, &#145;<span class="roman"><span class="headword">Sharpey,  William</span>  (1802&#150;1880)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/25238, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Sharpey (1802&#150;1880): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25238 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

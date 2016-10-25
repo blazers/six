@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 7969;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/7/7969-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/7/7969-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=7969#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Dowling,  Thady</span>  (1543/4&#150;1628), <span class="occ">ecclesiastical administrator and antiquary</span>, was probably a native of Laois, where the O'Dowlins or Dowlings were a landholding sept. Most of what is known of his life is derived from the brief autobiographical memoir (dated 12 March 1602) which was enclosed with his account of the Irish sees. His family, who were &#145;true husbandmen&#146;, sent him to be fostered in Old Leighlin, co. Carlow, the cathedral town of the diocese of Leighlin. After some local education he went on to Dublin, where he studied civil and canon law for four years, attending Patrick Cusack's school, frequenting the consistory and admiralty courts, and learning from the local practitioners, including John Ball, archdeacon of Glendalough and official-principal to the archbishop of Dublin. He became a proficient civil and canon lawyer, although he never attended a university or received a degree.<br>
+<br>Being invited back to Leighlin (as he tells us) by the Church of Ireland bishop and chapter, Dowling was appointed to the treasurership of the cathedral, with the right of reversion to the better endowed chancellorship when it fell vacant. This did not occur until 1591, when he resigned the treasurership. During this period he acted as vicar-general of the diocese, at first jointly with another and then alone, when he combined the post with that of official-general. He also twice acted as keeper of the spiritualities during vacancies of the see (presumably in 1587 and 1597). During the wars of the 1590s, when the archives of the cathedral were destroyed, he was forced to flee and lost all his movable goods. After the war he returned his office and remained chancellor until his death in 1628 at the age of eighty-four. It is not known whether he ever married or had children.<br>
+<br>In his memoir Dowling described himself as having completed two works, one an &#145;Abstract of histories&#146; and the other a collection of Irish statutes concerning ecclesiastical jurisdiction, with a commentary and citation of cases. The former is presumably the collection of annals which was printed in 1849 from a copy in MS 834 of Trinity College, Dublin. At least three other seventeenth-century copies exist (BL, Add. MSS 4788, 4791; Armagh Public Library, MS Kh II, 1), but the autograph appears to be lost. The annals extend from the fabulous period to 1600, and are largely derived from English printed sources. They show no knowledge of the native annalistic material. At the time of the memoir (1602) Dowling was working on a handbook which would contain an introduction to the Irish language, with a calendar and almanac, and other material in Irish. This, like his legal treatise, appears to be lost, but other historical material by Dowling survives, including succession lists of governors of Ireland and fragments of genealogy and local history. He was also apparently the author of a set of annals from 1534 to 1590 (quite distinct from those mentioned above) which were entered in the now lost register of Duisk Abbey as a continuation of the annals which it contained. As a scholar Dowling seems to have been an industrious collector of local traditions, but lacking in a critical sense, even by the standards of his age. His knowledge of Irish would appear to have been purely colloquial, and he was quite ignorant of the Gaelic learned tradition. The lists of bishops which are included in his account of the Irish sees, often based on records which he tells us were subsequently destroyed, are however of value, and seem to have been largely drawn on by James Ware.<br>
+<br>K. W. Nicholls </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>TNA: PRO, SP 61 &middot; autobiographical memoir, TNA: PRO, SP 63/210, no. 62 &middot; TNA: PRO, SP 63/210, nos. 74&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=CSP%20Ire.')"><i>CSP Ire.</i></a>, <i>1601&#150;3</i>, 330&#150;34, 353&#150;4 &middot; H. Cotton, <i>Fasti ecclesiae Hibernicae</i>, 2 (1848) &middot; K. W. Nicholls, &#145;The annals of Duisk&#146;, <em>Peritia</em>, 2 (1983), 93&#150;4 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=BL')">BL</a>, Add. MS 4788 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=BL')">BL</a>, Lansdowne MS 418 &middot; <i>The annals of Ireland by Friar John Clyn and Thady Dowling</i><i>: together with the annals of Ross</i>, ed. R. Butler, Irish Archaeological Society (1849) &middot; &#145;Two books of the writers of Ireland&#146;, <i>The antiquities and history of Ireland, by &hellip; Sir James Ware</i> (1704), 26<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=BL')">BL</a>, autograph, Add. MS 4788, fols. 147&#150;154<i>v</i>
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=TCD')">TCD</a>, MS 578, fols. 18, 37&#150;42 [copies]
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, autograph, SP 63/10, no. 24
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, autograph, SP 63/20, no. 78
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=TNA%3A%20PRO')">TNA: PRO</a>, autograph, SP 63/210, nos. 62, 74, 75, 76&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=7969&amp;istheme=&amp;target=BL')">BL</a>, Lansdowne MS 418, fol. 64&#150;64<i>v</i>
+<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">K. W. Nicholls, &#145;<span class="roman"><span class="headword">Dowling,  Thady</span>  (1543/4&#150;1628)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/7969, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thady Dowling (1543/4&#150;1628): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/7969 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/7969/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

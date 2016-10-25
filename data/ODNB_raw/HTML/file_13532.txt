@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13532;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13532-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13532-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13532#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Holland,  John</span>  (1766&#150;1826), <span class="occ">Unitarian minister</span>, was born in Manchester, the second son (and second child of four) of Thomas Holland and his wife and cousin, Anne Holland; the parents ran a boarding- and day school for girls. He entered Daventry Academy in 1783, and succeeded his uncle <script>writeSeealsoLink('../view/article/13536/', "Philip Holland")</script> as minister at Bank Street Chapel, Bolton, in 1789, though some in the congregation would have preferred a less outspoken Unitarian. Holland threw himself energetically into congregational affairs. He recommended the formation of a Sunday school on the plan of Robert Raikes, successfully repeating the first such effort in Bolton by the Methodists, and established a vestry library, prefixing &#145;Directions for a course of reading&#146; to the printed catalogue. He also founded a short-lived periodical, the <span class="italic">Christian Miscellany</span> (1792).<br>
+<br>Like many of his contemporaries he was a follower of Joseph Priestley. In <span class="italic">An Address to the Members of the Establishment in the Town and Neighbourhood of Bolton</span>, printed anonymously in 1790, he used Priestley's arguments to plead for repeal of the <span class="roman">Test and Corporation Acts</span>, an initiative then before parliament but with little hope of success. In 1791 he and several fellow ministers published <span class="italic">Letters to the Inhabitants of Wigan</span>, one of the earliest concerted defences of Unitarianism. Surviving doctrinal sermons hew to the Priestleyan line, emphasizing the humanity of Christ, the rejection of propitiatory atonement, the progress of humankind under a beneficent God, and the importance of avowing truth, but without distinction of either mind or rhetoric. Despite his evident seriousness and piety some in the congregation later criticized his preaching as &#145;abstruse and uninteresting&#146;, with insufficient attention to practical morality.<br>
+<br>Philip Holland had run a well-known boarding-school; John Holland ran a co-educational day school, and published many teaching aids&#151;on the <span class="roman">Bible</span>, geography, and history, among other subjects. The format was set in <span class="italic">Exercises for the Memory and Understanding</span> (1798), published jointly with his elder brother, Thomas, who had become a schoolmaster after blindness cut short a promising mercantile career. If the strategy of these publications brings to mind the insufferable Bitzer in M'Choakumchild's schoolroom, it is worth noting that the &#145;interrogative method&#146; which they employ&#151;William Turner <i>secundus</i>, a brother-in-law, credited it to Thomas&#151;was accounted a novelty, and that Holland's books depart from strict catechetical form in omitting answers or printing them separately from questions, to encourage individual responses. A small surviving correspondence concerning two pupils, Robert and Hannah Heywood, shows him to have been a sensitive and caring teacher.<br>
+<br>Holland was married to Esther Pilkington; there were no children. A growing temperamental irritability deepened into depression and reclusiveness, leading to his resignation in a sad letter of 20 August 1820. He took occasional services thereafter, but his decline into mental illness ended only with his death, in Bolton, on 25 June 1826.<br>
+<br>R. K. Webb </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<em>Monthly Repository</em>, 21 (1826), 430, 495&#150;6 &middot; F. Baker, <i>The rise and progress of Nonconformity in Bolton</i> (1854) &middot; W. E. Brown, <i>Robert Heywood of Bolton, 1786&#150;1868</i> (1970) &middot; V. F. [W. Turner], <em>Monthly Repository</em>, new ser., 3 (1829), 721&#150;2 [obit. of Thomas Holland] &middot; J. Hunter, <i>Familiae minorum gentium</i>, ed. J. W. Clay, 1, Harleian Society, 37 (1894) &middot; letters to John Heywood, Bolton Public Library<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Bolton Public Library, Local History Collection<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. K. Webb, &#145;<span class="roman"><span class="headword">Holland,  John</span>  (1766&#150;1826)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/13532, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Holland (1766&#150;1826): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13532 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

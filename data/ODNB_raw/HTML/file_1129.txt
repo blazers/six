@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1129;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1129-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1129-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1129#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Baker,  Pacificus</span>  (1695&#150;1774), <span class="occ">Franciscan friar</span>, was brought up as a protestant, but later converted. He studied at Douai in the Southern Netherlands, and was there professed a Franciscan. After ordination he was sent to the English mission and was attached to the Sardinian chapel in Lincoln's Inn Fields. Baker is known to have attended the execution of Simon, Lord Lovat, on 9 April 1747. During his lifetime he discharged with credit the offices of procurator and definitor of his order, and was twice elected provincial of the English province, first in 1761 and second in 1770.<br>
+<br>An &#145;eminent spiritualist&#146;  (Oliver, 543), with the reputation of being a good preacher, Baker was described as &#145;my particular acquaintance&#146; by the Revd William Cole, as well as &#145;a very honest and worthy man&#146;  (Gillow, <span class="italic">Lit. biog. hist.</span>, 1.117). He was the author of numerous devotional works including <span class="italic">The Devout Christian's Companion for Holy Days</span> (1757), as well as guides to the mass (1768), and a Lenten guide for Holy Week (1769). Other works included <span class="italic">The Christian Advent</span> (1782), and a book about keeping Sundays holy, as well as essays on the Cord of St Francis and the Lord's prayer. According to one authority, these works were without much originality and were &#145;remarkable for unction, solidity, and moderation; but we wish the style was less diffuse and redundant of words&#146;  (Oliver, 543).<br>
+<br>Baker died in London on 16 March 1774.<br>
+<br>Thompson Cooper<span class="italic">, rev. </span> Robert Brown </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. Oliver, <i>Collections illustrating the history of the Catholic religion in the counties of Cornwall, Devon, Dorset, Somerset, Wilts, and Gloucester</i> (1857) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1129&amp;istheme=&amp;target=Gillow%2C%20Lit.%20biog.%20hist.')">Gillow, <i>Lit. biog. hist.</i></a> &middot; F. Blom and others, <i>English Catholic books, 1701&#150;1800</i><i>: a bibliography</i> (1996)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> W. Holl, engraving, repro. in <em>Laity's Directory</em> (1836)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Thompson Cooper, &#145;<span class="roman"><span class="headword">Baker,  Pacificus</span>  (1695&#150;1774)</span>&#146;, rev. Robert Brown, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/1129, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Pacificus Baker (1695&#150;1774): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1129 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

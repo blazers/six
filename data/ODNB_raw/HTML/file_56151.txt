@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 56151;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/56/56151-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/56/56151-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=56151#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Armstrong,  Edward Frankland</span>  (1878&#150;1945), <span class="occ">chemist</span>, was born on 5 September 1878 at 38 Limes Grove, Lewisham, London, the oldest of seven children of <script>writeSeealsoLink('../view/article/30450/', "Henry Edward Armstrong (1848&#150;1937)")</script>, professor of chemistry at the City and Guilds of London Institute, and his wife, Frances Louisa (1843/4&#150;1935), daughter of Thomas Howard Lavers, chemist and druggist of Lewisham. His names reflected his father's admiration for his own teacher, Edward Frankland, though he was known to his family as Frank. At St Dunstan's College, Catford, whose headmaster, C. M. Stuart, had trained in chemistry, he encountered a strong scientific ethos; he went on to the Royal College of Science and then, a year later, to his father's chemistry department at the renamed Central Technical College&#151;later part of Imperial College.<br>
+<br>In 1898 Armstrong went to Kiel to study under the organic chemist L. Claisen, moving two years later to Berlin to work with J. van't Hoff on a phase rule project in physical chemistry concerned with a hemihydrate of calcium sulphate. His acquaintance at Berlin with Emil Fischer strengthened his interest in organic chemistry and, after receiving his PhD in 1901, he remained a further year as Fischer's assistant. He long maintained his interest in the chemistry of sugar and other carbohydrates. After returning to South Kensington he continued carbohydrate investigations, becoming in 1905 one of the first to receive a London DSc for research. In the same year he was appointed chief chemist to the biscuit manufacturers Huntley and Palmer at Reading, but also continued work on glycosides (and other plant chemicals) with his father and Frederick Keeble. In 1907 he married Ethel Mary, daughter of C. K. Turpin of Woolwich. They later had three sons and a daughter. Their eldest son died in infancy and their second, <a href="#cosubject_56151">Kenneth Frankland [<i>see below</i>]</a>, was killed in an alpine accident.<br>
+<br>In 1914 Armstrong moved to Warrington as technical adviser to the managing director of Joseph Crosfield &amp; Sons, manufacturers of soap and chemicals. Within a year he had become technical director and went on to study heterogeneous catalysis as well as the chemistry of soap and the natural fats from which it was made. His work led to a wartime government contract to make acetic acid and acetone by catalytic oxidation of ethanol. While at Warrington Armstrong also chaired the Soap Manufacturers' Employers' Federation and the Whitley Council for the soap industry. He became president of the Society of Chemical Industry for 1922&#150;4, and of the British Association of Chemists for 1924&#150;5.<br>
+<br>In 1925 Armstrong became managing director of the British Dyestuffs Corporation (BDC) at Manchester and Huddersfield, where he was widely welcomed for introducing scientific eminence on to a board notorious for antipathy to British chemical research. He was soon plunged into convoluted negotiations on the future of the British dyestuffs industry, then under severe pressure from German competition. Within a year his firm had taken over Scottish Dyes Ltd and shortly afterwards BDC itself became part of the new industrial giant, Imperial Chemical Industries. In the inter-war period Armstrong saw a threefold threat to the chemical industry: unfair foreign competition, an organizationally fragmented industry with no single voice in dealing with governments likely to interfere in wage-bargaining, and militant trade unionism.<br>
+<br>In 1928 Armstrong moved to London to open an industrial consultancy, advising several branches of industry, particularly gas companies, and accepting numerous directorships. He became vice-president of the Chemical Society (1933) and chairman of the British Standards Institution (1934&#150;5, 1937&#150;8). He was president of the Association of British Chemical Manufacturers in 1935, and was awarded honorary LLDs by St Andrews and Birmingham universities. A fellow of the Royal Society since 1920, he was elected vice-president 1942&#150;3. During the Second World War he became chief scientific adviser to the government on air-raid precautions. He was president of the Royal Society of Arts from 1943, one of his last acts being to award a medal to Winston Churchill.<br>
+<br>A private man with no known hobbies, Armstrong was a rather ineffective speaker, though a gifted organizer and a good writer. He wrote <span class="italic">The Simple Carbohydrates and Glucosides</span> (1910), <span class="italic">Chemistry in the Twentieth Century</span> (1924), <span class="italic">The Sea as a Storehouse</span> (1944), <span class="italic">Raw Materials from the Sea</span> (1945), and, jointly with his son Kenneth, <span class="italic">The Glycosides</span> (1931). He died at Princess Beatrice Hospital, Earls Court, on 14 December 1945 from complications following appendicitis.<br>
+<br>
+<a name="cosubject_56151"></a><span class="headword">Kenneth Frankland Armstrong</span>  (1909&#150;1935), <span class="occ">chemist</span>, was born on 30 March 1909 at 98 London Road, Reading. He attended Oundle School before going up to Magdalen College, Oxford, in 1927. He obtained a natural science scholarship and, after a period in Geneva, obtained his BA in 1930 and his BSc (with first-class honours in chemistry) in 1931. In the latter year he was awarded a Henry Fund scholarship; he spent two years at Harvard under J. B. Conant and published several papers on chlorophyll. In 1933 he took up a Harmsworth senior scholarship of Merton College and began researches in the fields of organic chemistry and biochemistry.<br>
+<br>Armstrong, although modest like his father, was a fluent speaker and much in demand for both formal and informal occasions. He was regarded as &#145;strikingly handsome&#146;  (Robinson) and had wide and varied interests. He collected butterflies, studied graphic art and architecture, and was a keen traveller. However, he never had time to fully develop his many talents. While skiing in the Tyrol on 3 January 1935 he and a fellow chemist, John Howard, were killed by an avalanche near the Hoch Joch. He was buried at Vent, Oetzthal, Austria, on 10 January 1935.<br>
+<br>Colin A. Russell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. S. Gibson and T. P. Hilditch, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56151&amp;istheme=&amp;target=Obits.%20FRS')"><i>Obits. FRS</i></a>, 5 (1945&#150;8), 619&#150;29 &middot; J. V. Eyre, <i>Henry Edward Armstrong</i> (1958) &middot; <em>The Times</em> (17 Dec 1945) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56151&amp;istheme=&amp;target=WWW')"><i>WWW</i></a> &middot; T. P. Hilditch, <em>Chemistry and Industry</em> (12 Jan 1946), 22&#150;3 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56151&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; E. C. Dodds, &#145;Edward Frankland Armstrong&#146;, <em>Journal of the Royal Society of Arts</em>, 94 (1945&#150;6), 77&#150;9 &middot; A. E. Musson, <i>Enterprise in soap and chemicals</i><i>: Joseph Crosfield &amp; Sons Limited, 1815&#150;1965</i> (1965) &middot; M. R. Fox, <i>Dye-makers of Great Britain, 1856&#150;1976</i><i>: a history of chemists, companies, products, and changes</i> (1987) &middot; <em>Journal of the Society of Chemical Industry</em> (July 1931), 88 [jubilee number] &middot; T. P. Hilditch, <em>Nature</em>, 157 (1946), 154 &middot; <em>Journal and Proceedings of the Royal Institute of Chemistry</em> (1946), pt i, p. 56 &middot; R. Robinson, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56151&amp;istheme=&amp;target=JCS')"><i>JCS</i></a> (1935), 1892 [obit. of Kenneth Frankland Armstrong] &middot; d. cert. [K. F. Armstrong] &middot; b. cert. [K. F. Armstrong] &middot; records of Magd. Oxf., Merton Oxf., and Harvard U.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>ICI Organics Division, Blackley, Manchester
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56151&amp;istheme=&amp;target=ICL')">ICL</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=56151&amp;istheme=&amp;target=RS')">RS</a>, corresp.<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, repro. in Gibson and Hilditch, <i>Obits. FRS</i>, 618 &middot; photograph, repro. in <em>Journal of the Royal Society of Arts</em>, 77 &middot; photograph, repro. in Hilditch, <em>Chemistry and Industry</em>, 22 &middot; photograph, repro. in <em>Journal of the Society of Chemical Industry</em>, 88<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;60,093 14<i>s</i>. 0<i>d</i>.: probate, 2 July 1946, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Colin A. Russell, &#145;<span class="roman"><span class="headword">Armstrong,  Edward Frankland</span>  (1878&#150;1945)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/56151, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Edward Frankland Armstrong (1878&#150;1945): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/56151 
+                <br />
+
+                
+
+ Kenneth Frankland Armstrong (1909&#150;1935): doi:10.1093/ref:odnb/56151<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

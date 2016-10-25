@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 8984;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/8/8984-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/8/8984-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=8984#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Evans,  Thomas</span> <span class="st"> [<em>pseud. </em>Tomos Glyn Cothi]</span>  (1764&#150;1833), <span class="occ">Unitarian minister and poet</span>, son of Ifan and Hannah Evans, was born at Capel Sain Silin, near Brechfa, Carmarthenshire, on 20 June 1764. His father was an independent-minded weaver who bought books and essays for his children, including the religious works of Joseph Priestley, the English Unitarian. The prevailing theology in the neighbourhood was Calvinism; Evans, from an early age, was nicknamed Priestley Bach (Little Priestley) on account of the influence of Priestley on his theological development. In order to worship with like-minded friends he used to walk to Alltyblaca, 12 miles away, to hear David Davis of Castellhywel preach sermons of an Arian type. As an adult he began to preach in his father's house, a part of which he got licensed for this purpose; eventually a chapel was built for him.<br>
+<br>A democrat as well as a dissenter, Evans preached the rights of man, lamented the use of fast days to pray for military success, and advocated peace during the war with revolutionary France. As well as translations from Priestley and Theophilus Lindsey, he published three editions (1795&#150;6) of the <span class="italic">Miscellaneous Repository</span> or <span class="italic">Drysorfa Gymmysgedig</span> to bring the benefits of enlightenment and dissent to his Welsh audience. The journal gave political news of the state trials against the English &#145;Jacobins&#146;. It was once thought that he had translated &#145;La Marseillaise&#146; into Welsh.<br>
+<br>In 1801, on the information of a spy belonging to his own congregation, Evans was apprehended, tried, and sentenced by Judge Harding to be imprisoned for two years in Carmarthen gaol, and to stand in the pillory. He was charged with singing, in English, a seditious song, an accusation which he consistently denied. Evans was the political victim of anti-Unitarian prejudice and malicious gossip; during his imprisonment he met with great sympathy and compiled an English&#150;Welsh dictionary.<br>
+<br>Evans became minister of the Old Meeting-House, Aberd&acirc;r, in 1811, the same year in which he published a collection of hymns for Unitarian worship (<span class="italic">Cyhoeddiad o hymnau</span>). He was married to Ann Davies, with whom he had eleven children. Of the Welsh dissenters and democrats of the period of the French Revolutionary and Napoleonic wars, Evans was the most sustained and persistent in his radicalism. One of a &#145;little knot of men, sturdy old republicans&#146;  (Evans, <span class="italic">Dylanwad y Chwyldro Ffrengig ar lenyddiaeth Cymru</span>, 96) in the industrial area of Merthyr Tudful, he died, after a short illness, on 29 January 1833 at Mill Street, Aberd&acirc;r, Glamorgan.<br>
+<br>Hywel Meilyr Davies </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. D. Owen, <i>Thomas Evans (Tomos Glyn Cothi)</i> (1960) &middot; J. J. Evans, <i>Morgan John Rhys a'i Amserau</i> (1935) &middot; J. J. Evans, <i>Dylanwad y chwyldro Ffrengig ar lenyddiaeth Cymru</i> (1928) &middot; <em>Yr Ymofynnydd</em> (July 1933) [memorial issue] &middot; T. Oswald Williams, <i>Undodiaeth a rhyddid meddwl</i> (1962) &middot; David Davies, <i>The influence of the French Revolution on Welsh life and literature</i> (1926) &middot; Jacob Davies, ed., <i>Crefydd a gweriniaeth yn hanes yr hen d&#375; cwrdd Aberd&acirc;r</i> (1951) &middot; <em>Seren Gomer</em> (March 1833), 94<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=8984&amp;istheme=&amp;target=NL%20Wales')">NL Wales</a>, notes and MSS<p></p>
+<p></p>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Hywel Meilyr Davies, &#145;<span class="roman"><span class="headword">Evans,  Thomas</span> [Tomos Glyn Cothi]  (1764&#150;1833)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/8984, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Evans [<em>pseud. </em>Tomos Glyn Cothi] (1764&#150;1833): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/8984 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

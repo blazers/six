@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1255;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1255-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1255-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1255#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bambridge,  Thomas</span>  (<em>d.</em> 1741), <span class="occ">prison warden</span>, became briefly notorious for the regime of extreme cruelty he inflicted upon the prisoners under his charge. The details of his parentage and childhood are unknown. He practised as a London attorney and had chambers at the Inner Temple, though by 1722 he was in serious arrears of rent and was barred from access. It was possibly from this time that John Huggins, warden of the Fleet prison, employed him as one of his deputies.<br>
+<br>The Fleet, like other prisons at the time, was a private enterprise and combined conditions of freedom with brutal restraint. Its inmates were mainly debtors, usually decent but economically unfortunate tradespeople who, as the law allowed, could be retained by their creditors in gaol until debts had been settled. In August 1728 Huggins, who had bought the wardenship from Edward Hyde, third earl of Clarendon, during the reign of Queen Anne, sold his patent to Bambridge and an associate named Dougal Cuthbert for &pound;5000; and by the end of September Bambridge was acting as warden &#145;in his own right&#146;. He was already a hardened accomplice in Huggins's harsh regime of extorting &#145;fees&#146; from prisoners in return for petty benefits and privileges outside the prison walls but within its &#145;rules&#146;, while those who could not pay were thrown into pestilent dungeons. The wardenship of the Fleet prison was a guaranteed money-spinner and Bambridge could reckon on yearly profits in excess of &pound;4600. Under his brief rule conditions became even more barbaric until the death of one of the prisoners, Robert Castell, an architect of some note, led to his public exposure as a social villain.<br>
+<br>Castell was a friend of the philanthropically minded MP James Edward Oglethorpe, and had been visited several times by him in prison. Oglethorpe was enraged to hear of Castell's demise on 12 December 1728 in a smallpox-infected &#145;sponging house&#146; where Bambridge had consigned him for failure to pay fees, so much so that on 25 February 1729 he raised the matter in parliament and a committee was appointed under his chairmanship to inquire into the state of the nation's gaols. The committee gave first priority to the Fleet, and after beginning its inspections on 27 February was dismayed when Bambridge contemptuously disregarded their instruction to remove iron shackles from one of the prisoners, Sir William Rich. Next day Oglethorpe notified the matter to the House of Commons and Bambridge was immediately ordered into custody. Oglethorpe's report to the house on 20 March catalogued the full extent of Bambridge's inhumanity. There was overwhelming evidence of Bambridge's arbitrary and unlawful conduct, and the house readily concurred that he was &#145;guilty of &hellip; the highest crimes and misdemeanours in the execution of his said office&#146;  (<span class="italic">JHC</span>, 21.282), whereupon he was committed to Newgate gaol and crown proceedings initiated against him. An act of parliament (2 Geo. II c. 32) divested him of the wardenship and incapacitated him from holding any other office. Oglethorpe's committee of MPs meanwhile continued their investigations of other London gaols amid huge applause from the public and the press for their humanitarian spirit.<br>
+<br>The opposition newspaper <span class="italic">The Craftsman</span> published a satirical piece on 10 May elaborating at length upon the parallel between Bambridge and the prime minister, Sir Robert Walpole, as lovers of tyranny and arbitrary power. But when Bambridge was brought to trial at the Old Bailey on 22 May for Castell's murder he was acquitted. He was also acquitted of charges of theft from several Fleet prisoners early in December; and when tried once more at London's Guildhall in January 1730 on an &#145;appeal for murder&#146; brought by Castell's widow, he again walked free. There was speculation, not least among Oglethorpe's parliamentary colleagues, that Bambridge's skin had been saved through the agency of highly placed friends in the judiciary. Bambridge largely disappears from view after this. In 1733 he began proceedings to regain possession of his chambers at the Inner Temple, and in 1735 commenced a bill of chancery in order to effect this. He appeared in person at the Temple to press his case in May 1741, but his arguments were rejected. His death was reported two months later, though whether it was suicide, as has been suggested, has not been verified.<br>
+<br>A. A. Hanham </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>will, PROB 11/294 (mic. reel 713) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1255&amp;istheme=&amp;target=JHC')"><i>JHC</i></a>, 21 (1727&#150;32), 237&#150;8, 247, 274&#150;83, 384&#150;7 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1255&amp;istheme=&amp;target=State%20trials')"><i>State trials</i></a>, 17.383&#150;462, 563&#150;81 &middot; F. A. Inderwick and R. A. Roberts, eds., <i>A calendar of the Inner Temple records</i>, 4 (1933), 80, 305, 428&#150;9, 431, 463 &middot; <em>London Magazine</em>, 10 (1741), 362 &middot; A. Boyer, <i>The political state of Great Britain</i>, 37 (1729), 463&#150;5 &middot; <em>Country Journal, or, The Craftsman</em> (10 May 1729) &middot; L. F. Church, <i>Oglethorpe</i><i>: a study of philanthropy in England and Georgia</i> (1932), 11&#150;12 &middot; <i>Manuscripts of the earl of Egmont</i><i>: diary of Viscount Percival, afterwards first earl of Egmont</i>, 3 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1255&amp;istheme=&amp;target=HMC')">HMC</a>, 63 (1920&#150;23), vol. 1, pp. 46, 95 &middot; <i>The parliamentary diary of Sir Edward Knatchbull, 1722&#150;1730</i>, ed. A. N. Newman, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1255&amp;istheme=&amp;target=CS')">CS</a>, 3rd ser., 94 (1963), 88, 92<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> studio of W. Hogarth, group portrait, oils, <i>c.</i>1729 (<i>Committy of the House of Commons (the gaols committee)</i>), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1255&amp;istheme=&amp;target=NPG')">NPG</a> &middot; R. Grave, line engraving, 1819, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1255&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1255&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>; repro. in J. Caulfield, <i>Portraits, memoirs, and characters of remarkable persons</i>, 4 vols. (1819&#150;20)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. A. Hanham, &#145;<span class="roman"><span class="headword">Bambridge,  Thomas</span>  (<em>d.</em> 1741)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/1255, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Thomas Bambridge (<em>d.</em> 1741): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1255 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

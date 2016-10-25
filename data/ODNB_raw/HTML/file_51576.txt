@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 51576;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/51/51576-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/51/51576-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=51576#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Geiger,  Hans <span class="st"> [<em>formerly </em>Johannes Wilhelm]</span></span>  (1882&#150;1945), <span class="occ">physicist</span>, was born on 30 September 1882 in Neustadt in the Rhine Palatinate, Germany, the eldest of the five children of Wilhelm Geiger (1856&#150;1943) and Marie Plochmann (1858&#150;1910). His father was a philologist, first at secondary school (<i>Gymnasium</i>) in Neustadt and Munich and from 1891 as professor at the University of Erlangen. Geiger grew up in Erlangen and finished school (took his <i>Abitur</i>) there in 1901. After one year's military service he began to study physics and mathematics at the universities of Erlangen and Munich. Eilhard Wiedemann in Erlangen became his teacher, supervising Geiger's thesis on &#145;Strahlungs- Temperatur- und Potentialmessungen in Entladungsr&ouml;hren bei starken Str&ouml;men&#146; (1906). The dissertation involved experiments with and measurements of electrical discharges and made Geiger familiar with experimental skills that were of great importance for his later work on the development of electrical methods for the detection of nuclear particles. With the recommendation of his teacher Geiger went as a postdoctoral researcher to Arthur Schuster at the University of Manchester. He had planned to stay in Manchester for only a year, but remained for more than six years. Schuster's successor, Ernest Rutherford, made the talented German his assistant and educated him in radioactivity research. Geiger's scientific work centred on the development of electrical methods and instruments for detecting and counting atomic particles, and on their use for the investigation of atomic structure. In 1908, together with Rutherford, he invented an electrical technique (based on an ionization chamber) for counting single alpha particles, and was able to show the equivalence of the new technique with the common optical scintillation detector. Using the counter Geiger proved in 1908 the statistical character of radioactive decay. This result was important not only for radioactivity itself but for the further development of atomic physics and quantum theory, since it was a key for the general understanding of emission and absorption as a statistical process. Later, Geiger and Rutherford estimated the total number of alpha particles emitted per second from 1 gram of radium and also the half-life period for radium. With this number they could also determine the value of the elementary charge and that the alpha particle was a double charge particle.<br>
+<br>In 1910 Geiger investigated the linear relationship between the radius of action (R) and the third power of velocity (v) for alpha particles from various radioactive materials (Geigersche Reichweitegesetz R ~ v<sup>3</sup>) and in 1911 the relation between the half-value period (&#951;) and the radius of action (R) (Geiger-Nuttall rule ln &#951; ~ ln R). During this period Geiger had also observed that some alpha particles were scattered in a thin metal foil in a way which was inappropriate to a statistical scattering based upon multiple scattering. This observation, made together with E. Marsden in 1909, led to Rutherford's nuclear model of the atom (1911) and the so-called Rutherford's scattering formula, which was verified by Geiger and Marsden in 1911&#150;12. Geiger earned such a large reputation in this new field of physics at Manchester that in 1912 he was appointed head of the new laboratory for radioactivity of the Physikalisch-Technische Reichsanstalt (PTR&#151;Physical-Technical Institute) in Berlin and during the following years he made it one of the leading centres in radioactivity and early nuclear physics.<br>
+<br>It was during this Berlin period that Geiger carried out a great deal of metrological work in connection with the establishment of a radium standard and improved his Geiger counter to establish the so-called point counter. This was a detector which made possible much more rapid counting, not only of alpha particles but also of beta particles as well as other types of radiation. With the help of the new counter James Chadwick, who came as Rutherford's student to Geiger in 1913, was able to demonstrate the continuous beta spectrum. After the war Geiger developed, together with Walther Bothe, the coincidence method, the combination of two point counters for the detection of simultaneous events. Using this new precision technique they could test the exact validity of classic conservation principles for single atomic events (1925), which were then called into question by the Compton effect and its statistical interpretation by N. Bohr, H. A. Kramers, and J. Slater. Max von Laue stated that with this work Geiger and Bothe &#145;turned the course of physics from the path of error&#146;  (Laue, 153). In 1920 Geiger married Elisabeth Heffter (1896&#150;1982), daughter of a famous Berlin family of scientists; they had three sons, born in 1921, 1924, and 1927.<br>
+<br>In 1925 Geiger accepted the chair of physics at the University of Kiel. In 1928 he and his student Walther M&uuml;ller developed the counting device for which Geiger is still best known: the Geiger&#150;M&uuml;ller counter. It combined the virtues of the Geiger counter with that of the point counter and became the most important device in nuclear physics and related fields. During the following years Geiger endeavoured to improve this instrument in many studies and applications&#151;for instance for investigations in cosmic ray physics&#151;and led the way in making it a very commonly used piece of equipment. In 1928 Geiger moved to T&uuml;bingen as professor of physics. In 1935 he returned to Berlin as director of the Institute of Physics at the Technical University.<br>
+<br>Besides his scientific work Geiger was a talented and fascinating teacher and also found time for a great deal of literary work: between 1926 and 1933 he was the editor of the <span class="italic">Handbuch der Physik</span> (with K. Scheel) and from 1936 he edited the <span class="italic">Zeitschrift f&uuml;r Physik</span>. Geiger was a member of several scientific societies and academies (Leipzig, 1932; Leopoldina, 1935; Berlin, 1936); in 1929 he was honoured with the Duddell medal of the Physical Society and in 1938 with the Hughes medal of the Royal Society of London. Further, in 1954 Walther Bothe, Geiger's closest colleague at the PTR, was awarded the Nobel prize for the coincidence method of counting particles that Geiger and Bothe had developed together in the mid-1920s. The outbreak of the Second World War and a painful rheumatic condition soon led to a cessation of his research activities. His poor health and the chaotic events of 1945 (his home was damaged by bombs and later occupied by the allies in connection with the Potsdam conference) were instrumental in his early death, on 24 September 1945 in Potsdam. He was buried on 29 September at Neuer Friedhof, Potsdam.<br>
+<br>Dieter Hoffmann </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>H. Geiger, &#145;Memories of Rutherford in Manchester&#146;, <em>Nature</em>, 141 (1938), 244 &middot; H. Geiger, &#145;Some reminiscences of Rutherford during his time in Manchester&#146;, <i>The collected papers of Lord Rutherford</i>, ed. J. Chadwick (1963), 2.295&#150;8 &middot; W. Bothe, &#145;Die Geigerschen Z&auml;hlmethoden&#146;, <em>Die Naturwissenschaften</em>, 30 (1942), 593&#150;9 &middot; M. von Laue, &#145;Nachruf auf Hans Geiger&#146;, <em>Jahrbuch der Deutschen Akademie der Wissenschaften</em> (1950), 150&#150;58 [with bibliography] &middot; J. Chadwick, &#145;The Rutherford memorial lecture, 1953&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51576&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 224A (1954), 436&#150;447, esp. 441&#150;3 &middot; T. J. Trenn, &#145;Geiger, Hans&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51576&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; T. J. Trenn, &#145;The Geiger&#150;M&uuml;ller counter of 1928&#146;, <em>Annals of Science</em>, 43 (1986), 111&#150;35 &middot; F. G. Rheingans, <i>Hans Geiger und die elektrischen Z&auml;hlmethoden 1908 bis 1928</i> (1988) &middot; E. Swinne, <i>Hans Geiger</i><i>: Spuren aus einem Leben f&uuml;r die Physik</i> (1988) &middot; D. Hoffmann, ed., <i>Hans Geiger</i><i>: Studien zu Leben und Werk</i> (1998)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Akademie der Wissenschaften zu Berlin Brandenburg, Berlin
+   &middot;
+ Berlin University
+   &middot;
+ Kiel University
+   &middot;
+ T&uuml;bingen University
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=51576&amp;istheme=&amp;target=U.%20Cam.')">U. Cam.</a>, Rutherford MSS<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, Akademie der Wissenschaften zu Berlin Brandenburg, Berlin &middot; portrait, University of Manchester<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Dieter Hoffmann, &#145;<span class="roman"><span class="headword">Geiger,  Hans </span>  (1882&#150;1945)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/51576, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Hans Geiger (1882&#150;1945): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/51576 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

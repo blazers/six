@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 39459;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/39/39459-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/39/39459-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=39459#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Perry,  John</span>  (1850&#150;1920), <span class="occ">electrical engineer and mathematician</span>, was born on 14 February 1850 at Garvagh, co. Londonderry, the second son of Samuel Perry and his Scottish-born wife. His early education was inauspicious. At the model school in Belfast (1860&#150;64) his persistent failure at first to do any homework led to his being &#145;more caned than praised&#146;  (<span class="italic">Engineering</span>, 110, 1920, 192), though he showed some precocity by gaining a silver medal for proficiency in science. He then spent four years as an apprentice in the drawing office and pattern shops of the Lagan foundry of Coates Ltd in Belfast, while attending evening classes and winning prizes from the Department of Science and Art. After surprising himself by securing a Whitworth exhibition in 1868 (and then again in 1869), he was able to return full-time to the world of learning. He enrolled to study engineering under Professor James Thomson at Queen's College, and graduated early as Bachelor of Engineering in 1870 with first-class honours, a gold medal, and the Peel prize, followed soon afterwards by a Whitworth scholarship.<br>
+<br>Perry's first teaching post as physics and mathematics master at Clifton College, Bristol, commenced in January 1871. Here, in addition to composing his textbook <span class="italic">An Elementary Treatise on Steam</span>, he established the first physics laboratory and the second mechanics workshop in an English school. Although at the age of twenty-one he was a lively and inspirational teacher, he evidently had difficulties upholding discipline; once, overwhelmed by requests from his boys to leave the class, he snapped back, &#145;You may not. You should go out before you come in&#146;  (<span class="italic">Journal of the Institution of Electrical Engineers</span>, 58, 1920, 901&#150;2). From 1874 he was elevated to be honorary assistant to Professor Sir William Thomson (Lord Kelvin), the brother of James Thomson, at the University of Glasgow. After working alongside him in the laboratory for just one year, Perry received Sir William's support in winning his next position&#151;a professorship in civil engineering at the Imperial College in Tokyo.<br>
+<br>This college was a core component of the Meiji administration's plans for a new industrial era in Japan. Both the college and the country's engineering concerns were ultimately to be managed exclusively by the Japanese themselves, with only initial assistance from foreign professors; hence, Perry was employed only for a fixed term, from 9 September 1875 to 8 September 1878. He lectured on steam power, mechanical structures, and hydrodynamics to Japanese student engineers, including those who would later act as his successors. When not teaching he undertook collaborative research with W. E. Ayrton, resulting in the communication of dozens of papers (chiefly on electrical subjects) to British scientific journals. So impressed was James Clerk-Maxwell by Ayrton and Perry's efforts&#151;if not always by their results&#151;that he declared their &#145;scientific energy&#146; threatened &#145;to displace the centre of electrical development &hellip; quite out of Europe and America to a point much nearer to Japan&#146;  (<span class="italic">The Electrician</span>, 2, 1879, 271&#150;2). Perry's brief but highly active period in Tokyo left him with an abiding interest in matters Japanese, particularly in the seismological study of the nation's endemic earthquakes.<br>
+<br>On returning to London in 1879, Perry married Alice (<i>d</i>. 1904), the daughter of Thomas Jowitt of Sheffield. They had no children. Perry was employed to reorganize the machinery of Clark and Muirhead's telegraphic works, and also by the City and Guilds Institute in 1881 as its national examiner in mechanical engineering. In 1882 this institute appointed Perry to its chair of mechanical engineering at Finsbury Technical College, at which Ayrton had earlier been appointed to the chair of applied physics. Here the reunited pair translated their unique Japanese experience of laboratory-based technical education into a rather more frugal English form. In response to the fast-growing electrical light and power industry, Ayrton and Perry also collaborated, until about 1889, in a number of inventions, including the electric tricycle and rather speculative plans for &#145;seeing by electricity&#146;. Among their myriad innovative measuring instruments, the ammeter and voltmeter were the most widely adopted, although by omitting to patent their clock-based domestic power-meter the partnership reputedly lost a substantial fortune. They did enjoy successful patents, however, relating to their magnifying springs for accurate proportional calibration of electrical measurement devices (1883) and their block system for the safe management of multi-vehicle electrical haulage and traction (1882). During this period the pair worked as consultants for the Faure [<i>sic</i>] Accumulator Company, arranged the lighting of the Grand Hotel at Charing Cross, and, with Fleeming Jenkin, co-founded the Telepherage Company. This last venture was established to exploit their collective patents in the &#145;telepherage&#146; system for transporting goods by wires, which came to be widely adopted in the USA.<br>
+<br>Although a busy textbook writer, and an avid reader of novels, Perry enjoyed a vigorous social life. The Perrys' London home was the regular meeting place for some of the most distinguished physicists of the day: Joseph Larmor, Oliver Lodge, and, especially, a fellow Irishman, George Fitzgerald. Perry was thus often at the centre of wide-ranging discussions, relishing the controversies&#151;usually good-natured&#151;into which he was often drawn by his characteristically unorthodox or outspoken views. Although protestant by upbringing, he rarely commented on religious matters, not even in the eirenic pamphlet <span class="italic">On the Age of the Earth</span> that he privately circulated in 1894 as his contribution to the theologically charged battle then raging between Kelvin and the Darwinists. More heartfelt was the complaint succinctly phrased in the title of his 1901 polemic <span class="italic">England's Neglect of Science</span>.<br>
+<br>As professor of mathematics and mechanics from 1896 to 1913 at the Royal College of Science and School of Mines in London (part of Imperial College from 1907), Perry pursued his most colourful campaign: the reform of mathematics teaching. At Finsbury he and Ayrton had developed the pragmatic use of squared paper and mechanical models to teach elementary calculus to engineering students who had little prior knowledge of geometry or algebra. Their successful experience of this approach was epitomized in Perry's series of widely read textbooks, especially <span class="italic">Calculus for Engineers</span> (1896), which went through several editions. Perry persistently fought the prevailing view that a thorough mastery of Euclid was essential for all students of mathematics, contending rather that, for non-specialists, the subject should be taught primarily with a view to its &#145;utility&#146;. The short volume he edited for the British Association for the Advancement of Science in 1901, <span class="italic">Discussion on the Teaching of Mathematics</span>, reveals both the passion of Perry's convictions and the tenor of the opposition that these provoked. His reforming zeal undoubtedly had a major impact on the evolution of mathematical pedagogy in twentieth-century Britain.<br>
+<br>As the culmination of his long-term involvement with the British Association for the Advancement of Science, Perry became its general treasurer in 1904, a year that also saw the death of his wife. On retiring nine years later from active teaching he became a leading member of the South African University Commission. He continued to pursue his interest in spinning tops, a subject on which he had lectured and published often since 1890, and which embodied his wide-ranging concerns from engineering to cosmology. Perry was a member of the Athenaeum and was elected to a fellowship of the Royal Society in 1885; he was also the recipient of many honorary degrees and awards. He died suddenly but peacefully at his London home, 25 Stanley Crescent, Bayswater, on 4 August 1920, and was buried on 8 August next to his wife at Wendover churchyard in Buckinghamshire. An affably disputatious man, Perry was remembered fondly by both allies and one-time opponents. His beaming, leonine, charismatic personality made its mark not only on thousands of engineering students, but also on the Institution of Electrical Engineers and on the Physical Society, of both of which he was an active member and also president (1900&#150;01 and 1910&#150;11 respectively).<br>
+<br>Graeme J. N. Gooday </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>&#145;John Perry&#146;, <em>Cassier's Magazine</em>, 19 (1900), 158&#150;60 &middot; H. H. T. [H. H. Turner], <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39459&amp;istheme=&amp;target=PRS')"><i>PRS</i></a>, 111A (1926), i&#150;vii &middot; H. H. Turner, &#145;Prof. John Perry&#146;, <em>Electrical Review</em>, 87 (1920), 211 &middot; <em>The Electrician</em> (13 Aug 1920), 184&#150;5 &middot; <em>Journal of the Institution of Electrical Engineers</em>, 58 (1920), 901&#150;2 &middot; H. E. Armstrong, &#145;Prof. John Perry&#146;, <em>Nature</em>, 105 (1920), 751&#150;2 &middot; <em>Engineering</em> (6 Aug 1920), 192 &middot; D. W. Jordan, &#145;The cry for useless knowledge: education for a new Victorian technology&#146;, <em>IEE Proceedings</em>, A132 (1985), 587&#150;601 &middot; S. Hong, &#145;Controversy over voltaic contact phenomena, 1862&#150;1900&#146;, <em>Archive for History of Exact Sciences</em>, 47 (1994), 233&#150;89 &middot; W. H. Brock and M. H. Price, &#145;Squared paper in the nineteenth century&#146;, <em>Educational Studies in Mathematics</em>, 11 (1980), 365&#150;81 &middot; J. D. Burchfield, <i>Lord Kelvin and the age of the earth</i> (1975) &middot; G. Gooday, &#145;The morals of energy metering&#146;, <i>The values of precision</i>, ed. M. N. Wise (1995), 239&#150;82 &middot; &#145;The mechanics laboratory of the Imperial College of Science and Technology&#146;, <em>Nature</em>, 78 (1908), 128&#150;9<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39459&amp;istheme=&amp;target=ICL')">ICL</a>&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39459&amp;istheme=&amp;target=CUL')">CUL</a>, Kelvin collection, Add. MS 7342<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <i>c.</i>1875, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39459&amp;istheme=&amp;target=ICL')">ICL</a>, archives &middot; Elliott &amp; Fry, photograph, <i>c.</i>1900, repro. in &#145;John Perry&#146;, <em>Cassier's Magazine</em>, frontispiece of Dec issue &middot; A. Tear, photograph, <i>c.</i>1910, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39459&amp;istheme=&amp;target=ICL')">ICL</a>, archives, supplement to Old Students Association Magazine &middot; photograph, <i>c.</i>1920, repro. in Turner, <i>PRS</i>, facing p. i &middot; silver medal (Perry memorial medal), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=39459&amp;istheme=&amp;target=ICL')">ICL</a>, archives<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;10,343 18<i>s</i>. 5<i>d</i>.: probate, 4 Oct 1920, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Graeme J. N. Gooday, &#145;<span class="roman"><span class="headword">Perry,  John</span>  (1850&#150;1920)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2009 [http://www.oxforddnb.com/view/article/39459, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Perry (1850&#150;1920): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/39459 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/39459/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

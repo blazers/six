@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50019;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50019-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50019-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50019#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">John</span> <span class="st"> [<em>called </em>John the Scot]</span>  (<em>d.</em> 1203), <span class="occ">bishop of St Andrews and of Dunkeld</span>, was probably identical with John, nephew of Robert (<i>d</i>. 1159), bishop of St Andrews, and was certainly the nephew of Matthew of Kinninmonth, archdeacon of St Andrews and bishop of Aberdeen (1172&#150;99). If he was Robert's nephew, his early career was passed in the <i>familia</i> of that bishop; he was absent during the episcopate of Arnald (1160&#150;62), perhaps in the schools of Oxford or Paris, but returned under Richard (1165&#150;78), when his father or uncle, Odo, was steward to the bishop and the priory of St Andrews.<br>
+<br>The uncertainties end in 1178, when, speedily after the death of Bishop Richard, John was elected bishop by the canons of the priory, to the fury of the king, William the Lion, who secured the election of his chaplain Hugh (probably by the &#145;Culdee&#146; chapter). John, evidently in Scotland, appealed to the curia, and after the consecration of Hugh at St Andrews, went to Rome where Alexander III quashed the election of Hugh and removed him from administration of the see. But Hugh had been consecrated bishop, and John had not. To sort matters out a legate, Alexius, held a synod under the protection of Henry II's garrison in Edinburgh Castle, negotiated with King William (who was unyielding), deposed Hugh, and on 15 June 1180 had John consecrated in Holyrood Abbey by, among others, his uncle Matthew and Hugh, bishop of Durham.<br>
+<br>It is uncertain how long they remained in Edinburgh, but Alexius certainly laid the diocese of St Andrews under interdict, while William roughed up John's supporters and burned the property of Bishop Matthew, who fled, along with others. As this party crossed to Normandy to seek help from Henry II, who sent for William, Hugh went to Rome with an appeal. In the second quarter of 1181 Henry II, John, and William met, probably fruitlessly, for the settlement said to have been reached was the chronicler's anticipation of that proposed in 1182. Hugh, meanwhile, was unsuccessful with the pope, who appointed the archbishop of York as legate in Scotland, ordering him to secure St Andrews for John, if necessary by interdict of the kingdom and excommunication of the king, who at the same time was warned that the pope's exclusion of York's authority from Scotland by the bull <span class="italic">Super anxietatibus</span> in 1176 could be reversed if William persisted in his &#145;violence&#146;.<br>
+<br>Unaware of these papal moves, the king returned through England, meeting again with John and Bishop Hugh of Durham at Redden on the Border. That they quarrelled bitterly over admitting John to Scotland is evidence that there had been no settlement in Normandy; John excommunicated some of William's household, and when the bishop of Durham summoned the clergy of St Andrews, and Archbishop Roger of York the bishops of Scotland, to come to John and profess obedience to him, King William seized the goods of, and exiled, those who responded. The archbishop, a sick man, now pronounced the excommunication of the king and an interdict on the kingdom, but without validity if after the death of Alexander III on 30 August 1181; Roger himself died in November 1181. The way was open for &#145;compromise&#146;.<br>
+<br>In the winter of 1181&#150;2 King William the Lion sent an embassy headed by Bishop Jocelin of Glasgow to the curia, where their and Hugh's persistence (he had been at the curia for two years) persuaded Pope Lucius III to lift the sentences on 17 March 1182, send the golden rose to King William as a mark of favour, and appoint two legates, once again to sort matters out and, if a mistake had been made, to restore Hugh. It is not known where the legates met the king, nor in what circumstances, but it may be relevant that Hugh had returned to Scotland, while John, exiled since 1180, could go no further north than Roxburgh and its English garrison. The settlement agreed between the legates and king in the summer of 1182 was that both John and Hugh should resign St Andrews, that John should have the see of Dunkeld, the king's chancellorship, 40 merks from the revenues of St Andrews, and restoration of his personal income; if this was not enough, Hugh was to resign St Andrews and receive Glasgow, a proviso which suggests that Bishop Jocelin of Glasgow was intended for St Andrews, and that he had brokered the deal.<br>
+<br>It was not to be. John accepted, and King William reneged, asking that Hugh should keep St Andrews; but the legates refused to dishonour the deal. King William then asked John to come to talk to him, but even when offered sureties for his safety &#145;he would never come to the king unless first [the prelates and nobles] would swear that the king would observe all those things which had been offered to him by [the legates]&#146;  (Anderson, <span class="italic">Scottish Annals</span>, 285). Hugh, aware how weak his position was, now appealed to Rome, and the two were told to appear there on 1 October 1182. By June 1183 the settlement wanted by the king had been achieved at the curia. Both men were induced to resign the see, which the pope conferred upon Hugh, while Dunkeld and some revenues were given to John. Sold short, John could do no more; with Hugh he returned to take up office, and for three years blessed peace descended.<br>
+<br>But John was not made chancellor (this was not in the pope's gift, and why should William pay his stake after he had won the game?), and somehow, back in Italy with Hugh by mid-1186, with his friends in Scotland under attack, John persuaded Urban III to allow the case of St Andrews to be reopened in July. He and Hugh went back to Scotland to collect evidence, but only John returned to Rome in 1187, securing the removal of Hugh from office probably in early January 1188. But having gone back to Scotland with bulls which recognized him and ordered his restoration as bishop of St Andrews, John's persistence then collapsed; Roger Howden offers only <span class="roman">Proverbs</span> 17:1, &#145;better is a morsel of bread with joy than a house full of sacrifices with strife&#146;  (Anderson, <span class="italic">Scottish Annals</span>, 298n.), as explanation of his throwing in his hand&#151;for that is what he did. In return for the king's &#145;mercy&#146; he gave up St Andrews and received Dunkeld again with his revenues but without the chancellorship. Hugh went to Rome to obtain absolution and restoration and to die in a Roman plague in 1188. In the following year John stood by while the king secured the election of Roger of Leicester to the see of St Andrews.<br>
+<br>John now served for some fourteen years as bishop of Dunkeld, and may have acted also in his old diocese: Roger was not consecrated bishop until 1198, so John led at the consecration of Reginald, bishop of Ross, at St Andrews on 10 September 1195 and his family remained well dug in at St Andrews. His most striking act as bishop, however, was to renounce the western part of his diocese, because he did not understand the language of its people, who knew only their (presumably) Gaelic mother tongue; his chaplain Harald, it was said, became first bishop of Argyll. Argyll certainly appears as a diocese by <i>c</i>.1220, but there is a certain improbability about the suggested motives, which do not fit with John's devotion to his own rights. It may be that a secular lord of Argyll (perhaps Reginald, son of Somerled) secured the new diocese from the pope.<br>
+<br>John died in 1203, supposedly at Newbattle Abbey where he was buried, having taken the Cistercian habit there. The doubt arises because this statement, along with the claim that he was born at Podoth, now Little Budworth in Cheshire, and his renunciation of Argyll, comes from Bower's <span class="italic">Scotichronicon</span>, which may have used a life, now lost, of John written by William of Binning, prior of Newbattle and later abbot of Coupar Angus. How far Binning confused John with John of Leicester, bishop of Dunkeld (1211&#150;14), cannot now be discovered, but Bower makes John the Scot archdeacon of St Andrews, in error for John of Leicester. John remains an enigmatic figure, a valiant pigmy in the time of the giant Pope Alexander III; until the compromise of 1183 he stood sensibly for ecclesiastical liberty against royal interference in the church, anxious as much to exclude Hugh as to install himself. The failure of that compromise by 1186 makes his surrender in 1188 the more remarkable&#151;but it might be better understood were William the Lion's version of events known. Certainly John was not of the stuff of martyrs, but was willing to put his family and supporters through many difficulties for the sake of his canonical rights.<br>
+<br>A. A. M. Duncan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>O. Engels and others, eds., <i>Series episcoporum ecclesiae Catholicae occidentalis</i>, 6th ser., 1, ed. D. E. R. Watt (1991), 46&#150;7, 87&#150;9 &middot; J. Dowden, <i>The bishops of Scotland &hellip; prior to the Reformation</i>, ed. J. M. Thomson (1912), 8&#150;10, 51 &middot; G. W. S. Barrow, &#145;The early charters of the family of Kinninmonth of that Ilk&#146;, <i>The study of medieval records</i><i>: essays in honour of Kathleen Major</i>, ed. D. A. Bulloch and R. L. Storey (1971), 107&#150;31 &middot; A. O. Anderson, ed., <i>Scottish annals from English chroniclers, <span class="smallcap">AD</span> 500 to 1286</i> (1908), 271&#150;304 &middot; A. O. Anderson, ed. and trans., <i>Early sources of Scottish history, <span class="smallcap">AD</span> 500 to 1286</i>, 2 (1922), 157, 299&#150;306, 343 &middot; A. A. M. Duncan, <i>Scotland</i><i>: the making of the kingdom</i> (1975), vol. 1 of <i>The Edinburgh history of Scotland</i>, ed. G. Donaldson  (1965&#150;75), 270&#150;77 &middot; W. Bower, <i>Scotichronicon</i>, ed. D. E. R. Watt and others, new edn, 9 vols. (1987&#150;98), vol. 4<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> seal, Darnaway Castle, Morayshire, Moray charters, box 32, divn V, bundle II, no.42<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. A. M. Duncan, &#145;<span class="roman"><span class="headword">John</span> [John the Scot]  (<em>d.</em> 1203)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50019, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ John [<em>called </em>John the Scot] (<em>d.</em> 1203): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50019 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

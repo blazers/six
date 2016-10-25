@@ -1,0 +1,437 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 13102;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/13/13102-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/13/13102-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=13102#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=13102&amp;orientation=p')"><img border="0" alt="  William Herschel (1738&#150;1822), by Lemuel Francis Abbott, 1785" onmouseover="status='  William Herschel (1738&#150;1822), by Lemuel Francis Abbott, 1785'" src="/images/article-imgs/13/13102_1_200px.jpg"></a><span class="imagecaption"><b>  William Herschel (1738&#150;1822)</b>, by Lemuel Francis Abbott, 1785</span>
+</div>
+<div class="para">
+<span class="headword">Herschel,  William</span>  (1738&#150;1822), <span class="occ">musician and astronomer</span>, was born at Hanover on 15 November 1738, and baptized Friedrich Wilhelm. He was the fourth of the ten children (and the third of six to survive infancy) of Isaac Herschel (1707&#150;1767), a former gardener who was then an oboist in the Hanoverian foot guards, and his wife, Anna Ilse Moritzen. All the children, except the eldest, inherited their father's musical talent; and, although the family lived in humble circumstances, the boys were encouraged to take a lively interest in scientific and philosophical questions. Herschel attended the garrison school, where he proved an apt pupil.<h2>
+<a name="Themusician"></a>The musician</h2>At the age of fourteen Herschel followed his father into the band of the guards, after passing a test on the violin and oboe. His salary helped to pay for lessons in French. In 1756 the guards were stationed for some months in England, where Herschel took the opportunity to learn the language and purchased a copy of Locke's <span class="italic">Essay on Human Understanding</span>. The guards were then recalled to Hanover, and in July 1757 were heavily defeated in the battle of Hastenbeck. On his father's advice the young Herschel quit the scene and fled to Hanover, where he found himself in danger of being pressed into service as a soldier. He therefore returned to his regiment, to find no one interested in a boy bandsman. His father proposed that he leave for England; he was not under oath, and his father undertook to secure his formal discharge, a promise he fulfilled in 1762.<br>
+<br>William Herschel, as he called himself when he settled in England, arrived in London in company with his elder brother Jacob, with<blockquote>not half a Guinea in the world. He went to a music shop in town and asked to write music. An opera was put into his hands to copy, and he returned it with such dispatch as amazed his employer, who from that time kept him in full employ till he found a more profitable line of labour. (<span class="italic">Scientific Papers</span>, 1.xvi)</blockquote>After a couple of years Herschel came to the conclusion that London was overstocked with musicians, and so he accepted an invitation to take charge of the little band of the Durham militia. His talents were quickly recognized, and he was soon in demand as a performer and teacher across the north of England. He now began to compose music, and by the end of 1760 had completed six symphonies. In due course his <span class="italic">Eccho Catch</span> and <span class="italic">Six Sonatas for the Harpsichord with Violin and Cello Obbligato</span> were published. A considerable number of his works survive in manuscript: the instrumental ones include several symphonies, and concertos for oboe, violin, and viola, along with two concertos and other pieces for organ. They are judged to display &#145;strong concern for formal structure but limited inspiration&#146;  (<span class="italic">New Grove</span>).<br>
+<br>In August 1766 Herschel successfully competed for the post of organist of Halifax parish church, when he produced a pleasing volume of sound by placing lead weights on the lowest key and on the key an octave above, and improvised a suitable harmony with his two hands. His musical career was now proving embarrassingly successful, for only a few days earlier he had been offered the post of organist at the new Octagon Chapel in Bath. After some hesitation, in October Herschel gave notice of resignation from his Halifax post. He was immediately offered an increased salary to stay, but was not to be persuaded, and he arrived in Bath before the year's end.<br>
+<br>By now he had learned some Italian, as the knowledge would be of use in music. With Herschel one thing led to another: from Italian he passed to Latin, and even to Greek. By the same token, he had studied the mathematical theory of harmony in the <span class="italic">Harmonics</span> of Robert Smith, lately professor of astronomy at Cambridge, and from this he passed to other works in mathematics, and to Smith's <span class="italic">Opticks</span>. Herschel's father had long ago introduced his children to the stars, and in <span class="italic">Opticks</span> Herschel learned not only about the theory of the subject, but also how to construct telescopes, and something of what might be seen in the heavens with the finished instruments. Early in 1766 his memoranda include entries that read: &#145;Observation of Venus&#146;, and &#145;Eclipse of the moon&#146;.<br>
+<br>At Bath Herschel's musical career blossomed. He accepted an invitation to join the musicians who played in the Pump Room and elsewhere, he took innumerable pupils, and he was much involved in the staging of <span class="italic">Messiah</span> and other oratorios. Before long his annual income was in excess of &pound;300.<br>
+<br>Bath now proved a magnet for Herschel's siblings. In 1767 his brother Jacob arrived and stayed for two years; in 1768 Dietrich came for a year; and in 1770 Alexander arrived and put down his roots. But his sister Caroline [<i>see </i><script>writeSeealsoLink('../view/article/13100/', "Herschel, Caroline Lucretia")</script>] was languishing in Hanover, a drudge in the family household. Herschel proposed that she join him in Bath, train as a singer, and collaborate in his concert work. There was family opposition, but Herschel visited Hanover in August 1772 and brought Caroline back with him to Bath.<h2>
+<a name="Theamateurastronomer"></a>The amateur astronomer</h2>Herschel's musical duties were now competing with what was fast becoming an obsession for astronomy. That spring he bought a copy of James Ferguson's celebrated <span class="italic">Astronomy</span>, along with a quadrant and components for telescopes. His sister had hoped to see more of him with the ending of the season:<blockquote>But I was greatly disappointed; for, in consequence of the harassing and fatiguing life he had led during the winter months, he used to retire to bed with a bason of milk or glass of water, and Smith's <span class="italic">Harmonics</span> and <span class="italic">Optics</span>, Ferguson's <span class="italic">Astronomy</span>, etc., and so went to sleep buried under his favourite authors; and his first thoughts on rising were how to obtain instruments for viewing those objects himself of which he had been reading. (<span class="italic">Memoir and Correspondence of Caroline Herschel</span>, 34&#150;5)</blockquote>He experimented with refractors, but these had to be of excessive length in order to minimize the effect of chromatic aberration, while the lenses themselves were severely limited in size by the available glass technology. He therefore hired a small reflector. This was encouragingly convenient to handle, but its &#145;light-gathering power&#146; was wholly inadequate for Herschel's ambitions. Conventionally trained astronomers saw it their business to examine the individual members of the solar system and to monitor their movements against the largely unchanging background of the stars. Herschel, knowing no better, set out to investigate the large-scale structure of the universe, what he termed &#145;the construction of the heavens&#146;; and for the study of distant and faint objects he would need reflectors with massive mirrors to collect as much light as possible.<br>
+<br>In September 1773 Herschel had his first disc cast, and, guided by Smith's <span class="italic">Opticks</span>, set about shaping and polishing it with some second-hand tools he had bought. For the rest of the decade, much of the time not occupied by his round of musical engagements was devoted to the grinding and polishing of telescopic mirrors. As the eager experimentation proceeded, Herschel gradually became a craftsman without peer in the construction of sizeable reflecting telescopes. To her sorrow, Caroline saw almost every room turned into a workshop.<br>
+<br>A large reflector had three features of fundamental importance: a mirror of speculum metal, ideally of parabolic shape, that would reflect the incident light back to a focus; an eyepiece, in effect a microscope with which to inspect the image; and a wooden mounting, to permit the observer to direct the telescope in the desired direction and then to look through the eyepiece. Herschel's fundamental advance in the mounting was to come later; for the present he contrived a simple stand for the smaller instruments, and slung from a pole in rudimentary fashion the reflector of 20 foot focal length that he completed in 1776. In making his eyepieces he found no difficulty in obtaining magnifications of hundreds, and even thousands, exceeding in this the ambitions of most contemporary opticians. But it was in the grinding and polishing of mirrors that Herschel proved the supreme craftsman. His limitless energy encouraged an unsophisticated approach: the production of great numbers of mirrors, and the selection of the most successful for use in his telescopes.<br>
+<br>For several years word of this extraordinary organist-astronomer had been spreading among friends of his neighbours and pupils, and in 1777 Herschel had been visited by Nevil Maskelyne, the astronomer royal, and by Thomas Hornsby, professor of astronomy at Oxford. His scientific isolation ended in December 1779, when a passer-by, Dr William Watson FRS, saw Herschel observing in the street and asked to be allowed to look through his telescope. The two became close friends, and Watson proved a faithful ally. A society, the Bath Literary and Philosophical Society, was being formed &#145;for the purpose of discussing scientific and phylosophical subjects and making experiments to illustrate them&#146;  (Porter, 30), and Watson drafted Herschel&#151;&#145;optical instrument maker and mathematician&#146;&#151;to be a founder member. During the next fifteen months he furnished the Bath society with some thirty-one papers on a variety of subjects. Four of them were communicated by Watson to the Royal Society in London and published in <span class="italic">Philosophical Transactions</span>.<br>
+<br>By 1781 Herschel's ambitions for large mirrors to see further into space had outrun even the capacities of the local foundries to cast the blanks. He therefore converted the basement of his home into a foundry, at first with the intention of casting a mirror that would have been a staggering 4 feet in diameter. He later reduced this to 3 feet, but even so the mirror would have been the largest in the world. Not only the family but eminent visitors were pressed into service to pound the horse dung required for the mould. Unfortunately, the first mirror cracked on cooling, and in the second casting the mould fractured and the molten metal spilled out over the flagstones, with near-fatal consequences for Herschel and his brother.<br>
+<br>Meanwhile Herschel found time for an occasional look at the heavens. In March 1774 he began his first observing book, and on the opening page he drew a sketch of the Orion nebula, remarking that the shape of this &#145;lucid spot&#146; was not as delineated by Smith in his <span class="italic">Opticks</span>. He was quick to see the momentous implications that would result if the change was confirmed by careful observation. A list of six of the milky patches in the sky known as &#145;nebulae&#146; had been published by Edmond Halley in 1715. Halley believed them to be clouds of a lucid medium that Herschel would later term &#145;true nebulosity&#146;. Others thought them star clusters so distant that the individual stars could not be distinguished with the available instrumentation. But a distant star cluster that nevertheless appeared to be spread across the sky would be vast indeed, too vast to alter shape noticeably in only a few decades. A change in the shape of the Orion nebula, therefore, would show it to be formed, not of stars, but of true nebulosity.<h2>
+<a name="ThediscoveryofUranus"></a>The discovery of Uranus</h2>In the 1770s Herschel several times observed the Orion nebula, and became convinced that it was indeed changing shape. But as a novice observer he faced the more urgent task of familiarizing himself with the brightest stars of the night sky. After examining in turn each of the brighter stars, in August 1779 he embarked on a second and more thorough &#145;review&#146;. This led him on 13 March 1781 to examine stars in the constellation Gemini, where he came across one whose appearance instantly struck him as &#145;curious&#146;. Returning to it a few days later, he found that it had altered position: it was not a distant star, but a nearby member of the solar system, presumably&#151;since it was not one of the known planets&#151;a comet.<br>
+<br>Herschel at once informed Maskelyne and Hornsby, but neither could see anything unusual in that part of the sky. When eventually Maskelyne identified the object by its movement, he suspected it might in fact be a planet, and after its orbit had been calculated this indeed proved to be the case. Herschel thus became the first person in history to discover a planet of the solar system.<h2>
+<a name="Pensionerofthecrown"></a>Pensioner of the crown</h2>Worldwide fame quickly followed. In November 1781 Herschel was presented with the Copley medal of the Royal Society; the following month he was elected a fellow and, in a pleasing gesture, was exempted from the normal annual payment on the grounds that the money saved would be spent on science. More significantly, the discovery gave Herschel's allies at the English court the opportunity to lobby George III&#151;himself a Hanoverian&#151;on Herschel's behalf. In 1769 the king had established an observatory at Kew, and the incumbent observer, S. C. T. Demainbray, was now advanced in years. Herschel seemed to Sir Joseph Banks, president of the Royal Society and confidant of the king, to be a suitable successor, though it transpired that the king had promised the post to Demainbray's son. Nevertheless, in April 1782 Herschel was told that the king wished to see him, and on 20 May he packed up the 7 foot reflector with which he had discovered the planet and set off for London. The king then ordered the telescope to be set up at the Royal Observatory, Greenwich, where it remained throughout June, giving Maskelyne and other astronomers ample opportunity to compare it with the professionally made observatory instruments. Of Herschel's supreme skill as a maker of reflecting mirrors and eyepieces there could no longer be any question. &#145;Double stars which they could not see with their instruments I had the pleasure to show them very plainly&#146;  (Lubbock, 115).<br>
+<br>At the beginning of July, Herschel was at Windsor, showing planets to the royal family. Shortly thereafter it seems he made an application for financial support from the crown, and was immediately offered a pension that would make him independent of music. It was not a large amount: &pound;200 yearly, much less than he was earning from music, but attractive enough compared to the &pound;300 paid to the holder of the onerous post of astronomer royal. His only duties were to reside near Windsor Castle and be available to show the heavens to the royal family when asked to do so. This transformation in Herschel's life would also mean the end of Caroline's career in music; but it never occurred to her brother to consult her before accepting.<br>
+<br>Long before, Galileo had cemented his relationship with his Medici patrons by giving their name to his newly discovered satellites of Jupiter. Herschel, under advice, named his planet after the king; but continental astronomers resisted this departure from tradition, and the name Uranus was adopted, although Herschel himself always referred to it as the Georgian Planet.<br>
+<br>At the end of July, Herschel returned to Bath and with precipitate speed organized the move to Datchet, near Windsor, where he had taken a house that was in ruinous condition but had the space he needed for all his apparatus. By 5 August he was making observations there, and by 22 August Caroline found herself under orders to sweep for comets. For a time the royal family not infrequently exercised their right to require Herschel's presence at Windsor of an evening. This involved him in transporting a telescope there in the daytime, and back home again in the darkness. He then had to set up the telescope for the night's serious work, for he was now engaged in a third review of the heavens.<br>
+<br>The third review, like the second, had a subsidiary aim of great significance: the search for double stars. Herschel knew from Galileo of a method whereby observations of a double star&#151;two stars that lie in almost the same direction from earth and so appear at first glance to be a single star&#151;might be used to circumvent some of the daunting obstacles confronting any astronomer who wished to measure the distances of stars. As a contribution to this method he published in 1782 a list of 269 double stars, no fewer than 227 of which he had found himself, and in 1785 a further list of 434. The consequences were very different from those he intended. In 1784 John Michell pointed out in print (for the second time) that double stars were far too numerous to be explained as resulting from chance alignments, that is, virtual coincidences of the directions of the two members of a double as seen from earth. Instead, most doubles must be binary stars, companions in space lying at the same distance from earth, and therefore useless for Galileo's method. And when, after an interval of two decades, Herschel re-examined a number of his doubles, he did indeed find several in which the two stars had moved in orbit around each other, so confirming that they were companions bound together by attractive forces.<br>
+<br>In collecting double stars, Herschel imported into astronomy the methodology of the natural historian: he had become a gatherer and classifier of astronomical specimens. Contemporaries found this hard to accept. Herschel had from the start been a controversial figure, a rank amateur unfamiliar with the niceties of scientific discourse, and an observer incapable of giving a coherent definition of the position of a new planet when he had been lucky enough to find one. The draft of his paper on mountains on the moon had included highly inappropriate speculations about lunar inhabitants, while his claims to have eyepieces that magnified thousands of times had seemed nothing short of lunatic. Now he was turning a physical science into a biological one.<br>
+<br>Friends such as Watson did their best to coach their prot&eacute;g&eacute; in the scientific conventions and to defend him against detractors. Meanwhile, at Datchet, Caroline was having no luck in detecting new comets, but she was encountering a significant number of nebulae. Herschel began himself to sweep for nebulae with a small refractor, before it occurred to him that they were permanent features of the night sky, and so should be tackled without haste, and with the most powerful instrumentation that Herschelian ingenuity could contrive. And he was now completing a 20 foot reflector with 18 inch mirrors and, more significantly, a stable and convenient mounting.<h2>
+<a name="Theconstructionoftheheavens"></a>The construction of the heavens</h2>The &#145;large&#146; 20 foot came into service in October 1783, and Herschel embarked on a systematic search of the skies visible from Windsor that was to take him and Caroline two decades to complete. By the end of the year a suitable technique of &#145;sweeping&#146; had been devised. With the telescope facing south, Herschel stood on the platform laying an ambush for any nebula that might drift into the field of view as the skies turned overhead, while his sister was indoors at a desk near an open window ready to write down its position and description. The telescope, whose field of view was typically &frac14;&deg; in diameter, was constantly being raised and lowered a little by a workman, so that each &#145;sweep&#146; covered a strip of sky some 2&deg; wide. In an observational campaign that is second to none in the history of astronomy, brother and sister increased the number of known nebulae from about a hundred to 2500.<br>
+<br>Herschel's earliest observations of the Orion nebula had suggested that the object altered shape and so was a small nearby cloud of &#145;true nebulosity&#146;. But how to distinguish true nebulosity from the appearance of nebulosity generated by a vast, distant star cluster? Herschel decided that the apparent nebulosity of a star cluster was irregular or &#145;mottled&#146;, while true nebulosity was uniform or &#145;milky&#146;. He discussed his current programme in &#145;Account of some observations tending to investigate the construction of the heavens&#146;, read before the Royal Society in June 1784. In this remarkable paper he also initiated the method of stellar statistics that is fundamental in modern astronomy. Like several mid-century speculators, Herschel believed that the Milky Way seen in the sky is the optical effect of the earth's immersion in a layer of stars (the galaxy). But Herschel wished to know the actual shape of the galaxy, and for this the earth's interior location is most unhelpful. He saw that he could make progress on the question if he made two assumptions: first, that his telescope could reach to the borders in every direction (for unless this was so the task was hopeless), and, second, that within the galaxy the volume of space was uniformly stocked with stars. The second assumption implied that, the more stars that could be counted in a given field of view, the greater the distance to the border of the galaxy in that direction. It was, of course, an assumption that was not strictly true; Herschel hoped it would be true enough for his purposes.<br>
+<br>In a second paper, published in 1785, Herschel gave the results of his star counts to date. So much of his time was taken up with sweeping that he could offer no more than a sample of star counts; but he listed the results for a great circle of the sky, and sketched the resulting cross-section of the galaxy. In later years he abandoned both the assumptions on which the sketch was based: with more powerful telescopes he found he was able to see stars invisible in the 20 foot, while increasing familiarity with star clusters convinced him that the assumption of uniform distribution was seriously misleading. But for much of the nineteenth century, for want of anything to put in its place, writers were to reproduce the sketch that had been disowned by its author.<br>
+<br>No sooner had the 1784 paper been read than Herschel came across two nebulae in which he could see both milky and mottled nebulosity; indeed, in the second nebula he believed he could see stars as well. While stubborn in the face of criticism from others, Herschel was very ready to reform his own ideas, and he now concluded that he had been over hasty in accepting the existence of true nebulosity and that all nebulae were indeed distant star clusters: mottled nebulosity indicated the presence of a star cluster only just too far away for his telescope to &#145;resolve&#146; the cluster into its component stars, while milky nebulosity revealed the presence of innumerable stars at a very much greater distance. The supposed changes he had observed in the Orion nebula he now chose to ignore.<br>
+<br>But clustering implied the action of attractive forces: the more dense the cluster, the longer attractive forces had been at work on it. And so Herschel arrived at the revolutionary concept of the age of a star cluster. In the 1785 paper he described how a widely scattered collection of stars would eventually condense into clusters, and these would become more and more concentrated as time went on. His contemporaries were once more at a loss: not only was the methodology revolutionary, but only Herschel, with his 20 foot reflector, had access to the evidence.<br>
+<br>A further paper on the construction of the heavens followed in 1789, but the following year Herschel's identification of nebulae with star clusters received a fatal blow. On 13 November he was sweeping as usual when he came across &#145;A most singular phaenomenon&#146;, a star surrounded by &#145;a faint luminous atmosphere&#146;  (<span class="italic">Scientific Papers</span>, 1.421&#150;2). It was in fact an unusually near example of a type of object that Herschel had discovered and termed &#145;planetary nebula&#146;, with a disc like a planet but pale light like a nebula. In the 1790 example Herschel could see a central star, and he at once concluded that the star was condensing out of the surrounding cloud of nebulosity.<br>
+<br>The impact on Herschel's theorizing was dramatic. He had previously viewed the earth's galaxy as one among many; for if (say) the Orion nebula was so distant that the component stars could not be seen, and yet it occupied so much of the sky, it must be vast indeed, and &#145;may well outvie our milky-way in grandeur&#146;  (<span class="italic">Scientific Papers</span>, 1.255). Now it reverted to being a cloud of nearby and changeable nebulosity, a minor component within the galaxy.<br>
+<br>More importantly, the evolutionary process among star clusters had to be extended backwards in time. In a series of papers published towards the end of his life, Herschel pictured the process as beginning with widely diffused nebulosity that gradually condensed, here and there, into clouds, out of which in time stars began to be born, to form star clusters. As time went on these condensed more and more&#151;perhaps ending in a cataclysmic gravitational collapse that would contribute to the cycle beginning all over again. Each stage in this theoretical picture Herschel illustrated with examples from his catalogues of nebulae and star clusters, remarking that the difference between one stage and the next was perhaps less than there would be &#145;in an annual description of the human figure, were it given from the birth of a child till he comes to be a man in his prime&#146;  (<span class="italic">Scientific Papers</span>, 2.460).<br>
+<br>Until 1786 there is no hint to be found in Herschel's life of romantic attachments. But that year his friend and neighbour John Pitt died, leaving a widow, Mary (1762/3&#150;1832?), and two years later, on 8 May 1788, William and Mary (<i>n&eacute;e</i> Baldwin) were married. Their only child, <script>writeSeealsoLink('../view/article/13101/', "Sir John Frederick William Herschel")</script>, was born in 1792. Mary was of serene and pleasant nature, and brought with her money enough to relieve the pressure on her husband to supplement his income by the manufacture of telescopes for sale. The pace of life slackened, and in the years to come holidays away from Slough became a regular event.<br>
+<br>In 1785 Herschel had requested royal funding for the monster reflector he had long coveted. In the event he received two grants of &pound;2000 each, with &pound;200 per annum for running costs, and Caroline was also given a small pension. Herschel had invited the king to choose between an instrument of 30 foot focal length and one of 40 foot. The king, not surprisingly, opted for the larger size, but this proved to be an unfortunate choice. Towards the end of the century Herschel was to build for the king of Spain a 25 foot, with 2 foot mirrors, and in trials at Slough this reflector proved an outstanding success: Herschel's technology was equal to a challenge on this scale. But the monster he built for himself proved of limited use. He found the tube cumbersome to manage, and the 4 foot mirrors, weighing many hundredweight, had to be made of an unusual alloy to prevent their deforming under their own weight when tilted in use. As a result they tarnished easily.<br>
+<br>In any event, a prime purpose of the telescope had doubtless been to endorse Herschel's identification of nebulae with star clusters, by &#145;resolving&#146; additional nebulae into their component stars, and the Orion nebula was the first object he examined with the unfinished instrument. But within months of the completion in 1789 Herschel changed his mind and decided that true nebulosity existed after all. Supervising the mammoth construction task had absorbed a disproportionate amount of his energies; and, although the instrument was visited by kings and archbishops as well as continental astronomers, a wonder of the age worthy of indication on the Ordnance Survey map, it proved a disappointment.<h2>
+<a name="Thesolarsystemandnearbystars"></a>The solar system and nearby stars</h2>Except for a token paper that Herschel published in extreme old age as first president of the Astronomical Society, all his researches appeared in <span class="italic">Philosophical Transactions</span>, to whose pages he acquired almost automatic right of access. Many of his papers concerned the solar system. He argued that, when looking at the sun, observers see, not the surface of the star, but its luminous outer atmosphere, through gaps in which are seen (as &#145;sunspots&#146;) portions of the cool inner atmosphere that shields the inhabitants of the planet-like body of the sun from the heat of the outer atmosphere. He discovered two satellites of Uranus in 1787, after he had contrived to dispense with the secondary mirror of the 20 foot in its normal, Newtonian configuration and so avoid the loss of light that this entailed; instead, he tilted the primary mirror slightly and positioned the eyepiece inside the end of the tube, so that he stood with his back to the sky, looking directly at the image formed at the focus. In 1798 he made the astonishing announcement that the motion of the two satellites was retrograde. He subjected Saturn to frequent examination, and in 1789 discovered the satellites Mimas and Enceladus. When the supposed planets Ceres and Pallas were discovered on the continent after the turn of the century, he showed that they were far too small to be considered planets, and proposed instead the name &#145;asteroid&#146;.<br>
+<br>In 1783, in an exercise of analysis carried out at his desk, Herschel claimed to have identified the direction in which the entire solar system is travelling. It was a masterly analysis, though the striking similarity of his direction to that of modern astronomy is partly a matter of luck. In the late 1790s he put the study of variable stars onto a sound observational basis by publishing catalogues in which the brightness of a given star of a constellation was compared to that of stars of very similar brightness in the same constellation, so that a future change in the brightness of the given star would reveal itself by disturbing the published comparisons. In 1800 he discovered infra-red rays from the sun; and he more than once passed the light of stars through a prism, though he could of course offer no explanation of the spectra thus obtained. Between 1807 and 1810, deaf to all advice, he published three long and misguided papers entitled &#145;Newton's rings&#146;.<h2>
+<a name="Finalyearsdeathandreputation"></a>Final years, death, and reputation</h2>As he moved into his later seventies, the consequences of the long nights spent in the 1780s and 1790s observing in the cold and damp began to take increasing toll on Herschel's health, and in 1816 he persuaded his son John to abandon his career as a Cambridge don and return home, so that he could pass his astronomical skills and experience on to him before it was too late. John accepted the completion and revision of his father's work as a sacred duty, and was himself to acquire lasting fame as he discharged this duty. Over the next six years his father became increasingly frail, and on 25 August 1822, after some days in bed, Herschel died at Observatory House, his Slough home. He was buried on 7 September at St Lawrence's, Upton, near Slough. His epitaph included the words &#145;Coelorum perrupit claustra&#146; (&#145;he broke through the barriers of the heavens&#146;). To the poet Thomas Campbell, in 1813, Herschel had remarked: &#145;I have looked further into space than ever human being did before me. I have observed stars of which the light, it can be proved, must take two million years to reach the earth.&#146; &#145;I really and unfeignedly felt at the moment&#146;, wrote Campbell to a friend, &#145;as if I had been conversing with a supernatural intelligence&#146;  (Lubbock, 336).<br>
+<br>Herschel had risen from the obscurity of his Hanoverian origins to become, first, a musician and composer of more than average competence and then a pioneer in astronomy who changed the very nature of the science. He was in the first rank as telescope builder, as observer, and as theorist, a combination of talents unique in the history of astronomy. His achievements were widely recognized: he received doctorates from the universities of Edinburgh (1786) and Glasgow (1792), was a member of the American Philosophical Society and of innumerable societies across Europe, and in 1816 was appointed a knight of the Royal Guelphic Order. (He was often styled, incorrectly, Sir William Herschel.) Yet several contemporary astronomers, unable even to see many of the objects he discussed, were uncertain what to make of his revolutionary methodology and novel theories. Being self-taught, he had not known that astronomers were expected to focus on the solar system. Instead, he explored the construction of the universe, and it was on later generations that the questions he asked and the methods he devised to answer them were to have profound influence.<br>
+<br>Michael Hoskin </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>C. A. Lubbock, ed., <i>The Herschel chronicle</i><i>: the life-story of William Herschel and his sister Caroline Herschel</i> (1933) &middot; <i>The scientific papers of Sir William Herschel</i>, ed. J. L. E. Dreyer, 2 vols. (1912) &middot; Mrs J. Herschel, <i>Memoir and correspondence of Caroline Herschel</i> (1876) &middot; A. M. Clerke, <i>The Herschels and modern astronomy</i> (1895) &middot; F. Arago, &#145;Analyse historique et critique de la vie et des travaux de Sir William Herschel&#146;, <i>Annuaire pour l'an 1842 publi&eacute; par le Bureau des Longitudes</i>, 2nd edn (Paris, 1842), 249&#150;608 &middot; E. S. Holden, <i>Sir William Herschel</i> (1881) &middot; M. Hoskin, &#145;Herschel, William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=DSB')"><i>DSB</i></a> &middot; J. A. Bennett, &#145;&#147;On the power of penetrating into space&#148;: the telescopes of William Herschel&#146;, <em>Journal for the History of Astronomy</em>, 7 (1976), 75&#150;108 &middot; M. Hoskin, <i>William Herschel and the construction of the heavens</i> (1963) &middot; C. Cudworth and S. Jeans, &#145;Herschel, William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a> &middot; A. J. Turner and others, <i>Science and music in eighteenth-century Bath</i> (1977) [exhibition catalogue, the Holburne of Menstrie Museum, Bath, 22 Sept &#150; 29 Dec 1977] &middot; R. Porter, &#145;William Herschel, Bath, and the Philosophical Society&#146;, <i>Uranus and the outer planets</i>, ed. G. Hunt (1982), 23&#150;34 &middot; J. A. Bennett, &#145;Herschel's scientific apprenticeship and the discovery of Uranus&#146;, <i>Uranus and the outer planets</i>, ed. G. Hunt (1982), 35&#150;53 &middot; S. Schaffer, &#145;Uranus and the establishment of Herschel's astronomy&#146;, <em>Journal for the History of Astronomy</em>, 12 (1981), 11&#150;26 &middot; S. Schaffer, &#145;Herschel in Bedlam: natural history and stellar astronomy&#146;, <em>British Journal for the History of Science</em>, 13 (1980), 211&#150;39 &middot; M. Hoskin, &#145;Herschel and the construction of the heavens&#146;, <i>Uranus and the outer planets</i>, ed. G. Hunt (1982), 55&#150;66 &middot; M. Hoskin, &#145;William Herschel's early investigations of nebulae: a reassessment&#146;, <em>Journal for the History of Astronomy</em>, 10 (1979), 165&#150;76 &middot; private information (2005) [A. A. Hanham]<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Harvard U., Houghton L., papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=MHS%20Oxf.')">MHS Oxf.</a>, journal and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=NMM')">NMM</a>, household accounts; visitors book
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=Ransom%20HRC')">Ransom HRC</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=RAS')">RAS</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=RS')">RS</a>, papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=NRA%2C%20priv.%20coll.')">NRA, priv. coll.</a>, letters to Sir Joseph Banks<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> attrib. J. Flaxman, Wedgwood medallion, <i>c.</i>1781, Wedgwood Museum, Barlaston, Staffordshire &middot; L. F. Abbott, oils, 1785, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=NPG')">NPG</a> [<i>see illus.</i>] &middot; J. C. Loch&eacute;e, Wedgwood medallion, <i>c.</i>1785, Wedgwood Museum, Barlaston, Staffordshire &middot; J. Russell, oils, 1795, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=NMM')">NMM</a> &middot; J. Godby, stipple, pubd 1814 (after F. Rehberg), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; W. Artaud, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=RAS')">RAS</a> &middot; C. Ford, watercolour (after L. F. Abbott), Holburne of Menstrie Museum, Bath &middot; J. C. Loch&eacute;e, plaster bust, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=13102&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. Sharples, pastel, Bristol City Art Gallery<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;60,000: TNA: PRO, death duty registers, IR 26/913 Reg. 4, No. 1136<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Michael Hoskin, &#145;<span class="roman"><span class="headword">Herschel,  William</span>  (1738&#150;1822)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/13102, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Herschel (1738&#150;1822): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/13102 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/13102/2005-10"> [Previous version of this biography available here: October 2005]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

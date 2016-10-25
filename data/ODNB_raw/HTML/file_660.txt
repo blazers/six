@@ -1,0 +1,226 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 660;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/660-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/660-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=660#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Armstrong,  John</span>  (1708/9&#150;1779), <span class="occ">physician and poet</span>, was born in late 1708 or early 1709 at Castleton, Roxburghshire, the eldest son and third child of Robert Armstrong (1661&#150;1732), Presbyterian minister, and his second wife, Christian, <i>n&eacute;e</i> Mowatt (1675&#150;1753). John matriculated at the College of Edinburgh on 29 March 1721 and took his MD degree on 4 February 1732. Among his college friends were James Thomson (1700&#150;1748) and Patrick Murdoch (<i>d</i>. 1774).<br>
+<br>Armstrong dedicated and dispatched his graduation dissertation, <span class="italic">De tabe purulenta</span> (1732) to Sir Hans Sloane, president of the College of Physicians, and had begun practising medicine in London before 1735, though unlicensed by the College of Physicians. He published a second medical paper in Edinburgh (1734) and read another before the Royal Society on 30 January 1735. His next production, <span class="italic">An Essay for Abridging the Study of Physick</span> (1735), was a satire on Joshua Ward (<i>d</i>. 1761) and other quack doctors, but was followed by Armstrong's serious and far more substantial <span class="italic">Synopsis of the History and Cure of Venereal Diseases</span> (1737), an abridged, copiously annotated translation of an Italian compilation. Another compilation from various sources, <span class="italic">A Full View of All the Diseases Incident to Children</span> (1742), has been attributed to John Armstrong.<br>
+<br>Meanwhile Armstrong's <span class="italic">Oeconomy of Love</span>, a glowingly explicit sex manual in blank verse, was published anonymously in 1736. It was said that his medical practice suffered when his authorship became known, but, judging by his wealth at death, he was not permanently disadvantaged. <span class="italic">The Oeconomy of Love</span> was his most frequently reprinted work in the eighteenth century, though its lubricity was eventually toned down in the seventeenth edition (1768) and Armstrong excluded it from his collected works. An Italian translation appeared in 1744, the year in which Armstrong's far more respectable blank-verse georgic <span class="italic">The Art of Preserving Health</span> was published. In four books, on air, diet, exercise, and the passions, this poem treats a subject of universal appeal with a pleasing variety of style, tone, and feeling. David Hume said this poem was &#145;truly classical; the most Augustan thing we have in English&#146;  (<span class="italic">Papers of Boswell</span>, 1.127). Frequently reprinted well into the nineteenth century, it is the work by which Armstrong is best known.<br>
+<br>Armstrong's closest literary associates in London were fellow Scots, notably Tobias Smollett and James Thomson. Thomson and Armstrong were admitted freemasons together at a London lodge on 9 September 1737. Armstrong contributed four stanzas to Thomson's <span class="italic">Castle of Indolence</span> (1748) and is portrayed as a solitary melancholic in canto I, stanza lx, of that poem. He attended Thomson on his deathbed in August 1748 and deeply mourned his friend.<br>
+<br>In June 1741 Armstrong unsuccessfully sought appointment as physician to the troops going to the West Indies, but in February 1746 he was nominated as a physician to the hospital for lame, maimed, and sick soldiers behind Buckingham House  (<span class="italic">London Evening-Post</span>, 6 Feb 1746). His brother <script>writeSeealsoLink('../view/article/656/', "George Armstrong (1719/20&#150;1789)")</script>, also a physician, joined him in 1748; they lived together, first in Cursitor Street, Holborn, until 1752, then at the house of a Mr Reid (perhaps Armstrong's friend Andrew Reid, the writer on science) in Arundel Street, off the Strand. George moved to Hampstead when he married in 1755, but John apparently remained in Arundel Street until he went to Germany in 1760. His practice grew, though he was still unlicensed and in danger of being fined or sued if a patient died. From about 1751 he cultivated a close friendship with John Wilkes, the rake and future politician, nearly twenty years his junior.<br>
+<br>At the same time Armstrong tried his hand at various literary forms. His <span class="italic">Muncher's and Guzler's Diary</span> (1749), by Noureddin Alraschin, formerly of Damascus, now of Datchet Bridge, is a mock almanac with absurd observations, prognostications, and advice on husbandry month by month. Armstrong thought it was the best thing he ever wrote. His next two publications were verse epistles in heroic couplets: <span class="italic">Of Benevolence</span> (1751) is addressed to an unidentified Eumenes in gratitude for that gentleman's endeavours to do the author some (unspecified) service; <span class="italic">Taste</span> (1753) is ironically addressed to &#145;a Young Critic&#146; and argues that literary taste is as much an individual, internal sense as are tastes in food and wine. In 1754 Armstrong wrote a tragedy, <span class="italic">The Forced Marriage</span>, which was never acted. When he published it in his <span class="italic">Miscellanies</span> (1770) he declared in typically splenetic style that his play had failed to reach the stage because he had not &#145;dangled after Managers&#146; or &#145;used the access he had been offered to the prostituted patronage of two or three <i>great</i> Men, to whose taste he did not chuse to appeal&#146;  (J. Armstrong, <span class="italic">Miscellanies</span>, 1770, preface); but he had in fact offered it to Garrick, pretending it was the work of a young man, and Garrick had refused it. Armstrong helped Smollett launch the <span class="italic">Critical Review</span> in March 1756 and probably contributed to its early numbers. His <span class="italic">Sketches, or, Essays on Various Subjects</span>, consisting of short pieces, some no more than jottings, on language, literature, and aesthetics, was published in 1758 under the pen-name Launcelot Temple, esq.<br>
+<br>On 18 April 1760 Armstrong sailed from Harwich as physician to the English army in Germany, a post he perhaps owed to Wilkes's patronage; it seems that Wilkes also lent or gave him money at this time. His only literary work during his two and a half years' campaigning with the army in north-west Germany was, it seems, the verse epistle <span class="italic">A Day</span>, written at Kassel and sent on 31 August 1760 to Wilkes with an invitation for him to revise and publish it. A mutilated version of the poem, in which passages cancelled by Wilkes were indicated by rows of asterisks, was published in January 1761, but not seen by Armstrong until his return to London early in 1763. This affair, together with Armstrong's resentment of Wilkes's disparagement of Scotsmen in his <span class="italic">North Briton</span>, led to a quarrel. Armstrong was always sensitive to slights upon his nation: James Boswell, meeting him in 1769, said &#145;He is a violent Scotsman&#146; and &#145;as splenetick as ever&#146;  (<span class="italic">Journal of Boswell</span>, 8.127). Furthermore, he believed that Charles Churchill, prompted by Wilkes, had accused him of pederasty in a newspaper  (BL, Add. MS 36593, fols. 54&#150;62).<br>
+<br>The College of Physicians summoned Armstrong in April 1765 for practising without a licence, so effectively ending his medical career, but he was financially comfortable because, thanks to his service in Germany, he enjoyed a pension of half a guinea a day for life, that is, &pound;191 p.a. He lodged (for &pound;12 p.a.) in Russell Street, Covent Garden, where his elder unmarried sister Margaret tended him. He told Fanny Burney, a patient of his, that &#145;he had never been happy till he was able to live Independant of his Business, for that the pain &amp; the anxiety attendant upon it were inconceivable&#146;  (<span class="italic">Early Journals and Letters</span>, 2.39). He abandoned even literary work for some years, though he basked in the character of a literary doyen among younger acquaintances, one of whom, the banker Thomas Coutts, commissioned Joshua Reynolds to paint Armstrong's portrait in 1767.<br>
+<br>Armstrong had time and money for travelling. He toured Scotland for about a year in 1764&#150;5, he made an excursion in 1765 with the marquess of Granby, his former commanding officer in Germany, and he travelled into south Wales in 1769 with two old friends and fellow denizens of Thomson's <span class="italic">Castle of Indolence</span>, Patrick Murdoch and John Forbes. In 1770 he spent four months in Italy for the sake of his health. He was accompanied by the young artist Henry Fuseli on the outward voyage to Genoa; he spent a fortnight in July with Smollett and his family in their villa near Leghorn; and, on the return journey through Paris in September, he called on his cousin Andrew Lumisden, formerly secretary to both Old and Young Pretender. Armstrong's <span class="italic">Short Ramble through some Parts of France and Italy</span>, by Lancelot Temple (1771), describes the journey with a few passing hits against the English: for instance, he praises the natural good sense and politeness of common people in Italy and France: they are not like the ill-bred boobies in England who stare at a stranger as if he were a show.<br>
+<br>Armstrong's <span class="italic">Miscellanies</span> (two vols., 1770) contained reprints of published literary essays and verse, excluding <span class="italic">The Oeconomy of Love</span> and <span class="italic">A Day</span>, together with previously unpublished essays, a revised text of his Spenserian stanzas in Thomson's <span class="italic">Castle of Indolence</span>, and blank verse &#145;Imitations of Shakespeare&#146;, written, he said, when he was very young. One of these last, a description of winter, is prefaced by a note explaining that, though it was written about the same time as Thomson's <span class="italic">Winter</span> (1726), neither poet had plagiarized the other.<br>
+<br>The quarrel with Wilkes flared up again in 1773 with letters in the <span class="italic">Public Advertiser</span> about the publication of <span class="italic">A Day</span> and an angry verbal exchange on 7 April, Wilkes's version of which was reported in the <span class="italic">Gentleman's Magazine</span>  (62, 1792, 33&#150;5). Armstrong's <span class="italic">Medical Essays</span>, which also appeared in 1773, are more notable for ill nature than for medicine. For instance, he declares that his medical practice was small because other physicians slandered him and he would not tell impudent lies in his own praise or intrigue with nurses; also that the public would not take him seriously as a physician because he wrote a medical treatise in verse.<br>
+<br>Armstrong had a reputation for drinking, swearing, and indolence; he was habitually querulous and sarcastic, but discerning friends, including Thomson, Smollett, and Hume, found his melancholy pleasing. In his last decade he mellowed: Fanny Burney, in 1772, thought him &#145;very droll&#146;, &#145;an amazing old man&#146;  (<span class="italic">Early Journals and Letters</span>, 1.199). His death at his house in Russell Street on 7 September 1779 resulted from a contusion in his thigh, sustained four days earlier when he stumbled on stepping into his chaise. He made his will on the day after this accident, leaving a &pound;30 p.a. annuity to his sister Margaret and the residue to his brother George, with reversion to his daughters. His estate was reportedly worth &pound;3000.<br>
+<br>James Sambrook </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>W. J. Maloney, <i>George and John Armstrong of Castleton</i> (1954) [with portrait] &middot; L. M. Knapp, &#145;Dr John Armstrong, litt&eacute;rateur&#146;, <em>Publications of the Modern Language Association of America</em>, 59 (1944), 1019&#150;58 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=Nichols%2C%20Lit.%20anecdotes')">Nichols, <i>Lit. anecdotes</i></a>, 2.307&#150;11 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BL')">BL</a>, Add. MSS 30867, 30875, 36593 [Armstrong's letters to John Wilkes, 1751&#150;63, and his account of their quarrel] &middot; <i>The early journals and letters of Fanny Burney</i>, ed. L. E. Troide, 3 vols. (1988&#150;94) &middot; R. Anderson, &#145;The life of Smollett&#146;, in R. Anderson, <i>The miscellaneous works of Tobias Smollett</i>, 6th edn, 1 (1820), appx [incl. letters of Armstrong to Smollett first printed in <i>The port folio</i> (1801)] &middot; <i>The correspondence of the late John Wilkes</i>, ed. J. Almon, 5 vols. (1805), 1.204&#150;11 &middot; R. Anderson, <i>A complete edition of the poets of Great Britain</i>, 13 vols. (1792&#150;5), vol. 10, pp. 963&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=Chambers%2C%20Scots.')">Chambers, <i>Scots</i>.</a> (1835), 1.58&#150;64 &middot; <i>James Thomson (1700&#150;1748)</i><i>: letters and documents</i>, ed. A. D. McKillop (1958) &middot; <i>Autobiography of the Rev. Dr. Alexander Carlyle &hellip; containing memorials of the men and events of his time</i>, ed. J. H. Burton (1860); repr. as <i>Anecdotes and characters of the times</i>, ed. J. Kinsley (1973) &middot; <i>Early papers of James Boswell, 1754&#150;1763</i>, ed. G. Scott and F. A. Pottle (privately printed, Mount Vernon, NY, 1928), vol. 1 of <i>Private papers of James Boswell from Malahide Castle</i>  (1928&#150;34) &middot; <i>The journal of James Boswell, 1775&#150;1776</i>, ed. G. Scott and F. A. Pottle (New York, [1934]), vol. 11 of <i>Private papers of James Boswell from Malahide castle</i>  (1928&#150;34) &middot; <i>The journal of James Boswell, 1771&#150;1774</i>, ed. G. Scott and F. A. Pottle (New York, [1934]), vol. 9 of <i>Private papers of James Boswell from Malahide castle</i>  (1928&#150;34) &middot; C. Bucke, <i>Life, writings and genius of Akenside</i> (1832), 29&#150;30 &middot; J. Dennistoun, <i>Memoirs of Sir Robert Strange &hellip; and of his brother-in-law Andrew Lumisden</i>, 2 vols. (1855)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BL')">BL</a>, notes on animal fluids, Add. MS 4433(8)&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BL')">BL</a>, letters to Birch, Add. MS 4300, fols. 90, 92
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BL')">BL</a>, letter to Sloane, Sloane MS 4052, fol. 62
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BL')">BL</a>, Caleb Whitfoorde MSS, Armstrong on his quarrel with Wilkes, Add. MS 36593, fols. 55&#150;9
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BL')">BL</a>, letters to Wilkes, Add. MSS 30867, fols. 42, 64; 30875
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, letter to Forbes, MS 2969
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=NL%20Scot.')">NL Scot.</a>, corresp. with Lady Isabella Strange, MS 14254, fols. 4&#150;14<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Reynolds, oils, exh. RA 1767, Art Gallery of South Australia, Adelaide, Australia; in possession of the marquess of Bute, 1874 &middot; P. Engleheart, engraving (after miniature by Shelley; after drawing by J. Thurston), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=Bodl.%20Oxf.')">Bodl. Oxf.</a>, MS Montagu d. 2, f. 9 &middot; E. Fisher, engraving (after oil painting by J. Reynolds), repro. in Maloney, <i>George and John Armstrong</i>, frontispiece &middot; S. W. Reynolds, mezzotint (after oil painting by J. Reynolds), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; W. Ridley, stipple (after W. H. Brown), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=660&amp;istheme=&amp;target=BM')">BM</a>; repro. in C. Cooke, <i>Select British poets</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;3000 left to brother, sister, and nieces: Nichols, <i>Lit. anecdotes</i>, 311<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">James Sambrook, &#145;<span class="roman"><span class="headword">Armstrong,  John</span>  (1708/9&#150;1779)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/660, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Armstrong (1708/9&#150;1779): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/660 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

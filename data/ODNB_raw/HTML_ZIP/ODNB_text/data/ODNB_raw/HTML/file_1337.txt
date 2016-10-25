@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1337;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1337-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1337-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1337#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Barclay,  Alexander</span>  (<em>c.</em>1484&#150;1552), <span class="occ">poet and clergyman</span>, was born at a place and date that are still obscure. John Bale, in the mid-sixteenth century, described him once as &#145;English&#146;, once as &#145;Scottish&#146;, and stated on a third occasion that &#145;some contend that he was a Scot, others an Englishman&#146;  (<span class="italic">Scriptorum illustrium Maioris Brytannie</span>, 1557&#150;9, 723). Another early witness, William Bullein of Ely, writing in his <span class="italic">Dialogue Against the Fever Pestilence</span> (1564), believed that Barclay was &#145;born beyond the cold river of Tweed&#146; and the belief is supported by six stanzas in praise of King James IV of Scotland, inserted by Barclay into his translation of <span class="italic">The Ship of Fools</span> (1509) where the context did not require them. On the other hand, Barclay's recorded life was spent wholly in England or continental Europe, and he had cousins living in London at the time of his death. His connection with Scotland, if it existed, was limited to parentage, birth, or childhood, or to a misunderstanding of origins in the far north of England, whose inhabitants were often confused with Scots by people from further south.<br>
+<br>The date of Barclay's birth is usually given as 1475 or 1476, on the ground that he gives his age as thirty-eight in the prologue to his <span class="italic">Eclogues</span>, parts of which were written as early as 1513 or 1514, but it is not known when the prologue was composed. He does not appear in records until ordained priest in 1508, and the placing of his birth in the mid-1470s has given rise to speculation that he spent his young adulthood in a lengthy period of travel and study on the continent of Europe. He has also been credited with the anonymous English translation of Pierre Gringore's work <span class="italic">The Castle of Labour</span>, printed in Paris about 1503. There is as yet no direct evidence, however, about an early career spent on the continent or about his authorship of the translation, and it is more economical to place his birth close to 1484: the latest possible date, since the priesthood was not conferred until the age of twenty-four. His first known appointment was a relatively junior one, and although he states in the prologue to <span class="italic">The Ship of Fools</span> that he has been &#145;a scoler longe, and that in dyvers scoles&#146;, he also asks readers to pardon his youth  (<span class="italic">Ship of Fools</span>, 1.3&#150;4). He could easily have attended a series of schools, travelled abroad, and acquired the familiarity with French and German which he claims in <span class="italic">The Ship</span>, between the late 1490s and 1508.<h2>
+<a name="OtteryandTheShipofFools"></a>Ottery and The Ship of Fools</h2>Barclay was evidently educated in Latin to a high standard (he later edited a Latin schoolbook and worked as a schoolmaster), but it is unclear whether this was followed by university study. He certainly did not gain a degree higher than that of BA until the 1530s, since only one reference before that decade calls him &#145;Master Barclay&#146;. The first certainty in his life comes in March and April 1508, when he was ordained subdeacon, deacon, and priest at Exeter Cathedral to a title, or guarantee of support, provided by the collegiate church of Ottery St Mary in Devon. He had previously been living in the diocese of Lincoln, whose bishop issued letters dimissory allowing him to seek ordination elsewhere. Barclay entered the priesthood to qualify himself for employment in the church of Ottery, probably as chaplain (or clerk) of the lady chapel, a junior office responsible for teaching song to the choristers and young adult &#145;secondary clerks&#146; of the college and for organizing the daily services in the chapel in honour of the Virgin Mary. His stay at Ottery was brief but notable for the production of his first major work, <span class="italic">The Ship of Fools</span>, the translation of Sebastian Brant's <span class="italic">Narrenschiff</span> (1494) into English verse. It was printed in London in December 1509 (when Barclay had left the college) by Richard Pynson, who published most of the author's subsequent works.<br>
+<br>Barclay embellished his translation with copious additions. He dedicated it to Thomas Cornish, warden of the college and suffragan bishop in the diocese of Exeter, who may have been responsible for bringing him to Ottery, and included complimentary references to Henry VIII, Sir John Kirkham of Paignton, Devon, and John Bishop, rector of St Paul's Church, Exeter. The work enabled him to mount attacks on a range of contemporary social groups and practices: attacks which accord with traditions of social criticism going back to the fourteenth century, while reflecting some of the concerns of humanist writers in the early sixteenth. His targets included fond parents and ungrateful children, inconstant and evil women, all who wore extravagant clothes, pluralist clergy, ignorant gentlemen, avaricious merchants, corrupt lawyers and physicians, riotous servants, and sturdy undeserving beggars. He also took the opportunity to settle some private scores. The secondary clerks of the college were singled out for their unwillingness to learn, the neighbouring parish clergy for ignorance and worldliness, and a group of named men of Ottery (who appear to have been ordinary laity) for being frauds and thieves. The work shows a sympathy with humanist Latin, and criticizes those attached to the medieval grammar of Alexander of Ville-Dieu rather than to the works of Priscian and the Renaissance grammarian Giovanni Sulpizio.<h2>
+<a name="YearsintheBenedictineorder"></a>Years in the Benedictine order</h2>By 1513 Barclay had become a Benedictine monk of Ely Cathedral priory, a considerable shift both geographically and vocationally. As he was sixteenth in seniority out of thirty monks in 1516, it is likely that he went there straight from Ottery about 1509. This alteration of direction seems to have embodied a genuine calling, since Barclay had hardly been a secular priest for long enough to feel disappointed at lack of advancement. It may have reflected an ambition to pursue a career as an author, and gave him a secure and comfortable environment in which to do so. His subsequent writings, all or most of which were undertaken at Ely, spanned a range of genres. Pre-eminent are his five verse <span class="italic">Eclogues</span>, the first major pastoral poems to be written in English. The first three, which discuss the miseries of courts and courtiers, were translated from works by Aeneas Sylvius Piccolomini (Pope Pius II). The fourth, on the behaviour of rich men to poets, and the fifth, a dispute between a citizen and a countryman, were based on poems by Mantuan (Baptista Spagnuoli). Barclay seems to have written the fourth, the easiest to date from mentions of current events, in 1513&#150;14. The <span class="italic">Eclogues</span> were apparently first printed separately, the earliest surviving editions being approximately datable to 1518 (the fifth), 1521 (the fourth), 1523 (the first), and 1530 (the first three). They were the most successful of Barclay's writings in the sixteenth century, to judge from the number of reprints. Their appeal no doubt reflected their pleasant traditional pictures of landscapes, seasons, and rural life; their gentle criticisms of courts, towns, and neglect towards scholars; and their numerous references to places and people in England.<br>
+<br>Barclay produced at least six other works during his time at Ely. <span class="italic">Alex. Barclay his Figure of our Mother Holy Church Oppressed by the French King</span>, a lost printed book in English recorded by the bibliographer Andrew Maunsell, may have dated from 1512 when Louis XII of France was campaigning in Italy, or 1515 when his successor, Fran&ccedil;ois I, was doing the same. <span class="italic">The Life of St George</span> in verse, also based on a work by Mantuan, was printed about 1515, and <span class="italic">The Mirror of Good Manners</span> in verse, translated from a Latin text of the humanist scholar Domenico Mancini, about 1518. Later, Barclay applied himself to more practical works in prose. His revision of an elementary school treatise on Latin words, <span class="italic">Vocabula</span> by John Stanbridge, was published in 1519 with further reprints in 1524 and 1526&#150;7; his English translation of Sallust's <span class="italic">History of the Jugurthine War</span> about 1520; and his <span class="italic">Introductory to Write and to Pronounce French</span> in 1521. The last of these works, as Barclay admitted, drew on older guides to the French language produced for English people. John Palsgrave, who published a large-scale work on French in 1530, <span class="italic">L'esclarcissement de la langue francoyse</span>, paid tribute to Barclay in his preface as a &#145;studious clerke&#146;, but warned readers later on that he differed from Barclay on orthography and other matters, and caustically remarked &#145;I have sene an olde boke written in parchement in maner in all thynges like to his sayd <span class="italic">Introductory</span>, which by conjecture was nat unwritten this hundred yeres. I wot nat if he happened to fortune upon suche another&#146;  (<span class="italic">L'esclarcissement</span>, sig. A.iii<i>v</i>). Bale also ascribes to Barclay lives of St Katherine and St Margaret, and later scholars have suggested other titles, without secure confirmation.<br>
+<br>Barclay was a productive monastic writer on the scale of John Lydgate, whom he resembled in the variety of his output, the undertaking of translations, and the writing of verse in English. His works were dedicated to important people of the day, either for his own benefit or for that of Ely Cathedral. The principal person so honoured was Thomas Howard, duke of Norfolk, who is praised in the fourth eclogue and to whom <span class="italic">The Life of St George</span>, <span class="italic">The Jugurthine War</span>, and <span class="italic">The Introductory</span> were all addressed. <span class="italic">The Jugurthine War</span> was also offered to John Veysey, bishop of Exeter, and <span class="italic">The Mirror of Good Manners</span> to Sir Giles Alington, a courtier and knight of Cambridgeshire. Barclay appears to have had links with the royal court during his time at Ely, especially with the Chapel Royal&#151;a fact which recalls his probable duties in the lady chapel at Ottery. Not only are his first three <span class="italic">Eclogues</span> moralizations on court life, but the second of them praises John Kyte, the subdean of the Chapel Royal; William Cornish, the master of its choristers; and William Crane, one of its gentleman singers. In April 1520 Sir Nicholas Vaux asked Thomas Wolsey to send Barclay to devise historical subjects and other themes to embellish the buildings planned for the English court at the Field of Cloth of Gold in Flanders. The <span class="italic">Eclogues</span> also include a commendation of John Colet, dean of St Paul's, London, and contain dismissive references to poets laureate which appear to allude to John Skelton, whose poem &#145;Philip Sparrow&#146; is mentioned by name. Bale credited Barclay with a work <span class="italic">Contra Skeltonum</span>.<br>
+<br>The impact of Barclay's writings can be judged partly from the observations of his contemporaries and partly from the editions of his works. Henry Bradshaw of Chester, a fellow Benedictine, linked him with Chaucer, Lydgate, and Skelton in 1513, and William Bullein with the same writers in 1564. Bale (followed by Raphael Holinshed) called him &#145;a notable rhetorician and poet&#146;, and William Forrest described him in 1569 as &#145;eloquent&#146;. His only works to be reprinted in the sixteenth century, however, were the first three <span class="italic">Eclogues</span> about 1548 and about 1560, <span class="italic">The Jugurthine War</span> in 1557, and <span class="italic">The Ship of Fools</span> with the whole of the <span class="italic">Eclogues</span> in 1570, this last edition being an enterprise of the London printer John Cawood. Thereafter he attracted little notice in literary circles until his works began to be reprinted in the nineteenth century.<h2>
+<a name="YearsintheFranciscanorder"></a>Years in the Franciscan order</h2>Barclay himself appears to have exhausted his literary ambitions by the 1520s. Between 1521 and 1528 he abandoned Ely to become a Franciscan friar, possibly at Canterbury, a house of the reformed or Observant branch of the Franciscan order. This was another unusual change of direction&#151;monks and friars had different traditions, objectives, and ways of life&#151;and signified a further large vocational adjustment on Barclay's part. He now ceased to write either poetry or practical works, and much of his time was probably given to the study of theology, a study which may have provided one motive for joining the friars, who were more committed to it than were monks. By 1538 he was styled &#145;doctor&#146;, doubtless of divinity, indicating that he had graduated in this study in a university outside England, since he is not recorded as taking a degree at either Oxford or Cambridge.<br>
+<br>In October 1528 the German informer Hermann Rinck wrote to Cardinal Wolsey that various dissidents including &#145;William Roy, William Tyndale, Jerome Barlow, Alexander Barclay and their adherents &hellip; formerly Observants of the Order of St Francis but now apostates &hellip; ought to be arrested, punished, and delivered up on account of Lutheran heresy&#146;  (<span class="italic">LP Henry VIII</span>, 4/2.2083 (no. 4810)). The rest of these men were living in Germany, which makes it appear as if Barclay was based there too. Rinck's letter is a principal piece of evidence that Barclay joined the reformed or Observant branch of the Franciscan order rather than the original and larger Conventual branch, but the letter is not entirely accurate: Tyndale was not a friar. Another Observant friar, John West, who mentions that he was soon to meet Barclay about April 1529, accused him of calling Wolsey a &#145;tyrant&#146; and other &#145;opprobrious and blasphemous words&#146;  (<span class="italic">LP Henry VIII</span>, 4/3.2406 (no. 5463)). It is not impossible that Barclay was attracted by aspects of Lutheranism at this time, but he did not voluntarily adhere to the Reformation until much later; on the contrary, he acquired a reputation in England during the late 1530s of being a religious conservative.<br>
+<br>In 1534 the English Observant houses were closed because of their hostility to Henry VIII's claim of supremacy over the Church of England, and the surviving members were transferred to the mainstream Conventual houses. Barclay is likely to have returned to England by about this date, in view of the increasing separation of England from the Catholic church, and next turns up in Cornwall, where he was granted an annuity of &pound;4 by Launceston Priory in 1535. Perhaps he was employed to provide the preaching and lecturing imposed by the crown on religious houses at this time. He also retained links with London, since the chronicler Charles Wriothesley, writing in the city, singled him out by name, under the year 1538, as one who refused to give up wearing his religious habit in public until he was compelled to do so. John Foxe the martyrologist later recounted a version of this story in which Thomas Cromwell personally threatened Barclay with hanging unless he changed his clothes. In the summer and autumn of 1538 Barclay carried out a number of private preaching engagements, including sermons at Thetford Priory, Norfolk; Barking, Suffolk, at Whitsuntide; and in the diocese of Exeter in October. Reports of his demeanour were duly transmitted to Cromwell. At Barking he had not spoken in favour of the king's supremacy or against the pope; at St Germans, Cornwall, he had made his conservatism known, albeit in a circumspect way; and in Cornwall and Devon he was doing &#145;much hurt&#146; with &#145;open preaching and private communication&#146;  (<span class="italic">LP Henry VIII</span>, 13/2.222 (no. 571), 232 (no. 596), 272 (no. 709)). What action Cromwell took, if any, is not clear, because Barclay drops out of the records for the next eight years. As a friar, he did not receive a pension after the suppression of his order, and the only pointer to his whereabouts and support in the early 1540s is his will, which reveals a number of links with lay people in London.<h2>
+<a name="Finalyears"></a>Final years</h2>When Barclay reappears it is in yet another role, that of a beneficed clergyman and eventually a clerical pluralist, signifying that he had come to accept the English Reformation, at least as an accomplished fact, and had resolved to make a new career as a secular priest in the Church of England. In March 1546 William Bowerman, subdean of Wells Cathedral, presented Barclay to the vicarage of Wookey, Somerset, near Wells, with an income of &pound;12 15<i>s</i>. 8<i>d</i>. He probably lived at one or other of these places for the next two years. In the summer of 1547 the headmaster of Wells Cathedral school, Richard Edon, fell ill and Barclay took his place, probably on a temporary basis, with a further salary of &pound;13 6<i>s</i>. 8<i>d</i>. He was paid to run the school until Michaelmas or Christmas 1548, when he moved abruptly from Somerset to the other side of England to become vicar of Great Baddow, Essex, on the presentation of a local gentleman, John Pascall. The date of Barclay's admission to Great Baddow is traditionally given as 7 February 1547, but this is based on a mistake by the eighteenth-century historian Richard Newcourt; the correct year is 1549. Barclay went to stay at Great Baddow in January of that year and lodged with Pascall until April, paying him money to organize the rebuilding of the vicarage. This fact emerged in 1554 when Pascall sued Barclay's executors, claiming further unpaid costs of the project. Great Baddow was a more valuable benefice than Wookey, with an income of &pound;18 6<i>s</i>. 8<i>d</i>., and since Barclay obtained permission to go on holding Wookey as well, his net income rose to a respectable &pound;25, supposing that he paid a curate to serve his Somerset parish. In 1552 he was presented by the dean and chapter of Canterbury Cathedral to a third, even wealthier, living: the rectory of All Hallows, Lombard Street, London, with an income of &pound;22 6<i>s</i>. 8<i>d</i>. This promotion involved his giving up one of his other two parishes, but he died at Croydon, Surrey, before he could do so, in June 1552, and was buried there on the tenth of the month.<br>
+<br>Barclay's will was made on 25 July 1551, and proved on the day of his burial. Its monetary bequests amount to over &pound;70 which, together with the mention of a sum of &pound;80 owed to him by one Cuthbert Croke of Winchester, suggests that his career as a beneficed clergyman had already made him moderately wealthy. He left small sums to the poor of Great Baddow and Wookey, and the residue of his goods and chattels to the bedridden, maidens, widows, and other helpless people. Money for rings was given to thirteen other men and women, including Sir John Gates, Sir Henry Gates, Mr Cheke, and four London citizens. The chief beneficiaries of his will were members of his family: his cousins Parnell Atkinson and Joan Bowyer; Parnell's husband Thomas Atkinson, a London scrivener; and their four daughters. Atkinson was made executor, together with a gentleman named Thomas Edon, and the speedy probate of the will may explain why two other relatives, Michael and John Barclay, subsequently tried to contest its validity. Barclay asked those to whom he made bequests to pray to God for remission of his sins and mercy on his soul&#151;phrases that look conservative, but his will by no means shows that he died a reluctant protestant. Cheke was probably John Cheke, tutor to Edward VI, and the Gates brothers were close associates of the duke of Northumberland, and deeply implicated in his attempt to exclude Mary Tudor from the throne in 1553. That Barclay made friends with such pillars of Edward's protestant regime provides a final twist to the convoluted story of his life.<br>
+<br>Nicholas Orme </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The eclogues of Alexander Barclay</i>, ed. B. White, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1337&amp;istheme=&amp;target=EETS')">EETS</a>, original ser., 175 (1928) &middot; A. Barclay, <i>The ship of fools</i>, ed. T. H. Jamieson, 2 vols. (1874) &middot; A. Barclay, <i>The life of St George</i>, ed. W. Nelson, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1337&amp;istheme=&amp;target=EETS')">EETS</a>, original ser., 230 (1955) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1337&amp;istheme=&amp;target=STC%2C%201475%3F1640')"><i>STC, 1475&#150;1640</i></a> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1337&amp;istheme=&amp;target=LP%20Henry%20VIII')"><i>LP Henry VIII</i></a>, 4/2.2083; 4/3.2406; 13/2.222, 232, 272 &middot; N. Orme, <i>Education and society in medieval and Renaissance England</i> (1989) &middot; will, TNA: PRO, PROB 11/35, fols. 130<i>r</i>&#150;130<i>v</i> (17 Powell); PROB 11/36, fols. 73<i>v</i>&#150;74<i>r</i> (11 Tashe) &middot; H. Cooper, <i>Pastoral</i><i>: medieval into Renaissance</i> (1977) &middot; parish register, Croydon, 10 June 1552 [burial] &middot; TNA: PRO, SC 6/HENVIII/7300<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> over &pound;80: will, TNA: PRO<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Nicholas Orme, &#145;<span class="roman"><span class="headword">Barclay,  Alexander</span>  (<em>c.</em>1484&#150;1552)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/1337, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Alexander Barclay (<em>c.</em>1484&#150;1552): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1337 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1337/2006-10"> [Previous version of this biography available here: October 2006]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

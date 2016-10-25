@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50018;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50018-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50018-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50018#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Clement</span>  (<em>d.</em> 1258), <span class="occ">Dominican friar and bishop of Dunblane</span>, was of Scottish, English, or, least probably, French birth. He may have been the Father Clement Rocha, who owned a manuscript now in Edinburgh; Rocha could be the Scottish name Rock. He had entered the Dominican order by the later 1220s and knew Edmund of Abingdon (to whom he wrote a tribute) before becoming bishop. He presumably studied at Paris or Oxford&#151;he is once called master&#151;and a sermon by Friar Clement surviving in a Dominican collection was probably by him.<br>
+<br>The Dominican order spread slowly in England, having only five houses by 1230, when it was said to have gone to Scotland. That may be an anticipation, for no foundation is attested before 1233. The see of Dunblane, traditionally in the patronage of the earls of Strathearn, had fallen vacant in 1231&#150;2, and on this occasion, perhaps because the only chapter was a dilatory diocesan synod, the pope was able to delegate nomination to three Scottish bishops. They chose Clement, who was consecrated by Bishop William Malveisin of St Andrews, at Stow in Wedale, on 4 September 1233. Whether he was a Scot, whence he came (Oxford or another house), and why a Dominican in general and Clement in particular was chosen, are unanswered questions. The choice of the first friar-bishop in the churches in Britain can only be called daring.<br>
+<br>Clement found his see in a state of extreme dilapidation, and in his twenty-five years in it he probably began or built the transeptless cathedral which has lent Gothic architectural touches to many later Scottish kirks; he established a cathedral chapter after a visit to the pope in 1237, as a result of which religious houses with revenues from the diocese were persuaded to yield some of them; and he held at least two diocesan synods, in 1235 and 1239. There is no evidence of his promulgating diocesan canons, but, in the wake of the legate Otto's visit in 1239, such activity is likely. Clement contributed evidence to the dossier for the canonization of Edmund of Abingdon in 1241&#150;2 and was one of those appointed to inquire into the saintliness of Queen Margaret, leading to her canonization about 1249; he granted indulgences to those from his diocese visiting the shrines of St Cuthbert at Durham and of St Edmund at Pontigny. And he was appointed, as Dominicans often were, as collector of taxation of the church for the Holy Land in 1247.<br>
+<br>The diocese of Argyll, lacking a bishop from 1241, was placed in Clement's charge, as a result of which he probably persuaded the pope to commission him in 1248 to move its cathedral from Lismore to the mainland, and to secure a new bishop. This charge explains why he urged Alexander II to make an expedition to Argyll, and accompanied him there, persuading the king to endow the episcopal <i>mensa</i> of Argyll on the day of his death there, 8 July 1249. In the following years Clement was active in ecclesiastical business, but not prominent in political debates, despite which he was associated with the Comyn ascendancy of 1251&#150;5, and, with many others, was on 20 September 1255 excluded from the council for seven years by the young Alexander III, himself prompted by Henry III. Clement died in 1258 and his death was remembered on 19 March, so it probably occurred on that day.<br>
+<br>Clement was the first of a number of friar-bishops, usually Dominicans and usually in the less important and wealthy sees in the church in Scotland, but he stands out from the rest by the energy of his efforts to advance the organization of the church within his diocese, and in that of Argyll. His reputation as a preacher and teacher must have been more than posthumous <i>pietas</i> among his brethren, for in May 1250 a general chapter of the Dominicans at London decreed that when he died a special mass was to be said for his soul throughout the order. Whether Clement was present then or not&#151;and he was surely at Dunfermline for the translation of St Margaret on 19 June 1250&#151;he clearly enjoyed a reputation far wider than his domestic accomplishments alone would explain. He represents the occasional triumph of the ideal of reform of church life over the careerism which generally motivated thirteenth-century clergy.<br>
+<br>A. A. M. Duncan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Dowden, <i>The bishops of Scotland &hellip; prior to the Reformation</i>, ed. J. M. Thomson (1912), 196&#150;8 &middot; D. E. R. Watt, <i>A biographical dictionary of Scottish graduates to <span class="smallcap">AD</span> 1410</i> (1977) &middot; J. H. Cockburn, &#145;Friar Clement, OP&#146;, The society of friends of Dunblane cathedral, 7 (1956), 86&#150;93 &middot; W. A. Hinnebusch, <i>The early English Friars Preachers</i> (1951)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, U. Durham L., Durham dean and chapter archives, Misc. Ch. 820, 823<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. A. M. Duncan, &#145;<span class="roman"><span class="headword">Clement</span>  (<em>d.</em> 1258)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50018, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+ Clement (<em>d.</em> 1258): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50018 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 730;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/0/730-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/0/730-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=730#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Askham <span class="st"> [Ascham]</span>,  Anthony</span>  (<em>c.</em>1517&#150;1559), <span class="occ">writer on astronomy and almanac maker</span>, was born at Kirby Wiske, near Northallerton, Yorkshire, the third son of John Ascham (<i>d</i>. 1544) of Kirby Wiske, who was a yeoman farmer and steward to Lord Scrope of Bolton, and his wife, Margaret (<i>d</i>. 1544). He was a brother of the humanist <script>writeSeealsoLink('../view/article/732/', "Roger Ascham")</script>. He entered Cambridge in 1532, graduating MB in 1540. Nothing is known of his medical practice, probably in Yorkshire, except for <span class="italic">A Lytel Herbal</span> (1550), a guide to herbal medicine, and <span class="italic">A Litell Treatyse of Astronomy, Very Necessary for Physick and Surgery</span> (1551), which gave a detailed explanation of the astrological rules applying to herbal medicine and contained a complimentary verse by the eminent translator and former Augustinian Thomas Peynell. In 1552, the year he was ordained deacon, Askham was appointed vicar of Burneston (near Kirby Wiske) and rector of Methley, near Leeds, both crown appointments. He probably owed this advancement to his friend the eminent humanist Sir John Cheke, a Cambridge contemporary and an intimate friend of Roger Ascham; Cheke was a devotee of astrology, and as tutor to the young Edward VI an influential figure at court. But Askham never shared the protestant commitment of his brother and his patron, and was to become a fervent champion of the Catholic faith under Mary.<br>
+<br>Askham is best known for his writings on astronomy, chronology, and astrology. In 1552 he published <span class="italic">A Lytel Treatyse of Astronomy, Declarying the Leape Yeare</span>, dedicated to Cheke, whom he termed &#145;his singuler good mayster&#146;  (fol. 1); Dr Henry Pendleton of Oxford, who under Mary was to become a Catholic zealot and chaplain to Bishop Bonner, provided complimentary verses. The tract, prompted by questions Askham had been posed on a recent visit to London, described the motion of the sun according to the Ptolemaic system, with notes on the variation of times and seasons throughout the world and on leap years. It is likely that he knew the pioneering astronomer John Feild (Felde), whose home at East Ardsley lay only 3 miles from Methley, though evidence is lacking.<br>
+<br>Askham's most ambitious astrological work was <span class="italic">A Treatyse of the State and Disposition of the World</span>, composed in 1547 but published only in 1551, which listed the major conjunctions of Saturn, Jupiter, and Mars since the creation and surveyed the major political and other effects of each. He also published a series of annual almanacs from 1548 until his death, in which he stressed how the wonders of the earth and heavens demonstrated the omnipotence of God. The almanacs gave detailed forecasts of the weather and diseases, with dietary and medical advice. They also included numerous astronomical notes and figures, with advice on how to calculate the hour of the night by checking the rising and setting of certain constellations against the tables he supplied (once with a cut-out compass). This method was practised every night in his own household, he remarked in his <span class="italic">Almanacke</span> for 1553. The 1555 edition provided copious information on the geography of Africa, Asia, and America, and promised a forthcoming work on cosmography, which appears never to have been completed. In 1556 he explained in detail how to calculate the time of the day and the height of buildings by using a notched stick to measure the length of shadows and referring the result to the tables he set out for each day of the year. The Marian almanacs are also remarkable for their Catholic polemics. The 1555 edition featured strident allegorical verses comparing the changing seasons to the advance of heresy and the restoration of Catholic truth under Mary, &#145;our noble Judith&#146;  (<i>sig</i>. A3<i>v</i>). He savagely condemned the protestant assault on the mass, Corpus Christi, roods, and images, and dubbed the English <span class="roman">Bible</span> &#145;the sprynge and well of heresies&#146;  (ibid., <i>sig</i>. A8<i>v</i>). These verses, ending with a fervent exhortation to faith, are among the most vigorous attempts to popularize the Marian counter-reformation.<br>
+<br>Askham died late in 1559. He has been tentatively identified with a namesake who was recorded in a Yorkshire genealogy of 1585 as the father of Anne Burgh of Brampton-on-Swale. Though it is just possible that Askham had married and lost a wife before his ordination, the identification remains unlikely.<br>
+<br>Bernard Capp </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>L. V. Ryan, <i>Roger Ascham</i> (1963) &middot; B. S. Capp, <i>Astrology and the popular press</i><i>: English almanacs, 1500&#150;1800</i> (1979) &middot; private information (2004) [Borthwick Institute] &middot; A. G. Dickens, &#145;The writers of Tudor Yorkshire&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=730&amp;istheme=&amp;target=TRHS')"><i>TRHS</i></a>, 5th ser., 13 (1963), 49&#150;76, esp. 65<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Bernard Capp, &#145;<span class="roman"><span class="headword">Askham ,  Anthony</span>  (<em>c.</em>1517&#150;1559)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/730, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Anthony Askham (<em>c.</em>1517&#150;1559): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/730 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

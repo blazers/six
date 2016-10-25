@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 6003;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/6/6003-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/6/6003-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=6003#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Colvile <span class="st"> [Coldewel]</span>,  George</span>  (<em>fl. </em>1556), <span class="occ">translator</span>, is said by Anthony Wood to have been a student at Oxford University, but his name appears in none of the university records. He may perhaps be identified with the physician George Coldwell of Northamptonshire. This Coldwell was granted conditional permission to graduate MB at Cambridge in 1542 after nine years' study and practice in London and elsewhere. He is next noticed on 29 January 1558, when he was licensed to practise by the College of Physicians. By 1596 he was living in Northampton, where he appears to have died about 1612.<br>
+<br>Colvile was responsible for a translation of Boethius's <span class="italic">De consolatione philosophiae</span> into English prose. This translation was first printed in London by John Cawood in 1556. Wood and Thomas Tanner record editions of 1561, 1566, and a further undated edition, but if these editions were ever printed, it appears that they are no longer extant. Colvile's translation was not printed again until it was published by the Tudor Library at the end of the nineteenth century. His version was made directly from Boethius's Latin, from &#145;a very old prynt&#146; according to the title-page. Cawood printed the translator's Latin text in his inner margin alongside the English, while the commentary runs in the outer margin. Colvile's translation is generally accurate and his prose clear. He sometimes resorts to parenthetical expansions of the text, some of which go beyond Boethius's meaning. This technique is most apparent in his prose renderings of Boethius's verse interludes, where he explains the poetic metaphors. The slight marginal commentary details mythological references, briefly points the moral, or simply indicates the subject treated. Colvile dedicated his &#145;rude&#146; translation to Queen Mary  (<span class="italic">Consolation</span>, ed. Bax, 4). His dedicatory letter takes as its theme <i>mens sana in corpore sano</i>, a factor which provides some slight support for the identification of the translator with the Northamptonshire physician.<br>
+<br>P. Botley </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>Boetius de consolationae</i> [<i>sic</i>] <i>philosophiae / the boke of Boecius</i>: <i>called &#145;The comforte of philosophye or wysedome&#146;</i>, trans. G. Colvile (1556) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6003&amp;istheme=&amp;target=Wood%2C%20Ath.%20Oxon.')">Wood, <i>Ath. Oxon.</i></a>, new edn, 1.48 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6003&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a>, 1/1.366 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6003&amp;istheme=&amp;target=Cooper%2C%20Ath.%20Cantab.')">Cooper, <i>Ath. Cantab.</i></a>, 2.208&#150;9 &middot; H. B. Lathrop, <i>Translations from the classics into English from Caxton to Chapman, 1477&#150;1620</i> (1967), 54&#150;6 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6003&amp;istheme=&amp;target=Tanner%2C%20Bibl.%20Brit.-Hib.')">Tanner, <i>Bibl. Brit.-Hib.</i></a>, 192 &middot; <i>Thomas Warton's history of English poetry</i>, ed. D. Fairer, 2 (1998), 35 &middot; J. Ames, T. F. Dibdin, and W. Herbert, eds., <i>Typographical antiquities, or, The history of printing in England, Scotland and Ireland</i>, 4 vols. (1810&#150;19), 4.397 &middot; <i>Boethius' &#145;Consolation of philosophy&#146;, translated from the Latin by George Colville, 1556</i>, ed. E. B. Bax (1897)<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">P. Botley, &#145;<span class="roman"><span class="headword">Colvile ,  George</span>  (<em>fl. </em>1556)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/6003, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Colvile (1556): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/6003 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

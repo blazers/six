@@ -1,0 +1,226 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 54124;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/54/54124-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/54/54124-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=54124#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Oertling,  Ludwig</span>  (1818&#150;1893), <span class="occ">maker of scientific instruments</span>, was born in Schwerin in the grand duchy of Mecklenburg-Schwerin on 18 August 1818, one of thirteen children and the eldest child of Johann Oertling's second marriage. Mecklenburg, which lies between Berlin and the Baltic Sea, suffered during the Napoleonic wars against Prussia and Russia, and both Ludwig and his elder half-brother Johann August Daniel (1803&#150;1866) emigrated. Johann was apprenticed to Karl Philip Heinrich Pistor (1778&#150;1847), a notable instrument maker in Berlin, where he later set up his own successful instrument making business under the name August Oertling. Ludwig travelled to Paris and then to London with other German nationals, about the time of Queen Victoria's marriage in 1840 to her cousin Albert, duke of Saxe-Coburg and Gotha.<br>
+<br>Oertling married Caroline Rowlatt (<i>d</i>. 1893) at St Bride's, Fleet Street, in the City of London on 1 January 1846; there were two children, Henry Rowlatt Augustus (1848&#150;1921) and Amelia Charlotte Mary (1852&#150;1941). In 1847 Oertling was running his own scientific instrument making business at Jewin Street in the City, but by the time Henry was born the family had moved to 13 Store Street, Bloomsbury. By 1851 Oertling was already employing five workmen.<br>
+<br>August Oertling's son Friedrich Leopold (<i>b</i>. 1831) joined Ludwig Oertling as his apprentice and in 1861 the latter went into partnership with Edward Wilds Ladd (1800&#150;1879) at premises in Bishopsgate and Moorgate Street in the City. Ladd had previously worked for Robert Brettel Bate, and his expertise enabled the firm to expand into the production of hydrometers for the excise. By the time Henry was old enough to join the firm, Ladd had retired and Oertling had moved to large purpose-built premises in Turnmill Street, Clerkenwell, where the firm remained until after the First World War.<br>
+<br>Oertling manufactured standards of weight and measure for a variety of commercial and industrial needs; he also developed, built, and maintained chemical, assay, and bullion balances noted for their high degree of accuracy and sensitivity, a tradition that was maintained throughout the 150 years of the firm's existence. Oertling gradually replaced the traditional steel knives and planes in balances by polished agate, and devised ever more effective arrestment systems. These ensured that the beam and pans were always lowered gently and smoothly into position so that the knives on which they turned aligned accurately on the planes and kept wear to a minimum. He produced balances to a wide range of designs to meet the needs of customers. These included private individuals with a keen interest in science like John Bennett Lawes, founder of the Rothamsted Experimental Station in Hertfordshire; laboratory suppliers such as Griffin &amp; Co. and Jackson and Townsend; and science-based firms such as the pharmacists Allen and Hanbury and the platinum manufacturers Johnson Matthey. A rapid expansion in scientific education in the second half of the nineteenth century brought a demand for research and student balances from, among others, the Royal College of Chemistry in London, Owens College (later to become Manchester University), Trinity College, Dublin, and Harvard College (later the University), Cambridge, Massachusetts. He supplied large financial institutions, including the Royal Mint and the Bank of England, and many mints and assay offices around the world including Ottawa, San Francisco, Melbourne, and Madras. Oertling balances were ordered by the warden of the standards, H. W. Chisholm, for the comparison and verification of standard weights by the standards commission. He also supplied scales and weights and measures to inspectors of weights and measures as parliamentary legislation worked to improve standards of commercial weighing throughout the kingdom and from mill to market place.<br>
+<br>In 1873 Oertling travelled to St Petersburg to discuss with the chemist D. I. Mendeleyev (1834&#150;1907) the design of his new balance, and in 1886 he made a balance for J. H. Poynting, with which Poynting determined the mean density of the earth in 1891. George Hogarth Makins, assayer to the Bank of England, came to Oertling with his ideas, from which evolved a whole family of assay balances with delicate skeleton beams. By 1893 the finest was accurate to 0.005 mg; they came into use by assay offices around the world. For the banks he designed an improved machine which would weigh individual gold coins and rapidly sort those too light or too heavy into separate containers, and bullion balances for weighing the gold bars. Sir William Ramsay (1852&#150;1916) and Lord Rayleigh (1842&#150;1919) used his balances but the majority of sales went to more humble customers such as Lionel John Beale of Long Acre, surgeon and medical officer of health for St Martin-in-the-Fields, who bought a simple balance costing &pound;3 in 1847 for the dispensary serving his patients who lived in the back streets of Seven Dials and Covent Garden.<br>
+<br>Instruments of such quality made by a skilled and stable workforce attracted attention at international exhibitions and Oertling received the highest awards on each occasion that he exhibited: at London in 1851, 1862, and 1885, and in Paris in 1855. His daughter said of him that he was a most lovable man and as good as he was clever. He died of heart disease at his home, Mecklenburg House, Kingston Road, New Malden, Surrey, on 2 September 1893 and was buried five days later in Norbiton cemetery, Kingston upon Thames.<br>
+<br>P. D. Buchanan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>private information (2004) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54124&amp;istheme=&amp;target=CGPLA%20Eng.%20%26%20Wales')"><i>CGPLA Eng. &amp; Wales</i></a> (1893) &middot; d. cert. &middot; parish register (marriage), St Bride's, Fleet Street, 1 Jan 1846 &middot; <em>The Times</em> (5 Sept 1893)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54124&amp;istheme=&amp;target=Library%20of%20Birmingham')">Library of Birmingham</a>, papers in Avery collection
+   &middot;
+ National Museum of Scotland, Edinburgh, collection of balances
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54124&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, collection of balances
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=54124&amp;istheme=&amp;target=Sci.%20Mus.')">Sci. Mus.</a>, medals presented to the firm, 1851 exhibition, etc. (on loan)<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. A. A. Berrie, portrait, 1930?&#150;1939 (after photograph), GEC/Avery Ltd, Soho Foundry, Smethwick, Warley, Avery Museum of Weighing Apparatus<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;16,496 15<i>s</i>. 9<i>d</i>.: probate, 13 Oct 1893, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">P. D. Buchanan, &#145;<span class="roman"><span class="headword">Oertling,  Ludwig</span>  (1818&#150;1893)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Sept 2013 [http://www.oxforddnb.com/view/article/54124, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Ludwig Oertling (1818&#150;1893): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/54124 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/54124/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

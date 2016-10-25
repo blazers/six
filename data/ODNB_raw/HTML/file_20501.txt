@@ -1,0 +1,469 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 20501;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/20/20501-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/20/20501-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=20501#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=20501&amp;orientation=p')"><img border="0" alt="  Daniel O'Connell (1775&#150;1847), by George Mulvany" onmouseover="status='  Daniel OConnell (1775&#150;1847), by George Mulvany'" src="/images/article-imgs/20/20501_1_200px.jpg"></a><span class="imagecaption"><b>  Daniel O'Connell (1775&#150;1847)</b>, by George Mulvany</span>
+</div>
+<div class="para">
+<span class="headword">O'Connell,  Daniel</span> <span class="st"> [<em>known as </em> the Liberator]</span>  (1775&#150;1847), <span class="occ">Irish nationalist leader</span>, was born on 6 August 1775 near Carhen, Cahirciveen, co. Kerry, the eldest of the ten children of Morgan O'Connell (1739&#150;1809) and his wife, Catherine O'Mullane (1752&#150;1817).<h2>
+<a name="Backgroundandearlylife"></a>Background and early life</h2>The O'Connell family inhabited a series of overlapping cultures. They were Roman Catholics in a society in which a small minority of adherents of the protestant state church monopolized political privilege. The O'Connells in their turn enjoyed the privilege and prestige of landholding, which was emblematic of claims to an ancient Gaelic lineage. But their status was scarcely aristocratic: Derrynane House, the residence of Maurice O'Connell (1728&#150;1825), alias Hunting Cap, O'Connell's uncle and the head of the family, was a sturdy pile that fell short of Georgian grandeur. And it was status bolstered rather than tarnished by trade: O'Connell's father was a farmer, merchant, and retailer as well as landowner and middleman; proximity to a remote, indented coastline had facilitated generations of profitable smuggling. France loomed large not only in commerce but as a land of opportunity where Catholicism was not a barrier to office-holding and a talented Irishman (or Corsican) with claims to a lineage at home could be admitted to privileges from which the vast majority of French subjects were excluded on the basis of birth. Another of the young O'Connell's uncles, also Daniel, was lieutenant-general in the service of Louis XVI and, from 1783, a count of France. The nephew of the count passed his earliest years in a herdsman's mud cabin, being fostered out to a retainer until he was four. In the foster family he was immersed in the Irish language, the dominant vernacular of the countryside that had already been replaced by English in his parents' house.<br>
+<br>Within a year or two of his return to Carhen, O'Connell's young life took a significant turn when he was sent to Derrynane to become informal heir to the childless Hunting Cap, and so to the effective headship of the extended family. Private instruction at Derrynane was followed in 1790&#150;91 by a period in a one-teacher Catholic boarding-school near Cork. In August 1791 O'Connell and his brother Maurice arrived in Li&egrave;ge in the Austrian Netherlands, sent by Hunting Cap to have their education finished in the ambience of an English Catholic college. Unable to gain entry in Li&egrave;ge, they spent six weeks in Louvain before being admitted to the English College in St Omer, where they remained from October 1791 to August 1792, when they transferred to the English College at Douai. So O'Connell lived through the last disjointed months of an <i>ancien r&eacute;gime</i> institution while the revolution gathered pace all around: the battle of Jemappes on 6 November 1792, which opened the way for French armies to enter the Austrian Netherlands, was fought within earshot of Douai. Meanwhile foreigners and those identified with the old order were streaming out of France. Belatedly, on 21 January 1793, the date of the execution of Louis XVI, the O'Connells joined the rush to cross the channel.<h2>
+<a name="Lawstudiesandintellectualformation"></a>Law studies and intellectual formation</h2>The flight from Douai to London had major symbolic significance. Henceforth for the O'Connells and others like them opportunity would lie not in continental Europe but in the realm of George III. In 1792 the entry of Catholics to the Irish bar had been legislated for, and by the end of 1793 O'Connell was set on a legal career. He was enrolled at Lincoln's Inn from January 1794 to early 1796, following which he spent a term at Gray's Inn. While the inns monitored attendance at dinners, acquisition of legal knowledge was a matter for the aspiring lawyer himself. It was a responsibility that O'Connell undertook with determination through avid reading of the corpus of legal authorities from Blackstone down. Thus was founded the sound knowledge of the law on which so much of his future success was to be based.<br>
+<br>Legal texts apart, O'Connell at this time read voraciously, taking in the established classics&#151;Shakespeare, Gibbon, Voltaire&#151;and also the radical literature of the age. Exposed to works such as Paine's <span class="italic">Age of Reason</span> and Godwin's <span class="italic">Political Justice</span>, and emboldened by acquaintance with individual devotees of the new thinking, O'Connell by the age of twenty had become a democratic radical. He kept at this time a diary that witnesses to a loss of conventional Christian faith and an intellectual conversion to deism. When in adult life he became a public figure devout Catholicism was integral to his persona, but the London-based radicalism of the mid-1790s was to remain part of his make-up. Typically of the young romantic, he not only committed his innermost thoughts to paper for a number of years, but planned to write a novel of high adventure.<br>
+<br>Intent on making his career in Ireland, O'Connell arrived in Dublin in May 1796 and immediately entered the King's Inns, where he completed his legal apprenticeship over the following two years. In a time of high political tension he was drawn to the radical world view of the burgeoning Society of United Irishmen and at the same time was repelled by the prospect of a violent revolution that would overthrow the social system on which his present and prospective status depended. His experience in France had undoubtedly coloured his view of revolution. In the panic following the attempted French landing at Bantry in December 1796 O'Connell enlisted with the lawyers' artillery, a volunteer corps dedicated to upholding the <i>status quo</i>. This had no apparent implications for his radical views and he may have formally joined the United Irishmen in 1797. He certainly talked radical politics with some abandon, although he clearly was never close to the conspiratorial core. A few days after his call to the bar in May 1798, rebellion broke out in Wexford and spread quickly to other parts of the east and midlands. With the courts suspended, the new barrister made his way to co. Kerry. A bout of serious illness extended his stay and he was not back in Dublin until November 1798.<br>
+<br>O'Connell's career as a practising barrister began in 1799, when he set out on the Munster circuit as junior counsel. He proved to have an extraordinary capacity for the toil of producing quotidian legal documents and on circuit he displayed an instinctive talent for the theatre of forensic confrontation. He became in a relatively short number of years one of the most sought-after of barristers in the country, and eventually took special cases at venues outside the Munster circuit. It was as Counsellor O'Connell that he first acquired fame and admiration among the populace, and that was how a great many of his plebeian followers continued to refer to him even when from the late 1820s others preferred to salute him as the Liberator.<h2>
+<a name="Marriagefamilyandfortunes"></a>Marriage, family, and fortunes</h2>In the autumn of 1800 O'Connell met and fell in love with Mary O'Connell (1778&#150;1836) of Tralee, the daughter of a deceased third cousin, impoverished and without dowry. They entered into a pledge of engagement but kept the arrangement secret from all except a few friends. Hunting Cap was already planning a suitably profitable match for his heir apparent; an undowered marriage would threaten everything that the uncle had striven to secure for the extended family and in particular for O'Connell. While never wavering in his devotion to Mary, O'Connell was very slow to face the expected wrath of his family. They married at O'Connell's Dublin lodgings on 24 July 1802, after which Mary returned to Tralee. The relationship continued on a furtive basis until Mary's pregnancy forced disclosure. The family in general took the blow sufficiently well for Mary to be admitted to the parental home at Carhen following the birth of a son, Maurice, on 27 July 1803. Co-existence with her in-laws was not without its difficulties, but Mary had no home of her own until in November 1805 O'Connell set up house in Dublin at 1 Westland Row. By then another son, <script>writeSeealsoLink('../view/article/20505/', "Morgan O'Connell (1804&#150;1885)")</script>, had been born and a daughter, Ellen (1805&#150;1883), was about to arrive. Of eight further children, four would survive infancy: Catherine, called Kate (1807&#150;1891); Elizabeth Mary, called Betsy (1810&#150;1893); <script>writeSeealsoLink('../view/article/20502/', "John O'Connell (1810&#150;1858)")</script>; and Daniel (1816&#150;1897).<br>
+<br>O'Connell's relationship with his wife is marvellously documented in the more than 600 surviving letters they exchanged during their frequent periods of separation, not least when he was on circuit or, in later years, attending parliament at Westminster. They reveal ongoing struggles about domestic matters, always resolved amicably in the end, and his sharing with her of all the achievements and frustrations of his public life. As the record of a loving relationship that lost none of its freshness over a period of more than thirty years, they constitute a remarkable archive.<br>
+<br>O'Connell retained the headship of the extended family for which he had been destined, but his decision to marry improvidently altered the character of that position. Both the sorely aggrieved Hunting Cap and O'Connell's father changed their testamentary arrangements to his disadvantage, and to the benefit of his brothers. However, he would still inherit Derrynane and other properties from the uncle, while the inheritance from his father, which fell to him in 1809, included a lease of extensive portions of the Kerry estate of Trinity College, Dublin. As landlord and middleman his rent roll would run to thousands of pounds per annum.<br>
+<br>Hunting Cap lived long enough to enjoy seeing his prot&eacute;g&eacute; achieve a near heroic public stature, but this did not encompass the financial competence for which the mentor had laboured. Perhaps because the tyranny of the uncle had destroyed his sense of responsibility in this respect, O'Connell never managed his financial affairs successfully. His income from his practice exceeded &pound;1000 per annum by 1806 and moved upwards dramatically thereafter. But neither earned income, nor rents, nor even the national tribute that he was to receive from 1829 onwards, however compounded, could meet his outgoings. The acquisition in 1809 of 30 Merrion Square as a family residence was an extravagance, but O'Connell's basic financial problem was not caused by ostentatious living. He never made realistic cash flow projections, and out of vanity and kindness he was all too ready to lend and spend or to act as guarantor for loans, especially when caught up in the trammels of local society in his beloved co. Kerry. At the same time he borrowed recklessly and shamelessly from the rich and the plain, thinking only of immediate needs and never of the longer term. As a landlord he allowed customary outlays and clientilist practices to get in the way of efficient management of his estates. It is certain that his financial problems predate, and therefore cannot be blamed on, the absorption of his time by national politics.<br>
+<br>A serious reduction in rental income in the early 1820s occasioned by agricultural depression led O'Connell to send his wife and family in May 1822 to reside in France (at Pau and later at Tours). He visited them in September 1822 and again in October 1823, when he took them to see Paris. Soon the household was relocated to Southampton. This was meant as a staging post for a return to Dublin, which came to pass in May 1824 and was now represented in its turn as an economizing measure. O'Connell came into possession of Derrynane in 1825 following Hunting Cap's death. Soon his wife and family were installed there for half the year. To facilitate this supposedly expense-saving measure, O'Connell embarked on substantial and very expensive extension and refurbishment.<h2>
+<a name="Enteringpoliticallife"></a>Entering political life</h2>It was as a boy in Derrynane in the 1780s that O'Connell became a student of politics and first cast himself as a political actor. The stage was that of the Irish parliament, independent after a fashion from 1782 and illuminated by the heroic-seeming Henry Grattan. When in 1799 and 1800 the proposed union threatened abolition of the Irish parliament, O'Connell was implacably opposed and utilized a rhetoric of independence newly coined in the 1790s. He was unmoved by the argument of prominent Catholics, including Hunting Cap, that union offered them and their co-religionists an escape from the dominance of the Irish protestant ascendancy. He did not at this time see himself as a Catholic but as a deist, and like the United Irishmen he was happy to proclaim that religious differentiation had no future as a factor in Irish politics. While he soon abandoned that conceit, opposition to the union was to remain one of the most consistent planks in his political platform. Even more central was his opposition to any resort to physical force as a means of undoing the union or remedying any of Ireland's problems. His own brush with the French Revolution, the vested interests of a lawyer and landowner, and sheer political pragmatism all supported such an outlook. Godwin's <span class="italic">Political Justice</span> (1793) provided his ideological conviction about the futility of violence. With the passage of time he developed a detestation of bloodshed, based on humane and religious considerations. From the start he had a horror of social unrest and all his political work has to be assessed in the knowledge that avoiding or preventing social revolution was always uppermost in his mind. His uninhibited use for rhetorical purposes of past Irish military conflicts (with the exception of 1798) and his enthusiasm for the South American wars of national liberation in the 1810s and 1820s, and for the Belgian revolution of 1830, show the limits of his pacifism. In 1803, during the scare caused by Robert Emmet's abortive rising, O'Connell joined the Kerry yeomanry, as he had rallied to the crown forces in the panic of 1797. But he was to be bitterly disappointed by the news of Waterloo. O'Connell carried forward into the post-revolutionary era (which in Ireland had begun by 1800) a congeries of radical attitudes that mark him as a quintessential liberal: these included dislike of state involvement with religion, detestation of slavery, resentment of unearned privilege, and commitment to the principles of freedom of conscience, freedom of association, freedom of contract, and the sanctity of property rights. Between 1828 and 1831 he had an exchange of ideas with Jeremy Bentham in which he made clear his attachment to the views of the apostle of utilitarianism.<br>
+<br>For most middle-class Irish Catholics of O'Connell's own and earlier generations their civil disadvantage was a historical misfortune to be ameliorated as opportunity offered. For O'Connell, the product of the 1790s, it was also an affront to a universal principle and an intolerable barrier to himself as an individual. The initiation of the union on 1 January 1801 was not accompanied or followed by the abolition of Catholic disabilities. When the veteran campaigners for Catholic emancipation reassembled on 16 November 1804 as the Catholic Committee, they were joined by O'Connell, who made a sufficient impact to have himself appointed to the standing committee. Addressing the meeting, he explicitly cited the barriers to the progress of his own career posed by the existing state of the law, which effectively excluded Roman Catholics from parliament, all the high offices of state, and numerous positions of advantage including the inner bar.<br>
+<br>Joining a campaign for Catholic rights amounted to acceptance by O'Connell that the transcending of religious division had been a mirage. Separating his religious affiliation from his career was not an available option. He was thus publicly renewing his identification with a religion to whose tenets he did not then subscribe. It was to be another four or five years before he began to resolve the anomaly by resuming the practices of Catholicism, such as regular mass attendance and prayers, lenten fast, and abstinence from meat on Fridays. A freemason from 1799, he subsequently abandoned the brotherhood in obedience to papal pronouncement. In his later life he was notable for a piety more intense than anything that mere political expediency might have produced.<br>
+<br>O'Connell brought to the campaign for Catholic emancipation a sense of anger and impatience not shared by the older and partially aristocratic membership of the Catholic Committee. After the latest initiative had collapsed with the defeat of a relief bill at Westminster in May 1805, O'Connell's authority was strengthened as one of the few prominent Catholics who had discerned the false promise of the union. Between 1805 and 1808 his advocacy of a belligerent policy as against the moderation of the older members won him effective leadership but not total dominance of the Catholic Committee. The policy of continued petitioning forwarded by O'Connell resulted in May 1808 in another predictable parliamentary rebuff, but it also occasioned a compromise proposal by Irish whig MPs, which they believed to have episcopal support and under which the abolition of those legal disabilities affecting Catholics would be balanced by the concession to the government of a veto over Catholic episcopal appointments in Ireland. O'Connell took the lead in voicing opposition to this and, by vigorously stirring up lay Catholic opinion through the newspapers, he was mainly responsible for inducing the bishops to assemble in September 1808, when they repudiated the veto offer in which a number of them had been complicit.<br>
+<br>The next stimulus to agitation of the case for emancipation came in late 1810 with the prospect of a regency. Again the lead in formulating a petition was taken by O'Connell and again his hard line provoked the fears of moderates. His attempts to co-ordinate agitation on a countrywide basis provoked the civil authorities into efforts to restrict the operations of the Catholic Committee. There ensued a game of legalistic chess of a kind at which O'Connell excelled: even if he lost advantage he gained enormously in the admiration of supporters for his ability to challenge the government on its own ground. A typical ploy was the disbanding of the Catholic Committee at the end of 1811 and its replacement by the Catholic Board.<br>
+<br>When a new cabinet opposed to concessions for Catholics was formed in June 1812, the Catholic Board adopted a resolution intimating that the prince regent's judgement was controlled by the &#145;witchery&#146; of his mistress, Lady Hertford. When shortly afterwards the Commons resolved to deal with the Catholic issue in the next session, O'Connell propelled the board into an intransigent &#145;all or nothing&#146; stance. The <span class="roman">Relief Bill</span> that followed in May 1813 predictably offered less than &#145;all&#146; and was the occasion for another outpouring of Catholic resentment orchestrated by O'Connell and culminating again in an episcopal declaration that could be seen as following his dictation. In the event the bill did not proceed, but a significant element withdrew from the board in protest against O'Connell's intransigence. If he had been acting, instinctively or otherwise, to oust rivals for leadership by adopting an emotionally appealing line of policy he had certainly succeeded handsomely, even if it was at the expense of alienating a significant group of lay Catholic campaigners. But it must be recognized also that his stance on the veto question in these years was consistent with the radical attitudes to church&#150;state relations that he had acquired in the 1790s. He had certainly pushed the bishops into a far more radical stance than they would have otherwise adopted. When in February 1814 a formal Vatican judgment warmly approved the principle of the veto, O'Connell set his well-practised tactics in motion and within months the bishops effectively repudiated the Roman position. In January 1815, in anticipation of a well-signalled papal rescript, O'Connell pushed his defiance of Roman compromise on the veto to new limits. When, in May 1815, Rome pronounced the acceptability of a veto, with the full authority of Pope Pius VII, the Irish Catholic bishops once again repudiated the possibility.<br>
+<br>Dublin Castle watched O'Connell anxiously. With the appointment of the youthful Robert Peel as chief secretary for Ireland in 1812, a gigantic antagonism was initiated. Peel systematically utilized the legal system to silence those newspapers that were the most effective vehicles of O'Connell's propaganda and in June 1814 he found a pretext to suppress the Catholic Board. O'Connell's impact on public life owed not a little to the brilliance, scurrility, and vehemence of his verbal and written assaults on opponents. The new chief secretary he instantly and woundingly derided as &#145;Orange Peel&#146;. Defending John Magee, editor of the <span class="italic">Dublin Evening Post</span>, in court in July 1813 he subjected the attorney-general, William Saurin, to humiliating personal abuse. Throughout his career O'Connell's robust and inspired oratory, whether in court or on the public platform, was a potent factor in his popular standing.<br>
+<br>The bitterly personal conflict with the establishment led to O'Connell's participation in two affairs of honour in 1815. John D'Esterre was a merchant who chose to take insult at a remark of O'Connell's concerning Dublin corporation. On 1 February 1815 they faced one another with pistols at Bishop's Court, co. Kildare. D'Esterre was fatally wounded, an outcome that further enhanced O'Connell's heroic stature. He was subsequently affected by remorse at having killed a man and left a family bereft. That did not prevent him from being drawn into another affair later in 1815. This time his adversary was the chief secretary, who was deemed to have impugned O'Connell's honour with a remark in the Commons. In the event Peel travelled to the agreed venue&#151;Ostend&#151;while the authorities in London intercepted O'Connell on his way there. When another duel seemed imminent in 1817 face was saved on both sides when O'Connell made the distinction between political and personal criticism. In later years O'Connell repudiated duelling and condemned it as an affront to reason and religion. The fact that he was no longer prepared to offer the opportunity of exacting satisfaction in the time-honoured fashion to those whom he continued to insult came to be seen as further evidence of his want of gentlemanly qualities.<br>
+<br>In 1815 and the years immediately following the conditions for agitation were unfavourable. Having tried various other tactical devices, O'Connell in 1818 began to adopt an apparently more flexible line on the veto issue and to make friendly overtures to the aristocratic Catholic leaders and also to the whigs. On this basis he appeared to have achieved a working arrangement with Henry Grattan before the latter died in June 1820. But when in 1821, in an initiative beyond O'Connell's influence, the Commons was passing a bill for Catholic relief with provision for a veto, he endeavoured to stir up popular opposition to the measure. The intransigent anti-Catholic majority in the Lords came to O'Connell's aid by defeating the bill in April 1821.<br>
+<br>On the occasion of the visit to Ireland of George IV in August 1821 O'Connell joined with tories and Orangemen in extending a most loyal welcome. The affirmation of unswerving loyalty to the crown was one of the few fixed points of his political strategy; professing common cause with the Orangemen was a tactic employed only on occasion. When, at O'Connell's suggestion, the lord lieutenant, Lord Wellesley, prohibited an Orange march in Dublin on 4 November 1822 fierce protests ensued, culminating in the pelting of the lord lieutenant's box at the Theatre Royal with missiles. O'Connell joined ostentatiously in the consequent public meeting of notables of various persuasions to express disgust at the insult, and he was a member of the delegation deputed by the meeting to wait on the lord lieutenant with expressions of regret.<h2>
+<a name="TheCatholicAssociation"></a>The Catholic Association</h2>In May 1823 O'Connell was a barrister of twenty-five years' standing and of universally acknowledged brilliance and capacity. Yet on the basis of his religious affiliation he was denied advancement beyond the lowest rung of the profession. That was the month in which he took the lead in founding a new Catholic Association. In preparation he had mended fences with Thomas Wyse and other notable Catholics previously alienated by his intransigent line on the veto. At O'Connell's insistence the new body had a stated objective much wider than the simple &#145;relief&#146; or emancipation which would allow a small minority of Catholics like himself to proceed to inner bar, bench, or parliament: it was to address all the concerns of the Roman Catholic collectivity. This signalled the start of a mobilization of the populace for constitutional political ends which had little precedent anywhere, was contrary to the instincts of contemporary Liberals, and was to make O'Connell a historical figure of European significance. For some years he had been promoting aggregate meetings in provincial centres as weapons in his struggle with the vetoists, especially in the Munster towns which he himself visited on circuit. The Catholic Association was intended to provide for structured country-wide agitation. It was also intended to draw in the lower socio-economic classes. At a public meeting in Dublin on 15 June 1813 he had advocated, or at least predicted, popular mobilization; he now set about achieving this by introducing associate membership of the Catholic Association at 1<i>d</i>. per month. Thus was instituted the &#145;Catholic rent&#146;. A phenomenal organizational effort by O'Connell, making astute use of the Catholic parish structure, raised about &pound;20,000 by early 1825.<br>
+<br>The impact of this mobilization on political opinion was evident when O'Connell led a delegation to London in February 1825. Whig and Catholic notables swarmed around him: on 6 March he was entertained to dinner with thirteen peers of the realm by the twelfth duke of Norfolk. In another form of compliment the government was busily putting through the <span class="roman">Unlawful Societies (Ireland) Act</span> (6 Geo. IV c. 4), clearly intended to curb both the Catholic Association and the Orange order. More encouragingly, O'Connell was consulted by Sir Francis Burdett about his private member's bill proposing to grant Catholic emancipation. This was carried in the Commons but defeated in the Lords in May 1825. The upper house had merely postponed O'Connell's victory, ensuring that its impact on the political system would be all the more traumatic. O'Connell had consented to the inclusion in Burdett's measure of state payment of the Catholic clergy, and the suppression of the 40<i>s</i>. freehold franchise in Irish counties. In compromising thus on his previous position of principle he left himself open to criticism from radical voices in Ireland, but he dealt easily with the opposition, and his return to Ireland in May 1825 was a triumph. He quickly set about reorganizing the Catholic Association on a basis that evaded the strictures of the recent act.<br>
+<br>The systematic mobilization achieved by O'Connell in 1824&#150;5 was the basis for a momentous development in the general elections of 1826: in co. Waterford and a number of other constituencies Catholic 40<i>s</i>. freeholders were put under irresistible pressure to vote for candidates declaring support for Catholic emancipation, even when this meant defying the established expectation that their landlords could command their votes. What was &#145;democratizing&#146; about this was not so much independent action by 40<i>s</i>. freeholders&#151;a small group, mainly consisting of farmers of some substance&#151;but that their votes were influenced by the opinion of the unenfranchised masses. When, in the wake of the 1826 elections, the chagrined landlords called in the arrears of rent owed by 40<i>s</i>. freeholders who had defied them at the polls, O'Connell accepted the responsibility of the Catholic Association for these victims of its policy, and used this as a pretext for another round of fund-raising&#151;and another round of mobilization.<br>
+<br>The influence gained by O'Connell's mobilization of Catholic power in Ireland was demonstrated when he proceeded to give direction to various Irish county members during the months of manoeuvring at Westminster that preceded the emergence of Canning as prime minister in April 1827. Soon he was trying with limited success to influence the government's appointments to the Irish administration in Dublin Castle. O'Connell raised by a few notches the pressure he was now exerting on the political system at the very top by a resumption of campaigning. In the most impressive exercise to date meetings were held in about 1600 parishes on Sunday 13 January 1828. At least 1 million participants adopted the same precirculated resolutions. O'Connell's determination to maintain pressure was strengthened by the appointment of the duke of Wellington as prime minister (and his old antagonist Peel as home secretary) later in January: between whigs and tories O'Connell was instinctively partisan, and he went along with a resolution of the Catholic Association that henceforth every candidate supporting the government would be opposed at Irish elections. Vesey Fitzgerald, member for County Clare, was appointed to the new government as president of the Board of Trade and so had to seek re-election. Fitzgerald was a long-standing advocate of the Catholic cause and was so highly regarded among all classes in co. Clare that no local notable could be found to oppose him. In order to preserve the credibility of the Catholic Association's strictures O'Connell himself was prevailed upon to stand as a candidate, although as a Catholic he could not as the law stood take his seat if elected. The marshalling of the electorate from all corners of co. Clare to the poll in Ennis in the early days of July 1828 was a masterpiece of electoral logistics accompanied by an unprecedented carnival of popular politics. O'Connell was declared elected on 5 July with a vote of 2057 to 982. His subsequent journey from Ennis to Dublin was reminiscent of the homecoming of a victorious Roman general. &#145;They must crush us or conciliate us. There is no going on as we are&#146;. So O'Connell declared to the Catholic Association on 10 July. It was now the task of the victor of Waterloo to persuade the king and numerous members of his own party that the Catholics would have to be conciliated.<br>
+<br>There ensued a period of high political tension during which O'Connell had to keep his organization on the boil while preventing it from spilling over. Word of the agreement of George IV and his ministers to concede emancipation was reported in early February 1829 and on 6 February O'Connell left for London. When the <span class="roman">Roman Catholic Relief Bill</span> was published a month later, he was overjoyed that emancipation was not to be tied to any veto over ecclesiastical appointments or any scheme of state payment for the priesthood. The exclusion of the monarchy and a handful of high offices besides showed that pragmatism rather than principle was at work, but that caused him little distress. A few sops to disappointed prejudice in the form of restrictions on religious orders and on the use of ecclesiastical titles he dismissed (correctly) as unenforceable. Less easy to dismiss was the blow to O'Connell's interests contained in the <span class="roman">Irish Parliamentary Election Bill</span>, designed to accompany the relief measure onto the statute book. This raised the threshold for the county franchise from 40<i>s</i>. to &pound;10, thereby disenfranchising the bulk of his electoral battalions. He quickly accepted that his protests against this coup were futile and set about making the most of the achievement of Catholic emancipation, which received the royal assent on 13 April 1829. However, when O'Connell presented himself to the clerk of the House of Commons on 15 May, he was tendered the old oath of supremacy obnoxious to Roman Catholics, to which he declined to subscribe: the act applied only to those elected after its passage. On 18 May he was permitted to argue his case for immediate admission from the bar of the house. In the subsequent debate his election for County Clare was voided and a by-election called, with many hoping that the new, greatly reduced electorate would be less amenable to his influence. In the event he was returned unopposed for County Clare on 30 July 1829 and eventually took his seat on 4 February 1830.<h2>
+<a name="Inparliament"></a>In parliament</h2>On entering parliament O'Connell largely, though not entirely, abandoned his legal career. Fittingly, just a few months before he had given the most famous of those forensic performances that would have assured him of folk-hero status even if he had never entered politics. This was at the Doneraile conspiracy trial before a special commission in Cork in October 1829, where popular amazement at his feats on behalf of the defence was enhanced by the fact that he was summoned to act while on vacation in Derrynane after the first batch of defendants had been convicted, and that he rushed the 90 miles to Cork in a celebrated overnight ride, dismounting outside the court house as the trial of the next batch began. Over the following days he jousted verbally with the prosecution team and reduced the crown witnesses to pathetic incoherence, with acquittals and commuted sentences as the outcome. In folk memory it became the Counsellor's finest hour.<br>
+<br>It was not only that the demands of parliament left O'Connell with less time for the courts: emancipation did not immediately secure for him the professional opening that his accomplishments merited. The first group of Catholics was called to the inner bar in October 1829 as the <span class="roman">Relief Act</span> allowed, but O'Connell was not included. Whatever the indignity of continuing as a junior counsel, he could not have abandoned his legal income without having an alternative. In March 1829 an O'Connell testimonial fund was established, which enabled a grateful nation to display its appreciation by contributing up to &pound;30,000. Henceforth he was the beneficiary of an annual tribute estimated to have averaged about &pound;12,000. This arrangement owed everything to Patrick Vincent Fitzpatrick, O'Connell's financial manager from 1830, who brought some order to the still insoluble problem of finance. The tribute was spent indiscriminately on O'Connell's political business and on his private needs, now more insatiable than ever. Setting up his family was a major drain. It has been estimated that he spent up to &pound;20,000 on marriage settlements alone. In 1834 he founded the national bank: eight years later he was forced to resign from the position of governor because of an overdraft exceeding &pound;30,000. Another venture into business, the purchase of a small Dublin brewery, proved similarly unsuccessful.<br>
+<br>The extraordinary talents and skills that had served him so well in the courts and in Irish politics enabled O'Connell to become from the start an outstanding parliamentary performer. If none could deny his capacity, many mistrusted and despised him. He had forced his way in by invoking the power of the masses and he was dependent for his income on public subscriptions. The harshness of his vituperation against opponents and his wounding invective made matters worse. Disraeli, he opined, was surely descended from the impenitent thief of Calvary. If in the eyes of some of his fellow MPs he would always be an outcast, he had himself partly to blame. Some of the antagonism he encountered, such as that evinced by <span class="italic">The Times</span>, was so virulent and enduring that parallels would be difficult to find.<br>
+<br>The matters on which O'Connell campaigned during his parliamentary career were general liberal or radical issues, reforms specific to Ireland, and repeal of the <span class="roman">Act of Union</span>. The excitement caused by the recent revolutions in France and Belgium prompted him to raise the flag of repeal at a series of public meetings in Munster in October 1830. However, with the advent of a whig government in November 1830 reform beckoned. Within a matter of months O'Connell had put repeal out of sight and was supporting the government's push for parliamentary reform. It was, however, an alliance marked by suspicion and uncertainty. O'Connell had even been arrested in January 1831 on a trumped-up conspiracy charge. By October 1831 he had been admitted to the inner bar and had secured the promise of a job for a son-in-law. The imminent &#145;reform&#146; of the Irish administration intimated at the same time amounted to a redirection of spoils, but O'Connell himself had not pursued various possibilities for personal advancement that had been held out to him. In and out of parliament O'Connell identified with those seeking more thoroughgoing reform than the act of 1832 provided for. The corresponding Irish legislation (2 &amp; 3 Will. IV c. 88) was particularly unadventurous, despite O'Connell's efforts to have it improved. Even as reform was being legislated, O'Connell was preparing to resume his agitation for repeal.<br>
+<br>O'Connell had fought the general election of May 1831 solely in the interest of reform: &#145;Reform and Negro emancipation&#146; was his slogan, and he used his influence to assist the return of supporters of reform in a series of constituencies. At the general election of December 1832 his plan was to give his approval only to candidates declaring for repeal and signing a pledge to promote it if elected. By this device he formed a group of thirty-nine MPs, a prototype of the modern political party. While he had taken a strong anti-whig line on the hustings, he used his new-found strength not to oppose the whig government but to increase his bargaining power. A move by the government to trim the ecclesiastical establishment in Ireland delighted O'Connell both as an Irish Catholic and as a radical, although he denounced its final form in the <span class="roman">Church Temporalities Act</span> as inadequate. When, early in 1833, the government introduced the <span class="roman">Suppression of Disturbances (Ireland) Bill</span>, which incorporated some very stringent measures, O'Connell and the more reliable of his followers mounted a stiff opposition, exploiting the procedures of parliament to force substantial amendments from the government. However, with the government in danger of losing its majority on other issues in the early summer of 1833, O'Connell and his followers rallied to its support in the voting lobbies.<br>
+<br>O'Connell had pioneered the independent Irish party, an institution that was to reappear in various forms later in the century. One of his problems in 1833 was that the raising in parliament of the party's ostensible <i>raison d'&ecirc;tre</i>, repeal, would simply produce an overwhelming rebuff, with inevitably demoralizing effects on his support in Ireland. Feargus O'Connor, repeal MP for Cork, caused considerable trouble for O'Connell by encouraging activists at home to demand that the repeal issue be raised. It was with difficulty that O'Connell held off the pressure in 1833 and eventually he did so only by agreeing to move in 1834. He presented a brave face when putting forward a motion, on 22 April 1834, for a select committee to inquire into the effects of the <span class="roman">Act of Union</span>. He was humiliated but not surprised when this was defeated by 523 votes to 38.<br>
+<br>Consolation was soon at hand as the attrition of the government's support in the Commons placed O'Connell and his followers in a pivotal position, so that by early summer the placating of O'Connell was a prime issue for the cabinet. When Grey was replaced by Melbourne as prime minister in July 1834, O'Connell could claim to have influenced a change greatly to his liking. Over the following months he was encouraged to convey his likes and dislikes in the matter of Dublin Castle appointments to the whig inner circle. At the general election of January 1835 his platform was anti-toryism, and his weight was thrown behind whigs of every type where they were not in competition with his fellow repealers. He could claim subsequently to be the leader, at least informally, of a party of sixty and in the then fissiparous state of party allegiance this was enough to give him something akin to the balance of power in the Commons. Confirmation of his status came when he was invited to join an exploratory meeting of Liberal MPs on 18 February. The outcome of this and other contacts was an unwritten and unacknowledged understanding&#151;the so-called &#145;Lichfield House compact&#146;&#151;under which all talk of repeal was put in abeyance, Melbourne's new government was assured of O'Connell's support when needed, and O'Connell's views would be heeded in the matter of Irish appointments and Irish legislation.<br>
+<br>The new administration entering in Dublin Castle represented a dream come true for O'Connell, even if nothing came of suggestions that he himself might be installed as holder of an appropriate office. Roman Catholic law officers (some soon to be judges) were appointed for the first time since the reign of James II. The protestant appointees all had Liberal credentials, thus ousting what O'Connell saw as an Orange ascendancy clique. Most significantly, the new regime was alive with the mission of bringing good government to Ireland, a mission epitomized by Thomas Drummond, under-secretary from 1835 to 1840. At county level the appointment of Liberals, Catholic and protestant, as sheriffs and resident magistrates followed. A nominee for the office of sheriff of co. Kerry was blocked at O'Connell's behest because he was obnoxious to the O'Connell family: Hunting Cap could scarcely have dreamed of such a reversal of fortunes. O'Connell relations shared in the redirected spoils of office but not to such an extent as to offend against the standards of the age.<br>
+<br>From 1828 onwards O'Connell had identified with popular radical and reform movements in Britain. In September 1835 his new relationship with the government provided an apposite context for a series of mass meetings in northern England and Scotland. Reform of the House of Lords was his theme, reflecting his frustration with the capacity of the upper house to prevent change. He had experienced this with the rejection of two Irish bills&#151;on tithes and municipal reform&#151;that he had triumphantly seen through the Commons. Favourable legislation was to prove the most difficult part of the Lichfield House compact to secure. Elaborate attempts to obtain measures on tithes and municipal government failed again in 1836. As the year ended, a deal about Irish measures was agreed between whigs and tories (whom the Lords would follow) that involved considerable compromise on O'Connell's part. Little enough progress had been made when the death of William IV occasioned a dissolution. At the consequent general election O'Connell's loose combination of assorted repealers, whigs, and Liberals gained a few extra seats in Ireland, but the results in Britain reduced the government's strength in the Commons. When the government responded to its new situation by definitively rejecting most planks of the British reformers' platform, O'Connell nevertheless remained loyal and so lost the sympathy of the radicals. The same disillusionment contributed to the emergence of a Dublin artisan movement which seriously challenged O'Connell's authority in late 1837 and which he crushed in January 1838, but only by calling on his substantial reserves of authority.<br>
+<br>On 21 February 1838 O'Connell and his sons were introduced to Queen Victoria at a levee in St James's Palace. It was an honour that he appreciated. Ostentatious expressions of loyalty to the young queen had been part of his stock-in-trade since her accession, and would continue to be. In legislative terms 1838 produced a <span class="roman">Poor Relief Act</span> of great moment (which O'Connell had the luxury of opposing because it was supported by both sides of the house) and a <span class="roman">Tithe Act</span> which was emasculated by the Lords. Tithes were an aspect of the establishment that upset Roman Catholic opinion generally much more than it did O'Connell, partly because they constituted a species of property.<br>
+<br>No surviving example of privilege in Ireland offended O'Connell more than the unreformed municipal corporations. Their abolition in 1840 placed city and town governments in the hands of elected councils, and provided O'Connell with the only opportunity in his career to hold an official executive office. A brilliantly organized campaign secured nearly 80 per cent of the seats on the new Dublin city council for his followers, and in November 1841 he became the first lord mayor of Dublin under the new dispensation, and the first Roman Catholic holder of the title since 1688. During the one-year term he proved himself to be an efficient administrator and he greatly enjoyed the pomp and public pageantry of the office.<br>
+<br>The disadvantage of O'Connell's connection with the government from 1835 was that it precluded him from agitation in Ireland and thereby threatened his influence in the country. As early as August 1838 he had attempted to get up an agitation compatible with support of the government in the form of the Precursor Society of Ireland. This was replaced in September 1839 by the Reform Registration Association. It was only because he had become convinced that the days of the government were numbered that O'Connell in August 1840 founded an organization devoted unequivocally to repeal, the Loyal National Repeal Association. At the general election of 1841 O'Connell and his adherents ran as repealers, for the first time since 1832, but co-operated with Liberals and anyone else opposing the tories. The final figure of eighteen repeal MPs (compared with thirty-nine in 1832) was an index of how the years of co-operation with government had blunted the appetite for repeal. It was O'Connell's last general election. He had represented County Clare (1829&#150;30), County Waterford (1830&#150;31), County Kerry (1831&#150;2), Dublin City (1832&#150;5), Kilkenny City (1836&#150;7), and Dublin City again (1837&#150;41). In 1841 he lost his Dublin City seat to the Conservatives but was returned for both Meath and Cork counties and chose to sit for the latter.<h2>
+<a name="Therepealcampaign"></a>The repeal campaign</h2>With the tories returning to power, the years of influence at Westminster and Dublin Castle were over. O'Connell was ready with his response: a great campaign for repeal. The initial popular reaction was lukewarm. Having completed his term as lord mayor of Dublin, he turned his attention to the orchestration of a mass mobilization. By means of emissaries, correspondence, and the newspaper press the parochial structures of the Repeal Association were established throughout the land. The money began to flow and public demonstrations, ostensibly to petition for repeal, were organized. As 1843 progressed these meetings took on massive proportions and became elaborate set-piece triumphal processions for O'Connell. He addressed more than thirty such meetings, invariably delivering a lengthy address and playing with all his accumulated expertise on the emotions of the crowd, or as much of the crowd as could hear him: nobody can say with certainty how many attended these meetings but it certainly ran into hundreds of thousands on various occasions. Another of the great events of the year was a formal debate over three days in Dublin corporation, at which O'Connell himself spoke for four hours.<br>
+<br>The stated objective of the repeal campaign was the re-establishment of the Irish parliament so that Ireland would once again be ruled by its &#145;queen, lords and commons&#146;. It would be na&iuml;ve to think that O'Connell was committed to a very specific formula. It might also be questioned whether his actual objective was to win repeal or to put himself in a position to bargain for something else: certainly flexibility was an enduring feature of his political outlook. The government had responded to the repeal campaign with caution before moving on 7 October to suppress the final &#145;monster&#146; meeting of 1843 arranged to be held on the following day at Clontarf, near Dublin. Showing impressive logistical ability, O'Connell and his staff succeeded in turning back the long columns of supporters already converging on Dublin. This determination to stay within the law was poorly rewarded when, a few days later, O'Connell, his son John, and a number of other prominent repealers were arrested on a charge of conspiracy. After a three-week trial they were convicted on 10 February 1844. The sentence, handed down on 30 May, was for a fine of &pound;2000 and one year of imprisonment. During the interval between trial and sentencing O'Connell had been to England, where he received a standing ovation from the opposition as he entered the Commons chamber. He was honoured with banquets and public demonstrations in London, Birmingham, Wolverhampton, and Liverpool.<br>
+<br>The incarceration of O'Connell and his comrades in Dublin's Richmond gaol was a mild form of detention: he occupied a suite in the governor's house and was allowed visitors as and when he pleased. The sentences were quashed by the House of Lords on 4 September 1844 on the grounds of unsatisfactory procedures in the formation of the jury. The journey from prison to the house on Merrion Square was an occasion for another of those triumphal processions that were such a marked feature of his public life and of the political culture which he had so largely formed.<br>
+<br>Meanwhile Peel had been endeavouring to sap some of the foundations of the repeal movement. During 1844 Dublin Castle took to conferring appointments on Roman Catholics not identified with O'Connell's movement. Legislation for a commission of charitable bequests allowed the Catholic church to secure in law its corporate property at the price of formal public participation in a government initiative. The dramatic improvement in the funding of Maynooth College in 1845 amounted to an endowment of the Roman Catholic church in Ireland, and significantly constrained the ability of the bishops to participate in any further repeal campaign. Legislation, again in 1845, to establish a series of new university colleges was calculated to appeal to middle-class interests, but the provision that they be non-denominational was contentious for church people of all persuasions. O'Connell chose to denounce the proposed institutions as the &#145;godless&#146; colleges; this secured his support with the section of the Roman Catholic hierarchy most useful for the purposes of political agitation. It also provoked a conflict at the very heart of his own organization.<h2>
+<a name="ThechallengeofYoungIreland"></a>The challenge of Young Ireland</h2>
+<span class="italic">The Nation</span>, launched in October 1842, was a weekly newspaper that had contributed immensely to the popularity of the repeal campaign. However, its editorial line and content, especially as formulated by Thomas Davis, were redolent of the romantic nationalism of European contemporaries and introduced an idealistic element quite alien to O'Connell's essentially pragmatic ideology. The proprietors, the leading contributors, and their close associates, who had almost all been born or grown up after Waterloo, were well read, well educated, and mainly middle-class, and came to be known collectively as Young Ireland. They included protestants (including Davis) in numbers greatly out of proportion to their representation in the repeal movement generally. From the time of O'Connell's imprisonment <span class="italic">The Nation</span> became the focus of an independent and increasingly critical pole of influence.<br>
+<br>While O'Connell always maintained that his vision of Ireland was one where the state would guarantee the fullest freedom to all religions, in practice his repeal campaign was replete with Catholic overtones, not least in the role of the priests as key organizers throughout the provinces. These overtones offended Davis and already in the autumn of 1844 he and O'Connell had exchanged written recriminations centred on intimations of &#145;bigotry&#146;. Davis saw the rejection of the non-denominational colleges by O'Connell and others as an instance of Catholic bigotry and developed an argument for the superiority, from a national viewpoint, of &#145;mixed education&#146;. When the subject came up for discussion at a public meeting of the Repeal Association on 26 May 1845 a dramatic confrontation ensued, with O'Connell brutally decrying the right of <span class="italic">The Nation</span> to speak for the Roman Catholic people of Ireland and asserting that he and &#145;Old Ireland&#146; would stand by one another. In the past truculent performances like this had put down opposition.<br>
+<br>After a short attendance at the Commons in the summer of 1845 O'Connell set in train a revival of the repeal organization and in September and October meetings in the style, and approximating to the scale, of 1843 were held at four well-scattered venues. The feasibility of such demonstrations disappeared quite suddenly with the destruction of a large proportion of the potato crop that became evident from mid-September onwards. O'Connell's assessment of the problem was gloomy from the beginning and he was one of the principal movers of the Mansion House committee established in Dublin in October 1845 to promote relief measures.<br>
+<br>Soon the political situation seemed to brighten with the prospect of a return to power by the whigs. O'Connell spent most of the first half of 1846 at Westminster, preparing the ground for a renewal of his former alliance. Meanwhile <span class="italic">The Nation</span> conducted an editorial barrage against this very prospect, in the name of a more principled nationalism, and O'Connell felt obliged to reassert his authority over the repeal movement. He chose the issue of physical force for his challenge: various Young Irelanders had been led by the logic of their romantic nationalism to imagine the theoretical prospect of a resort to arms to vindicate Irish national claims. At a general meeting of the Repeal Association on 13 July he proposed and had accepted&#151;over a few helpless protests from the Young Irelanders&#151;a motion repudiating not only any resort to physical force but any theoretical case for it under any circumstances. Within a few weeks the Young Irelanders had withdrawn from the association, not because they had any plans to employ violence but because they refused to accept any longer the authority of the domineering old leader.<br>
+<br>Meanwhile O'Connell was busily dealing with the new government of Lord John Russell to secure a share of the spoils of office for his assorted following of whigs, Liberals, Catholics, repealers, neighbours, acquaintances, and his son Morgan. He advocated the need to extend Castle patronage to Roman Catholic tradesmen, and not only to the professional middle classes. But gradualist, co-operative, clientilist politics was no answer to a mounting socio-economic catastrophe: the potato crop of 1846 had failed totally and with the consequent sharp rise in food prices affected both countryside and town. O'Connell took measures intended to provide for the needs of the tenants on his own estate and canvassed plans for meetings and co-ordinated action on the part of his fellow proprietors through the land. He asked Russell to provide money for public works, which would give employment, and the government responded by voting &pound;450,000 for this on 17 August 1846. But even when forthcoming, the government's efforts were hopelessly mismanaged and many of those affected by the crisis who had the opportunity to respond in political terms blamed the government and recoiled from the whig alliance. In order to prevent the defection of a large section of the Loyal National Repeal Association O'Connell had to agree in December to consider proposals for a reconciliation with the Young Irelanders.<h2>
+<a name="Thecollapse"></a>The collapse</h2>On his annual, and last, sojourn in Derrynane in the autumn of 1846 O'Connell saw at first hand the desperate plight of the rural poor. He also saw the imminent collapse of much of the world he had inhabited for over seventy years. It was grimly appropriate, if entirely coincidental, that the same vacation witnessed the sudden collapse of his own physical strength. The deterioration of his voice and vigour was noticed by all when he returned to Dublin. O'Connell had been troubled by a tendency to corpulence throughout much of his life and had responded by taking regular walking exercise; in prison in 1844 he covered 3 miles daily on the yard. On his annual autumn vacations in Derrynane he followed his pack of beagles on foot over miles of challenging mountain terrain. His decline was caused not by any inevitable collapse of his remarkably robust constitution, but by an accidental brain infection. A late twentieth-century medical assessment, published as an appendix to a volume of biography, is decisive in ascribing the infection to the surgical treatment for piles he received in London in 1845  (O. MacDonagh, <span class="italic">The Emancipist: Daniel O'Connell, 1830&#150;47</span>, 1989, 338&#150;9).<br>
+<br>Back in Dublin in late 1846 O'Connell realized that his days were numbered. He reviewed his last will and made other final arrangements before leaving for London at the end of January 1847. Here he had strength for one final dramatic political act when on 8 February, trembling and barely audible, he addressed the Commons on the subject of the famine in Ireland. As his last appearance on the political stage it was entirely apposite. Gaining access to Westminster and achieving influence in its counsels had been his great achievement. His language, as always, suited his assessment of the particular circumstances: no cajoling now, nor rancour, but a sober statement of the plight of his country. He predicted with accuracy the likely loss of population and acknowledged that only parliament could halt the disaster. But he could not say how: parliament, he said, was bound to find a means. Within weeks parliament had passed legislation to provide for the public soup kitchens at which by summer 1847 up to 3 million people were being fed. Parliament and government could have done much better, but even their best would not have been enough. There can be few more tragic figures in modern history than the dying Daniel O'Connell who watched in early 1847 as his long decades of gargantuan political effort and achievement were turned to dust and ashes by a natural catastrophe.<br>
+<br>O'Connell's chaplain, Father John Miley, arrived from Dublin in mid-February and contributed to the decision that O'Connell should travel to Rome. His desperate physicians were recommending a sunny climate. Though deeply committed to papal authority in religious matters, O'Connell disapproved of the secular government of the papacy. The accession of the initially liberal Pius IX in 1846 was an apparent vindication of O'Connell's religious politics. After a few weeks of rest and preparation at Hastings, O'Connell set out for Rome on 22 March 1847, accompanied by Miley, his son Daniel, and a servant. They went by steamboat from Folkestone to Boulogne and thence by rail to Paris. O'Connell was visited in his hotel by the archbishop of Paris and by a delegation of liberal Catholic notables, with the comte de Montalembert at its head. He could barely respond to their compliments. From Paris to Marseilles the journey was by road: with an eleven-day break at Lyons it took five weeks. From Marseilles they took a boat to Genoa, where they arrived on 5 May. Throughout the journey crowds had turned out to admire the famous O'Connell but he scarcely noticed them. There were occasional bouts of raving, but when lucid he was in deep gloom. He had a fixation about the danger of being buried alive. But predominant was concern for his spiritual salvation. He insisted that Miley, the agent of final absolution, should not leave his sight.<br>
+<br>In his rooms at the Hotel Feder in Genoa, O'Connell's mental and physical condition worsened. By 8 May he had ceased to take food. After days of great turmoil peace of mind and body descended on 13 May, and on Saturday 15 May at 9.35 p.m. O'Connell died, fortified with the last rites of his church. In accordance with his wishes his embalmed heart was sent to Rome, where his passing was marked with all possible liturgical solemnity. His body was similarly received when it arrived in Dublin. Interment was in Glasnevin cemetery on 5 August 1847, first in a temporary grave, and from 1869 in the vault of a specially designed memorial dominated by a replica round tower 165 feet high. In due course the major street of Dublin was named O'Connell Street, with his large-scale statue and plinth, by J. H. Foley, the most prominent monument in the Irish capital.<h2>
+<a name="Reputation"></a>Reputation</h2>Apart from one of the non-dominant strains of Irish Catholic nationalism, O'Connell has not been the chosen prophet of any political grouping since the collapse of the repeal movement within a few years of his death. It might be said that he gave too many hostages to fortune, or that a character with so many facets is difficult to turn into an icon. Young Irelanders, such as John Mitchel and Charles Gavan Duffy, have spread far and wide an awareness of the deficiencies of his political strategies and tactics. W. E. H. Lecky, mindful of how O'Connell's efforts had, however unintentionally, exacerbated the polarization of Irish politics, wondered if on balance his career had been a blessing or a curse for Ireland. What nobody has seriously challenged is the largeness of his place in modern Irish history. Victorious nationalists of a later generation did not rename Dublin's main thoroughfare for any of their own leaders or heroes but for O'Connell. Indeed it might be said that neither partisan nor professional historians have adequately addressed the question of how much O'Connell created and how much he borrowed. Independently of scholars or politicians, O'Connell became in his lifetime and afterwards a folk hero. Historians aware of the historical record of a faithful husband and devout family man were puzzled by his reputation for fathering numerous bastards throughout the land (priggishly drawn down by W. B. Yeats for his own purposes) until experts pointed out that this is a standard feature of the depiction of the folk champion and has no necessary relation to historical facts. Similarly, tales of his prowess in the courts, in parliament, and in contests of various kinds abound in the folklore collections.<br>
+<br>While in popular esteem O'Connell is the quintessential Irish national champion, his international significance is underestimated. He was a key figure in the emergence of European democracy and no Irish person before or since has commanded so much attention on the continent as he did in his lifetime. Similarly forgotten to a large extent is his role as an advocate of the rights of those civilly disadvantaged such as Jews, black slaves, and Australian Aborigines. Universalist and nationalist, champion of the weak and truculent bully, man of principle and shameless opportunist, O'Connell remains, like Napoleon or Gladstone, one of those figures with whom historians will never even imagine that they have finished.<br>
+<br>R. V. Comerford </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<i>The correspondence of Daniel O'Connell</i>, ed. M. R. O'Connell, 8 vols., <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=IMC')">IMC</a> (1972&#150;80) &middot; O. MacDonagh, <i>O'Connell</i><i>: the life of Daniel O'Connell, 1775&#150;1847</i> (1991) &middot; M. MacDonagh, <i>The life of Daniel O'Connell</i> (1903) &middot; A. Houston, <i>Daniel O'Connell</i><i>: his early life and journal, 1795 to 1802</i> (1906) &middot; F. O'Ferrall, <i>Daniel O'Connell</i> (1981) &middot; D. McCartney, ed., <i>The world of Daniel O'Connell</i> (1980) &middot; K. B. Mowlam and M. R. O'Connell, eds., <i>Daniel O'Connell</i><i>: portrait of a radical</i> (1984) &middot; A. D. Macintyre, <i>The Liberator</i><i>: Daniel O'Connell and the Irish party, 1830&#150;1847</i> (1965) &middot; W. J. O'M. Daunt, <i>Personal recollections of the late Daniel O'Connell, M.P.</i>, 2 vols. (1848)<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=BL')">BL</a>, corresp. and papers, Add. MSS 62712&#150;62715
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=Boston%20PL')">Boston PL</a>, papers
+   &middot;
+ National University of Ireland, papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NL%20Ire.')">NL Ire.</a>, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NL%20Ire.')">NL Ire.</a>, family corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NL%20Ire.')">NL Ire.</a>, fee book
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NRA%2C%20priv.%20coll.')">NRA, priv. coll.</a>, family corresp.
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=Royal%20Irish%20Acad.')">Royal Irish Acad.</a>, journal
+   &middot;
+ University College, Dublin, corresp. and papers&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=BL')">BL</a>, Peel papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NL%20Ire.')">NL Ire.</a>, W. S. O'Brien papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NRA%2C%20priv.%20coll.')">NRA, priv. coll.</a>, corresp. with Maurice Fitzgerald
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=PRONI')">PRONI</a>, corresp. with first marquess of Anglesey, D619
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=TCD')">TCD</a>, corresp. with Lord Donoughmore<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> J. Gubbins, oils, 1817&#150;18, Derrynane House, co. Kerry &middot; J. P. Haverty, group portrait, oils, 1828 (with his contemporaries, the Clare election), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> &middot; J. P. Dantan, sculpture, 1834 (group with William Cobbett), Mus&eacute;e Carnavelet, Paris &middot; G. Hayter, oils, 1834, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NPG')">NPG</a> &middot; B. Mulrenin, miniature, 1836, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NPG')">NPG</a> &middot; D. Wilkie, oils, 1838, Royal Bank of Scotland, London &middot; J. E. Jones, marble bust, 1843, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> &middot; oils, 1846&#150;7, St Patrick's College, Maynooth &middot; oils, 1846&#150;7, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=priv.%20coll.')">priv. coll.</a>; repro. in O'Connell, ed., <i>Correspondence</i>, vol. 1, p. 23 &middot; Count D'Orsay, bronze sculpture, 1847, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> &middot; J. Comerford, miniature, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> &middot; J. Doyle, drawings, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=BM')">BM</a> &middot; J. H. Foley, bronze statue, O'Connell Street, Dublin &middot; J. P. Haverty, oils, Reform Club, London &middot; B. R. Haydon, group portrait, oils (<i>The Anti-Slavery Society Convention, 1840</i>), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NPG')">NPG</a> &middot; G. Hayter, group portrait, oils (<i>The House of Commons, 1833</i>), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. Hogan, marble statue, City Hall, Dublin &middot; W. Holl, stipple (after T. Carrick), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; Irish school, wax death mask, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> &middot; D. Maclise, watercolour drawing, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=V%26A')">V&amp;A</a> &middot; G. Mulvany, oils, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NG%20Ire.')">NG Ire.</a> [<i>see illus.</i>] &middot; Paul Pry [W. Heath], group portrait, coloured etching (<i>Keeping the child quiet</i>; with others), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=V%26A')">V&amp;A</a> &middot; medals, National Museum of Ireland, Dublin &middot; plaster death mask, St Patrick's College, Maynooth &middot; prints, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=20501&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. V. Comerford, &#145;<span class="roman"><span class="headword">O'Connell,  Daniel</span>   (1775&#150;1847)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Oct 2009 [http://www.oxforddnb.com/view/article/20501, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Daniel O'Connell (1775&#150;1847): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/20501 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/20501/2008-01"> [Previous version of this biography available here: January 2008]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

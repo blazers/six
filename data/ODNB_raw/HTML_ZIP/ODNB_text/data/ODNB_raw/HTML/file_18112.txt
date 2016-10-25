@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 18112;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/18/18112-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/18/18112-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=18112#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Marsh,  James</span>  (1794&#150;1846), <span class="occ">chemist</span>, was born in Woolwich on 1 September 1794. Little is known of his early life and education; in 1815 he married Mary Watkins in Erith. By 1822 he occupied the post of practical chemist at the Royal Arsenal, Woolwich&#151;a very junior position. In 1829 he became, for 15<i>s</i>. per week, assistant for the chemical lectures that Michael Faraday delivered at the Royal Military Academy, Woolwich. The limited surviving evidence suggests that he and Faraday enjoyed a good working relationship. Marsh held both these positions until his death, and also acted as a consulting engineer to the New Gas Works, Woolwich.<br>
+<br>In the 1820s Marsh assisted Peter Barlow, who taught mathematics at the academy, with his work on electromagnetism, including the invention of Barlow's wheel. In 1822 Marsh himself improved Andr&eacute;-Marie Amp&egrave;re's electromagnetic rotating cylinder. This innovation led Marsh to devise a portable electromagnetic apparatus for which he received, in 1823, the large silver medal of the Society of Arts together with 30 guineas. He and Barlow continued their work on electromagnetism in 1824 and 1825 when they investigated the induction of magnetism in rotating metals. However, in this research they had been anticipated by Dominique Fran&ccedil;ois Jean Arago.<br>
+<br>In November 1833 Marsh was asked to analyse some coffee which a George Bodle of Plumstead had drunk just before his death. Marsh found arsenic present&#151;as he testified to the inquest jury, which returned a verdict of wilful murder against Bodle's grandson John Bodle. Though acquitted (on non-forensic grounds) at his trial, Bodle later admitted the crime. The case turned Marsh's attention towards the problem of detecting arsenic. By 1836 he had developed a method of combusting arsenic such that it was unmistakably deposited on cold porcelain. For this extremely sensitive test he received the large gold medal of the Society of Arts that year. He continued improving the test in the ensuing years, and in 1840 it came to widespread public notice during the trial of Marie Lafarge for the murder of her husband. The original forensic examination found no trace of arsenic in his body, but the court asked for a new test. The body was exhumed and was found, using Marsh's test, to contain arsenic. This evidence convicted Lafarge, who was sentenced to life imprisonment. The case caused a sensation on both sides of the channel and ensured that Marsh's name became a familiar one to the public.<br>
+<br>In 1837 Marsh invented a percussion cap for naval guns for which he won the silver medal of the Society of Arts and was rewarded financially by the Admiralty. Marsh died at Beresford Street, Woolwich, on 21 June 1846, leaving two married daughters and a widow unprovided for; in late 1847 the Ordnance office awarded his widow an annual pension of &pound;20.<br>
+<br>Frank A. J. L. James </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=18112&amp;istheme=&amp;target=GM')"><i>GM</i></a>, 2nd ser., 26 (1846), 219 &middot; W. T. Vincent, <i>The records of the Woolwich district</i>, 2 vols. [1888&#150;90] &middot; <em>The Lancet</em> (29 Aug 1846), 255&#150;6 &middot; W. A. Campbell, &#145;Some landmarks in the history of arsenic testing&#146;, <em>Chemistry in Britain</em>, 1 (1965), 198&#150;202 &middot; <i>The correspondence of Michael Faraday</i>, ed. F. A. J. L. James, [4 vols.] (1991&#150;) &middot; <i>Catalogue of scientific papers, 1800&#150;1863</i>, Royal Society, 6 vols. (1867&#150;72) &middot; <em>Literary Gazette</em> (27 Nov 1847), 836<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, repro. in Vincent, <i>Records of the Woolwich district</i>, vol. 1, facing p. 340<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Frank A. J. L. James, &#145;<span class="roman"><span class="headword">Marsh,  James</span>  (1794&#150;1846)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/18112, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  James Marsh (1794&#150;1846): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/18112 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

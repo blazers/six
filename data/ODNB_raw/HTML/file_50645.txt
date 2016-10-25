@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50645;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50645-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50645-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50645#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Holliday,  Read</span>  (1809&#150;1889), <span class="occ">chemical manufacturer</span>, was born on 15 September 1809 in Bradford, the third child of Abraham Holliday (1745&#150;1825), miller, wool spinner, and latterly a tinner, and his wife, Mary. Nothing is known of any formal education. Before he reached his teens Holliday went to work in a tannery and later at a Wakefield chemical works making ammonia products.<br>
+<br>When Holliday was twenty-one he left to set up his own business processing liquid gasworks waste, producing ammonia and tar. The idea of using ammonia rather than urine for scouring woollen cloth was just beginning to gain acceptance, and he was able to sell his ammonia to surrounding woollen mills. He soon needed larger premises and moved to Turnbridge, Huddersfield, in 1839. In the same year he married Emma Copley (<i>d</i>. 1883) of Hunslet, Leeds; they had five sons and three daughters. Over the next few years he began to supply other ammonia products and acted as merchant for other makers' products needed by his customers, including natural dyes.<br>
+<br>This small business, one of many dealing with gasworks waste, took a significant turn in the mid-1840s when Holliday began to distil coal tar to produce naphtha, creosote, and pitch. There was a ready market for creosote to pickle wooden railway sleepers and for pitch to bind coal dust into fuel briquettes. For naphtha, in 1848 Holliday designed and patented a wickless lamp which proved a considerable commercial success, gaining a prize at the Great Exhibition of 1851. It remained in demand, mainly for outdoor lighting, for half a century, although for most purposes it was superseded by paraffin lamps within a few years. Possibly because of his work on coal tar, Holliday got to know Charles B. Mansfield (1819&#150;1855), one of a group of brilliant students from the newly established Royal School of Chemistry working on coal tar derivatives. Mansfield showed how valuable aromatic hydrocarbons, especially benzene, might be separated for further processing; Holliday applied this empirical research in what was still a hazardous and environmentally damaging cottage industry.<br>
+<br>Another of the school's pupils, William Henry Perkin, began manufacture of the first &#145;coal tar&#146; dye in 1857 and a couple of years later a third, Edward Chambers Nicholson, produced another aniline dye. As coal tar distillates were the starting point for these new products and demand was expanding rapidly, it was natural that Holliday should be interested. He began to produce his own magenta dye, soon to be followed by many other colours. There was an early set-back when Holliday was accused of infringing patents controlled by Nicholson; after protracted and costly litigation, the patents were ruled invalid. There was severe competition in the dye business.<br>
+<br>Holliday's two eldest sons, Thomas (1840&#150;1898) and Charles (1842&#150;1893), joined their father in the early 1860s and played a significant part in developing the fine chemical and dye business. Holliday was sufficiently confident of their abilities to send them to New York in 1864 to set up production of aniline and dyes. The branch they set up was one of America's pioneer dye makers and became one of the firm's most valuable assets. It was later managed by his younger sons, Edgar (1847&#150;1891) and John (1845&#150;1894), while Thomas and Charles managed the firm's various English and one French works. The business had become the UK's largest chemical manufacturer and one of the largest dye makers, though dwarfed by the giant German chemical companies. In 1868, with the patents court case out of the way and the various branches of the business flourishing, Holliday sold the business to Thomas, Charles, and Edgar so that he could follow other interests.<br>
+<br>Holliday was elected as a Liberal to the new Huddersfield town council but his blunt speaking and impatience with political ways made him unsuitable for a public career, and he soon resigned. He and his wife moved from their Huddersfield home, Lunn Clough Hall, to Queen's Road, Harrogate. He enjoyed building his new home so much that he went on to build virtually all the houses in Queen's Road. He was active to the end of his life, taking long cycle rides when he was well over seventy. He survived his wife by six years and died in his eightieth year, on 3 March 1889, following a stroke. He was buried in the family vault in Edgerton cemetery, Huddersfield.<br>
+<br>Francis Goodall </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>M. R. Fox, <i>Dye-makers of Great Britain, 1856&#150;1976</i><i>: a history of chemists, companies, products, and changes</i> (1987) &middot; P. J. T. Morris and C. A. Russell, <i>Archives of the British chemical industry, 1750&#150;1914</i><i>: a handlist</i> (1988) &middot; L. F. Haber, <i>The chemical industry during the nineteenth century</i> (1958) &middot; D. W. F. Hardie and J. D. Pratt, <i>A history of the modern British chemical industry</i> (1966) &middot; W. A. Campbell, <i>The chemical industry</i> (1971) &middot; d. cert.<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> portrait, repro. in Fox, <i>Dye-makers of Great Britain</i>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;19,099 11<i>s</i>. 1<i>d</i>.: probate, 18 Sept 1889, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Francis Goodall, &#145;<span class="roman"><span class="headword">Holliday,  Read</span>  (1809&#150;1889)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50645, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Read Holliday (1809&#150;1889): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50645 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

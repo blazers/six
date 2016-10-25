@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 30268;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/30/30268-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/30/30268-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=30268#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Young,  John</span>  (<em>c.</em>1532&#150;1605), <span class="occ">bishop of Rochester</span>, was born in the London parish of St Magnus the Martyr and educated at the Mercers' School. He graduated BA from Cambridge in 1552, doubtless from Pembroke College (whose admission register is lost), since he was elected fellow of Pembroke in 1553. After proceeding MA in 1555, he seems to have remained quietly in Cambridge until Elizabeth's accession.<br>
+<br>Ordained deacon at Ely on 22 March 1562, Young proceeded BTh in 1563, and having resigned his fellowship was collated on 31 August to the city rectory of St Martin Ludgate by Edmund Grindal, bishop of London and former master of Pembroke, whose chaplain he became. On 3 May 1564 Grindal instituted him prebendary of Cadington Major in St Paul's on the presentation of Sir John Mason, ordaining him priest on 25 February 1565, when he was described as MA, born in St Magnus, and aged about thirty-three. On 7 May 1566 he received the prebend of North Muskham in Southwell Minster by letters patent. After Miles Coverdale had resigned the rectory of St Magnus at the height of the vestiarian controversy, Young was collated there (24 September 1566), resigning St Martin Ludgate.<br>
+<br>On 12 July 1567, on Grindal's advice, Young was elected master of Pembroke in succession to John Whitgift. As vice-chancellor in 1568&#150;9 he stoutly resisted the attempts of Archbishop Parker to impose the authority of the ecclesiastical commission on the university. Parker expressed extreme astonishment, but does not seem to have retaliated.<br>
+<br>Young proceeded DTh in 1569, and on 19 August that year, at the petition of Sir William Cecil, received letters patent for the rectory of Little Wilbraham, Cambridgeshire, from the lord keeper, Sir Nicholas Bacon, presumably in order to allow him to support the dignity of his mastership. On 20 March 1572 he was granted letters patent for the tenth stall in Westminster Abbey, taking possession on 26 April and preaching at convocation that year.<br>
+<br>Although he seems to have been seldom resident at Pembroke, Young's mastership has always been celebrated for the number of eminent scholars and writers active there during his tenure. Edmund Spenser matriculated in 1569. Lancelot Andrewes, Edward Kirke, Thomas Neville, and Gabriel Harvey were all elected fellows under him. Six letters from Harvey to Young survive in Harvey's letter-book. The most enduring monument to his capacity for securing his subordinates' loyalty is Spenser's portrait of Young as &#145;faithful Roffy&#146; in <span class="italic">The Shepherd's Calendar</span>, the name being an affectionate abbreviation of <i>Roffensis</i>, his Latin title after 16 March 1578, when he was consecrated bishop of Rochester.<br>
+<br>Retaining his Westminster prebend and the rectory of St Magnus <i>in commendam</i>, Young resigned his other promotions and married in 1578 Grace (<i>n&eacute;e</i> Cocke), widow of Thomas Watts, archdeacon of Middlesex, one of Pembroke's most notable benefactors.<br>
+<br>Young was one of a coterie promoted to the bench&#151;John Aylmer, John Piers, and John Whitgift were the others&#151;at a time when Sir Christopher Hatton wielded particular influence at court following Elizabeth's suspension of Grindal, now archbishop of Canterbury, for his refusal to suppress the clerical exercises known as prophesyings. All four men were regarded as stern disciplinarians, having little or no sympathy for nonconformity, but while Piers became archbishop of York and Whitgift succeeded Grindal as primate, Young never prospered. He remained at Rochester for twenty-seven years, one of only four out of twenty-two occupants of the see between 1472 and 1629 who were not translated to a wealthier one.<br>
+<br>In 1581, as bishop of London and <i>de facto</i> primate after Grindal's suspension, Aylmer urged Cecil, now Lord Burghley, to promote Young to Norwich for his &#145;quickness in government&#146; and ability &#145;to bridle the innovators&#146;  (BL, Lansdowne MS 33, fol. 52<i>r</i>). Whitgift revived the proposal on his elevation to Canterbury in 1583 without success, but in September 1584 was authorized to offer Young Chichester instead. Young was &#145;very well content&#146; to abide by Burghley's &#145;disposition for that matter&#146;  (SP12/173/15), but again failed to win promotion.<br>
+<br>At the end of the decade Young was one of those charged with pursuing the authors of the Martin Marprelate tracts in which, like many of his colleagues, he was denigrated as a &#145;petty pope&#146; and also castigated for presenting himself to a benefice in his gift. Although Martin did not name the benefice, it was presumably this charge that led to the erroneous statement that in 1592 he &#145;exposed himself to no little animadversion&#146; by presenting himself to the rectory of Wouldham in Kent  (Cooper, <span class="italic">Ath. Cantab.</span>, 2.406), a benefice he never, in fact, occupied.<br>
+<br>In 1594, refusing the bishopric of Norwich on the grounds that Edmund Scambler had despoiled the revenues, Young was credited with the remark that &#145;it was not so easy a seat for an old man since the cushion was taken away&#146;  (Cooper, <span class="italic">Ath. Cantab.</span>, 2.406). His fastidiousness evidently riled Burghley, who reacted by accusing him of covetousness and of keeping poor hospitality. Young penned an icy letter in his own defence, claiming that he maintained &#145;as good a table as any in England, excepting that which is prodigal&#146;, but pointing out that his income from his see and his <i>commendams</i> was so small that the discharge of his obligations of hospitality left him with only &pound;90 per annum to live on. Nevertheless, he took care to assure Burghley that he would not refuse further preferment if it was &#145;meet&#146; for him to accept  (BL, Lansdowne MS 79, fol. 114<i>r</i>). This correspondence hardly leaves room for the tradition that he &#145;nobly declined&#146; to leave Rochester on the grounds that a man should not leave his wife because she is poor  (White, 251&#150;2).<br>
+<br>Although mentioned for the bishopric of Salisbury in 1596&#150;7, Young scarcely surfaces in the official records thereafter. In his will, dated 13 March 1605, he directed that he be buried in a simple tomb in the chancel of Bromley church, with a suitable inscription. His sole bequests were to Grace and their only child, John. Grace received household stuff and the plate which she had brought him from her marriage to Thomas Watts, but no hard cash or life interest in any property. As sole executor John received the residue, being directed to bestow what he felt he could afford on &#145;poor kinsmen and servants&#146;.<br>
+<br>The will's most arresting feature is what appears to be a specific allusion to his quarrel with Burghley. Given the &#145;debility&#146; of his &#145;spiritual living &hellip;, which never amounted to above three hundred pounds a year&#146;, he observed that the provisions made for his funeral ought to be accounted a &#145;liberal expense&#146; by anyone &#145;possessed with an equal and indifferent opinion and not foreprized with a will and conceit of mine wealth and riches, as many, yea too many hath been&#146;  (TNA: PRO, PROB 11/108, sig. 100, fol. 384<i>v</i>).<br>
+<br>Young died at Bromley Palace on 10 April 1605, aged seventy-one, and was duly buried in Bromley church under a brass bearing both his own arms and those of his see, and with a conventionally phrased inscription listing his virtues. For unknown reasons probate of his will was not granted until 22 November 1606. He published a single sermon, and that only to justify himself because &#145;it was not well taken in part of some of the hearers, where it was spoken&#146;  (<span class="italic">A Sermon Preached before the Queenes Maiestie, the Second of March, An. 1575</span>, sig. A1<i>v</i>). He also contributed &#145;Notes upon the booke entituled <i>Euangelium regni</i>&#146; to William Wilkinson's <span class="italic">Confutation of Certaine Articles Delivered unto the Familye of Love</span> (1579).<br>
+<br>Brett Usher </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=Venn%2C%20Alum.%20Cant.')">Venn, <i>Alum. Cant.</i></a>, 1/4.493 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=Cooper%2C%20Ath.%20Cantab.')">Cooper, <i>Ath. Cantab.</i></a>, 2.405&#150;7 &middot; G. Hennessy, <i>Novum repertorium ecclesiasticum parochiale Londinense, or, London diocesan clergy succession from the earliest time to the year 1898</i> (1898) &middot; GL, MS 9535/1 [ordination] &middot; A. L. Attwater, <i>Pembroke College, Cambridge</i><i>: a short history</i>, ed. S. C. Roberts (1936), 43&#150;50 &middot; E. J. L. Scott, ed., <i>Letter book of Gabriel Harvey, AD 1573&#150;1580</i>, Camden, new ser. 33 (1884) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=CPR')"><i>CPR</i></a>, <i>1566&#150;72</i>; <i>1575&#150;8</i> &middot; F. O. White, <i>Lives of the Elizabethan bishops of the Anglican church</i> (1898) &middot; <i>Calendar of the manuscripts of the most hon. the marquis of Salisbury</i>, 6&#150;7, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=HMC')">HMC</a>, 9 (1895&#150;9) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=CSP%20dom.')"><i>CSP dom.</i></a>, <i>1581&#150;90</i>, 201 &middot; will, TNA: PRO, PROB 11/108, sig. 100 &middot; TNA: PRO, state papers domestic, Elizabeth, SP 12/173/15 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=BL')">BL</a>, Lansdowne MS 33, fol. 52<i>r</i> &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=BL')">BL</a>, Lansdowne MS 79, fol. 114<i>r</i>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=BL')">BL</a>, Lansdowne MSS, letters to Burghley
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=30268&amp;istheme=&amp;target=CKS')">CKS</a>, Rochester diocesan records<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> modest: will, TNA: PRO, PROB 11/108, sig. 100<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Brett Usher, &#145;<span class="roman"><span class="headword">Young,  John</span>  (<em>c.</em>1532&#150;1605)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/30268, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Young (<em>c.</em>1532&#150;1605): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/30268 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/30268/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

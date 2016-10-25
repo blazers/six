@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 1305;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/1/1305-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/1/1305-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=1305#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Banquell <span class="st"> [Bankwell]</span>, Sir  John</span>  (<em>d.</em> 1308), <span class="occ">administrator</span>, came of a family who had connections with the leather and fur trades in London. He married Cecily, sister of the prosperous wool merchant Laurence of Ludlow, before the autumn of 1285, by when he was a king's clerk, responsible for receiving recognizances of debts from the city's traders, while in May 1286 he was granted custody of the merchants' seal, under the law merchant. He also became active as a financier and moneylender. His rapid rise to prominence in London owed much to crown patronage, particularly after 1285, when Edward I took over the government of the capital and replaced the mayor and sheriffs with royal appointees. By November that year Banquell had been installed as common clerk of the city, the second known holder of the office. He probably relinquished the post soon afterwards on becoming an alderman, first for Cripplegate ward (1286&#150;91) and later for Dowgate (1291&#150;8). One of the most influential citizens, effectively a deputy to the wardens appointed by the crown, he was on several occasions appointed by the civic authorities to present the city's business in the king's council. In recognition of his services to the city he was granted a plot of land near the Guildhall which, by the late fourteenth century, had become the site of a cloth market known as Backwell, or Blackwell, Hall. The grant was completed in June 1293. Numerous other properties in London, as well as lands at Lee, Bromley, and other places in Kent, were acquired by Banquell and his wife.<br>
+<br>Banquell remained a London alderman until April 1298, when control of the city's government was ceded back to the citizens. Despite this reversal his ties with the crown enabled him to develop his career into new areas. From 1297 onwards he became active as a justice and, probably in the early summer of 1299, he was appointed seneschal of Ponthieu, the French county inherited by the young Edward, prince of Wales, from his mother, Queen Eleanor. He held this post until 1305, becoming a member of the prince's council and receiving a knighthood. He was also sent on a number of diplomatic missions to France before the signing of a peace treaty with Philippe IV in May 1303 and was among those chosen to visit the pope at Lyons in October 1305 in connection with Edward's proposed marriage to Isabella of France. In March 1304 and April 1306 he was one of two commissioners appointed to meet with their French counterparts to inquire into the losses incurred by merchants on both sides following breaches of the truce.<br>
+<br>Banquell had probably relinquished the post of seneschal by August 1305, when he was one of the justices of gaol delivery who tried and convicted William Wallace. Entrusted with the task of accompanying Cardinal Sabina, the papal pro-nuncio, on his visit to England between December 1306 and March 1307, he was later appointed a baron of the exchequer. He was summoned to Edward II's first parliament, to be held in March 1308, but died while attending the coronation, held at Westminster Abbey on 25 February. According to the London chronicles, he was crushed to death when a stone wall collapsed under the weight of the large crowds. He was buried in the Austin friary in London and was survived by his wife, Cecily (<i>d</i>. 1328) and their two sons, Thomas (<i>d</i>. 1333) and John.<br>
+<br>Matthew Davies </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>G. A. Williams, <i>Medieval London</i><i>: from commune to capital</i> (1963) &middot; G. P. Cuttino, <i>English diplomatic administration, 1259&#150;1339</i>, 2nd edn (1971) &middot; H. Johnstone, &#145;The county of Ponthieu, 1279&#150;1307&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1305&amp;istheme=&amp;target=EngHR')"><i>EngHR</i></a>, 29 (1914), 435&#150;52 &middot; CLRO &middot; TNA: PRO &middot; W. Stubbs, ed., <i>Chronicles of the reigns of Edward I and Edward II</i>, 2 vols., Rolls Series, 76 (1882&#150;3) &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=1305&amp;istheme=&amp;target=Chancery%20records')"><i>Chancery records</i></a> &middot; B. R. Masters, &#145;The town clerk&#146;, <em>Guildhall Miscellany</em>, 3 (1969&#150;71), 55&#150;74<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> see Calendar of patent rolls<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Matthew Davies, &#145;<span class="roman"><span class="headword">Banquell , Sir  John</span>  (<em>d.</em> 1308)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/1305, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+Sir  John Banquell (<em>d.</em> 1308): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/1305 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/1305/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 46456;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/46/46456-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/46/46456-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=46456#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">McVittie,  George Cunliffe</span>  (1904&#150;1988), <span class="occ">astronomer and cryptanalyst</span>, was born on 5 June 1904 in Smyrna, Turkey, the eldest of three children (two sons and a daughter) of Francis Skinner McVittie (1872&#150;1950), businessman, and his wife, Emily Caroline (1877&#150;1942), daughter of George Weber from Alsace. McVittie was educated privately by tutors, notably the Revd Lucius Fry, under whose gifted teaching he covered most of a normal secondary education in two years. The family were on holiday in England when the Turks sacked Smyrna in 1922. The McVitties lost everything and never returned to Turkey. Help from a group of largely anonymous businessmen enabled McVittie, after a year's delay, to read mathematics and natural philosophy (physics) at Edinburgh University, where he studied under Sir Edmund Whittaker and Sir Charles Galton Darwin. After obtaining an MA with first-class honours in 1927, he moved to Cambridge to research unified field theories of gravitation and electromagnetism under Sir Arthur Eddington, whose remoteness he found a sharp contrast to the warmth of Whittaker and Darwin. His PhD dissertation solved the Maxwell&#150;Einstein equations of general relativity for a specific case, and found corresponding solutions for three unified field theories (one being Einstein's), but with unfavourable results for them. On 3 September 1934 he married Mildred Bond (<i>b</i>. 1906), daughter of John Strong, professor of education at Leeds University. They had no children. After spells as a lecturer at Leeds and Liverpool universities, McVittie was appointed reader in mathematics at King's College, London, in 1936. His first book, <span class="italic">Cosmological Theory</span>, appeared in 1937.<br>
+<br>In November 1939, following a short self-organized course in meteorology, McVittie joined the Government Code and Cypher School at Bletchley Park. After training briefly under Colonel J. H. Tiltman and J. E. S. Cooper he formed a meteorological subsection, as part of the air section in Hut 10, to attack the weather codes of Germany and her allies. The subsection also broke Soviet meteorological codes even after the Soviet Union entered the war in June 1941, so as to keep Winston Churchill informed about developments on the Eastern Front, and to help in solving German weather codes.<br>
+<br>Although initially understaffed, McVittie's group comprised sixty people at its height in November 1943. McVittie was an excellent organizer, who also solved countless ciphers himself. Under his inspired leadership the group produced invaluable results. Solved keys were sent to a Meteorological Office group, IDA, at Dunstable, to decipher messages intercepted there. By February 1944 about 15,000 enciphered weather reports were being intercepted daily. IDA transmitted the deciphered texts to various allied commands to provide weather forecasts for operations, especially against German-held territory, and for intelligence generally.<br>
+<br>The group's solution of a <i>Kriegsmarine</i> meteorological cipher, combined with a codebook captured from <i>U 559</i> in late October 1942, enabled Hugh Alexander and his team in Hut 8 to end a ten-month blackout on Shark, the Atlantic U-boats' four-rotor Enigma cipher, in mid-December 1942, despite only having three-rotor bombes (high-speed key finding aids). The blackout had almost blinded naval intelligence in the Atlantic; the solution helped to provide the indispensable cribs (probable plain text) required by the bombes. Bletchley's head, Edward Travis, later told Cooper that reading Shark had cut shipping losses in the Atlantic in December 1942 and January 1943 from an expected 1.2 million tons to about 450,000 tons.<br>
+<br>McVittie returned to King's College in 1945, mentally and physically exhausted by the constant strain of codebreaking for almost five years: he did not recover until late in 1947. He was appointed professor of mathematics at Queen Mary College, London, in 1948, but the post did not offer him enough scope. He therefore accepted the chair of astronomy at the University of Illinois in 1952, although the department had no staff, students, or modern instruments. He transformed it into a major centre which, when he left, had world-class radio and optical telescopes, and a considerable research reputation. McVittie believed that an extensive catalogue of cosmic radio sources would help to distinguish between different cosmological theories. From 1958 to 1969 his department's new 400 foot radio telescope mapped major portions of the Milky Way, found many new sources and catalogued about a thousand sources. He retired to Canterbury in 1972, where, as honorary professor of theoretical astronomy in the University of Kent, he taught astronomy and mathematics. A gifted lecturer, he was still teaching in 1987. He also continued his research, publishing an impressive paper on perfect fluid configurations when he was eighty.<br>
+<br>McVittie's contributions to astronomy lie principally in theoretical astrophysics. Although his papers were mathematically based he described himself as an &#145;uncompromising empiricist&#146;; they therefore also stressed the importance of observation. As a cosmologist he was celebrated for his penetrating comparisons of observational data with model universes. His <span class="italic">General Relativity and Cosmology</span> (1956, 1964) is a superb example of such an approach, while his <span class="italic">Fact and Theory in Cosmology</span> (1961) made cosmology understandable by a wider readership.<br>
+<br>A major part of his research concerned spherically symmetric solutions of the equations of general relativity (corresponding to spherical distributions of fluid). His wartime meteorological work led him to research hydrodynamics and gas dynamics in the light of relativity. He was elected a fellow of the Royal Astronomical Society in 1931, of the Royal Society of Edinburgh in 1943, and was appointed OBE in 1946 for his outstanding wartime service. In 1984 the International Astronomical Union recognized his many achievements by naming minor planet 2417 &#145;McVittie&#146;. McVittie died in the Chaucer Hospital, Canterbury, on 8 March 1988.<br>
+<br>Ralph Erskine </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Chisholm, &#145;George McVittie: honorary professor, University of Kent&#146;, <em>Vistas in Astronomy</em>, 33 (1990), 79&#150;81 &middot; <em>Daily Telegraph</em> (18 March 1988) &middot; W. Davidson, &#145;George McVittie's work in relativity&#146;, <em>Vistas in Astronomy</em>, 33 (1990), 65&#150;9 &middot; R. Erskine, &#145;Kriegsmarine short signal systems&#151;and how Bletchley Park exploited them&#146;, <em>Cryptologia</em>, 23/1 (1999), 65&#150;92 &middot; R. Erskine, &#145;Naval Enigma: the breaking of Heimisch and Triton&#146;, <em>Intelligence and National Security</em>, 3/1 (1988), 162&#150;83 &middot; private information (2004) [J. Pulokas, A. McVittie] &middot; M. A. H. MacCullum, <em>Quarterly Journal of the Royal Astronomical Society</em>, 30 (1989), 119&#150;24 &middot; W. McCrea, &#145;George Cunliffe McVittie (1904&#150;88) OBE, FRSE, pupil of Whittaker and Eddington: pioneer of modern cosmology&#146;, <em>Vistas in Astronomy</em>, 33 (1990), 43&#150;58 &middot; G. C. McVittie, &#145;Autobiographical sketch&#146;, CAC Cam. [prepared for Royal Society of Edinburgh] &middot; A. H. Schrieffer, K.-S. Yang, and G. W. Swenson, &#145;The Illinois 120-foot radio telescope&#146;, <em>Sky and Telescope</em>, 41 (1971), 132&#150;8 &middot; G. W. Swenson jun., &#145;Building a department of astronomy&#146;, <em>Vistas in Astronomy</em>, 33 (1990), 71&#150;3 &middot; G. W. Swenson jun., &#145;Reminiscence: the Illinois 400-foot radio telescope&#146;, <em>IEEE Antennas and Propagation Society Newsletter</em>, 28/6 (1986), 13&#150;16 &middot; G. W. Swenson jun., &#145;Reminiscence: at the dawn of the space age&#146;, <em>IEEE Antennas and Propagation Society Magazine</em>, 36/2 (1994), 32&#150;5 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=46456&amp;istheme=&amp;target=WWW')"><i>WWW</i></a>, <i>1981&#150;90</i> &middot; b. cert. &middot; m. cert. &middot; d. cert. &middot; TNA: PRO, Government Code and Cypher School, directorate, Second World War policy papers, HW 14 files<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;472,608: probate, 6 June 1988, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Ralph Erskine, &#145;<span class="roman"><span class="headword">McVittie,  George Cunliffe</span>  (1904&#150;1988)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/46456, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  George Cunliffe McVittie (1904&#150;1988): 
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/46456 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/46456/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

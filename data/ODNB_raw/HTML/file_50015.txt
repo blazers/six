@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 50015;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/50/50015-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/50/50015-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=50015#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Bernham,  David  of</span>  (<em>d.</em> 1253), <span class="occ">bishop of St Andrews</span>, came of a family of prominent Berwick burgesses, probably immigrants from England in an earlier generation, and became a master (at which university is unknown) before joining the <i>familia</i> of Bishop William Malveisin of St Andrews about 1224. His extraordinary promotion to be the king's chamberlain, probably in 1235, the only clerical chamberlain before 1306, is to be explained by the king's need for cash to marry off his sister, and the prominence of David's brother, Robert, who became the first mayor in the new commune of Berwick, which was probably established in the 1230s. When Malveisin died in 1238 the choice of the chapter was almost certainly opposed at Rome by the king. A new election was ordered and David of Bernham, now precentor of Glasgow, the king's choice, was successful; he was consecrated by three Scottish bishops on 22 January 1240, about which time he gave up the office of chamberlain.<br>
+<br>Bernham played little part in secular affairs during his episcopate and, although he participated in the inauguration of Alexander III on 13 July 1249, he was not involved in the coup against Alan Durward at Christmas 1251. His energies were devoted to the affairs of his diocese and of the church, stimulated by the legation of Otto, who held a council at Edinburgh in October 1239. The canon <i>Basilicarum</i> required the dedication of existing churches within two years, and between 6 May 1240 and 24 August 1249 Bernham conducted about 140 dedications, over 110 of them by October 1244. In addition he held a synod for Lothian archdeaconry in May 1242, promulgating an eclectic set of canons which drew on legislation of the legate Otto and of a number of English sees. There was surely a parallel synod for the rest of the diocese, and within weeks the second known provincial council of the Scottish church, held at Perth in his diocese in July 1242, probably issued the early canons in the collection of provincial canons. He held another diocesan synod at Perth on 2 June 1248, whose business is largely unknown.<br>
+<br>The effectiveness of these synodalia and provincalia is unquantifiable, but their concern is undoubted. Residence, the provision of a vicar who must be a priest (as must any chaplains), the avoidance by clerics of secular office, trade, the passing of capital sentences, and the annual visitation of parishes by the archdeacon, are some of the matters covered. Perhaps the most important provincial canon was that laying down (as the Fourth Lateran Council of 1215 had required) a minimum stipend for vicars&#151;a modest 10 merks annually. This applied to the whole Scottish church and seems to have been or become effective except, perhaps, in the poor fringe dioceses.<br>
+<br>In 1241 Bishop Bernham had tried to attend the abortive council summoned by the pope to Rome; he was more successful in July 1245, when he attended the Council of Lyons, using the occasion to forward the canonization of Queen Margaret, whose cult had been promoted by kings William the Lion and Alexander II. The exact date of canonization about 1249 is not known, but the event was celebrated by a translation of her relics at Dunfermline Abbey on 19 June 1250, conducted by Bishop Bernham and six other bishops, in the presence of the king and his mother.<br>
+<br>About this time Bernham and the other six bishops protested at the infringement of the liberties of the church by the king's council, apparently by an attack on some possessions of St Andrews Priory, but probably in other unrecorded episodes also. There are hints that the government of the king's minority encroached upon the generously wide jurisdiction of canon law, and the bishops, led by Bernham, took their grievances to the pope, who, on 31 May 1251, ordered an inquiry into the liberties of the Scottish church. It seems to have come to nothing.<br>
+<br>Not all the evidence is favourable to Bernham, but it is rare that both sides of ecclesiastical controversy are known. The canons of St Andrews complained of his extortions, and he certainly supported the rival collegiate church of St Mary in the struggle to secure its revenues against opposition from the priory. He also resisted a number of papal provisions of Italians who would have drained wealth from parishes in his diocese. He was as tenacious of his rights as any medieval cleric, but as Bishop Bernham was the outstanding Scottish representative of a reforming generation, whose achievement in providing a literate clergy serving in well-provided kirks has been undervalued. He died at Nenthorn, Berwickshire, on 26 April 1253 and was buried in Kelso Abbey.<br>
+<br>In spite of his concern for residence, David of Bernham was himself content to divert the revenues of Inchture, properly in the patronage of the priory, to support in the schools of Paris his nephew, <a name="cosubject_50016"></a><span class="headword">W.  of Bernham</span>  (<em>fl. </em>1248&#150;1256)<span class="occ"></span>. More probably William than Walter, he may have been the son of William of Bernham, a Berwick burgess (<i>c</i>.1200&#150;1250), and certainly came from that Berwick family, since Bishop Bernham was his uncle. His mother was called Ema. He studied at Paris, probably arts, in the 1240s, and regented there for two years, at latest in 1252&#150;4. After a visit to Scotland, he went to Oxford to study law. He is unknown to sources in Scotland, yet held a number of parsonages there from which he drew the revenues which supported his studies. Thus he was absentee parson of Inchture when his mother told him that his uncle had given a pension of 60 merks therefrom to Peter of Ramsay, bishop of Aberdeen. Bernham went to the papal curia about 1248 to litigate unsuccessfully against this diversion, and was left with only 32 merks annually from this benefice; but he had others yielding a further 80 merks. He farmed or sold the teinds (tithes) which yielded such rich revenues, using relatives or clerks in neighbouring Scottish benefices as his agents, and his servants as go-betweens.<br>
+<br>Bernham was no great scholar, but in the margins of the manuscript of William of Malmesbury's works which he owned, he copied in pencil all or parts of eighteen letters from Paris and Oxford, mostly written home, in connection with his affairs. They are all undated and mostly undatable (though one can be firmly attributed to July 1256), but they give an unequalled insight into the life of an absentee pluralist, into the difficulties of a university student and teacher in gathering his income, and into the use and abuse of teinds which his uncle's synodalia sought to regulate. These letters are the only claim of W. of Bernham to fame.<br>
+<br>A. A. M. Duncan </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>J. Dowden, <i>The bishops of Scotland &hellip; prior to the Reformation</i>, ed. J. M. Thomson (1912), 12&#150;13, 300&#150;01 &middot; D. E. R. Watt, <i>A biographical dictionary of Scottish graduates to <span class="smallcap">AD</span> 1410</i> (1977), 41&#150;66 &middot; M. Ash, &#145;David Bernham, bishop of St Andrews&#146;, <em>Innes Review</em>, 25 (1974), 3&#150;14 &middot; [J. Robertson], ed., <i>Concilia Scotiae</i>, 2 vols., (1866), vol. 1, pp. clxxxiii&#150;vi, ccxcviii&#150;ccciii; vol. 2, pp. 53&#150;63 &middot; C. Wordsworth, ed., <i>Pontificale ecclesiae S. Andreae</i> (1885) &middot; N. R. Ker and W. A. Pantin, &#145;Letters of a Scottish student at Paris and Oxford, c. 1250&#146;, <i>Formularies which bear on the history of Oxford</i>, ed. H. E. Salter, W. A. Pantin, and H. G. Richardson, 2, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50015&amp;istheme=&amp;target=OHS')">OHS</a>, new ser., 5 (1942), 472&#150;91<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> seal, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=50015&amp;istheme=&amp;target=U.%20Durham%20L.')">U. Durham L.</a>, dean and chapter muniments, Misc. ch. 944, 987x, 1320<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">A. A. M. Duncan, &#145;<span class="roman"><span class="headword">Bernham,  David  of</span>  (<em>d.</em> 1253)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/50015, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  David  of Bernham (<em>d.</em> 1253): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/50015 
+                <br />
+
+                
+
+ W.  of Bernham (1248&#150;1256): doi:10.1093/ref:odnb/50016<br>
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

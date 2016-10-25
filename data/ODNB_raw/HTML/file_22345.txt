@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22345;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22345-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22345-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22345#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Pitts,  Joseph</span>  (1663?&#150;1739?), <span class="occ">travel writer</span>, was born in Exeter, one of several children of John Pitts, a nonconformist and signatory to a petition from a church in Exeter to Charles II. He received a good education but was keen to be a sailor and see the world. He sailed after Easter 1678 with five companions on the fishing boat <i>Speedwell</i> of Lympstone, bound for Newfoundland. On their return, they were captured by an Algerine pirate off Spain, their boat scuttled, and her crew thrown in chains into the hold with other captives.<br>
+<br>At Algiers Pitts was bought by Mustafa, a shopkeeper, who beat him as a Christian, before selling him on to Ibrahim, a Turk of good family and captain of a troop of horse. On his annual trip to the mountains to collect tribute from the Berbers, Ibrahim met his brother, who persuaded him to convert Pitts as atonement for earlier misdeeds. Strung up by his feet, Pitts endured a prolonged bastinado and eventually yielded. However, at this time he received a letter from his father saying that he would rather hear of his son's death than of his apostasy. Pitts then told Ibrahim that he was still a Christian at heart, but on hearing that the penalty for renegades was to be burnt, he decided to conform to the practices of his new religion.<br>
+<br>Pitts worked his way up in Ibrahim's household, being accepted as a useful and honest servant, until Ibrahim was killed in the turbulent period following the assassination of the ruler Baba Hassan. He was then sold a third time to the kind and elderly Eumer, who took him on the pilgrimage to Mecca in 1684. The long coastal voyage to Alexandria took a month; they then tarried another month at Cairo before joining the caravan which embarked at Suez for Jiddah. After four months at Mecca Pitts and Eumer followed the pilgrim custom of proceeding to Medina to visit Muhammad's tomb before returning overland with the caravan. At Alexandria Pitts saw an English boat. He was delighted to find that it was from Lympstone and carried an acquaintance of his youth, who agreed to carry back a letter and presents for his parents.<br>
+<br>On their return from the pilgrimage, Eumer gave Pitts the customary freedom and bought a Dutch slave to take over Pitts's duties. They continued to live together amicably; Eumer treated Pitts as his son, offering him a wife and prospects of inheritance, but Pitts was now eager to return to Exeter. He enlisted in the Turkish army, taking part in attacks on the Spanish fort at Ceuta and against the emperor of Morocco. In 1693 he became acquainted with an English merchant named Butler, and by exchange with another soldier was able to sail with the Turkish fleet to Smyrna, where he hoped to find an English ship. Eventually a Cornishman paid for his passage on a French ship bound for Leghorn. Pitts went on board, &#145;Apparel'd as an English Man with my beard shaven, a Campaign Perrywigg [travelling wig] &amp; a Cane in my Hand&#146;.<br>
+<br>On emerging from detention in quarantine at Leghorn, Pitts met with a party of redeemed Dutch slaves who knew him, and joined them to walk across Europe to the Netherlands. Suffering from a bad leg, Pitts fell behind; he continued alone, and was robbed and beaten in Germany before being befriended by a picket of soldiers outside Frankfurt. They helped him to obtain a passport and passage down the Rhine. He crossed from Helvoetsluis to Harwich, where he was immediately pressed for the navy, despite his protestations. He was imprisoned at Colchester, and in despair wrote to Sir William Falkener, a Turkey merchant whom he had met in the East but who was now resident in London. He was then sent to the <i>Dreadnought</i>, but before she sailed Falkener's letter arrived for him enclosing a &#145;protection&#146; from the Admiralty. Pitts was released and hastened home to Exeter, finding that his mother had died the previous year.<br>
+<br>The remainder of Pitts's life was passed in obscurity. He may have obtained a clerkship, and certainly travelled to London on more than one occasion, where he declined the offer of a post, probably because he had a wife and children in Exeter. Ten years after his return he published at Exeter <span class="italic">A faithfull account of the religion and manners of the Mahometans, in which is a particular relation of their pilgrimage to Mecca</span> (1704). He explained in the preface:<blockquote>One thing I will desire of the <i>Learned Reader</i>, which is that if the <i>Arabick</i> words in any place be not rightly written, he will please to take notice, that I aimed at the vulgar Sound of the Word, and writ as near, as I could, to their way of speaking it. And moreover, I can't pretend to a Perfection in the Arabian language.</blockquote>Pitts was the first Englishman to record his own experiences of the pilgrimage to Mecca, a place strictly prohibited to infidels. His book also gave a detailed account of Muslim rituals, and the family life, customs, and cookery of the Turkish Algerians among whom he resided. In 1717, to his annoyance, a slipshod second edition appeared; this may have urged him to prepare his own corrected and amplified editions of 1731 and 1738, but here the London printers substituted the conventional Arabic forms for Pitts's Turkish ones. An undated will proved in 1739 and benefiting a wife, Hannah, may be his, and he may have been buried in the free cemetery at Friernhay, Exeter, for which no records survive.<br>
+<br>Pitts's account was drawn on for several collections of voyages and travels. Sir Richard Burton's <span class="italic">Pilgrimage to Al-Madinah and Meccah</span> (1855&#150;6) referred to it in detail and printed extracts (vol. 2, appx 5). The part dealing with Pitts's pilgrimage was published, with a &#145;Plan of the temple at Mecca&#146;, by the Hakluyt Society (2nd ser., 100, 1949).<br>
+<br>Anita McConnell </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22345&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; C. Radford, &#145;Joseph Pitts of Exeter (?1663&#150;?1739)&#146;, <em>Transactions of the Devonshire Society</em>, 52 (1920), 223&#150;38 &middot; W. Foster, ed., <i>The Red Sea and adjacent countries at the close of the 17th century, as described by Joseph Pitts, William Daniel, and Charles Jacques Poncet</i>, Hakluyt Society, 2nd ser., 100 (1949), ix&#150;xiii, 1&#150;49 &middot; &#145;Captivity and adventures of Joseph Pitts, an English slave in Algiers&#146;, <em>Dublin University Magazine</em>, 27 (1946), 76&#150;89, 213&#150;27<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Anita McConnell, &#145;<span class="roman"><span class="headword">Pitts,  Joseph</span>  (1663?&#150;1739?)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004; online edn, May 2010 [http://www.oxforddnb.com/view/article/22345, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  Joseph Pitts (1663?&#150;1739?): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22345 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/22345/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

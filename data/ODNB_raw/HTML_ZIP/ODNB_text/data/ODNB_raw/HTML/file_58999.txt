@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 58999;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/58/58999-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/58/58999-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=58999#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+
+<div class="para">
+<span class="headword">Saville,  (Leonard) Malcolm</span>  (1901&#150;1982), <span class="occ">children's author</span>, was born at 18 Alpine Road, Hastings, Sussex, on 21 February 1901, the son of Ernest Vivian Saville (1874&#150;1924), bookseller, and his wife, Fanny Ethel, <i>n&eacute;e</i> Hayes (1873&#150;1937). His grandparents had been Congregationalist missionaries: the initials LMS were a tribute to the London Missionary Society. After boarding at Richmond Hill School, at Richmond, Surrey, which he enjoyed, he went on to work in book sales for Oxford University Press (1917&#150;20), Cassells (1920&#150;22), Amalgamated Press (1922&#150;36), and George Newnes (1936&#150;41), which gave him a broad knowledge of children's fiction.<br>
+<br>Known as Len at home and Malcolm to his readers, Saville lived in north London before the Second World War. He married Dorothy May McCoy (1898&#150;1987), daughter of James McCoy, a schoolmaster, at the parish church, Stroud Green, on 2 June 1926. After this Saville became and remained a high church Anglican. They had four children between 1928 and 1935: Robin Prosper, Rosemary, Susan Jennifer, and Jeremy David. In 1932 the family moved to Harpenden, a small commuter town outside London, where they remained until 1950.<br>
+<br>Saville's first book was <span class="italic">Amateur Acting and Producing for Beginners</span> (1937) using the pseudonym D. J. Desmond, a name that he occasionally reused in the 1940s. Two different original dust jackets were produced, for different series. His first children's story came out in 1943, when his family evacuated to Cwm Head House near Marshbrook, Shropshire, and he remained in London on war duties. This book, <span class="italic">Mystery at Witchend</span>, dedicated to &#145;TWO Rs and TWO J's&#146; (the initials of his children) was set in a nearby house at the edge of the Long Mynd near a lone pine tree: the Lone Pine Club began here with core characters David, Petronella (&#145;Peter&#146;), twins Mary and Dickie, Tom and Jenny; Penny and Jon from Rye were added in book 3. The <span class="roman">Lone Pine series</span> of twenty books (plus a short story) ended in 1978 with <span class="italic">Home to Witchend</span>. Although Shropshire was a common Lone Pine setting, other books in the series were set elsewhere, several in Sussex but also Dartmoor, Southwold, Yorkshire, London, and elsewhere.<br>
+<br>A series written by Saville for younger children, featuring Mary and Michael, started with a public information film in 1945, <span class="italic">Trouble at Townsend</span>, in which Mary was played by Petula Clark; there were five later books and two short stories. Townsend Farm in the film was Saville's family home, Westend Farm, Wheathampstead, Harpenden, the address recorded in the book's foreword. Cornwall, Dorset, Sussex, and the Grand Union Canal were settings for later stories in the series.<br>
+<br>After four Lone Pine books the Jillies, featuring Mandy, Prue, and Tim, were introduced in three books written at speed by Saville in 1947&#150;8 with locations in Blakeney, London, and Shap in Westmorland (three more were added later, featuring Ely, Austria, and the home counties). Stories of the Buckingham family (Juliet and Simon with their friend Charles Renislau, son of a Polish pianist and composer), began in 1950 with three books. Three more were added later up to 1974: locations were Ludlow, Whitby, Brighton, London, Italy, Amsterdam, and Surrey.<br>
+<br>While writing children's books Saville worked as an editor after the Second World War with <span class="italic">My Garden</span> magazine (1946&#150;51) and <span class="italic">Sunny Stories</span> magazine (1954&#150;8), and as a general editor for George Newnes and C. Arthur Pearson (1957&#150;66). In 1950 the family moved to Guildford.<br>
+<br>Four Nettleford stories were set a few miles from Saville's Guildford home: these were gentle tales of children in their community, enjoying craft fairs and snowball fights. The final story was a holiday adventure in Swaledale. Eight Susan and Bill stories for younger readers started in the 1950s, combining housing estate life with seaside holidays on the south coast. Further house moves by Saville, to Barcombe and Lewes for example, brought new locations, the latter introducing the Brown family stories.<br>
+<br>From 1963 Saville produced a new series for older teenagers, the Marston Baines series (seven books), which took its inspiration from the first James Bond film in 1962 and featured the fight against global evil but without the sexual impropriety of Bond. Baines was a master spy whose university student friends get into some serious difficulties with terrorists, antisemites, drug dealers, black magic, and the Mafia. The locations were Tuscany, Provence, Venice, Mallorca, Brittany, the Dolomites, and Luxembourg, all inspired by family holidays. Saville declared in his letters that this was the series he wished to be remembered by; but ironically it was the only series to receive no reprint or paperback run, and reviews were mixed. Two books never resulted in series: <span class="italic">Treasure at the Mill</span> (1957) became a film; <span class="italic">The Thin Grey Man</span> (1966) became a school text.<br>
+<br>Saville also wrote non-fiction, generally on country themes. <span class="italic">Country Scrapbook</span> (1944), <span class="italic">Open-Air Scrapbook</span> (1945), and <span class="italic">Seaside Scrapbook</span> (1946) were conceived in wartime, teaching readers of the preciousness of England. He encouraged post-war outdoor pursuits and holidays, the early stories being vicarious outdoor adventures so children could learn &#145;woodcraft&#146; safely (Thompson Seton, the naturalist and promoter of the Boy Scout movement in North America, was an important influence). Later in life Saville returned to countryside books, including a partnership with the illustrator Elsie Wrigley. He wrote two religious books, <span class="italic">King of Kings</span> (1958, a life of Jesus) and <span class="italic">Strange Story</span> (1967, the crucifixion seen through the eyes of a soldier involved). He introduced children to gardening in a number of books. Most of his books for adults were written in his last decade, of which <span class="italic">Portrait of Rye</span> (1976) and <span class="italic">The Silent Hills of Shropshire</span> (1998, completed by Mark O'Hanlon) stand out.<br>
+<br>In total Saville published ninety known books (eighty-five for children, with Newnes, Lutterworth, Evans, Hodder and Stoughton, John Murray, Nelson, Heinemann, Collins, and Armada paperbacks as his major publishers) and various articles and short stories, one later published in book form. His stories typically were realistic holiday adventures featuring both boys and girls. His most popular books were republished in various editions, both hardback and paperback. His stories were set in real places and he encouraged his child readers to visit these. Some stories were translated into European languages (Dutch, French, German, Spanish, Portuguese, Norwegian, and Finnish are known) and some circulated in Australia, the USA, and Canada.<br>
+<br>A key motivation for Saville to write in the early years was financial, to pay school fees, since each of his children went to a fee-paying school. Nevertheless he found his rapidly growing competence and reputation as a writer intrinsically rewarding. He promoted his own writing, first through <span class="italic">Children's Hour</span> (his early books were serialized), through serializations in the <span class="italic">Mickey Mouse Weekly</span> and <span class="italic">Children's Newspaper</span>, two children's films (<span class="italic">Trouble at Townsend</span>, 1946, and <span class="italic">Treasure at the Mill</span>, 1957), and serialization for early commercial television (<span class="italic">The Ambermere Treasure</span>, 1955&#150;6). He encouraged readers to contact him, always answering their letters and enclosing marketing material, setting up a formal Lone Pine Club with a badge and ephemera. Nevertheless he wrote in 1973 for the magazine <span class="italic">Books for Your Children</span>: &#145;Writing can be a very lonely way of trying to earn a living.&#146;<br>
+<br>Saville's books are optimistic, with good triumphing and values of loyalty and friendship dominant. Relationships reflect the complexity of adolescent feelings without being too sentimental, though of course youthful feelings are idealized, interpreted by a middle-aged author. In stories for older children, &#145;special friends&#146; and romance are unreally depicted as enduring, culminating in engagement and marriage: the development of relationships is depicted as complex but non-sexual as was customary in books for children before the 1970s. All Saville's work was pedagogic, its main themes being teaching about good and evil, the environment, and personal relationships.<br>
+<br>Saville died in St Helen's Hospital, Hastings, Sussex, on 30 June 1982. He was survived by his wife, Dorothy, and his two sons and two daughters. His ashes were buried in the garden of remembrance at St Thomas's Church, Winchelsea.<br>
+<br>Saville turned to writing in his forties and quickly established a reputation for children's recreational reading that brought him contracts with many major publishing houses. Though following a successful formula involving adventure stories in holiday time, he stood out for both his concern for positive relationships and his vivid use of real locations. The Lone Pine books have been republished since his death, in some cases twice, but for adult enthusiasts rather than for children, in contrast to his contemporary Enid Blyton.<br>
+<br>Stephen F. Bigger </div>
+
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>S. Bigger, &#145;Malcolm Saville, writer for children: collected papers&#146;, 2010, <a target="_new" href="/public/jumpto.jsp?url=http://eprints.worc.ac.uk%2F800">eprints.worc.ac.uk/800</a>,  accessed on 10 April 2014 &middot; M. O'Hanlon, <i>The complete Lone Pine</i> (1996) &middot; M. O'Hanlon, <i>Beyond the Lone Pine</i><i>: a biography of Malcolm Saville</i> (2001) &middot; V. Turner, <i>Malcolm Saville</i><i>: a friendship remembered</i> (2010) &middot; <a target="_new" href="/public/jumpto.jsp?url=http://www.malcolmsaville.co.uk">www.malcolmsaville.co.uk</a>,  accessed on 10 April 2014 &middot; <em><i>Acksherley!</i></em> [Journal of the Malcolm Saville Society] [n.d.] &middot; census returns, 1901, 1911 &middot; b. cert. &middot; m. cert. &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>University of Worcester
+   &middot;
+ http://malcolmsavillearchive.blogspot.com<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photographs, repro. in O'Hanlon, <i>Beyond the lone pine</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Stephen F. Bigger, &#145;<span class="roman"><span class="headword">Saville,  (Leonard) Malcolm</span>  (1901&#150;1982)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, Sept 2014 [http://www.oxforddnb.com/view/article/58999, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+
+  (Leonard) Malcolm Saville (1901&#150;1982): 
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/58999 
+                <br />
+
+                
+
+
+<br>
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

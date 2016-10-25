@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 25401;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/25/25401-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/25/25401-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=25401#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<a name="image"></a>
+<div id="imagebox" style="width:200px">
+<a href="JavaScript:;" onclick="imageWin('../templates/image-pop.jsp?id=25401&amp;orientation=p')"><img border="0" alt="  William Shield (bap. 1748/9, d. 1829), by Robert Dunkarton, pubd 1788 (after John Opie, exh. RA 1787)" onmouseover="status='  William Shield (bap. 1748/9, d. 1829), by Robert Dunkarton, pubd 1788 (after John Opie, exh. RA 1787)'" src="/images/article-imgs/25/25401_1_200px.jpg"></a><span class="imagecaption"><b>  William Shield (<em>bap. </em>1748/9, <em>d.</em> 1829)</b>, by Robert Dunkarton, pubd 1788 (after John Opie, exh. RA 1787)</span>
+</div>
+<div class="para">
+<span class="headword">Shield,  William</span>  (<em>bap. </em>1748/9, <em>d.</em> 1829), <span class="occ">composer</span>, was born at Swalwell in the parish of Whickham, co. Durham, the son of William Shield (<i>d</i>. 1757), a music teacher. There appears to be no evidence documenting his birth, although there is reference to a baptism of one William Shields on 5 May 1748, and of another William Shields on 5 March 1749. If the latter, his mother's name was Mary. He was educated by his father until the elder Shield's death, when he was apprenticed to a boatbuilder named Edward Davidson (or Davison) of South (or North) Shields; but he continued his musical studies under the composer and concert organizer Charles Avison, for whom he frequently played the violin at concerts. According to his nineteenth-century biographer John Robinson, it was after one of these concerts that he was introduced to Felice Giardini, who ultimately persuaded him to become a professional musician. Fiske places this fortuitous meeting at Scarborough, to which Shield had moved on the completion of his apprenticeship. It was there, through the instrumentality of John Cunningham, the poet and actor, that he was appointed leader of the band at the theatre and conductor of the concerts. Here he encountered his earliest success as a composer by setting poems by Cunningham to music, and, at the request of Richard Trevor, bishop of Durham, he composed his earliest composition, an anthem now lost, for the consecration of St John's Church, Sunderland, on 6 April 1769. On the death of Avison in 1770 his son Edward Avison engaged Shield as leader at the Newcastle concerts and Shield also held a similar position in Durham. At this time Shield played violin extensively in concerts and theatres throughout the north-east, but concert life slackened during the construction of the new assembly rooms in Newcastle, and in 1773 he accepted Giardini's offer of the post among the violins in the orchestra of the King's Theatre in the Haymarket, London. He is not known to have resided in the north-east again, but returned to visit his mother in 1791. Shield progressed quickly to become leader of the viola section and retained this post for eighteen years. His ability to orchestrate and compose for theatre was learned primarily through his experience playing in this and other metropolitan operatic orchestras. In London, Shield met Ann Stokes, of Marylebone, described in his will in 1826 as his &#145;beloved partner, Ann, Mrs Shield, upwards of forty years&#146;  (Robinson, 13&#150;14). The probate record describes her as &#145;Ann Stokes, alias Shield, spinster&#146;  (Robinson, 13); it is not clear whether they married.<br>
+<br>Shield is known to have composed, or contributed music towards at least thirty-six operas and seven pantomimes and pantomime ballets. In addition to these he produced three song collections and published several of his most popular theatre songs independently. His work outside theatre music is relatively modest, including a small number of duets, string quartets, and string trios.<br>
+<br>Shield's first operatic venture was the music to <span class="italic">Flitch of Bacon</span>, a comic opera by Henry Bate, afterwards Sir Henry Bate Dudley. It was produced by George Colman at the Haymarket Theatre in 1778 and shows enormous ingenuity in orchestration. Shield subsequently produced two works in rapid succession: <span class="italic">The Cobbler of Casterbury</span> (1779) and <span class="italic">The Siege of Gibraltar</span> (1780), both for Covent Garden, but neither an unmitigated success. In 1782, however, Shield produced <span class="italic">Rosina</span>, and through its success Shield was appointed house composer at Covent Garden. <span class="italic">Rosina</span> is set in the north of England, inspiring Shield to end its overture with a tune reminiscent of bagpipes. This tune became much better known as the music to &#145;Auld Lang Syne&#146; by Robert Burns, whose &#145;Comin' thro' the rye&#146; was also set to Shield's music. The two never met. Although Shield's operas were produced mostly in vocal score and libretto, <span class="italic">Rosina</span> is the only one to survive in orchestral parts, and for this reason it is especially significant in assessing Shield's ability to orchestrate for theatre. Such was the extent of Shield's success that in 1791 he entertained Haydn, among others, in his home in Taplow. It was presumably then, as a gesture of mutual respect, that Haydn presented him with his trio <span class="italic">Piet&agrave; di me</span>, complete with concertante parts for English horn, bassoon, and horn. In August 1792 he resigned his office at Covent Garden owing to a financial disagreement, and went to France and Italy with Joseph Ritson, the antiquary. On his return a few months later he was immediately reinstated, but resigned in 1797 and dissolved all connection with the theatre ten years later. In 1793 he, Charles Incledon, Bannister the elder, and others formed the once famous Glee Club; he was also an original member of the Philharmonic Society. The time that Shield had gained by reducing his theatre commitments may have been directed towards writing. In 1800 he published <span class="italic">An Introduction to Harmony</span>, which was followed in 1817 by <span class="italic">The Rudiments of Thorough Bass</span>, designed as a teaching aid; in it Shield took the opportunity to publish several of the folk-songs he had learned as a child.<br>
+<br>On the death of Sir William Parsons in 1817 Shield became master of musicians in ordinary to the king. Shield died at his home, 31 Berners Street, London, on 25 January 1829, and was buried on 4 February in the south cloister of Westminster Abbey, in the same grave as Johann Peter Salomon and Muzio Clementi. He left his fine Stainer viola to George IV who, however, insisted on paying Ann Stokes its full value. On 19 October 1891 a memorial cross to Shield was erected by public subscription, supported by the newspaper publisher Joseph Cowen, in Whickham churchyard, and on 25 January 1892 a memorial stone was placed over his grave in Westminster Abbey.<br>
+<br>R. H. Legge<span class="italic">, rev. </span> Bennett Mitchell Zon </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. Fiske, &#145;Shield, William&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=New%20Grove')"><i>New Grove</i></a> &middot; J. Robinson, <i>Memorial to William Shield, musician and composer with a sketch of the life of Shield</i> (1891) &middot; J. L. Chester, ed., <i>The marriage, baptismal and burial registers of the collegiate church or abbey of St Peter, Westminster</i>, Harleian Society, reg. ser. 10 (1876), 502 &middot; parish register, Whickham, St Mary, March 1696&#150;1751, Durham RO, EP/WHM3 [baptism] &middot; A. P. Stanley, <i>Historical memorials of Westminster Abbey</i>, 3rd edn (1869), 339 &middot; <em>Annual Biography and Obituary</em>, 14 (1830) &middot; <em>Quarterly Musical Magazine and Review</em>, 10 (1828), 273&#150;4 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=MT')"><i>MT</i></a>, 32 (1891), 654 &middot; W. T. Parke, <i>Musical memoirs</i>, 2 vols. (1830) &middot; &#145;Memoir of William Shield&#146;, <em>The Harmonicon</em>, 7 (1829), 49&#150;52 &middot; <em>The Times</em> (15 Dec 1998)<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> R. Dunkarton, mezzotint, pubd 1788 (after J. Opie, exh. RA 1787), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> [<i>see illus.</i>] &middot; T. Hardy, stipple, pubd 1796, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a> &middot; G. Dance, pencil drawing, 1798, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=NPG')">NPG</a> &middot; J. Jackson, watercolour drawing, <i>c.</i>1822, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=NPG')">NPG</a> &middot; W. Brockedon, pencil and chalk drawing, 1826, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=NPG')">NPG</a> &middot; attrib. T. Hardy, oils, Royal College of Music, London &middot; T. Woolnoth, stipple (after J. Jackson), <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=BM')">BM</a>, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=25401&amp;istheme=&amp;target=NPGNational%20Portrait%20Gallery%2C%20London')">NPG</a>; repro. in <i>The British gallery of contemporary portraits</i> (1822)<br>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">R. H. Legge, &#145;<span class="roman"><span class="headword">Shield,  William</span>  (<em>bap. </em>1748/9, <em>d.</em> 1829)</span>&#146;, rev. Bennett Mitchell Zon, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004; online edn, May 2006 [http://www.oxforddnb.com/view/article/25401, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Shield (<em>bap. </em>1748/9, <em>d.</em> 1829): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/25401 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+              <p>
+                <i><a target="_top" href="/view/previous/25401/2004-09"> [Previous version of this biography available here: September 2004]</a></i>
+              </p>
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

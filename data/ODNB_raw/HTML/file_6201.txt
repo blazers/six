@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 6201;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/6/6201-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/6/6201-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=6201#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Cooley,  William Desborough</span>  (1795?&#150;1883), <span class="occ">geographer and controversialist</span>, was probably born on 16 March 1795 in Dublin, the son of William Cooley (<i>b</i>. 1772/3), a Dublin barrister, and grandson of the architect <script>writeSeealsoLink('../view/article/6200/', "Thomas Cooley")</script>. Educated privately and then from 1811 to 1816 at Trinity College, Dublin, he developed an interest in the history of discovery, physical geography and surveying, and the mathematics which went with it, the last interest leading to later publications on Euclid.<br>
+<br>Cooley's life from 1816 to the early 1830s is obscure, but he then emerged on the London literary scene as an editorial associate on <span class="italic">The Athenaeum</span>, a writer for the <span class="italic">Foreign Quarterly Review</span> who had revealed the false claims of J. B. Douville to discoveries in Angola, and the author of a <span class="italic">History of Maritime and Inland Discovery</span> in 1830&#150;31 which remained standard for about forty years. He offered his services to the <span class="italic">Edinburgh Review</span> as a controversial writer on Irish subjects but the editor restricted him to geographical and African subjects on which he contributed eleven major reviews in three years. One of these, in 1835, revealed the existence of the then unknown Lake Tanganyika and distinguished what later became known as the Bantu and their languages. At this time Cooley was in contact with W. F. W. Owen and J. B. Emery, who had surveyed east Africa's coasts, and with two visiting Arab traders and their African servants who knew the interior. Collating their information with what little was available from Portuguese sources and from ancient authorities and then &#145;rectifying&#146; it all, Cooley built up a picture of east Africa's geography which was set out in a major article with a map for the <span class="italic">Journal of the Royal Geographical Society</span> in 1845 and elaborated in a book, <span class="italic">Inner Africa Laid Open</span>, in 1852. Practical exploration now began to show that some of the details were wrong but Cooley became notorious for refusing to accept travellers' findings. He denied, for example, that there was snow on the summits of Kilimanjaro and Mount Kenya (though he had revealed the existence of these mountains) and he insisted that lakes Tanganyika and Malawi were connected as one water. When Livingstone mentioned particular Ngoni peoples, he said they did not exist. Perhaps demolishing Douville's claims had given Cooley too much of a taste for contradicting explorers, while his Irish background and combative temperament set him at odds with the English geographical establishment. More serious was his failure to realize that history moves on: for example, locations of peoples correctly deduced from sixteenth-century sources were no longer necessarily correct. In the end, his stubbornly held views made his geography absurd.<br>
+<br>The problem was compounded by Cooley's relationship with the Royal Geographical Society. A member from its origin in 1830, he was elected to the council in 1832 and became a vice-president in 1835. He used his position to try to organize some exploring expeditions but none came to full fruition. He blamed the society and also accused the secretary, Alexander Maconochie, of mishandling the subscriptions&#151;a grievance which still rankled forty years later. Cooley had to resign from his offices. Although he continued freely, and not altogether unjustifiably, to criticize the society in its years of prosperity for using the popularity of the great explorers to increase its fashionable appeal, he was given free membership and, at its instance, a &pound;100 civil-list pension in 1859. Meanwhile, a stream of articles in <span class="italic">The Athenaeum</span> and other periodicals commented learnedly, forcefully, and not always mistakenly on the work of explorers in Africa and elsewhere.<br>
+<br>Foremost among Cooley's positive achievements was the formation in 1846 of what he originally proposed to call the Columbus Society&#151;a body which would make available to its subscribers in printed form records of important voyages and travels of the past. The idea arose partly out of Cooley's displeasure at the Royal Geographical Society's failure to act in this area and his own failure to make much of a success of a publication series entitled <span class="roman">The World Surveyed</span>. Renamed the Hakluyt Society, with Cooley as its first secretary and the editor of one of its earliest publications, the new body soon established itself as one of the country's major text-publishing learned societies and has flourished ever since. Increasing deafness and the pressure of other work led Cooley to resign the secretaryship in 1849, but he continued on the council until 1859.<br>
+<br>It is a pity that the promising concepts which bore fruit in Cooley's <span class="italic">Physical Geography</span> of 1876 were not developed further. His other achievements may be said to be his attempts to bring rigour into what passed for geography in Britain in the mid-century. He was not wrong to criticize Livingstone's misreading of Herodotus which led to delusions about the &#145;fountains of the Nile&#146;. Nor was he wrong in his <span class="italic">Claudius Ptolemy</span> of 1854 to question the credulous acceptance of ideas like the &#145;mountains of the moon&#146; on the alleged authority of Ptolemy. Cooley did useful work on Somaliland and its history and on Arabic source materials for west Africa. His ideas on Africa, however misplaced some of them were, raised awareness and promoted serious study of the continent and its peoples. The information he acquired for his &#145;discoveries&#146; of the 1830s and 1840s has remained useful evidence for historians of Africa.<br>
+<br>Having lived for many years in comparative poverty, Cooley died of bronchitis on 1 March 1883, at 55 Crowndale Road, Somers Town, London. He is thought to have been unmarried.<br>
+<br>Roy Bridges </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>R. C. Bridges, &#145;W. D. Cooley, the RGS and African geography in the nineteenth century&#146;, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6201&amp;istheme=&amp;target=GJ')"><i>GJ</i></a>, 142 (1976), 27&#150;47, 274&#150;86 [incl. bibliography] &middot; R. C. Bridges, &#145;William Desborough Cooley and the foundation of the Hakluyt Society&#146;, <i>Compassing the vaste globe of the earth</i><i>: studies in the history of the Hakluyt Society, 1846&#150;1996</i>, ed. R. C. Bridges and P. E. H. Hair, Hakluyt Society, 183 (1996), 51&#150;78 &middot; <em>The Athenaeum</em> (10 March 1883), 315 &middot; <em>Proceedings</em> [Royal Geographical Society], new ser., 5 (1883), 232&#150;3 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6201&amp;istheme=&amp;target=DNB')"><i>DNB</i></a> &middot; W. D. Foster, &#145;The Hakluyt Society, 1846&#150;1946: a retrospect&#146;, <i>Richard Hakluyt and his successors</i>, ed. E. Lynam, Hakluyt Society, 2nd ser., 93 (1946), 141&#150;70 &middot; d. cert.<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>
+<a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6201&amp;istheme=&amp;target=RGS')">RGS</a>, notes on African travel&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6201&amp;istheme=&amp;target=BL')">BL</a>, letters from Heinrich Barth, Add. MS 32117
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6201&amp;istheme=&amp;target=BL')">BL</a>, letters to Macvey Napier, Add. MSS 34616&#150;34619
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6201&amp;istheme=&amp;target=RGS')">RGS</a>, letters to Royal Geographical Society<p></p>
+<p></p>
+<br>
+</p>
+<h2>Likenesses &nbsp;</h2>
+<p> photograph, <i>c.</i>1850, <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=6201&amp;istheme=&amp;target=RGS')">RGS</a>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> &pound;1078 8<i>s</i>. 9<i>d</i>. in England: Irish probate sealed in England, 16 April 1883, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">Roy Bridges, &#145;<span class="roman"><span class="headword">Cooley,  William Desborough</span>  (1795?&#150;1883)</span>&#146;, <i>Oxford Dictionary of National Biography</i>, Oxford University Press,  2004 [http://www.oxforddnb.com/view/article/6201, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  William Desborough Cooley (1795?&#150;1883): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/6201 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

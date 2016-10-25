@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <title>Oxford DNB</title>
+    <style type="text/css" media="screen">@import "../css/article.css";</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="http://oi-underbar.oup.com/underbar/css/pf_oiunderbar.css">
+    <script language="JavaScript" type="text/JavaScript" src="../js/popwin.js"></script>
+    <script language="JavaScript" type="text/JavaScript" src="../js/article.js"></script>
+    <script>
+      
+      function generateBackstack() {
+      var article_id = 22112;
+      var back = getQueryVariable('back'); 
+      return('?back=' + back + ',' + article_id);
+      }
+
+      function goSubHead(subhead) {
+         if(top.location.href.indexOf('/view/article/') != -1) {
+           /* This is a static page */
+           top.main.location.href= '../articles/22/22112-article.html#' + subhead;
+          }
+         else if (top.location.href.indexOf('/browse/getalife/') != -1) {
+           /* This is Get a Life */
+           top.main.location.href= '../articles/22/22112-article.html#' + subhead;
+         }
+         else {
+           /* This is dynamic */
+           top.main.location.href= 'articleHL.jsp?articleid=22112#' + subhead;
+         }
+       } 
+      
+      
+    </script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-noconflict-1.7.2.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/jcarousellite.js" type="text/javascript"></script>
+    <script src="http://oi-underbar.oup.com/underbar/js/pf_oiunderbarinit.js" type="text/javascript"></script>
+    <script>
+	function initUnderbar() {
+		var underbarHeadword = $j('.headword').first();
+		var searchTerm = '%22'+(encodeURIComponent(underbarHeadword.length > 0 ? underbarHeadword.text() : '').replace(/%20+(?=%20)/g,'').replace(/%20/g, '+'))+'%22';
+		PF_initOIUnderbar(':QS:'+searchTerm,':QS:default','','productId');
+		PF_insertOIUnderbar(0);
+	}
+    </script>
+	<script>
+	    var oupcookiepolicy_siteid = 'odnb';	  		// the website id	
+	    var oupcookiepolicy_messagetype = 'implied';			// type of alert message e.g, implied / explicit
+	    var oupcookiepolicy_preferredlanguage = 'en';			// preferred language of the website
+	    var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+	    var oupcookiepolicy_documentroot='/';	  			// the document root the cookie is set to
+	</script>
+	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oupcookiepolicy.fancybox.js"></script>	
+	<script type="text/javascript" src="http://gab.cookie.oup.com/aws-cookie/oup.cookiepolicy.pack.js"> </script>
+	<link rel="stylesheet" href="http://gab.cookie.oup.com/aws-cookie/jquery.fancybox-1.3.4_1.css" type="text/css" media="screen" /> 
+	<noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="http://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+  </head>
+  <body onLoad="init();self.focus();initUnderbar();">
+    
+    <div id="contentarea">
+      <a name="top"></a> 
+
+      
+      
+
+<div class="para">
+<span class="headword">Philippart,  John</span>  (<em>c.</em>1784&#150;1875), <span class="occ">military writer</span>, born in London, was educated at a military academy, and then placed in the office of a Scottish solicitor. He was, however, more interested in military matters. In 1809 he became private secretary to John Baker Holroyd, first Baron Sheffield and afterwards first earl of Sheffield, president of the board of agriculture, but two years later he was able to secure an appointment as a clerk in the War Office. He proposed, in pamphlets issued in 1812 and 1813, the establishment of a benefit fund for officers, an idea suggested by Colonel D. Roberts. The scheme was supported by some senior officers, but it failed owing to ministers' fears that it might weaken discipline. Philippart also suggested, in a further pamphlet, a plan for making the militia more readily available for foreign service, and part of his plan was adopted by Lord Castlereagh. Philippart was one of the members of the order of the hospital of St John of Jerusalem, or knights hospitaller, who revived the English <i>langue</i>. He was elected a knight of St John of Jerusalem on 11 November 1830, chevalier of justice in 1831, and bailiff <i>ad honores</i> in 1847. He was chancellor of the order for forty-three years, and outlived all the knights who had revived the English <i>langue</i> except the Chevalier Philippe de Chastelain. His interest in the traditional duties of a knight hospitaller induced him to help found in 1856 the West London Hospital (originally called the Fulham and Hammersmith General Dispensary). He was its honorary treasurer from 1856 to 1861, and an active member of the committee until his death. He was created a knight of the Swedish orders of Gustavus Vasa and of the Polar Star of Sweden in 1832 and was a member of the Royal Irish Academy.<br>
+<br>Philippart was a prolific compiler of pamphlets and books of reference relating to the British army. From October 1812 to September 1814 he owned and edited a journal, <span class="italic">The Military Panorama</span>. His publications included <span class="italic">Northern Campaigns, from &hellip; 1812 &hellip; June 4, 1813</span> (2 vols., 1813), <span class="italic">The royal military calendar, containing the services of every general officer &hellip; in the British army &hellip; and accounts of the operations of the army under Lieut.-Gen. Sir John Murray on the eastern coast of Spain in 1812&#150;13</span> (3 vols., 1815&#150;16), and <span class="italic">The East India Military Calendar</span> (1823). Philippart died at his residence, College House, Church Lane, Hammersmith, on 8 May 1875, survived by his daughter.<br>
+<br>B. H. Soulsby<span class="italic">, rev. </span> James Falkner </div>
+
+<div id="references">
+<h2>Sources &nbsp;</h2>
+<p>[J. Watkins and F. Shoberl], <i>A biographical dictionary of the living authors of Great Britain and Ireland</i> (1816) &middot; War Office records &middot; A. Zammit Gabarretta and J. Mizzi, eds., <i>Catalogue of the records of the order of St. John of Jerusalem in the Royal Malta Library</i>, 1 (1964), 1&#150;72 &middot; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22112&amp;istheme=&amp;target=Boase%2C%20Mod.%20Eng.%20biog.')">Boase, <i>Mod. Eng. biog.</i></a>
+<br>
+</p>
+<h2>Archives &nbsp;</h2>
+<p>Hammersmith and Fulham Archives and Local History Centre, corresp. and papers
+   &middot;
+ <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22112&amp;istheme=&amp;target=U.%20Edin.%20L.')">U. Edin. L.</a>, corresp.&nbsp;|&nbsp; <a href="javascript:;" onclick="abbrWin('../../templates/framesets/abbr.jsp?articleid=22112&amp;istheme=&amp;target=W.%20Sussex%20RO')">W. Sussex RO</a>, letters to duke of Richmond<p></p>
+<p></p>
+<br>
+</p>
+<h2>Wealth at death &nbsp;</h2>
+<p> under &pound;10,000: probate, 19 July 1875, <i>CGPLA Eng. &amp; Wales</i>
+<br>
+</p>
+</div>
+
+
+
+
+
+
+    </div>
+
+      
+
+    
+    <div id="copyright">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	  <td valign="top" width="70%"><a href="/oxforddnb/legal/" target="_blank" class="b">© Oxford University Press 2004–16</a><br />
+	  All rights reserved: see <a href="/oxforddnb/legal/" target="_blank">legal notice</a></td>
+	  <td align="right" valign="top"><a href="http://www.oup.com/" target="_top"><img src="/images/footerlogo.gif" width="81" height="29" alt="Oxford University Press" border="0" /></a></td>
+	</tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr>
+	  <td> 
+            <p class="leftpad" id="fulltext_link">B. H. Soulsby, &#145;<span class="roman"><span class="headword">Philippart,  John</span>  (<em>c.</em>1784&#150;1875)</span>&#146;, rev. James Falkner, <i>Oxford Dictionary of National Biography</i>, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/22112, accessed <script type="text/javascript">document.write(printCitationDate());</script>]</p>
+
+
+            
+            
+              
+              <p>
+                
+
+  John Philippart (<em>c.</em>1784&#150;1875): 
+
+
+
+
+
+
+
+                doi:10.1093/ref:odnb/22112 
+                <br />
+
+                
+
+<br>
+
+
+
+
+
+
+
+              </p>
+            
+
+            
+            
+             
+	    <p><a href="#top" class="b">Back to top of biography</a></p>
+
+	  </td>
+	  <td align="right" valign="bottom"><a href="javascript:creditWin();">Site credits</a></td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>
